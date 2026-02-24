@@ -1,4 +1,4 @@
-# CorpHome - A sample project
+# CorpHome
 
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://gitlab.aiursoft.com/aiursoft/corpHome/-/blob/master/LICENSE)
 [![Pipeline stat](https://gitlab.aiursoft.com/aiursoft/corpHome/badges/master/pipeline.svg)](https://gitlab.aiursoft.com/aiursoft/corpHome/-/pipelines)
@@ -7,24 +7,11 @@
 [![Website](https://img.shields.io/website?url=https%3A%2F%2FcorpHome.aiursoft.com)](https://corpHome.aiursoft.com)
 [![Docker](https://img.shields.io/docker/pulls/aiursoft/corpHome.svg)](https://hub.docker.com/r/aiursoft/corpHome)
 
-CorpHome is a sample project.
+CorpHome is Aiursoft's official website homepage.
 
 ![screenshot](./screenshot.png)
 
 Default user name is `admin@default.com` and default password is `admin123`.
-
-## Projects using Aiursoft CorpHome
-
-* [Stathub](https://gitlab.aiursoft.com/aiursoft/stathub)
-* [MarkToHtml](https://gitlab.aiursoft.com/aiursoft/marktohtml)
-* [MusicTools](https://gitlab.aiursoft.com/aiursoft/musictools)
-* [AnduinOS Home](https://gitlab.aiursoft.com/anduin/AnduinOS-Home)
-* [Manhours](https://gitlab.aiursoft.com/aiursoft/manhours)
-* [Tracer](https://gitlab.aiursoft.com/aiursoft/tracer)
-* [Warp](https://gitlab.aiursoft.com/aiursoft/warp)
-* [AiurDrive](https://gitlab.aiursoft.com/aiursoft/aiurdrive)
-* [EmployeeCenter](https://gitlab.aiursoft.com/aiursoft/employeecenter)
-* [GitMirrorServer](https://gitlab.aiursoft.com/aiursoft/gitmirrorserver)
 
 ## Try
 
