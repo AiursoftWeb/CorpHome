@@ -175,3 +175,108 @@
     line-height: 1.2;
     margin-top: 4px;
 }
+
+/* =========================================
+   Microservices Hub Diagram
+   ========================================= */
+
+.diagram-container {
+    position: relative;
+    width: 100%;
+    max-width: 1000px;
+    aspect-ratio: 2 / 1;
+    margin: 0 auto;
+}
+
+.diagram-container .bg-lines {
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    z-index: 1;
+}
+
+.diagram-container .line-path {
+    fill: none;
+    stroke: rgba(255, 255, 255, 0.15);
+    stroke-width: 1.5;
+}
+
+.diagram-container .line-dot {
+    fill: #252525;
+    stroke: rgba(255, 255, 255, 0.3);
+    stroke-width: 1.5;
+}
+
+.diagram-container .node-base {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    z-index: 10;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.diagram-container .node-center {
+    left: 50%; top: 50%;
+    width: 80px; height: 80px;
+    background-color: #1a1a1a;
+    border: 2px solid var(--bs-primary);
+    border-radius: 50%;
+    box-shadow: 0 0 40px rgba(59, 130, 246, 0.5), inset 0 0 20px rgba(59, 130, 246, 0.3);
+    animation: hub-pulse 3s infinite alternate;
+    overflow: hidden;
+}
+
+.diagram-container .node-center img {
+    width: 70%;
+    height: 70%;
+    object-fit: contain;
+}
+
+@keyframes hub-pulse {
+    0%   { box-shadow: 0 0 30px rgba(59, 130, 246, 0.4), inset 0 0 15px rgba(59, 130, 246, 0.2); }
+    100% { box-shadow: 0 0 50px rgba(59, 130, 246, 0.7), inset 0 0 25px rgba(59, 130, 246, 0.4); }
+}
+
+.diagram-container .node-icon {
+    width: 52px; height: 52px;
+    background-color: #1a1a1a;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 10px;
+    transition: all 0.3s ease;
+    cursor: pointer;
+    overflow: hidden;
+    padding: 6px;
+}
+
+.diagram-container .node-icon img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.diagram-container .node-icon:hover {
+    border-color: var(--bs-primary);
+    box-shadow: 0 0 15px rgba(59, 130, 246, 0.3);
+    transform: translate(-50%, -50%) scale(1.1);
+}
+
+.diagram-container .node-label {
+    position: absolute;
+    white-space: nowrap;
+    font-size: 0.7rem;
+    font-weight: 600;
+    color: #94a3b8;
+    pointer-events: none;
+    letter-spacing: 0.02em;
+}
+
+/* Responsive: hide SVG diagram on small screens, show icon grid instead */
+@media (max-width: 767px) {
+    .diagram-container { display: none; }
+    .diagram-mobile-fallback { display: flex !important; }
+}
+
+@media (min-width: 768px) {
+    .diagram-mobile-fallback { display: none !important; }
+}
