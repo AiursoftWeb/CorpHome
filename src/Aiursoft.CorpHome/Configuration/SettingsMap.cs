@@ -10,8 +10,6 @@ public class SettingsMap
     public const string ProjectLogo = "ProjectLogo";
     public const string AllowUserAdjustNickname = "Allow_User_Adjust_Nickname";
     public const string Icp = "Icp";
-    public const string DummyNumber = "DummyNumber";
-    public const string DummyChoice = "DummyChoice";
 
     public class FakeLocalizer
     {
