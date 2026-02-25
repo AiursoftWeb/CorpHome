@@ -15,40 +15,47 @@
     <div class="hero-mountains-container position-absolute bottom-0 start-0 w-100 h-100 pointer-events-none" style="z-index: 0;">
         <svg class="mountain-hero-bg w-100 h-100" viewBox="0 0 1920 800" preserveAspectRatio="xMidYMax slice" xmlns="http://www.w3.org/2000/svg">
             <defs>
-                @* Darkest shadow base (Rear mountains) *@
-                <linearGradient id="darkBaseGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-                    <stop offset="0%" stop-color="rgba(13, 70, 180, 0.4)" />
-                    <stop offset="100%" stop-color="rgba(13, 70, 180, 0)" />
+                @* 1. 远景山（最暗）- 底部严格渐变到 #161a27 *@
+                <linearGradient id="mnt-back" x1="0%" y1="0%" x2="0%" y2="100%">
+                    <stop offset="0%" stop-color="#0a2a66" />
+                    <stop offset="100%" stop-color="#161a27" />
                 </linearGradient>
 
-                @* Medium tone (Mid-ground peaks) *@
-                <linearGradient id="midToneGrad" x1="0%" y1="0%" x2="100%" y2="30%">
-                     <stop offset="0%" stop-color="rgba(20, 100, 220, 0.6)" />
-                     <stop offset="100%" stop-color="rgba(10, 40, 100, 0.1)" />
+                @* 2. 中景山暗面（左侧背光面）- 底部严格渐变到 #161a27 *@
+                <linearGradient id="mnt-mid-dark" x1="0%" y1="0%" x2="0%" y2="100%">
+                     <stop offset="0%" stop-color="#0f4bbb" />
+                     <stop offset="100%" stop-color="#161a27" />
                 </linearGradient>
                 
-                @* Highlight faces (The brightest parts catching light) *@
-                <linearGradient id="highlightGrad" x1="50%" y1="0%" x2="50%" y2="100%">
-                    <stop offset="0%" stop-color="rgba(60, 150, 255, 0.5)" />
-                    <stop offset="80%" stop-color="rgba(60, 150, 255, 0)" />
+                @* 3. 中景山亮面（右侧受光面）- 底部严格渐变到 #161a27 *@
+                <linearGradient id="mnt-mid-light" x1="0%" y1="0%" x2="0%" y2="100%">
+                    <stop offset="0%" stop-color="#2a75ff" />
+                    <stop offset="100%" stop-color="#161a27" />
                 </linearGradient>
             </defs>
 
-            @* Group 1: Background/Far Left Mountains (Darker, Lower) *@
+            @* --- 所有的 opacity 和 mix-blend-mode 均已删除，保证色彩纯度 --- *@
+
+            @* 远处的群山基底 *@
             <g class="mountain-layer layer-back">
-                 <path d="M -100 800 L 400 400 L 900 800 Z" fill="url(#darkBaseGrad)" />
-                 <path d="M 200 800 L 700 300 L 1200 800 Z" fill="url(#darkBaseGrad)" opacity="0.7" />
+                 <path d="M -100 800 L 350 550 L 800 800 Z" fill="url(#mnt-back)" />
+                 <path d="M 200 800 L 650 480 L 1100 800 Z" fill="url(#mnt-back)" />
             </g>
 
-            @* Group 2: Main Right Peaks (Higher, brighter) *@
+            @* 主山脉 - 左侧背光面 *@
             <g class="mountain-layer layer-mid">
-                <path d="M 800 800 L 1400 100 L 2000 800 Z" fill="url(#midToneGrad)" />
-                <path d="M 600 800 L 1100 250 L 1600 800 Z" fill="url(#midToneGrad)" opacity="0.5" style="mix-blend-mode: overlay;" />
+                @* 较低的主峰 *@
+                <path d="M 500 800 L 1050 500 L 1600 800 Z" fill="url(#mnt-mid-dark)" />
+                @* 右侧最高峰 (顶点在 y=380, 约占容器 45% 高度) *@
+                <path d="M 800 800 L 1400 380 L 2000 800 Z" fill="url(#mnt-mid-dark)" />
             </g>
 
-            @* Group 3: Highlights/Edges (Defining the geometry) - Left light removed *@
+            @* 主山脉 - 右侧受光面 (形成 Low-Poly 几何棱角) *@
             <g class="mountain-layer layer-front">
-                <path d="M 1400 100 L 1300 800 L 1600 800 Z" fill="url(#highlightGrad)" style="mix-blend-mode: soft-light;" />
+                @* 较低主峰的右侧亮面 *@
+                <path d="M 1050 500 L 1000 800 L 1600 800 Z" fill="url(#mnt-mid-light)" />
+                @* 右侧最高峰的右侧亮面 *@
+                <path d="M 1400 380 L 1320 800 L 2000 800 Z" fill="url(#mnt-mid-light)" />
             </g>
         </svg>
     </div>
@@ -73,7 +80,7 @@
                 </div>
             </div>
             <div class="col-lg-5 d-none d-lg-block">
-                @* Empty space for the right mountains *@
+                @* 留白给右侧最高的山峰 *@
             </div>
         </div>
     </div>

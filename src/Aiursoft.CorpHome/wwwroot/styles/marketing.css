@@ -414,7 +414,7 @@
    Section 1 Hero: Geometric Mountain Background
    ========================================= */
 
-/* 容器定位 */
+/* The container holding the SVG positioned at the bottom */
 .hero-mountains-container {
     top: auto; 
     bottom: 0;
@@ -423,15 +423,17 @@
     z-index: 0;
 }
 
-/* SVG 动画与基础状态 */
+/* The SVG itself */
 .mountain-hero-bg {
+    /* Initial state: hidden below the fold and slightly squashed */
     transform: translateY(100%) scaleY(0.8);
     transform-origin: bottom center;
     opacity: 0;
+    /* The animation definition */
     animation: foldUpMountains 3.5s cubic-bezier(0.22, 0.61, 0.36, 1) forwards;
 }
 
-/* 缓慢折叠升起动画 */
+/* Keyframes for the slow folding/rising effect */
 @keyframes foldUpMountains {
     0% {
         opacity: 0;
@@ -445,32 +447,39 @@
     }
 }
 
-/* 鼠标悬停微动视差 */
+/* Hover perspective shift */
 .landing-intro:hover .mountain-hero-bg {
-    /* Subtle shift when mouse moves over the section */
     transform: translateY(2%) scale(1.01);
     transition: transform 1s ease-out;
 }
 
-/* 文本区域 padding 调整 */
+/* Adjusting the text container padding */
 .landing-intro-content {
-    /* Ensure ample padding so text doesn't hit the bottom mountains on short screens */
-    padding-bottom: 15vh; 
+    /* padding-bottom: 15vh;  <- 移除这个，因为山低了，文字不需要避让那么多了 */
 }
 
-/* --- 核心：背景无缝融合 --- */
+/* --- 核心修改：背景天空与无缝融合 --- */
 .landing-intro.text-bg-dark {
+    /* 设置一个兜底背景色 */
     background-color: #161a27 !important; 
-    /* 从顶部的暗蓝天空，渐变到底部的 #161a27，与第二章无缝衔接 */
-    background: linear-gradient(to bottom, #0b1020 0%, #121624 50%, #161a27 100%) !important;
+    
+    /* 创建一个垂直线性渐变作为“天空”背景。
+       顶部：深邃的天空蓝 (#0c1220)
+       中间：过渡色 (#121726)
+       底部：精确过渡到下一章节的背景色 (#161a27)
+       由于山体 SVG 的底部是透明的，它们会自然地融入这个渐变的底部。
+    */
+    background: linear-gradient(to bottom, #0c1220 0%, #050505 60%, #060a07 100%) !important
 }
 
 /* --- 移动端优化 --- */
 @media (max-width: 767px) {
     .hero-mountains-container {
+        /* 在手机上可以让山稍微高一点点，更有气势，85%左右 */
         height: 85% !important;
     }
+    /* 手机上可能需要一点底部边距来平衡 */
     .landing-intro-content {
-        padding-bottom: 20vh;
+         padding-bottom: 10vh;
     }
 }
