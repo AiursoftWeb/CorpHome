@@ -414,28 +414,24 @@
    Section 1 Hero: Geometric Mountain Background
    ========================================= */
 
-/* The container holding the SVG positioned at the bottom */
+/* 容器定位 */
 .hero-mountains-container {
-    /* Ensure it doesn't overlap navbar if header is short */
     top: auto; 
     bottom: 0;
-    /* Optional: add a subtle blur to the whole mountain range for depth */
-    /* filter: blur(1px); */
+    height: 100%; 
+    pointer-events: none;
+    z-index: 0;
 }
 
-/* The SVG itself */
+/* SVG 动画与基础状态 */
 .mountain-hero-bg {
-    /* Initial state: hidden below the fold and slightly squashed */
     transform: translateY(100%) scaleY(0.8);
     transform-origin: bottom center;
     opacity: 0;
-    /* The animation definition: name, duration, easing, fill-mode */
     animation: foldUpMountains 3.5s cubic-bezier(0.22, 0.61, 0.36, 1) forwards;
-    /* Optional delay if you want text to load first */
-    /* animation-delay: 0.3s; */
 }
 
-/* Keyframes for the slow folding/rising effect */
+/* 缓慢折叠升起动画 */
 @keyframes foldUpMountains {
     0% {
         opacity: 0;
@@ -449,24 +445,32 @@
     }
 }
 
-/* Optional: Parallax effect on scroll (Advanced, requires JS usually, 
-   but we can do a simple perspective shift on hover for now) */
+/* 鼠标悬停微动视差 */
 .landing-intro:hover .mountain-hero-bg {
     /* Subtle shift when mouse moves over the section */
     transform: translateY(2%) scale(1.01);
     transition: transform 1s ease-out;
 }
 
-/* Adjusting the text container to ensure it sits above the mountains visually */
+/* 文本区域 padding 调整 */
 .landing-intro-content {
     /* Ensure ample padding so text doesn't hit the bottom mountains on short screens */
     padding-bottom: 15vh; 
 }
 
-/* Ensure the section background is dark enough to blend */
+/* --- 核心：背景无缝融合 --- */
 .landing-intro.text-bg-dark {
-    /* Match the dark blue/black tone of your site */
-    background-color: #0b0d13 !important; 
-    /* Optional subtle gradient for the sky */
-    background-image: radial-gradient(circle at 30% 30%, rgba(20, 30, 50, 1) 0%, #0b0d13 70%);
+    background-color: #161a27 !important; 
+    /* 从顶部的暗蓝天空，渐变到底部的 #161a27，与第二章无缝衔接 */
+    background: linear-gradient(to bottom, #0b1020 0%, #121624 50%, #161a27 100%) !important;
+}
+
+/* --- 移动端优化 --- */
+@media (max-width: 767px) {
+    .hero-mountains-container {
+        height: 85% !important;
+    }
+    .landing-intro-content {
+        padding-bottom: 20vh;
+    }
 }
