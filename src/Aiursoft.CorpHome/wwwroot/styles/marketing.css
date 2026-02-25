@@ -280,3 +280,193 @@
 @media (min-width: 768px) {
     .diagram-mobile-fallback { display: none !important; }
 }
+
+/* =========================================
+   AnduinOS Promotion Section Styles
+   ========================================= */
+
+.bg-darker {
+    background-color: #0b0d13 !important;
+}
+
+.blur-3xl {
+    filter: blur(64px);
+}
+
+.blur-xl {
+    filter: blur(24px);
+}
+
+.opacity-10 {
+    opacity: 0.1;
+}
+
+.opacity-20 {
+    opacity: 0.2;
+}
+
+.shadow-2xl {
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+}
+
+.pointer-events-none {
+    pointer-events: none;
+}
+
+.perspective-container {
+    perspective: 1000px;
+}
+
+.transform-rotate-y-12 {
+    transform: rotateY(-12deg) rotateX(2deg);
+    transition: all 0.5s ease;
+}
+
+.hover-scale-105:hover {
+    transform: rotateY(0deg) scale(1.02);
+    box-shadow: 0 0 40px rgba(13, 110, 253, 0.3);
+}
+
+.bg-clip-text {
+    background-clip: text;
+    -webkit-background-clip: text;
+}
+
+.text-transparent {
+    color: transparent;
+}
+
+.bg-gradient-primary-info {
+    background-image: linear-gradient(to right, #0d6efd, #0dcaf0);
+}
+
+.bg-dark-glass {
+    background: rgba(255, 255, 255, 0.05);
+    backdrop-filter: blur(10px);
+}
+
+.py-6 {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.w-12 {
+    width: 3rem;
+}
+
+.h-12 {
+    height: 3rem;
+}
+
+.hover-shadow-primary-md:hover {
+    box-shadow: 0 4px 6px -1px rgba(13, 110, 253, 0.1), 0 2px 4px -1px rgba(13, 110, 253, 0.06);
+}
+
+.shadow-primary-sm {
+    box-shadow: 0 1px 3px 0 rgba(13, 110, 253, 0.1), 0 1px 2px 0 rgba(13, 110, 253, 0.06);
+}
+
+.bg-primary-subtle {
+    background-color: rgba(13, 110, 253, 0.1); 
+}
+
+.border-primary-subtle {
+    border-color: rgba(13, 110, 253, 0.2);
+}
+
+/* =========================================
+   Section 1 Hero Background Styles
+   ========================================= */
+
+.hero-cyber-bg {
+    z-index: 0;
+    /* Mask: fade image from left to right (transparent -> opaque) to blend with text */
+    -webkit-mask-image: linear-gradient(to right, transparent 0%, rgba(0,0,0,0.8) 50%, black 100%);
+    mask-image: linear-gradient(to right, transparent 0%, rgba(0,0,0,0.8) 50%, black 100%);
+}
+
+.hero-hud-image-wrapper {
+    perspective: 1200px; /* Enable 3D space */
+}
+
+.hero-hud-image-wrapper img {
+    /* Core: Y-axis rotation for holographic side view, lower opacity but detailed */
+    transform: rotateY(-18deg) rotateX(4deg) scale(1.1);
+    transform-origin: right center;
+    opacity: 0.35; 
+    filter: sepia(0.3) hue-rotate(180deg) brightness(0.8); /* Cool blue tone filter */
+    transition: all 1s ease;
+}
+
+/* Hover effect: image lights up slightly */
+.landing-intro:hover .hero-hud-image-wrapper img {
+    opacity: 0.5;
+    transform: rotateY(-15deg) rotateX(2deg) scale(1.12);
+    box-shadow: 0 0 60px rgba(13, 110, 253, 0.4);
+}
+
+.hero-cyber-svg {
+    z-index: 1;
+    pointer-events: none;
+}
+
+/* =========================================
+   Section 1 Hero: Geometric Mountain Background
+   ========================================= */
+
+/* The container holding the SVG positioned at the bottom */
+.hero-mountains-container {
+    /* Ensure it doesn't overlap navbar if header is short */
+    top: auto; 
+    bottom: 0;
+    /* Optional: add a subtle blur to the whole mountain range for depth */
+    /* filter: blur(1px); */
+}
+
+/* The SVG itself */
+.mountain-hero-bg {
+    /* Initial state: hidden below the fold and slightly squashed */
+    transform: translateY(100%) scaleY(0.8);
+    transform-origin: bottom center;
+    opacity: 0;
+    /* The animation definition: name, duration, easing, fill-mode */
+    animation: foldUpMountains 3.5s cubic-bezier(0.22, 0.61, 0.36, 1) forwards;
+    /* Optional delay if you want text to load first */
+    /* animation-delay: 0.3s; */
+}
+
+/* Keyframes for the slow folding/rising effect */
+@keyframes foldUpMountains {
+    0% {
+        opacity: 0;
+        /* Start below screen and compressed vertically */
+        transform: translateY(80%) scaleY(0.7) scaleX(0.95);
+    }
+    100% {
+        opacity: 1;
+        /* End at its natural position and scale */
+        transform: translateY(0) scaleY(1) scaleX(1);
+    }
+}
+
+/* Optional: Parallax effect on scroll (Advanced, requires JS usually, 
+   but we can do a simple perspective shift on hover for now) */
+.landing-intro:hover .mountain-hero-bg {
+    /* Subtle shift when mouse moves over the section */
+    transform: translateY(2%) scale(1.01);
+    transition: transform 1s ease-out;
+}
+
+/* Adjusting the text container to ensure it sits above the mountains visually */
+.landing-intro-content {
+    /* Ensure ample padding so text doesn't hit the bottom mountains on short screens */
+    padding-bottom: 15vh; 
+}
+
+/* Ensure the section background is dark enough to blend */
+.landing-intro.text-bg-dark {
+    /* Match the dark blue/black tone of your site */
+    background-color: #0b0d13 !important; 
+    /* Optional subtle gradient for the sky */
+    background-image: radial-gradient(circle at 30% 30%, rgba(20, 30, 50, 1) 0%, #0b0d13 70%);
+}
