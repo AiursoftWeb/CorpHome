@@ -1,7 +1,38 @@
+@using System.Globalization
 @* ReSharper disable once Razor.SectionNotResolved *@
 @section styles {
     <link rel="stylesheet" href="~/styles/site.css" xmlns="http://www.w3.org/1999/html"/>
     <link rel="stylesheet" href="~/styles/marketing.css" xmlns="http://www.w3.org/1999/html"/>
+}
+@{
+    // Currency Logic
+    var culture = CultureInfo.CurrentUICulture.Name;
+    string priceStarter, priceStartup, priceCustom, setupFeeEstimate;
+
+    if (culture.Equals("zh-HK", StringComparison.OrdinalIgnoreCase) || culture.Equals("zh-Hant-HK", StringComparison.OrdinalIgnoreCase))
+    {
+        // Hong Kong Dollar - Middle tier pricing
+        priceStarter = "HK$18";
+        priceStartup = "HK$28";
+        priceCustom = "HK$48";
+        setupFeeEstimate = "HK$1500";
+    }
+    else if (culture.Equals("zh-CN", StringComparison.OrdinalIgnoreCase) || culture.Equals("zh-Hans-CN", StringComparison.OrdinalIgnoreCase))
+    {
+        // Chinese Yuan (RMB) - Most affordable region
+        priceStarter = "¥15";
+        priceStartup = "¥23";
+        priceCustom = "¥39";
+        setupFeeEstimate = "¥1200";
+    }
+    else
+    {
+        // US Dollar (International) - Premium pricing
+        priceStarter = "$2.49";
+        priceStartup = "$3.99";
+        priceCustom = "$6.49";
+        setupFeeEstimate = "$249";
+    }
 }
 
 <vc:marketing-navbar></vc:marketing-navbar>
@@ -408,18 +439,19 @@
                         <div class="card text-center h-100">
                             <div class="card-body d-flex flex-column">
                                 <div class="mb-4">
-                                    <h5>@Localizer["Starter Enterprise"]</h5>
-                                    <span class="display-5">HK$35</span><br/>
-                                    <span>@Localizer["/ 10 users / month"]</span>
+                                    <h5>@Localizer["Core"]</h5>
+                                    <span class="display-5">@priceStarter</span><br/>
+                                    <span>@Localizer["/ user"] @Localizer["/ month"]</span>
                                 </div>
-                                <h6 class="mt-3">@Localizer["Includes Disk + Email + Identity Gateway"]</h6>
+                                <h6 class="mt-3">@Localizer["Includes Collaboration + Email + Identity Gateway"]</h6>
                                 <ul class="list-unstyled mt-3">
                                     <li class="mb-2">@Localizer["Hosted by Aiursoft"]</li>
-                                    <li class="mb-2">Nextcloud</li>
                                     <li class="mb-2">Mailcow</li>
+                                    <li class="mb-2">AiurDrive</li>
                                     <li class="mb-2">Authentik</li>
                                     <li class="mb-2">EmployeeCenter</li>
-                                    <li class="mb-2">@Localizer["Max 10 users"]</li>
+                                    <li class="mb-2">MarkToHtml</li>
+                                    <li class="mb-2">@Localizer["Max 150 accounts"]</li>
                                 </ul>
                                 <div class="mt-auto">
                                     <a href="mailto:support@aiursoft.com?subject=Inquiry about Starter Enterprise Plan" class="btn btn-lg btn-pill btn-outline-primary">@Localizer["Contact Us"]</a>
@@ -433,22 +465,22 @@
                         <div class="card text-center h-100 middle-card border-primary">
                             <div class="card-body d-flex flex-column">
                                 <div class="mb-4">
-                                    <h5>@Localizer["Startup Enterprise"]<sup class="text-muted fw-normal fs-sm">1</sup></h5>
-                                    <span class="display-5">HK$45</span><br/>
-                                    <span>@Localizer["/ 10 users / month"]</span>
+                                    <h5>@Localizer["Startup"]</h5>
+                                    <span class="display-5">@priceStartup</span><br/>
+                                    <span>@Localizer["/ user"] @Localizer["/ month"]</span>
                                     <div class="text-muted small">
-                                        + @Localizer["One-time Setup Fee"]
+                                        + @Localizer["One-time Setup Fee"]<sup class="text-muted fw-normal fs-sm">1</sup>
                                     </div>
                                 </div>
-                                <h6 class="mt-3">@Localizer["Adapted for B2C Suite"]</h6>
+                                <h6 class="mt-3">@Localizer["Full Infrastructure Suite, on your local server"]</h6>
                                 <ul class="list-unstyled mt-3">
                                     <li class="mb-2">@Localizer["Includes everything in Starter"]</li>
                                     <li class="mb-2">@Localizer["On-premise offline deployment"]</li>
-                                    <li class="mb-2">@Localizer["Aiursoft maintained AnduinOS Enterprise"]</li>
+                                    <li class="mb-2">@Localizer["AnduinOS Enterprise"]</li>
                                     <li class="mb-2">@Localizer["Zero Trust Yubikey Auth"]</li>
-                                    <li class="mb-2">GitLab, StatHub, MarkToHtml</li>
+                                    <li class="mb-2">GitLab, StatHub, Nextcloud</li>
                                     <li class="mb-2">EmployeeCenter, Koel, Immich</li>
-                                    <li class="mb-2">@Localizer["Limit 1000 users"]</li>
+                                    <li class="mb-2">@Localizer["Max 1000 accounts"]</li>
                                     <li class="mb-2">
                                         <span class="badge badge-subtle-primary">@Localizer["Recommended"]</span>
                                     </li>
@@ -465,18 +497,19 @@
                         <div class="card text-center h-100">
                             <div class="card-body d-flex flex-column">
                                 <div class="mb-4">
-                                    <h5>@Localizer["Custom Enterprise"]</h5>
-                                    <span class="display-5">HK$55</span><br/>
-                                    <span>@Localizer["/ user / month"]</span>
+                                    <h5>@Localizer["Enterprise"]</h5>
+                                    <span class="display-5">@priceCustom</span><br/>
+                                    <span>@Localizer["/ user"] @Localizer["/ month"]</span>
                                     <div class="text-muted small">
-                                        + @Localizer["Custom Development Fee"]
+                                        + @Localizer["Custom Development Fee"]<sup class="text-muted fw-normal fs-sm">3</sup>
                                     </div>
                                 </div>
                                 <h6 class="mt-3">@Localizer["Customized for your enterprise"]</h6>
                                 <ul class="list-unstyled mt-3">
                                     <li class="mb-2">@Localizer["Includes everything in Startup"]</li>
                                     <li class="mb-2">@Localizer["Enterprise scale deployment"]</li>
-                                    <li class="mb-2">@Localizer["AI Knowledge Base construction"]</li>
+                                    <li class="mb-2">@Localizer["AI Knowledge Base construction"]<sup class="text-muted fw-normal fs-sm">2</sup></li>
+                                    <li class="mb-2">@Localizer["MDM based device compliance"]</li>
                                     <li class="mb-2">@Localizer["Custom container development"]</li>
                                     <li class="mb-2">@Localizer[" tailored to your business needs"]</li>
                                 </ul>
@@ -489,8 +522,10 @@
 
                 </div>
 
-                <div class="text-muted small mt-2">
-                    <sup>1</sup> @Localizer["One-time setup fee needs to be discussed based on your deployment mode, generally around HK$1000."]
+                <div class="text-muted small mt-5">
+                    <p class="mb-1"><sup>1</sup> @Localizer["One-time setup fee needs to be discussed based on your deployment mode, generally around {0}.", setupFeeEstimate]</p>
+                    <p class="mb-1"><sup>2</sup> @Localizer["To build your offline AI knowledge base, you may need to purchase an NVIDIA GPU. This may require additional payment to NVIDIA corporation."]</p>
+                    <p class="mb-0"><sup>3</sup> @Localizer["Specific fees need to be discussed with our architecture team to determine how to build for your enterprise."]</p>
                 </div>
             </div>
         </div>
