@@ -483,3 +483,42 @@
          padding-bottom: 10vh;
     }
 }
+
+/* Scaling Middle Card Styles */
+.row.py-4 {
+    position: relative;
+}
+
+.middle-card {
+    transform: scale(1.15);
+    z-index: 10;
+    transition: transform 0.3s, box-shadow 0.3s;
+    margin-left: -14px;
+    margin-right: -14px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.17);
+}
+
+.middle-card:hover {
+    transform: scale(1.17);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+/* Ensure siblings are below */
+.row.py-4 > div:not(:nth-child(2)) {
+    z-index: 0;
+}
+
+/* On mobile, disable the effect */
+@media (max-width: 768px) {
+    .middle-card {
+        transform: none !important;
+        transition: none !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+        z-index: 0;
+    }
+
+    .middle-card:hover {
+        transform: none !important;
+    }
+}
