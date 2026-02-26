@@ -522,3 +522,38 @@
         transform: none !important;
     }
 }
+
+/* =========================================
+   Substratum Feature Cards Glow Effects
+   ========================================= */
+
+.py-7 {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
+
+/* 增强原本的 hover-lift 动画连贯性 */
+.hover-lift {
+    transition: transform 0.4s cubic-bezier(0.165, 0.84, 0.44, 1), box-shadow 0.4s ease, border-color 0.4s ease;
+}
+
+/* 对应四个不同图标的专属光晕 */
+.hover-glow-primary:hover {
+    box-shadow: 0 15px 35px rgba(13, 110, 253, 0.15) !important;
+    border-color: rgba(13, 110, 253, 0.3) !important;
+}
+
+.hover-glow-success:hover {
+    box-shadow: 0 15px 35px rgba(25, 135, 84, 0.15) !important;
+    border-color: rgba(25, 135, 84, 0.3) !important;
+}
+
+.hover-glow-warning:hover {
+    box-shadow: 0 15px 35px rgba(255, 193, 7, 0.1) !important;
+    border-color: rgba(255, 193, 7, 0.3) !important;
+}
+
+.hover-glow-info:hover {
+    box-shadow: 0 15px 35px rgba(13, 202, 240, 0.15) !important;
+    border-color: rgba(13, 202, 240, 0.3) !important;
+}

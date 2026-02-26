@@ -262,7 +262,7 @@
 @* ═══════════════════════════════════════════════════════════════════════════════
    SECTION 3: Reduce Attack Surface
    ═══════════════════════════════════════════════════════════════════════════════ *@
-<section class="immersive-section position-relative w-100 overflow-hidden d-flex align-items-center">
+<section class="immersive-section position-relative w-100 overflow-hidden d-flex align-items-center" style="background: linear-gradient(to bottom, #161a27 0%, #0b0d14 100%);">
 
     <div class="immersive-bg">
         <div class="bg-image-wrapper clean-wrapper">
@@ -331,6 +331,214 @@
                             </div>
                         </div>
                     </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+@* ═══════════════════════════════════════════════════════════════════════════════
+   SECTION 3.5: Aiursoft Substratum (Dark Core Concept)
+   ═══════════════════════════════════════════════════════════════════════════════ *@
+<section class="py-7 position-relative overflow-hidden" style="background-color: #0b0d14;">
+    
+    @* Ambient Core Glow Background *@
+    <div class="position-absolute top-50 start-50 translate-middle w-100 h-100 pointer-events-none" 
+         style="background: radial-gradient(circle at center, rgba(13, 110, 253, 0.05) 0%, transparent 60%); z-index: 0;">
+    </div>
+
+    <div class="container position-relative z-1">
+        <div class="row justify-content-center text-center mb-5 mb-lg-6">
+            <div class="col-lg-8">
+                @* 1. 眉题：放 Slogan 或产品定位 *@
+                <div class="d-inline-flex align-items-center px-3 py-1 mb-3 rounded-pill border border-primary-subtle bg-primary-subtle bg-opacity-10">
+                    <span class="text-primary fw-bold small text-uppercase tracking-wider">@Localizer["The Turnkey Enterprise Foundation"]</span>
+                </div>
+                
+                @* 2. 主标题：放大你的核心产品名 *@
+                <h2 class="display-4 fw-bold text-white mb-4">
+                    Aiursoft <span class="text-transparent bg-clip-text bg-gradient-primary-info">Substratum</span>
+                </h2>
+                
+                @* 3. 描述文本：稍微控制一下最大宽度，让两端对齐更好看 *@
+                <p class="lead text-gray-400 fs-5 mb-4 mx-auto" style="max-width: 800px;">
+                    @Localizer["Get unified endpoint management (UEM), identity management (IAM), and collaboration tools (OA) in one package. All on your local servers!"]
+                </p>
+
+                @* 4. Call to Action Buttons *@
+                <div class="d-flex flex-column flex-sm-row justify-content-center align-items-center gap-3 mt-4">
+                    <a href="#enterprise-packages" class="btn btn-primary px-4 py-2 rounded-pill fw-bold shadow-sm">
+                        @Localizer["Purchase Now"]
+                    </a>
+                    <a href="#" class="btn btn-outline-light px-4 py-2 rounded-pill fw-bold border-white-20 text-white hover-bg-white-10">
+                        @Localizer["Contact Us"]
+                    </a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="row g-4">
+            @* Card 1: Own Your Data *@
+            <div class="col-md-6 col-lg-3">
+                <div class="card h-100 bg-dark-glass border-white-10 hover-lift hover-glow-primary">
+                    <div class="card-body p-4 p-xl-5">
+                        <div class="d-inline-flex align-items-center justify-content-center bg-primary bg-opacity-10 text-primary rounded-4 mb-4" style="width: 56px; height: 56px;">
+                            <i data-lucide="database" style="width: 28px; height: 28px;"></i>
+                        </div>
+                        <h4 class="h5 fw-bold text-white mb-3">@Localizer["Own Your Data"]</h4>
+                        <p class="text-gray-400 mb-0">@Localizer["Complete control over your enterprise data. No third-party access, full privacy compliance."]</p>
+                    </div>
+                </div>
+            </div>
+
+            @* Card 2: Air-Gapped Ready *@
+            <div class="col-md-6 col-lg-3">
+                <div class="card h-100 bg-dark-glass border-white-10 hover-lift hover-glow-success">
+                    <div class="card-body p-4 p-xl-5">
+                        <div class="d-inline-flex align-items-center justify-content-center bg-success bg-opacity-10 text-success rounded-4 mb-4" style="width: 56px; height: 56px;">
+                            <i data-lucide="wifi-off" style="width: 28px; height: 28px;"></i>
+                        </div>
+                        <h4 class="h5 fw-bold text-white mb-3">@Localizer["Air-Gapped Ready"]</h4>
+                        <p class="text-gray-400 mb-0">@Localizer["Designed to run offline. Perfect for high-security environments with no internet dependency."]</p>
+                    </div>
+                </div>
+            </div>
+
+            @* Card 3: Break Vendor Lock-in *@
+            <div class="col-md-6 col-lg-3">
+                <div class="card h-100 bg-dark-glass border-white-10 hover-lift hover-glow-warning">
+                    <div class="card-body p-4 p-xl-5">
+                        <div class="d-inline-flex align-items-center justify-content-center bg-warning bg-opacity-10 text-warning rounded-4 mb-4" style="width: 56px; height: 56px;">
+                            <i data-lucide="unlock" style="width: 28px; height: 28px;"></i>
+                        </div>
+                        <h4 class="h5 fw-bold text-white mb-3">@Localizer["Break Vendor Lock-in"]</h4>
+                        <p class="text-gray-400 mb-0">@Localizer["Built on open standards. Migrate in or out anytime with full data portability and transparency."]</p>
+                    </div>
+                </div>
+            </div>
+
+            @* Card 4: Supercharge Innovation *@
+            <div class="col-md-6 col-lg-3">
+                <div class="card h-100 bg-dark-glass border-white-10 hover-lift hover-glow-info">
+                    <div class="card-body p-4 p-xl-5">
+                        <div class="d-inline-flex align-items-center justify-content-center bg-info bg-opacity-10 text-info rounded-4 mb-4" style="width: 56px; height: 56px;">
+                            <i data-lucide="zap" style="width: 28px; height: 28px;"></i>
+                        </div>
+                        <h4 class="h5 fw-bold text-white mb-3">@Localizer["Supercharge Innovation"]</h4>
+                        <p class="text-gray-400 mb-0">@Localizer["Empower developers with a flexible platform that scales with your business needs."]</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+@* ═══════════════════════════════════════════════════════════════════════════════
+   SECTION 4.5: Enterprise Packages
+   ═══════════════════════════════════════════════════════════════════════════════ *@
+<section class="py-5 bg-white" id="enterprise-packages">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-xl-10 col-xxl-10 mx-auto">
+                <div class="mb-4 text-center">
+                    <span class="text-uppercase text-primary text-sm fw-medium mb-1 d-block">@Localizer["Aiursoft Substratum Pricing"]</span>
+                    <h2 class="h1">@Localizer["Choose your Aiursoft Substratum Plan"]</h2>
+                    <p class="text-muted fs-lg">@Localizer["Flexible plans designed to scale with your business needs."]</p>
+                </div>
+                <div class="row py-4">
+                    
+                    @* Starter Enterprise *@
+                    <div class="col-md-4 mb-5 mb-md-0">
+                        <div class="card text-center h-100">
+                            <div class="card-body d-flex flex-column">
+                                <div class="mb-4">
+                                    <h5>@Localizer["Aiursoft Substratum Core"]</h5>
+                                    <span class="display-5">@priceStarter</span><br/>
+                                    <span>@Localizer["/ user"] @Localizer["/ month"]</span>
+                                </div>
+                                <h6 class="mt-3">@Localizer["Includes Collaboration + Email + Identity Gateway"]</h6>
+                                <ul class="list-unstyled mt-3">
+                                    <li class="mb-2">@Localizer["Hosted by Aiursoft"]</li>
+                                    <li class="mb-2">Mailcow</li>
+                                    <li class="mb-2">AiurDrive</li>
+                                    <li class="mb-2">Authentik</li>
+                                    <li class="mb-2">Employee Center</li>
+                                    <li class="mb-2">MarkToHtml</li>
+                                    <li class="mb-2">@Localizer["Max 150 accounts"]</li>
+                                </ul>
+                                <div class="mt-auto">
+                                    <a href="mailto:support@aiursoft.com?subject=Inquiry about Starter Enterprise Plan" class="btn btn-lg btn-pill btn-outline-primary">@Localizer["Contact Us"]</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    @* Startup Enterprise *@
+                    <div class="col-md-4 mb-5 mb-md-0">
+                        <div class="card text-center h-100 middle-card border-primary">
+                            <div class="card-body d-flex flex-column">
+                                <div class="mb-4">
+                                    <h5>@Localizer["Aiursoft Substratum Startup"]</h5>
+                                    <span class="display-5">@priceStartup</span><br/>
+                                    <span>@Localizer["/ user"] @Localizer["/ month"]</span>
+                                    <div class="text-muted small">
+                                        + @Localizer["One-time Setup Fee"]<sup class="text-muted fw-normal fs-sm">1</sup>
+                                    </div>
+                                </div>
+                                <h6 class="mt-3">@Localizer["Full Infrastructure Suite, on your local server"]</h6>
+                                <ul class="list-unstyled mt-3">
+                                    <li class="mb-2">@Localizer["Includes everything in Starter"]</li>
+                                    <li class="mb-2">@Localizer["On-premise offline deployment"]</li>
+                                    <li class="mb-2">@Localizer["AnduinOS Enterprise"]</li>
+                                    <li class="mb-2">@Localizer["Zero Trust Yubikey Auth"]</li>
+                                    <li class="mb-2">GitLab, StatHub, Nextcloud</li>
+                                    <li class="mb-2">Koel, Immich, Memos</li>
+                                    <li class="mb-2">@Localizer["Max 1000 accounts"]</li>
+                                    <li class="mb-2">
+                                        <span class="badge badge-subtle-primary">@Localizer["Recommended"]</span>
+                                    </li>
+                                </ul>
+                                <div class="mt-auto">
+                                    <a href="mailto:support@aiursoft.com?subject=Inquiry about Startup Enterprise Plan" class="btn btn-lg btn-pill btn-primary">@Localizer["Contact Us"]</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    @* Custom Enterprise *@
+                    <div class="col-md-4 mb-5 mb-md-0">
+                        <div class="card text-center h-100">
+                            <div class="card-body d-flex flex-column">
+                                <div class="mb-4">
+                                    <h5>@Localizer["Aiursoft Substratum Enterprise"]</h5>
+                                    <span class="display-5">@priceCustom</span><br/>
+                                    <span>@Localizer["/ user"] @Localizer["/ month"]</span>
+                                    <div class="text-muted small">
+                                        + @Localizer["Custom Development Fee"]<sup class="text-muted fw-normal fs-sm">3</sup>
+                                    </div>
+                                </div>
+                                <h6 class="mt-3">@Localizer["Customized for your enterprise"]</h6>
+                                <ul class="list-unstyled mt-3">
+                                    <li class="mb-2">@Localizer["Includes everything in Startup"]</li>
+                                    <li class="mb-2">@Localizer["Enterprise scale deployment"]</li>
+                                    <li class="mb-2">@Localizer["AI Knowledge Base construction"]<sup class="text-muted fw-normal fs-sm">2</sup></li>
+                                    <li class="mb-2">@Localizer["MDM based device compliance"]</li>
+                                    <li class="mb-2">@Localizer["Custom container development"]</li>
+                                    <li class="mb-2">@Localizer[" tailored to your business needs"]</li>
+                                </ul>
+                                <div class="mt-auto">
+                                    <a href="mailto:support@aiursoft.com?subject=Inquiry about Custom Enterprise Plan" class="btn btn-lg btn-pill btn-outline-primary">@Localizer["Contact Us"]</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="text-muted small mt-5">
+                    <p class="mb-1"><sup>1</sup> @Localizer["One-time setup fee needs to be discussed based on your deployment mode, generally around {0}.", setupFeeEstimate]</p>
+                    <p class="mb-1"><sup>2</sup> @Localizer["To build your offline AI knowledge base, you may need to purchase an NVIDIA GPU. This may require additional payment to NVIDIA corporation."]</p>
+                    <p class="mb-0"><sup>3</sup> @Localizer["Specific fees need to be discussed with our architecture team to determine how to build for your enterprise."]</p>
                 </div>
             </div>
         </div>
@@ -419,119 +627,6 @@
         </div>
     </div>
 </section>
-
-@* ═══════════════════════════════════════════════════════════════════════════════
-   SECTION 4.5: Enterprise Packages
-   ═══════════════════════════════════════════════════════════════════════════════ *@
-<section class="py-5 bg-white" id="enterprise-packages">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12 col-xl-10 col-xxl-10 mx-auto">
-                <div class="mb-4 text-center">
-                    <span class="text-uppercase text-primary text-sm fw-medium mb-1 d-block">@Localizer["Aiursoft Substratum Pricing"]</span>
-                    <h2 class="h1">@Localizer["Choose your Aiursoft Substratum Plan"]</h2>
-                    <p class="text-muted fs-lg">@Localizer["Flexible plans designed to scale with your business needs."]</p>
-                </div>
-                <div class="row py-4">
-                    
-                    @* Starter Enterprise *@
-                    <div class="col-md-4 mb-5 mb-md-0">
-                        <div class="card text-center h-100">
-                            <div class="card-body d-flex flex-column">
-                                <div class="mb-4">
-                                    <h5>@Localizer["Aiursoft Substratum Core"]</h5>
-                                    <span class="display-5">@priceStarter</span><br/>
-                                    <span>@Localizer["/ user"] @Localizer["/ month"]</span>
-                                </div>
-                                <h6 class="mt-3">@Localizer["Includes Collaboration + Email + Identity Gateway"]</h6>
-                                <ul class="list-unstyled mt-3">
-                                    <li class="mb-2">@Localizer["Hosted by Aiursoft"]</li>
-                                    <li class="mb-2">Mailcow</li>
-                                    <li class="mb-2">AiurDrive</li>
-                                    <li class="mb-2">Authentik</li>
-                                    <li class="mb-2">EmployeeCenter</li>
-                                    <li class="mb-2">MarkToHtml</li>
-                                    <li class="mb-2">@Localizer["Max 150 accounts"]</li>
-                                </ul>
-                                <div class="mt-auto">
-                                    <a href="mailto:support@aiursoft.com?subject=Inquiry about Starter Enterprise Plan" class="btn btn-lg btn-pill btn-outline-primary">@Localizer["Contact Us"]</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    @* Startup Enterprise *@
-                    <div class="col-md-4 mb-5 mb-md-0">
-                        <div class="card text-center h-100 middle-card border-primary">
-                            <div class="card-body d-flex flex-column">
-                                <div class="mb-4">
-                                    <h5>@Localizer["Aiursoft Substratum Startup"]</h5>
-                                    <span class="display-5">@priceStartup</span><br/>
-                                    <span>@Localizer["/ user"] @Localizer["/ month"]</span>
-                                    <div class="text-muted small">
-                                        + @Localizer["One-time Setup Fee"]<sup class="text-muted fw-normal fs-sm">1</sup>
-                                    </div>
-                                </div>
-                                <h6 class="mt-3">@Localizer["Full Infrastructure Suite, on your local server"]</h6>
-                                <ul class="list-unstyled mt-3">
-                                    <li class="mb-2">@Localizer["Includes everything in Starter"]</li>
-                                    <li class="mb-2">@Localizer["On-premise offline deployment"]</li>
-                                    <li class="mb-2">@Localizer["AnduinOS Enterprise"]</li>
-                                    <li class="mb-2">@Localizer["Zero Trust Yubikey Auth"]</li>
-                                    <li class="mb-2">GitLab, StatHub, Nextcloud</li>
-                                    <li class="mb-2">EmployeeCenter, Koel, Immich</li>
-                                    <li class="mb-2">@Localizer["Max 1000 accounts"]</li>
-                                    <li class="mb-2">
-                                        <span class="badge badge-subtle-primary">@Localizer["Recommended"]</span>
-                                    </li>
-                                </ul>
-                                <div class="mt-auto">
-                                    <a href="mailto:support@aiursoft.com?subject=Inquiry about Startup Enterprise Plan" class="btn btn-lg btn-pill btn-primary">@Localizer["Contact Us"]</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    @* Custom Enterprise *@
-                    <div class="col-md-4 mb-5 mb-md-0">
-                        <div class="card text-center h-100">
-                            <div class="card-body d-flex flex-column">
-                                <div class="mb-4">
-                                    <h5>@Localizer["Aiursoft Substratum Enterprise"]</h5>
-                                    <span class="display-5">@priceCustom</span><br/>
-                                    <span>@Localizer["/ user"] @Localizer["/ month"]</span>
-                                    <div class="text-muted small">
-                                        + @Localizer["Custom Development Fee"]<sup class="text-muted fw-normal fs-sm">3</sup>
-                                    </div>
-                                </div>
-                                <h6 class="mt-3">@Localizer["Customized for your enterprise"]</h6>
-                                <ul class="list-unstyled mt-3">
-                                    <li class="mb-2">@Localizer["Includes everything in Startup"]</li>
-                                    <li class="mb-2">@Localizer["Enterprise scale deployment"]</li>
-                                    <li class="mb-2">@Localizer["AI Knowledge Base construction"]<sup class="text-muted fw-normal fs-sm">2</sup></li>
-                                    <li class="mb-2">@Localizer["MDM based device compliance"]</li>
-                                    <li class="mb-2">@Localizer["Custom container development"]</li>
-                                    <li class="mb-2">@Localizer[" tailored to your business needs"]</li>
-                                </ul>
-                                <div class="mt-auto">
-                                    <a href="mailto:support@aiursoft.com?subject=Inquiry about Custom Enterprise Plan" class="btn btn-lg btn-pill btn-outline-primary">@Localizer["Contact Us"]</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-
-                <div class="text-muted small mt-5">
-                    <p class="mb-1"><sup>1</sup> @Localizer["One-time setup fee needs to be discussed based on your deployment mode, generally around {0}.", setupFeeEstimate]</p>
-                    <p class="mb-1"><sup>2</sup> @Localizer["To build your offline AI knowledge base, you may need to purchase an NVIDIA GPU. This may require additional payment to NVIDIA corporation."]</p>
-                    <p class="mb-0"><sup>3</sup> @Localizer["Specific fees need to be discussed with our architecture team to determine how to build for your enterprise."]</p>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
 
 @* ═══════════════════════════════════════════════════════════════════════════════
    SECTION 5: Voxihost Partnership
