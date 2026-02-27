@@ -557,3 +557,30 @@
     box-shadow: 0 15px 35px rgba(13, 202, 240, 0.15) !important;
     border-color: rgba(13, 202, 240, 0.3) !important;
 }
+
+/* Float-in animation base classes */
+.float-in {
+    opacity: 0;
+    margin-top: 20px;
+    transition: opacity 0.4s ease-out, margin-top 0.4s ease-out;
+}
+.float-in-visible {
+    opacity: 1;
+    margin-top: 0;
+}
+
+/* Make sure transition works together with existing transitions for node-icon */
+.diagram-container .node-icon.float-in,
+.diagram-container .node-center.float-in {
+    transition: opacity 0.4s ease-out, margin-top 0.4s ease-out, border-color 0.3s ease, box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+/* For mobile fallback */
+.diagram-mobile-fallback .float-in {
+    transform: translateY(20px);
+    margin-top: 0;
+    transition: opacity 0.4s ease-out, transform 0.4s ease-out;
+}
+.diagram-mobile-fallback .float-in.float-in-visible {
+    transform: translateY(0);
+}
