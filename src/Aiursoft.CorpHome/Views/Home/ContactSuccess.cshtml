@@ -1,0 +1,23 @@
+@section styles {
+    <link rel="stylesheet" href="~/styles/site.css" xmlns="http://www.w3.org/1999/html"/>
+    <link rel="stylesheet" href="~/styles/marketing.css" xmlns="http://www.w3.org/1999/html"/>
+}
+
+<vc:marketing-navbar></vc:marketing-navbar>
+
+<section class="py-7 bg-light text-center" style="min-height: calc(100vh - 300px); display: flex; align-items: center;">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-6">
+                <div class="mb-4 text-success">
+                    <i class="fas fa-check-circle fa-4x"></i>
+                </div>
+                <h2 class="h3 mb-3">Thank you for contacting us!</h2>
+                <p class="text-muted lead mb-5">Your submission has been received. Our team will review your information and get back to you shortly.</p>
+                <a asp-controller="Home" asp-action="Index" class="btn btn-primary btn-lg btn-pill px-4">Return to Home</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<vc:marketing-footer></vc:marketing-footer>

@@ -1,0 +1,45 @@
+@model Aiursoft.CorpHome.Models.ContactsViewModels.IndexViewModel
+
+<div class="row mb-2 mb-xl-3">
+    <div class="col-auto d-none d-sm-block">
+        <h3>@Localizer["View Contacts"]</h3>
+    </div>
+</div>
+
+<div class="card">
+    <div class="card-header">
+        <h5 class="card-title">@Localizer["Submitted Contact Forms"]</h5>
+        <h6 class="card-subtitle text-muted">@Localizer["A list of all users who have contacted us through the website."]</h6>
+    </div>
+    <div class="table-responsive">
+        <table class="table table-hover mb-0">
+            <thead>
+            <tr>
+                <th>@Localizer["Name"]</th>
+                <th>@Localizer["Company"]</th>
+                <th>@Localizer["Job Title"]</th>
+                <th>@Localizer["Email"]</th>
+                <th>@Localizer["Org Size"]</th>
+                <th>@Localizer["Consume Open Source"]</th>
+                <th>@Localizer["Services Provided"]</th>
+                <th>@Localizer["Date"]</th>
+            </tr>
+            </thead>
+            <tbody>
+            @foreach (var item in Model.Contacts)
+            {
+                <tr>
+                    <td>@item.FirstName @item.LastName</td>
+                    <td>@item.Company</td>
+                    <td>@item.JobTitle</td>
+                    <td><a href="mailto:@item.Email">@item.Email</a></td>
+                    <td>@item.OrganizationSize</td>
+                    <td>@item.ConsumeOpenSource</td>
+                    <td>@item.ServicesProvided</td>
+                    <td>@item.CreateTime.ToString("yyyy-MM-dd HH:mm")</td>
+                </tr>
+            }
+            </tbody>
+        </table>
+    </div>
+</div>
