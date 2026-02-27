@@ -75,6 +75,9 @@
   <data name="Aiursoft is dedicated to bringing the spirit of open-source and free software to every enterprise and individual." xml:space="preserve">
     <value>Aiursoft is dedicated to bringing the spirit of open-source and free software to every enterprise and individual.</value>
   </data>
+  <data name="Aiursoft is dedicated to bringing the spirit of Open-source and free software to every enterprise and individual." xml:space="preserve">
+    <value>Aiursoft is dedicated to bringing the spirit of Open-source and free software to every enterprise and individual.</value>
+  </data>
   <data name="Aiursoft Substratum Core" xml:space="preserve">
     <value>Aiursoft Substratum Core</value>
   </data>
@@ -89,6 +92,9 @@
   </data>
   <data name="Aiursoft Template is continuously optimized for the AI era, built with the most popular and reliable open-source technologies. It has already produced dozens of mature applications delivered to enterprises. Aiursoft uses Template to help businesses develop custom solutions based on their core needs." xml:space="preserve">
     <value>Aiursoft Template is continuously optimised for the AI era, built with the most popular and reliable open-source technologies. It has already produced dozens of mature applications delivered to enterprises. Aiursoft uses Template to help businesses develop custom solutions based on their core needs.</value>
+  </data>
+  <data name="Aiursoft Template is continuously optimized for the AI era, built with the most popular and reliable Open-source technologies. It has already produced dozens of mature applications delivered to enterprises. Aiursoft uses Template to help businesses develop custom solutions based on their core needs." xml:space="preserve">
+    <value>Aiursoft Template is continuously optimised for the AI era, built with the most popular and reliable Open-source technologies. It has already produced dozens of mature applications delivered to enterprises. Aiursoft uses Template to help businesses develop custom solutions based on their core needs.</value>
   </data>
   <data name="Aiursoft Template is our definitive choice for enterprise projects! It&apos;s built for developers and is lightweight yet powerful. We can skip all the boilerplate for authentication and user management." xml:space="preserve">
     <value>Aiursoft Template is our definitive choice for enterprise projects! It&apos;s built for developers and is lightweight yet powerful. We can skip all the boilerplate for authentication and user management.</value>
@@ -219,6 +225,9 @@
   <data name="Combine open-source tools on GitHub and Hugging Face — no enterprise licenses needed." xml:space="preserve">
     <value>Combine open-source tools on GitHub and Hugging Face — no enterprise licenses needed.</value>
   </data>
+  <data name="Combine Open-source tools on GitHub and Hugging Face — no enterprise licenses needed." xml:space="preserve">
+    <value>Combine open-source tools on GitHub and Hugging Face — no enterprise licenses needed.</value>
+  </data>
   <data name="Comes with Docker support for simplified and consistent deployments." xml:space="preserve">
     <value>Comes with Docker support for simplified and consistent deployments.</value>
   </data>
@@ -251,6 +260,9 @@
   </data>
   <data name="Consistency Validation" xml:space="preserve">
     <value>Consistency Validation</value>
+  </data>
+  <data name="Contact Sales" xml:space="preserve">
+    <value>Contact Sales</value>
   </data>
   <data name="Contact Us" xml:space="preserve">
     <value>Contact Us</value>
@@ -447,6 +459,9 @@
   <data name="Get a public cloud-like experience while hosting your applications in your own server." xml:space="preserve">
     <value>Get a public cloud-like experience while hosting your applications on your own server.</value>
   </data>
+  <data name="Get Started" xml:space="preserve">
+    <value>Get Started</value>
+  </data>
   <data name="Get unified endpoint management (UEM), identity management (IAM), and collaboration tools (OA) in one package. All on your local servers!" xml:space="preserve">
     <value>Get unified endpoint management (UEM), identity management (IAM), and collaboration tools (OA) in one package. All on your local servers!</value>
   </data>
@@ -630,6 +645,9 @@
   <data name="open-source &amp; AI era." xml:space="preserve">
     <value>open-source &amp; AI era.</value>
   </data>
+  <data name="Open-source &amp; AI era." xml:space="preserve">
+    <value>Open-source &amp; AI era.</value>
+  </data>
   <data name="Open-Source Solutions" xml:space="preserve">
     <value>Open-Source Solutions</value>
   </data>
@@ -667,6 +685,9 @@
     <value>Read the documentation</value>
   </data>
   <data name="Ready to build your enterprise on open-source foundations?" xml:space="preserve">
+    <value>Ready to build your enterprise on open-source foundations?</value>
+  </data>
+  <data name="Ready to build your enterprise on Open-source foundations?" xml:space="preserve">
     <value>Ready to build your enterprise on open-source foundations?</value>
   </data>
   <data name="Recommended" xml:space="preserve">
@@ -753,6 +774,9 @@
   <data name="Strengthen your business with flexible open source projects that run by Aiursoft." xml:space="preserve">
     <value>Strengthen your business with flexible open source projects that run by Aiursoft.</value>
   </data>
+  <data name="Strengthen your business with flexible Open Source projects that run by Aiursoft." xml:space="preserve">
+    <value>Strengthen your business with flexible Open Source projects that run by Aiursoft.</value>
+  </data>
   <data name="Strict Lint Rules" xml:space="preserve">
     <value>Strict Lint Rules</value>
   </data>
@@ -783,6 +807,9 @@
   <data name="Switch easily between SQLite, MySQL, SQL Server." xml:space="preserve">
     <value>Switch easily between SQLite, MySQL, SQL Server.</value>
   </data>
+  <data name="Talk to an Architect" xml:space="preserve">
+    <value>Talk to an Architect</value>
+  </data>
   <data name="Task Runner" xml:space="preserve">
     <value>Task Runner</value>
   </data>
@@ -798,7 +825,13 @@
   <data name="The open-source world already has the solutions you need." xml:space="preserve">
     <value>The open-source world already has the solutions you need.</value>
   </data>
+  <data name="The Open-source world already has the solutions you need." xml:space="preserve">
+    <value>The open-source world already has the solutions you need.</value>
+  </data>
   <data name="The open-source world is free, but full of dangers. Aiursoft helps you withstand the first wave of attacks." xml:space="preserve">
+    <value>The open-source world is free, but full of dangers. Aiursoft helps you withstand the first wave of attacks.</value>
+  </data>
+  <data name="The Open-source world is free, but full of dangers. Aiursoft helps you withstand the first wave of attacks." xml:space="preserve">
     <value>The open-source world is free, but full of dangers. Aiursoft helps you withstand the first wave of attacks.</value>
   </data>
   <data name="The Philosophy" xml:space="preserve">
@@ -849,7 +882,13 @@
   <data name="Voxihost offers transparent, cost-effective cloud and generously sponsors Aiursoft&apos;s open-source work." xml:space="preserve">
     <value>Voxihost offers transparent, cost-effective cloud and generously sponsors Aiursoft&apos;s open-source work.</value>
   </data>
+  <data name="Voxihost offers transparent, cost-effective cloud and generously sponsors Aiursoft&apos;s Open-source work." xml:space="preserve">
+    <value>Voxihost offers transparent, cost-effective cloud and generously sponsors Aiursoft&apos;s Open-source work.</value>
+  </data>
   <data name="We audit and integrate open-source code, respect GPL, compile components, and contribute upstream." xml:space="preserve">
+    <value>We audit and integrate open-source code, respect GPL, compile components, and contribute upstream.</value>
+  </data>
+  <data name="We audit and integrate Open-source code, respect GPL, compile components, and contribute upstream." xml:space="preserve">
     <value>We audit and integrate open-source code, respect GPL, compile components, and contribute upstream.</value>
   </data>
   <data name="We procure Yubikeys for all clients and configure zero-trust architecture." xml:space="preserve">
