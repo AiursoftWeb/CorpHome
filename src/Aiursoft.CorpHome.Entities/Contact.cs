@@ -1,5 +1,3 @@
-using System.ComponentModel.DataAnnotations;
-
 namespace Aiursoft.CorpHome.Entities;
 
 public class Contact
