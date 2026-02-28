@@ -425,25 +425,56 @@
 
 /* The SVG itself */
 .mountain-hero-bg {
-    /* Initial state: hidden below the fold and slightly squashed */
-    transform: translateY(100%) scaleY(0.8);
+    opacity: 1;
     transform-origin: bottom center;
-    opacity: 0;
-    /* The animation definition */
-    animation: foldUpMountains 3.5s cubic-bezier(0.22, 0.61, 0.36, 1) forwards;
+}
+
+.layer-back {
+    animation: foldUpBack 4s cubic-bezier(0.22, 0.61, 0.36, 1) forwards;
+    transform-origin: bottom center;
+}
+
+.layer-left {
+    animation: foldUpLeft 3s cubic-bezier(0.22, 0.61, 0.36, 1) forwards;
+    transform-origin: bottom center;
+}
+
+.layer-right {
+    animation: foldUpRight 2.5s cubic-bezier(0.22, 0.61, 0.36, 1) forwards;
+    transform-origin: bottom center;
 }
 
 /* Keyframes for the slow folding/rising effect */
-@keyframes foldUpMountains {
+@keyframes foldUpBack {
     0% {
         opacity: 0;
-        /* Start below screen and compressed vertically */
-        transform: translateY(80%) scaleY(0.7) scaleX(0.95);
+        transform: translateY(50px) scaleY(0.7);
     }
     100% {
         opacity: 1;
-        /* End at its natural position and scale */
-        transform: translateY(0) scaleY(1) scaleX(1);
+        transform: translateY(0) scaleY(1);
+    }
+}
+
+@keyframes foldUpLeft {
+    0% {
+        opacity: 0;
+        transform: translateY(100px) translateX(-40px) scaleY(0.5);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0) translateX(0) scaleY(1);
+    }
+}
+
+@keyframes foldUpRight {
+    0% {
+        opacity: 0;
+        transform: translateY(150px) translateX(80px) scaleY(0.3);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0) translateX(0) scaleY(1);
     }
 }
 
