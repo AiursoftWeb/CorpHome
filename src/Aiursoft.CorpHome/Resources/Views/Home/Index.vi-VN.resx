@@ -75,6 +75,9 @@
   <data name="Aiursoft is dedicated to bringing the spirit of open-source and free software to every enterprise and individual." xml:space="preserve">
     <value>Aiursoft cam kết mang tinh thần phần mềm mã nguồn mở và phần mềm miễn phí đến mọi doanh nghiệp và cá nhân.</value>
   </data>
+  <data name="Aiursoft is dedicated to bringing the spirit of Open-source and free software to every enterprise and individual." xml:space="preserve">
+    <value>Aiursoft cam kết mang tinh thần mã nguồn mở và phần mềm miễn phí đến mọi doanh nghiệp và cá nhân.</value>
+  </data>
   <data name="Aiursoft Substratum Core" xml:space="preserve">
     <value>Aiursoft Substratum Core</value>
   </data>
@@ -89,6 +92,9 @@
   </data>
   <data name="Aiursoft Template is continuously optimized for the AI era, built with the most popular and reliable open-source technologies. It has already produced dozens of mature applications delivered to enterprises. Aiursoft uses Template to help businesses develop custom solutions based on their core needs." xml:space="preserve">
     <value>Aiursoft Template đang được tối ưu liên tục cho kỷ nguyên AI, được xây dựng bằng các công nghệ mã nguồn mở phổ biến và đáng tin cậy nhất. Nó đã tạo ra hàng chục ứng dụng trưởng thành được triển khai cho các doanh nghiệp. Aiursoft sử dụng Template để giúp các doanh nghiệp phát triển các giải pháp tùy chỉnh dựa trên nhu cầu cốt lõi của họ.</value>
+  </data>
+  <data name="Aiursoft Template is continuously optimized for the AI era, built with the most popular and reliable Open-source technologies. It has already produced dozens of mature applications delivered to enterprises. Aiursoft uses Template to help businesses develop custom solutions based on their core needs." xml:space="preserve">
+    <value>Aiursoft Template đang được tối ưu liên tục cho thời đại AI, được xây dựng trên các công nghệ mã nguồn mở phổ biến và đáng tin cậy nhất. Nó đã tạo ra hàng chục ứng dụng trưởng thành được triển khai cho các doanh nghiệp. Aiursoft sử dụng Template để giúp các doanh nghiệp phát triển các giải pháp tùy chỉnh dựa trên nhu cầu cốt lõi của họ.</value>
   </data>
   <data name="Aiursoft Template is our definitive choice for enterprise projects! It&apos;s built for developers and is lightweight yet powerful. We can skip all the boilerplate for authentication and user management." xml:space="preserve">
     <value>Aiursoft Template là lựa chọn tối ưu cho các dự án doanh nghiệp! Nó được xây dựng cho nhà phát triển, nhẹ nhàng nhưng mạnh mẽ. Chúng ta có thể bỏ qua tất cả các mã mẫu cho xác thực và quản lý người dùng.</value>
@@ -219,6 +225,9 @@
   <data name="Combine open-source tools on GitHub and Hugging Face — no enterprise licenses needed." xml:space="preserve">
     <value>Kết hợp các công cụ mã nguồn mở trên GitHub và Hugging Face — không cần giấy phép doanh nghiệp.</value>
   </data>
+  <data name="Combine Open-source tools on GitHub and Hugging Face — no enterprise licenses needed." xml:space="preserve">
+    <value>Kết hợp các công cụ mã nguồn mở trên GitHub và Hugging Face — không cần giấy phép doanh nghiệp.</value>
+  </data>
   <data name="Comes with Docker support for simplified and consistent deployments." xml:space="preserve">
     <value>Được tích hợp hỗ trợ Docker để triển khai đơn giản và nhất quán.</value>
   </data>
@@ -251,6 +260,9 @@
   </data>
   <data name="Consistency Validation" xml:space="preserve">
     <value>Xác thực tính nhất quán</value>
+  </data>
+  <data name="Contact Sales" xml:space="preserve">
+    <value>Liên hệ bán hàng</value>
   </data>
   <data name="Contact Us" xml:space="preserve">
     <value>Liên hệ chúng tôi</value>
@@ -447,6 +459,9 @@
   <data name="Get a public cloud-like experience while hosting your applications in your own server." xml:space="preserve">
     <value>Trải nghiệm như đám mây công cộng nhưng lại lưu trữ ứng dụng của bạn trên máy chủ riêng của mình.</value>
   </data>
+  <data name="Get Started" xml:space="preserve">
+    <value>Bắt đầu ngay</value>
+  </data>
   <data name="Get unified endpoint management (UEM), identity management (IAM), and collaboration tools (OA) in one package. All on your local servers!" xml:space="preserve">
     <value>Nhận quản lý thiết bị đầu cuối thống nhất (UEM), quản lý danh tính (IAM) và công cụ hợp tác (OA) trong một gói duy nhất. Tất cả đều trên máy chủ cục bộ của bạn!</value>
   </data>
@@ -630,6 +645,9 @@
   <data name="open-source &amp; AI era." xml:space="preserve">
     <value>thời đại mã nguồn mở &amp; AI</value>
   </data>
+  <data name="Open-source &amp; AI era." xml:space="preserve">
+    <value>Thời đại mã nguồn mở &amp; AI</value>
+  </data>
   <data name="Open-Source Solutions" xml:space="preserve">
     <value>Giải pháp mã nguồn mở</value>
   </data>
@@ -667,6 +685,9 @@
     <value>Đọc tài liệu</value>
   </data>
   <data name="Ready to build your enterprise on open-source foundations?" xml:space="preserve">
+    <value>Sẵn sàng xây dựng doanh nghiệp của bạn trên nền tảng mã nguồn mở?</value>
+  </data>
+  <data name="Ready to build your enterprise on Open-source foundations?" xml:space="preserve">
     <value>Sẵn sàng xây dựng doanh nghiệp của bạn trên nền tảng mã nguồn mở?</value>
   </data>
   <data name="Recommended" xml:space="preserve">
@@ -753,6 +774,9 @@
   <data name="Strengthen your business with flexible open source projects that run by Aiursoft." xml:space="preserve">
     <value>Củng cố doanh nghiệp của bạn với các dự án mã nguồn mở linh hoạt được vận hành bởi Aiursoft.</value>
   </data>
+  <data name="Strengthen your business with flexible Open Source projects that run by Aiursoft." xml:space="preserve">
+    <value>Củng cố doanh nghiệp của bạn với các dự án mã nguồn mở linh hoạt được vận hành bởi Aiursoft.</value>
+  </data>
   <data name="Strict Lint Rules" xml:space="preserve">
     <value>Quy tắc kiểm tra mã nghiêm ngặt</value>
   </data>
@@ -783,6 +807,9 @@
   <data name="Switch easily between SQLite, MySQL, SQL Server." xml:space="preserve">
     <value>Chuyển đổi dễ dàng giữa SQLite, MySQL, SQL Server.</value>
   </data>
+  <data name="Talk to an Architect" xml:space="preserve">
+    <value>Nói chuyện với một Kiến trúc sư</value>
+  </data>
   <data name="Task Runner" xml:space="preserve">
     <value>Trình chạy tác vụ</value>
   </data>
@@ -798,8 +825,14 @@
   <data name="The open-source world already has the solutions you need." xml:space="preserve">
     <value>Thế giới mã nguồn mở đã có sẵn những giải pháp bạn cần.</value>
   </data>
+  <data name="The Open-source world already has the solutions you need." xml:space="preserve">
+    <value>Thế giới mã nguồn mở đã có những giải pháp bạn cần rồi.</value>
+  </data>
   <data name="The open-source world is free, but full of dangers. Aiursoft helps you withstand the first wave of attacks." xml:space="preserve">
     <value>Thế giới mã nguồn mở là miễn phí, nhưng đầy rẫy nguy hiểm. Aiursoft giúp bạn chống chịu làn sóng tấn công đầu tiên.</value>
+  </data>
+  <data name="The Open-source world is free, but full of dangers. Aiursoft helps you withstand the first wave of attacks." xml:space="preserve">
+    <value>Thế giới mã nguồn mở là miễn phí, nhưng đầy rẫy nguy hiểm. Aiursoft giúp bạn chống đỡ làn sóng tấn công đầu tiên.</value>
   </data>
   <data name="The Philosophy" xml:space="preserve">
     <value>Triết lý</value>
@@ -849,8 +882,14 @@
   <data name="Voxihost offers transparent, cost-effective cloud and generously sponsors Aiursoft&apos;s open-source work." xml:space="preserve">
     <value>Voxihost cung cấp dịch vụ đám mây minh bạch, hiệu quả về chi phí và tài trợ rộng rãi cho các công việc mã nguồn mở của Aiursoft.</value>
   </data>
+  <data name="Voxihost offers transparent, cost-effective cloud and generously sponsors Aiursoft&apos;s Open-source work." xml:space="preserve">
+    <value>Voxihost cung cấp dịch vụ đám mây minh bạch, hiệu quả về chi phí và tài trợ rộng rãi cho các công trình mã nguồn mở của Aiursoft.</value>
+  </data>
   <data name="We audit and integrate open-source code, respect GPL, compile components, and contribute upstream." xml:space="preserve">
     <value>Chúng tôi kiểm toán và tích hợp mã nguồn mở, tôn trọng GPL, biên dịch các thành phần và đóng góp ngược lại cho cộng đồng.</value>
+  </data>
+  <data name="We audit and integrate Open-source code, respect GPL, compile components, and contribute upstream." xml:space="preserve">
+    <value>Chúng tôi kiểm tra và tích hợp mã nguồn mở, tuân thủ GPL, biên dịch các thành phần và đóng góp ngược lại cộng đồng.</value>
   </data>
   <data name="We procure Yubikeys for all clients and configure zero-trust architecture." xml:space="preserve">
     <value>Chúng tôi mua Yubikeys cho tất cả khách hàng và cấu hình kiến trúc zero-trust.</value>

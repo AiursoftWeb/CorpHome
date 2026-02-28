@@ -75,6 +75,9 @@
   <data name="Aiursoft is dedicated to bringing the spirit of open-source and free software to every enterprise and individual." xml:space="preserve">
     <value>Aiursoft widmet sich der Verbreitung des Geistes von Open-Source- und Freier Software für jedes Unternehmen und jedes Individuum.</value>
   </data>
+  <data name="Aiursoft is dedicated to bringing the spirit of Open-source and free software to every enterprise and individual." xml:space="preserve">
+    <value>Aiursoft ist darauf ausgerichtet, den Geist von Open-Source- und freier Software für jedes Unternehmen und jedes Individuum zu verbreiten.</value>
+  </data>
   <data name="Aiursoft Substratum Core" xml:space="preserve">
     <value>Aiursoft Substratum Core</value>
   </data>
@@ -89,6 +92,9 @@
   </data>
   <data name="Aiursoft Template is continuously optimized for the AI era, built with the most popular and reliable open-source technologies. It has already produced dozens of mature applications delivered to enterprises. Aiursoft uses Template to help businesses develop custom solutions based on their core needs." xml:space="preserve">
     <value>Aiursoft Template wird kontinuierlich für das KI-Zeitalter optimiert und mit den beliebtesten und zuverlässigsten Open-Source-Technologien gebaut. Es hat bereits Dutzende reifer Anwendungen für Unternehmen geliefert. Aiursoft nutzt Template, um Unternehmen dabei zu unterstützen, maßgeschneiderte Lösungen basierend auf ihren Kernbedürfnissen zu entwickeln.</value>
+  </data>
+  <data name="Aiursoft Template is continuously optimized for the AI era, built with the most popular and reliable Open-source technologies. It has already produced dozens of mature applications delivered to enterprises. Aiursoft uses Template to help businesses develop custom solutions based on their core needs." xml:space="preserve">
+    <value>Aiursoft Template wird kontinuierlich für das KI-Zeitalter optimiert und mit den beliebtesten und zuverlässigsten Open-Source-Technologien aufgebaut. Es hat bereits Dutzende reifer Anwendungen für Unternehmen entwickelt. Aiursoft nutzt Template, um Unternehmen dabei zu unterstützen, maßgeschneiderte Lösungen auf Basis ihrer Kernbedürfnisse zu entwickeln.</value>
   </data>
   <data name="Aiursoft Template is our definitive choice for enterprise projects! It&apos;s built for developers and is lightweight yet powerful. We can skip all the boilerplate for authentication and user management." xml:space="preserve">
     <value>Aiursoft Template ist unsere endgültige Wahl für Unternehmensprojekte! Er wurde für Entwickler entwickelt und ist leichtgewichtig, aber dennoch leistungsstark. Wir können den gesamten Standardcode für Authentifizierung und Benutzerverwaltung überspringen.</value>
@@ -219,6 +225,9 @@
   <data name="Combine open-source tools on GitHub and Hugging Face — no enterprise licenses needed." xml:space="preserve">
     <value>Kombinieren Sie Open-Source-Tools auf GitHub und Hugging Face – keine Unternehmenslizenzen erforderlich.</value>
   </data>
+  <data name="Combine Open-source tools on GitHub and Hugging Face — no enterprise licenses needed." xml:space="preserve">
+    <value>Kombinieren Sie Open-Source-Tools auf GitHub und Hugging Face – keine Unternehmenslizenzen erforderlich.</value>
+  </data>
   <data name="Comes with Docker support for simplified and consistent deployments." xml:space="preserve">
     <value>Kommt mit Docker-Unterstützung für vereinfachte und konsistente Bereitstellungen.</value>
   </data>
@@ -251,6 +260,9 @@
   </data>
   <data name="Consistency Validation" xml:space="preserve">
     <value>Konsistenzüberprüfung</value>
+  </data>
+  <data name="Contact Sales" xml:space="preserve">
+    <value>Verkauf kontaktieren</value>
   </data>
   <data name="Contact Us" xml:space="preserve">
     <value>Kontaktieren Sie uns</value>
@@ -447,6 +459,9 @@
   <data name="Get a public cloud-like experience while hosting your applications in your own server." xml:space="preserve">
     <value>Erhalten Sie ein öffentliches Cloud-ähnliches Erlebnis, während Sie Ihre Anwendungen auf Ihrem eigenen Server hosten.</value>
   </data>
+  <data name="Get Started" xml:space="preserve">
+    <value>Loslegen</value>
+  </data>
   <data name="Get unified endpoint management (UEM), identity management (IAM), and collaboration tools (OA) in one package. All on your local servers!" xml:space="preserve">
     <value>Erhalten Sie eine integrierte Endpunktverwaltung (UEM), Identitätsverwaltung (IAM) und Zusammenarbeitswerkzeuge (OA) in einem Paket. Alles auf Ihren lokalen Servern!</value>
   </data>
@@ -630,6 +645,9 @@
   <data name="open-source &amp; AI era." xml:space="preserve">
     <value>Open-Source &amp; KI-Zeitalter</value>
   </data>
+  <data name="Open-source &amp; AI era." xml:space="preserve">
+    <value>Open-Source &amp; KI-Zeitalter</value>
+  </data>
   <data name="Open-Source Solutions" xml:space="preserve">
     <value>Open-Source-Lösungen</value>
   </data>
@@ -667,6 +685,9 @@
     <value>Dokumentation lesen</value>
   </data>
   <data name="Ready to build your enterprise on open-source foundations?" xml:space="preserve">
+    <value>Bereit, Ihr Unternehmen auf Open-Source-Grundlagen aufzubauen?</value>
+  </data>
+  <data name="Ready to build your enterprise on Open-source foundations?" xml:space="preserve">
     <value>Bereit, Ihr Unternehmen auf Open-Source-Grundlagen aufzubauen?</value>
   </data>
   <data name="Recommended" xml:space="preserve">
@@ -753,6 +774,9 @@
   <data name="Strengthen your business with flexible open source projects that run by Aiursoft." xml:space="preserve">
     <value>Stärken Sie Ihr Unternehmen mit flexiblen Open-Source-Projekten, die von Aiursoft betrieben werden.</value>
   </data>
+  <data name="Strengthen your business with flexible Open Source projects that run by Aiursoft." xml:space="preserve">
+    <value>Stärken Sie Ihr Unternehmen mit flexiblen Open-Source-Projekten, die von Aiursoft betrieben werden.</value>
+  </data>
   <data name="Strict Lint Rules" xml:space="preserve">
     <value>Strenge Lint-Regeln</value>
   </data>
@@ -783,6 +807,9 @@
   <data name="Switch easily between SQLite, MySQL, SQL Server." xml:space="preserve">
     <value>Wechseln Sie einfach zwischen SQLite, MySQL und SQL Server.</value>
   </data>
+  <data name="Talk to an Architect" xml:space="preserve">
+    <value>Mit einem Architekten sprechen</value>
+  </data>
   <data name="Task Runner" xml:space="preserve">
     <value>Aufgaben-Runner</value>
   </data>
@@ -798,8 +825,14 @@
   <data name="The open-source world already has the solutions you need." xml:space="preserve">
     <value>Die Welt des Open Source hat bereits die Lösungen, die Sie benötigen.</value>
   </data>
+  <data name="The Open-source world already has the solutions you need." xml:space="preserve">
+    <value>Die Open-Source-Welt hat bereits die Lösungen, die Sie benötigen.</value>
+  </data>
   <data name="The open-source world is free, but full of dangers. Aiursoft helps you withstand the first wave of attacks." xml:space="preserve">
     <value>Die Welt der Open-Source-Software ist kostenlos, birgt aber auch viele Gefahren. Aiursoft hilft Ihnen, die erste Welle von Angriffen abzuwehren.</value>
+  </data>
+  <data name="The Open-source world is free, but full of dangers. Aiursoft helps you withstand the first wave of attacks." xml:space="preserve">
+    <value>Die Welt der Open-Source-Software ist kostenlos, aber voller Gefahren. Aiursoft hilft Ihnen, die erste Welle von Angriffen abzuwehren.</value>
   </data>
   <data name="The Philosophy" xml:space="preserve">
     <value>Die Philosophie</value>
@@ -849,7 +882,13 @@
   <data name="Voxihost offers transparent, cost-effective cloud and generously sponsors Aiursoft&apos;s open-source work." xml:space="preserve">
     <value>Voxihost bietet transparente, kostengünstige Cloud-Infrastruktur und fördert großzügig die Open-Source-Arbeit von Aiursoft.</value>
   </data>
+  <data name="Voxihost offers transparent, cost-effective cloud and generously sponsors Aiursoft&apos;s Open-source work." xml:space="preserve">
+    <value>Voxihost bietet transparente, kostengünstige Cloud-Lösungen und fördert großzügig die Open-Source-Arbeit von Aiursoft.</value>
+  </data>
   <data name="We audit and integrate open-source code, respect GPL, compile components, and contribute upstream." xml:space="preserve">
+    <value>Wir prüfen und integrieren Open-Source-Code, respektieren GPL, kompilieren Komponenten und tragen upstream bei.</value>
+  </data>
+  <data name="We audit and integrate Open-source code, respect GPL, compile components, and contribute upstream." xml:space="preserve">
     <value>Wir prüfen und integrieren Open-Source-Code, respektieren GPL, kompilieren Komponenten und tragen upstream bei.</value>
   </data>
   <data name="We procure Yubikeys for all clients and configure zero-trust architecture." xml:space="preserve">

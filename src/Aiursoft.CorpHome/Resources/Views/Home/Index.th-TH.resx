@@ -75,6 +75,9 @@
   <data name="Aiursoft is dedicated to bringing the spirit of open-source and free software to every enterprise and individual." xml:space="preserve">
     <value>Aiursoft มุ่งมั่นที่จะนำจิตวิญญาณของซอฟต์แวร์โอเพนซอร์สและซอฟต์แวร์ฟรีมาสู่ทุกองค์กรและบุคคลทุกคน</value>
   </data>
+  <data name="Aiursoft is dedicated to bringing the spirit of Open-source and free software to every enterprise and individual." xml:space="preserve">
+    <value>Aiursoft มุ่งมั่นที่จะนำจิตวิญญาณของซอฟต์แวร์โอเพนซอร์สและซอฟต์แวร์ฟรีมาสู่ทุกองค์กรและบุคคลทุกคน</value>
+  </data>
   <data name="Aiursoft Substratum Core" xml:space="preserve">
     <value>Aiursoft Substratum Core</value>
   </data>
@@ -89,6 +92,9 @@
   </data>
   <data name="Aiursoft Template is continuously optimized for the AI era, built with the most popular and reliable open-source technologies. It has already produced dozens of mature applications delivered to enterprises. Aiursoft uses Template to help businesses develop custom solutions based on their core needs." xml:space="preserve">
     <value>Aiursoft Template ถูกปรับปรุงอย่างต่อเนื่องเพื่อให้เหมาะสมกับยุค AI โดยใช้เทคโนโลยีโอเพนซอร์สที่ได้รับความนิยมและเชื่อถือได้มากที่สุด มันได้สร้างแอปพลิเคชันที่มีความพร้อมใช้งานจำนวนมากที่ส่งมอบให้กับองค์กรแล้ว Aiursoft ใช้ Template เพื่อช่วยให้ธุรกิจพัฒนาโซลูชันเฉพาะตามความต้องการหลักของพวกเขา</value>
+  </data>
+  <data name="Aiursoft Template is continuously optimized for the AI era, built with the most popular and reliable Open-source technologies. It has already produced dozens of mature applications delivered to enterprises. Aiursoft uses Template to help businesses develop custom solutions based on their core needs." xml:space="preserve">
+    <value>Aiursoft Template ถูกปรับปรุงอย่างต่อเนื่องเพื่อให้เข้ากับยุค AI โดยใช้เทคโนโลยีโอเพนซอร์สที่นิยมและเชื่อถือได้มากที่สุด มีการผลิตแอปพลิเคชันที่มีความพร้อมใช้งานจำนวนมากแล้ว ซึ่งส่งมอบให้กับองค์กรต่าง ๆ แล้ว Aiursoft ใช้ Template เพื่อช่วยให้ธุรกิจพัฒนาโซลูชันเฉพาะตามความต้องการหลักของพวกเขา</value>
   </data>
   <data name="Aiursoft Template is our definitive choice for enterprise projects! It&apos;s built for developers and is lightweight yet powerful. We can skip all the boilerplate for authentication and user management." xml:space="preserve">
     <value>Aiursoft Template คือตัวเลือกที่ดีที่สุดสำหรับโครงการระดับองค์กร! มันถูกสร้างขึ้นสำหรับนักพัฒนา มีน้ำหนักเบาแต่ทรงพลัง เราสามารถข้ามขั้นตอนพื้นฐานสำหรับการยืนยันตัวตนและการจัดการผู้ใช้ได้ทั้งหมด</value>
@@ -219,6 +225,9 @@
   <data name="Combine open-source tools on GitHub and Hugging Face — no enterprise licenses needed." xml:space="preserve">
     <value>รวมเครื่องมือโอเพ่นซอร์สบน GitHub และ Hugging Face — ไม่ต้องใช้ใบอนุญาตสำหรับองค์กร</value>
   </data>
+  <data name="Combine Open-source tools on GitHub and Hugging Face — no enterprise licenses needed." xml:space="preserve">
+    <value>รวมเครื่องมือโอเพนซอร์สบน GitHub และ Hugging Face — ไม่จำเป็นต้องมีใบอนุญาตสำหรับองค์กร</value>
+  </data>
   <data name="Comes with Docker support for simplified and consistent deployments." xml:space="preserve">
     <value>มาพร้อมการสนับสนุน Docker สำหรับการปรับใช้งานที่ง่ายและมีความสม่ำเสมอ</value>
   </data>
@@ -251,6 +260,9 @@
   </data>
   <data name="Consistency Validation" xml:space="preserve">
     <value>การตรวจสอบความสอดคล้อง</value>
+  </data>
+  <data name="Contact Sales" xml:space="preserve">
+    <value>ติดต่อฝ่ายขาย</value>
   </data>
   <data name="Contact Us" xml:space="preserve">
     <value>ติดต่อเรา</value>
@@ -447,6 +459,9 @@
   <data name="Get a public cloud-like experience while hosting your applications in your own server." xml:space="preserve">
     <value>รับประสบการณ์คล้ายคลาวด์สาธารณะ ขณะที่โฮสต์แอปพลิเคชันของคุณบนเซิร์ฟเวอร์ของคุณเอง</value>
   </data>
+  <data name="Get Started" xml:space="preserve">
+    <value>เริ่มต้นใช้งาน</value>
+  </data>
   <data name="Get unified endpoint management (UEM), identity management (IAM), and collaboration tools (OA) in one package. All on your local servers!" xml:space="preserve">
     <value>รับการจัดการปลายทางแบบรวมศูนย์ (UEM), การจัดการตัวตน (IAM), และเครื่องมือการทำงานร่วมกัน (OA) ทั้งหมดในชุดเดียว ทั้งหมดอยู่บนเซิร์ฟเวอร์ของคุณเอง!</value>
   </data>
@@ -630,6 +645,9 @@
   <data name="open-source &amp; AI era." xml:space="preserve">
     <value>ยุคโอเพนซอร์สและปัญญาประดิษฐ์</value>
   </data>
+  <data name="Open-source &amp; AI era." xml:space="preserve">
+    <value>ยุคโอเพนซอร์สและปัญญาประดิษฐ์</value>
+  </data>
   <data name="Open-Source Solutions" xml:space="preserve">
     <value>โซลูชันโอเพนซอร์ส</value>
   </data>
@@ -668,6 +686,9 @@
   </data>
   <data name="Ready to build your enterprise on open-source foundations?" xml:space="preserve">
     <value>พร้อมที่จะสร้างองค์กรของคุณบนพื้นฐานของโอเพนซอร์สหรือไม่?</value>
+  </data>
+  <data name="Ready to build your enterprise on Open-source foundations?" xml:space="preserve">
+    <value>พร้อมที่จะสร้างองค์กรของคุณบนพื้นฐานของโอเพนซอร์สหรือยัง?</value>
   </data>
   <data name="Recommended" xml:space="preserve">
     <value>ที่แนะนำ</value>
@@ -753,6 +774,9 @@
   <data name="Strengthen your business with flexible open source projects that run by Aiursoft." xml:space="preserve">
     <value>เสริมสร้างธุรกิจของคุณด้วยโครงการโอเพนซอร์สที่ยืดหยุ่น ซึ่งดำเนินการโดย Aiursoft</value>
   </data>
+  <data name="Strengthen your business with flexible Open Source projects that run by Aiursoft." xml:space="preserve">
+    <value>เสริมสร้างธุรกิจของคุณด้วยโครงการโอเพนซอร์สที่ยืดหยุ่นซึ่งดำเนินการโดย Aiursoft</value>
+  </data>
   <data name="Strict Lint Rules" xml:space="preserve">
     <value>กฎการตรวจสอบโค้ดที่เข้มงวด</value>
   </data>
@@ -783,6 +807,9 @@
   <data name="Switch easily between SQLite, MySQL, SQL Server." xml:space="preserve">
     <value>สลับได้อย่างง่ายระหว่าง SQLite, MySQL, SQL Server</value>
   </data>
+  <data name="Talk to an Architect" xml:space="preserve">
+    <value>คุยกับสถาปนิก</value>
+  </data>
   <data name="Task Runner" xml:space="preserve">
     <value>ผู้จัดการงาน</value>
   </data>
@@ -798,8 +825,14 @@
   <data name="The open-source world already has the solutions you need." xml:space="preserve">
     <value>โลกของโอเพนซอร์สได้เตรียมทางเลือกที่คุณต้องการไว้แล้ว</value>
   </data>
+  <data name="The Open-source world already has the solutions you need." xml:space="preserve">
+    <value>โลกโอเพนซอร์สมีโซลูชันที่คุณต้องการอยู่แล้ว</value>
+  </data>
   <data name="The open-source world is free, but full of dangers. Aiursoft helps you withstand the first wave of attacks." xml:space="preserve">
     <value>โลกของซอฟต์แวร์โอเพนซอร์สฟรี แต่เต็มไปด้วยอันตราย Aiursoft ช่วยให้คุณรับมือกับคลื่นโจมตีครั้งแรกได้</value>
+  </data>
+  <data name="The Open-source world is free, but full of dangers. Aiursoft helps you withstand the first wave of attacks." xml:space="preserve">
+    <value>โลกโอเพนซอร์สฟรี แต่เต็มไปด้วยอันตราย Aiursoft ช่วยให้คุณต้านทานคลื่นโจมตีครั้งแรกได้</value>
   </data>
   <data name="The Philosophy" xml:space="preserve">
     <value>ปรัชญา</value>
@@ -849,8 +882,14 @@
   <data name="Voxihost offers transparent, cost-effective cloud and generously sponsors Aiursoft&apos;s open-source work." xml:space="preserve">
     <value>Voxihost ให้บริการคลาวด์ที่โปร่งใสและมีต้นทุนต่ำ และสนับสนุนโครงการโอเพนซอร์สของ Aiursoft อย่างเต็มที่</value>
   </data>
+  <data name="Voxihost offers transparent, cost-effective cloud and generously sponsors Aiursoft&apos;s Open-source work." xml:space="preserve">
+    <value>Voxihost ให้บริการคลาวด์ที่โปร่งใสและคุ้มค่า และสนับสนุนโครงการโอเพนซอร์สของ Aiursoft อย่างมีน้ำใจ</value>
+  </data>
   <data name="We audit and integrate open-source code, respect GPL, compile components, and contribute upstream." xml:space="preserve">
     <value>เราตรวจสอบและรวมโค้ดโอเพ่นซอร์ส ให้ความเคารพต่อ GPL คอมไพล์ส่วนประกอบ และมีส่วนร่วมในการพัฒนาในระดับต้นทาง</value>
+  </data>
+  <data name="We audit and integrate Open-source code, respect GPL, compile components, and contribute upstream." xml:space="preserve">
+    <value>เราตรวจสอบและรวมโค้ดโอเพนซอร์ส ให้ความเคารพต่อ GPL คอมไพล์ส่วนประกอบ และส่งกลับไปยังแหล่งต้นทาง</value>
   </data>
   <data name="We procure Yubikeys for all clients and configure zero-trust architecture." xml:space="preserve">
     <value>เราจัดหา Yubikeys สำหรับลูกค้าทุกท่านและตั้งค่าสถาปัตยกรรมแบบ zero-trust</value>

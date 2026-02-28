@@ -18,8 +18,23 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="&quot;Fire-and-forget&quot; support for long-running tasks (like emails or AI), featuring a GUI for queue management, parallel processing, and cancellation." xml:space="preserve">
+      <data name=" tailored to your business needs" xml:space="preserve">
+    <value>işletmenizin ihtiyaçlarına uygun şekilde özelleştirilmiş</value>
+  </data>
+  <data name="&quot;Fire-and-forget&quot; support for long-running tasks (like emails or AI), featuring a GUI for queue management, parallel processing, and cancellation." xml:space="preserve">
     <value>Uzun süreli görevler (örneğin e-postalar veya AI) için &quot;Fire-and-forget&quot; desteği, kuyruk yönetimi, paralel işlem ve iptal için bir GUI ile birlikte.</value>
+  </data>
+  <data name="/ month" xml:space="preserve">
+    <value>/ay</value>
+  </data>
+  <data name="/ user" xml:space="preserve">
+    <value>/kullanıcı</value>
+  </data>
+  <data name="7×24 On-Call Support" xml:space="preserve">
+    <value>7×24 Çağrı Merkezli Destek</value>
+  </data>
+  <data name="A beautiful, self-hosted chat interface for interacting with your local AI models." xml:space="preserve">
+    <value>Yerel AI modellerinizle etkileşim kurmak için güzel, kendi sunucunuzda barındırılan bir sohbet arayüzü.</value>
   </data>
   <data name="A built-in Role-Based Access Control (RBAC) system for fine-grained permission management." xml:space="preserve">
     <value>İnce taneli izin yönetimi için yerleşik bir Rol Tabanlı Erişim Kontrolü (RBAC) sistemi.</value>
@@ -39,20 +54,59 @@
   <data name="Achieve more with Aiursoft Template" xml:space="preserve">
     <value>Aiursoft Template ile daha fazlasını başarın</value>
   </data>
+  <data name="AI Era" xml:space="preserve">
+    <value>Yapay Zeka Dönemi</value>
+  </data>
+  <data name="AI Knowledge Base construction" xml:space="preserve">
+    <value>Yerel Bilgi Tabanı İnşası</value>
+  </data>
   <data name="AI Readable" xml:space="preserve">
     <value>AI Okunabilir</value>
+  </data>
+  <data name="AI Translation" xml:space="preserve">
+    <value>Yapay Zeka Çevirisi</value>
   </data>
   <data name="AI-Powered Translations" xml:space="preserve">
     <value>Yapay Zeka Destekli Çeviriler</value>
   </data>
+  <data name="Air-Gapped Ready" xml:space="preserve">
+    <value>Havuzlu Hazır</value>
+  </data>
+  <data name="Aiursoft is dedicated to bringing the spirit of Open-source and free software to every enterprise and individual." xml:space="preserve">
+    <value>Aiursoft, her kurum ve bireye açık kaynak ve serbest yazılım ruhunu getirmeye adanmıştır.</value>
+  </data>
+  <data name="Aiursoft Substratum Core" xml:space="preserve">
+    <value>Aiursoft Substratum Core</value>
+  </data>
+  <data name="Aiursoft Substratum Enterprise" xml:space="preserve">
+    <value>Aiursoft Substratum Enterprise</value>
+  </data>
+  <data name="Aiursoft Substratum Startup" xml:space="preserve">
+    <value>Aiursoft Substratum Startup</value>
+  </data>
   <data name="Aiursoft Template" xml:space="preserve">
     <value>Aiursoft Template</value>
+  </data>
+  <data name="Aiursoft Template is continuously optimized for the AI era, built with the most popular and reliable Open-source technologies. It has already produced dozens of mature applications delivered to enterprises. Aiursoft uses Template to help businesses develop custom solutions based on their core needs." xml:space="preserve">
+    <value>Aiursoft Template, Yapay Zekâ çağı için sürekli olarak optimize edilmektedir ve en popüler ve güvenilir Açık Kaynak teknolojileriyle inşa edilmiştir. Zaten onlarca olgun uygulama üretmiş ve işletmelerin eline verilmiştir. Aiursoft, işletmelerin temel ihtiyaçlarına dayalı özelleştirilmiş çözümler geliştirmelerine yardımcı olmak için Template’i kullanmaktadır.</value>
   </data>
   <data name="Aiursoft Template is our definitive choice for enterprise projects! It&apos;s built for developers and is lightweight yet powerful. We can skip all the boilerplate for authentication and user management." xml:space="preserve">
     <value>Aiursoft Template, kurumsal projeler için nihai tercihimizdir! Geliştiriciler için tasarlandı, hafif ama güçlüdür. Kimlik doğrulama ve kullanıcı yönetimi için gerekli tüm standart kodlardan kurtulabiliriz.</value>
   </data>
+  <data name="Aiursoft Template Screenshot" xml:space="preserve">
+    <value>Aiursoft Template Ekran Görüntüsü</value>
+  </data>
+  <data name="All Aiursoft servers are sourced from Voxihost. We help clients land on Voxihost infrastructure." xml:space="preserve">
+    <value>Tüm Aiursoft sunucuları Voxihost&apos;tan temin edilir. Müşterilerimizin Voxihost altyapısına yerleştirilmesine yardımcı oluruz.</value>
+  </data>
   <data name="All dependencies are automatically registered and always available via constructor injection." xml:space="preserve">
     <value>Tüm bağımlılıklar otomatik olere kaydedilir ve constructor injection yoluyla her zaman kullanılabilir.</value>
+  </data>
+  <data name="All enterprise knowledge stays under your control — sustainable, auditable, and truly yours." xml:space="preserve">
+    <value>Tüm işletme bilgilerinizin kontrolü sizde kalır — sürdürülebilir, denetlenebilir ve gerçekten sizin.</value>
+  </data>
+  <data name="Always on-premises, sustainable, and built for the long term. Aiursoft is committed to running all Agents locally, ensuring your enterprise knowledge truly belongs to you." xml:space="preserve">
+    <value>Her zaman yerelde, sürdürülebilir ve uzun vadeli olarak geliştirilmiş. Aiursoft, tüm Ağent&apos;leri yerel olarak çalıştırmaya committedtir ve kurumsal bilginizin gerçekten sizin olduğundan emin olur.</value>
   </data>
   <data name="Anduin" xml:space="preserve">
     <value>Anduin</value>
@@ -60,11 +114,20 @@
   <data name="Anduin Xue" xml:space="preserve">
     <value>Anduin Xue</value>
   </data>
+  <data name="AnduinOS Enterprise" xml:space="preserve">
+    <value>AnduinOS Enterprise</value>
+  </data>
+  <data name="AnduinOS Enterprise Edition adds enterprise-grade customer support and 7×24 phone on-call on top of the community edition." xml:space="preserve">
+    <value>AnduinOS Enterprise Edition, topluluk sürümüne ek olarak kurumsal düzeyde müşteri desteği ve 7×24 telefon destek hizmeti sunar.</value>
+  </data>
   <data name="Artificial Intelligence Translation" xml:space="preserve">
     <value>Yapay Zeka Çevirisi</value>
   </data>
   <data name="Authentik &amp; Okta" xml:space="preserve">
     <value>Authentik &amp; Okta</value>
+  </data>
+  <data name="Auto AI translation to 28 languages." xml:space="preserve">
+    <value>Otomatik AI çevirisi 28 dilde.</value>
   </data>
   <data name="Auto Deployment" xml:space="preserve">
     <value>Otomatik Dağıtım</value>
@@ -105,14 +168,32 @@
   <data name="Bilingual Tutorials" xml:space="preserve">
     <value>Çift Dilli Eğitimler</value>
   </data>
+  <data name="Brand the OS with your company logo, pre-installed software, and compliance requirements." xml:space="preserve">
+    <value>İşletmenizin logosu, önceden yüklenmiş yazılımlar ve uyumluluk gereksinimleriyle işletim sistemini markalaştırın.</value>
+  </data>
+  <data name="Break Vendor Lock-in" xml:space="preserve">
+    <value>Tedarikçi Kilitlenmesini Kır</value>
+  </data>
   <data name="Build once, run anywhere. Fully containerized architecture." xml:space="preserve">
     <value>Bir kez derle, her yerde çalıştır. Tamamen konteynerli mimari.</value>
+  </data>
+  <data name="Build Your Local Knowledge Base" xml:space="preserve">
+    <value>Yerel Bilgi Tabanınızı Kurun</value>
   </data>
   <data name="Build your next big thing," xml:space="preserve">
     <value>Bir sonraki büyük projenizi oluşturun,</value>
   </data>
+  <data name="Build your own intranet software sources to accelerate compliance and reduce patching turnaround time." xml:space="preserve">
+    <value>Kendi iç ağ yazılım kaynaklarınızı oluşturarak uyum sağlama süresini hızlandırın ve düzeltme döngü süresini azaltın.</value>
+  </data>
+  <data name="Building Rock-Solid Enterprise" xml:space="preserve">
+    <value>Katkı Sağlayan Kurumsal Altyapı İnşa Etme</value>
+  </data>
   <data name="Built for engineers who care about quality." xml:space="preserve">
     <value>Kaliteye önem veren mühendisler için yapılmıştır.</value>
+  </data>
+  <data name="Built on open standards. Migrate in or out anytime with full data portability and transparency." xml:space="preserve">
+    <value>Açık standartlara dayalı. Tam veri taşınabilirliği ve şeffaflıkla her zaman içeri veya dışarı geçiş yapın.</value>
   </data>
   <data name="Built with Aiursoft Template" xml:space="preserve">
     <value>Aiursoft Şablonu ile oluşturuldu</value>
@@ -126,8 +207,17 @@
   <data name="Built-in Auth" xml:space="preserve">
     <value>Gömülü Kimlik Doğrulama</value>
   </data>
+  <data name="Built-in RBAC for fine-grained permission management." xml:space="preserve">
+    <value>İçinde RBAC, ince ayarlı izin yönetimi için.</value>
+  </data>
   <data name="Built-in User Management" xml:space="preserve">
     <value>Dahili Kullanıcı Yönetimi</value>
+  </data>
+  <data name="Code Audit &amp; Integration" xml:space="preserve">
+    <value>Kod Denetimi &amp; Entegrasyon</value>
+  </data>
+  <data name="Combine Open-source tools on GitHub and Hugging Face — no enterprise licenses needed." xml:space="preserve">
+    <value>GitHub ve Hugging Face&apos;te açık kaynak araçları birleştirin — işletmeler için lisans gerekmez.</value>
   </data>
   <data name="Comes with Docker support for simplified and consistent deployments." xml:space="preserve">
     <value>Kolay ve tutarlı dağıtımlar için Docker desteğiyle birlikte gelir.</value>
@@ -137,6 +227,18 @@
   </data>
   <data name="Comes with strict unit tests, making test-driven development easy." xml:space="preserve">
     <value>Katılıyordu sıkı birim testleri, test odaklı geliştirme kolay hale getiriyor.</value>
+  </data>
+  <data name="Complete Business Hosting" xml:space="preserve">
+    <value>Tam İşletme Barındırma</value>
+  </data>
+  <data name="Complete control over your enterprise data. No third-party access, full privacy compliance." xml:space="preserve">
+    <value>Şirket verileriniz üzerinde tam kontrol. Üçüncü taraf erişimi yok, tam gizlilik uyumu.</value>
+  </data>
+  <data name="Completely offline." xml:space="preserve">
+    <value>Tamamen çevrimdışı.</value>
+  </data>
+  <data name="Compliance Ready" xml:space="preserve">
+    <value>Uyumlu Hazır</value>
   </data>
   <data name="Comprehensive Documentation" xml:space="preserve">
     <value>Kapsamlı Dokümantasyon</value>
@@ -150,6 +252,12 @@
   <data name="Consistency Validation" xml:space="preserve">
     <value>Tutarlılık Doğrulama</value>
   </data>
+  <data name="Contact Sales" xml:space="preserve">
+    <value>Satın Alım ile İletişime Geçin</value>
+  </data>
+  <data name="Contact Us" xml:space="preserve">
+    <value>Bize Ulaşın</value>
+  </data>
   <data name="Coordinate Comfortably" xml:space="preserve">
     <value>Konforlu Koordinasyon</value>
   </data>
@@ -159,14 +267,32 @@
   <data name="Cross Platform" xml:space="preserve">
     <value>Çapraz Platform</value>
   </data>
+  <data name="Custom Branding" xml:space="preserve">
+    <value>Özel Markalaştırma</value>
+  </data>
+  <data name="Custom container development" xml:space="preserve">
+    <value>Özel konteyner geliştirme</value>
+  </data>
+  <data name="Custom Development Fee" xml:space="preserve">
+    <value>Özel Geliştirme Ücreti</value>
+  </data>
+  <data name="Customized for your enterprise" xml:space="preserve">
+    <value>Şirketinize özel olarak özelleştirildi</value>
+  </data>
   <data name="Dashboard Website" xml:space="preserve">
     <value>Kontrol Paneli Web Sitesi</value>
+  </data>
+  <data name="Data Sovereignty" xml:space="preserve">
+    <value>Veri Bütünlüğü</value>
   </data>
   <data name="Day 1 Compliance &amp; Security." xml:space="preserve">
     <value>Gün 1 Uyumluluk &amp; Güvenlik.</value>
   </data>
   <data name="Day 1 Ready" xml:space="preserve">
     <value>Gün 1 Hazır</value>
+  </data>
+  <data name="Deep Collaboration" xml:space="preserve">
+    <value>Derin İş Birliği</value>
   </data>
   <data name="Deep integration testing with Authentik. Compatible with Okta." xml:space="preserve">
     <value>Authentik ile derin entegrasyon testleri. Okta ile uyumlu.</value>
@@ -180,6 +306,9 @@
   <data name="Designed for the container era. Includes pre-configured CI/CD pipelines for GitLab. Push code, pass strictly linting, auto-test, and deploy to Docker Swarm or Kubernetes automatically." xml:space="preserve">
     <value>Konteyner çağı için tasarlandı. GitLab için önceden yapılandırılmış CI/CD pipeline&apos;ları içerir. Kodu gönderin, sıkı şekilde kod denetimi geçin, otomatik test yapın ve Docker Swarm veya Kubernetes&apos;e otomatik olarak dağıtın.</value>
   </data>
+  <data name="Designed to run offline. Perfect for high-security environments with no internet dependency." xml:space="preserve">
+    <value>Çevrimdışı çalışmak üzere tasarlandı. İnternet bağımlılığı olmayan yüksek güvenlikli ortamlar için uygundur.</value>
+  </data>
   <data name="Dev &amp; Prod" xml:space="preserve">
     <value>Geliştirme &amp; Üretim</value>
   </data>
@@ -191,6 +320,9 @@
   </data>
   <data name="DevOps Native" xml:space="preserve">
     <value>DevOps Uyumlu</value>
+  </data>
+  <data name="Discover AnduinOS" xml:space="preserve">
+    <value>AnduinOS&apos;u Keşfet</value>
   </data>
   <data name="Discussions page" xml:space="preserve">
     <value>Tartışmalar sayfası</value>
@@ -207,6 +339,9 @@
   <data name="Dynamic Navigation Bar" xml:space="preserve">
     <value>Dinamik Gezinti Çubuğu</value>
   </data>
+  <data name="Easily achieve zero-trust and hardware-level security based on Yubico hardware keys." xml:space="preserve">
+    <value>Yubico donanım anahtarlarına dayalı sıfır güven ve donanım düzeyi güvenliği kolayca sağlayın.</value>
+  </data>
   <data name="Easily switch between database providers, including SQLite, MySQL, SQL Server, and an in-memory database for testing." xml:space="preserve">
     <value>SQLite, MySQL, SQL Server ve test için bellek içi veritabanı dahil olmak üzere veritabanı sağlayıcıları arasında kolayca geçiş yapın.</value>
   </data>
@@ -216,17 +351,44 @@
   <data name="Effortlessly write integration tests using in-memory databases, temporary file systems, built-in mocking, and real-world HTTP request simulation." xml:space="preserve">
     <value>Anımsatmadan entegrasyon testleri yazın, bellek içi veritabanları, geçici dosya sistemleri, yerleşik mocklama ve gerçek dünya HTTP isteği simülasyonu kullanarak.</value>
   </data>
+  <data name="Empower developers with a flexible platform that scales with your business needs." xml:space="preserve">
+    <value>Geliştiricileri iş ihtiyaçlarınızla birlikte ölçeklenebilen esnek bir platformla güçlendirin.</value>
+  </data>
+  <data name="Endpoint Monitoring" xml:space="preserve">
+    <value>Uç Nokta İzleme</value>
+  </data>
   <data name="Enforced" xml:space="preserve">
     <value>Zorunlu</value>
+  </data>
+  <data name="Enterprise" xml:space="preserve">
+    <value>Enterprise</value>
+  </data>
+  <data name="Enterprise business framework for the" xml:space="preserve">
+    <value>Kurumsal iş çerçevesi için açık kaynak ve yapay zeka çağı</value>
   </data>
   <data name="Enterprise C#" xml:space="preserve">
     <value>Enterprise C#</value>
   </data>
+  <data name="Enterprise customers get round-the-clock telephone support, ensuring critical issues are addressed immediately." xml:space="preserve">
+    <value>Kurumsal müşteriler, kritik sorunların hemen çözüldüğünden emin olmak için 7/24 telefon destek hizmeti alır.</value>
+  </data>
   <data name="Enterprise Ready" xml:space="preserve">
     <value>Kurumsal Hazır</value>
   </data>
+  <data name="Enterprise scale deployment" xml:space="preserve">
+    <value>Kurumsal ölçekli dağıtım</value>
+  </data>
   <data name="Enterprise Security" xml:space="preserve">
     <value>Kurumsal Güvenlik</value>
+  </data>
+  <data name="Every access is verified, every connection is encrypted, every action is audited." xml:space="preserve">
+    <value>Her erişim doğrulanır, her bağlantı şifrelenir, her eylem denetlenir.</value>
+  </data>
+  <data name="Explore on GitHub" xml:space="preserve">
+    <value>GitHub&apos;da Keşfet</value>
+  </data>
+  <data name="Explore Our Projects" xml:space="preserve">
+    <value>Projelerimizi Keşfedin</value>
   </data>
   <data name="FAQ" xml:space="preserve">
     <value>SSS</value>
@@ -261,11 +423,17 @@
   <data name="Free Software" xml:space="preserve">
     <value>Serbest Yazılım</value>
   </data>
+  <data name="Freedom and enterprise service don&apos;t conflict." xml:space="preserve">
+    <value>Serbestlik ve işletme hizmeti çelişmez.</value>
+  </data>
   <data name="Frequently asked questions" xml:space="preserve">
     <value>Sıkça Sorulan Sorular</value>
   </data>
   <data name="From the Architect" xml:space="preserve">
     <value>Mimarın Söyledikleri</value>
+  </data>
+  <data name="Full Infrastructure Suite, on your local server" xml:space="preserve">
+    <value>Tam Altyapı Paketi, yerel sunucunuzda</value>
   </data>
   <data name="Full RBAC" xml:space="preserve">
     <value>Tam RBAC</value>
@@ -279,6 +447,15 @@
   <data name="Fully Offline" xml:space="preserve">
     <value>Tamamen Çevrimdışı</value>
   </data>
+  <data name="Get a public cloud-like experience while hosting your applications in your own server." xml:space="preserve">
+    <value>Uygulamalarınızı kendi sunucunuzda barındırırken, genel bulut benzeri bir deneyim yaşayın.</value>
+  </data>
+  <data name="Get Started" xml:space="preserve">
+    <value>Başlayın</value>
+  </data>
+  <data name="Get unified endpoint management (UEM), identity management (IAM), and collaboration tools (OA) in one package. All on your local servers!" xml:space="preserve">
+    <value>Bir paket içinde birleştirilmiş uç nokta yönetimi (UEM), kimlik yönetimi (IAM) ve iş birliği araçları (OA) elde edin. Tümü yerel sunucularınızda!</value>
+  </data>
   <data name="GitLab CI" xml:space="preserve">
     <value>GitLab CI</value>
   </data>
@@ -291,11 +468,17 @@
   <data name="Go to dashboard" xml:space="preserve">
     <value>Panele git</value>
   </data>
+  <data name="Go to Dashboard" xml:space="preserve">
+    <value>Panoya Git</value>
+  </data>
   <data name="Handle recurring jobs like cleanup and synchronization with a comprehensive GUI for monitoring execution history and logs." xml:space="preserve">
     <value>Temizlik ve senkronizasyon gibi tekrarlayan görevleri, yürütme geçmişi ve günlükleri izlemek için kapsamlı bir GUI ile yönetin.</value>
   </data>
   <data name="Hands-on tutorials suitable for computer science interns." xml:space="preserve">
     <value>Bilgisayar bilimi stajyerleri için uygun pratik öğreticiler.</value>
+  </data>
+  <data name="Hardware-Level Security" xml:space="preserve">
+    <value>Donanım Düzeyinde Güvenlik</value>
   </data>
   <data name="Hello World!" xml:space="preserve">
     <value>Merhaba Dünya!</value>
@@ -309,6 +492,9 @@
   <data name="High Quality" xml:space="preserve">
     <value>Yüksek Kalite</value>
   </data>
+  <data name="Hosted by Aiursoft" xml:space="preserve">
+    <value>Aiursoft tarafından barındırılıyor</value>
+  </data>
   <data name="How can I get support?" xml:space="preserve">
     <value>Nasıl destek alabilirim?</value>
   </data>
@@ -321,8 +507,20 @@
   <data name="IDE Support" xml:space="preserve">
     <value>IDE Desteği</value>
   </data>
+  <data name="in the AI Era." xml:space="preserve">
+    <value>Yapay Zekâ Çağında</value>
+  </data>
   <data name="Included" xml:space="preserve">
     <value>Dahil</value>
+  </data>
+  <data name="Includes Collaboration + Email + Identity Gateway" xml:space="preserve">
+    <value>İşbirliği + E-posta + Kimlik Ağ Geçidi İçerir</value>
+  </data>
+  <data name="Includes everything in Starter" xml:space="preserve">
+    <value>Başlangıçtakilerin hepsini içerir</value>
+  </data>
+  <data name="Includes everything in Startup" xml:space="preserve">
+    <value>Startup&apos;taki tüm özellikler dahil</value>
   </data>
   <data name="Includes extensive documentation and practical examples to get you started quickly." xml:space="preserve">
     <value>Kapsamlı belgeler ve hızlı bir şekilde başlamanızı sağlayacak pratik örnekler içerir.</value>
@@ -345,6 +543,9 @@
   <data name="Is it free to use Aiursoft Template?" xml:space="preserve">
     <value>Aiursoft Template&apos;ı kullanmak ücretsiz mi?</value>
   </data>
+  <data name="IT teams can monitor the health of all endpoints and perform basic remote management." xml:space="preserve">
+    <value>IT ekipleri tüm uç noktaların durumunu izleyebilir ve temel uzaktan yönetimi gerçekleştirebilir.</value>
+  </data>
   <data name="Join Discussions" xml:space="preserve">
     <value>Tartışmalara Katıl</value>
   </data>
@@ -357,11 +558,29 @@
   <data name="Lint Check" xml:space="preserve">
     <value>Lint Kontrolü</value>
   </data>
+  <data name="Live Demo" xml:space="preserve">
+    <value>Canlı Demo</value>
+  </data>
+  <data name="Local LLM Deployment" xml:space="preserve">
+    <value>Yerel LLM Dağıtımı</value>
+  </data>
   <data name="Maintain High Code Quality" xml:space="preserve">
     <value>Yüksek Kod Kalitesini Koruyun</value>
   </data>
   <data name="Markdown To HTML" xml:space="preserve">
     <value>Markdown&apos;dan HTML&apos;e</value>
+  </data>
+  <data name="Max 1000 accounts" xml:space="preserve">
+    <value>Maksimum 1000 hesap</value>
+  </data>
+  <data name="Max 150 accounts" xml:space="preserve">
+    <value>Maksimum 150 hesap</value>
+  </data>
+  <data name="MDM based device compliance" xml:space="preserve">
+    <value>MDM tabanlı cihaz uyumu</value>
+  </data>
+  <data name="Meet industry compliance requirements with auditable configurations and enterprise-grade controls." xml:space="preserve">
+    <value>Denetlenebilir yapılandırmalar ve kurumsal düzey kontrol ile endüstri uyum gereksinimlerini karşılama.</value>
   </data>
   <data name="MIT Licence" xml:space="preserve">
     <value>MIT Lisansı</value>
@@ -371,6 +590,9 @@
   </data>
   <data name="Models are validated on both client and server sides based on data annotations." xml:space="preserve">
     <value>Modeller, veri eklemelerine dayalı olarak hem istemci hem de sunucu tarafında doğrulanır.</value>
+  </data>
+  <data name="Multi-Database" xml:space="preserve">
+    <value>Çoklu Veritabanı</value>
   </data>
   <data name="Multiple Database Provider Support" xml:space="preserve">
     <value>Çoklu Veritabanı Sağlayıcı Desteği</value>
@@ -384,23 +606,62 @@
   <data name="Music Tools" xml:space="preserve">
     <value>Müzik Araçları</value>
   </data>
+  <data name="Need to develop faster? A robust project template to support your grand ambitions." xml:space="preserve">
+    <value>Daha hızlı geliştirmek mi istiyorsunuz? Büyük ambisyonlarınızı destekleyecek sağlam bir proje şablonu.</value>
+  </data>
   <data name="No dependency on any cloud vendor. Run anywhere, any time." xml:space="preserve">
     <value>Herhangi bir bulut sağlayıcısına bağımlılık yok. Her yerde, her zaman çalıştırılabilir.</value>
   </data>
   <data name="Offline Capable" xml:space="preserve">
     <value>Çevrimdışı Kullanım Destekli</value>
   </data>
+  <data name="On-premise offline deployment" xml:space="preserve">
+    <value>Yerel sunucuda çevrimdışı dağıtım</value>
+  </data>
   <data name="One Click Start" xml:space="preserve">
     <value>Bir Tıkla Başlat</value>
+  </data>
+  <data name="One-time Setup Fee" xml:space="preserve">
+    <value>Bir Kezlik Kurulum Ücreti</value>
   </data>
   <data name="Open Source" xml:space="preserve">
     <value>Açık Kaynak</value>
   </data>
+  <data name="Open WebUI – Local AI Knowledge Base" xml:space="preserve">
+    <value>Open WebUI – Yerel AI Bilgi Tabanı</value>
+  </data>
+  <data name="Open WebUI Integration" xml:space="preserve">
+    <value>Open WebUI Entegrasyonu</value>
+  </data>
+  <data name="Open-source &amp; AI era." xml:space="preserve">
+    <value>Açık kaynak &amp; Yapay Zeka çağı</value>
+  </data>
+  <data name="Open-Source Solutions" xml:space="preserve">
+    <value>Açık Kaynak Çözümleri</value>
+  </data>
+  <data name="OpenID Connect" xml:space="preserve">
+    <value>OpenID Connect</value>
+  </data>
   <data name="OpenID Connect Integration" xml:space="preserve">
     <value>OpenID Connect Entegrasyonu</value>
   </data>
+  <data name="Own Your Data" xml:space="preserve">
+    <value>Verilerinizi Kendinize Ait Edin</value>
+  </data>
+  <data name="Paving the Way for Your Business." xml:space="preserve">
+    <value>İşinizin Yolunu Açmak</value>
+  </data>
   <data name="Pre-configured CI/CD pipelines specifically for GitLab." xml:space="preserve">
     <value>GitLab için özel olarak önceden yapılandırılmış CI/CD boruları.</value>
+  </data>
+  <data name="Pricing" xml:space="preserve">
+    <value>Fiyatlandırma</value>
+  </data>
+  <data name="Private Package Repository" xml:space="preserve">
+    <value>Özel Paket Deposu</value>
+  </data>
+  <data name="Purchase Now" xml:space="preserve">
+    <value>Şimdi Satın Al</value>
   </data>
   <data name="Quality Gate" xml:space="preserve">
     <value>Kalite Kapısı</value>
@@ -411,6 +672,15 @@
   <data name="Read the document" xml:space="preserve">
     <value>Belgeyi okuyun</value>
   </data>
+  <data name="Ready to build your enterprise on Open-source foundations?" xml:space="preserve">
+    <value>Kurumsal işletmenizi Açık kaynak temelleri üzerine kurmaya hazır mısınız?</value>
+  </data>
+  <data name="Recommended" xml:space="preserve">
+    <value>Önerilen</value>
+  </data>
+  <data name="Reduce Your Attack Surface." xml:space="preserve">
+    <value>Saldırı Yüzeyinizi Azaltın.</value>
+  </data>
   <data name="Responsive Design" xml:space="preserve">
     <value>Duyarlı Tasarım</value>
   </data>
@@ -420,14 +690,23 @@
   <data name="Robust Integration Testing" xml:space="preserve">
     <value>Güçlü Entegrasyon Testi</value>
   </data>
+  <data name="Run powerful language models entirely on-premises — your data never leaves your network." xml:space="preserve">
+    <value>Güçlü dil modellerini tamamen yerelde çalıştırın — verileriniz ağınızdan asla çıkmaz.</value>
+  </data>
   <data name="Runs without any internet connection required." xml:space="preserve">
     <value>Herhangi bir internet bağlantısına gerek kalmadan çalışır.</value>
   </data>
   <data name="Scheduled Task Management" xml:space="preserve">
     <value>Zamanlanmış Görev Yönetimi</value>
   </data>
+  <data name="Seamless integration with any OIDC provider." xml:space="preserve">
+    <value>Herhangi bir OIDC sağlayıcısıyla sorunsuz entegrasyon.</value>
+  </data>
   <data name="Seamlessly integrate with any OpenID Connect provider, with automatic role synchronization." xml:space="preserve">
     <value>Herhangi bir OpenID Connect sağlayıcısıyla sorunsuz bir şekilde entegre olun, otomatik rol senkronizasyonu ile.</value>
+  </data>
+  <data name="Security First" xml:space="preserve">
+    <value>Güvenlik Önceliklidir</value>
   </data>
   <data name="Shift with confidence" xml:space="preserve">
     <value>Güvenle geçiş yapın</value>
@@ -447,6 +726,12 @@
   <data name="Smart dark mode that automatically adapts to the user&apos;s system settings." xml:space="preserve">
     <value>Kullanıcının sistem ayarlarına otomatik olarak uyum sağlayan akıllı karanlık mod.</value>
   </data>
+  <data name="Source Code" xml:space="preserve">
+    <value>Kaynak Kodu</value>
+  </data>
+  <data name="Specific fees need to be discussed with our architecture team to determine how to build for your enterprise." xml:space="preserve">
+    <value>Özel ücretler, kurumunuz için nasıl oluşturulacağını belirlemek amacıyla mimari ekibimizle görüşülmesi gerekmektedir.</value>
+  </data>
   <data name="Standard implementation. Switch providers without compilation." xml:space="preserve">
     <value>Standart uygulama. Derleme yapmadan sağlayıcıları değiştirin.</value>
   </data>
@@ -462,8 +747,17 @@
   <data name="Start with a single &apos;docker run&apos; command." xml:space="preserve">
     <value>Tek bir &apos;docker run&apos; komutuyla başlayın.</value>
   </data>
+  <data name="Starts compliant, secure immediately." xml:space="preserve">
+    <value>Hemen uyumlu, güvenli şekilde başlar.</value>
+  </data>
   <data name="Stop Coding Boilerplate." xml:space="preserve">
     <value>Kodlama Şablonlarından Vazgeçin.</value>
+  </data>
+  <data name="Strategic Partner" xml:space="preserve">
+    <value>Stratejik Ortak</value>
+  </data>
+  <data name="Strengthen your business with flexible Open Source projects that run by Aiursoft." xml:space="preserve">
+    <value>İşletmenizi Aiursoft tarafından çalıştırılan esnek Açık Kaynak projeleriyle güçlendirin.</value>
   </data>
   <data name="Strict Lint Rules" xml:space="preserve">
     <value>Katı Lint Kuralları</value>
@@ -480,11 +774,23 @@
   <data name="Strongly Consistent Linting" xml:space="preserve">
     <value>Kesin ve Tutulu Linting</value>
   </data>
+  <data name="Substrate" xml:space="preserve">
+    <value>Alt Yapı</value>
+  </data>
+  <data name="Supercharge Innovation" xml:space="preserve">
+    <value>İnovasyonu Güçlendirin</value>
+  </data>
   <data name="Supports both environment variables and database-backed settings, with automatic priority given to environment variables for seamless overrides." xml:space="preserve">
     <value>Ortam değişkenleri ve veritabanı tabanlı ayarlar destekler, sorunsuz geçişler için ortam değişkenlerine otomatik öncelik verilir.</value>
   </data>
   <data name="Supports JetBrains Rider for easy code style fixes." xml:space="preserve">
     <value>JetBrains Rider destekler, kolay kod stili düzeltmeleri için.</value>
+  </data>
+  <data name="Switch easily between SQLite, MySQL, SQL Server." xml:space="preserve">
+    <value>SQLite, MySQL, SQL Server arasında kolayca geçiş yapın.</value>
+  </data>
+  <data name="Talk to an Architect" xml:space="preserve">
+    <value>Mimarle Konuşun</value>
   </data>
   <data name="Task Runner" xml:space="preserve">
     <value>Görev Çalıştırıcı</value>
@@ -498,17 +804,32 @@
   <data name="The navigation bar automatically adjusts based on user roles and permissions." xml:space="preserve">
     <value>Gezinme çubuğu, kullanıcı rollerine ve izinlerine göre otomatik olarak ayarlanır.</value>
   </data>
+  <data name="The Open-source world already has the solutions you need." xml:space="preserve">
+    <value>Açık kaynak dünyası zaten ihtiyacınız olan çözümleri sunuyor.</value>
+  </data>
+  <data name="The Open-source world is free, but full of dangers. Aiursoft helps you withstand the first wave of attacks." xml:space="preserve">
+    <value>Açık kaynak dünyası ücretsizdir, ancak birçok tehlikeyle doludur. Aiursoft, ilk saldırı dalgasına karşı direnmenize yardımcı olur.</value>
+  </data>
   <data name="The Philosophy" xml:space="preserve">
     <value>Felsefe</value>
   </data>
   <data name="The template is built for easy deployment. It includes full Docker support, so you can containerize your app and run it anywhere. You can also deploy it directly to IIS, Azure App Service, or any server that supports ASP.NET Core." xml:space="preserve">
     <value>Şablon, kolay dağıtım için oluşturulmuştur. Tam Docker desteği içerir, böylece uygulamanızı konteynerleştirip her yerde çalıştırabilirsiniz. Ayrıca doğrudan IIS, Azure App Service veya ASP.NET Core destekleyen herhangi bir sunucuya dağıtabilirsiniz.</value>
   </data>
+  <data name="The Turnkey Enterprise Foundation" xml:space="preserve">
+    <value>Kurulumu Kolay Enterprise Temeli</value>
+  </data>
   <data name="This is a template project" xml:space="preserve">
     <value>Bu bir şablon projedir</value>
   </data>
   <data name="This is a template project, where we start the voyager..." xml:space="preserve">
     <value>Bu, yolculuğa başladığımız bir şablon projedir...</value>
+  </data>
+  <data name="To build your offline AI knowledge base, you may need to purchase an NVIDIA GPU. This may require additional payment to NVIDIA corporation." xml:space="preserve">
+    <value>Ofis dışı AI bilgi tabanınızı oluşturmak için NVIDIA GPU&apos;su almanız gerekebilir. Bu, NVIDIA şirketine ek ödeme gerektirebilir.</value>
+  </data>
+  <data name="Transparent &amp; Affordable" xml:space="preserve">
+    <value>Şeffaf ve Uygun Fiyatlı</value>
   </data>
   <data name="Trusted by production-grade applications including AnduinOS, StatHub, and Warp. We don&apos;t just share this code; we run our entire business on it." xml:space="preserve">
     <value>AnduinOS, StatHub ve Warp gibi üretim düzeyindeki uygulamalar tarafından güvenilir. Sadece bu kodu paylaşmakla kalmıyoruz; tamamen bu kodla işimizi yürütüyoruz.</value>
@@ -528,6 +849,24 @@
   <data name="View on GitHub" xml:space="preserve">
     <value>GitHub&apos;da Görüntüle</value>
   </data>
+  <data name="Voxihost" xml:space="preserve">
+    <value>Voxihost</value>
+  </data>
+  <data name="Voxihost Cloud Infrastructure" xml:space="preserve">
+    <value>Voxihost Bulut Altyapısı</value>
+  </data>
+  <data name="Voxihost offers transparent, cost-effective cloud and generously sponsors Aiursoft&apos;s Open-source work." xml:space="preserve">
+    <value>Voxihost, şeffaf, maliyet açısından etkili bulut hizmeti sunar ve Aiursoft&apos;un açık kaynak çalışmalarını büyük ölçüde destekler.</value>
+  </data>
+  <data name="We audit and integrate Open-source code, respect GPL, compile components, and contribute upstream." xml:space="preserve">
+    <value>Kodları denetler, entegre eder, GPL&apos;ye saygı gösterir, bileşenleri derler ve yukarıya katkıda bulunuruz.</value>
+  </data>
+  <data name="We procure Yubikeys for all clients and configure zero-trust architecture." xml:space="preserve">
+    <value>Tüm müşteriler için Yubikey&apos;leri temin eder ve sıfır güvence mimarisini yapılandırırız.</value>
+  </data>
+  <data name="We Take the First Hit." xml:space="preserve">
+    <value>İlk Vuruşu Biz Alıyoruz.</value>
+  </data>
   <data name="Welcome" xml:space="preserve">
     <value>Hoş Geldiniz</value>
   </data>
@@ -543,11 +882,23 @@
   <data name="Win/Lin/Mac" xml:space="preserve">
     <value>Win/Lin/Mac</value>
   </data>
+  <data name="with Open-Source Infrastructure." xml:space="preserve">
+    <value>Açık Kaynak Altyapı ile</value>
+  </data>
+  <data name="With reliable cloud infrastructure, your business can grow reliably alongside Aiursoft." xml:space="preserve">
+    <value>Güvenilir bulut altyapısıyla, işiniz Aiursoft ile birlikte güvenilir şekilde büyüyebilir.</value>
+  </data>
+  <data name="With Voxihost, Aiursoft helps enterprises host Email, authentication, cloud drives, employee portals, monitoring, and AI." xml:space="preserve">
+    <value>Voxihost ile birlikte, Aiursoft işletmelerin E-posta, kimlik doğrulama, bulut sürücüleri, çalışan portalı, izleme ve Yapay Zeka barındırılmasını sağlar.</value>
+  </data>
   <data name="Yes, Aiursoft Template is completely free and open-source under the MIT License. You can use it for personal and commercial projects without any cost." xml:space="preserve">
     <value>Evet, Aiursoft Template MIT Lisansı altında tamamen ücretsiz ve açık kaynaklıdır. Kişisel ve ticari projelerinizde hiçbir ücret ödemeden kullanabilirsiniz.</value>
   </data>
   <data name="You can get community support via GitHub Discussions. Please visit our" xml:space="preserve">
     <value>GitHub Tartışmaları aracılığıyla topluluk desteği alabilirsiniz. Lütfen bizim</value>
+  </data>
+  <data name="You don&apos;t need to purchase expensive monopolistic services. A small $5/month server can rapidly power your business." xml:space="preserve">
+    <value>Pahalı monopoller hizmetleri satın almanıza gerek yok. Aylık 5 dolarlık küçük bir sunucu işinizi hızlıca harekete geçirebilir.</value>
   </data>
   <data name="You&apos;ll need the .NET 10 SDK, npm and your favorite IDE, like Visual Studio or JetBrains Rider. You can find the full setup guide in our documentation." xml:space="preserve">
     <value>.NET 10 SDK&apos;ye, npm&apos;ye ve Visual Studio veya JetBrains Rider gibi favori IDE&apos;nize ihtiyacınız olacak. Tüm kurulum kılavuzunu belgelerimizde bulabilirsiniz.</value>
@@ -558,8 +909,20 @@
   <data name="Yubikey &amp; TOTP" xml:space="preserve">
     <value>Yubikey &amp; TOTP</value>
   </data>
+  <data name="Yubikey for Every Client" xml:space="preserve">
+    <value>Her Müşteri İçin Yubikey</value>
+  </data>
   <data name="Zero Configuration" xml:space="preserve">
     <value>Sıfır Yapılandırma</value>
+  </data>
+  <data name="Zero Trust Architecture" xml:space="preserve">
+    <value>Sıfır Güven Mimarisi</value>
+  </data>
+  <data name="Zero Trust Security with Yubikey" xml:space="preserve">
+    <value>Sıfır Güvenlik Güvenliği Yubikey ile</value>
+  </data>
+  <data name="Zero Trust Yubikey Auth" xml:space="preserve">
+    <value>Sıfır Güven Yubikey Kimlik Doğrulaması</value>
   </data>
 
 </root>

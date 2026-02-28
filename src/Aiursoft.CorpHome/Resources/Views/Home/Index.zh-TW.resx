@@ -75,6 +75,9 @@
   <data name="Aiursoft is dedicated to bringing the spirit of open-source and free software to every enterprise and individual." xml:space="preserve">
     <value>Aiursoft 致力於將開源與自由軟體的精神帶給每一家企業與個人。</value>
   </data>
+  <data name="Aiursoft is dedicated to bringing the spirit of Open-source and free software to every enterprise and individual." xml:space="preserve">
+    <value>Aiursoft 致力於將開源與自由軟體的精神帶給每一家企業與個人。</value>
+  </data>
   <data name="Aiursoft Substratum Core" xml:space="preserve">
     <value>Aiursoft Substratum Core</value>
   </data>
@@ -89,6 +92,9 @@
   </data>
   <data name="Aiursoft Template is continuously optimized for the AI era, built with the most popular and reliable open-source technologies. It has already produced dozens of mature applications delivered to enterprises. Aiursoft uses Template to help businesses develop custom solutions based on their core needs." xml:space="preserve">
     <value>Aiursoft Template 持續針對人工智慧時代進行優化，採用最受歡迎且可靠的開源技術打造。目前已成功產出數十個成熟的應用程式，交付給企業使用。Aiursoft 利用 Template 協助企業根據核心需求開發客製化解決方案。</value>
+  </data>
+  <data name="Aiursoft Template is continuously optimized for the AI era, built with the most popular and reliable Open-source technologies. It has already produced dozens of mature applications delivered to enterprises. Aiursoft uses Template to help businesses develop custom solutions based on their core needs." xml:space="preserve">
+    <value>Aiursoft Template 持續針對人工智慧時代進行優化，採用最流行且可靠的開源技術打造。目前已成功產出數十個成熟的應用程式，交付給企業使用。Aiursoft 利用 Template 協助企業根據核心需求開發客製化解決方案。</value>
   </data>
   <data name="Aiursoft Template is our definitive choice for enterprise projects! It&apos;s built for developers and is lightweight yet powerful. We can skip all the boilerplate for authentication and user management." xml:space="preserve">
     <value>Aiursoft Template 是我們企業級專案的不二之選！它專為開發者打造，輕量卻功能強大。我們可以直接跳過所有身份驗證和使用者管理的樣板程式碼。</value>
@@ -219,6 +225,9 @@
   <data name="Combine open-source tools on GitHub and Hugging Face — no enterprise licenses needed." xml:space="preserve">
     <value>結合 GitHub 與 Hugging Face 上的開源工具——無需企業授權。</value>
   </data>
+  <data name="Combine Open-source tools on GitHub and Hugging Face — no enterprise licenses needed." xml:space="preserve">
+    <value>結合 GitHub 與 Hugging Face 上的開源工具——無需企業授權。</value>
+  </data>
   <data name="Comes with Docker support for simplified and consistent deployments." xml:space="preserve">
     <value>內建 Docker 支援，可簡化並一致地進行部署。</value>
   </data>
@@ -251,6 +260,9 @@
   </data>
   <data name="Consistency Validation" xml:space="preserve">
     <value>一致性驗證</value>
+  </data>
+  <data name="Contact Sales" xml:space="preserve">
+    <value>聯絡銷售</value>
   </data>
   <data name="Contact Us" xml:space="preserve">
     <value>聯絡我們</value>
@@ -447,6 +459,9 @@
   <data name="Get a public cloud-like experience while hosting your applications in your own server." xml:space="preserve">
     <value>在自有伺服器上主機應用程式，同時享受類似公用雲端的體驗。</value>
   </data>
+  <data name="Get Started" xml:space="preserve">
+    <value>開始使用</value>
+  </data>
   <data name="Get unified endpoint management (UEM), identity management (IAM), and collaboration tools (OA) in one package. All on your local servers!" xml:space="preserve">
     <value>取得整合式端點管理 (UEM)、身分管理 (IAM) 與協作工具 (OA) 的完整套件，全部安裝在您的內部伺服器上！</value>
   </data>
@@ -630,6 +645,9 @@
   <data name="open-source &amp; AI era." xml:space="preserve">
     <value>開放原始碼與人工智慧時代</value>
   </data>
+  <data name="Open-source &amp; AI era." xml:space="preserve">
+    <value>開源與人工智慧時代</value>
+  </data>
   <data name="Open-Source Solutions" xml:space="preserve">
     <value>開源解決方案</value>
   </data>
@@ -668,6 +686,9 @@
   </data>
   <data name="Ready to build your enterprise on open-source foundations?" xml:space="preserve">
     <value>準備好以開源基礎建構您的企業了嗎？</value>
+  </data>
+  <data name="Ready to build your enterprise on Open-source foundations?" xml:space="preserve">
+    <value>準備好在開源基礎上建立您的企業了嗎？</value>
   </data>
   <data name="Recommended" xml:space="preserve">
     <value>推薦</value>
@@ -753,6 +774,9 @@
   <data name="Strengthen your business with flexible open source projects that run by Aiursoft." xml:space="preserve">
     <value>透過由 Aiursoft 運行的彈性開源專案，強化您的事業。</value>
   </data>
+  <data name="Strengthen your business with flexible Open Source projects that run by Aiursoft." xml:space="preserve">
+    <value>透過由 Aiursoft 運行的彈性開源專案，強化您的企業。</value>
+  </data>
   <data name="Strict Lint Rules" xml:space="preserve">
     <value>嚴格的程式碼檢查規則</value>
   </data>
@@ -783,6 +807,9 @@
   <data name="Switch easily between SQLite, MySQL, SQL Server." xml:space="preserve">
     <value>輕鬆切換 SQLite、MySQL 與 SQL Server。</value>
   </data>
+  <data name="Talk to an Architect" xml:space="preserve">
+    <value>與架構師聊聊</value>
+  </data>
   <data name="Task Runner" xml:space="preserve">
     <value>工作執行器</value>
   </data>
@@ -798,8 +825,14 @@
   <data name="The open-source world already has the solutions you need." xml:space="preserve">
     <value>開源世界早已擁有你需要的解決方案。</value>
   </data>
+  <data name="The Open-source world already has the solutions you need." xml:space="preserve">
+    <value>開源世界早已擁有您所需的解決方案。</value>
+  </data>
   <data name="The open-source world is free, but full of dangers. Aiursoft helps you withstand the first wave of attacks." xml:space="preserve">
     <value>開放原始碼世界雖然是免費的，但充滿了危險。Aiursoft 能幫助您抵禦第一波攻擊。</value>
+  </data>
+  <data name="The Open-source world is free, but full of dangers. Aiursoft helps you withstand the first wave of attacks." xml:space="preserve">
+    <value>開源世界雖然是免費的，卻充滿了危險。Aiursoft 助您抵禦第一波攻擊。</value>
   </data>
   <data name="The Philosophy" xml:space="preserve">
     <value>哲學</value>
@@ -849,7 +882,13 @@
   <data name="Voxihost offers transparent, cost-effective cloud and generously sponsors Aiursoft&apos;s open-source work." xml:space="preserve">
     <value>Voxihost 提供透明、具成本效益的雲端服務，並慷慨資助 Aiursoft 的開源工作。</value>
   </data>
+  <data name="Voxihost offers transparent, cost-effective cloud and generously sponsors Aiursoft&apos;s Open-source work." xml:space="preserve">
+    <value>Voxihost 提供透明、成本效益高的雲端服務，並慷慨資助 Aiursoft 的開源工作。</value>
+  </data>
   <data name="We audit and integrate open-source code, respect GPL, compile components, and contribute upstream." xml:space="preserve">
+    <value>我們審計並整合開源程式碼，尊重 GPL，編譯元件，並向上游貢獻。</value>
+  </data>
+  <data name="We audit and integrate Open-source code, respect GPL, compile components, and contribute upstream." xml:space="preserve">
     <value>我們審計並整合開源程式碼，尊重 GPL，編譯元件，並向上游貢獻。</value>
   </data>
   <data name="We procure Yubikeys for all clients and configure zero-trust architecture." xml:space="preserve">

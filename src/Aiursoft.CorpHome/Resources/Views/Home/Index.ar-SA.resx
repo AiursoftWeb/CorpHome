@@ -75,6 +75,9 @@
   <data name="Aiursoft is dedicated to bringing the spirit of open-source and free software to every enterprise and individual." xml:space="preserve">
     <value>Aiursoft مكرسة لنقل روح البرمجيات المفتوحة المصدر والبرمجيات المجانية إلى كل مؤسسة وفرد.</value>
   </data>
+  <data name="Aiursoft is dedicated to bringing the spirit of Open-source and free software to every enterprise and individual." xml:space="preserve">
+    <value>Aiursoft ملتزمة بجلب روح البرمجيات المفتوحة المصدر والبرمجيات المجانية إلى كل شركة وفرد.</value>
+  </data>
   <data name="Aiursoft Substratum Core" xml:space="preserve">
     <value>Aiursoft Substratum Core</value>
   </data>
@@ -89,6 +92,9 @@
   </data>
   <data name="Aiursoft Template is continuously optimized for the AI era, built with the most popular and reliable open-source technologies. It has already produced dozens of mature applications delivered to enterprises. Aiursoft uses Template to help businesses develop custom solutions based on their core needs." xml:space="preserve">
     <value>يتم تحسين قالب Aiursoft باستمرار لعصر الذكاء الاصطناعي، مبني على أكثر تقنيات المصدر المفتوح شعبية وموثوقية. لقد أنتج بالفعل عشرات التطبيقات الناضجة التي تم تسليمها إلى المؤسسات. تستخدم Aiursoft القالب لمساعدة الشركات على تطوير حلول مخصصة بناءً على احتياجاتها الأساسية.</value>
+  </data>
+  <data name="Aiursoft Template is continuously optimized for the AI era, built with the most popular and reliable Open-source technologies. It has already produced dozens of mature applications delivered to enterprises. Aiursoft uses Template to help businesses develop custom solutions based on their core needs." xml:space="preserve">
+    <value>يتم تحسين قوالب Aiursoft باستمرار لعصر الذكاء الاصطناعي، مبنية على أكثر تقنيات المصدر المفتوح شعبية وموثوقية. وقد أنتجت بالفعل عشرات التطبيقات الناضجة التي تم تسليمها إلى الشركات. تستخدم Aiursoft القالب لمساعدة الشركات على تطوير حلول مخصصة بناءً على احتياجاتها الأساسية.</value>
   </data>
   <data name="Aiursoft Template is our definitive choice for enterprise projects! It&apos;s built for developers and is lightweight yet powerful. We can skip all the boilerplate for authentication and user management." xml:space="preserve">
     <value>يُعتبر قالب Aiursoft خيارنا النهائي لمشاريع المؤسسات! فهو مصمم خصيصًا للمطورين، ويتميز بخفته مع قوته. يمكننا تخطي جميع الإجراءات الروتينية للمصادقة وإدارة المستخدمين.</value>
@@ -219,6 +225,9 @@
   <data name="Combine open-source tools on GitHub and Hugging Face — no enterprise licenses needed." xml:space="preserve">
     <value>دمج أدوات مفتوحة المصدر على GitHub وHugging Face — لا حاجة إلى تراخيص مؤسسية.</value>
   </data>
+  <data name="Combine Open-source tools on GitHub and Hugging Face — no enterprise licenses needed." xml:space="preserve">
+    <value>ادمج أدوات المصدر المفتوح على GitHub وHugging Face — لا حاجة لترخيص مؤسسي</value>
+  </data>
   <data name="Comes with Docker support for simplified and consistent deployments." xml:space="preserve">
     <value>يأتي مع دعم Docker لDeployment مبسطة وثابتة.</value>
   </data>
@@ -251,6 +260,9 @@
   </data>
   <data name="Consistency Validation" xml:space="preserve">
     <value>التحقق من الاتساق</value>
+  </data>
+  <data name="Contact Sales" xml:space="preserve">
+    <value>اتصل بالبيع</value>
   </data>
   <data name="Contact Us" xml:space="preserve">
     <value>اتصل بنا</value>
@@ -447,6 +459,9 @@
   <data name="Get a public cloud-like experience while hosting your applications in your own server." xml:space="preserve">
     <value>احصل على تجربة مشابهة لسحابة عامة أثناء استضافة تطبيقاتك على خادمك الخاص.</value>
   </data>
+  <data name="Get Started" xml:space="preserve">
+    <value>ابدأ الآن</value>
+  </data>
   <data name="Get unified endpoint management (UEM), identity management (IAM), and collaboration tools (OA) in one package. All on your local servers!" xml:space="preserve">
     <value>احصل على إدارة النهايات الموحدة (UEM)، وإدارة الهوية (IAM)، وأدوات التعاون (OA) في حزمة واحدة. كل شيء على خوادمك المحلية!</value>
   </data>
@@ -630,6 +645,9 @@
   <data name="open-source &amp; AI era." xml:space="preserve">
     <value>العصر المفتوح المصدر وذكاء اصطناعي</value>
   </data>
+  <data name="Open-source &amp; AI era." xml:space="preserve">
+    <value>العصر المفتوح المصدر وذكاء اصطناعي</value>
+  </data>
   <data name="Open-Source Solutions" xml:space="preserve">
     <value>حلول مفتوحة المصدر</value>
   </data>
@@ -668,6 +686,9 @@
   </data>
   <data name="Ready to build your enterprise on open-source foundations?" xml:space="preserve">
     <value>مستعد لبناء مؤسستك على أساسيات مفتوحة المصدر؟</value>
+  </data>
+  <data name="Ready to build your enterprise on Open-source foundations?" xml:space="preserve">
+    <value>مستعد لبناء مؤسستك على أسس مفتوحة المصدر؟</value>
   </data>
   <data name="Recommended" xml:space="preserve">
     <value>مُوصى به</value>
@@ -753,6 +774,9 @@
   <data name="Strengthen your business with flexible open source projects that run by Aiursoft." xml:space="preserve">
     <value>عزز عملك بمشاريع مفتوحة المصدر مرنة تعمل بواسطة Aiursoft.</value>
   </data>
+  <data name="Strengthen your business with flexible Open Source projects that run by Aiursoft." xml:space="preserve">
+    <value>عزز أعمالك بمشاريع مفتوحة المصدر مرنة تعمل بواسطة Aiursoft.</value>
+  </data>
   <data name="Strict Lint Rules" xml:space="preserve">
     <value>قواعد التحقق الصارمة</value>
   </data>
@@ -783,6 +807,9 @@
   <data name="Switch easily between SQLite, MySQL, SQL Server." xml:space="preserve">
     <value>قم بالتبديل بسهولة بين SQLite وMySQL وSQL Server.</value>
   </data>
+  <data name="Talk to an Architect" xml:space="preserve">
+    <value>تحدث مع مهندس</value>
+  </data>
   <data name="Task Runner" xml:space="preserve">
     <value>مُنَفِّذ المهام</value>
   </data>
@@ -798,8 +825,14 @@
   <data name="The open-source world already has the solutions you need." xml:space="preserve">
     <value>العالم المفتوح المصدر يمتلك بالفعل الحلول التي تحتاجها.</value>
   </data>
+  <data name="The Open-source world already has the solutions you need." xml:space="preserve">
+    <value>العالم المفتوح المصدر يمتلك بالفعل الحلول التي تحتاجها.</value>
+  </data>
   <data name="The open-source world is free, but full of dangers. Aiursoft helps you withstand the first wave of attacks." xml:space="preserve">
     <value>العالم المفتوح المصدر مجاني، لكنه مليء بالمخاطر. Aiursoft يساعدك على الصمود أمام الموجة الأولى من الهجمات.</value>
+  </data>
+  <data name="The Open-source world is free, but full of dangers. Aiursoft helps you withstand the first wave of attacks." xml:space="preserve">
+    <value>العالم المفتوح المصدر مجاني، ولكن مليء بالمخاطر. Aiursoft يساعدك على الصمود أمام الموجة الأولى من الهجمات.</value>
   </data>
   <data name="The Philosophy" xml:space="preserve">
     <value>الفلسفة</value>
@@ -849,8 +882,14 @@
   <data name="Voxihost offers transparent, cost-effective cloud and generously sponsors Aiursoft&apos;s open-source work." xml:space="preserve">
     <value>يوّفر فوكسيهست بنية تحتية سحابية شفافة وفعالة من حيث التكلفة، ويدعم بشكل كبير العمل المفتوح المصدر لـ Aiursoft.</value>
   </data>
+  <data name="Voxihost offers transparent, cost-effective cloud and generously sponsors Aiursoft&apos;s Open-source work." xml:space="preserve">
+    <value>يوتيست يوفر بنية تحتية سحابية شفافة وفعالة من حيث التكلفة ويدعم بشكل كبير أعمال Aiursoft المفتوحة المصدر.</value>
+  </data>
   <data name="We audit and integrate open-source code, respect GPL, compile components, and contribute upstream." xml:space="preserve">
     <value>نقوم بمراجعة الشفرة المفتوحة المصدر ودمجها، ونحترم ترخيص GPL، ونُجمّع المكونات، ونُساهم في التحديثات المُتقدمة.</value>
+  </data>
+  <data name="We audit and integrate Open-source code, respect GPL, compile components, and contribute upstream." xml:space="preserve">
+    <value>نقوم بمراجعة الشفرة المصدرية المفتوحة ودمجها، ونحترم ترخيص GPL، ونُجمّع المكونات، ونُسهم في التحديثات الأصلية.</value>
   </data>
   <data name="We procure Yubikeys for all clients and configure zero-trust architecture." xml:space="preserve">
     <value>نقوم بشراء أجهزة يوبيكاي للعملاء جميعًا ونقوم بتهيئة بنية التوثيق الصفرية.</value>

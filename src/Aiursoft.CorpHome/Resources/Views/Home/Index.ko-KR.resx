@@ -75,6 +75,9 @@
   <data name="Aiursoft is dedicated to bringing the spirit of open-source and free software to every enterprise and individual." xml:space="preserve">
     <value>Aiursoft는 모든 기업과 개인에게 오픈소스 및 무료 소프트웨어의 정신을 전달하는 데 헌신하고 있습니다.</value>
   </data>
+  <data name="Aiursoft is dedicated to bringing the spirit of Open-source and free software to every enterprise and individual." xml:space="preserve">
+    <value>Aiursoft는 모든 기업과 개인에게 오픈소스 및 무료 소프트웨어의 정신을 전달하는 데 헌신하고 있습니다.</value>
+  </data>
   <data name="Aiursoft Substratum Core" xml:space="preserve">
     <value>Aiursoft Substratum Core</value>
   </data>
@@ -89,6 +92,9 @@
   </data>
   <data name="Aiursoft Template is continuously optimized for the AI era, built with the most popular and reliable open-source technologies. It has already produced dozens of mature applications delivered to enterprises. Aiursoft uses Template to help businesses develop custom solutions based on their core needs." xml:space="preserve">
     <value>Aiursoft Template은 인공지능 시대에 맞춰 지속적으로 최적화되고 있으며, 가장 인기 있고 신뢰할 수 있는 오픈소스 기술로 구축되었습니다. 이미 수십 개의 성숙한 애플리케이션을 기업에 제공한 바 있으며, Aiursoft는 Template을 활용하여 기업의 핵심 요구사항에 기반한 맞춤형 솔루션을 개발하는 데 도움을 줍니다.</value>
+  </data>
+  <data name="Aiursoft Template is continuously optimized for the AI era, built with the most popular and reliable Open-source technologies. It has already produced dozens of mature applications delivered to enterprises. Aiursoft uses Template to help businesses develop custom solutions based on their core needs." xml:space="preserve">
+    <value>Aiursoft Template은 인공지능 시대에 맞춰 지속적으로 최적화되며, 가장 인기 있고 신뢰할 수 있는 오픈소스 기술로 구축되었습니다. 이미 수십 개의 성숙한 애플리케이션을 기업에 제공한 바 있습니다. Aiursoft는 Template을 활용하여 기업의 핵심 요구사항에 기반한 맞춤형 솔루션 개발을 지원합니다.</value>
   </data>
   <data name="Aiursoft Template is our definitive choice for enterprise projects! It&apos;s built for developers and is lightweight yet powerful. We can skip all the boilerplate for authentication and user management." xml:space="preserve">
     <value>Aiursoft Template은 엔터프라이즈 프로젝트를 위한 최적의 선택입니다! 개발자를 위해 제작되었으며 가볍지만 강력한 성능을 자랑합니다. 인증 및 사용자 관리와 관련된 모든 상용구 코드를 생략할 수 있습니다.</value>
@@ -219,6 +225,9 @@
   <data name="Combine open-source tools on GitHub and Hugging Face — no enterprise licenses needed." xml:space="preserve">
     <value>GitHub과 Hugging Face의 오픈소스 도구를 결합하세요 — 기업용 라이선스는 필요 없습니다.</value>
   </data>
+  <data name="Combine Open-source tools on GitHub and Hugging Face — no enterprise licenses needed." xml:space="preserve">
+    <value>GitHub과 Hugging Face의 오픈소스 도구를 결합하세요 — 기업용 라이선스 필요 없음.</value>
+  </data>
   <data name="Comes with Docker support for simplified and consistent deployments." xml:space="preserve">
     <value>Docker 지원을 제공하여 간편하고 일관된 배포가 가능합니다.</value>
   </data>
@@ -251,6 +260,9 @@
   </data>
   <data name="Consistency Validation" xml:space="preserve">
     <value>일관성 검증</value>
+  </data>
+  <data name="Contact Sales" xml:space="preserve">
+    <value>판매팀에 문의하기</value>
   </data>
   <data name="Contact Us" xml:space="preserve">
     <value>문의하기</value>
@@ -447,6 +459,9 @@
   <data name="Get a public cloud-like experience while hosting your applications in your own server." xml:space="preserve">
     <value>자신의 서버에서 애플리케이션을 호스팅하면서 공공 클라우드와 유사한 경험을 얻으세요.</value>
   </data>
+  <data name="Get Started" xml:space="preserve">
+    <value>시작하기</value>
+  </data>
   <data name="Get unified endpoint management (UEM), identity management (IAM), and collaboration tools (OA) in one package. All on your local servers!" xml:space="preserve">
     <value>일체화된 엔드포인트 관리(UEM), 아이덴티티 관리(IAM), 협업 도구(OA)를 하나의 패키지로 제공합니다. 모든 기능은 귀하의 로컬 서버에서 실행됩니다!</value>
   </data>
@@ -630,6 +645,9 @@
   <data name="open-source &amp; AI era." xml:space="preserve">
     <value>오픈소스 &amp; AI 시대</value>
   </data>
+  <data name="Open-source &amp; AI era." xml:space="preserve">
+    <value>오픈소스 &amp; AI 시대</value>
+  </data>
   <data name="Open-Source Solutions" xml:space="preserve">
     <value>오픈소스 솔루션</value>
   </data>
@@ -667,6 +685,9 @@
     <value>문서 읽기</value>
   </data>
   <data name="Ready to build your enterprise on open-source foundations?" xml:space="preserve">
+    <value>오픈소스 기반으로 기업을 구축할 준비가 되셨나요?</value>
+  </data>
+  <data name="Ready to build your enterprise on Open-source foundations?" xml:space="preserve">
     <value>오픈소스 기반으로 기업을 구축할 준비가 되셨나요?</value>
   </data>
   <data name="Recommended" xml:space="preserve">
@@ -753,6 +774,9 @@
   <data name="Strengthen your business with flexible open source projects that run by Aiursoft." xml:space="preserve">
     <value>Aiursoft가 운영하는 유연한 오픈소스 프로젝트로 비즈니스를 강화하세요.</value>
   </data>
+  <data name="Strengthen your business with flexible Open Source projects that run by Aiursoft." xml:space="preserve">
+    <value>Aiursoft가 운영하는 유연한 오픈소스 프로젝트로 비즈니스를 강화하세요.</value>
+  </data>
   <data name="Strict Lint Rules" xml:space="preserve">
     <value>엄격한 린트 규칙</value>
   </data>
@@ -783,6 +807,9 @@
   <data name="Switch easily between SQLite, MySQL, SQL Server." xml:space="preserve">
     <value>SQLite, MySQL, SQL Server 간에 쉽게 전환하세요.</value>
   </data>
+  <data name="Talk to an Architect" xml:space="preserve">
+    <value>아키텍트와 상담하기</value>
+  </data>
   <data name="Task Runner" xml:space="preserve">
     <value>작업 실행기</value>
   </data>
@@ -798,8 +825,14 @@
   <data name="The open-source world already has the solutions you need." xml:space="preserve">
     <value>오픈소스 세계는 이미 당신이 필요로 하는 솔루션을 가지고 있습니다.</value>
   </data>
+  <data name="The Open-source world already has the solutions you need." xml:space="preserve">
+    <value>오픈소스 세계는 이미 당신이 필요로 하는 해결책을 가지고 있습니다.</value>
+  </data>
   <data name="The open-source world is free, but full of dangers. Aiursoft helps you withstand the first wave of attacks." xml:space="preserve">
     <value>오픈소스 세계는 무료이지만 위험으로 가득 차 있습니다. Aiursoft는 첫 번째 공격 파도를 버텨내는 데 도움을 드립니다.</value>
+  </data>
+  <data name="The Open-source world is free, but full of dangers. Aiursoft helps you withstand the first wave of attacks." xml:space="preserve">
+    <value>오픈소스 세계는 무료이지만 위험으로 가득 차 있습니다. Aiursoft는 당신이 첫 번째 공격 파도를 버텨낼 수 있도록 도와줍니다.</value>
   </data>
   <data name="The Philosophy" xml:space="preserve">
     <value>철학</value>
@@ -849,8 +882,14 @@
   <data name="Voxihost offers transparent, cost-effective cloud and generously sponsors Aiursoft&apos;s open-source work." xml:space="preserve">
     <value>Voxihost는 투명하고 비용 효율적인 클라우드를 제공하며, Aiursoft의 오픈소스 작업을 넉넉히 후원합니다.</value>
   </data>
+  <data name="Voxihost offers transparent, cost-effective cloud and generously sponsors Aiursoft&apos;s Open-source work." xml:space="preserve">
+    <value>Voxihost는 투명하고 비용 효율적인 클라우드를 제공하며, Aiursoft의 오픈소스 작업을 넉넉하게 후원합니다.</value>
+  </data>
   <data name="We audit and integrate open-source code, respect GPL, compile components, and contribute upstream." xml:space="preserve">
     <value>우리는 오픈소스 코드를 감사하고 통합하며, GPL을 존중하고 컴포넌트를 컴파일하며 상류로 기여합니다.</value>
+  </data>
+  <data name="We audit and integrate Open-source code, respect GPL, compile components, and contribute upstream." xml:space="preserve">
+    <value>우리는 오픈소스 코드를 감사하고 통합하며, GPL을 존중하고 구성 요소를 컴파일하며 상류로 기여합니다.</value>
   </data>
   <data name="We procure Yubikeys for all clients and configure zero-trust architecture." xml:space="preserve">
     <value>모든 고객을 위해 Yubikey를 조달하고 제로 트러스트 아키텍처를 구성합니다.</value>
