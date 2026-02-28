@@ -42,6 +42,9 @@
   <data name="Allows viewing and modifying global application settings." xml:space="preserve">
     <value>전역 애플리케이션 설정을 확인하고 수정할 수 있습니다.</value>
   </data>
+  <data name="Allows viewing submitted contact forms." xml:space="preserve">
+    <value>제출된 연락처 양식을 볼 수 있게 허용합니다.</value>
+  </data>
   <data name="Allows viewing system-level information and settings." xml:space="preserve">
     <value>시스템 수준 정보 및 설정을 볼 수 있습니다.</value>
   </data>
@@ -98,6 +101,9 @@
   </data>
   <data name="View Background Jobs" xml:space="preserve">
     <value>백그라운드 작업 보기</value>
+  </data>
+  <data name="View Contacts" xml:space="preserve">
+    <value>연락처 보기</value>
   </data>
   <data name="View System Context" xml:space="preserve">
     <value>시스템 컨텍스트 보기</value>

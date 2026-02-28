@@ -79,6 +79,11 @@ public class ViewModelArgsInjector(
         _ = localizer["Not Found"];
         _ = localizer["Permission Details"];
         _ = localizer["Register"];
+    
+        _ = localizer["Contact Success"];
+        _ = localizer["Contact Us"];
+        _ = localizer["Contacts"];
+        _ = localizer["View Contacts"];
     }
 
     public void InjectSimple(

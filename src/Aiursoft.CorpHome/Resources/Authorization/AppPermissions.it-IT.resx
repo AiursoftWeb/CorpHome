@@ -42,6 +42,9 @@
   <data name="Allows viewing and modifying global application settings." xml:space="preserve">
     <value>Consente di visualizzare e modificare le impostazioni globali dell&apos;applicazione.</value>
   </data>
+  <data name="Allows viewing submitted contact forms." xml:space="preserve">
+    <value>Consente la visualizzazione dei moduli di contatto inviati.</value>
+  </data>
   <data name="Allows viewing system-level information and settings." xml:space="preserve">
     <value>Consente di visualizzare informazioni e impostazioni a livello di sistema.</value>
   </data>
@@ -98,6 +101,9 @@
   </data>
   <data name="View Background Jobs" xml:space="preserve">
     <value>Visualizza i processi in background</value>
+  </data>
+  <data name="View Contacts" xml:space="preserve">
+    <value>Visualizza Contatti</value>
   </data>
   <data name="View System Context" xml:space="preserve">
     <value>Visualizza Contesto di Sistema</value>

@@ -54,6 +54,15 @@
   <data name="Click to login" xml:space="preserve">
     <value>로그인하려면 클릭</value>
   </data>
+  <data name="Contact Success" xml:space="preserve">
+    <value>문의 성공</value>
+  </data>
+  <data name="Contact Us" xml:space="preserve">
+    <value>문의하기</value>
+  </data>
+  <data name="Contacts" xml:space="preserve">
+    <value>연락처</value>
+  </data>
   <data name="Create Role" xml:space="preserve">
     <value>역할 생성</value>
   </data>
@@ -161,6 +170,9 @@
   </data>
   <data name="Users" xml:space="preserve">
     <value>사용자</value>
+  </data>
+  <data name="View Contacts" xml:space="preserve">
+    <value>연락처 보기</value>
   </data>
 
 </root>

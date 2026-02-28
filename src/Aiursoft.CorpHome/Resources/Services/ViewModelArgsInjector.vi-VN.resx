@@ -54,6 +54,15 @@
   <data name="Click to login" xml:space="preserve">
     <value>Nhấp để đăng nhập</value>
   </data>
+  <data name="Contact Success" xml:space="preserve">
+    <value>Liên hệ thành công</value>
+  </data>
+  <data name="Contact Us" xml:space="preserve">
+    <value>Liên hệ chúng tôi</value>
+  </data>
+  <data name="Contacts" xml:space="preserve">
+    <value>Liên hệ</value>
+  </data>
   <data name="Create Role" xml:space="preserve">
     <value>Tạo Vai Trò</value>
   </data>
@@ -161,6 +170,9 @@
   </data>
   <data name="Users" xml:space="preserve">
     <value>Người dùng</value>
+  </data>
+  <data name="View Contacts" xml:space="preserve">
+    <value>Xem danh bạ</value>
   </data>
 
 </root>

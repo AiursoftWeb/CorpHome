@@ -42,6 +42,9 @@
   <data name="Allows viewing and modifying global application settings." xml:space="preserve">
     <value>Memungkinkan melihat dan mengubah pengaturan aplikasi global.</value>
   </data>
+  <data name="Allows viewing submitted contact forms." xml:space="preserve">
+    <value>Memungkinkan melihat formulir kontak yang telah dikirimkan.</value>
+  </data>
   <data name="Allows viewing system-level information and settings." xml:space="preserve">
     <value>Memungkinkan melihat informasi dan pengaturan tingkat sistem.</value>
   </data>
@@ -98,6 +101,9 @@
   </data>
   <data name="View Background Jobs" xml:space="preserve">
     <value>Lihat Pekerjaan Latar Belakang</value>
+  </data>
+  <data name="View Contacts" xml:space="preserve">
+    <value>Lihat Kontak</value>
   </data>
   <data name="View System Context" xml:space="preserve">
     <value>Lihat Konteks Sistem</value>

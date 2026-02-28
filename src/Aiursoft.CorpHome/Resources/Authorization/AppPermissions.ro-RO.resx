@@ -42,6 +42,9 @@
   <data name="Allows viewing and modifying global application settings." xml:space="preserve">
     <value>Permite vizualizarea și modificarea setărilor globale ale aplicației.</value>
   </data>
+  <data name="Allows viewing submitted contact forms." xml:space="preserve">
+    <value>Permite vizualizarea formularilor de contact trimise.</value>
+  </data>
   <data name="Allows viewing system-level information and settings." xml:space="preserve">
     <value>Permite vizualizarea informațiilor și setărilor la nivel de sistem.</value>
   </data>
@@ -98,6 +101,9 @@
   </data>
   <data name="View Background Jobs" xml:space="preserve">
     <value>Vizualizează sarcinile în fundal</value>
+  </data>
+  <data name="View Contacts" xml:space="preserve">
+    <value>Vizualizează Contacte</value>
   </data>
   <data name="View System Context" xml:space="preserve">
     <value>Vizualizare Context Sistem</value>

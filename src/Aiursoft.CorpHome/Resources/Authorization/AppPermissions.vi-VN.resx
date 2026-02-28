@@ -42,6 +42,9 @@
   <data name="Allows viewing and modifying global application settings." xml:space="preserve">
     <value>Cho phép xem và chỉnh sửa cài đặt toàn cục của ứng dụng.</value>
   </data>
+  <data name="Allows viewing submitted contact forms." xml:space="preserve">
+    <value>Cho phép xem các biểu mẫu liên hệ đã được gửi.</value>
+  </data>
   <data name="Allows viewing system-level information and settings." xml:space="preserve">
     <value>Cho phép xem thông tin và cài đặt ở cấp hệ thống.</value>
   </data>
@@ -98,6 +101,9 @@
   </data>
   <data name="View Background Jobs" xml:space="preserve">
     <value>Xem các nhiệm vụ nền</value>
+  </data>
+  <data name="View Contacts" xml:space="preserve">
+    <value>Xem Liên hệ</value>
   </data>
   <data name="View System Context" xml:space="preserve">
     <value>Xem Ngữ cảnh Hệ thống</value>
