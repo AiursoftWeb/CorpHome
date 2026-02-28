@@ -54,6 +54,15 @@
   <data name="Click to login" xml:space="preserve">
     <value>Zum Anmelden klicken</value>
   </data>
+  <data name="Contact Success" xml:space="preserve">
+    <value>Kontakt erfolgreich</value>
+  </data>
+  <data name="Contact Us" xml:space="preserve">
+    <value>Kontaktieren Sie uns</value>
+  </data>
+  <data name="Contacts" xml:space="preserve">
+    <value>Kontakte</value>
+  </data>
   <data name="Create Role" xml:space="preserve">
     <value>Rolle erstellen</value>
   </data>
@@ -161,6 +170,9 @@
   </data>
   <data name="Users" xml:space="preserve">
     <value>Benutzer</value>
+  </data>
+  <data name="View Contacts" xml:space="preserve">
+    <value>Kontakte anzeigen</value>
   </data>
 
 </root>

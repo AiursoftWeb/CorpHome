@@ -42,6 +42,9 @@
   <data name="Allows viewing and modifying global application settings." xml:space="preserve">
     <value>允许查看和修改全局应用设置。</value>
   </data>
+  <data name="Allows viewing submitted contact forms." xml:space="preserve">
+    <value>允许查看提交的联系表单。</value>
+  </data>
   <data name="Allows viewing system-level information and settings." xml:space="preserve">
     <value>允许查看系统级信息和设置。</value>
   </data>
@@ -98,6 +101,9 @@
   </data>
   <data name="View Background Jobs" xml:space="preserve">
     <value>查看后台任务</value>
+  </data>
+  <data name="View Contacts" xml:space="preserve">
+    <value>查看联系人</value>
   </data>
   <data name="View System Context" xml:space="preserve">
     <value>查看系统上下文</value>

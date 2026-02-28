@@ -42,6 +42,9 @@
   <data name="Allows viewing and modifying global application settings." xml:space="preserve">
     <value>グローバルなアプリケーション設定の表示および編集を許可します。</value>
   </data>
+  <data name="Allows viewing submitted contact forms." xml:space="preserve">
+    <value>提出されたお問い合わせフォームの閲覧を許可します。</value>
+  </data>
   <data name="Allows viewing system-level information and settings." xml:space="preserve">
     <value>システムレベルの情報と設定の表示を許可します。</value>
   </data>
@@ -98,6 +101,9 @@
   </data>
   <data name="View Background Jobs" xml:space="preserve">
     <value>バックグラウンドジョブの表示</value>
+  </data>
+  <data name="View Contacts" xml:space="preserve">
+    <value>連絡先を表示</value>
   </data>
   <data name="View System Context" xml:space="preserve">
     <value>システムコンテキストの表示</value>

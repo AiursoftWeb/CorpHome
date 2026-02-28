@@ -42,6 +42,9 @@
   <data name="Allows viewing and modifying global application settings." xml:space="preserve">
     <value>Salli näytön ja muokkaus yleiset sovelluksen asetukset.</value>
   </data>
+  <data name="Allows viewing submitted contact forms." xml:space="preserve">
+    <value>Salli lomakkeiden näkymisen.</value>
+  </data>
   <data name="Allows viewing system-level information and settings." xml:space="preserve">
     <value>Mahdollistaa järjestelmätason tietojen ja asetusten tarkastelemisen.</value>
   </data>
@@ -98,6 +101,9 @@
   </data>
   <data name="View Background Jobs" xml:space="preserve">
     <value>Näytä taustatehtävät</value>
+  </data>
+  <data name="View Contacts" xml:space="preserve">
+    <value>Näytä yhteyshenkilöt</value>
   </data>
   <data name="View System Context" xml:space="preserve">
     <value>Näytä järjestelmän konteksti</value>

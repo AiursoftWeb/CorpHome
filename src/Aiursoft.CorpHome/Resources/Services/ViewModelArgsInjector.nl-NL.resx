@@ -51,6 +51,15 @@
   <data name="Click to login" xml:space="preserve">
     <value>Klik om in te loggen</value>
   </data>
+  <data name="Contact Success" xml:space="preserve">
+    <value>Contact Succes</value>
+  </data>
+  <data name="Contact Us" xml:space="preserve">
+    <value>Neem contact op</value>
+  </data>
+  <data name="Contacts" xml:space="preserve">
+    <value>Contacten</value>
+  </data>
   <data name="Create Role" xml:space="preserve">
     <value>Rol aanmaken</value>
   </data>
@@ -158,6 +167,9 @@
   </data>
   <data name="Users" xml:space="preserve">
     <value>Gebruikers</value>
+  </data>
+  <data name="View Contacts" xml:space="preserve">
+    <value>Contacten weergeven</value>
   </data>
 
 </root>

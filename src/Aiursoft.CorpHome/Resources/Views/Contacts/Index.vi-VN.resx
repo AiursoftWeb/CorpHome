@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="A list of all users who have contacted us through the website." xml:space="preserve">
+    <value>Danh sách tất cả người dùng đã liên hệ với chúng tôi qua trang web.</value>
+  </data>
+  <data name="Company" xml:space="preserve">
+    <value>Công ty</value>
+  </data>
+  <data name="Consume Open Source" xml:space="preserve">
+    <value>Sử dụng phần mềm nguồn mở</value>
+  </data>
+  <data name="Date" xml:space="preserve">
+    <value>Ngày</value>
+  </data>
+  <data name="Email" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="Job Title" xml:space="preserve">
+    <value>Chức danh</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>Tên</value>
+  </data>
+  <data name="Org Size" xml:space="preserve">
+    <value>Quy mô tổ chức</value>
+  </data>
+  <data name="Services Provided" xml:space="preserve">
+    <value>Dịch vụ cung cấp</value>
+  </data>
+  <data name="Submitted Contact Forms" xml:space="preserve">
+    <value>Các mẫu liên hệ đã gửi</value>
+  </data>
+  <data name="View Contacts" xml:space="preserve">
+    <value>Xem Liên hệ</value>
+  </data>
+
+</root>
