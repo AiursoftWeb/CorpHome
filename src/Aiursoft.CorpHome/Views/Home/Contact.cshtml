@@ -1,0 +1,97 @@
+@model Aiursoft.CorpHome.Models.HomeViewModels.ContactViewModel
+
+@* ReSharper disable once Razor.SectionNotResolved *@
+@section styles {
+    <link rel="stylesheet" href="~/styles/site.css" xmlns="http://www.w3.org/1999/html"/>
+    <link rel="stylesheet" href="~/styles/marketing.css" xmlns="http://www.w3.org/1999/html"/>
+}
+
+<vc:marketing-navbar></vc:marketing-navbar>
+
+<section class="py-6 bg-light" style="min-height: calc(100vh - 300px);">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8 col-xl-6">
+                <div class="card shadow-sm border-0">
+                    <div class="card-body p-4 p-md-5">
+                        <h2 class="h3 mb-4 text-center">Contact Us</h2>
+                        <p class="text-muted text-center mb-4">Please fill out the form below and our team will get back to you shortly.</p>
+
+                        <form asp-controller="Home" asp-action="Contact" method="post">
+                            <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+                            <div class="row g-3">
+                                <div class="col-md-6">
+                                    <label asp-for="FirstName" class="form-label"></label>
+                                    <input asp-for="FirstName" class="form-control" />
+                                    <span asp-validation-for="FirstName" class="text-danger"></span>
+                                </div>
+                                <div class="col-md-6">
+                                    <label asp-for="LastName" class="form-label"></label>
+                                    <input asp-for="LastName" class="form-control" />
+                                    <span asp-validation-for="LastName" class="text-danger"></span>
+                                </div>
+                                <div class="col-12">
+                                    <label asp-for="Email" class="form-label"></label>
+                                    <input asp-for="Email" class="form-control" type="email" />
+                                    <span asp-validation-for="Email" class="text-danger"></span>
+                                </div>
+                                <div class="col-md-6">
+                                    <label asp-for="Company" class="form-label"></label>
+                                    <input asp-for="Company" class="form-control" />
+                                    <span asp-validation-for="Company" class="text-danger"></span>
+                                </div>
+                                <div class="col-md-6">
+                                    <label asp-for="JobTitle" class="form-label"></label>
+                                    <input asp-for="JobTitle" class="form-control" />
+                                    <span asp-validation-for="JobTitle" class="text-danger"></span>
+                                </div>
+
+                                <div class="col-md-6">
+                                    <label asp-for="OrganizationSize" class="form-label"></label>
+                                    <select asp-for="OrganizationSize" class="form-select">
+                                        <option value="">Please select...</option>
+                                        <option value="1-49">1-49 employees</option>
+                                        <option value="50-249">50-249 employees</option>
+                                        <option value="250-999">250-999 employees</option>
+                                        <option value="1000+">1000+ employees</option>
+                                    </select>
+                                    <span asp-validation-for="OrganizationSize" class="text-danger"></span>
+                                </div>
+                                <div class="col-md-6">
+                                    <label asp-for="ConsumeOpenSource" class="form-label"></label>
+                                    <input asp-for="ConsumeOpenSource" class="form-control" />
+                                    <span asp-validation-for="ConsumeOpenSource" class="text-danger"></span>
+                                </div>
+
+                                <div class="col-12">
+                                    <label asp-for="ServicesProvided" class="form-label"></label>
+                                    <textarea asp-for="ServicesProvided" class="form-control" rows="3"></textarea>
+                                    <span asp-validation-for="ServicesProvided" class="text-danger"></span>
+                                </div>
+
+                                <div class="col-12 mt-4">
+                                    <div class="form-check">
+                                        <input asp-for="AgreeToInformation" class="form-check-input" />
+                                        <label asp-for="AgreeToInformation" class="form-check-label text-muted small"></label>
+                                    </div>
+                                    <div class="form-check mt-2">
+                                        <input asp-for="AgreeToPrivacy" class="form-check-input" />
+                                        <label asp-for="AgreeToPrivacy" class="form-check-label text-muted small"></label>
+                                        <span asp-validation-for="AgreeToPrivacy" class="text-danger d-block"></span>
+                                    </div>
+                                </div>
+
+                                <div class="col-12 mt-4 text-center">
+                                    <button type="submit" class="btn btn-primary btn-lg btn-pill px-5">Submit</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<vc:marketing-footer></vc:marketing-footer>
