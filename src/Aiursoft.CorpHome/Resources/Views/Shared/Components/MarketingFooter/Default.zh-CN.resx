@@ -45,6 +45,9 @@
   <data name="Licence" xml:space="preserve">
     <value>许可证</value>
   </data>
+  <data name="Privacy Policy" xml:space="preserve">
+    <value>隐私政策</value>
+  </data>
   <data name="Project" xml:space="preserve">
     <value>项目</value>
   </data>
@@ -59,6 +62,9 @@
   </data>
   <data name="Source Code" xml:space="preserve">
     <value>源代码</value>
+  </data>
+  <data name="Terms of Service" xml:space="preserve">
+    <value>服务条款</value>
   </data>
 
 </root>

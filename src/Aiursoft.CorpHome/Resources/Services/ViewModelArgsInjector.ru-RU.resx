@@ -129,6 +129,9 @@
   <data name="Personal" xml:space="preserve">
     <value>Личное</value>
   </data>
+  <data name="Privacy Policy" xml:space="preserve">
+    <value>Политика конфиденциальности</value>
+  </data>
   <data name="Profile" xml:space="preserve">
     <value>Профиль</value>
   </data>
@@ -158,6 +161,9 @@
   </data>
   <data name="Template" xml:space="preserve">
     <value>Шаблон</value>
+  </data>
+  <data name="Terms" xml:space="preserve">
+    <value>Условия</value>
   </data>
   <data name="Unauthorized" xml:space="preserve">
     <value>Неавторизованный</value>

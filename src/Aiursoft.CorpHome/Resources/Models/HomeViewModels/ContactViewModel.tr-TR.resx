@@ -18,7 +18,10 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="By submitting this form, I confirm that I have read and agree to Canonical&apos;s Privacy Notice and Privacy Policy." xml:space="preserve">
+      <data name="By submitting this form, I confirm that I have read and agree to Aiursoft&apos;s Terms of Service and Privacy Policy." xml:space="preserve">
+    <value>Formu göndererek, Aiursoft&apos;un Hizmet Şartları ve Gizlilik Politikası&apos;nı okuduğumu ve kabul ettiğimi onaylıyorum.</value>
+  </data>
+  <data name="By submitting this form, I confirm that I have read and agree to Canonical&apos;s Privacy Notice and Privacy Policy." xml:space="preserve">
     <value>Formu göndererek, Canonical&apos;ın Gizlilik Bildirimi ve Gizlilik Politikası&apos;nı okuduğumu ve kabul ettiğimi onaylıyorum.</value>
   </data>
   <data name="Company" xml:space="preserve">

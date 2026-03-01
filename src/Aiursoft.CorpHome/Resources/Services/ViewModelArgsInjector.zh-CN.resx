@@ -132,6 +132,9 @@
   <data name="Personal" xml:space="preserve">
     <value>个人</value>
   </data>
+  <data name="Privacy Policy" xml:space="preserve">
+    <value>隐私政策</value>
+  </data>
   <data name="Profile" xml:space="preserve">
     <value>个人资料</value>
   </data>
@@ -161,6 +164,9 @@
   </data>
   <data name="Template" xml:space="preserve">
     <value>模板</value>
+  </data>
+  <data name="Terms" xml:space="preserve">
+    <value>条款</value>
   </data>
   <data name="Unauthorized" xml:space="preserve">
     <value>未授权</value>

@@ -129,6 +129,9 @@
   <data name="Personal" xml:space="preserve">
     <value>Kişisel</value>
   </data>
+  <data name="Privacy Policy" xml:space="preserve">
+    <value>Gizlilik Politikası</value>
+  </data>
   <data name="Profile" xml:space="preserve">
     <value>Profil</value>
   </data>
@@ -158,6 +161,9 @@
   </data>
   <data name="Template" xml:space="preserve">
     <value>Şablon</value>
+  </data>
+  <data name="Terms" xml:space="preserve">
+    <value>Kullanım Şartları</value>
   </data>
   <data name="Unauthorized" xml:space="preserve">
     <value>Yetkisiz</value>

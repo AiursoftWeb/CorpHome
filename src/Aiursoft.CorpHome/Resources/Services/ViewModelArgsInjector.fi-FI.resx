@@ -129,6 +129,9 @@
   <data name="Personal" xml:space="preserve">
     <value>Henkilökohtainen</value>
   </data>
+  <data name="Privacy Policy" xml:space="preserve">
+    <value>Tietosuojakäytäntö</value>
+  </data>
   <data name="Profile" xml:space="preserve">
     <value>Profiili</value>
   </data>
@@ -158,6 +161,9 @@
   </data>
   <data name="Template" xml:space="preserve">
     <value>Malli</value>
+  </data>
+  <data name="Terms" xml:space="preserve">
+    <value>Käyttöehdot</value>
   </data>
   <data name="Unauthorized" xml:space="preserve">
     <value>Luvaton</value>
