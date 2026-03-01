@@ -45,6 +45,9 @@
   <data name="Licence" xml:space="preserve">
     <value>Лицензия</value>
   </data>
+  <data name="Privacy Policy" xml:space="preserve">
+    <value>Политика конфиденциальности</value>
+  </data>
   <data name="Project" xml:space="preserve">
     <value>Проект</value>
   </data>
@@ -59,6 +62,9 @@
   </data>
   <data name="Source Code" xml:space="preserve">
     <value>Исходный код</value>
+  </data>
+  <data name="Terms of Service" xml:space="preserve">
+    <value>Условия использования</value>
   </data>
 
 </root>
