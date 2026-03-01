@@ -1,0 +1,98 @@
+@{
+    ViewData["Title"] = Localizer["Privacy Policy"];
+}
+
+@section styles {
+    <link rel="stylesheet" href="~/styles/site.css" xmlns="http://www.w3.org/1999/html"/>
+    <link rel="stylesheet" href="~/styles/marketing.css" xmlns="http://www.w3.org/1999/html"/>
+}
+
+<vc:marketing-navbar></vc:marketing-navbar>
+
+<div class="container mt-5">
+    <main role="main" class="pb-3">
+        <div class="row">
+            <div class="col-md-12">
+                <h1 class="text-center">@Localizer["Aiursoft Privacy Policy"]</h1>
+                <p class="text-center">
+                    <em>@Localizer["Last Updated: March 2026"]</em><br />
+                    <em>@Localizer["Company Entity: AIURSOFT LIMITED (Hong Kong)"]</em>
+                </p>
+                <hr />
+                
+                <h3 id="1-the-aiursoft-privacy-philosophy">@Localizer["1. The Aiursoft Privacy Philosophy"]</h3>
+                <p>@Localizer["At Aiursoft, our foundational mission is to bring the spirit of open-source and free software to every enterprise and individual. This commitment to freedom inherently extends to your privacy and data sovereignty. We believe that your data belongs exclusively to you."]</p>
+                <p>@Localizer["We are unequivocally committed to the following principles:"]</p>
+                <ul>
+                    <li><strong>@Localizer["No Data Selling:"]</strong> @Localizer["We do not, and will never, sell, rent, or lease your personal or business data to third parties."]</li>
+                    <li><strong>@Localizer["No Hidden Telemetry:"]</strong> @Localizer["Our software solutions are designed without concealed telemetry, advertising trackers, or behavioral profiling mechanisms."]</li>
+                    <li><strong>@Localizer["Minimal Data Collection:"]</strong> @Localizer["We collect only the absolute minimum data necessary to provide you with secure, reliable, and functional services."]</li>
+                </ul>
+                <hr />
+
+                <h3 id="2-core-distinction-data-controller-vs-data-processor">@Localizer["2. Core Distinction: Data Controller vs. Data Processor"]</h3>
+                <p>@Localizer["To clearly understand how your data is handled, it is crucial to differentiate between the types of deployment plans we offer, as our legal and technical relationship to your data changes significantly based on your chosen architecture:"]</p>
+                <ul>
+                    <li><strong>@Localizer["For Cloud-Hosted Plans (e.g., Aiursoft Substrate S1 Core):"]</strong> @Localizer["When you utilize our cloud-hosted infrastructure (such as Mailcow, Nextcloud, or Authentik instances managed on our servers), AIURSOFT LIMITED acts as a Data Processor. You remain the Data Controller. We host and maintain the infrastructure to ensure uptime and security, but our personnel possess absolutely zero access to your underlying business data (e.g., the contents of your emails, your stored files, or your internal chat logs) unless you explicitly grant us temporary, revocable access for the sole purpose of resolving a technical support ticket you have initiated."]</li>
+                    <li><strong>@Localizer["For On-Premise Plans (e.g., Aiursoft Substrate S3 Startup & S5 Enterprise):"]</strong> @Localizer["When you elect to deploy our solutions on your own local servers or private cloud environments, You are in absolute control. In these deployments, Aiursoft has Zero Access to your physical servers, networks, files, emails, or locally constructed AI knowledge bases. Because the data physically resides within your perimeter, we cannot collect, view, or process it. Your privacy is guaranteed by physical and network isolation."]</li>
+                </ul>
+                <hr />
+
+                <h3 id="3-what-data-we-actually-collect">@Localizer["3. What Data We Actually Collect"]</h3>
+                <p>@Localizer["To facilitate our business relationship and manage your subscriptions, we collect the following limited categories of information:"]</p>
+                <ul>
+                    <li><strong>@Localizer["Account Information:"]</strong> @Localizer["When you register for an Aiursoft commercial account or engage with our sales team, we collect necessary contact details, including your name, your work email address, and your company name. This information is used strictly for account administration and communication."]</li>
+                    <li><strong>@Localizer["Billing and Payment Data:"]</strong> @Localizer["Crucially, AIURSOFT LIMITED does not collect, process, or store your full credit card numbers or sensitive financial instruments on our servers. All payment transactions are securely handled by our PCI-DSS compliant third-party payment processor, Stripe, Inc. We only receive and retain non-sensitive billing information from Stripe, such as your billing address, subscription status, and the last four digits of your payment card, strictly for the purposes of issuing invoices, managing your active subscriptions, and complying with financial record-keeping laws."]</li>
+                    <li><strong>@Localizer["Technical and Diagnostic Data:"]</strong> @Localizer["When you visit our public-facing websites (e.g., aiursoft.com), our web servers automatically log standard technical information, such as your IP address, browser type, and access times. This data is utilized exclusively for security monitoring (e.g., preventing DDoS attacks), ensuring the stability of our web infrastructure, and basic, anonymized traffic analysis. We do not employ invasive third-party tracking cookies for behavioral advertising."]</li>
+                </ul>
+                <hr />
+
+                <h3 id="4-how-we-use-your-data">@Localizer["4. How We Use Your Data"]</h3>
+                <p>@Localizer["The limited data we do collect is utilized solely for the following legitimate business purposes:"]</p>
+                <ul>
+                    <li><strong>@Localizer["Service Provisioning:"]</strong> @Localizer["To create your account, configure your chosen deployment (whether cloud-hosted or coordinating on-premise setup), and authenticate your access."]</li>
+                    <li><strong>@Localizer["Transaction Processing:"]</strong> @Localizer["To facilitate subscription billing and process payments securely via Stripe."]</li>
+                    <li><strong>@Localizer["Communication:"]</strong> @Localizer["To send you critical system notifications (such as scheduled maintenance alerts or downtime warnings), billing receipts, and responses to your technical support inquiries."]</li>
+                    <li><strong>@Localizer["Strict Prohibition on AI Training:"]</strong> @Localizer["We categorically state that your private data, documents, and communications are never used to train our AI models or any third-party Large Language Models (LLMs). Our AI solutions, particularly in the Custom Enterprise tier, are designed to run locally and train exclusively on data you explicitly provide within your secure environment."]</li>
+                </ul>
+                <hr />
+
+                <h3 id="5-data-sharing-and-third-party-sub-processors">@Localizer["5. Data Sharing and Third-Party Sub-Processors"]</h3>
+                <p>@Localizer["We do not share your personal information with external parties except where absolutely necessary to deliver our services. To operate effectively, we utilize the following trusted third-party sub-processors:"]</p>
+                <ul>
+                    <li><strong>@Localizer["Stripe, Inc.:"]</strong> @Localizer["Exclusively for secure payment processing and subscription management."]</li>
+                    <li><strong>@Localizer["Voxihost:"]</strong> @Localizer["For provisioning the underlying high-performance cloud infrastructure that powers our official websites and Cloud-Hosted (S1 Core) client instances."]</li>
+                </ul>
+                <p>@Localizer["Beyond these essential operational partners, Aiursoft will never disclose your data to any third party, including government entities, unless legally compelled to do so by a valid, binding court order or subpoena originating from a competent jurisdiction."]</p>
+                <hr />
+
+                <h3 id="6-data-retention-and-deletion">@Localizer["6. Data Retention and Deletion"]</h3>
+                <ul>
+                    <li><strong>@Localizer["During Active Subscription:"]</strong> @Localizer["We securely retain your account and hosted data for the duration of your active subscription to ensure continuous service delivery."]</li>
+                    <li><strong>@Localizer["Upon Cancellation (Cloud-Hosted Plans):"]</strong> @Localizer["If you choose to cancel a Cloud-Hosted subscription, your account will remain active until the end of the current billing cycle. Following the expiration of your subscription, we observe a strict 30-day grace period. After this 30-day period, all of your associated business data (emails, files, databases) will be permanently, irreversibly, and securely hard-deleted from our hosting infrastructure. We cannot recover data once this deletion process has occurred."]</li>
+                    <li><strong>@Localizer["Upon Cancellation (On-Premise Plans):"]</strong> @Localizer["For on-premise deployments, cancellation simply terminates our support and update services. Your data remains entirely intact on your own servers, under your complete control."]</li>
+                </ul>
+                <hr />
+
+                <h3 id="7-your-data-rights">@Localizer["7. Your Data Rights"]</h3>
+                <p>@Localizer["In accordance with global privacy standards, including the principles outlined in regulations such as the GDPR and the Hong Kong Personal Data (Privacy) Ordinance (PDPO), you possess the following rights regarding your personal data held by Aiursoft:"]</p>
+                <ul>
+                    <li><strong>@Localizer["Right to Access:"]</strong> @Localizer["You may request a copy of the personal data we hold about you."]</li>
+                    <li><strong>@Localizer["Right to Rectification:"]</strong> @Localizer["You may request that we correct any inaccurate or incomplete personal data."]</li>
+                    <li><strong>@Localizer["Right to Erasure (The \"Right to be Forgotten\"):"]</strong> @Localizer["You may request the complete deletion of your account and associated personal data from our systems, subject to our retention policies for cancelled subscriptions and legal compliance requirements."]</li>
+                </ul>
+                <p>@Localizer["To exercise any of these rights, please contact us using the information provided below or manage your preferences directly within your Aiursoft account dashboard."]</p>
+                <hr />
+
+                <h3 id="8-contact-us">@Localizer["8. Contact Us"]</h3>
+                <p>@Localizer["If you have any questions, concerns, or requests regarding this Privacy Policy or our data handling practices, please contact our executive team:"]</p>
+                <ul>
+                    <li><strong>@Localizer["Email:"]</strong> <a href="mailto:leadership@aiursoft.com">leadership@aiursoft.com</a></li>
+                    <li><strong>@Localizer["Company Entity:"]</strong> @Localizer["AIURSOFT LIMITED"]</li>
+                </ul>
+            </div>
+        </div>
+    </main>
+</div>
+
+<vc:marketing-footer></vc:marketing-footer>

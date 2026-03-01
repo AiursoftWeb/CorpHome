@@ -48,6 +48,6 @@ public class ContactViewModel : UiStackLayoutViewModel
     public bool AgreeToInformation { get; set; }
 
     [Required]
-    [Display(Name = "By submitting this form, I confirm that I have read and agree to Canonical's Privacy Notice and Privacy Policy.")]
+    [Display(Name = "By submitting this form, I confirm that I have read and agree to Aiursoft's Terms of Service and Privacy Policy.")]
     public bool AgreeToPrivacy { get; set; }
 }

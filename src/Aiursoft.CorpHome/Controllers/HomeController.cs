@@ -14,6 +14,20 @@ public class HomeController(TemplateDbContext dbContext) : Controller
         return this.SimpleView(new IndexViewModel());
     }
 
+    [Route("/terms")]
+    [Route("/terms.html")]
+    public IActionResult Terms()
+    {
+        return this.SimpleView(new TermsViewModel());
+    }
+
+    [Route("/privacy")]
+    [Route("/privacy.html")]
+    public IActionResult Privacy()
+    {
+        return this.SimpleView(new PrivacyViewModel());
+    }
+
     public IActionResult Contact()
     {
         return this.SimpleView(new ContactViewModel());
@@ -25,7 +39,7 @@ public class HomeController(TemplateDbContext dbContext) : Controller
     {
         if (!model.AgreeToPrivacy)
         {
-            ModelState.AddModelError(nameof(model.AgreeToPrivacy), "You must agree to the Privacy Policy to submit this form.");
+            ModelState.AddModelError(nameof(model.AgreeToPrivacy), "You must agree to the Terms of Service and Privacy Policy to submit this form.");
         }
 
         if (!ModelState.IsValid)
