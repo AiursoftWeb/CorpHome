@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="1. The Aiursoft Privacy Philosophy" xml:space="preserve">
+    <value>1. 爱尔夫特隐私理念</value>
+  </data>
+  <data name="2. Core Distinction: Data Controller vs. Data Processor" xml:space="preserve">
+    <value>2. 核心区别：数据控制者与数据处理者</value>
+  </data>
+  <data name="3. What Data We Actually Collect" xml:space="preserve">
+    <value>3. 我们实际收集的数据</value>
+  </data>
+  <data name="4. How We Use Your Data" xml:space="preserve">
+    <value>4. 我们如何使用您的数据</value>
+  </data>
+  <data name="5. Data Sharing and Third-Party Sub-Processors" xml:space="preserve">
+    <value>5. 数据共享与第三方子处理器</value>
+  </data>
+  <data name="6. Data Retention and Deletion" xml:space="preserve">
+    <value>6. 数据保留与删除</value>
+  </data>
+  <data name="7. Your Data Rights" xml:space="preserve">
+    <value>7. 您的数据权利</value>
+  </data>
+  <data name="8. Contact Us" xml:space="preserve">
+    <value>8. 联系我们</value>
+  </data>
+  <data name="Account Information:" xml:space="preserve">
+    <value>账户信息：</value>
+  </data>
+  <data name="AIURSOFT LIMITED" xml:space="preserve">
+    <value>AIURSOFT LIMITED</value>
+  </data>
+  <data name="Aiursoft Privacy Policy" xml:space="preserve">
+    <value>Aiursoft 隐私政策</value>
+  </data>
+  <data name="At Aiursoft, our foundational mission is to bring the spirit of open-source and free software to every enterprise and individual. This commitment to freedom inherently extends to your privacy and data sovereignty. We believe that your data belongs exclusively to you." xml:space="preserve">
+    <value>在Aiursoft，我们的根本使命是将开源和自由软件的精神带给每一个企业与个人。我们对自由的承诺自然延伸至您的隐私和数据主权。我们坚信，您的数据 exclusively 属于您。</value>
+  </data>
+  <data name="Beyond these essential operational partners, Aiursoft will never disclose your data to any third party, including government entities, unless legally compelled to do so by a valid, binding court order or subpoena originating from a competent jurisdiction." xml:space="preserve">
+    <value>除了这些必要的运营合作伙伴外，除非根据有管辖权的司法管辖区发出的有效且具有法律约束力的法院命令或传票而被法律强制要求，否则Aiursoft绝不会向任何第三方（包括政府机构）披露您的数据。</value>
+  </data>
+  <data name="Billing and Payment Data:" xml:space="preserve">
+    <value>账单和支付数据：</value>
+  </data>
+  <data name="Communication:" xml:space="preserve">
+    <value>通信：</value>
+  </data>
+  <data name="Company Entity:" xml:space="preserve">
+    <value>公司实体：</value>
+  </data>
+  <data name="Company Entity: AIURSOFT LIMITED (Hong Kong)" xml:space="preserve">
+    <value>Company Entity: AIURSOFT LIMITED (Hong Kong)</value>
+  </data>
+  <data name="Crucially, AIURSOFT LIMITED does not collect, process, or store your full credit card numbers or sensitive financial instruments on our servers. All payment transactions are securely handled by our PCI-DSS compliant third-party payment processor, Stripe, Inc. We only receive and retain non-sensitive billing information from Stripe, such as your billing address, subscription status, and the last four digits of your payment card, strictly for the purposes of issuing invoices, managing your active subscriptions, and complying with financial record-keeping laws." xml:space="preserve">
+    <value>至关重要的是，AIURSOFT LIMITED 不会在我们的服务器上收集、处理或存储您的完整信用卡号码或敏感的金融工具。所有支付交易均由我们符合 PCI-DSS 标准的第三方支付处理器 Stripe, Inc. 安全处理。我们仅从 Stripe 获取并保留非敏感的账单信息，例如您的账单地址、订阅状态以及支付卡的后四位数字，且仅用于开具发票、管理您的活跃订阅以及遵守财务记录保存法规的目的。</value>
+  </data>
+  <data name="During Active Subscription:" xml:space="preserve">
+    <value>订阅有效期间：</value>
+  </data>
+  <data name="Email:" xml:space="preserve">
+    <value>电子邮件：</value>
+  </data>
+  <data name="Exclusively for secure payment processing and subscription management." xml:space="preserve">
+    <value>仅用于安全的支付处理和订阅管理。</value>
+  </data>
+  <data name="For Cloud-Hosted Plans (e.g., Aiursoft Substrate S1 Core):" xml:space="preserve">
+    <value>对于云托管方案（例如，Aiursoft Substrate S1 Core）：</value>
+  </data>
+  <data name="For on-premise deployments, cancellation simply terminates our support and update services. Your data remains entirely intact on your own servers, under your complete control." xml:space="preserve">
+    <value>对于本地部署，取消服务仅会终止我们的支持和更新服务。您的数据将完全保留在您自己的服务器上，由您完全控制。</value>
+  </data>
+  <data name="For On-Premise Plans (e.g., Aiursoft Substrate S3 Startup &amp; S5 Enterprise):" xml:space="preserve">
+    <value>对于本地部署方案（例如，Aiursoft Substrate S3 启动版 &amp; S5 企业版）：</value>
+  </data>
+  <data name="For provisioning the underlying high-performance cloud infrastructure that powers our official websites and Cloud-Hosted (S1 Core) client instances." xml:space="preserve">
+    <value>用于部署支撑我们官方网站及云托管（S1 Core）客户端实例的底层高性能云基础设施。</value>
+  </data>
+  <data name="If you choose to cancel a Cloud-Hosted subscription, your account will remain active until the end of the current billing cycle. Following the expiration of your subscription, we observe a strict 30-day grace period. After this 30-day period, all of your associated business data (emails, files, databases) will be permanently, irreversibly, and securely hard-deleted from our hosting infrastructure. We cannot recover data once this deletion process has occurred." xml:space="preserve">
+    <value>如果您选择取消云托管订阅，您的账户将在当前计费周期结束前保持激活状态。订阅到期后，我们将执行严格的30天宽限期。在此30天宽限期结束后，您所有关联的业务数据（电子邮件、文件、数据库）将被永久、不可逆且安全地从我们的托管基础设施中彻底删除。一旦完成删除流程，我们将无法恢复任何数据。</value>
+  </data>
+  <data name="If you have any questions, concerns, or requests regarding this Privacy Policy or our data handling practices, please contact our executive team:" xml:space="preserve">
+    <value>如果您对本隐私政策或我们的数据处理方式有任何疑问、顾虑或请求，请联系我们的执行团队：</value>
+  </data>
+  <data name="In accordance with global privacy standards, including the principles outlined in regulations such as the GDPR and the Hong Kong Personal Data (Privacy) Ordinance (PDPO), you possess the following rights regarding your personal data held by Aiursoft:" xml:space="preserve">
+    <value>根据全球隐私标准，包括《通用数据保护条例》（GDPR）和《香港个人资料（隐私）条例》（PDPO）等法规所规定的准则，您对Aiursoft所持有的您的个人数据拥有以下权利：</value>
+  </data>
+  <data name="Last Updated: March 2026" xml:space="preserve">
+    <value>最后更新时间：2026年3月</value>
+  </data>
+  <data name="Minimal Data Collection:" xml:space="preserve">
+    <value>最少数据收集：</value>
+  </data>
+  <data name="No Data Selling:" xml:space="preserve">
+    <value>不售卖数据：</value>
+  </data>
+  <data name="No Hidden Telemetry:" xml:space="preserve">
+    <value>无隐藏遥测：</value>
+  </data>
+  <data name="Our software solutions are designed without concealed telemetry, advertising trackers, or behavioral profiling mechanisms." xml:space="preserve">
+    <value>我们的软件解决方案在设计时未包含隐蔽的遥测、广告追踪器或行为分析机制。</value>
+  </data>
+  <data name="Right to Access:" xml:space="preserve">
+    <value>访问权：</value>
+  </data>
+  <data name="Right to Erasure (The &quot;Right to be Forgotten&quot;):" xml:space="preserve">
+    <value>删除权（“被遗忘权”）：</value>
+  </data>
+  <data name="Right to Rectification:" xml:space="preserve">
+    <value>更正权：</value>
+  </data>
+  <data name="Service Provisioning:" xml:space="preserve">
+    <value>服务提供：</value>
+  </data>
+  <data name="Strict Prohibition on AI Training:" xml:space="preserve">
+    <value>严格禁止用于AI训练：</value>
+  </data>
+  <data name="Stripe, Inc.:" xml:space="preserve">
+    <value>Stripe, Inc.:</value>
+  </data>
+  <data name="Technical and Diagnostic Data:" xml:space="preserve">
+    <value>技术与诊断数据：</value>
+  </data>
+  <data name="The limited data we do collect is utilized solely for the following legitimate business purposes:" xml:space="preserve">
+    <value>我们所收集的有限数据仅用于以下合法商业目的：</value>
+  </data>
+  <data name="To clearly understand how your data is handled, it is crucial to differentiate between the types of deployment plans we offer, as our legal and technical relationship to your data changes significantly based on your chosen architecture:" xml:space="preserve">
+    <value>为了清楚了解您的数据将如何被处理，至关重要的是要区分我们提供的不同部署方案，因为我们的法律和技术关系会根据您选择的架构而发生显著变化：</value>
+  </data>
+  <data name="To create your account, configure your chosen deployment (whether cloud-hosted or coordinating on-premise setup), and authenticate your access." xml:space="preserve">
+    <value>创建您的账户，配置您选择的部署方式（无论是云托管还是协调本地部署），并验证您的访问权限。</value>
+  </data>
+  <data name="To exercise any of these rights, please contact us using the information provided below or manage your preferences directly within your Aiursoft account dashboard." xml:space="preserve">
+    <value>如需行使上述任何权利，请使用下方提供的信息联系我们，或直接在您的Aiursoft账户仪表板中管理您的偏好设置。</value>
+  </data>
+  <data name="To facilitate our business relationship and manage your subscriptions, we collect the following limited categories of information:" xml:space="preserve">
+    <value>为便于我们建立业务关系并管理您的订阅，我们仅收集以下有限类别的信息：</value>
+  </data>
+  <data name="To facilitate subscription billing and process payments securely via Stripe." xml:space="preserve">
+    <value>为了便于订阅计费并安全地通过 Stripe 处理付款。</value>
+  </data>
+  <data name="To send you critical system notifications (such as scheduled maintenance alerts or downtime warnings), billing receipts, and responses to your technical support inquiries." xml:space="preserve">
+    <value>向您发送关键系统通知（例如计划内维护提醒或服务中断警告）、账单收据以及对您技术支援请求的回复。</value>
+  </data>
+  <data name="Transaction Processing:" xml:space="preserve">
+    <value>交易处理：</value>
+  </data>
+  <data name="Upon Cancellation (Cloud-Hosted Plans):" xml:space="preserve">
+    <value>取消订阅后（云托管计划）：</value>
+  </data>
+  <data name="Upon Cancellation (On-Premise Plans):" xml:space="preserve">
+    <value>取消订阅后（本地部署计划）：</value>
+  </data>
+  <data name="Voxihost:" xml:space="preserve">
+    <value>Voxihost:</value>
+  </data>
+  <data name="We are unequivocally committed to the following principles:" xml:space="preserve">
+    <value>我们坚定不移地致力于以下原则：</value>
+  </data>
+  <data name="We categorically state that your private data, documents, and communications are never used to train our AI models or any third-party Large Language Models (LLMs). Our AI solutions, particularly in the Custom Enterprise tier, are designed to run locally and train exclusively on data you explicitly provide within your secure environment." xml:space="preserve">
+    <value>我们明确声明，您的私有数据、文档和通信内容绝不会用于训练我们的AI模型或任何第三方大型语言模型（LLMs）。我们的AI解决方案，特别是定制企业版，设计为在本地运行，并且仅在您明确提供的安全环境中使用您指定的数据进行训练。</value>
+  </data>
+  <data name="We collect only the absolute minimum data necessary to provide you with secure, reliable, and functional services." xml:space="preserve">
+    <value>我们仅收集提供安全、可靠且功能完整服务所必需的绝对最小数据。</value>
+  </data>
+  <data name="We do not share your personal information with external parties except where absolutely necessary to deliver our services. To operate effectively, we utilize the following trusted third-party sub-processors:" xml:space="preserve">
+    <value>我们不会与外部第三方共享您的个人信息，除非在提供服务所绝对必要的范围内。为有效运营，我们使用以下值得信赖的第三方子处理程序：</value>
+  </data>
+  <data name="We do not, and will never, sell, rent, or lease your personal or business data to third parties." xml:space="preserve">
+    <value>我们绝不，也永远不会，将您的个人或商业数据出售、出租或出借给第三方。</value>
+  </data>
+  <data name="We securely retain your account and hosted data for the duration of your active subscription to ensure continuous service delivery." xml:space="preserve">
+    <value>我们会在您订阅有效期内安全地保留您的账户和托管数据，以确保服务的持续交付。</value>
+  </data>
+  <data name="When you elect to deploy our solutions on your own local servers or private cloud environments, You are in absolute control. In these deployments, Aiursoft has Zero Access to your physical servers, networks, files, emails, or locally constructed AI knowledge bases. Because the data physically resides within your perimeter, we cannot collect, view, or process it. Your privacy is guaranteed by physical and network isolation." xml:space="preserve">
+    <value>当您选择在自有本地服务器或私有云环境中部署我们的解决方案时，您将完全掌控。在这些部署中，Aiursoft 对您的物理服务器、网络、文件、电子邮件或本地构建的 AI 知识库均无任何访问权限。由于数据物理上位于您的边界之内，我们无法收集、查看或处理这些数据。您的隐私由物理和网络隔离保障。</value>
+  </data>
+  <data name="When you register for an Aiursoft commercial account or engage with our sales team, we collect necessary contact details, including your name, your work email address, and your company name. This information is used strictly for account administration and communication." xml:space="preserve">
+    <value>当您注册 Aiursoft 商业账户或与我们的销售团队联系时，我们会收集必要的联系信息，包括您的姓名、工作电子邮件地址以及公司名称。这些信息仅用于账户管理和沟通。</value>
+  </data>
+  <data name="When you utilize our cloud-hosted infrastructure (such as Mailcow, Nextcloud, or Authentik instances managed on our servers), AIURSOFT LIMITED acts as a Data Processor. You remain the Data Controller. We host and maintain the infrastructure to ensure uptime and security, but our personnel possess absolutely zero access to your underlying business data (e.g., the contents of your emails, your stored files, or your internal chat logs) unless you explicitly grant us temporary, revocable access for the sole purpose of resolving a technical support ticket you have initiated." xml:space="preserve">
+    <value>当您使用我们的云托管基础设施（例如由我们服务器管理的 Mailcow、Nextcloud 或 Authentik 实例）时，AIURSOFT LIMITED 作为数据处理者。您仍为数据控制者。我们负责托管和维护基础设施以确保服务的可用性和安全性，但我们的人员对您的底层业务数据（例如邮件内容、存储的文件或内部聊天记录）拥有绝对零访问权限，除非您明确授予我们临时且可撤销的访问权限，且仅用于解决您发起的技术支持工单这一单一目的。</value>
+  </data>
+  <data name="When you visit our public-facing websites (e.g., aiursoft.com), our web servers automatically log standard technical information, such as your IP address, browser type, and access times. This data is utilized exclusively for security monitoring (e.g., preventing DDoS attacks), ensuring the stability of our web infrastructure, and basic, anonymized traffic analysis. We do not employ invasive third-party tracking cookies for behavioral advertising." xml:space="preserve">
+    <value>当您访问我们的公开网站（例如：aiursoft.com）时，我们的网络服务器会自动记录标准的技术信息，例如您的IP地址、浏览器类型和访问时间。这些数据仅用于安全监控（例如：防止DDoS攻击）、确保我们网络基础设施的稳定性，以及基本的匿名流量分析。我们不会使用侵入性的第三方跟踪Cookie进行行为广告。</value>
+  </data>
+  <data name="You may request a copy of the personal data we hold about you." xml:space="preserve">
+    <value>您可以请求获取我们所持有的有关您的个人数据副本。</value>
+  </data>
+  <data name="You may request that we correct any inaccurate or incomplete personal data." xml:space="preserve">
+    <value>您可以请求我们更正任何不准确或不完整的个人数据。</value>
+  </data>
+  <data name="You may request the complete deletion of your account and associated personal data from our systems, subject to our retention policies for cancelled subscriptions and legal compliance requirements." xml:space="preserve">
+    <value>您可以请求删除您的账户及关联的个人数据，但需遵守我们对已取消订阅的保留政策以及法律合规要求。</value>
+  </data>
+
+</root>

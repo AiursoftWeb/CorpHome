@@ -129,6 +129,9 @@
   <data name="Personal" xml:space="preserve">
     <value>व्यक्तिगत</value>
   </data>
+  <data name="Privacy Policy" xml:space="preserve">
+    <value>गोपनीयता नीति</value>
+  </data>
   <data name="Profile" xml:space="preserve">
     <value>प्रोफ़ाइल</value>
   </data>
@@ -158,6 +161,9 @@
   </data>
   <data name="Template" xml:space="preserve">
     <value>टेम्पलेट</value>
+  </data>
+  <data name="Terms" xml:space="preserve">
+    <value>नियम एवं शर्तें</value>
   </data>
   <data name="Unauthorized" xml:space="preserve">
     <value>अनधिकृत</value>

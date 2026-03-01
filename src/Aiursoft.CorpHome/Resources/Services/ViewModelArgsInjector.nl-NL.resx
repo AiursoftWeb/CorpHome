@@ -129,6 +129,9 @@
   <data name="Personal" xml:space="preserve">
     <value>Persoonlijk</value>
   </data>
+  <data name="Privacy Policy" xml:space="preserve">
+    <value>Privacybeleid</value>
+  </data>
   <data name="Profile" xml:space="preserve">
     <value>Profiel</value>
   </data>
@@ -158,6 +161,9 @@
   </data>
   <data name="Template" xml:space="preserve">
     <value>Sjabloon</value>
+  </data>
+  <data name="Terms" xml:space="preserve">
+    <value>Algemene voorwaarden</value>
   </data>
   <data name="Unauthorized" xml:space="preserve">
     <value>Niet geautoriseerd</value>

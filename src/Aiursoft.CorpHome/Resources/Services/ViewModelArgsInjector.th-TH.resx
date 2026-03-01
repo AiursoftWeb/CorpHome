@@ -132,6 +132,9 @@
   <data name="Personal" xml:space="preserve">
     <value>ส่วนตัว</value>
   </data>
+  <data name="Privacy Policy" xml:space="preserve">
+    <value>นโยบายความเป็นส่วนตัว</value>
+  </data>
   <data name="Profile" xml:space="preserve">
     <value>โปรไฟล์</value>
   </data>
@@ -161,6 +164,9 @@
   </data>
   <data name="Template" xml:space="preserve">
     <value>แม่แบบ</value>
+  </data>
+  <data name="Terms" xml:space="preserve">
+    <value>ข้อกำหนด</value>
   </data>
   <data name="Unauthorized" xml:space="preserve">
     <value>ไม่ได้รับอนุญาต</value>

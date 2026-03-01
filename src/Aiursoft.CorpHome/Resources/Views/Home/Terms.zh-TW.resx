@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="1. The Nature of Our Services" xml:space="preserve">
+    <value>1. 我們服務的性質</value>
+  </data>
+  <data name="10. Governing Law" xml:space="preserve">
+    <value>10. 準據法律</value>
+  </data>
+  <data name="11. Contact Us" xml:space="preserve">
+    <value>11. 聯絡我們</value>
+  </data>
+  <data name="2. Plan Distinctions &amp; Responsibilities" xml:space="preserve">
+    <value>2. 方案差異與責任</value>
+  </data>
+  <data name="3. Subscription, Billing, and Payments" xml:space="preserve">
+    <value>3. 訂閱、帳單與付款</value>
+  </data>
+  <data name="4. Cancellation and Refund Policy" xml:space="preserve">
+    <value>4. 退訂與退款政策</value>
+  </data>
+  <data name="5. Hardware Purchases (Third-Party)" xml:space="preserve">
+    <value>5. 硬體採購（第三方）</value>
+  </data>
+  <data name="6. Acceptable Use Policy" xml:space="preserve">
+    <value>6. 可接受使用政策</value>
+  </data>
+  <data name="7. Intellectual Property" xml:space="preserve">
+    <value>7. 知識產權</value>
+  </data>
+  <data name="8. Limitation of Liability" xml:space="preserve">
+    <value>8. 責任限制</value>
+  </data>
+  <data name="9. Modifications to the Terms" xml:space="preserve">
+    <value>9. 條款的修改</value>
+  </data>
+  <data name="Aiursoft hosts the infrastructure on our secured servers. We are responsible for server uptime, standard backups, and basic network security." xml:space="preserve">
+    <value>Aiursoft 在我們的安全伺服器上主機基礎設施。我們負責伺服器的穩定運作、標準備份以及基本的網路安全。</value>
+  </data>
+  <data name="AIURSOFT LIMITED" xml:space="preserve">
+    <value>AIURSOFT LIMITED</value>
+  </data>
+  <data name="Aiursoft provides enterprise IT infrastructure solutions built upon open-source technologies (e.g., Linux, Nextcloud, Mailcow, Authentik, GitLab)." xml:space="preserve">
+    <value>Aiursoft 提供基於開源技術（例如：Linux、Nextcloud、Mailcow、Authentik、GitLab）的企業級 IT 基礎設施解決方案。</value>
+  </data>
+  <data name="All fees are exclusive of applicable taxes, levies, or duties imposed by taxing authorities, and you shall be responsible for payment of all such taxes." xml:space="preserve">
+    <value>所有費用均不包含適用之稅款、稅額或稅捐，該等稅款由課稅機關所課徵，您應負責支付所有相關稅款。</value>
+  </data>
+  <data name="All payments are securely processed by our third-party payment gateway, Stripe. Aiursoft does not collect, process, or store your full credit card information on our servers." xml:space="preserve">
+    <value>所有付款皆由我們的第三方支付網關 Stripe 安全處理。Aiursoft 不會在伺服器上收集、處理或儲存您完整的信用卡資訊。</value>
+  </data>
+  <data name="Any unauthorized access to your on-premise servers (for Startup/Enterprise plans)." xml:space="preserve">
+    <value>任何未經授權存取您自建伺服器的情況（適用於啟動版/企業版方案）。</value>
+  </data>
+  <data name="Attempt to bypass or compromise any security measure implemented by Aiursoft on Cloud-Hosted plans." xml:space="preserve">
+    <value>試圖繞過或破壞 Aiursoft 在雲端主機方案上實施的任何安全措施。</value>
+  </data>
+  <data name="Automatic Renewal:" xml:space="preserve">
+    <value>自動續訂：</value>
+  </data>
+  <data name="Certain features, such as offline AI Knowledge Base construction or hardware-based Zero Trust authentication, may require physical hardware (e.g., NVIDIA GPUs, YubiKeys). Unless explicitly stated in a custom enterprise contract, you are responsible for procuring this hardware directly from the respective manufacturers. Aiursoft acts solely as the software integration provider." xml:space="preserve">
+    <value>某些功能，例如離線人工智慧知識庫建構或基於硬體的零信任驗證，可能需要實體硬體（例如：NVIDIA GPU、YubiKey）。除非在自訂企業合約中明確說明，否則您需直接向相關製造商採購此硬體。Aiursoft 僅作為軟體整合提供者。</value>
+  </data>
+  <data name="Cloud-Hosted Plans (e.g., Core):" xml:space="preserve">
+    <value>雲端主機方案（例如：Core）：</value>
+  </data>
+  <data name="Company Entity: AIURSOFT LIMITED (Hong Kong)" xml:space="preserve">
+    <value>公司實體：AIURSOFT LIMITED (香港)</value>
+  </data>
+  <data name="Company:" xml:space="preserve">
+    <value>公司：</value>
+  </data>
+  <data name="Data loss due to hardware failure on your self-hosted infrastructure." xml:space="preserve">
+    <value>因您自建基礎設施的硬體故障導致的資料遺失。</value>
+  </data>
+  <data name="Effect of Cancellation:" xml:space="preserve">
+    <value>取消之影響：</value>
+  </data>
+  <data name="Email:" xml:space="preserve">
+    <value>電子郵件：</value>
+  </data>
+  <data name="For On-Premise plans requiring a One-Time Setup Fee, this fee covers the manual labor of our architects (e.g., network configuration, Docker deployment, Yubikey integration). Setup fees are strictly non-refundable once the deployment and configuration process has commenced." xml:space="preserve">
+    <value>針對需要一次性設定費用的在地部署方案，此費用涵蓋我們架構師的手動勞務（例如：網路設定、Docker 部署、Yubikey 整合）。一旦開始部署與設定流程，設定費用將嚴格不予退還。</value>
+  </data>
+  <data name="How to Cancel:" xml:space="preserve">
+    <value>取消方式：</value>
+  </data>
+  <data name="If you cancel your subscription, the cancellation will take effect at the end of your current paid billing cycle. You will retain full access to the Services until that cycle concludes." xml:space="preserve">
+    <value>如果您取消訂閱，取消將於當前付費帳單週期結束時生效。您將在該週期結束前，繼續享有完整的服務存取權。</value>
+  </data>
+  <data name="If you have any questions about these Terms, please contact our executive team at:" xml:space="preserve">
+    <value>如對上述條款有任何疑問，請聯絡我們的執行團隊：</value>
+  </data>
+  <data name="In no event shall Aiursoft&apos;s aggregate liability for all claims related to the services exceed the total amount paid by you to Aiursoft for the specific service in the twelve (12) months preceding the claim." xml:space="preserve">
+    <value>在任何情況下，Aiursoft 對與服務相關之所有請求的合計責任均不得超過您於請求前十二（12）個月內支付給 Aiursoft 之特定服務總金額。</value>
+  </data>
+  <data name="Last Updated: March 2026" xml:space="preserve">
+    <value>最後更新：2026年3月</value>
+  </data>
+  <data name="No Pro-Rated Refunds:" xml:space="preserve">
+    <value>無比例退費：</value>
+  </data>
+  <data name="On-Premise Plans (e.g., Startup, Custom Enterprise):" xml:space="preserve">
+    <value>在地部署方案 (例如：啟動版、客製化企業版)：</value>
+  </data>
+  <data name="One-Time Setup Fees:" xml:space="preserve">
+    <value>一次性設定費用：</value>
+  </data>
+  <data name="Payment Processing:" xml:space="preserve">
+    <value>付款處理：</value>
+  </data>
+  <data name="Per-User Billing:" xml:space="preserve">
+    <value>依使用者計費：</value>
+  </data>
+  <data name="Subscription fees are calculated based on the number of active users/accounts managed within your Aiursoft Identity Gateway per billing cycle." xml:space="preserve">
+    <value>訂閱費用會根據每個計費週期內您在 Aiursoft Identity Gateway 中管理的活躍使用者/帳戶數量來計算。</value>
+  </data>
+  <data name="Taxes:" xml:space="preserve">
+    <value>稅項：</value>
+  </data>
+  <data name="Terms of Service &amp; Subscription Agreement" xml:space="preserve">
+    <value>服務條款與訂閱合約</value>
+  </data>
+  <data name="The Aiursoft brand, logos, website design, and proprietary deployment scripts (e.g., Aiursoft Template orchestrations) are the intellectual property of AIURSOFT LIMITED. The underlying open-source software remains the property of their respective creators and is provided to you under their specific open-source licenses." xml:space="preserve">
+    <value>Aiursoft 品牌、商標、網站設計以及專有部署指令碼（例如：Aiursoft 模板編排）均為 AIURSOFT LIMITED 的智慧財產權。基礎的開源軟體仍屬於其各自創作者的財產，並依照其特定的開源授權條款提供給您。</value>
+  </data>
+  <data name="The Service is Commercial:" xml:space="preserve">
+    <value>服務為商業性質：</value>
+  </data>
+  <data name="The software is deployed on your local servers or private cloud. You retain absolute physical control and ownership of your data (&quot;Own Your Data&quot;). Consequently, you are solely responsible for your underlying hardware, local network security, physical access control, and disaster recovery backups. Aiursoft&apos;s responsibility is limited to software-level maintenance, container updates, and technical support as defined in your plan." xml:space="preserve">
+    <value>軟體會部署在您的內部伺服器或私人雲端。您保有資料的絕對實體控制權與所有權（「擁有自己的資料」）。因此，您須獨自負責基礎硬體、內部網路安全、實體存取控制以及災難復原備份。Aiursoft 的責任僅限於軟體層級的維護、容器更新，以及您方案中所定義的技術支援。</value>
+  </data>
+  <data name="The Software is Free:" xml:space="preserve">
+    <value>軟體是免費的：</value>
+  </data>
+  <data name="The underlying open-source codes are subject to their respective licenses (e.g., MIT, GPL). You are free to inspect, modify, and distribute the code as permitted by those licenses." xml:space="preserve">
+    <value>基礎的開源程式碼受其各自授權條款（例如：MIT、GPL）的約束。您可自由檢視、修改及分發程式碼，只要符合這些授權條款的規定即可。</value>
+  </data>
+  <data name="These Terms of Service (&quot;Terms&quot;) govern your access to and use of the Aiursoft website, products, and subscription services, including but not limited to Aiursoft Substrate (Core, Startup, and Enterprise plans) (collectively, the &quot;Services&quot;). By registering for an account or purchasing a subscription, you agree to be bound by these Terms." xml:space="preserve">
+    <value>本服務條款（「條款」）規範您對 Aiursoft 網站、產品及訂閱服務的存取與使用，包括但不限於 Aiursoft Substrate（Core、Startup 與 Enterprise 方案）（總稱「服務」）。當您註冊帳戶或購買訂閱服務時，即表示您同意受本條款之約束。</value>
+  </data>
+  <data name="These Terms shall be governed by and construed in accordance with the laws of the Hong Kong Special Administrative Region, without regard to its conflict of law provisions." xml:space="preserve">
+    <value>這些條款應受香港特別行政區法律的管轄，並按照該地區的法律解釋，不考慮其法律衝突規定。</value>
+  </data>
+  <data name="To ensure uninterrupted service, our commercial plans operate on a recurring subscription basis." xml:space="preserve">
+    <value>為確保服務持續運作，我們的商業方案採用定期訂閱方式運作。</value>
+  </data>
+  <data name="To the maximum extent permitted by law, Aiursoft Limited shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses, resulting from:" xml:space="preserve">
+    <value>在法律允許的最大範圍內，Aiursoft Limited 對任何間接、偶發、特殊、後果性或懲罰性損害，或任何利潤或收入之損失，無論是直接或間接產生，或任何資料、使用、商譽或其他無形損失之損失，均不負賠償責任，該等損失係因下列原因所致：</value>
+  </data>
+  <data name="Use our Cloud-Hosted email services (Mailcow) to send unsolicited spam or conduct phishing campaigns. Violation of this rule will result in immediate account termination without refund." xml:space="preserve">
+    <value>不得使用我們的雲端主機電子郵件服務 (Mailcow) 發送未經請求的垃圾郵件，或進行釣魚攻擊活動。違反此規定將導致帳號立即終止且不予退款。</value>
+  </data>
+  <data name="Use the Services to conduct any illegal, fraudulent, or malicious activities." xml:space="preserve">
+    <value>不得利用本服務從事任何非法、詐欺或惡意行為。</value>
+  </data>
+  <data name="We do not provide refunds or credits for any partial-month subscription periods, or for user accounts that were provisioned but remained inactive." xml:space="preserve">
+    <value>我們不會針對任何未滿月的訂閱期間，或已建立但始終未使用的使用者帳戶，提供退費或抵用金。</value>
+  </data>
+  <data name="We may revise these Terms from time to time to better reflect changes to the law, new regulatory requirements, or improvements made to our Services. If an update affects your use of the Services or your legal rights as a user of our Services, we’ll notify you prior to the update&apos;s effective date by sending an email to the account owner." xml:space="preserve">
+    <value>我們可能會不定期修訂這些條款，以更準確地反映法律變更、新的法規要求，或我們服務的改進。若更新內容影響您使用服務的方式，或您作為服務使用者的法律權益，我們將於更新生效日期前，透過寄送電子郵件至帳戶所有者的方式通知您。</value>
+  </data>
+  <data name="We offer different tiers of deployment to suit your business needs:" xml:space="preserve">
+    <value>我們提供不同層級的部署方案，以符合您的企業需求：</value>
+  </data>
+  <data name="Welcome to Aiursoft. We are dedicated to bringing the spirit of open-source and free software to every enterprise and individual." xml:space="preserve">
+    <value>歡迎使用 Aiursoft。我們致力於將開源與自由軟體的精神帶給每一家企業與個人。</value>
+  </data>
+  <data name="What you are purchasing from Aiursoft is the hosting, automated deployment, maintenance, priority support, and enterprise integration of these tools." xml:space="preserve">
+    <value>您向 Aiursoft 購買的服務包括這些工具的主機、自動化部署、維護、優先支援與企業整合。</value>
+  </data>
+  <data name="You agree not to misuse the Services or help anyone else to do so. You must not:" xml:space="preserve">
+    <value>您同意不得濫用本服務，或協助他人進行此等行為。您不得：</value>
+  </data>
+  <data name="You may cancel your subscription at any time through your Aiursoft Billing Dashboard or by contacting our support team." xml:space="preserve">
+    <value>您可隨時透過您的 Aiursoft 訂閱管理儀表板取消訂閱，或聯繫我們的支援團隊。</value>
+  </data>
+  <data name="Your access to or use of or inability to access or use the Services." xml:space="preserve">
+    <value>您對本服務的存取或使用，或無法存取或使用本服務的情況。</value>
+  </data>
+  <data name="Your subscription will automatically renew at the end of each billing cycle (monthly or annually) unless you cancel it prior to the renewal date. You authorize us (via Stripe) to charge the applicable subscription fees to your payment method on file." xml:space="preserve">
+    <value>您的訂閱將於每個計費週期結束時自動續訂（每月或每年），除非您在續訂日期前取消。您授權我們（透過 Stripe）將適用的訂閱費用扣除至您留存的付款方式。</value>
+  </data>
+
+</root>
