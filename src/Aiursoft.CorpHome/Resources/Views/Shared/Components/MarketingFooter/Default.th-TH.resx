@@ -45,6 +45,9 @@
   <data name="Licence" xml:space="preserve">
     <value>ใบอนุญาต</value>
   </data>
+  <data name="Privacy Policy" xml:space="preserve">
+    <value>นโยบายความเป็นส่วนตัว</value>
+  </data>
   <data name="Project" xml:space="preserve">
     <value>โครงการ</value>
   </data>
@@ -59,6 +62,9 @@
   </data>
   <data name="Source Code" xml:space="preserve">
     <value>ซอร์สโค้ด</value>
+  </data>
+  <data name="Terms of Service" xml:space="preserve">
+    <value>ข้อกำหนดการใช้บริการ</value>
   </data>
 
 </root>

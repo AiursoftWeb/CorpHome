@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="1. The Aiursoft Privacy Philosophy" xml:space="preserve">
+    <value>1. Triết lý Bảo mật của Aiursoft</value>
+  </data>
+  <data name="2. Core Distinction: Data Controller vs. Data Processor" xml:space="preserve">
+    <value>2. Sự Khác Biệt Chính: Người Điều Hành Dữ Liệu so với Người Xử Lý Dữ Liệu</value>
+  </data>
+  <data name="3. What Data We Actually Collect" xml:space="preserve">
+    <value>3. Dữ liệu chúng tôi thực sự thu thập</value>
+  </data>
+  <data name="4. How We Use Your Data" xml:space="preserve">
+    <value>4. Chúng Tôi Sử Dụng Dữ Liệu Của Bạn Như Thế Nào</value>
+  </data>
+  <data name="5. Data Sharing and Third-Party Sub-Processors" xml:space="preserve">
+    <value>5. Chia sẻ Dữ liệu và Các Nhà Chế biến Phụ Trợ Bên Thứ Ba</value>
+  </data>
+  <data name="6. Data Retention and Deletion" xml:space="preserve">
+    <value>6. Lưu giữ và Xóa dữ liệu</value>
+  </data>
+  <data name="7. Your Data Rights" xml:space="preserve">
+    <value>7. Quyền về dữ liệu của bạn</value>
+  </data>
+  <data name="8. Contact Us" xml:space="preserve">
+    <value>8. Liên hệ chúng tôi</value>
+  </data>
+  <data name="Account Information:" xml:space="preserve">
+    <value>Thông tin tài khoản:</value>
+  </data>
+  <data name="AIURSOFT LIMITED" xml:space="preserve">
+    <value>AIURSOFT LIMITED</value>
+  </data>
+  <data name="Aiursoft Privacy Policy" xml:space="preserve">
+    <value>Chính sách Bảo mật Aiursoft</value>
+  </data>
+  <data name="At Aiursoft, our foundational mission is to bring the spirit of open-source and free software to every enterprise and individual. This commitment to freedom inherently extends to your privacy and data sovereignty. We believe that your data belongs exclusively to you." xml:space="preserve">
+    <value>Tại Aiursoft, sứ mệnh cốt lõi của chúng tôi là mang tinh thần phần mềm mã nguồn mở và phần mềm miễn phí đến mọi doanh nghiệp và cá nhân. Cam kết về tự do này tự nhiên mở rộng đến quyền riêng tư và chủ quyền dữ liệu của bạn. Chúng tôi tin rằng dữ liệu của bạn thuộc về bạn một cách độc quyền.</value>
+  </data>
+  <data name="Beyond these essential operational partners, Aiursoft will never disclose your data to any third party, including government entities, unless legally compelled to do so by a valid, binding court order or subpoena originating from a competent jurisdiction." xml:space="preserve">
+    <value>Ngoài các đối tác vận hành thiết yếu này, Aiursoft sẽ không bao giờ tiết lộ dữ liệu của bạn cho bất kỳ bên thứ ba nào, kể cả các cơ quan chính phủ, trừ khi bị pháp luật buộc phải làm như vậy bởi một lệnh tòa án hợp lệ, có hiệu lực bắt buộc hoặc bản yêu cầu xuất trình từ một cơ quan có thẩm quyền.</value>
+  </data>
+  <data name="Billing and Payment Data:" xml:space="preserve">
+    <value>Dữ liệu hóa đơn và thanh toán:</value>
+  </data>
+  <data name="Communication:" xml:space="preserve">
+    <value>Giao tiếp:</value>
+  </data>
+  <data name="Company Entity:" xml:space="preserve">
+    <value>Cơ quan công ty:</value>
+  </data>
+  <data name="Company Entity: AIURSOFT LIMITED (Hong Kong)" xml:space="preserve">
+    <value>Công ty thực thể: AIURSOFT LIMITED (Hồng Kông)</value>
+  </data>
+  <data name="Crucially, AIURSOFT LIMITED does not collect, process, or store your full credit card numbers or sensitive financial instruments on our servers. All payment transactions are securely handled by our PCI-DSS compliant third-party payment processor, Stripe, Inc. We only receive and retain non-sensitive billing information from Stripe, such as your billing address, subscription status, and the last four digits of your payment card, strictly for the purposes of issuing invoices, managing your active subscriptions, and complying with financial record-keeping laws." xml:space="preserve">
+    <value>Một cách quan trọng, AIURSOFT LIMITED không thu thập, xử lý hoặc lưu trữ số thẻ tín dụng đầy đủ hoặc các công cụ tài chính nhạy cảm của bạn trên máy chủ của chúng tôi. Tất cả các giao dịch thanh toán được xử lý an toàn bởi nhà cung cấp thanh toán bên thứ ba tuân thủ PCI-DSS, Stripe, Inc. Chúng tôi chỉ nhận và lưu giữ thông tin hóa đơn không nhạy cảm từ Stripe, chẳng hạn như địa chỉ hóa đơn, trạng thái đăng ký và bốn chữ số cuối cùng của thẻ thanh toán của bạn, chỉ nhằm mục đích phát hành hóa đơn, quản lý các đăng ký đang hoạt động và tuân thủ các luật lệ ghi chép tài chính.</value>
+  </data>
+  <data name="During Active Subscription:" xml:space="preserve">
+    <value>Trong thời gian đăng ký đang hoạt động:</value>
+  </data>
+  <data name="Email:" xml:space="preserve">
+    <value>Email:</value>
+  </data>
+  <data name="Exclusively for secure payment processing and subscription management." xml:space="preserve">
+    <value>Chỉ dùng cho xử lý thanh toán an toàn và quản lý đăng ký.</value>
+  </data>
+  <data name="For Cloud-Hosted Plans (e.g., Aiursoft Substrate S1 Core):" xml:space="preserve">
+    <value>Đối với các gói dịch vụ được lưu trữ trên đám mây (ví dụ: Aiursoft Substrate S1 Core):</value>
+  </data>
+  <data name="For on-premise deployments, cancellation simply terminates our support and update services. Your data remains entirely intact on your own servers, under your complete control." xml:space="preserve">
+    <value>Đối với các triển khai tại chỗ, việc hủy bỏ đơn giản là chấm dứt dịch vụ hỗ trợ và cập nhật của chúng tôi. Dữ liệu của bạn vẫn nguyên vẹn hoàn toàn trên các máy chủ của bạn, dưới sự kiểm soát hoàn toàn của bạn.</value>
+  </data>
+  <data name="For On-Premise Plans (e.g., Aiursoft Substrate S3 Startup &amp; S5 Enterprise):" xml:space="preserve">
+    <value>Đối với các gói triển khai tại chỗ (ví dụ: Aiursoft Substrate S3 Startup &amp; S5 Enterprise):</value>
+  </data>
+  <data name="For provisioning the underlying high-performance cloud infrastructure that powers our official websites and Cloud-Hosted (S1 Core) client instances." xml:space="preserve">
+    <value>Để triển khai hạ tầng đám mây hiệu năng cao nền tảng vận hành các trang web chính thức của chúng tôi và các phiên bản khách hàng được lưu trữ trên đám mây (S1 Core).</value>
+  </data>
+  <data name="If you choose to cancel a Cloud-Hosted subscription, your account will remain active until the end of the current billing cycle. Following the expiration of your subscription, we observe a strict 30-day grace period. After this 30-day period, all of your associated business data (emails, files, databases) will be permanently, irreversibly, and securely hard-deleted from our hosting infrastructure. We cannot recover data once this deletion process has occurred." xml:space="preserve">
+    <value>Nếu bạn chọn hủy đăng ký Cloud-Hosted, tài khoản của bạn sẽ vẫn hoạt động cho đến khi kết thúc chu kỳ tính phí hiện tại. Sau khi đăng ký hết hạn, chúng tôi sẽ áp dụng một thời gian ân hạn nghiêm ngặt 30 ngày. Sau khoảng thời gian 30 ngày này, tất cả dữ liệu kinh doanh liên quan của bạn (thư điện tử, tệp tin, cơ sở dữ liệu) sẽ bị xóa vĩnh viễn, không thể phục hồi và an toàn khỏi cơ sở hạ tầng lưu trữ của chúng tôi. Chúng tôi không thể khôi phục dữ liệu sau khi quá trình xóa này đã diễn ra.</value>
+  </data>
+  <data name="If you have any questions, concerns, or requests regarding this Privacy Policy or our data handling practices, please contact our executive team:" xml:space="preserve">
+    <value>Nếu bạn có bất kỳ câu hỏi, lo ngại hoặc yêu cầu nào liên quan đến Chính sách Bảo mật này hoặc các biện pháp xử lý dữ liệu của chúng tôi, vui lòng liên hệ với đội ngũ lãnh đạo của chúng tôi:</value>
+  </data>
+  <data name="In accordance with global privacy standards, including the principles outlined in regulations such as the GDPR and the Hong Kong Personal Data (Privacy) Ordinance (PDPO), you possess the following rights regarding your personal data held by Aiursoft:" xml:space="preserve">
+    <value>Theo các tiêu chuẩn bảo mật toàn cầu, bao gồm các nguyên tắc được nêu trong các quy định như GDPR và Luật về Dữ liệu Cá nhân (Bảo mật) Hồng Kông (PDPO), bạn có các quyền sau đây đối với dữ liệu cá nhân mà Aiursoft lưu giữ:</value>
+  </data>
+  <data name="Last Updated: March 2026" xml:space="preserve">
+    <value>Cập nhật lần cuối: Tháng Ba 2026</value>
+  </data>
+  <data name="Minimal Data Collection:" xml:space="preserve">
+    <value>Thu thập Dữ liệu Tối thiểu:</value>
+  </data>
+  <data name="No Data Selling:" xml:space="preserve">
+    <value>Không bán dữ liệu:</value>
+  </data>
+  <data name="No Hidden Telemetry:" xml:space="preserve">
+    <value>Không có dữ liệu thu thập ngầm:</value>
+  </data>
+  <data name="Our software solutions are designed without concealed telemetry, advertising trackers, or behavioral profiling mechanisms." xml:space="preserve">
+    <value>Các giải pháp phần mềm của chúng tôi được thiết kế mà không có hệ thống thu thập dữ liệu ẩn, công cụ theo dõi quảng cáo, hay cơ chế phân tích hành vi.</value>
+  </data>
+  <data name="Right to Access:" xml:space="preserve">
+    <value>Quyền truy cập:</value>
+  </data>
+  <data name="Right to Erasure (The &quot;Right to be Forgotten&quot;):" xml:space="preserve">
+    <value>Quyền xóa bỏ (Quyền được quên):</value>
+  </data>
+  <data name="Right to Rectification:" xml:space="preserve">
+    <value>Quyền sửa đổi:</value>
+  </data>
+  <data name="Service Provisioning:" xml:space="preserve">
+    <value>Cung cấp dịch vụ:</value>
+  </data>
+  <data name="Strict Prohibition on AI Training:" xml:space="preserve">
+    <value>Cấm tuyệt đối việc huấn luyện AI:</value>
+  </data>
+  <data name="Stripe, Inc.:" xml:space="preserve">
+    <value>Stripe, Inc.:</value>
+  </data>
+  <data name="Technical and Diagnostic Data:" xml:space="preserve">
+    <value>Dữ liệu kỹ thuật và chẩn đoán:</value>
+  </data>
+  <data name="The limited data we do collect is utilized solely for the following legitimate business purposes:" xml:space="preserve">
+    <value>Dữ liệu hạn chế mà chúng tôi thu thập được sử dụng duy nhất cho các mục đích kinh doanh hợp pháp sau đây:</value>
+  </data>
+  <data name="To clearly understand how your data is handled, it is crucial to differentiate between the types of deployment plans we offer, as our legal and technical relationship to your data changes significantly based on your chosen architecture:" xml:space="preserve">
+    <value>Để hiểu rõ cách dữ liệu của bạn được xử lý, việc phân biệt rõ giữa các loại kế hoạch triển khai mà chúng tôi cung cấp là điều thiết yếu, bởi vì mối quan hệ pháp lý và kỹ thuật của chúng tôi với dữ liệu của bạn sẽ thay đổi đáng kể tùy theo kiến trúc mà bạn đã chọn:</value>
+  </data>
+  <data name="To create your account, configure your chosen deployment (whether cloud-hosted or coordinating on-premise setup), and authenticate your access." xml:space="preserve">
+    <value>Để tạo tài khoản của bạn, cấu hình triển khai đã chọn (dù là dịch vụ đám mây hoặc thiết lập cục bộ phối hợp), và xác thực quyền truy cập của bạn.</value>
+  </data>
+  <data name="To exercise any of these rights, please contact us using the information provided below or manage your preferences directly within your Aiursoft account dashboard." xml:space="preserve">
+    <value>Để thực hiện bất kỳ quyền nào trong số này, vui lòng liên hệ với chúng tôi bằng thông tin được cung cấp bên dưới hoặc quản lý các tùy chọn của bạn trực tiếp trong bảng điều khiển tài khoản Aiursoft của bạn.</value>
+  </data>
+  <data name="To facilitate our business relationship and manage your subscriptions, we collect the following limited categories of information:" xml:space="preserve">
+    <value>Để hỗ trợ mối quan hệ kinh doanh của chúng tôi và quản lý các đăng ký của bạn, chúng tôi thu thập các danh mục thông tin hạn chế sau đây:</value>
+  </data>
+  <data name="To facilitate subscription billing and process payments securely via Stripe." xml:space="preserve">
+    <value>Để hỗ trợ thanh toán định kỳ và xử lý thanh toán an toàn thông qua Stripe.</value>
+  </data>
+  <data name="To send you critical system notifications (such as scheduled maintenance alerts or downtime warnings), billing receipts, and responses to your technical support inquiries." xml:space="preserve">
+    <value>Để gửi cho bạn các thông báo hệ thống quan trọng (ví dụ: cảnh báo bảo trì theo lịch trình hoặc cảnh báo thời gian ngừng hoạt động), hóa đơn thanh toán, và phản hồi cho các yêu cầu hỗ trợ kỹ thuật của bạn.</value>
+  </data>
+  <data name="Transaction Processing:" xml:space="preserve">
+    <value>Xử lý giao dịch:</value>
+  </data>
+  <data name="Upon Cancellation (Cloud-Hosted Plans):" xml:space="preserve">
+    <value>Khi hủy bỏ (Các gói dịch vụ được lưu trữ trên đám mây):</value>
+  </data>
+  <data name="Upon Cancellation (On-Premise Plans):" xml:space="preserve">
+    <value>Khi hủy bỏ (Các gói triển khai tại chỗ):</value>
+  </data>
+  <data name="Voxihost:" xml:space="preserve">
+    <value>Voxihost:</value>
+  </data>
+  <data name="We are unequivocally committed to the following principles:" xml:space="preserve">
+    <value>Chúng tôi cam kết một cách rõ ràng và tuyệt đối với các nguyên tắc sau:</value>
+  </data>
+  <data name="We categorically state that your private data, documents, and communications are never used to train our AI models or any third-party Large Language Models (LLMs). Our AI solutions, particularly in the Custom Enterprise tier, are designed to run locally and train exclusively on data you explicitly provide within your secure environment." xml:space="preserve">
+    <value>Chúng tôi khẳng định một cách rõ ràng rằng dữ liệu cá nhân, tài liệu và thông tin liên lạc của bạn sẽ không bao giờ được sử dụng để huấn luyện các mô hình AI của chúng tôi hoặc bất kỳ mô hình ngôn ngữ quy mô lớn (LLMs) nào của bên thứ ba. Các giải pháp AI của chúng tôi, đặc biệt là ở cấp độ tùy chỉnh doanh nghiệp, được thiết kế để chạy cục bộ và chỉ huấn luyện trên dữ liệu bạn cung cấp rõ ràng trong môi trường an toàn của bạn.</value>
+  </data>
+  <data name="We collect only the absolute minimum data necessary to provide you with secure, reliable, and functional services." xml:space="preserve">
+    <value>Chúng tôi chỉ thu thập dữ liệu tối thiểu tuyệt đối cần thiết để cung cấp cho bạn các dịch vụ an toàn, đáng tin cậy và hoạt động trơn tru.</value>
+  </data>
+  <data name="We do not share your personal information with external parties except where absolutely necessary to deliver our services. To operate effectively, we utilize the following trusted third-party sub-processors:" xml:space="preserve">
+    <value>Chúng tôi không chia sẻ thông tin cá nhân của bạn với các bên thứ ba bên ngoài trừ khi hoàn toàn cần thiết để cung cấp dịch vụ của chúng tôi. Để vận hành hiệu quả, chúng tôi sử dụng các bên xử lý phụ đáng tin cậy sau đây:</value>
+  </data>
+  <data name="We do not, and will never, sell, rent, or lease your personal or business data to third parties." xml:space="preserve">
+    <value>Chúng tôi không bao giờ, và sẽ không bao giờ, bán, cho thuê hoặc cho thuê lại dữ liệu cá nhân hoặc doanh nghiệp của bạn cho bên thứ ba.</value>
+  </data>
+  <data name="We securely retain your account and hosted data for the duration of your active subscription to ensure continuous service delivery." xml:space="preserve">
+    <value>Chúng tôi lưu giữ an toàn tài khoản và dữ liệu được lưu trữ của bạn trong suốt thời gian đăng ký hoạt động để đảm bảo cung cấp dịch vụ liên tục.</value>
+  </data>
+  <data name="When you elect to deploy our solutions on your own local servers or private cloud environments, You are in absolute control. In these deployments, Aiursoft has Zero Access to your physical servers, networks, files, emails, or locally constructed AI knowledge bases. Because the data physically resides within your perimeter, we cannot collect, view, or process it. Your privacy is guaranteed by physical and network isolation." xml:space="preserve">
+    <value>Khi bạn chọn triển khai các giải pháp của chúng tôi trên các máy chủ cục bộ hoặc môi trường đám mây riêng của bạn, bạn hoàn toàn kiểm soát. Trong các triển khai này, Aiursoft không có quyền truy cập nào vào các máy chủ vật lý, mạng lưới, tập tin, email hoặc các cơ sở tri thức AI được xây dựng cục bộ của bạn. Vì dữ liệu nằm vật lý bên trong biên giới của bạn, chúng tôi không thể thu thập, xem hoặc xử lý nó. Quyền riêng tư của bạn được đảm bảo nhờ sự tách biệt về mặt vật lý và mạng lưới.</value>
+  </data>
+  <data name="When you register for an Aiursoft commercial account or engage with our sales team, we collect necessary contact details, including your name, your work email address, and your company name. This information is used strictly for account administration and communication." xml:space="preserve">
+    <value>Khi bạn đăng ký tài khoản thương mại của Aiursoft hoặc tương tác với đội ngũ bán hàng của chúng tôi, chúng tôi sẽ thu thập các thông tin liên hệ cần thiết, bao gồm tên của bạn, địa chỉ email công việc và tên công ty của bạn. Thông tin này chỉ được sử dụng cho mục đích quản lý tài khoản và liên lạc.</value>
+  </data>
+  <data name="When you utilize our cloud-hosted infrastructure (such as Mailcow, Nextcloud, or Authentik instances managed on our servers), AIURSOFT LIMITED acts as a Data Processor. You remain the Data Controller. We host and maintain the infrastructure to ensure uptime and security, but our personnel possess absolutely zero access to your underlying business data (e.g., the contents of your emails, your stored files, or your internal chat logs) unless you explicitly grant us temporary, revocable access for the sole purpose of resolving a technical support ticket you have initiated." xml:space="preserve">
+    <value>Khi bạn sử dụng cơ sở hạ tầng được lưu trữ trên đám mây của chúng tôi (ví dụ: các instance Mailcow, Nextcloud hoặc Authentik được quản lý trên máy chủ của chúng tôi), AIURSOFT LIMITED sẽ đóng vai trò là Bên Xử lý Dữ liệu. Bạn vẫn là Bên Điều khiển Dữ liệu. Chúng tôi cung cấp và duy trì cơ sở hạ tầng để đảm bảo thời gian hoạt động liên tục và bảo mật, nhưng nhân viên của chúng tôi hoàn toàn không có quyền truy cập vào dữ liệu kinh doanh cốt lõi của bạn (ví dụ: nội dung email của bạn, các tập tin được lưu trữ hoặc nhật ký trò chuyện nội bộ) trừ khi bạn rõ ràng cấp cho chúng tôi quyền truy cập tạm thời, có thể thu hồi, nhằm mục đích duy nhất là giải quyết một yêu cầu hỗ trợ kỹ thuật mà bạn đã khởi tạo.</value>
+  </data>
+  <data name="When you visit our public-facing websites (e.g., aiursoft.com), our web servers automatically log standard technical information, such as your IP address, browser type, and access times. This data is utilized exclusively for security monitoring (e.g., preventing DDoS attacks), ensuring the stability of our web infrastructure, and basic, anonymized traffic analysis. We do not employ invasive third-party tracking cookies for behavioral advertising." xml:space="preserve">
+    <value>Khi bạn truy cập các trang web công khai của chúng tôi (ví dụ: aiursoft.com), máy chủ web của chúng tôi sẽ tự động ghi lại các thông tin kỹ thuật tiêu chuẩn, chẳng hạn như địa chỉ IP, loại trình duyệt và thời gian truy cập của bạn. Dữ liệu này chỉ được sử dụng duy nhất cho mục đích giám sát an ninh (ví dụ: ngăn chặn các cuộc tấn công DDoS), đảm bảo sự ổn định của hạ tầng web của chúng tôi và phân tích lưu lượng cơ bản, được ẩn danh. Chúng tôi không sử dụng các cookie theo dõi bên thứ ba xâm phạm để quảng cáo hành vi.</value>
+  </data>
+  <data name="You may request a copy of the personal data we hold about you." xml:space="preserve">
+    <value>Bạn có thể yêu cầu bản sao dữ liệu cá nhân mà chúng tôi lưu giữ về bạn.</value>
+  </data>
+  <data name="You may request that we correct any inaccurate or incomplete personal data." xml:space="preserve">
+    <value>Bạn có thể yêu cầu chúng tôi sửa chữa bất kỳ dữ liệu cá nhân nào không chính xác hoặc chưa đầy đủ.</value>
+  </data>
+  <data name="You may request the complete deletion of your account and associated personal data from our systems, subject to our retention policies for cancelled subscriptions and legal compliance requirements." xml:space="preserve">
+    <value>Bạn có thể yêu cầu xóa hoàn toàn tài khoản của mình và dữ liệu cá nhân liên quan khỏi hệ thống của chúng tôi, tùy theo chính sách lưu giữ dữ liệu của chúng tôi đối với các gói đăng ký đã hủy và các yêu cầu tuân thủ pháp lý.</value>
+  </data>
+
+</root>

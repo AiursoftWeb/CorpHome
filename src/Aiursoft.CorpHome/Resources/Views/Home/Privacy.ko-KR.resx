@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="1. The Aiursoft Privacy Philosophy" xml:space="preserve">
+    <value>1. 아이어소프트 개인정보 보호 철학</value>
+  </data>
+  <data name="2. Core Distinction: Data Controller vs. Data Processor" xml:space="preserve">
+    <value>2. 핵심 구분: 데이터 컨트롤러 vs. 데이터 처리자</value>
+  </data>
+  <data name="3. What Data We Actually Collect" xml:space="preserve">
+    <value>3. 실제로 수집하는 데이터</value>
+  </data>
+  <data name="4. How We Use Your Data" xml:space="preserve">
+    <value>4. 귀하의 데이터를 어떻게 사용하는가</value>
+  </data>
+  <data name="5. Data Sharing and Third-Party Sub-Processors" xml:space="preserve">
+    <value>5. 데이터 공유 및 제3자 하위 처리자</value>
+  </data>
+  <data name="6. Data Retention and Deletion" xml:space="preserve">
+    <value>6. 데이터 보존 및 삭제</value>
+  </data>
+  <data name="7. Your Data Rights" xml:space="preserve">
+    <value>7. 귀하의 데이터 권리</value>
+  </data>
+  <data name="8. Contact Us" xml:space="preserve">
+    <value>8. 문의하기</value>
+  </data>
+  <data name="Account Information:" xml:space="preserve">
+    <value>계정 정보:</value>
+  </data>
+  <data name="AIURSOFT LIMITED" xml:space="preserve">
+    <value>AIURSOFT LIMITED</value>
+  </data>
+  <data name="Aiursoft Privacy Policy" xml:space="preserve">
+    <value>Aiursoft 개인정보 보호 정책</value>
+  </data>
+  <data name="At Aiursoft, our foundational mission is to bring the spirit of open-source and free software to every enterprise and individual. This commitment to freedom inherently extends to your privacy and data sovereignty. We believe that your data belongs exclusively to you." xml:space="preserve">
+    <value>Aiursoft에서는 모든 기업과 개인에게 오픈소스 및 자유 소프트웨어의 정신을 전달하는 것이 핵심 사명입니다. 이러한 자유에 대한 약속은 자연스럽게 귀하의 개인정보 보호와 데이터 주권으로 이어집니다. 우리는 귀하의 데이터가 오직 귀하에게만 속한다고 믿습니다.</value>
+  </data>
+  <data name="Beyond these essential operational partners, Aiursoft will never disclose your data to any third party, including government entities, unless legally compelled to do so by a valid, binding court order or subpoena originating from a competent jurisdiction." xml:space="preserve">
+    <value>이러한 필수 운영 파트너를 제외하고, Aiursoft는 귀하의 데이터를 제3자, 정부 기관을 포함하여 어떠한 경우에도 공개하지 않습니다. 다만, 합법적으로 유효하고 구속력 있는 법원 명령 또는 관할권이 있는 기관에서 발행한 증거 요청서에 의해 요구되는 경우를 제외하고는 말입니다.</value>
+  </data>
+  <data name="Billing and Payment Data:" xml:space="preserve">
+    <value>청구 및 결제 데이터:</value>
+  </data>
+  <data name="Communication:" xml:space="preserve">
+    <value>통신:</value>
+  </data>
+  <data name="Company Entity:" xml:space="preserve">
+    <value>회사 엔티티:</value>
+  </data>
+  <data name="Company Entity: AIURSOFT LIMITED (Hong Kong)" xml:space="preserve">
+    <value>회사 엔티티: AIURSOFT LIMITED (홍콩)</value>
+  </data>
+  <data name="Crucially, AIURSOFT LIMITED does not collect, process, or store your full credit card numbers or sensitive financial instruments on our servers. All payment transactions are securely handled by our PCI-DSS compliant third-party payment processor, Stripe, Inc. We only receive and retain non-sensitive billing information from Stripe, such as your billing address, subscription status, and the last four digits of your payment card, strictly for the purposes of issuing invoices, managing your active subscriptions, and complying with financial record-keeping laws." xml:space="preserve">
+    <value>중요하게도, AIURSOFT LIMITED은 귀하의 전체 신용카드 번호 또는 민감한 금융 수단을 서버에 수집, 처리하거나 저장하지 않습니다. 모든 결제 거래는 PCI-DSS 준수 제3자 결제 처리업체인 Stripe, Inc.에 의해 안전하게 처리됩니다. 우리는 귀하의 청구 주소, 구독 상태 및 결제 카드의 뒷자리 네 자리와 같은 비민감한 청구 정보만 Stripe로부터 수신하고 보관하며, 청구서 발행, 활성 구독 관리 및 재무 기록 보관 법률 준수를 위한 목적 외에는 어떠한 경우에도 사용하지 않습니다.</value>
+  </data>
+  <data name="During Active Subscription:" xml:space="preserve">
+    <value>구독 중 동안:</value>
+  </data>
+  <data name="Email:" xml:space="preserve">
+    <value>이메일:</value>
+  </data>
+  <data name="Exclusively for secure payment processing and subscription management." xml:space="preserve">
+    <value>결제 처리 및 구독 관리에만 사용됩니다.</value>
+  </data>
+  <data name="For Cloud-Hosted Plans (e.g., Aiursoft Substrate S1 Core):" xml:space="preserve">
+    <value>클라우드 호스팅 계획용 (예: Aiursoft Substrate S1 Core):</value>
+  </data>
+  <data name="For on-premise deployments, cancellation simply terminates our support and update services. Your data remains entirely intact on your own servers, under your complete control." xml:space="preserve">
+    <value>온프레미스 배포의 경우, 해지 시 단순히 지원 및 업데이트 서비스가 종료됩니다. 귀하의 데이터는 귀하의 서버에 완전히 그대로 보존되며, 귀하의 완전한 통제 하에 있습니다.</value>
+  </data>
+  <data name="For On-Premise Plans (e.g., Aiursoft Substrate S3 Startup &amp; S5 Enterprise):" xml:space="preserve">
+    <value>온프레미스 계획용 (예: Aiursoft Substrate S3 Startup &amp; S5 Enterprise):</value>
+  </data>
+  <data name="For provisioning the underlying high-performance cloud infrastructure that powers our official websites and Cloud-Hosted (S1 Core) client instances." xml:space="preserve">
+    <value>클라우드 호스팅(S1 코어) 클라이언트 인스턴스 및 공식 웹사이트를 구동하는 기반 고성능 클라우드 인프라를 제공하기 위해</value>
+  </data>
+  <data name="If you choose to cancel a Cloud-Hosted subscription, your account will remain active until the end of the current billing cycle. Following the expiration of your subscription, we observe a strict 30-day grace period. After this 30-day period, all of your associated business data (emails, files, databases) will be permanently, irreversibly, and securely hard-deleted from our hosting infrastructure. We cannot recover data once this deletion process has occurred." xml:space="preserve">
+    <value>클라우드 호스팅 구독을 취소하기로 선택한 경우, 계정은 현재 청구 주기의 끝까지 계속 활성 상태로 유지됩니다. 구독이 만료된 후에는 엄격한 30일 유예 기간을 적용합니다. 이 30일 기간이 지난 후에는 귀하의 관련 비즈니스 데이터(이메일, 파일, 데이터베이스)가 우리 호스팅 인프라에서 영구적으로, 되돌릴 수 없으며 안전하게 하드 삭제됩니다. 이 삭제 프로세스가 진행된 후에는 데이터를 복구할 수 없습니다.</value>
+  </data>
+  <data name="If you have any questions, concerns, or requests regarding this Privacy Policy or our data handling practices, please contact our executive team:" xml:space="preserve">
+    <value>이 개인정보 보호정책 또는 데이터 처리 방침에 관한 질문, 우려 사항, 요청이 있으신 경우, 당사의 임원진에게 연락해 주세요:</value>
+  </data>
+  <data name="In accordance with global privacy standards, including the principles outlined in regulations such as the GDPR and the Hong Kong Personal Data (Privacy) Ordinance (PDPO), you possess the following rights regarding your personal data held by Aiursoft:" xml:space="preserve">
+    <value>글로벌 개인정보 보호 기준에 따라, GDPR 및 홍콩 개인정보(보안) 조례(PDPO)와 같은 규정에 명시된 원칙을 포함하여, Aiursoft가 보유한 귀하의 개인 데이터에 대해 다음의 권리가 있습니다:</value>
+  </data>
+  <data name="Last Updated: March 2026" xml:space="preserve">
+    <value>최종 업데이트: 2026년 3월</value>
+  </data>
+  <data name="Minimal Data Collection:" xml:space="preserve">
+    <value>최소한의 데이터 수집:</value>
+  </data>
+  <data name="No Data Selling:" xml:space="preserve">
+    <value>데이터 판매 금지:</value>
+  </data>
+  <data name="No Hidden Telemetry:" xml:space="preserve">
+    <value>숨겨진 원격 정보 수집 없음:</value>
+  </data>
+  <data name="Our software solutions are designed without concealed telemetry, advertising trackers, or behavioral profiling mechanisms." xml:space="preserve">
+    <value>우리 소프트웨어 솔루션은 숨겨진 원격 진단 데이터, 광고 추적기, 또는 사용자 행동 프로파일링 기법 없이 설계되었습니다.</value>
+  </data>
+  <data name="Right to Access:" xml:space="preserve">
+    <value>접근 권리:</value>
+  </data>
+  <data name="Right to Erasure (The &quot;Right to be Forgotten&quot;):" xml:space="preserve">
+    <value>삭제 요청 권리 (‘잊혀질 권리’) :</value>
+  </data>
+  <data name="Right to Rectification:" xml:space="preserve">
+    <value>정정 요청 권리:</value>
+  </data>
+  <data name="Service Provisioning:" xml:space="preserve">
+    <value>서비스 제공:</value>
+  </data>
+  <data name="Strict Prohibition on AI Training:" xml:space="preserve">
+    <value>AI 훈련에 대한 엄격한 금지:</value>
+  </data>
+  <data name="Stripe, Inc.:" xml:space="preserve">
+    <value>Stripe, Inc.:</value>
+  </data>
+  <data name="Technical and Diagnostic Data:" xml:space="preserve">
+    <value>기술 및 진단 데이터:</value>
+  </data>
+  <data name="The limited data we do collect is utilized solely for the following legitimate business purposes:" xml:space="preserve">
+    <value>수집하는 제한된 데이터는 다음의 합법적인 비즈니스 목적을 위해 단독으로 사용됩니다:</value>
+  </data>
+  <data name="To clearly understand how your data is handled, it is crucial to differentiate between the types of deployment plans we offer, as our legal and technical relationship to your data changes significantly based on your chosen architecture:" xml:space="preserve">
+    <value>귀하의 데이터가 어떻게 처리되는지 명확히 이해하기 위해, 저희가 제공하는 배포 계획의 유형을 구분하는 것이 매우 중요합니다. 왜냐하면 귀하가 선택한 아키텍처에 따라 저희의 법적 및 기술적 데이터 관계가 크게 달라지기 때문입니다.</value>
+  </data>
+  <data name="To create your account, configure your chosen deployment (whether cloud-hosted or coordinating on-premise setup), and authenticate your access." xml:space="preserve">
+    <value>계정을 만들고, 선택한 배포 환경(클라우드 호스팅 또는 온프레미스 설정 중 하나)을 구성한 후, 액세스 권한을 인증합니다.</value>
+  </data>
+  <data name="To exercise any of these rights, please contact us using the information provided below or manage your preferences directly within your Aiursoft account dashboard." xml:space="preserve">
+    <value>이 권리 중 하나를 행사하려면 아래에 제공된 정보를 사용하여 저희에게 연락하시거나, Aiursoft 계정 대시보드 내에서 직접 선호 설정을 관리하시기 바랍니다.</value>
+  </data>
+  <data name="To facilitate our business relationship and manage your subscriptions, we collect the following limited categories of information:" xml:space="preserve">
+    <value>비즈니스 관계를 원활히 하고 구독을 관리하기 위해, 다음의 제한된 범주에 속하는 정보를 수집합니다:</value>
+  </data>
+  <data name="To facilitate subscription billing and process payments securely via Stripe." xml:space="preserve">
+    <value>구독 요금 청구를 용이하게 하고 Stripe를 통해 안전하게 결제를 처리합니다.</value>
+  </data>
+  <data name="To send you critical system notifications (such as scheduled maintenance alerts or downtime warnings), billing receipts, and responses to your technical support inquiries." xml:space="preserve">
+    <value>핵심 시스템 알림(예: 예정된 유지보수 알림 또는 다운타임 경고 등), 청구 영수증, 그리고 기술 지원 문의에 대한 응답을 보내 드리기 위해</value>
+  </data>
+  <data name="Transaction Processing:" xml:space="preserve">
+    <value>거래 처리:</value>
+  </data>
+  <data name="Upon Cancellation (Cloud-Hosted Plans):" xml:space="preserve">
+    <value>해지 시 (클라우드 호스팅 계획):</value>
+  </data>
+  <data name="Upon Cancellation (On-Premise Plans):" xml:space="preserve">
+    <value>해지 시 (온프레미스 계획):</value>
+  </data>
+  <data name="Voxihost:" xml:space="preserve">
+    <value>Voxihost:</value>
+  </data>
+  <data name="We are unequivocally committed to the following principles:" xml:space="preserve">
+    <value>우리는 다음 원칙들에 명백하게 헌신하고 있습니다:</value>
+  </data>
+  <data name="We categorically state that your private data, documents, and communications are never used to train our AI models or any third-party Large Language Models (LLMs). Our AI solutions, particularly in the Custom Enterprise tier, are designed to run locally and train exclusively on data you explicitly provide within your secure environment." xml:space="preserve">
+    <value>우리는 귀하의 개인 데이터, 문서, 그리고 통신 내용이 절대적으로 우리 AI 모델이나 제3자 대규모 언어 모델(LLMs)을 훈련하는 데 사용되지 않는다고 단호히 선언합니다. 특히 커스텀 엔터프라이즈 티어에서 사용되는 우리 AI 솔루션은 로컬에서 실행되며, 귀하가 안전한 환경 내에서 명시적으로 제공하는 데이터에만 기반하여 훈련됩니다.</value>
+  </data>
+  <data name="We collect only the absolute minimum data necessary to provide you with secure, reliable, and functional services." xml:space="preserve">
+    <value>보안성, 신뢰성, 기능성이 확보된 서비스를 제공하기 위해 절대적으로 필요한 최소한의 데이터만 수집합니다.</value>
+  </data>
+  <data name="We do not share your personal information with external parties except where absolutely necessary to deliver our services. To operate effectively, we utilize the following trusted third-party sub-processors:" xml:space="preserve">
+    <value>당사는 서비스를 제공하기 위해 절대적으로 필요할 때를 제외하고는 귀하의 개인정보를 외부 당사자와 공유하지 않습니다. 효과적으로 운영하기 위해 다음의 신뢰할 수 있는 제3자 하위 처리업체를 사용하고 있습니다:</value>
+  </data>
+  <data name="We do not, and will never, sell, rent, or lease your personal or business data to third parties." xml:space="preserve">
+    <value>우리는 귀하의 개인 정보 또는 사업 데이터를 제3자에게 판매하거나 임대하거나 임대하지 않으며, 앞으로도 결코 그렇게 하지 않을 것입니다.</value>
+  </data>
+  <data name="We securely retain your account and hosted data for the duration of your active subscription to ensure continuous service delivery." xml:space="preserve">
+    <value>당신의 활성 구독 기간 동안 계정과 호스팅된 데이터를 안전하게 보관하여 지속적인 서비스 제공을 보장합니다.</value>
+  </data>
+  <data name="When you elect to deploy our solutions on your own local servers or private cloud environments, You are in absolute control. In these deployments, Aiursoft has Zero Access to your physical servers, networks, files, emails, or locally constructed AI knowledge bases. Because the data physically resides within your perimeter, we cannot collect, view, or process it. Your privacy is guaranteed by physical and network isolation." xml:space="preserve">
+    <value>당신이 자체 로컬 서버 또는 사설 클라우드 환경에 우리의 솔루션을 배포하기로 결정하면, 당신은 절대적인 통제권을 갖게 됩니다. 이러한 배포 환경에서는 Aiursoft가 귀하의 물리적 서버, 네트워크, 파일, 이메일 또는 현지에서 구축한 AI 지식 기반에 대한 접근 권한이 전혀 없습니다. 데이터가 귀하의 보안 범위 내에 물리적으로 존재하기 때문에, 우리는 데이터를 수집하거나 확인하거나 처리할 수 없습니다. 귀하의 프라이버시는 물리적 및 네트워크 격리에 의해 보장됩니다.</value>
+  </data>
+  <data name="When you register for an Aiursoft commercial account or engage with our sales team, we collect necessary contact details, including your name, your work email address, and your company name. This information is used strictly for account administration and communication." xml:space="preserve">
+    <value>Aiursoft 상업용 계정을 등록할 때 또는 영업팀과 소통할 때, 계정 관리 및 연락을 위해 필요한 연락처 정보를 수집합니다. 이 정보에는 귀하의 이름, 근무용 이메일 주소, 회사명이 포함됩니다.</value>
+  </data>
+  <data name="When you utilize our cloud-hosted infrastructure (such as Mailcow, Nextcloud, or Authentik instances managed on our servers), AIURSOFT LIMITED acts as a Data Processor. You remain the Data Controller. We host and maintain the infrastructure to ensure uptime and security, but our personnel possess absolutely zero access to your underlying business data (e.g., the contents of your emails, your stored files, or your internal chat logs) unless you explicitly grant us temporary, revocable access for the sole purpose of resolving a technical support ticket you have initiated." xml:space="preserve">
+    <value>클라우드 호스팅 인프라를 사용할 경우(예: Mailcow, Nextcloud 또는 우리 서버에서 관리하는 Authentik 인스턴스), AIURSOFT LIMITED는 데이터 처리자(Data Processor) 역할을 합니다. 귀하는 여전히 데이터 통제자(Data Controller)입니다. 우리는 인프라를 호스팅하고 유지 관리하여 가용성과 보안을 보장하지만, 귀하의 기업 데이터(예: 이메일 내용, 저장된 파일, 내부 채팅 기록 등)에 대한 직원의 접근 권한은 절대 없으며, 기술 지원 티켓을 해결하기 위한 목적에서만 귀하가 명시적으로 일시적이고 취소 가능한 접근 권한을 부여한 경우에 한해 가능합니다.</value>
+  </data>
+  <data name="When you visit our public-facing websites (e.g., aiursoft.com), our web servers automatically log standard technical information, such as your IP address, browser type, and access times. This data is utilized exclusively for security monitoring (e.g., preventing DDoS attacks), ensuring the stability of our web infrastructure, and basic, anonymized traffic analysis. We do not employ invasive third-party tracking cookies for behavioral advertising." xml:space="preserve">
+    <value>당신이 저희의 공개 웹사이트(예: aiursoft.com)를 방문할 경우, 저희 웹 서버는 자동으로 표준 기술 정보를 기록합니다. 예를 들어 IP 주소, 브라우저 유형, 접근 시간 등이 포함됩니다. 이 데이터는 보안 모니터링(예: DDoS 공격 방지), 웹 인프라스트럭처의 안정성 확보, 그리고 기본적인 익명화된 트래픽 분석을 위해 전적으로 사용됩니다. 저희는 행동 광고를 위한 침입적인 제3자 추적 쿠키를 사용하지 않습니다.</value>
+  </data>
+  <data name="You may request a copy of the personal data we hold about you." xml:space="preserve">
+    <value>귀하는 저희가 귀하에 대해 보유하고 있는 개인정보 사본을 요청할 수 있습니다.</value>
+  </data>
+  <data name="You may request that we correct any inaccurate or incomplete personal data." xml:space="preserve">
+    <value>당신은 정확하지 않거나 불완전한 개인 정보를 수정해 달라고 요청할 수 있습니다.</value>
+  </data>
+  <data name="You may request the complete deletion of your account and associated personal data from our systems, subject to our retention policies for cancelled subscriptions and legal compliance requirements." xml:space="preserve">
+    <value>귀하는 취소된 구독에 대한 보관 정책과 법적 준수 요구 사항을 고려하여, 귀하의 계정 및 관련 개인 데이터를 우리 시스템에서 완전히 삭제해 달라고 요청할 수 있습니다.</value>
+  </data>
+
+</root>

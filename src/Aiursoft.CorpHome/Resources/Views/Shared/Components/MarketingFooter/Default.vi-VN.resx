@@ -45,6 +45,9 @@
   <data name="Licence" xml:space="preserve">
     <value>Giấy phép</value>
   </data>
+  <data name="Privacy Policy" xml:space="preserve">
+    <value>Chính sách Bảo mật</value>
+  </data>
   <data name="Project" xml:space="preserve">
     <value>Dự án</value>
   </data>
@@ -59,6 +62,9 @@
   </data>
   <data name="Source Code" xml:space="preserve">
     <value>Mã Nguồn</value>
+  </data>
+  <data name="Terms of Service" xml:space="preserve">
+    <value>Điều khoản Dịch vụ</value>
   </data>
 
 </root>

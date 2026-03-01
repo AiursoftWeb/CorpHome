@@ -45,6 +45,9 @@
   <data name="Licence" xml:space="preserve">
     <value>ライセンス</value>
   </data>
+  <data name="Privacy Policy" xml:space="preserve">
+    <value>プライバシーポリシー</value>
+  </data>
   <data name="Project" xml:space="preserve">
     <value>プロジェクト</value>
   </data>
@@ -59,6 +62,9 @@
   </data>
   <data name="Source Code" xml:space="preserve">
     <value>ソースコード</value>
+  </data>
+  <data name="Terms of Service" xml:space="preserve">
+    <value>利用規約</value>
   </data>
 
 </root>
