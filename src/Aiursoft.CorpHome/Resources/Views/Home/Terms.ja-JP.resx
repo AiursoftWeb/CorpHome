@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="1. The Nature of Our Services" xml:space="preserve">
+    <value>1. サービスの性質</value>
+  </data>
+  <data name="10. Governing Law" xml:space="preserve">
+    <value>10. 適用法</value>
+  </data>
+  <data name="11. Contact Us" xml:space="preserve">
+    <value>11. お問い合わせ</value>
+  </data>
+  <data name="2. Plan Distinctions &amp; Responsibilities" xml:space="preserve">
+    <value>2. プランの違いと責任</value>
+  </data>
+  <data name="3. Subscription, Billing, and Payments" xml:space="preserve">
+    <value>3. サブスクリプション、請求および支払い</value>
+  </data>
+  <data name="4. Cancellation and Refund Policy" xml:space="preserve">
+    <value>4. キャンセルおよび返金ポリシー</value>
+  </data>
+  <data name="5. Hardware Purchases (Third-Party)" xml:space="preserve">
+    <value>5. ハードウェア購入（サードパーティ）</value>
+  </data>
+  <data name="6. Acceptable Use Policy" xml:space="preserve">
+    <value>6. 受け入れ可能な利用ポリシー</value>
+  </data>
+  <data name="7. Intellectual Property" xml:space="preserve">
+    <value>7. 著作権</value>
+  </data>
+  <data name="8. Limitation of Liability" xml:space="preserve">
+    <value>8. 責任の制限</value>
+  </data>
+  <data name="9. Modifications to the Terms" xml:space="preserve">
+    <value>9. 利用規約の変更</value>
+  </data>
+  <data name="Aiursoft hosts the infrastructure on our secured servers. We are responsible for server uptime, standard backups, and basic network security." xml:space="preserve">
+    <value>Aiursoftは、セキュアなサーバー上でインフラストラクチャをホスティングしています。サーバーの稼働率、標準的なバックアップ、および基本的なネットワークセキュリティについては、当社が責任を負います。</value>
+  </data>
+  <data name="AIURSOFT LIMITED" xml:space="preserve">
+    <value>AIURSOFT LIMITED</value>
+  </data>
+  <data name="Aiursoft provides enterprise IT infrastructure solutions built upon open-source technologies (e.g., Linux, Nextcloud, Mailcow, Authentik, GitLab)." xml:space="preserve">
+    <value>Aiursoftは、オープンソース技術（例：Linux、Nextcloud、Mailcow、Authentik、GitLab）を基盤としたエンタープライズITインフラ構成ソリューションを提供しています。</value>
+  </data>
+  <data name="All fees are exclusive of applicable taxes, levies, or duties imposed by taxing authorities, and you shall be responsible for payment of all such taxes." xml:space="preserve">
+    <value>すべての手数料は、課税当局が課す適用される税金、諸税、または関税を除くものとし、そのすべての税金の支払いについてはお客様が責任を負います。</value>
+  </data>
+  <data name="All payments are securely processed by our third-party payment gateway, Stripe. Aiursoft does not collect, process, or store your full credit card information on our servers." xml:space="preserve">
+    <value>すべての決済は、当社のサードパーティ決済ゲートウェイであるStripeによって安全に処理されます。Aiursoftは、お客様の完全なクレジットカード情報を当社のサーバー上に収集、処理、または保存しません。</value>
+  </data>
+  <data name="Any unauthorized access to your on-premise servers (for Startup/Enterprise plans)." xml:space="preserve">
+    <value>スタートアップ/エンタープライズプラン対象の、ご自身のオンプレミスサーバーへの不正アクセス。</value>
+  </data>
+  <data name="Attempt to bypass or compromise any security measure implemented by Aiursoft on Cloud-Hosted plans." xml:space="preserve">
+    <value>Aiursoftがクラウドホストプランに実装したセキュリティメジャーを回避または侵害しようとする行為</value>
+  </data>
+  <data name="Automatic Renewal:" xml:space="preserve">
+    <value>自動更新:</value>
+  </data>
+  <data name="Certain features, such as offline AI Knowledge Base construction or hardware-based Zero Trust authentication, may require physical hardware (e.g., NVIDIA GPUs, YubiKeys). Unless explicitly stated in a custom enterprise contract, you are responsible for procuring this hardware directly from the respective manufacturers. Aiursoft acts solely as the software integration provider." xml:space="preserve">
+    <value>オフラインAI知識ベースの構築やハードウェアベースのゼロトラスト認証などの特定の機能は、物理的なハードウェア（例：NVIDIA GPUs、YubiKeys）を必要とする場合があります。カスタムエンタープライズ契約に明記されていない限り、このハードウェアの調達はお客様がそれぞれのメーカーから直接行う責任があります。Aiursoftはあくまでソフトウェア統合プロバイダーとしての役割を果たしています。</value>
+  </data>
+  <data name="Cloud-Hosted Plans (e.g., Core):" xml:space="preserve">
+    <value>クラウドホストプラン (例: Core):</value>
+  </data>
+  <data name="Company Entity: AIURSOFT LIMITED (Hong Kong)" xml:space="preserve">
+    <value>会社エンティティ: AIURSOFT LIMITED (香港)</value>
+  </data>
+  <data name="Company:" xml:space="preserve">
+    <value>会社：</value>
+  </data>
+  <data name="Data loss due to hardware failure on your self-hosted infrastructure." xml:space="preserve">
+    <value>自ホストしたインフラストラクチャ上のハードウェア障害によるデータ損失</value>
+  </data>
+  <data name="Effect of Cancellation:" xml:space="preserve">
+    <value>解約の効果：</value>
+  </data>
+  <data name="Email:" xml:space="preserve">
+    <value>メール:</value>
+  </data>
+  <data name="For On-Premise plans requiring a One-Time Setup Fee, this fee covers the manual labor of our architects (e.g., network configuration, Docker deployment, Yubikey integration). Setup fees are strictly non-refundable once the deployment and configuration process has commenced." xml:space="preserve">
+    <value>オンプレミスプランで一時的なセットアップ手数料が必要な場合、この手数料は当社のアーキテクトによる手作業（例：ネットワーク構成、Dockerデプロイ、Yubikey統合）をカバーします。セットアップ手数料は、デプロイおよび構成プロセスが開始されると、いかなる場合でも返金不可です。</value>
+  </data>
+  <data name="How to Cancel:" xml:space="preserve">
+    <value>キャンセルの手順：</value>
+  </data>
+  <data name="If you cancel your subscription, the cancellation will take effect at the end of your current paid billing cycle. You will retain full access to the Services until that cycle concludes." xml:space="preserve">
+    <value>購読をキャンセルする場合、キャンセルは現在の有料課金サイクルの終了時に効力が発生します。そのサイクルが終了するまで、サービスへの完全なアクセス権を保持します。</value>
+  </data>
+  <data name="If you have any questions about these Terms, please contact our executive team at:" xml:space="preserve">
+    <value>これらの利用規約についてご質問がございましたら、執行チームまでお問い合わせください：</value>
+  </data>
+  <data name="In no event shall Aiursoft&apos;s aggregate liability for all claims related to the services exceed the total amount paid by you to Aiursoft for the specific service in the twelve (12) months preceding the claim." xml:space="preserve">
+    <value>いかなる場合にも、Aiursoftのサービスに関するすべての請求に対する累計責任は、請求の直前の12（十二）か月間にあなたがAiursoftに支払った特定のサービスに対する合計金額を超えないものとします。</value>
+  </data>
+  <data name="Last Updated: March 2026" xml:space="preserve">
+    <value>最終更新日: 2026年3月</value>
+  </data>
+  <data name="No Pro-Rated Refunds:" xml:space="preserve">
+    <value>プロラテッド払い戻しは行いません：</value>
+  </data>
+  <data name="On-Premise Plans (e.g., Startup, Custom Enterprise):" xml:space="preserve">
+    <value>オンプレミスプラン (例: Startup、カスタムエンタープライズ):</value>
+  </data>
+  <data name="One-Time Setup Fees:" xml:space="preserve">
+    <value>一時設定手数料：</value>
+  </data>
+  <data name="Payment Processing:" xml:space="preserve">
+    <value>支払い処理:</value>
+  </data>
+  <data name="Per-User Billing:" xml:space="preserve">
+    <value>ユーザー単位の課金:</value>
+  </data>
+  <data name="Subscription fees are calculated based on the number of active users/accounts managed within your Aiursoft Identity Gateway per billing cycle." xml:space="preserve">
+    <value>課金料金は、請求サイクルごとにあなたのAiursoft Identity Gatewayで管理されているアクティブなユーザー/アカウントの数に基づいて計算されます。</value>
+  </data>
+  <data name="Taxes:" xml:space="preserve">
+    <value>税金:</value>
+  </data>
+  <data name="Terms of Service &amp; Subscription Agreement" xml:space="preserve">
+    <value>利用規約およびサブスクリプション契約</value>
+  </data>
+  <data name="The Aiursoft brand, logos, website design, and proprietary deployment scripts (e.g., Aiursoft Template orchestrations) are the intellectual property of AIURSOFT LIMITED. The underlying open-source software remains the property of their respective creators and is provided to you under their specific open-source licenses." xml:space="preserve">
+    <value>Aiursoftのブランド、ロゴ、ウェブサイトのデザイン、および独自のデプロイメントスクリプト（例：Aiursoftテンプレートオーケストレーション）は、AIURSOFT LIMITEDの知的財産です。基盤となるオープンソースソフトウェアは、それぞれの作成者の所有物であり、その特定のオープンソースライセンスに基づいてあなたに提供されています。</value>
+  </data>
+  <data name="The Service is Commercial:" xml:space="preserve">
+    <value>サービスは商用です：</value>
+  </data>
+  <data name="The software is deployed on your local servers or private cloud. You retain absolute physical control and ownership of your data (&quot;Own Your Data&quot;). Consequently, you are solely responsible for your underlying hardware, local network security, physical access control, and disaster recovery backups. Aiursoft&apos;s responsibility is limited to software-level maintenance, container updates, and technical support as defined in your plan." xml:space="preserve">
+    <value>ソフトウェアは、お客様のローカルサーバーまたはプライベートクラウドにデプロイされます。お客様はデータの物理的コントロールおよび所有権を完全に保持します（「データはあなたが所有する」）。したがって、お客様は基盤となるハードウェア、ローカルネットワークセキュリティ、物理的アクセス制御、および災害復旧バックアップについて、唯一責任を負います。Aiursoftの責任は、ソフトウェアレベルのメンテナンス、コンテナの更新、および契約内容に定められた技術サポートに限定されます。</value>
+  </data>
+  <data name="The Software is Free:" xml:space="preserve">
+    <value>ソフトウェアは無料です：</value>
+  </data>
+  <data name="The underlying open-source codes are subject to their respective licenses (e.g., MIT, GPL). You are free to inspect, modify, and distribute the code as permitted by those licenses." xml:space="preserve">
+    <value>基盤となるオープンソースコードは、それぞれのライセンス条項に従います（例：MIT、GPL）。これらのライセンスで許可される範囲内で、コードの検査、改変、配布が自由に行えます。</value>
+  </data>
+  <data name="These Terms of Service (&quot;Terms&quot;) govern your access to and use of the Aiursoft website, products, and subscription services, including but not limited to Aiursoft Substrate (Core, Startup, and Enterprise plans) (collectively, the &quot;Services&quot;). By registering for an account or purchasing a subscription, you agree to be bound by these Terms." xml:space="preserve">
+    <value>これらの利用規約（「規約」）は、Aiursoftのウェブサイト、製品、およびサブスクリプションサービスへのアクセスおよび利用を規定しており、Aiursoft Substrate（Core、Startup、Enterpriseプラン）を含みますが、それらに限定されません（以下、総称して「サービス」といいます）。アカウントの登録またはサブスクリプションの購入により、あなたはこれらの規約に拘束されることに同意するものとします。</value>
+  </data>
+  <data name="These Terms shall be governed by and construed in accordance with the laws of the Hong Kong Special Administrative Region, without regard to its conflict of law provisions." xml:space="preserve">
+    <value>本利用規約は、香港特別行政区域の法律に準拠し、その法的衝突規定を問わず解釈されるものとする。</value>
+  </data>
+  <data name="To ensure uninterrupted service, our commercial plans operate on a recurring subscription basis." xml:space="preserve">
+    <value>サービスの中断を防ぐために、当社の商用プランは継続的なサブスクリプション方式で運用されています。</value>
+  </data>
+  <data name="To the maximum extent permitted by law, Aiursoft Limited shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses, resulting from:" xml:space="preserve">
+    <value>法令で許容される最大限の範囲内で、Aiursoft Limitedは、間接的、偶発的、特別、結果的または懲罰的損害、または直接的または間接的に発生した利益または収益の損失、データ、使用、信用、またはその他の無形の損失を含むがこれに限定されない、以下の原因による一切の責任を負わないものとする：</value>
+  </data>
+  <data name="Use our Cloud-Hosted email services (Mailcow) to send unsolicited spam or conduct phishing campaigns. Violation of this rule will result in immediate account termination without refund." xml:space="preserve">
+    <value>当社のクラウドホスティングメールサービス（Mailcow）を用いて、無断のスパム送信やフィッシングキャンペーンを行ってはいけません。この規則に違反した場合、返金なしで即時アカウント停止となります。</value>
+  </data>
+  <data name="Use the Services to conduct any illegal, fraudulent, or malicious activities." xml:space="preserve">
+    <value>サービスを利用して、違法、詐欺的、または悪意ある活動を行ってはいけません。</value>
+  </data>
+  <data name="We do not provide refunds or credits for any partial-month subscription periods, or for user accounts that were provisioned but remained inactive." xml:space="preserve">
+    <value>部分月のサブスクリプション期間、またはプロビジョニングはされたが非アクティブのままだったユーザー アカウントに対して、返金またはクレジットを提供することはありません。</value>
+  </data>
+  <data name="We may revise these Terms from time to time to better reflect changes to the law, new regulatory requirements, or improvements made to our Services. If an update affects your use of the Services or your legal rights as a user of our Services, we’ll notify you prior to the update&apos;s effective date by sending an email to the account owner." xml:space="preserve">
+    <value>当該利用規約は、法律の変更、新たな規制要件、または当社のサービスの改善をより適切に反映するために、時折見直されることがあります。更新内容がサービスの利用方法、またはユーザーとしての法的権利に影響を及ぼす場合、当社は更新の効力発生日の前日までにアカウント所有者にメールで通知いたします。</value>
+  </data>
+  <data name="We offer different tiers of deployment to suit your business needs:" xml:space="preserve">
+    <value>お客様のビジネスニーズに合わせて、さまざまなデプロイメントのレベルをご用意しています：</value>
+  </data>
+  <data name="Welcome to Aiursoft. We are dedicated to bringing the spirit of open-source and free software to every enterprise and individual." xml:space="preserve">
+    <value>Aiursoftへようこそ。私たちは、オープンソースおよびフリーソフトウェアの精神をあらゆる企業および個人に届けることに尽力しています。</value>
+  </data>
+  <data name="What you are purchasing from Aiursoft is the hosting, automated deployment, maintenance, priority support, and enterprise integration of these tools." xml:space="preserve">
+    <value>Aiursoftから購入しているのは、これらのツールのホスティング、自動デプロイ、メンテナンス、優先サポート、およびエンタープライズ統合です。</value>
+  </data>
+  <data name="You agree not to misuse the Services or help anyone else to do so. You must not:" xml:space="preserve">
+    <value>サービスを不正に使用しないこと、また他人がそのような行為をしないよう助けることにも同意します。以下の行為は禁止されています：</value>
+  </data>
+  <data name="You may cancel your subscription at any time through your Aiursoft Billing Dashboard or by contacting our support team." xml:space="preserve">
+    <value>ご契約は、Aiursoftの請求管理ダッシュボードからいつでもキャンセルできます。または、サポートチームにお問い合わせください。</value>
+  </data>
+  <data name="Your access to or use of or inability to access or use the Services." xml:space="preserve">
+    <value>サービスへのアクセスまたは利用、またはサービスへのアクセスまたは利用ができない状態</value>
+  </data>
+  <data name="Your subscription will automatically renew at the end of each billing cycle (monthly or annually) unless you cancel it prior to the renewal date. You authorize us (via Stripe) to charge the applicable subscription fees to your payment method on file." xml:space="preserve">
+    <value>ご契約は、更新日以前に解約しない限り、各課金サイクルの終了時に自動的に更新されます。お客様は、Stripeを通じて当社がお支払い方法に登録されている支払い方法に、該当する契約料金を請求することに同意します。</value>
+  </data>
+
+</root>

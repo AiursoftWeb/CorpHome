@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="1. The Nature of Our Services" xml:space="preserve">
+    <value>1. ลักษณะของบริการของเรา</value>
+  </data>
+  <data name="10. Governing Law" xml:space="preserve">
+    <value>10. กฎหมายที่บังคับใช้</value>
+  </data>
+  <data name="11. Contact Us" xml:space="preserve">
+    <value>11. ติดต่อเรา</value>
+  </data>
+  <data name="2. Plan Distinctions &amp; Responsibilities" xml:space="preserve">
+    <value>2. ความแตกต่างของแผนและการรับผิดชอบ</value>
+  </data>
+  <data name="3. Subscription, Billing, and Payments" xml:space="preserve">
+    <value>3. การสมัครสมาชิก การเรียกเก็บเงิน และการชำระเงิน</value>
+  </data>
+  <data name="4. Cancellation and Refund Policy" xml:space="preserve">
+    <value>4. นโยบายการยกเลิกและคืนเงิน</value>
+  </data>
+  <data name="5. Hardware Purchases (Third-Party)" xml:space="preserve">
+    <value>5. การซื้ออุปกรณ์ฮาร์ดแวร์ (ผู้ให้บริการภายนอก)</value>
+  </data>
+  <data name="6. Acceptable Use Policy" xml:space="preserve">
+    <value>6. นโยบายการใช้งานที่ยอมรับได้</value>
+  </data>
+  <data name="7. Intellectual Property" xml:space="preserve">
+    <value>7. สิทธิในทรัพย์สินทางปัญญา</value>
+  </data>
+  <data name="8. Limitation of Liability" xml:space="preserve">
+    <value>8. การจำกัดความรับผิดชอบ</value>
+  </data>
+  <data name="9. Modifications to the Terms" xml:space="preserve">
+    <value>9. การแก้ไขข้อกำหนด</value>
+  </data>
+  <data name="Aiursoft hosts the infrastructure on our secured servers. We are responsible for server uptime, standard backups, and basic network security." xml:space="preserve">
+    <value>Aiursoft ดำเนินการจัดเก็บโครงสร้างพื้นฐานบนเซิร์ฟเวอร์ที่ปลอดภัยของเรา เราจะรับผิดชอบในด้านเวลาการทำงานของเซิร์ฟเวอร์ สำรองข้อมูลตามมาตรฐาน และความปลอดภัยของเครือข่ายพื้นฐาน</value>
+  </data>
+  <data name="AIURSOFT LIMITED" xml:space="preserve">
+    <value>AIURSOFT LIMITED</value>
+  </data>
+  <data name="Aiursoft provides enterprise IT infrastructure solutions built upon open-source technologies (e.g., Linux, Nextcloud, Mailcow, Authentik, GitLab)." xml:space="preserve">
+    <value>Aiursoft ให้บริการโซลูชันโครงสร้างพื้นฐานด้านไอทีสำหรับองค์กรที่สร้างขึ้นบนเทคโนโลยีโอเพนซอร์ส (เช่น Linux, Nextcloud, Mailcow, Authentik, GitLab)</value>
+  </data>
+  <data name="All fees are exclusive of applicable taxes, levies, or duties imposed by taxing authorities, and you shall be responsible for payment of all such taxes." xml:space="preserve">
+    <value>ค่าธรรมเนียมทั้งหมดไม่รวมภาษี ค่าธรรมเนียม หรืออากรใดๆ ที่ถูกกำหนดโดยหน่วยงานภาษี และคุณจะต้องรับผิดชอบในการชำระภาษีทั้งหมดดังกล่าว</value>
+  </data>
+  <data name="All payments are securely processed by our third-party payment gateway, Stripe. Aiursoft does not collect, process, or store your full credit card information on our servers." xml:space="preserve">
+    <value>การชำระเงินทั้งหมดจะได้รับการประมวลผลอย่างปลอดภัยผ่านเกตเวย์การชำระเงินของบุคคลที่สามของเรา คือ Stripe Aiursoft ไม่ได้เก็บ ประมวลผล หรือเก็บข้อมูลบัตรเครดิตเต็มรูปแบบของคุณไว้บนเซิร์ฟเวอร์ของเรา</value>
+  </data>
+  <data name="Any unauthorized access to your on-premise servers (for Startup/Enterprise plans)." xml:space="preserve">
+    <value>การเข้าถึงเซิร์ฟเวอร์ภายในสถานที่ของคุณอย่างไม่ได้รับอนุญาต (สำหรับแผน Startup/Enterprise)</value>
+  </data>
+  <data name="Attempt to bypass or compromise any security measure implemented by Aiursoft on Cloud-Hosted plans." xml:space="preserve">
+    <value>พยายามหลีกเลี่ยงหรือทำลายมาตรการรักษาความปลอดภัยใด ๆ ที่ Aiursoft ได้ตั้งขึ้นในแผนการโฮสต์แบบคลาวด์</value>
+  </data>
+  <data name="Automatic Renewal:" xml:space="preserve">
+    <value>การต่ออายุอัตโนมัติ:</value>
+  </data>
+  <data name="Certain features, such as offline AI Knowledge Base construction or hardware-based Zero Trust authentication, may require physical hardware (e.g., NVIDIA GPUs, YubiKeys). Unless explicitly stated in a custom enterprise contract, you are responsible for procuring this hardware directly from the respective manufacturers. Aiursoft acts solely as the software integration provider." xml:space="preserve">
+    <value>คุณสมบัติบางอย่าง เช่น การสร้างฐานความรู้ AI แบบออฟไลน์ หรือการยืนยันตัวตนแบบ Zero Trust ที่ขึ้นอยู่กับฮาร์ดแวร์ อาจต้องการฮาร์ดแวร์จริง (เช่น NVIDIA GPUs, YubiKeys) เว้นแต่จะระบุไว้ชัดเจนในสัญญาธุรกิจเฉพาะ คุณจะต้องรับผิดชอบในการจัดหาฮาร์ดแวร์นี้โดยตรงจากผู้ผลิตที่เกี่ยวข้อง Aiursoft ทำหน้าที่เป็นผู้ให้บริการรวมซอฟต์แวร์เพียงอย่างเดียว</value>
+  </data>
+  <data name="Cloud-Hosted Plans (e.g., Core):" xml:space="preserve">
+    <value>แผนการโฮสต์ในคลาวด์ (เช่น Core):</value>
+  </data>
+  <data name="Company Entity: AIURSOFT LIMITED (Hong Kong)" xml:space="preserve">
+    <value>บริษัท เอเชียน ซอฟต์ จำกัด (ฮ่องกง)</value>
+  </data>
+  <data name="Company:" xml:space="preserve">
+    <value>บริษัท:</value>
+  </data>
+  <data name="Data loss due to hardware failure on your self-hosted infrastructure." xml:space="preserve">
+    <value>การสูญเสียข้อมูลเนื่องจากความล้มเหลวของฮาร์ดแวร์บนโครงสร้างพื้นฐานที่คุณโฮสต์เอง</value>
+  </data>
+  <data name="Effect of Cancellation:" xml:space="preserve">
+    <value>ผลของการยกเลิก:</value>
+  </data>
+  <data name="Email:" xml:space="preserve">
+    <value>อีเมล:</value>
+  </data>
+  <data name="For On-Premise plans requiring a One-Time Setup Fee, this fee covers the manual labor of our architects (e.g., network configuration, Docker deployment, Yubikey integration). Setup fees are strictly non-refundable once the deployment and configuration process has commenced." xml:space="preserve">
+    <value>สำหรับแผนแบบ On-Premise ที่ต้องการค่าใช้จ่ายการติดตั้งครั้งเดียว ค่าใช้จ่ายนี้ครอบคลุมแรงงานด้วยมือของทีมสถาปนิกของเรา (เช่น การตั้งค่าเครือข่าย การติดตั้ง Docker การบูรณาการ Yubikey) ค่าใช้จ่ายการติดตั้งจะไม่สามารถคืนเงินได้ภายใต้เงื่อนไขใดๆ หลังจากกระบวนการติดตั้งและการตั้งค่าได้เริ่มขึ้นแล้ว</value>
+  </data>
+  <data name="How to Cancel:" xml:space="preserve">
+    <value>วิธีการยกเลิก:</value>
+  </data>
+  <data name="If you cancel your subscription, the cancellation will take effect at the end of your current paid billing cycle. You will retain full access to the Services until that cycle concludes." xml:space="preserve">
+    <value>หากคุณยกเลิกการสมัครใช้งาน คำขอยกเลิกจะมีผลในวันสิ้นสุดรอบการเรียกเก็บเงินที่จ่ายล่วงหน้าของคุณ คุณจะยังคงมีสิทธิ์เข้าถึงบริการทั้งหมดจนถึงสิ้นสุดรอบดังกล่าว</value>
+  </data>
+  <data name="If you have any questions about these Terms, please contact our executive team at:" xml:space="preserve">
+    <value>หากคุณมีคำถามใด ๆ เกี่ยวกับข้อกำหนดเหล่านี้ โปรดติดต่อทีมผู้บริหารของเราที่:</value>
+  </data>
+  <data name="In no event shall Aiursoft&apos;s aggregate liability for all claims related to the services exceed the total amount paid by you to Aiursoft for the specific service in the twelve (12) months preceding the claim." xml:space="preserve">
+    <value>ในกรณีใด ๆ ความรับผิดชอบรวมทั้งหมดของ Aiursoft ต่อข้อเรียกร้องทั้งหมดที่เกี่ยวข้องกับบริการจะไม่เกินจำนวนเงินทั้งหมดที่คุณจ่ายให้กับ Aiursoft สำหรับบริการเฉพาะนั้นในช่วงสิบสอง (12) เดือนก่อนหน้าข้อเรียกร้องนั้น</value>
+  </data>
+  <data name="Last Updated: March 2026" xml:space="preserve">
+    <value>อัปเดตครั้งล่าสุด: มีนาคม 2026</value>
+  </data>
+  <data name="No Pro-Rated Refunds:" xml:space="preserve">
+    <value>ไม่มีการคืนเงินตามอัตราส่วน</value>
+  </data>
+  <data name="On-Premise Plans (e.g., Startup, Custom Enterprise):" xml:space="preserve">
+    <value>แผนแบบติดตั้งภายใน (เช่น Startup, องค์กรแบบกำหนดเอง):</value>
+  </data>
+  <data name="One-Time Setup Fees:" xml:space="preserve">
+    <value>ค่าใช้จ่ายการตั้งค่าครั้งเดียว:</value>
+  </data>
+  <data name="Payment Processing:" xml:space="preserve">
+    <value>การประมวลผลการชำระเงิน:</value>
+  </data>
+  <data name="Per-User Billing:" xml:space="preserve">
+    <value>คิดค่าบริการตามผู้ใช้:</value>
+  </data>
+  <data name="Subscription fees are calculated based on the number of active users/accounts managed within your Aiursoft Identity Gateway per billing cycle." xml:space="preserve">
+    <value>ค่าบริการสมาชิกจะคำนวณตามจำนวนผู้ใช้งานที่ใช้งานอยู่/บัญชีที่จัดการผ่าน Gateway ของ Aiursoft Identity ของคุณต่อแต่ละรอบการเรียกเก็บเงิน</value>
+  </data>
+  <data name="Taxes:" xml:space="preserve">
+    <value>ภาษี:</value>
+  </data>
+  <data name="Terms of Service &amp; Subscription Agreement" xml:space="preserve">
+    <value>ข้อกำหนดการให้บริการและการตกลงการสมัครใช้งาน</value>
+  </data>
+  <data name="The Aiursoft brand, logos, website design, and proprietary deployment scripts (e.g., Aiursoft Template orchestrations) are the intellectual property of AIURSOFT LIMITED. The underlying open-source software remains the property of their respective creators and is provided to you under their specific open-source licenses." xml:space="preserve">
+    <value>สิทธิบัตร โลโก้ รูปแบบเว็บไซต์ และสคริปต์การติดตั้งที่เป็นกรรมสิทธิ์ของ Aiursoft (เช่น การประสานงานเทมเพลต Aiursoft) เป็นทรัพย์สินทางปัญญาของ AIURSOFT LIMITED ส่วนซอฟต์แวร์โอเพนซอร์สที่อยู่เบื้องหลังยังคงเป็นทรัพย์สินของผู้สร้างแต่ละราย และจัดให้คุณใช้งานภายใต้ใบอนุญาตโอเพนซอร์สเฉพาะของแต่ละราย</value>
+  </data>
+  <data name="The Service is Commercial:" xml:space="preserve">
+    <value>บริการนี้เป็นเชิงพาณิชย์:</value>
+  </data>
+  <data name="The software is deployed on your local servers or private cloud. You retain absolute physical control and ownership of your data (&quot;Own Your Data&quot;). Consequently, you are solely responsible for your underlying hardware, local network security, physical access control, and disaster recovery backups. Aiursoft&apos;s responsibility is limited to software-level maintenance, container updates, and technical support as defined in your plan." xml:space="preserve">
+    <value>ซอฟต์แวร์ถูกติดตั้งบนเซิร์ฟเวอร์ภายในของคุณหรือคลาวด์ส่วนตัว คุณจะคงการควบคุมทางกายภาพอย่างสมบูรณ์และสิทธิ์ในข้อมูลของคุณ (&quot;เป็นเจ้าของข้อมูลของคุณเอง&quot;) ดังนั้นคุณจึงรับผิดชอบเพียงผู้เดียวต่อฮาร์ดแวร์พื้นฐาน ความปลอดภัยของเครือข่ายภายใน ระบบควบคุมการเข้าถึงทางกายภาพ และการสำรองข้อมูลเพื่อการกู้คืนจากภัยพิบัติ ความรับผิดชอบของ Aiursoft จำกัดอยู่ที่การบำรุงรักษาในระดับซอฟต์แวร์ การอัปเดตคอนเทนเนอร์ และการสนับสนุนทางเทคนิคตามที่ระบุไว้ในแผนของคุณ</value>
+  </data>
+  <data name="The Software is Free:" xml:space="preserve">
+    <value>ซอฟต์แวร์นี้ฟรี:</value>
+  </data>
+  <data name="The underlying open-source codes are subject to their respective licenses (e.g., MIT, GPL). You are free to inspect, modify, and distribute the code as permitted by those licenses." xml:space="preserve">
+    <value>รหัสโอเพนซอร์สที่อยู่เบื้องหลังอยู่ภายใต้สัญญาอนุญาตตามแต่ละสัญญา (เช่น MIT, GPL) คุณมีอิสระในการตรวจสอบ แก้ไข และเผยแพร่โค้ดตามที่สัญญาอนุญาตอนุญาตไว้</value>
+  </data>
+  <data name="These Terms of Service (&quot;Terms&quot;) govern your access to and use of the Aiursoft website, products, and subscription services, including but not limited to Aiursoft Substrate (Core, Startup, and Enterprise plans) (collectively, the &quot;Services&quot;). By registering for an account or purchasing a subscription, you agree to be bound by these Terms." xml:space="preserve">
+    <value>ข้อกำหนดการใช้บริการ (&quot;ข้อกำหนด&quot;) เหล่านี้ ควบคุมการเข้าถึงและการใช้งานเว็บไซต์ ผลิตภัณฑ์ และบริการสมัครสมาชิกของ Aiursoft รวมถึงแต่ไม่จำกัดเพียง Aiursoft Substrate (แผน Core, Startup และ Enterprise) (โดยรวมกันเรียกว่า &quot;บริการ&quot;) โดยการลงทะเบียนเป็นบัญชีหรือซื้อการสมัครสมาชิก คุณยอมรับที่จะถูกผูกพันด้วยข้อกำหนดเหล่านี้</value>
+  </data>
+  <data name="These Terms shall be governed by and construed in accordance with the laws of the Hong Kong Special Administrative Region, without regard to its conflict of law provisions." xml:space="preserve">
+    <value>ข้อตกลงเหล่านี้จะอยู่ภายใต้การควบคุมและตีความตามกฎหมายของเขตบริหารพิเศษฮ่องกง โดยไม่คำนึงถึงข้อกำหนดเกี่ยวกับกฎหมายที่ขัดแย้งกัน</value>
+  </data>
+  <data name="To ensure uninterrupted service, our commercial plans operate on a recurring subscription basis." xml:space="preserve">
+    <value>เพื่อให้บริการดำเนินต่อเนื่องโดยไม่มีการหยุดชะงัก แผนการเชิงพาณิชย์ของเราดำเนินการตามระบบการสมัครสมาชิกซ้ำเรื่อยๆ</value>
+  </data>
+  <data name="To the maximum extent permitted by law, Aiursoft Limited shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses, resulting from:" xml:space="preserve">
+    <value>ในขอบเขตสูงสุดที่กฎหมายอนุญาต Aiursoft Limited จะไม่รับผิดต่อความเสียหายใด ๆ ที่เป็นผลโดยอ้อม ความเสียหายที่เกิดขึ้นโดยบังเอิญ ความเสียหายเฉพาะเจาะจง ความเสียหายที่ตามมา หรือความเสียหายเชิงลงโทษ หรือความสูญเสียผลกำไรหรือรายได้ ไม่ว่าจะเกิดขึ้นโดยตรงหรือโดยอ้อม หรือความสูญเสียข้อมูล การใช้งาน ความน่าเชื่อถือ หรือความสูญเสียทางสิทธิ์อื่น ๆ ที่ไม่สามารถสัมผัสได้ ซึ่งเกิดขึ้นจาก:</value>
+  </data>
+  <data name="Use our Cloud-Hosted email services (Mailcow) to send unsolicited spam or conduct phishing campaigns. Violation of this rule will result in immediate account termination without refund." xml:space="preserve">
+    <value>ใช้บริการอีเมลแบบโฮสต์บนคลาวด์ของเรา (Mailcow) เพื่อส่งสแปมที่ไม่ได้รับอนุญาต หรือดำเนินการโจมตีแบบฟิชชิง ข้อห้ามนี้ หากละเมิดจะส่งผลให้บัญชีถูกยกเลิกทันทีโดยไม่มีการคืนเงิน</value>
+  </data>
+  <data name="Use the Services to conduct any illegal, fraudulent, or malicious activities." xml:space="preserve">
+    <value>ใช้บริการเพื่อดำเนินกิจกรรมที่ผิดกฎหมาย ฉ้อโกง หรือมีเจตนาชั่วร้ายใดๆ</value>
+  </data>
+  <data name="We do not provide refunds or credits for any partial-month subscription periods, or for user accounts that were provisioned but remained inactive." xml:space="preserve">
+    <value>เราไม่ให้คืนเงินหรือเครดิตใด ๆ สำหรับช่วงเวลาการสมัครสมาชิกรายเดือนที่ไม่ครบเดือน หรือสำหรับบัญชีผู้ใช้ที่ได้รับการจัดเตรียมไว้แต่ยังไม่ได้ใช้งาน</value>
+  </data>
+  <data name="We may revise these Terms from time to time to better reflect changes to the law, new regulatory requirements, or improvements made to our Services. If an update affects your use of the Services or your legal rights as a user of our Services, we’ll notify you prior to the update&apos;s effective date by sending an email to the account owner." xml:space="preserve">
+    <value>เราอาจปรับปรุงข้อกำหนดเหล่านี้เป็นระยะ ๆ เพื่อสะท้อนการเปลี่ยนแปลงในกฎหมาย ข้อกำหนดทางการกำกับดูแลใหม่ หรือการปรับปรุงที่เราได้ทำกับบริการของเรา หากการอัปเดตมีผลกระทบต่อการใช้งานบริการของคุณ หรือสิทธิทางกฎหมายของคุณในฐานะผู้ใช้บริการของเรา เราจะแจ้งให้คุณทราบก่อนวันที่มีผลบังคับใช้การอัปเดต โดยส่งอีเมลถึงเจ้าของบัญชี</value>
+  </data>
+  <data name="We offer different tiers of deployment to suit your business needs:" xml:space="preserve">
+    <value>เราเสนอระดับการติดตั้งที่แตกต่างกันเพื่อให้เหมาะสมกับความต้องการทางธุรกิจของคุณ:</value>
+  </data>
+  <data name="Welcome to Aiursoft. We are dedicated to bringing the spirit of open-source and free software to every enterprise and individual." xml:space="preserve">
+    <value>ยินดีต้อนรับสู่ Aiursoft เราตั้งใจที่จะนำจิตวิญญาณของซอฟต์แวร์โอเพนซอร์สและซอฟต์แวร์ฟรีมาสู่ทุกองค์กรและบุคคลทุกคน</value>
+  </data>
+  <data name="What you are purchasing from Aiursoft is the hosting, automated deployment, maintenance, priority support, and enterprise integration of these tools." xml:space="preserve">
+    <value>สิ่งที่คุณกำลังซื้อจาก Aiursoft คือ การโฮสต์ การติดตั้งอัตโนมัติ การดูแลรักษา การสนับสนุนด้านความสำคัญ และการบูรณาการระดับองค์กรของเครื่องมือเหล่านี้</value>
+  </data>
+  <data name="You agree not to misuse the Services or help anyone else to do so. You must not:" xml:space="preserve">
+    <value>คุณตกลงที่จะไม่ใช้บริการอย่างผิดวัตถุประสงค์ หรือช่วยให้ผู้อื่นทำเช่นนั้น คุณต้องไม่:</value>
+  </data>
+  <data name="You may cancel your subscription at any time through your Aiursoft Billing Dashboard or by contacting our support team." xml:space="preserve">
+    <value>คุณสามารถยกเลิกการสมัครสมาชิกได้ทุกเมื่อผ่านแดชบอร์ดการเรียกเก็บเงินของ Aiursoft หรือโดยติดต่อทีมสนับสนุนของเรา</value>
+  </data>
+  <data name="Your access to or use of or inability to access or use the Services." xml:space="preserve">
+    <value>การเข้าถึงหรือการใช้งาน หรือการที่ไม่สามารถเข้าถึงหรือใช้งานบริการได้</value>
+  </data>
+  <data name="Your subscription will automatically renew at the end of each billing cycle (monthly or annually) unless you cancel it prior to the renewal date. You authorize us (via Stripe) to charge the applicable subscription fees to your payment method on file." xml:space="preserve">
+    <value>การสมัครสมาชิกของคุณจะต่ออายุโดยอัตโนมัติที่สิ้นสุดแต่ละรอบการเรียกเก็บเงิน (รายเดือนหรือรายปี) เว้นแต่คุณยกเลิกก่อนวันที่ต่ออายุ คุณยินยอมให้เรา (ผ่าน Stripe) หักค่าธรรมเนียมสมาชิกที่เกี่ยวข้องจากวิธีการชำระเงินที่มีอยู่ในระบบของคุณ</value>
+  </data>
+
+</root>
