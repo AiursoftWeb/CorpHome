@@ -4,8 +4,8 @@
 [![Pipeline stat](https://gitlab.aiursoft.com/aiursoft/corpHome/badges/master/pipeline.svg)](https://gitlab.aiursoft.com/aiursoft/corpHome/-/pipelines)
 [![Test Coverage](https://gitlab.aiursoft.com/aiursoft/corpHome/badges/master/coverage.svg)](https://gitlab.aiursoft.com/aiursoft/corpHome/-/pipelines)
 [![Man hours](https://manhours.aiursoft.com/r/gitlab.aiursoft.com/aiursoft/corpHome.svg)](https://manhours.aiursoft.com/r/gitlab.aiursoft.com/aiursoft/corpHome.html)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2FcorpHome.aiursoft.com)](https://corpHome.aiursoft.com)
-[![Docker](https://img.shields.io/docker/pulls/aiursoft/corpHome.svg)](https://hub.docker.com/r/aiursoft/corpHome)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.aiursoft.com)](https://www.aiursoft.com)
+[![Docker](https://img.shields.io/docker/pulls/aiursoft/corphome.svg)](https://hub.docker.com/r/aiursoft/corphome)
 
 CorpHome is Aiursoft's official website homepage.
 
