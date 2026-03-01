@@ -36,10 +36,10 @@ public class EditViewModel : UiStackLayoutViewModel
 
     [NotNull]
     [Display(Name = "Avatar file")]
-    [Required(ErrorMessage = "The avatar file is required.")]
-    [RegularExpression(@"^avatar.*", ErrorMessage = "The avatar file is invalid. Please upload it again.")]
-    [MaxLength(150)]
-    [MinLength(2)]
+    [Required(ErrorMessage = "The {0} is required.")]
+    [RegularExpression(@"^avatar.*", ErrorMessage = "The {0} is invalid. Please upload it again.")]
+    [MaxLength(512, ErrorMessage = "The {0} must be less than {1} characters.")]
+    [MinLength(2, ErrorMessage = "The {0} must be more than {1} characters.")]
     public string? AvatarUrl { get; set; }
 
     [Required(ErrorMessage = "The {0} is required.")]

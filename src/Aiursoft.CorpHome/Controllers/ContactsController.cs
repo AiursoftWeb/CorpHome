@@ -31,7 +31,21 @@ public class ContactsController(TemplateDbContext dbContext) : Controller
 
         var model = new IndexViewModel
         {
-            Contacts = contacts
+            Contacts = contacts.Select(c => new ContactDisplayViewModel
+            {
+                Id = c.Id,
+                OrganizationSize = c.OrganizationSize,
+                ConsumeOpenSource = c.ConsumeOpenSource,
+                ServicesProvided = c.ServicesProvided,
+                FirstName = c.FirstName,
+                LastName = c.LastName,
+                Company = c.Company,
+                JobTitle = c.JobTitle,
+                Email = c.Email,
+                AgreeToInformation = c.AgreeToInformation,
+                AgreeToPrivacy = c.AgreeToPrivacy,
+                CreateTime = c.CreateTime
+            })
         };
 
         return this.StackView(model);

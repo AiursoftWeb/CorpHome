@@ -92,7 +92,7 @@ namespace Aiursoft.CorpHome.Sqlite.Migrations
 
                     b.Property<string>("AvatarRelativePath")
                         .IsRequired()
-                        .HasMaxLength(150)
+                        .HasMaxLength(512)
                         .HasColumnType("TEXT");
 
                     b.Property<string>("ConcurrencyStamp")

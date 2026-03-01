@@ -2,6 +2,8 @@ using Aiursoft.CorpHome.Authorization;
 using Aiursoft.CorpHome.Entities;
 using Aiursoft.CorpHome.Models.PermissionsViewModels;
 using Aiursoft.CorpHome.Services;
+using RoleDisplayViewModel = Aiursoft.CorpHome.Models.RolesViewModels.RoleDisplayViewModel;
+using UserDisplayViewModel = Aiursoft.CorpHome.Models.UsersViewModels.UserDisplayViewModel;
 using Aiursoft.UiStack.Navigation;
 using Aiursoft.WebTools.Attributes;
 using Microsoft.AspNetCore.Authorization;
@@ -74,7 +76,12 @@ public class PermissionsController(
 
         var permissionsWithCounts = allPermissions.Select(permission => new PermissionWithRoleCount
         {
-            Permission = permission,
+            Permission = new PermissionDisplayViewModel
+            {
+                Key = permission.Key,
+                Name = permission.Name,
+                Description = permission.Description
+            },
             RoleCount = roleCountByPermission.GetValueOrDefault(permission.Key, 0),
             UserCount = userCountByPermission.GetValueOrDefault(permission.Key, 0)
         }).ToList();
@@ -119,9 +126,26 @@ public class PermissionsController(
 
         return this.StackView(new DetailsViewModel
         {
-            Permission = permission,
-            Roles = roles,
-            Users = users
+            Permission = new PermissionDisplayViewModel
+            {
+                Key = permission.Key,
+                Name = permission.Name,
+                Description = permission.Description
+            },
+            Roles = roles.Select(r => new RoleDisplayViewModel
+            {
+                Id = r.Id,
+                Name = r.Name!
+            }).ToList(),
+            Users = users.Select(u => new UserDisplayViewModel
+            {
+                Id = u.Id,
+                UserName = u.UserName!,
+                DisplayName = u.DisplayName,
+                Email = u.Email!,
+                AvatarRelativePath = u.AvatarRelativePath,
+                CreationTime = u.CreationTime
+            }).ToList()
         });
     }
 }

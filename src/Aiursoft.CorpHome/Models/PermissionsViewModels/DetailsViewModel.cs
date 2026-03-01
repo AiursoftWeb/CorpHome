@@ -1,7 +1,6 @@
-using Aiursoft.CorpHome.Authorization;
-using Aiursoft.CorpHome.Entities;
+using Aiursoft.CorpHome.Models.RolesViewModels;
+using Aiursoft.CorpHome.Models.UsersViewModels;
 using Aiursoft.UiStack.Layout;
-using Microsoft.AspNetCore.Identity;
 
 namespace Aiursoft.CorpHome.Models.PermissionsViewModels;
 
@@ -12,9 +11,9 @@ public class DetailsViewModel : UiStackLayoutViewModel
         PageTitle = "Permission Details";
     }
 
-    public required PermissionDescriptor Permission { get; set; }
+    public required PermissionDisplayViewModel Permission { get; set; }
 
-    public required List<IdentityRole> Roles { get; set; }
+    public required List<RoleDisplayViewModel> Roles { get; set; }
 
-    public required List<User> Users { get; set; }
+    public required List<UserDisplayViewModel> Users { get; set; }
 }

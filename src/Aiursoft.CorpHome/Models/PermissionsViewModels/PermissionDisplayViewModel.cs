@@ -1,8 +1,8 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace Aiursoft.CorpHome.Models.RolesViewModels;
+namespace Aiursoft.CorpHome.Models.PermissionsViewModels;
 
-public class RoleClaimViewModel
+public class PermissionDisplayViewModel
 {
     [Display(Name = "Key")]
     public required string Key { get; set; }
@@ -12,7 +12,4 @@ public class RoleClaimViewModel
     
     [Display(Name = "Description")]
     public required string Description { get; set; }
-    
-    [Display(Name = "Is selected")]
-    public bool IsSelected { get; set; }
 }

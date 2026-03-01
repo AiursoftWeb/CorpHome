@@ -2,6 +2,7 @@ using Aiursoft.CorpHome.Authorization;
 using Aiursoft.CorpHome.Entities;
 using Aiursoft.CorpHome.Models.UsersViewModels;
 using Aiursoft.CorpHome.Services;
+using RoleDisplayViewModel = Aiursoft.CorpHome.Models.RolesViewModels.RoleDisplayViewModel;
 using Aiursoft.UiStack.Navigation;
 using Aiursoft.WebTools.Attributes;
 using Microsoft.AspNetCore.Mvc;
@@ -39,7 +40,15 @@ public class UsersController(
         {
             usersWithRoles.Add(new UserWithRolesViewModel
             {
-                User = user,
+                User = new UserDisplayViewModel
+                {
+                    Id = user.Id,
+                    UserName = user.UserName!,
+                    DisplayName = user.DisplayName,
+                    Email = user.Email!,
+                    AvatarRelativePath = user.AvatarRelativePath,
+                    CreationTime = user.CreationTime
+                },
                 Roles = await userManager.GetRolesAsync(user)
             });
         }
@@ -79,8 +88,20 @@ public class UsersController(
 
         return this.StackView(new DetailsViewModel
         {
-            User = user,
-            Roles = roles,
+            User = new UserDisplayViewModel
+            {
+                Id = user.Id,
+                UserName = user.UserName!,
+                DisplayName = user.DisplayName,
+                Email = user.Email!,
+                AvatarRelativePath = user.AvatarRelativePath,
+                CreationTime = user.CreationTime
+            },
+            Roles = roles.Select(r => new RoleDisplayViewModel
+            {
+                Id = r.Id,
+                Name = r.Name!
+            }).ToList(),
             Permissions = permissions
         });
     }
@@ -220,7 +241,15 @@ public class UsersController(
 
         return this.StackView(new DeleteViewModel
         {
-            User = user,
+            User = new UserDisplayViewModel
+            {
+                Id = user.Id,
+                UserName = user.UserName!,
+                DisplayName = user.DisplayName,
+                Email = user.Email!,
+                AvatarRelativePath = user.AvatarRelativePath,
+                CreationTime = user.CreationTime
+            },
         });
     }
 
