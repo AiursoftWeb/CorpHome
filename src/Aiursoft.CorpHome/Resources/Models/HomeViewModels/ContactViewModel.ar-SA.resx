@@ -48,6 +48,12 @@
   <data name="Organization Size" xml:space="preserve">
     <value>حجم المؤسسة</value>
   </data>
+  <data name="The {0} is not a valid email address." xml:space="preserve">
+    <value>{0} ليس عنوان بريد إلكتروني صالحًا.</value>
+  </data>
+  <data name="The {0} is required." xml:space="preserve">
+    <value>حقل {0} مطلوب.</value>
+  </data>
   <data name="What services do you provide?" xml:space="preserve">
     <value>ما الخدمات التي تقدمونها؟</value>
   </data>

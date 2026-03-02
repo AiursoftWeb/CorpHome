@@ -36,6 +36,12 @@
   <data name="The {0} must be at least {2} and at max {1} characters long." xml:space="preserve">
     <value>{0}은(는) 최소 {2}자 이상, 최대 {1}자 이하여야 합니다.</value>
   </data>
+  <data name="The {0} must be less than {1} characters." xml:space="preserve">
+    <value>{0}(이)는 {1}자 미만이어야 합니다.</value>
+  </data>
+  <data name="The {0} must be more than {1} characters." xml:space="preserve">
+    <value>{0}(으)는 {1}자 이상이어야 합니다.</value>
+  </data>
   <data name="User name" xml:space="preserve">
     <value>사용자 이름</value>
   </data>

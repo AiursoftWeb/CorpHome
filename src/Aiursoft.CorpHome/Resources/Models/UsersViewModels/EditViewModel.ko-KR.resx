@@ -30,11 +30,20 @@
   <data name="Reset Password (leave empty to keep the same password)" xml:space="preserve">
     <value>비밀번호 재설정 (기존 비밀번호 유지 시 공백으로 남겨두세요)</value>
   </data>
+  <data name="The {0} is invalid. Please upload it again." xml:space="preserve">
+    <value>{0}(이)가 유효하지 않습니다. 다시 업로드해 주세요.</value>
+  </data>
   <data name="The {0} is not a valid email address." xml:space="preserve">
     <value>{0}은(는) 유효한 이메일 주소가 아닙니다.</value>
   </data>
   <data name="The {0} is required." xml:space="preserve">
     <value>{0}은(는) 필수 항목입니다.</value>
+  </data>
+  <data name="The {0} must be less than {1} characters." xml:space="preserve">
+    <value>{0}(은)는 {1}자 미만이어야 합니다.</value>
+  </data>
+  <data name="The {0} must be more than {1} characters." xml:space="preserve">
+    <value>{0}은(는) {1}자 이상이어야 합니다.</value>
   </data>
   <data name="The avatar file is invalid. Please upload it again." xml:space="preserve">
     <value>아바타 파일이 유효하지 않습니다. 다시 업로드해 주세요.</value>

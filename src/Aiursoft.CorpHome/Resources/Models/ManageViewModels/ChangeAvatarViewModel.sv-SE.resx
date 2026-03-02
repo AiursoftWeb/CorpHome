@@ -24,6 +24,12 @@
   <data name="Name" xml:space="preserve">
     <value>Namn</value>
   </data>
+  <data name="The {0} must be less than {1} characters." xml:space="preserve">
+    <value>{0} får inte vara fler än {1} tecken.</value>
+  </data>
+  <data name="The {0} must be more than {1} characters." xml:space="preserve">
+    <value>{0} måste vara mer än {1} tecken.</value>
+  </data>
   <data name="The avatar file is invalid. Please upload it again." xml:space="preserve">
     <value>Avatarfilen är ogiltig. Ladda upp den igen.</value>
   </data>

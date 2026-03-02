@@ -30,11 +30,20 @@
   <data name="Reset Password (leave empty to keep the same password)" xml:space="preserve">
     <value>Redefinir Senha (deixe em branco para manter a mesma senha)</value>
   </data>
+  <data name="The {0} is invalid. Please upload it again." xml:space="preserve">
+    <value>O {0} é inválido. Por favor, faça o upload novamente.</value>
+  </data>
   <data name="The {0} is not a valid email address." xml:space="preserve">
     <value>O {0} não é um endereço de e-mail válido.</value>
   </data>
   <data name="The {0} is required." xml:space="preserve">
     <value>O {0} é obrigatório.</value>
+  </data>
+  <data name="The {0} must be less than {1} characters." xml:space="preserve">
+    <value>O {0} deve ter menos de {1} caracteres.</value>
+  </data>
+  <data name="The {0} must be more than {1} characters." xml:space="preserve">
+    <value>O {0} deve ter mais de {1} caracteres.</value>
   </data>
   <data name="The avatar file is invalid. Please upload it again." xml:space="preserve">
     <value>O arquivo de avatar é inválido. Por favor, faça o upload novamente.</value>
