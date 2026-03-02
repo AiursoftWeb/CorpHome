@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="1. The Nature of Our Services" xml:space="preserve">
+    <value>1. De aard van onze diensten</value>
+  </data>
+  <data name="10. Governing Law" xml:space="preserve">
+    <value>10. Toepasselijk recht</value>
+  </data>
+  <data name="11. Contact Us" xml:space="preserve">
+    <value>11. Neem contact met ons op</value>
+  </data>
+  <data name="2. Plan Distinctions &amp; Responsibilities" xml:space="preserve">
+    <value>2. Plannenverschillen en Verantwoordelijkheden</value>
+  </data>
+  <data name="3. Subscription, Billing, and Payments" xml:space="preserve">
+    <value>3. Abonnement, facturering en betalingen</value>
+  </data>
+  <data name="4. Cancellation and Refund Policy" xml:space="preserve">
+    <value>4. Annuleren en terugbetalingbeleid</value>
+  </data>
+  <data name="5. Hardware Purchases (Third-Party)" xml:space="preserve">
+    <value>5. Hardware-aankopen (derde partij)</value>
+  </data>
+  <data name="6. Acceptable Use Policy" xml:space="preserve">
+    <value>6. Aanvaardbaar Gebruikspolitiek</value>
+  </data>
+  <data name="7. Intellectual Property" xml:space="preserve">
+    <value>7. Intellectueel eigendom</value>
+  </data>
+  <data name="8. Limitation of Liability" xml:space="preserve">
+    <value>8. Beperking van aansprakelijkheid</value>
+  </data>
+  <data name="9. Modifications to the Terms" xml:space="preserve">
+    <value>9. Wijzigingen aan de Algemene Voorwaarden</value>
+  </data>
+  <data name="Aiursoft hosts the infrastructure on our secured servers. We are responsible for server uptime, standard backups, and basic network security." xml:space="preserve">
+    <value>Aiursoft host de infrastructuur op onze beveiligde servers. Wij zijn verantwoordelijk voor server uptime, standaardback-ups en basisnetwerkbeveiliging.</value>
+  </data>
+  <data name="AIURSOFT LIMITED" xml:space="preserve">
+    <value>AIURSOFT LIMITED</value>
+  </data>
+  <data name="Aiursoft provides enterprise IT infrastructure solutions built upon open-source technologies (e.g., Linux, Nextcloud, Mailcow, Authentik, GitLab)." xml:space="preserve">
+    <value>Aiursoft biedt oplossingen voor bedrijfsgerichte IT-infrastructuur aan die zijn gebaseerd op open-source technologieën (bijv. Linux, Nextcloud, Mailcow, Authentik, GitLab).</value>
+  </data>
+  <data name="All fees are exclusive of applicable taxes, levies, or duties imposed by taxing authorities, and you shall be responsible for payment of all such taxes." xml:space="preserve">
+    <value>Alle kosten zijn exclusief toepasselijke belastingen, heffingen of rechten die worden opgelegd door belastingautoriteiten, en u bent verantwoordelijk voor het betalen van alle dergelijke belastingen.</value>
+  </data>
+  <data name="All payments are securely processed by our third-party payment gateway, Stripe. Aiursoft does not collect, process, or store your full credit card information on our servers." xml:space="preserve">
+    <value>Alle betalingen worden veilig verwerkt via onze derde-partij betalingsgateway, Stripe. Aiursoft verzamelt, verwerkt of slaat uw volledige creditcardgegevens niet op onze servers op.</value>
+  </data>
+  <data name="Any unauthorized access to your on-premise servers (for Startup/Enterprise plans)." xml:space="preserve">
+    <value>Elke ongeautoriseerde toegang tot uw on-premise servers (voor de plannen Startup/Enterprise).</value>
+  </data>
+  <data name="Attempt to bypass or compromise any security measure implemented by Aiursoft on Cloud-Hosted plans." xml:space="preserve">
+    <value>Poging om een veiligheidsmaatregel die door Aiursoft is geïmplementeerd op Cloud-Hosted plannen te omzeilen of te beschadigen.</value>
+  </data>
+  <data name="Automatic Renewal:" xml:space="preserve">
+    <value>Automatische verlenging:</value>
+  </data>
+  <data name="Certain features, such as offline AI Knowledge Base construction or hardware-based Zero Trust authentication, may require physical hardware (e.g., NVIDIA GPUs, YubiKeys). Unless explicitly stated in a custom enterprise contract, you are responsible for procuring this hardware directly from the respective manufacturers. Aiursoft acts solely as the software integration provider." xml:space="preserve">
+    <value>Bepaalde functies, zoals het constructie van een offline AI-kennisbank of hardwaregebaseerde Zero Trust-authenticatie, kunnen fysieke hardware vereisen (bijv. NVIDIA GPUs, YubiKeys). Tenzij uitdrukkelijk vermeld in een aangepaste enterprise-overeenkomst, bent u verantwoordelijk voor het rechtstreeks verkrijgen van deze hardware bij de respectievelijke fabrikanten. Aiursoft fungeert uitsluitend als leverancier van softwareintegratie.</value>
+  </data>
+  <data name="Cloud-Hosted Plans (e.g., Core):" xml:space="preserve">
+    <value>Cloud-gehoste plannen (bijv. Core):</value>
+  </data>
+  <data name="Company Entity: AIURSOFT LIMITED (Hong Kong)" xml:space="preserve">
+    <value>Bedrijf entiteit: AIURSOFT LIMITED (Hongkong)</value>
+  </data>
+  <data name="Company:" xml:space="preserve">
+    <value>Bedrijf:</value>
+  </data>
+  <data name="Data loss due to hardware failure on your self-hosted infrastructure." xml:space="preserve">
+    <value>Gegevensverlies door hardwarefout op uw zelf gehoste infrastructuur.</value>
+  </data>
+  <data name="Effect of Cancellation:" xml:space="preserve">
+    <value>Gevolg van annulering:</value>
+  </data>
+  <data name="Email:" xml:space="preserve">
+    <value>E-mail:</value>
+  </data>
+  <data name="For On-Premise plans requiring a One-Time Setup Fee, this fee covers the manual labor of our architects (e.g., network configuration, Docker deployment, Yubikey integration). Setup fees are strictly non-refundable once the deployment and configuration process has commenced." xml:space="preserve">
+    <value>Voor on-premise plannen waar een eenmalige installatiekost voor nodig is, dekt deze kost de manuele arbeid van onze architecten (bijv. netwerkconfiguratie, Docker-implementatie, Yubikey-integratie). Installatiekosten zijn strikt niet terugbetaalbaar zodra het implementatie- en configuratieproces is begonnen.</value>
+  </data>
+  <data name="How to Cancel:" xml:space="preserve">
+    <value>Hoe te annuleren:</value>
+  </data>
+  <data name="If you cancel your subscription, the cancellation will take effect at the end of your current paid billing cycle. You will retain full access to the Services until that cycle concludes." xml:space="preserve">
+    <value>Als u uw abonnement opzegt, treedt de opzegging in werking aan het einde van uw huidige betaalde factureringscyclus. U blijft volledige toegang tot de Diensten hebben tot het einde van die cyclus.</value>
+  </data>
+  <data name="If you have any questions about these Terms, please contact our executive team at:" xml:space="preserve">
+    <value>Als u vragen heeft over deze Voorwaarden, neem dan contact op met ons bestuursteam via:</value>
+  </data>
+  <data name="In no event shall Aiursoft&apos;s aggregate liability for all claims related to the services exceed the total amount paid by you to Aiursoft for the specific service in the twelve (12) months preceding the claim." xml:space="preserve">
+    <value>In geen geval zal de totale aansprakelijkheid van Aiursoft voor alle claims die betrekking hebben op de diensten de totale hoeveelheid die u hebt betaald aan Aiursoft voor de specifieke dienst in de twaalf (12) maanden vóór de claim overschrijden.</value>
+  </data>
+  <data name="Last Updated: March 2026" xml:space="preserve">
+    <value>Laatst bijgewerkt: maart 2026</value>
+  </data>
+  <data name="No Pro-Rated Refunds:" xml:space="preserve">
+    <value>Geen pro-rata restituties:</value>
+  </data>
+  <data name="On-Premise Plans (e.g., Startup, Custom Enterprise):" xml:space="preserve">
+    <value>On-Premise Plannen (bijv. Startup, Aangepaste Enterprise):</value>
+  </data>
+  <data name="One-Time Setup Fees:" xml:space="preserve">
+    <value>Eenmalige installatiekosten:</value>
+  </data>
+  <data name="Payment Processing:" xml:space="preserve">
+    <value>Betalingsverwerking:</value>
+  </data>
+  <data name="Per-User Billing:" xml:space="preserve">
+    <value>Per-gebruiker facturering:</value>
+  </data>
+  <data name="Subscription fees are calculated based on the number of active users/accounts managed within your Aiursoft Identity Gateway per billing cycle." xml:space="preserve">
+    <value>Abonnements kosten worden berekend op basis van het aantal actieve gebruikers/accounts die binnen uw Aiursoft Identity Gateway per facturatiecyclus worden beheerd.</value>
+  </data>
+  <data name="Taxes:" xml:space="preserve">
+    <value>Belastingen:</value>
+  </data>
+  <data name="Terms of Service &amp; Subscription Agreement" xml:space="preserve">
+    <value>Algemene voorwaarden &amp; Abonnementsovereenkomst</value>
+  </data>
+  <data name="The Aiursoft brand, logos, website design, and proprietary deployment scripts (e.g., Aiursoft Template orchestrations) are the intellectual property of AIURSOFT LIMITED. The underlying open-source software remains the property of their respective creators and is provided to you under their specific open-source licenses." xml:space="preserve">
+    <value>Het Aiursoft merk, logo’s, websiteontwerp en eigendom van de implementatiescripts (bijv. Aiursoft Template orchestraties) zijn intellectueel eigendom van AIURSOFT LIMITED. De onderliggende open-source software blijft eigendom van hun respectievelijke makers en wordt u aangeboden onder hun specifieke open-sourcelicenties.</value>
+  </data>
+  <data name="The Service is Commercial:" xml:space="preserve">
+    <value>De Dienst is Commercieel:</value>
+  </data>
+  <data name="The software is deployed on your local servers or private cloud. You retain absolute physical control and ownership of your data (&quot;Own Your Data&quot;). Consequently, you are solely responsible for your underlying hardware, local network security, physical access control, and disaster recovery backups. Aiursoft&apos;s responsibility is limited to software-level maintenance, container updates, and technical support as defined in your plan." xml:space="preserve">
+    <value>De software wordt geïmplementeerd op uw lokale servers of private cloud. U behoudt absolute fysieke controle en eigendom over uw gegevens (&quot;Own Your Data&quot;). Daarom bent u uitsluitend verantwoordelijk voor uw onderliggende hardware, lokale netwerkbeveiliging, fysieke toegangsbeheer en back-ups voor noodherstel. De verantwoordelijkheid van Aiursoft is beperkt tot onderhoud op softwareniveau, updates van containers en technische ondersteuning zoals gedefinieerd in uw abonnement.</value>
+  </data>
+  <data name="The Software is Free:" xml:space="preserve">
+    <value>De software is gratis:</value>
+  </data>
+  <data name="The underlying open-source codes are subject to their respective licenses (e.g., MIT, GPL). You are free to inspect, modify, and distribute the code as permitted by those licenses." xml:space="preserve">
+    <value>De onderliggende open-source code is onderworpen aan de respectievelijke licenties (bijv. MIT, GPL). U mag de code vrij inspecteren, wijzigen en verspreiden, zoals toegestaan door die licenties.</value>
+  </data>
+  <data name="These Terms of Service (&quot;Terms&quot;) govern your access to and use of the Aiursoft website, products, and subscription services, including but not limited to Aiursoft Substrate (Core, Startup, and Enterprise plans) (collectively, the &quot;Services&quot;). By registering for an account or purchasing a subscription, you agree to be bound by these Terms." xml:space="preserve">
+    <value>De Algemene Voorwaarden (&quot;Voorwaarden&quot;) regelen uw toegang tot en gebruik van de Aiursoft-website, producten en abonnementsdiensten, met inbegrip van maar niet beperkt tot Aiursoft Substrate (Core, Startup en Enterprise-abonnementen) (collectief de &quot;Diensten&quot;). Door u aan te melden voor een account of een abonnement te kopen, gaat u akkoord met deze Voorwaarden.</value>
+  </data>
+  <data name="These Terms shall be governed by and construed in accordance with the laws of the Hong Kong Special Administrative Region, without regard to its conflict of law provisions." xml:space="preserve">
+    <value>Deze Algemene Voorwaarden worden beheerst door en geïnterpreteerd in overeenstemming met de wetgeving van de Speciale Administratieve Regio Hongkong, zonder rekening te houden met zijn bepalingen inzake botsende wetten.</value>
+  </data>
+  <data name="To ensure uninterrupted service, our commercial plans operate on a recurring subscription basis." xml:space="preserve">
+    <value>Om ononderbroken service te waarborgen, verlopen onze commerciële abonnementen op basis van een herhalende abonnementsbasis.</value>
+  </data>
+  <data name="To the maximum extent permitted by law, Aiursoft Limited shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses, resulting from:" xml:space="preserve">
+    <value>In de mate toegestaan door de wet, kan Aiursoft Limited niet aansprakelijk worden gesteld voor enige indirecte, incidentele, bijzondere, gevolgschade of strafschade, noch voor enige verlies van winst of omzet, ofwel rechtstreeks of onrechtstreeks ondervonden, noch voor enig verlies van gegevens, gebruik, goede naam of andere immateriële schade, voortvloeiend uit:</value>
+  </data>
+  <data name="Use our Cloud-Hosted email services (Mailcow) to send unsolicited spam or conduct phishing campaigns. Violation of this rule will result in immediate account termination without refund." xml:space="preserve">
+    <value>Gebruik onze cloudgehoste e-mailservices (Mailcow) om ongevraagde spam te verzenden of phishingcampagnes uit te voeren. Inbreuk op deze regel leidt tot onmiddellijke accountbeëindiging zonder restitutie.</value>
+  </data>
+  <data name="Use the Services to conduct any illegal, fraudulent, or malicious activities." xml:space="preserve">
+    <value>Gebruik de Diensten niet om illegale, fraudeus of schadelijke activiteiten uit te voeren.</value>
+  </data>
+  <data name="We do not provide refunds or credits for any partial-month subscription periods, or for user accounts that were provisioned but remained inactive." xml:space="preserve">
+    <value>Wij verlenen geen restituties of tegoeden voor gedeeltelijke maandabonnementen, noch voor gebruikersaccounts die zijn ingericht maar ongebruikt zijn gebleven.</value>
+  </data>
+  <data name="We may revise these Terms from time to time to better reflect changes to the law, new regulatory requirements, or improvements made to our Services. If an update affects your use of the Services or your legal rights as a user of our Services, we’ll notify you prior to the update&apos;s effective date by sending an email to the account owner." xml:space="preserve">
+    <value>Wij kunnen deze Voorwaarden van tijd tot tijd herzien om beter te kunnen aansluiten bij veranderingen in de wetgeving, nieuwe regelgevingsvereisten of verbeteringen aan onze Diensten. Als een update uw gebruik van de Diensten of uw wettelijke rechten als gebruiker van onze Diensten beïnvloedt, zullen wij u vooraf op de effectieve datum van de update informeren door een e-mail te sturen naar de eigenaar van het account.</value>
+  </data>
+  <data name="We offer different tiers of deployment to suit your business needs:" xml:space="preserve">
+    <value>Wij bieden verschillende niveaus van implementatie aan, afhankelijk van uw zakelijke behoeften:</value>
+  </data>
+  <data name="Welcome to Aiursoft. We are dedicated to bringing the spirit of open-source and free software to every enterprise and individual." xml:space="preserve">
+    <value>Welkom bij Aiursoft. Wij zijn toegewijd aan het brengen van de geest van open-source en gratis software naar elk bedrijf en elk individu.</value>
+  </data>
+  <data name="What you are purchasing from Aiursoft is the hosting, automated deployment, maintenance, priority support, and enterprise integration of these tools." xml:space="preserve">
+    <value>Wat u van Aiursoft koopt, is het hosten, automatische implementatie, onderhoud, prioriteitsondersteuning en enterprise-integratie van deze tools.</value>
+  </data>
+  <data name="You agree not to misuse the Services or help anyone else to do so. You must not:" xml:space="preserve">
+    <value>U gaat ermee akkoord dat u de Diensten niet misbruikt of iemand anders hielp om dit te doen. U mag niet:</value>
+  </data>
+  <data name="You may cancel your subscription at any time through your Aiursoft Billing Dashboard or by contacting our support team." xml:space="preserve">
+    <value>U kunt uw abonnement op elk moment annuleren via uw Aiursoft Billing Dashboard of door contact op te nemen met ons supportteam.</value>
+  </data>
+  <data name="Your access to or use of or inability to access or use the Services." xml:space="preserve">
+    <value>Uw toegang tot of gebruik van of onvermogen om toegang te krijgen tot of gebruik te maken van de Diensten.</value>
+  </data>
+  <data name="Your subscription will automatically renew at the end of each billing cycle (monthly or annually) unless you cancel it prior to the renewal date. You authorize us (via Stripe) to charge the applicable subscription fees to your payment method on file." xml:space="preserve">
+    <value>Uw abonnement wordt automatisch verlengd aan het einde van elke facturatiecyclus (maandelijks of jaarlijks), tenzij u het annuleert voordat de verlengingsdatum komt. U geeft toestemming dat wij (via Stripe) de toepasselijke abonnementskosten in rekening brengen bij uw opgeslagen betaalmethode.</value>
+  </data>
+
+</root>
