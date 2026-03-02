@@ -36,6 +36,12 @@
   <data name="The {0} must be at least {2} and at max {1} characters long." xml:space="preserve">
     <value>{0} 的長度必須至少為 {2} 個字符，最多為 {1} 個字符。</value>
   </data>
+  <data name="The {0} must be less than {1} characters." xml:space="preserve">
+    <value>{0} 必須少於 {1} 個字元。</value>
+  </data>
+  <data name="The {0} must be more than {1} characters." xml:space="preserve">
+    <value>{0} 必須多於 {1} 個字元。</value>
+  </data>
   <data name="User name" xml:space="preserve">
     <value>用戶名稱</value>
   </data>

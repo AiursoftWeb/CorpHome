@@ -24,6 +24,12 @@
   <data name="Name" xml:space="preserve">
     <value>Name</value>
   </data>
+  <data name="The {0} must be less than {1} characters." xml:space="preserve">
+    <value>The {0} must be less than {1} characters.</value>
+  </data>
+  <data name="The {0} must be more than {1} characters." xml:space="preserve">
+    <value>The {0} must be more than {1} characters.</value>
+  </data>
   <data name="The avatar file is invalid. Please upload it again." xml:space="preserve">
     <value>The avatar file is invalid. Please upload it again.</value>
   </data>

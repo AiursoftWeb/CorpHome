@@ -30,11 +30,20 @@
   <data name="Reset Password (leave empty to keep the same password)" xml:space="preserve">
     <value>Đặt lại mật khẩu (để trống nếu muốn giữ nguyên mật khẩu hiện tại)</value>
   </data>
+  <data name="The {0} is invalid. Please upload it again." xml:space="preserve">
+    <value>{0} không hợp lệ. Vui lòng tải lại.</value>
+  </data>
   <data name="The {0} is not a valid email address." xml:space="preserve">
     <value>{0} không phải là một địa chỉ email hợp lệ.</value>
   </data>
   <data name="The {0} is required." xml:space="preserve">
     <value>{0} là bắt buộc.</value>
+  </data>
+  <data name="The {0} must be less than {1} characters." xml:space="preserve">
+    <value>{0} phải có ít hơn {1} ký tự.</value>
+  </data>
+  <data name="The {0} must be more than {1} characters." xml:space="preserve">
+    <value>{0} phải có nhiều hơn {1} ký tự.</value>
   </data>
   <data name="The avatar file is invalid. Please upload it again." xml:space="preserve">
     <value>Tập tin avatar không hợp lệ. Vui lòng tải lên lại.</value>

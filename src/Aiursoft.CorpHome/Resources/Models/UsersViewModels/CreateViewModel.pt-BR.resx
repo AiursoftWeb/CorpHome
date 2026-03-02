@@ -36,6 +36,12 @@
   <data name="The {0} must be at least {2} and at max {1} characters long." xml:space="preserve">
     <value>O {0} deve ter pelo menos {2} e no máximo {1} caracteres.</value>
   </data>
+  <data name="The {0} must be less than {1} characters." xml:space="preserve">
+    <value>O {0} deve ter menos de {1} caracteres.</value>
+  </data>
+  <data name="The {0} must be more than {1} characters." xml:space="preserve">
+    <value>O {0} deve ter mais de {1} caracteres.</value>
+  </data>
   <data name="User name" xml:space="preserve">
     <value>Nome de usuário</value>
   </data>

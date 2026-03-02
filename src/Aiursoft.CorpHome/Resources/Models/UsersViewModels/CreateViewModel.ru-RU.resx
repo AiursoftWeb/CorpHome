@@ -36,6 +36,12 @@
   <data name="The {0} must be at least {2} and at max {1} characters long." xml:space="preserve">
     <value>Поле {0} должно содержать не менее {2} и не более {1} символов.</value>
   </data>
+  <data name="The {0} must be less than {1} characters." xml:space="preserve">
+    <value>{0} должно содержать менее {1} символов.</value>
+  </data>
+  <data name="The {0} must be more than {1} characters." xml:space="preserve">
+    <value>{0} должен содержать более {1} символов.</value>
+  </data>
   <data name="User name" xml:space="preserve">
     <value>Имя пользователя</value>
   </data>

@@ -36,6 +36,12 @@
   <data name="The {0} must be at least {2} and at max {1} characters long." xml:space="preserve">
     <value>Het {0} moet minimaal {2} en maximaal {1} tekens lang zijn.</value>
   </data>
+  <data name="The {0} must be less than {1} characters." xml:space="preserve">
+    <value>{0} moet minder dan {1} tekens bevatten.</value>
+  </data>
+  <data name="The {0} must be more than {1} characters." xml:space="preserve">
+    <value>{0} moet meer dan {1} tekens bevatten.</value>
+  </data>
   <data name="User name" xml:space="preserve">
     <value>Gebruikersnaam</value>
   </data>
