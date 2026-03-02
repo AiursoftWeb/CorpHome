@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="1. The Aiursoft Privacy Philosophy" xml:space="preserve">
+    <value>1. فلسفة خصوصية آيورسوفت</value>
+  </data>
+  <data name="2. Core Distinction: Data Controller vs. Data Processor" xml:space="preserve">
+    <value>2. الفرق الجوهري: جهة التحكم في البيانات مقابل جهة معالجة البيانات</value>
+  </data>
+  <data name="3. What Data We Actually Collect" xml:space="preserve">
+    <value>3. ما البيانات التي نجمعها فعليًا</value>
+  </data>
+  <data name="4. How We Use Your Data" xml:space="preserve">
+    <value>4. كيف نستخدم بياناتك</value>
+  </data>
+  <data name="5. Data Sharing and Third-Party Sub-Processors" xml:space="preserve">
+    <value>5. مشاركة البيانات ومقاولين ثانويين من طرف ثالث</value>
+  </data>
+  <data name="6. Data Retention and Deletion" xml:space="preserve">
+    <value>6. الاحتفاظ بالبيانات والحذف</value>
+  </data>
+  <data name="7. Your Data Rights" xml:space="preserve">
+    <value>7. حقوقك في البيانات</value>
+  </data>
+  <data name="8. Contact Us" xml:space="preserve">
+    <value>8. اتصل بنا</value>
+  </data>
+  <data name="Account Information:" xml:space="preserve">
+    <value>معلومات الحساب:</value>
+  </data>
+  <data name="AIURSOFT LIMITED" xml:space="preserve">
+    <value>AIURSOFT LIMITED</value>
+  </data>
+  <data name="Aiursoft Privacy Policy" xml:space="preserve">
+    <value>سياسة خصوصية Aiursoft</value>
+  </data>
+  <data name="At Aiursoft, our foundational mission is to bring the spirit of open-source and free software to every enterprise and individual. This commitment to freedom inherently extends to your privacy and data sovereignty. We believe that your data belongs exclusively to you." xml:space="preserve">
+    <value>في شركة Aiursoft، مهمتنا الأساسية هي نقل روح البرمجيات المفتوحة المصدر والبرمجيات الحرة إلى كل شركة وفرد. يمتد التزامنا بالحرية تلقائيًا إلى خصوصيتك وسيادة بياناتك. نؤمن أن بياناتك تعود حصريًا لك.</value>
+  </data>
+  <data name="Beyond these essential operational partners, Aiursoft will never disclose your data to any third party, including government entities, unless legally compelled to do so by a valid, binding court order or subpoena originating from a competent jurisdiction." xml:space="preserve">
+    <value>بالإضافة إلى هذه الشركاء التشغيليين الأساسيين، لن تُفصح Aiursoft عن بياناتك لأي طرف ثالث، بما في ذلك الكيانات الحكومية، إلا إذا تم إلزامها قانونًا بذلك بموجب أمر قضائي سارٍ وملزم أو استدعاء قانوني صادر من محكمة ذات صلاحية.</value>
+  </data>
+  <data name="Billing and Payment Data:" xml:space="preserve">
+    <value>بيانات الفوترة والدفع:</value>
+  </data>
+  <data name="Communication:" xml:space="preserve">
+    <value>الاتصال:</value>
+  </data>
+  <data name="Company Entity:" xml:space="preserve">
+    <value>الكيان القانوني:</value>
+  </data>
+  <data name="Company Entity: AIURSOFT LIMITED (Hong Kong)" xml:space="preserve">
+    <value>الكيان القانوني: AIURSOFT LIMITED (هونغ كونغ)</value>
+  </data>
+  <data name="Crucially, AIURSOFT LIMITED does not collect, process, or store your full credit card numbers or sensitive financial instruments on our servers. All payment transactions are securely handled by our PCI-DSS compliant third-party payment processor, Stripe, Inc. We only receive and retain non-sensitive billing information from Stripe, such as your billing address, subscription status, and the last four digits of your payment card, strictly for the purposes of issuing invoices, managing your active subscriptions, and complying with financial record-keeping laws." xml:space="preserve">
+    <value>بشكل حاسم، لا تقوم شركة AIURSOFT LIMITED بجمع أو معالجة أو تخزين أرقام بطاقات الائتمان الكاملة أو الأدوات المالية الحساسة على خوادمنا. يتم التعامل مع جميع معاملات الدفع بشكل آمن من خلال معالج الدفع الخارجي المُعتمد على معيار PCI-DSS، شركة Stripe, Inc. نحن نتلقى ونحتفظ فقط بمعلومات فاتورة غير حساسة من Stripe، مثل عنوان الفاتورة، وحالة الاشتراك، وأخر أربعة أرقام من بطاقة الدفع، وذلك فقط للأغراض التالية: إصدار الفواتير، وإدارة الاشتراكات النشطة، والامتثال لقوانين الحفاظ على السجلات المالية.</value>
+  </data>
+  <data name="During Active Subscription:" xml:space="preserve">
+    <value>خلال الاشتراك النشط:</value>
+  </data>
+  <data name="Email:" xml:space="preserve">
+    <value>البريد الإلكتروني:</value>
+  </data>
+  <data name="Exclusively for secure payment processing and subscription management." xml:space="preserve">
+    <value>بالاستخدام الحصري لمعالجة الدفعات الآمنة وإدارة الاشتراكات.</value>
+  </data>
+  <data name="For Cloud-Hosted Plans (e.g., Aiursoft Substrate S1 Core):" xml:space="preserve">
+    <value>لخطط الاستضافة السحابية (مثل Aiursoft Substrate S1 Core):</value>
+  </data>
+  <data name="For on-premise deployments, cancellation simply terminates our support and update services. Your data remains entirely intact on your own servers, under your complete control." xml:space="preserve">
+    <value>بالنسبة للنشرات الميدانية، فإن الإلغاء ينتهي ببساطة بخدمات الدعم والتحديث الخاصة بنا. تبقى بياناتك سليمة تمامًا على خوادمك الخاصة، تحت سيطرتك الكاملة.</value>
+  </data>
+  <data name="For On-Premise Plans (e.g., Aiursoft Substrate S3 Startup &amp; S5 Enterprise):" xml:space="preserve">
+    <value>لخطط المقر المخصص (مثل: Aiursoft Substrate S3 Startup و S5 Enterprise):</value>
+  </data>
+  <data name="For provisioning the underlying high-performance cloud infrastructure that powers our official websites and Cloud-Hosted (S1 Core) client instances." xml:space="preserve">
+    <value>لتهيئة البنية التحتية السحابية عالية الأداء الأساسية التي تُشغل مواقعنا الرسمية وInstances العملاء السحابية (S1 Core)</value>
+  </data>
+  <data name="If you choose to cancel a Cloud-Hosted subscription, your account will remain active until the end of the current billing cycle. Following the expiration of your subscription, we observe a strict 30-day grace period. After this 30-day period, all of your associated business data (emails, files, databases) will be permanently, irreversibly, and securely hard-deleted from our hosting infrastructure. We cannot recover data once this deletion process has occurred." xml:space="preserve">
+    <value>إذا قررت إلغاء اشتراك مُستضاف في السحابة، فسيظل حسابك نشطًا حتى نهاية دورة الفوترة الحالية. بعد انتهاء صلاحية اشتراكك، نُطبّق فترة سماح صارمة مدتها 30 يومًا. وبعد هذه الفترة البالغة 30 يومًا، سيتم حذف جميع بيانات عملك المرتبطة بك (البريد الإلكتروني، الملفات، قواعد البيانات) بشكل دائم وغير قابل للعكس وبطريقة آمنة من هيكلنا التخزيني. لا يمكننا استرجاع البيانات بعد اكتمال عملية الحذف.</value>
+  </data>
+  <data name="If you have any questions, concerns, or requests regarding this Privacy Policy or our data handling practices, please contact our executive team:" xml:space="preserve">
+    <value>إذا كانت لديك أي أسئلة أو مخاوف أو طلبات تتعلق بسياسة الخصوصية هذه أو ممارساتنا في التعامل مع البيانات، يُرجى التواصل مع فريق الإدارة التنفيذي لدينا:</value>
+  </data>
+  <data name="In accordance with global privacy standards, including the principles outlined in regulations such as the GDPR and the Hong Kong Personal Data (Privacy) Ordinance (PDPO), you possess the following rights regarding your personal data held by Aiursoft:" xml:space="preserve">
+    <value>وفقًا للمعايير العالمية للخصوصية، بما في ذلك المبادئ الموضحة في اللوائح مثل GDPR وقانون البيانات الشخصية (الخصوصية) في هونغ كونغ (PDPO)، تمتلك الحقوق التالية فيما يتعلق ببياناتك الشخصية التي تحتفظ بها شركة Aiursoft:</value>
+  </data>
+  <data name="Last Updated: March 2026" xml:space="preserve">
+    <value>آخر تحديث: مارس 2026</value>
+  </data>
+  <data name="Minimal Data Collection:" xml:space="preserve">
+    <value>الحد الأدنى من جمع البيانات:</value>
+  </data>
+  <data name="No Data Selling:" xml:space="preserve">
+    <value>عدم بيع البيانات:</value>
+  </data>
+  <data name="No Hidden Telemetry:" xml:space="preserve">
+    <value>لا تحليل خفي للبيانات:</value>
+  </data>
+  <data name="Our software solutions are designed without concealed telemetry, advertising trackers, or behavioral profiling mechanisms." xml:space="preserve">
+    <value>تم تصميم حلول برامجنا بدون تلِمِتْري خفي، أو مُتَتبعات إعلانات، أو آليات تحليل السلوك.</value>
+  </data>
+  <data name="Right to Access:" xml:space="preserve">
+    <value>الحق في الوصول:</value>
+  </data>
+  <data name="Right to Erasure (The &quot;Right to be Forgotten&quot;):" xml:space="preserve">
+    <value>الحق في الحذف (الحق في النسيان):</value>
+  </data>
+  <data name="Right to Rectification:" xml:space="preserve">
+    <value>الحق في التصحيح:</value>
+  </data>
+  <data name="Service Provisioning:" xml:space="preserve">
+    <value>توفير الخدمة:</value>
+  </data>
+  <data name="Strict Prohibition on AI Training:" xml:space="preserve">
+    <value>حظر صارم لتدريب الذكاء الاصطناعي:</value>
+  </data>
+  <data name="Stripe, Inc.:" xml:space="preserve">
+    <value>Stripe, Inc.:</value>
+  </data>
+  <data name="Technical and Diagnostic Data:" xml:space="preserve">
+    <value>بيانات فنية وتشخيصية:</value>
+  </data>
+  <data name="The limited data we do collect is utilized solely for the following legitimate business purposes:" xml:space="preserve">
+    <value>البيانات المحدودة التي نجمعها تُستخدم حصريًا لأغراض عمل مشروعة تالية:</value>
+  </data>
+  <data name="To clearly understand how your data is handled, it is crucial to differentiate between the types of deployment plans we offer, as our legal and technical relationship to your data changes significantly based on your chosen architecture:" xml:space="preserve">
+    <value>لفهم كيفية تعاملنا مع بياناتك بوضوح، من الضروري التمييز بين أنواع خطط النشر التي نقدمها، لأن علاقتنا القانونية والفنية ببياناتك تتغير بشكل كبير حسب البنية المختارة من قبلك:</value>
+  </data>
+  <data name="To create your account, configure your chosen deployment (whether cloud-hosted or coordinating on-premise setup), and authenticate your access." xml:space="preserve">
+    <value>لإنشاء حسابك، قم بتكوين النشر المختار (إما عبر خدمة سحابية أو إعداد مركزي ميداني)، ثم قم بالتحقق من الوصول.</value>
+  </data>
+  <data name="To exercise any of these rights, please contact us using the information provided below or manage your preferences directly within your Aiursoft account dashboard." xml:space="preserve">
+    <value>لتمكينك من ممارسة أي من هذه الحقوق، يُرجى التواصل معنا باستخدام المعلومات المقدمة أدناه أو إدارة تفضيلاتك مباشرةً من خلال لوحة تحكم حسابك في Aiursoft.</value>
+  </data>
+  <data name="To facilitate our business relationship and manage your subscriptions, we collect the following limited categories of information:" xml:space="preserve">
+    <value>لتسهيل علاقتنا التجارية وإدارة اشتراكاتك، نجمع الفئات المحدودة التالية من المعلومات:</value>
+  </data>
+  <data name="To facilitate subscription billing and process payments securely via Stripe." xml:space="preserve">
+    <value>لتسهيل فوترة الاشتراك ومعالجة المدفوعات بشكل آمن عبر سترايب.</value>
+  </data>
+  <data name="To send you critical system notifications (such as scheduled maintenance alerts or downtime warnings), billing receipts, and responses to your technical support inquiries." xml:space="preserve">
+    <value>لإرسال إشعارات النظام الحرجة إليك (مثل إشعارات الصيانة المجدولة أو تحذيرات التوقف)، وإيصالات الفواتير، واستجابات استفسارات الدعم الفني الخاصة بك.</value>
+  </data>
+  <data name="Transaction Processing:" xml:space="preserve">
+    <value>معالجة المعاملات:</value>
+  </data>
+  <data name="Upon Cancellation (Cloud-Hosted Plans):" xml:space="preserve">
+    <value>عند الإلغاء (خطط الاستضافة السحابية):</value>
+  </data>
+  <data name="Upon Cancellation (On-Premise Plans):" xml:space="preserve">
+    <value>عند الإلغاء (خطط المُنشأة المحلية):</value>
+  </data>
+  <data name="Voxihost:" xml:space="preserve">
+    <value>Voxihost:</value>
+  </data>
+  <data name="We are unequivocally committed to the following principles:" xml:space="preserve">
+    <value>نحن ملتزمون التزامًا قاطعًا بالمبادئ التالية:</value>
+  </data>
+  <data name="We categorically state that your private data, documents, and communications are never used to train our AI models or any third-party Large Language Models (LLMs). Our AI solutions, particularly in the Custom Enterprise tier, are designed to run locally and train exclusively on data you explicitly provide within your secure environment." xml:space="preserve">
+    <value>نُصرّ على أن بياناتك الخاصة، والمستندات، والاتصالات لا تُستخدم أبدًا في تدريب نماذج الذكاء الاصطناعي الخاصة بنا أو أي نماذج لغوية ضخمة (LLMs) من طرف ثالث. تم تصميم حلول الذكاء الاصطناعي لدينا، وخاصةً في الطبقة المخصصة للشركات، لتعمل محليًا وتدرب فقط على البيانات التي تُزود بها صراحةً داخل بيئة أمنة تتحكم فيها.</value>
+  </data>
+  <data name="We collect only the absolute minimum data necessary to provide you with secure, reliable, and functional services." xml:space="preserve">
+    <value>نقوم بجمع أقل كمية ممكنة من البيانات اللازمة لتقديم خدمات آمنة وموثوقة وفعالة لك.</value>
+  </data>
+  <data name="We do not share your personal information with external parties except where absolutely necessary to deliver our services. To operate effectively, we utilize the following trusted third-party sub-processors:" xml:space="preserve">
+    <value>نحن لا نشارك معلوماتك الشخصية مع أطراف خارجية إلا عند الضرورة القصوى لتقديم خدماتنا. لضمان الأداء الفعّال، نستخدم المُعالجين الثانويين الموثوقين التاليين:</value>
+  </data>
+  <data name="We do not, and will never, sell, rent, or lease your personal or business data to third parties." xml:space="preserve">
+    <value>نحن لا نبيع، ولا نستأجر، ولا نستأجِر بياناتك الشخصية أو التجارية لأطراف ثالثة، أبدًا.</value>
+  </data>
+  <data name="We securely retain your account and hosted data for the duration of your active subscription to ensure continuous service delivery." xml:space="preserve">
+    <value>نحتفظ بأمان بحسابك والبيانات المضمنة لديك طوال مدة اشتراكك النشط لضمان استمرارية تقديم الخدمة.</value>
+  </data>
+  <data name="When you elect to deploy our solutions on your own local servers or private cloud environments, You are in absolute control. In these deployments, Aiursoft has Zero Access to your physical servers, networks, files, emails, or locally constructed AI knowledge bases. Because the data physically resides within your perimeter, we cannot collect, view, or process it. Your privacy is guaranteed by physical and network isolation." xml:space="preserve">
+    <value>عندما تختار نشر حلولنا على خوادمك المحلية أو بيئات السحابة الخاصة بك، فأنت تملك السيطرة المطلقة. في هذه النشرات، لا يمتلك Aiursoft أي وصول إلى خوادمك المادية، أو شبكاتك، أو ملفاتك، أو بريدك الإلكتروني، أو قواعد المعرفة الذكية الاصطناعية التي تُنشَأ محليًا. وبما أن البيانات توجد فعليًا داخل حدودك، فلا يمكننا جمعها أو عرضها أو معالجتها. تُضمن خصوصيتك من خلال العزل المادي والشبكي.</value>
+  </data>
+  <data name="When you register for an Aiursoft commercial account or engage with our sales team, we collect necessary contact details, including your name, your work email address, and your company name. This information is used strictly for account administration and communication." xml:space="preserve">
+    <value>عندما تسجل حسابًا تجاريًا مع Aiursoft أو تتواصل مع فريق المبيعات لدينا، نقوم بجمع التفاصيل الاتصالية الضرورية، بما في ذلك اسمك وعنوان بريدك الإلكتروني المهني واسم شركتك. تُستخدم هذه المعلومات بشكل صارم لأغراض إدارة الحساب والاتصال.</value>
+  </data>
+  <data name="When you utilize our cloud-hosted infrastructure (such as Mailcow, Nextcloud, or Authentik instances managed on our servers), AIURSOFT LIMITED acts as a Data Processor. You remain the Data Controller. We host and maintain the infrastructure to ensure uptime and security, but our personnel possess absolutely zero access to your underlying business data (e.g., the contents of your emails, your stored files, or your internal chat logs) unless you explicitly grant us temporary, revocable access for the sole purpose of resolving a technical support ticket you have initiated." xml:space="preserve">
+    <value>عند استخدامك لبنية لدينا المستضافة في السحابة (مثل مثيلات Mailcow أو Nextcloud أو Authentik التي يتم إدارتها على خوادمنا)، تُعتبر شركة AIURSOFT LIMITED مُعالِج بيانات. أنت تبقى المُسيطر على البيانات. نحن نستضيف ونُحافظ على البنية التحتية لضمان التوفر والأمان، ولكن موظفينا لا يمتلكون أي وصول مطلقًا إلى بياناتك التجارية الأساسية (مثل محتويات بريدك الإلكتروني، أو ملفاتك المخزنة، أو سجلات الدردشة الداخلية) إلا إذا منحتنا صلاحية مؤقتة قابلة للإلغاء بشكل صريح، وبغرض واحد فقط هو حل تذكرة دعم تقني قمت بتحديثها.</value>
+  </data>
+  <data name="When you visit our public-facing websites (e.g., aiursoft.com), our web servers automatically log standard technical information, such as your IP address, browser type, and access times. This data is utilized exclusively for security monitoring (e.g., preventing DDoS attacks), ensuring the stability of our web infrastructure, and basic, anonymized traffic analysis. We do not employ invasive third-party tracking cookies for behavioral advertising." xml:space="preserve">
+    <value>عند زيارة مواقعنا الإلكترونية المفتوحة للجمهور (مثل aiursoft.com)، يقوم خوادم الويب الخاصة بنا تلقائيًا بتسجيل معلومات تقنية قياسية، مثل عنوان IP الخاص بك ونوع المتصفح ووقت الوصول. تُستخدم هذه البيانات حصريًا لمراقبة الأمان (مثل منع هجمات DDoS)، وضمان استقرار البنية التحتية الخاصة بنا، وتحليل حركة المرور الأساسي والمحذوفة الهوية. لا نستخدم ملفات تعريف الارتباط الخارجية الغازية لمراقبة السلوك الإعلاني.</value>
+  </data>
+  <data name="You may request a copy of the personal data we hold about you." xml:space="preserve">
+    <value>يمكنك طلب نسخة من البيانات الشخصية التي نحتفظ بها عنك.</value>
+  </data>
+  <data name="You may request that we correct any inaccurate or incomplete personal data." xml:space="preserve">
+    <value>يمكنك طلب تصحيح أي بيانات شخصية غير دقيقة أو غير كاملة.</value>
+  </data>
+  <data name="You may request the complete deletion of your account and associated personal data from our systems, subject to our retention policies for cancelled subscriptions and legal compliance requirements." xml:space="preserve">
+    <value>يمكنك طلب حذف حسابك والبيانات الشخصية المرتبطة به من أنظمتنا بالكامل، وفقًا لسياسات الاحتفاظ لدينا بالنسبة للاشتراكات الملغاة والمتطلبات القانونية المعمول بها.</value>
+  </data>
+
+</root>
