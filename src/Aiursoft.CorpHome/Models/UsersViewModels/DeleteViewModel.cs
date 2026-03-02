@@ -1,4 +1,3 @@
-using Aiursoft.CorpHome.Entities;
 using Aiursoft.UiStack.Layout;
 
 namespace Aiursoft.CorpHome.Models.UsersViewModels;
@@ -10,5 +9,5 @@ public class DeleteViewModel : UiStackLayoutViewModel
         PageTitle = "Delete User";
     }
 
-    public required User User { get; set; }
+    public required UserDisplayViewModel User { get; set; }
 }

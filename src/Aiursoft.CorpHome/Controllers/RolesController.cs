@@ -3,6 +3,7 @@ using Aiursoft.CorpHome.Authorization;
 using Aiursoft.CorpHome.Entities;
 using Aiursoft.CorpHome.Models.RolesViewModels;
 using Aiursoft.CorpHome.Services;
+using UserDisplayViewModel = Aiursoft.CorpHome.Models.UsersViewModels.UserDisplayViewModel;
 using Aiursoft.UiStack.Navigation;
 using Aiursoft.WebTools.Attributes;
 using Microsoft.AspNetCore.Authorization;
@@ -64,7 +65,11 @@ public class RolesController(
 
             return new IdentityRoleWithCount
             {
-                Role = role,
+                Role = new RoleDisplayViewModel
+                {
+                    Id = role.Id,
+                    Name = role.Name!
+                },
                 UserCount = roleUserCounts.GetValueOrDefault(role.Id, 0),
                 PermissionCount = matchedPermissions.Count,
                 PermissionNames = matchedPermissions.Select(p => p.Name).ToList()
@@ -99,9 +104,20 @@ public class RolesController(
 
         return this.StackView(new DetailsViewModel
         {
-            Role = role,
+            Role = new RoleDisplayViewModel
+            {
+                Id = role.Id,
+                Name = role.Name!
+            },
             Permissions = permissions,
-            UsersInRole = usersInRole
+            UsersInRole = usersInRole.Select(u => new UserDisplayViewModel
+            {
+                Id = u.Id,
+                UserName = u.UserName!,
+                DisplayName = u.DisplayName,
+                Email = u.Email!,
+                AvatarRelativePath = u.AvatarRelativePath
+            }).ToList()
         });
     }
 
@@ -231,7 +247,11 @@ public class RolesController(
 
         return this.StackView(new DeleteViewModel
         {
-            Role = role
+            Role = new RoleDisplayViewModel
+            {
+                Id = role.Id,
+                Name = role.Name!
+            }
         });
     }
 
