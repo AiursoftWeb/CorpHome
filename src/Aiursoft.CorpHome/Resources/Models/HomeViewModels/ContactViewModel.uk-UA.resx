@@ -48,6 +48,12 @@
   <data name="Organization Size" xml:space="preserve">
     <value>Розмір організації</value>
   </data>
+  <data name="The {0} is not a valid email address." xml:space="preserve">
+    <value>{0} — не валідна електронна адреса.</value>
+  </data>
+  <data name="The {0} is required." xml:space="preserve">
+    <value>Поле {0} є обов&apos;язковим.</value>
+  </data>
   <data name="What services do you provide?" xml:space="preserve">
     <value>Які послуги ви надаєте?</value>
   </data>

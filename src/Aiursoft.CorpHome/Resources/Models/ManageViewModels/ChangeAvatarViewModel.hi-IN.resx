@@ -24,6 +24,12 @@
   <data name="Name" xml:space="preserve">
     <value>नाम</value>
   </data>
+  <data name="The {0} must be less than {1} characters." xml:space="preserve">
+    <value>{0} में {1} अक्षरों से कम होने चाहिए।</value>
+  </data>
+  <data name="The {0} must be more than {1} characters." xml:space="preserve">
+    <value>{0} में {1} वर्णों से अधिक होने चाहिए।</value>
+  </data>
   <data name="The avatar file is invalid. Please upload it again." xml:space="preserve">
     <value>अवतार फ़ाइल अमान्य है। कृपया इसे फिर से अपलोड करें।</value>
   </data>

@@ -24,6 +24,12 @@
   <data name="Name" xml:space="preserve">
     <value>Nimi</value>
   </data>
+  <data name="The {0} must be less than {1} characters." xml:space="preserve">
+    <value>{0} saa olla enintään {1} merkkiä.</value>
+  </data>
+  <data name="The {0} must be more than {1} characters." xml:space="preserve">
+    <value>{0} on oltava vähintään {1} merkkiä.</value>
+  </data>
   <data name="The avatar file is invalid. Please upload it again." xml:space="preserve">
     <value>Avatar-tiedosto on virheellinen. Lataa se uudelleen.</value>
   </data>

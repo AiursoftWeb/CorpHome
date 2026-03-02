@@ -30,11 +30,20 @@
   <data name="Reset Password (leave empty to keep the same password)" xml:space="preserve">
     <value>Скинути пароль (залиште порожнім, щоб залишити той самий пароль)</value>
   </data>
+  <data name="The {0} is invalid. Please upload it again." xml:space="preserve">
+    <value>{0} є недійсним. Будь ласка, завантажте його знову.</value>
+  </data>
   <data name="The {0} is not a valid email address." xml:space="preserve">
     <value>Поле {0} не є дійсною email-адресою.</value>
   </data>
   <data name="The {0} is required." xml:space="preserve">
     <value>Поле {0} є обов&apos;язковим.</value>
+  </data>
+  <data name="The {0} must be less than {1} characters." xml:space="preserve">
+    <value>{0} має містити менше ніж {1} символів.</value>
+  </data>
+  <data name="The {0} must be more than {1} characters." xml:space="preserve">
+    <value>{0} має містити більше {1} символів.</value>
   </data>
   <data name="The avatar file is invalid. Please upload it again." xml:space="preserve">
     <value>Файл аватара недійсний. Будь ласка, завантажте його знову.</value>
