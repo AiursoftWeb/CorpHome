@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="1. The Aiursoft Privacy Philosophy" xml:space="preserve">
+    <value>1. Filosofia Aiursoft privind confidențialitatea</value>
+  </data>
+  <data name="2. Core Distinction: Data Controller vs. Data Processor" xml:space="preserve">
+    <value>2. Distincția fundamentală: Responsabilul cu tratarea datelor vs. Operatorul de date</value>
+  </data>
+  <data name="3. What Data We Actually Collect" xml:space="preserve">
+    <value>3. Ce date colectăm efectiv</value>
+  </data>
+  <data name="4. How We Use Your Data" xml:space="preserve">
+    <value>4. Cum Folosim Datele Dvs.</value>
+  </data>
+  <data name="5. Data Sharing and Third-Party Sub-Processors" xml:space="preserve">
+    <value>5. Partajarea datelor și subprocesoarele terțe</value>
+  </data>
+  <data name="6. Data Retention and Deletion" xml:space="preserve">
+    <value>6. Păstrarea și Ștergerea Datelor</value>
+  </data>
+  <data name="7. Your Data Rights" xml:space="preserve">
+    <value>7. Drepturile dumneavoastră privind datele</value>
+  </data>
+  <data name="8. Contact Us" xml:space="preserve">
+    <value>8. Contactați-ne</value>
+  </data>
+  <data name="Account Information:" xml:space="preserve">
+    <value>Informații despre cont:</value>
+  </data>
+  <data name="AIURSOFT LIMITED" xml:space="preserve">
+    <value>AIURSOFT LIMITED</value>
+  </data>
+  <data name="Aiursoft Privacy Policy" xml:space="preserve">
+    <value>Politica de confidențialitate Aiursoft</value>
+  </data>
+  <data name="At Aiursoft, our foundational mission is to bring the spirit of open-source and free software to every enterprise and individual. This commitment to freedom inherently extends to your privacy and data sovereignty. We believe that your data belongs exclusively to you." xml:space="preserve">
+    <value>La Aiursoft, misiunea noastră fundamentală este de a aduce spiritul software-ului open-source și liber fiecărei întreprinderi și fiecărei persoane. Acest angajament față de libertate se extinde în mod inerent asupra confidențialității și suveranității datelor dumneavoastră. Credem că datele dumneavoastră aparțin exclusiv vouă.</value>
+  </data>
+  <data name="Beyond these essential operational partners, Aiursoft will never disclose your data to any third party, including government entities, unless legally compelled to do so by a valid, binding court order or subpoena originating from a competent jurisdiction." xml:space="preserve">
+    <value>În afara acestor parteneri operaționali esențiali, Aiursoft nu va divulca niciodată datele dumneavoastră către orice terță parte, inclusiv entități guvernamentale, cu excepția cazului în care este obligat legal să o facă printr-o hotărâre judecătorească validă și obligatorie sau prin o citație (subpoena) emisă de o jurisdicție competentă.</value>
+  </data>
+  <data name="Billing and Payment Data:" xml:space="preserve">
+    <value>Date de Facturare și Plată:</value>
+  </data>
+  <data name="Communication:" xml:space="preserve">
+    <value>Comunicare:</value>
+  </data>
+  <data name="Company Entity:" xml:space="preserve">
+    <value>Entitate Companie:</value>
+  </data>
+  <data name="Company Entity: AIURSOFT LIMITED (Hong Kong)" xml:space="preserve">
+    <value>Entitate Companie: AIURSOFT LIMITED (Hong Kong)</value>
+  </data>
+  <data name="Crucially, AIURSOFT LIMITED does not collect, process, or store your full credit card numbers or sensitive financial instruments on our servers. All payment transactions are securely handled by our PCI-DSS compliant third-party payment processor, Stripe, Inc. We only receive and retain non-sensitive billing information from Stripe, such as your billing address, subscription status, and the last four digits of your payment card, strictly for the purposes of issuing invoices, managing your active subscriptions, and complying with financial record-keeping laws." xml:space="preserve">
+    <value>Este esențial de menționat că AIURSOFT LIMITED nu colectează, nu procesează și nu stochează pe serverele noastre numerele complete ale cardurilor dumneavoastră de credit sau alte instrumente financiare sensibile. Toate tranzacțiile de plată sunt gestionate în siguranță de către procesatorul nostru terț de plăți, conform standardului PCI-DSS, Stripe, Inc. Noi primim și păstrăm doar informații de facturare nesensibile de la Stripe, cum ar fi adresa dumneavoastră de facturare, statutul abonamentului și ultimele patru cifre ale cardului de plată, strict în scopul emiterii facturilor, gestionării abonamentelor active și respectării legislației privind păstrarea înregistrărilor financiare.</value>
+  </data>
+  <data name="During Active Subscription:" xml:space="preserve">
+    <value>În timpul abonamentului activ:</value>
+  </data>
+  <data name="Email:" xml:space="preserve">
+    <value>E-mail:</value>
+  </data>
+  <data name="Exclusively for secure payment processing and subscription management." xml:space="preserve">
+    <value>Exclusiv pentru procesarea sigură a plăților și gestionarea abonamentelor.</value>
+  </data>
+  <data name="For Cloud-Hosted Plans (e.g., Aiursoft Substrate S1 Core):" xml:space="preserve">
+    <value>Pentru planurile găzduite în cloud (de ex., Aiursoft Substrate S1 Core):</value>
+  </data>
+  <data name="For on-premise deployments, cancellation simply terminates our support and update services. Your data remains entirely intact on your own servers, under your complete control." xml:space="preserve">
+    <value>Pentru implementările on-premise, anularea înseamnă pur și simplu încetarea serviciilor noastre de suport și actualizare. Datele dumneavoastră rămân în totalitate intacte pe serverele dumneavoastră, sub controlul dumneavoastră complet.</value>
+  </data>
+  <data name="For On-Premise Plans (e.g., Aiursoft Substrate S3 Startup &amp; S5 Enterprise):" xml:space="preserve">
+    <value>Pentru planurile On-Premise (de exemplu, Aiursoft Substrate S3 Startup &amp; S5 Enterprise):</value>
+  </data>
+  <data name="For provisioning the underlying high-performance cloud infrastructure that powers our official websites and Cloud-Hosted (S1 Core) client instances." xml:space="preserve">
+    <value>Pentru furnizarea infrastructurii cloud de înaltă performanță care susține site-urile noastre oficiale și instanțele client Cloud-Hosted (S1 Core).</value>
+  </data>
+  <data name="If you choose to cancel a Cloud-Hosted subscription, your account will remain active until the end of the current billing cycle. Following the expiration of your subscription, we observe a strict 30-day grace period. After this 30-day period, all of your associated business data (emails, files, databases) will be permanently, irreversibly, and securely hard-deleted from our hosting infrastructure. We cannot recover data once this deletion process has occurred." xml:space="preserve">
+    <value>Dacă alegeți să anulați o abonare Cloud-Hosted, contul dumneavoastră va rămâne activ până la sfârșitul ciclului actual de facturare. După expirarea abonamentului, aplicăm o perioadă de grație strictă de 30 de zile. După această perioadă de 30 de zile, toate datele de afaceri asociate (scrisori electronice, fișiere, baze de date) vor fi șterse definitiv, ireversibil și în siguranță (hard-deleted) din infrastructura noastră de găzduire. Nu putem recupera datele odată ce acest proces de ștergere a avut loc.</value>
+  </data>
+  <data name="If you have any questions, concerns, or requests regarding this Privacy Policy or our data handling practices, please contact our executive team:" xml:space="preserve">
+    <value>Dacă aveți întrebări, îngrijorări sau cereri cu privire la această Politică de Confidențialitate sau la practicile noastre de gestionare a datelor, vă rugăm să contactați echipa noastră executivă:</value>
+  </data>
+  <data name="In accordance with global privacy standards, including the principles outlined in regulations such as the GDPR and the Hong Kong Personal Data (Privacy) Ordinance (PDPO), you possess the following rights regarding your personal data held by Aiursoft:" xml:space="preserve">
+    <value>În conformitate cu standardele globale de confidențialitate, inclusiv cu principiile prevăzute în reglementări precum GDPR și Ordinul Hong Kong privind Protecția Datelor cu Caracter Personal (PDPO), dețineți următoarele drepturi cu privire la datele dumneavoastră personale deținute de Aiursoft:</value>
+  </data>
+  <data name="Last Updated: March 2026" xml:space="preserve">
+    <value>Ultima actualizare: martie 2026</value>
+  </data>
+  <data name="Minimal Data Collection:" xml:space="preserve">
+    <value>Colectare minimă de date:</value>
+  </data>
+  <data name="No Data Selling:" xml:space="preserve">
+    <value>Niciun Vânzare de Date:</value>
+  </data>
+  <data name="No Hidden Telemetry:" xml:space="preserve">
+    <value>Nicio telemetrie ascunsă:</value>
+  </data>
+  <data name="Our software solutions are designed without concealed telemetry, advertising trackers, or behavioral profiling mechanisms." xml:space="preserve">
+    <value>Soluțiile noastre software sunt concepute fără telemetrie ascunsă, instrumente de urmărire publicitară sau mecanisme de profilare comportamentală.</value>
+  </data>
+  <data name="Right to Access:" xml:space="preserve">
+    <value>Dreptul de acces:</value>
+  </data>
+  <data name="Right to Erasure (The &quot;Right to be Forgotten&quot;):" xml:space="preserve">
+    <value>Dreptul la ștergere („Dreptul de a fi uitat”):</value>
+  </data>
+  <data name="Right to Rectification:" xml:space="preserve">
+    <value>Dreptul de rectificare:</value>
+  </data>
+  <data name="Service Provisioning:" xml:space="preserve">
+    <value>Provizionarea Serviciilor:</value>
+  </data>
+  <data name="Strict Prohibition on AI Training:" xml:space="preserve">
+    <value>Interdicție Strictă privind Antrenarea AI:</value>
+  </data>
+  <data name="Stripe, Inc.:" xml:space="preserve">
+    <value>Stripe, Inc.:</value>
+  </data>
+  <data name="Technical and Diagnostic Data:" xml:space="preserve">
+    <value>Date tehnice și de diagnosticare:</value>
+  </data>
+  <data name="The limited data we do collect is utilized solely for the following legitimate business purposes:" xml:space="preserve">
+    <value>Datele limitate pe care le colectăm sunt utilizate exclusiv pentru următoarele scopuri legitime de afaceri:</value>
+  </data>
+  <data name="To clearly understand how your data is handled, it is crucial to differentiate between the types of deployment plans we offer, as our legal and technical relationship to your data changes significantly based on your chosen architecture:" xml:space="preserve">
+    <value>Pentru a înțelege clar modul în care sunt gestionate datele dumneavoastră, este esențial să faceți distincția între tipurile de planuri de implementare pe care le oferim, deoarece relația noastră legală și tehnică față de datele dumneavoastră se modifică semnificativ în funcție de arhitectura aleasă:</value>
+  </data>
+  <data name="To create your account, configure your chosen deployment (whether cloud-hosted or coordinating on-premise setup), and authenticate your access." xml:space="preserve">
+    <value>Pentru a crea contul dumneavoastră, a configura implementarea aleasă (fie găzduită în cloud, fie coordonată într-o configurare on-premise) și a autentifica accesul dumneavoastră.</value>
+  </data>
+  <data name="To exercise any of these rights, please contact us using the information provided below or manage your preferences directly within your Aiursoft account dashboard." xml:space="preserve">
+    <value>Pentru a vă exercita oricare dintre aceste drepturi, vă rugăm să ne contactați folosind informațiile furnizate mai jos sau să vă gestionați preferințele direct în panoul de control al contului dumneavoastră Aiursoft.</value>
+  </data>
+  <data name="To facilitate our business relationship and manage your subscriptions, we collect the following limited categories of information:" xml:space="preserve">
+    <value>Pentru a facilita relația noastră de afaceri și a gestiona abonamentele dumneavoastră, colectăm următoarele categorii limitate de informații:</value>
+  </data>
+  <data name="To facilitate subscription billing and process payments securely via Stripe." xml:space="preserve">
+    <value>Pentru a facilita facturile de abonament și a procesa plățile în siguranță prin Stripe.</value>
+  </data>
+  <data name="To send you critical system notifications (such as scheduled maintenance alerts or downtime warnings), billing receipts, and responses to your technical support inquiries." xml:space="preserve">
+    <value>Pentru a vă trimite notificări critice ale sistemului (cum ar fi alerte de mentenanță programată sau avertismente privind întreruperile de serviciu), chitanțe de facturare și răspunsuri la solicitările dumneavoastră de asistență tehnică.</value>
+  </data>
+  <data name="Transaction Processing:" xml:space="preserve">
+    <value>Procesarea tranzacțiilor:</value>
+  </data>
+  <data name="Upon Cancellation (Cloud-Hosted Plans):" xml:space="preserve">
+    <value>La anulare (Planuri găzduite în cloud):</value>
+  </data>
+  <data name="Upon Cancellation (On-Premise Plans):" xml:space="preserve">
+    <value>La anulare (Planuri On-Premise):</value>
+  </data>
+  <data name="Voxihost:" xml:space="preserve">
+    <value>Voxihost:</value>
+  </data>
+  <data name="We are unequivocally committed to the following principles:" xml:space="preserve">
+    <value>Suntem neîndoielnic angajați următoarelor principii:</value>
+  </data>
+  <data name="We categorically state that your private data, documents, and communications are never used to train our AI models or any third-party Large Language Models (LLMs). Our AI solutions, particularly in the Custom Enterprise tier, are designed to run locally and train exclusively on data you explicitly provide within your secure environment." xml:space="preserve">
+    <value>Afirmăm categoric că datele dumneavoastră private, documentele și comunicațiile nu sunt niciodată utilizate pentru antrenarea modelelor noastre de inteligență artificială sau a oricăror modele de limbaj larg (LLM) de la terți. Soluțiile noastre de inteligență artificială, în special în nivelul Custom Enterprise, sunt concepute să ruleze local și să se antreneze exclusiv pe datele pe care le furnizați explicit în mediul dumneavoastră securizat.</value>
+  </data>
+  <data name="We collect only the absolute minimum data necessary to provide you with secure, reliable, and functional services." xml:space="preserve">
+    <value>Colectăm doar datele absolute minime necesare pentru a vă oferi servicii sigure, fiabile și funcționale.</value>
+  </data>
+  <data name="We do not share your personal information with external parties except where absolutely necessary to deliver our services. To operate effectively, we utilize the following trusted third-party sub-processors:" xml:space="preserve">
+    <value>Nu partajăm informațiile dumneavoastră personale cu terțe părți, cu excepția cazurilor în care acest lucru este absolut necesar pentru prestarea serviciilor noastre. Pentru a opera eficient, utilizăm următorii sub-procesori terți de încredere:</value>
+  </data>
+  <data name="We do not, and will never, sell, rent, or lease your personal or business data to third parties." xml:space="preserve">
+    <value>Nu vindem, nu închiriem și nu cedăm în locațiune datele dumneavoastră personale sau de afaceri către terți, acum sau în viitor.</value>
+  </data>
+  <data name="We securely retain your account and hosted data for the duration of your active subscription to ensure continuous service delivery." xml:space="preserve">
+    <value>Păstrăm în siguranță contul și datele găzduite ale dumneavoastră pe durata abonamentului activ pentru a asigura livrarea continuă a serviciilor.</value>
+  </data>
+  <data name="When you elect to deploy our solutions on your own local servers or private cloud environments, You are in absolute control. In these deployments, Aiursoft has Zero Access to your physical servers, networks, files, emails, or locally constructed AI knowledge bases. Because the data physically resides within your perimeter, we cannot collect, view, or process it. Your privacy is guaranteed by physical and network isolation." xml:space="preserve">
+    <value>Când alegeți să implementați soluțiile noastre pe propriile servere locale sau în medii de cloud privat, aveți control absolut. În aceste implementări, Aiursoft nu are acces zero la serverele fizice, rețelele, fișierele, e-mailurile sau bazele de cunoștințe AI construite local. Deoarece datele se află fizic în perimetrul dumneavoastră, nu le putem colecta, vizualiza sau procesa. Confidențialitatea dumneavoastră este garantată prin izolare fizică și de rețea.</value>
+  </data>
+  <data name="When you register for an Aiursoft commercial account or engage with our sales team, we collect necessary contact details, including your name, your work email address, and your company name. This information is used strictly for account administration and communication." xml:space="preserve">
+    <value>Când vă înregistrați pentru un cont comercial Aiursoft sau interacționați cu echipa noastră de vânzări, colectăm datele de contact necesare, inclusiv numele dumneavoastră, adresa de e-mail profesională și numele companiei dumneavoastră. Aceste informații sunt utilizate strict pentru administrarea contului și comunicare.</value>
+  </data>
+  <data name="When you utilize our cloud-hosted infrastructure (such as Mailcow, Nextcloud, or Authentik instances managed on our servers), AIURSOFT LIMITED acts as a Data Processor. You remain the Data Controller. We host and maintain the infrastructure to ensure uptime and security, but our personnel possess absolutely zero access to your underlying business data (e.g., the contents of your emails, your stored files, or your internal chat logs) unless you explicitly grant us temporary, revocable access for the sole purpose of resolving a technical support ticket you have initiated." xml:space="preserve">
+    <value>Când utilizați infrastructura noastră găzduită în cloud (de exemplu, instanțe Mailcow, Nextcloud sau Authentik gestionate pe serverele noastre), AIURSOFT LIMITED acționează ca Procesator de Date. Rămâneți Controlator de Date. Noi găzduim și întreținem infrastructura pentru a asigura disponibilitatea și securitatea, dar personalul nostru nu are absolut niciun acces la datele dumneavoastră de afaceri de bază (de exemplu, conținutul e-mailurilor, fișierele stocate sau jurnalele interne de chat), cu excepția cazului în care ne acordați explicit acces temporar și revocabil exclusiv în scopul rezolvării unui tichet de asistență tehnică pe care l-ați inițiat.</value>
+  </data>
+  <data name="When you visit our public-facing websites (e.g., aiursoft.com), our web servers automatically log standard technical information, such as your IP address, browser type, and access times. This data is utilized exclusively for security monitoring (e.g., preventing DDoS attacks), ensuring the stability of our web infrastructure, and basic, anonymized traffic analysis. We do not employ invasive third-party tracking cookies for behavioral advertising." xml:space="preserve">
+    <value>Când vizitați site-urile noastre publice (de exemplu, aiursoft.com), serverele noastre web înregistrează automat informații tehnice standard, cum ar fi adresa dumneavoastră IP, tipul de browser și orele de acces. Aceste date sunt utilizate exclusiv pentru monitorizarea securității (de exemplu, prevenirea atacurilor DDoS), asigurarea stabilității infrastructurii noastre web și analiza de bază, anonimizată, a traficului. Nu utilizăm cookie-uri de urmărire invazive de la terți pentru publicitate comportamentală.</value>
+  </data>
+  <data name="You may request a copy of the personal data we hold about you." xml:space="preserve">
+    <value>Puteți solicita o copie a datelor cu caracter personal pe care le deținem despre dumneavoastră.</value>
+  </data>
+  <data name="You may request that we correct any inaccurate or incomplete personal data." xml:space="preserve">
+    <value>Puteți solicita corectarea oricăror date cu caracter personal inexacte sau incomplete.</value>
+  </data>
+  <data name="You may request the complete deletion of your account and associated personal data from our systems, subject to our retention policies for cancelled subscriptions and legal compliance requirements." xml:space="preserve">
+    <value>Puteți solicita ștergerea completă a contului dumneavoastră și a datelor personale asociate din sistemele noastre, sub rezerva politicilor noastre de retenție pentru abonamentele anulate și a cerințelor de conformitate legală.</value>
+  </data>
+
+</root>

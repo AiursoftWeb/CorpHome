@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="1. The Nature of Our Services" xml:space="preserve">
+    <value>1. Vores ydelser i naturen</value>
+  </data>
+  <data name="10. Governing Law" xml:space="preserve">
+    <value>10. Gældende ret</value>
+  </data>
+  <data name="11. Contact Us" xml:space="preserve">
+    <value>11. Kontakt os</value>
+  </data>
+  <data name="2. Plan Distinctions &amp; Responsibilities" xml:space="preserve">
+    <value>2. Forskelle på abonnementer og ansvar</value>
+  </data>
+  <data name="3. Subscription, Billing, and Payments" xml:space="preserve">
+    <value>3. Abonnement, fakturering og betalinger</value>
+  </data>
+  <data name="4. Cancellation and Refund Policy" xml:space="preserve">
+    <value>4. Afskaffelses- og Refunderingspolitik</value>
+  </data>
+  <data name="5. Hardware Purchases (Third-Party)" xml:space="preserve">
+    <value>5. Køb af hardware (tredjepart)</value>
+  </data>
+  <data name="6. Acceptable Use Policy" xml:space="preserve">
+    <value>6. Politik for acceptabel brug</value>
+  </data>
+  <data name="7. Intellectual Property" xml:space="preserve">
+    <value>7. Ophavsret</value>
+  </data>
+  <data name="8. Limitation of Liability" xml:space="preserve">
+    <value>8. Ansvarsbegrænsning</value>
+  </data>
+  <data name="9. Modifications to the Terms" xml:space="preserve">
+    <value>9. Ændringer af vilkårene</value>
+  </data>
+  <data name="Aiursoft hosts the infrastructure on our secured servers. We are responsible for server uptime, standard backups, and basic network security." xml:space="preserve">
+    <value>Aiursoft hoster infrastrukturen på vores sikrede servere. Vi er ansvarlige for serveropetid, standard-backups og grundlæggende netværkssikkerhed.</value>
+  </data>
+  <data name="AIURSOFT LIMITED" xml:space="preserve">
+    <value>AIURSOFT LIMITED</value>
+  </data>
+  <data name="Aiursoft provides enterprise IT infrastructure solutions built upon open-source technologies (e.g., Linux, Nextcloud, Mailcow, Authentik, GitLab)." xml:space="preserve">
+    <value>Aiursoft leverer enterprise IT-infrastrukturløsninger baseret på open-source-teknologier (f.eks. Linux, Nextcloud, Mailcow, Authentik, GitLab).</value>
+  </data>
+  <data name="All fees are exclusive of applicable taxes, levies, or duties imposed by taxing authorities, and you shall be responsible for payment of all such taxes." xml:space="preserve">
+    <value>Alle gebyrer er eksklusiv gældende skatter, afgifter eller told, der pålægges af skattemyndighederne, og du er ansvarlig for betaling af alle sådanne skatter.</value>
+  </data>
+  <data name="All payments are securely processed by our third-party payment gateway, Stripe. Aiursoft does not collect, process, or store your full credit card information on our servers." xml:space="preserve">
+    <value>Alle betalinger behandles sikkert af vores tredjeparts betalingsgateway, Stripe. Aiursoft indsamler, behandler eller gemmer ikke dine fulde kreditkortoplysninger på vores servere.</value>
+  </data>
+  <data name="Any unauthorized access to your on-premise servers (for Startup/Enterprise plans)." xml:space="preserve">
+    <value>Enhver uberettiget adgang til dine on-premise-servere (for Startup/Enterprise-planer).</value>
+  </data>
+  <data name="Attempt to bypass or compromise any security measure implemented by Aiursoft on Cloud-Hosted plans." xml:space="preserve">
+    <value>Forsøg på at omgå eller kompromittere nogen sikkerhedsforanstaltning implementeret af Aiursoft på Cloud-Hosted-planer.</value>
+  </data>
+  <data name="Automatic Renewal:" xml:space="preserve">
+    <value>Automatisk fornyelse:</value>
+  </data>
+  <data name="Certain features, such as offline AI Knowledge Base construction or hardware-based Zero Trust authentication, may require physical hardware (e.g., NVIDIA GPUs, YubiKeys). Unless explicitly stated in a custom enterprise contract, you are responsible for procuring this hardware directly from the respective manufacturers. Aiursoft acts solely as the software integration provider." xml:space="preserve">
+    <value>Visse funktioner, såsom opbygning af offline AI-videnbaser eller hardwarebaseret Zero Trust-autentificering, kan kræve fysisk hardware (f.eks. NVIDIA GPU&apos;er, YubiKeys). Medmindre der er eksplicit angivet i en skræddersyet entreprisekontrakt, er du ansvarlig for at skaffe denne hardware direkte fra de respektive producenter. Aiursoft fungerer udelukkende som softwareintegrationsleverandør.</value>
+  </data>
+  <data name="Cloud-Hosted Plans (e.g., Core):" xml:space="preserve">
+    <value>Cloud-hostede abonnementer (f.eks. Core):</value>
+  </data>
+  <data name="Company Entity: AIURSOFT LIMITED (Hong Kong)" xml:space="preserve">
+    <value>Virksomhedsenhed: AIURSOFT LIMITED (Hong Kong)</value>
+  </data>
+  <data name="Company:" xml:space="preserve">
+    <value>Virksomhed:</value>
+  </data>
+  <data name="Data loss due to hardware failure on your self-hosted infrastructure." xml:space="preserve">
+    <value>Datatab på grund af hardwarefejl på din selvhostede infrastruktur.</value>
+  </data>
+  <data name="Effect of Cancellation:" xml:space="preserve">
+    <value>Virkning af annullering:</value>
+  </data>
+  <data name="Email:" xml:space="preserve">
+    <value>E-mail:</value>
+  </data>
+  <data name="For On-Premise plans requiring a One-Time Setup Fee, this fee covers the manual labor of our architects (e.g., network configuration, Docker deployment, Yubikey integration). Setup fees are strictly non-refundable once the deployment and configuration process has commenced." xml:space="preserve">
+    <value>For On-Premise plans requiring a One-Time Setup Fee, this fee covers the manual labor of our architects (e.g., network configuration, Docker deployment, Yubikey integration). Setup fees are strictly non-refundable once the deployment and configuration process has commenced.</value>
+  </data>
+  <data name="How to Cancel:" xml:space="preserve">
+    <value>Sådan afslutter du:</value>
+  </data>
+  <data name="If you cancel your subscription, the cancellation will take effect at the end of your current paid billing cycle. You will retain full access to the Services until that cycle concludes." xml:space="preserve">
+    <value>Hvis du opsiger dit abonnement, træder opsigelsen i kraft ved udgangen af din nuværende betalte faktureringscyklus. Du beholder fuld adgang til Tjenesterne, indtil denne cyklus er afsluttet.</value>
+  </data>
+  <data name="If you have any questions about these Terms, please contact our executive team at:" xml:space="preserve">
+    <value>Hvis du har spørgsmål om disse Vilkår, bedes du kontakte vores ledelsesgruppe på:</value>
+  </data>
+  <data name="In no event shall Aiursoft&apos;s aggregate liability for all claims related to the services exceed the total amount paid by you to Aiursoft for the specific service in the twelve (12) months preceding the claim." xml:space="preserve">
+    <value>Under ingen omstændigheder må Aiursofts samlede erstatningsansvar for alle krav i forbindelse med tjenesterne overstige det samlede beløb, du har betalt til Aiursoft for den pågældende tjeneste i de tolv (12) måneder, der går forud for kravet.</value>
+  </data>
+  <data name="Last Updated: March 2026" xml:space="preserve">
+    <value>Sidst opdateret: Marts 2026</value>
+  </data>
+  <data name="No Pro-Rated Refunds:" xml:space="preserve">
+    <value>Ingen pro-ratiserede refusioner:</value>
+  </data>
+  <data name="On-Premise Plans (e.g., Startup, Custom Enterprise):" xml:space="preserve">
+    <value>On-Premise-planer (f.eks. Startup, Custom Enterprise):</value>
+  </data>
+  <data name="One-Time Setup Fees:" xml:space="preserve">
+    <value>Engangsopsættelsesgebyrer:</value>
+  </data>
+  <data name="Payment Processing:" xml:space="preserve">
+    <value>Betalingsbehandling:</value>
+  </data>
+  <data name="Per-User Billing:" xml:space="preserve">
+    <value>Fakturering pr. bruger:</value>
+  </data>
+  <data name="Subscription fees are calculated based on the number of active users/accounts managed within your Aiursoft Identity Gateway per billing cycle." xml:space="preserve">
+    <value>Afgiftsgebyrer beregnes ud fra antallet af aktive brugere/konti, der administreres i din Aiursoft Identity Gateway pr. regnskabsperiode.</value>
+  </data>
+  <data name="Taxes:" xml:space="preserve">
+    <value>Skatter:</value>
+  </data>
+  <data name="Terms of Service &amp; Subscription Agreement" xml:space="preserve">
+    <value>Servicevilkår og abonnementsaftale</value>
+  </data>
+  <data name="The Aiursoft brand, logos, website design, and proprietary deployment scripts (e.g., Aiursoft Template orchestrations) are the intellectual property of AIURSOFT LIMITED. The underlying open-source software remains the property of their respective creators and is provided to you under their specific open-source licenses." xml:space="preserve">
+    <value>Aiursoft-mærket, logoer, webstedets design og proprietære udrulningscripts (f.eks. Aiursoft Template-orchestreringer) er AIURSOFT LIMITED&apos;s immaterielle ejendom. Den underliggende open-source-software forbliver ejendom af deres respektive skabere og stilles til rådighed for dig under deres specifikke open-source-licenser.</value>
+  </data>
+  <data name="The Service is Commercial:" xml:space="preserve">
+    <value>Tjenesten er kommerciel:</value>
+  </data>
+  <data name="The software is deployed on your local servers or private cloud. You retain absolute physical control and ownership of your data (&quot;Own Your Data&quot;). Consequently, you are solely responsible for your underlying hardware, local network security, physical access control, and disaster recovery backups. Aiursoft&apos;s responsibility is limited to software-level maintenance, container updates, and technical support as defined in your plan." xml:space="preserve">
+    <value>Softwaren er implementeret på dine lokale servere eller din private cloud. Du beholder fuldstændig fysisk kontrol og ejerskab af dine data (&quot;Own Your Data&quot;). Dermed er du alene ansvarlig for din underliggende hardware, lokal netværksikkerhed, fysisk adgangskontrol og backups til katastrofegenvinding. Aiursofts ansvar er begrænset til vedligeholdelse på softwareniveau, opdateringer af containere og teknisk support som defineret i din plan.</value>
+  </data>
+  <data name="The Software is Free:" xml:space="preserve">
+    <value>Softwaren er gratis:</value>
+  </data>
+  <data name="The underlying open-source codes are subject to their respective licenses (e.g., MIT, GPL). You are free to inspect, modify, and distribute the code as permitted by those licenses." xml:space="preserve">
+    <value>Den underliggende open-source-kode er underlagt deres respektive licenser (f.eks. MIT, GPL). Du er frit stillet til at inspicere, modificere og distribuere koden, som tilladt af disse licenser.</value>
+  </data>
+  <data name="These Terms of Service (&quot;Terms&quot;) govern your access to and use of the Aiursoft website, products, and subscription services, including but not limited to Aiursoft Substrate (Core, Startup, and Enterprise plans) (collectively, the &quot;Services&quot;). By registering for an account or purchasing a subscription, you agree to be bound by these Terms." xml:space="preserve">
+    <value>Disse Vilkår for Service (&quot;Vilkår&quot;) regulerer din adgang til og brug af Aiursofts hjemmeside, produkter og abonnementsydelser, herunder men ikke begrænset til Aiursoft Substrate (Core, Startup og Enterprise-planer) (samlet benævnt &quot;Ydelserne&quot;). Ved at registrere en konto eller købe et abonnement accepterer du at være bundet af disse Vilkår.</value>
+  </data>
+  <data name="These Terms shall be governed by and construed in accordance with the laws of the Hong Kong Special Administrative Region, without regard to its conflict of law provisions." xml:space="preserve">
+    <value>Disse vilkår skal styres af og fortolkes i overensstemmelse med lovgivningen i den særlige administrative region Hong Kong, uden hensyntagen til dennes konfliktnormer.</value>
+  </data>
+  <data name="To ensure uninterrupted service, our commercial plans operate on a recurring subscription basis." xml:space="preserve">
+    <value>For at sikre en afbrydelsesfri service, kører vores kommercielle planer på et tilbagevendende abonnementsgrundlag.</value>
+  </data>
+  <data name="To the maximum extent permitted by law, Aiursoft Limited shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses, resulting from:" xml:space="preserve">
+    <value>I det omfang, der er tilladt efter gældende lovgivning, kan Aiursoft Limited ikke holdes ansvarlig for eventuelle indirekte, tilfældige, særlige, konsekvensbaserede eller strafende skader, eller ethvert tab af overskud eller indtægter, uanset om de er opstået direkte eller indirekte, eller ethvert tab af data, brug, goodwill eller andre immaterielle tab, der udspringer af:</value>
+  </data>
+  <data name="Use our Cloud-Hosted email services (Mailcow) to send unsolicited spam or conduct phishing campaigns. Violation of this rule will result in immediate account termination without refund." xml:space="preserve">
+    <value>Brug ikke vores cloud-hostede e-mail-tjenester (Mailcow) til at sende uopfordret spam eller gennemføre phishing-kampagner. Overtrædelse af denne regel vil medføre øjeblikkelig ophævelse af kontoen uden refusion.</value>
+  </data>
+  <data name="Use the Services to conduct any illegal, fraudulent, or malicious activities." xml:space="preserve">
+    <value>Brug Services til at udføre ulovlige, svigagtige eller skadelige aktiviteter.</value>
+  </data>
+  <data name="We do not provide refunds or credits for any partial-month subscription periods, or for user accounts that were provisioned but remained inactive." xml:space="preserve">
+    <value>Vi yder ikke refusioner eller kreditter for delvise abonnementsperioder eller for brugerkonti, der er blevet oprettet, men forblev inaktive.</value>
+  </data>
+  <data name="We may revise these Terms from time to time to better reflect changes to the law, new regulatory requirements, or improvements made to our Services. If an update affects your use of the Services or your legal rights as a user of our Services, we’ll notify you prior to the update&apos;s effective date by sending an email to the account owner." xml:space="preserve">
+    <value>Vi kan fra tid til anden revidere disse Vilkår for bedre at afspejle ændringer i lovgivningen, nye regulatoriske krav eller forbedringer af vores Services. Hvis en opdatering påvirker din brug af Services eller dine juridiske rettigheder som bruger af vores Services, vil vi underrette dig før opdateringens ikrafttrædelse ved at sende en e-mail til kontoens ejer.</value>
+  </data>
+  <data name="We offer different tiers of deployment to suit your business needs:" xml:space="preserve">
+    <value>Vi tilbyder forskellige niveauer af implementering for at imødekomme dine forretningsbehov:</value>
+  </data>
+  <data name="Welcome to Aiursoft. We are dedicated to bringing the spirit of open-source and free software to every enterprise and individual." xml:space="preserve">
+    <value>Velkommen til Aiursoft. Vi er dedikeret til at bringe ånden af open-source og fri software til hver enkelt virksomhed og privatperson.</value>
+  </data>
+  <data name="What you are purchasing from Aiursoft is the hosting, automated deployment, maintenance, priority support, and enterprise integration of these tools." xml:space="preserve">
+    <value>Det du køber fra Aiursoft er hosting, automatiseret udrulning, vedligeholdelse, prioriteret support og virksomhedsintegration af disse værktøjer.</value>
+  </data>
+  <data name="You agree not to misuse the Services or help anyone else to do so. You must not:" xml:space="preserve">
+    <value>Du accepterer ikke at misbruge Tjenesterne eller hjælpe nogen andre med at gøre det. Du må ikke:</value>
+  </data>
+  <data name="You may cancel your subscription at any time through your Aiursoft Billing Dashboard or by contacting our support team." xml:space="preserve">
+    <value>Du kan afmelde dit abonnement når som helst via dit Aiursoft Billing Dashboard eller ved at kontakte vores supportteam.</value>
+  </data>
+  <data name="Your access to or use of or inability to access or use the Services." xml:space="preserve">
+    <value>Din adgang til eller brug af eller manglende evne til at få adgang til eller bruge Tjenesterne.</value>
+  </data>
+  <data name="Your subscription will automatically renew at the end of each billing cycle (monthly or annually) unless you cancel it prior to the renewal date. You authorize us (via Stripe) to charge the applicable subscription fees to your payment method on file." xml:space="preserve">
+    <value>Dit abonnement fornyes automatisk ved udgangen af hver faktureringsperiode (månedligt eller årligt), medmindre du annullerer det før fornyelsesdatoen. Du bemyndiger os (via Stripe) til at debitere de gældende abonnementsgebyrer på din registrerede betalingsmetode.</value>
+  </data>
+
+</root>

@@ -45,6 +45,9 @@
   <data name="Licence" xml:space="preserve">
     <value>Licență</value>
   </data>
+  <data name="Privacy Policy" xml:space="preserve">
+    <value>Politica de confidențialitate</value>
+  </data>
   <data name="Project" xml:space="preserve">
     <value>Proiect</value>
   </data>
@@ -59,6 +62,9 @@
   </data>
   <data name="Source Code" xml:space="preserve">
     <value>Cod Sursă</value>
+  </data>
+  <data name="Terms of Service" xml:space="preserve">
+    <value>Termenii de Serviciu</value>
   </data>
 
 </root>

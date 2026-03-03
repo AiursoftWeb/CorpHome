@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="1. The Nature of Our Services" xml:space="preserve">
+    <value>1. Natura Serviciilor Noastre</value>
+  </data>
+  <data name="10. Governing Law" xml:space="preserve">
+    <value>10. Legea aplicabilă</value>
+  </data>
+  <data name="11. Contact Us" xml:space="preserve">
+    <value>11. Contactați-ne</value>
+  </data>
+  <data name="2. Plan Distinctions &amp; Responsibilities" xml:space="preserve">
+    <value>2. Diferențele dintre planuri și responsabilități</value>
+  </data>
+  <data name="3. Subscription, Billing, and Payments" xml:space="preserve">
+    <value>3. Abonamente, Facturare și Plăți</value>
+  </data>
+  <data name="4. Cancellation and Refund Policy" xml:space="preserve">
+    <value>4. Politică de Anulare și Rambursare</value>
+  </data>
+  <data name="5. Hardware Purchases (Third-Party)" xml:space="preserve">
+    <value>5. Achiziții de echipamente (terțe părți)</value>
+  </data>
+  <data name="6. Acceptable Use Policy" xml:space="preserve">
+    <value>6. Politică privind utilizarea acceptabilă</value>
+  </data>
+  <data name="7. Intellectual Property" xml:space="preserve">
+    <value>7. Proprietate Intelectuală</value>
+  </data>
+  <data name="8. Limitation of Liability" xml:space="preserve">
+    <value>8. Limitarea răspunderii</value>
+  </data>
+  <data name="9. Modifications to the Terms" xml:space="preserve">
+    <value>9. Modificări ale Termenilor</value>
+  </data>
+  <data name="Aiursoft hosts the infrastructure on our secured servers. We are responsible for server uptime, standard backups, and basic network security." xml:space="preserve">
+    <value>Aiursoft găzduiește infrastructura pe serverele noastre securizate. Suntem responsabili pentru disponibilitatea serverelor, backup-urile standard și securitatea de bază a rețelei.</value>
+  </data>
+  <data name="AIURSOFT LIMITED" xml:space="preserve">
+    <value>AIURSOFT LIMITED</value>
+  </data>
+  <data name="Aiursoft provides enterprise IT infrastructure solutions built upon open-source technologies (e.g., Linux, Nextcloud, Mailcow, Authentik, GitLab)." xml:space="preserve">
+    <value>Aiursoft oferă soluții de infrastructură IT pentru întreprinderi, construite pe tehnologii open-source (de exemplu: Linux, Nextcloud, Mailcow, Authentik, GitLab).</value>
+  </data>
+  <data name="All fees are exclusive of applicable taxes, levies, or duties imposed by taxing authorities, and you shall be responsible for payment of all such taxes." xml:space="preserve">
+    <value>Toate taxele sunt excluse de impozitele, taxele sau vămuirile aplicabile impuse de autoritățile fiscale, iar dumneavoastră sunteți responsabil de plata tuturor acestor taxe.</value>
+  </data>
+  <data name="All payments are securely processed by our third-party payment gateway, Stripe. Aiursoft does not collect, process, or store your full credit card information on our servers." xml:space="preserve">
+    <value>Toate plățile sunt procesate în siguranță de către portalul nostru de plată terț, Stripe. Aiursoft nu colectează, procesează sau stochează informațiile complete ale cardului dumneavoastră de credit pe serverele noastre.</value>
+  </data>
+  <data name="Any unauthorized access to your on-premise servers (for Startup/Enterprise plans)." xml:space="preserve">
+    <value>Orice acces neautorizat la serverele dvs. on-premise (pentru planurile Startup/Enterprise).</value>
+  </data>
+  <data name="Attempt to bypass or compromise any security measure implemented by Aiursoft on Cloud-Hosted plans." xml:space="preserve">
+    <value>Încercarea de a ocoli sau compromite orice măsură de securitate implementată de Aiursoft pe planurile Cloud-Hosted.</value>
+  </data>
+  <data name="Automatic Renewal:" xml:space="preserve">
+    <value>Renumerare automată:</value>
+  </data>
+  <data name="Certain features, such as offline AI Knowledge Base construction or hardware-based Zero Trust authentication, may require physical hardware (e.g., NVIDIA GPUs, YubiKeys). Unless explicitly stated in a custom enterprise contract, you are responsible for procuring this hardware directly from the respective manufacturers. Aiursoft acts solely as the software integration provider." xml:space="preserve">
+    <value>Anumite funcționalități, cum ar fi construirea unei baze de cunoștințe AI offline sau autentificarea Zero Trust bazată pe hardware, pot necesita hardware fizic (de exemplu, GPU-uri NVIDIA, YubiKeys). Cu excepția cazului în care este stipulat explicit într-un contract antreprenorial personalizat, sunteți responsabil de procurarea acestui hardware direct de la producătorii respectivi. Aiursoft acționează exclusiv ca furnizor de integrare software.</value>
+  </data>
+  <data name="Cloud-Hosted Plans (e.g., Core):" xml:space="preserve">
+    <value>Planuri găzduite în cloud (de ex. Core):</value>
+  </data>
+  <data name="Company Entity: AIURSOFT LIMITED (Hong Kong)" xml:space="preserve">
+    <value>Entitate Companie: AIURSOFT LIMITED (Hong Kong)</value>
+  </data>
+  <data name="Company:" xml:space="preserve">
+    <value>Companie:</value>
+  </data>
+  <data name="Data loss due to hardware failure on your self-hosted infrastructure." xml:space="preserve">
+    <value>Pierderea datelor cauzată de defecțiuni ale hardware-ului pe infrastructura găzduită de dumneavoastră.</value>
+  </data>
+  <data name="Effect of Cancellation:" xml:space="preserve">
+    <value>Efectul Anulării:</value>
+  </data>
+  <data name="Email:" xml:space="preserve">
+    <value>E-mail:</value>
+  </data>
+  <data name="For On-Premise plans requiring a One-Time Setup Fee, this fee covers the manual labor of our architects (e.g., network configuration, Docker deployment, Yubikey integration). Setup fees are strictly non-refundable once the deployment and configuration process has commenced." xml:space="preserve">
+    <value>Pentru planurile On-Premise care necesită o Taxă de Configurare Unică, această taxă acoperă munca manuală a arhitecților noștri (de exemplu, configurarea rețelei, implementarea Docker, integrarea Yubikey). Taxele de configurare sunt strict nerambursabile odată ce procesul de implementare și configurare a început.</value>
+  </data>
+  <data name="How to Cancel:" xml:space="preserve">
+    <value>Cum să anulați:</value>
+  </data>
+  <data name="If you cancel your subscription, the cancellation will take effect at the end of your current paid billing cycle. You will retain full access to the Services until that cycle concludes." xml:space="preserve">
+    <value>Dacă anulați abonamentul, anularea va intra în vigoare la sfârșitul ciclului actual de facturare plătit. Veți păstra accesul complet la Servicii până la finalizarea acestui ciclu.</value>
+  </data>
+  <data name="If you have any questions about these Terms, please contact our executive team at:" xml:space="preserve">
+    <value>Dacă aveți întrebări cu privire la acești Termeni, vă rugăm să contactați echipa noastră executivă la:</value>
+  </data>
+  <data name="In no event shall Aiursoft&apos;s aggregate liability for all claims related to the services exceed the total amount paid by you to Aiursoft for the specific service in the twelve (12) months preceding the claim." xml:space="preserve">
+    <value>În niciun caz, răspunderea cumulată a Aiursoft pentru toate plângerile legate de servicii nu va depăși suma totală plătită de dumneavoastră către Aiursoft pentru serviciul specific în cele douăsprezece (12) luni anterioare plângerii.</value>
+  </data>
+  <data name="Last Updated: March 2026" xml:space="preserve">
+    <value>Ultima actualizare: Martie 2026</value>
+  </data>
+  <data name="No Pro-Rated Refunds:" xml:space="preserve">
+    <value>Niciun ramburs parțial:</value>
+  </data>
+  <data name="On-Premise Plans (e.g., Startup, Custom Enterprise):" xml:space="preserve">
+    <value>Planuri On-Premise (de exemplu, Startup, Enterprise Personalizat):</value>
+  </data>
+  <data name="One-Time Setup Fees:" xml:space="preserve">
+    <value>Taxe unice de configurare:</value>
+  </data>
+  <data name="Payment Processing:" xml:space="preserve">
+    <value>Procesarea plăților:</value>
+  </data>
+  <data name="Per-User Billing:" xml:space="preserve">
+    <value>Facturare pe utilizator:</value>
+  </data>
+  <data name="Subscription fees are calculated based on the number of active users/accounts managed within your Aiursoft Identity Gateway per billing cycle." xml:space="preserve">
+    <value>Taxele de abonament sunt calculate în funcție de numărul de utilizatori/conturi active gestionate în Aiursoft Identity Gateway-ul dumneavoastră pe fiecare ciclu de facturare.</value>
+  </data>
+  <data name="Taxes:" xml:space="preserve">
+    <value>Taxe:</value>
+  </data>
+  <data name="Terms of Service &amp; Subscription Agreement" xml:space="preserve">
+    <value>Termeni și condiții &amp; Acord de abonament</value>
+  </data>
+  <data name="The Aiursoft brand, logos, website design, and proprietary deployment scripts (e.g., Aiursoft Template orchestrations) are the intellectual property of AIURSOFT LIMITED. The underlying open-source software remains the property of their respective creators and is provided to you under their specific open-source licenses." xml:space="preserve">
+    <value>Marca Aiursoft, logourile, design-ul site-ului web și scripturile proprietare de implementare (de exemplu, orchestrările Aiursoft Template) sunt proprietate intelectuală a AIURSOFT LIMITED. Software-ul open-source de bază rămâne proprietatea creatorilor săi respectivi și este pus la dispoziția dumneavoastră în temeiul licențelor lor specifice open-source.</value>
+  </data>
+  <data name="The Service is Commercial:" xml:space="preserve">
+    <value>Serviciul este comercial:</value>
+  </data>
+  <data name="The software is deployed on your local servers or private cloud. You retain absolute physical control and ownership of your data (&quot;Own Your Data&quot;). Consequently, you are solely responsible for your underlying hardware, local network security, physical access control, and disaster recovery backups. Aiursoft&apos;s responsibility is limited to software-level maintenance, container updates, and technical support as defined in your plan." xml:space="preserve">
+    <value>Software-ul este implementat pe serverele locale sau pe cloud-ul privat. Păstrați controlul fizic absolut și proprietatea asupra datelor dumneavoastră („Dețineți-vă datele&quot;). În consecință, sunteți singurul responsabil pentru hardware-ul de bază, securitatea rețelei locale, controlul accesului fizic și copiile de rezervă pentru recuperarea în caz de dezastre. Responsabilitatea Aiursoft este limitată la mentenanța la nivel de software, actualizările containerelor și asistența tehnică, așa cum este definită în planul dumneavoastră.</value>
+  </data>
+  <data name="The Software is Free:" xml:space="preserve">
+    <value>Software-ul este gratuit:</value>
+  </data>
+  <data name="The underlying open-source codes are subject to their respective licenses (e.g., MIT, GPL). You are free to inspect, modify, and distribute the code as permitted by those licenses." xml:space="preserve">
+    <value>Codul sursă open-source subiacent este supus licențelor sale respective (de exemplu, MIT, GPL). Sunteți liberi să inspectați, să modificați și să distribuiți codul în măsura permisă de aceste licențe.</value>
+  </data>
+  <data name="These Terms of Service (&quot;Terms&quot;) govern your access to and use of the Aiursoft website, products, and subscription services, including but not limited to Aiursoft Substrate (Core, Startup, and Enterprise plans) (collectively, the &quot;Services&quot;). By registering for an account or purchasing a subscription, you agree to be bound by these Terms." xml:space="preserve">
+    <value>Prezentele Termeni de Serviciu („Termeni&quot;) reglementează accesul dumneavoastră la și utilizarea site-ului web, a produselor și a serviciilor de abonament Aiursoft, inclusiv, dar fără a se limita la Aiursoft Substrate (planurile Core, Startup și Enterprise) (în ansamblu, „Serviciile&quot;). Înregistrându-vă un cont sau achiziționând un abonament, sunteți de acord să fiți legat de acești Termeni.</value>
+  </data>
+  <data name="These Terms shall be governed by and construed in accordance with the laws of the Hong Kong Special Administrative Region, without regard to its conflict of law provisions." xml:space="preserve">
+    <value>Prezentele Termeni vor fi guvernați și interpretați în conformitate cu legislația Regiunii Administrative Speciale Hong Kong, fără a se lua în considerare dispozițiile sale privind conflictul de legi.</value>
+  </data>
+  <data name="To ensure uninterrupted service, our commercial plans operate on a recurring subscription basis." xml:space="preserve">
+    <value>Pentru a asigura un serviciu neîntrerupt, planurile noastre comerciale funcționează pe bază de abonare recurentă.</value>
+  </data>
+  <data name="To the maximum extent permitted by law, Aiursoft Limited shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses, resulting from:" xml:space="preserve">
+    <value>În cea mai mare măsură permisă de lege, Aiursoft Limited nu va fi răspunzătoare pentru niciun prejudiciu indirect, incidental, special, consecințial sau punitiv, nici pentru orice pierdere de profituri sau venituri, indiferent dacă acestea au fost suportate direct sau indirect, nici pentru orice pierdere de date, utilizare, reputație sau alte pierderi imateriale, rezultate din:</value>
+  </data>
+  <data name="Use our Cloud-Hosted email services (Mailcow) to send unsolicited spam or conduct phishing campaigns. Violation of this rule will result in immediate account termination without refund." xml:space="preserve">
+    <value>Nu utilizați serviciile noastre de e-mail găzduite în cloud (Mailcow) pentru a trimite spam nesolicitat sau pentru a desfășura campanii de phishing. Încălcarea acestei reguli va duce la suspendarea imediată a contului fără rambursare.</value>
+  </data>
+  <data name="Use the Services to conduct any illegal, fraudulent, or malicious activities." xml:space="preserve">
+    <value>Utilizarea Serviciilor pentru a desfășura orice activități ilegale, frauduloase sau malițioase.</value>
+  </data>
+  <data name="We do not provide refunds or credits for any partial-month subscription periods, or for user accounts that were provisioned but remained inactive." xml:space="preserve">
+    <value>Nu oferim rambursări sau credite pentru perioade parțiale de abonament lunar sau pentru conturile de utilizator care au fost create dar au rămas inactivate.</value>
+  </data>
+  <data name="We may revise these Terms from time to time to better reflect changes to the law, new regulatory requirements, or improvements made to our Services. If an update affects your use of the Services or your legal rights as a user of our Services, we’ll notify you prior to the update&apos;s effective date by sending an email to the account owner." xml:space="preserve">
+    <value>Ne rezervăm dreptul de a revizui de la timp la timp acești Termeni pentru a reflecta mai bine modificările legislative, noile cerințe reglementare sau îmbunătățirile aduse Serviciilor noastre. Dacă o actualizare afectează utilizarea dumneavoastră a Serviciilor sau drepturile dumneavoastră legale în calitate de utilizator al Serviciilor noastre, vă vom notifica înainte de data intrării în vigoare a actualizării, trimițând un e-mail proprietarului contului.</value>
+  </data>
+  <data name="We offer different tiers of deployment to suit your business needs:" xml:space="preserve">
+    <value>Oferim diferite niveluri de implementare pentru a se potrivi nevoilor afacerii dumneavoastră:</value>
+  </data>
+  <data name="Welcome to Aiursoft. We are dedicated to bringing the spirit of open-source and free software to every enterprise and individual." xml:space="preserve">
+    <value>Bine ați venit la Aiursoft. Ne dedicăm aducerii spiritului software-ului open-source și liber în fiecare întreprindere și individ.</value>
+  </data>
+  <data name="What you are purchasing from Aiursoft is the hosting, automated deployment, maintenance, priority support, and enterprise integration of these tools." xml:space="preserve">
+    <value>Ce achiziționați de la Aiursoft este găzduirea, implementarea automatizată, mentenanța, suportul prioritar și integrarea la nivel de întreprindere a acestor instrumente.</value>
+  </data>
+  <data name="You agree not to misuse the Services or help anyone else to do so. You must not:" xml:space="preserve">
+    <value>Vă angajați să nu abuzați de Servicii și să nu ajutați pe nimeni altcineva să facă acest lucru. Nu trebuie să:</value>
+  </data>
+  <data name="You may cancel your subscription at any time through your Aiursoft Billing Dashboard or by contacting our support team." xml:space="preserve">
+    <value>Puteți anula abonamentul în orice moment prin intermediul Panoului de Facturare Aiursoft sau contactând echipa noastră de suport.</value>
+  </data>
+  <data name="Your access to or use of or inability to access or use the Services." xml:space="preserve">
+    <value>Accesul dumneavoastră la Servicii, utilizarea acestora sau incapacitatea de a accesa sau utiliza Serviciile.</value>
+  </data>
+  <data name="Your subscription will automatically renew at the end of each billing cycle (monthly or annually) unless you cancel it prior to the renewal date. You authorize us (via Stripe) to charge the applicable subscription fees to your payment method on file." xml:space="preserve">
+    <value>Abonamentul dumneavoastră va fi reînnoit automat la sfârșitul fiecărui ciclu de facturare (lunar sau anual), cu excepția cazului în care îl anulați înainte de data reînnoirii. Ne autorizați (prin intermediul Stripe) să debităm taxele de abonament aplicabile de pe metoda de plată înregistrată a dumneavoastră.</value>
+  </data>
+
+</root>
