@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="1. The Aiursoft Privacy Philosophy" xml:space="preserve">
+    <value>1. Aiursofts privatlivsfilosofi</value>
+  </data>
+  <data name="2. Core Distinction: Data Controller vs. Data Processor" xml:space="preserve">
+    <value>2. Kerneforskel: Dataansvarlig vs. databehandler</value>
+  </data>
+  <data name="3. What Data We Actually Collect" xml:space="preserve">
+    <value>3. Hvilke data vi faktisk indsamler</value>
+  </data>
+  <data name="4. How We Use Your Data" xml:space="preserve">
+    <value>4. Hvordan vi bruger dine data</value>
+  </data>
+  <data name="5. Data Sharing and Third-Party Sub-Processors" xml:space="preserve">
+    <value>5. Deltagelse af data og tredjeparts underbehandlere</value>
+  </data>
+  <data name="6. Data Retention and Deletion" xml:space="preserve">
+    <value>6. Dataopbevaring og sletning</value>
+  </data>
+  <data name="7. Your Data Rights" xml:space="preserve">
+    <value>7. Dine databeskyttelsesrettigheder</value>
+  </data>
+  <data name="8. Contact Us" xml:space="preserve">
+    <value>8. Kontakt os</value>
+  </data>
+  <data name="Account Information:" xml:space="preserve">
+    <value>Kontopoplysninger:</value>
+  </data>
+  <data name="AIURSOFT LIMITED" xml:space="preserve">
+    <value>AIURSOFT LIMITED</value>
+  </data>
+  <data name="Aiursoft Privacy Policy" xml:space="preserve">
+    <value>Aiursoft Privatlivspolitik</value>
+  </data>
+  <data name="At Aiursoft, our foundational mission is to bring the spirit of open-source and free software to every enterprise and individual. This commitment to freedom inherently extends to your privacy and data sovereignty. We believe that your data belongs exclusively to you." xml:space="preserve">
+    <value>På Aiursoft er vores grundlæggende mission at bringe ånden af open-source og fri software til hvert eneste foretagende og hver enkelt person. Dette engagement for frihed udstrækker sig naturligt til din privatliv og din data-suverænitet. Vi mener, at dine data udelukkende tilhører dig.</value>
+  </data>
+  <data name="Beyond these essential operational partners, Aiursoft will never disclose your data to any third party, including government entities, unless legally compelled to do so by a valid, binding court order or subpoena originating from a competent jurisdiction." xml:space="preserve">
+    <value>Ud over disse essentielle driftspartnere vil Aiursoft aldrig afsløre dine data til tredjeparter, herunder myndigheder, medmindre det er påkrævet ved lov gennem en gyldig, bindende domstolskendelse eller en underkendelse udstedt af en kompetent jurisdiktion.</value>
+  </data>
+  <data name="Billing and Payment Data:" xml:space="preserve">
+    <value>Fakturering og betalingsdata:</value>
+  </data>
+  <data name="Communication:" xml:space="preserve">
+    <value>Kommunikation:</value>
+  </data>
+  <data name="Company Entity:" xml:space="preserve">
+    <value>Virksomhedsenhed:</value>
+  </data>
+  <data name="Company Entity: AIURSOFT LIMITED (Hong Kong)" xml:space="preserve">
+    <value>Virksomhedsenhed: AIURSOFT LIMITED (Hong Kong)</value>
+  </data>
+  <data name="Crucially, AIURSOFT LIMITED does not collect, process, or store your full credit card numbers or sensitive financial instruments on our servers. All payment transactions are securely handled by our PCI-DSS compliant third-party payment processor, Stripe, Inc. We only receive and retain non-sensitive billing information from Stripe, such as your billing address, subscription status, and the last four digits of your payment card, strictly for the purposes of issuing invoices, managing your active subscriptions, and complying with financial record-keeping laws." xml:space="preserve">
+    <value>Vigtigt indsamler, behandler eller opbevarer AIURSOFT LIMITED ikke dine fulde kreditkortnumre eller følsomme finansielle instrumenter på vores servere. Alle betalingstransaktioner håndteres sikkert af vores PCI-DSS-konforme tredjeparts betalingsprocessor, Stripe, Inc. Vi modtager og opbevarer kun ikke-følsomme faktureringsoplysninger fra Stripe, såsom din faktureringsadresse, abonnementsstatus og de sidste fire cifre på dit betalingskort, udelukkende med henblik på udstedelse af fakturaer, styring af dine aktive abonnementer og overholdelse af love om bogføring af finansielle poster.</value>
+  </data>
+  <data name="During Active Subscription:" xml:space="preserve">
+    <value>Under aktiv abonnement:</value>
+  </data>
+  <data name="Email:" xml:space="preserve">
+    <value>E-mail:</value>
+  </data>
+  <data name="Exclusively for secure payment processing and subscription management." xml:space="preserve">
+    <value>Udelukkende til sikker betalingsbehandling og abonnementshåndtering.</value>
+  </data>
+  <data name="For Cloud-Hosted Plans (e.g., Aiursoft Substrate S1 Core):" xml:space="preserve">
+    <value>For Cloud-Hosted Plans (e.g., Aiursoft Substrate S1 Core):</value>
+  </data>
+  <data name="For on-premise deployments, cancellation simply terminates our support and update services. Your data remains entirely intact on your own servers, under your complete control." xml:space="preserve">
+    <value>For on-premise deployments, cancellation simply terminates our support and update services. Your data remains entirely intact on your own servers, under your complete control.</value>
+  </data>
+  <data name="For On-Premise Plans (e.g., Aiursoft Substrate S3 Startup &amp; S5 Enterprise):" xml:space="preserve">
+    <value>For On-Premise Plans (f.eks. Aiursoft Substrate S3 Startup &amp; S5 Enterprise):</value>
+  </data>
+  <data name="For provisioning the underlying high-performance cloud infrastructure that powers our official websites and Cloud-Hosted (S1 Core) client instances." xml:space="preserve">
+    <value>Til provisioning af den underliggende højtydende cloud-infrastruktur, der driver vores officielle websteder og Cloud-Hosted (S1 Core) klientinstanser.</value>
+  </data>
+  <data name="If you choose to cancel a Cloud-Hosted subscription, your account will remain active until the end of the current billing cycle. Following the expiration of your subscription, we observe a strict 30-day grace period. After this 30-day period, all of your associated business data (emails, files, databases) will be permanently, irreversibly, and securely hard-deleted from our hosting infrastructure. We cannot recover data once this deletion process has occurred." xml:space="preserve">
+    <value>Hvis du vælger at annullere et Cloud-Hosted-abonnement, forbliver din konto aktiv indtil slutningen af den nuværende faktureringscyklus. Efter udløbet af dit abonnement overholder vi en streng 30-dages nådeperiode. Efter denne 30-dages periode vil al din tilknyttede forretningsdata (e-mails, filer, databaser) blive permanent, uigenkaldeligt og sikkert slettet (hard-deleted) fra vores hostinginfrastruktur. Vi kan ikke gendanne data, når denne sletningsproces er gennemført.</value>
+  </data>
+  <data name="If you have any questions, concerns, or requests regarding this Privacy Policy or our data handling practices, please contact our executive team:" xml:space="preserve">
+    <value>Hvis du har spørgsmål, bekymringer eller anmodninger vedrørende denne Privatlivspolitik eller vores databehandlingspraksis, bedes du kontakte vores ledelse:</value>
+  </data>
+  <data name="In accordance with global privacy standards, including the principles outlined in regulations such as the GDPR and the Hong Kong Personal Data (Privacy) Ordinance (PDPO), you possess the following rights regarding your personal data held by Aiursoft:" xml:space="preserve">
+    <value>I overensstemmelse med globale standarder for databeskyttelse, herunder principperne fastlagt i regler som GDPR og Hong Kongs persondataordning (PDPO), har du følgende rettigheder i forhold til dine personoplysninger, som Aiursoft behandler:</value>
+  </data>
+  <data name="Last Updated: March 2026" xml:space="preserve">
+    <value>Senest opdateret: Marts 2026</value>
+  </data>
+  <data name="Minimal Data Collection:" xml:space="preserve">
+    <value>Minimal dataindsamling:</value>
+  </data>
+  <data name="No Data Selling:" xml:space="preserve">
+    <value>Ingen salg af data:</value>
+  </data>
+  <data name="No Hidden Telemetry:" xml:space="preserve">
+    <value>Ingen skjult telemetri:</value>
+  </data>
+  <data name="Our software solutions are designed without concealed telemetry, advertising trackers, or behavioral profiling mechanisms." xml:space="preserve">
+    <value>Vores softwareløsninger er designet uden skjult telemetri, reklamesporere eller mekanismer til adfærdsmæssig profilering.</value>
+  </data>
+  <data name="Right to Access:" xml:space="preserve">
+    <value>Ret til adgang:</value>
+  </data>
+  <data name="Right to Erasure (The &quot;Right to be Forgotten&quot;):" xml:space="preserve">
+    <value>Ret til sletning (retten til at blive glemt):</value>
+  </data>
+  <data name="Right to Rectification:" xml:space="preserve">
+    <value>Ret til retelse:</value>
+  </data>
+  <data name="Service Provisioning:" xml:space="preserve">
+    <value>Tilvejebringelse af service:</value>
+  </data>
+  <data name="Strict Prohibition on AI Training:" xml:space="preserve">
+    <value>Strikt forbud mod AI-træning:</value>
+  </data>
+  <data name="Stripe, Inc.:" xml:space="preserve">
+    <value>Stripe, Inc.:</value>
+  </data>
+  <data name="Technical and Diagnostic Data:" xml:space="preserve">
+    <value>Tekniske og diagnostiske data:</value>
+  </data>
+  <data name="The limited data we do collect is utilized solely for the following legitimate business purposes:" xml:space="preserve">
+    <value>De begrænsede data, vi indsamler, bruges udelukkende til følgende legitime forretningsmæssige formål:</value>
+  </data>
+  <data name="To clearly understand how your data is handled, it is crucial to differentiate between the types of deployment plans we offer, as our legal and technical relationship to your data changes significantly based on your chosen architecture:" xml:space="preserve">
+    <value>For at forstå klart, hvordan dine data håndteres, er det afgørende at skelne mellem de typer af implementeringsplaner, vi tilbyder, da vores juridiske og tekniske forhold til dine data ændrer sig væsentligt afhængigt af den arkitektur, du vælger:</value>
+  </data>
+  <data name="To create your account, configure your chosen deployment (whether cloud-hosted or coordinating on-premise setup), and authenticate your access." xml:space="preserve">
+    <value>For at oprette din konto, konfigurere dit valgte udrulning (uanset om det er cloud-hostet eller en koordineret on-premise-opstilling) og godkende din adgang.</value>
+  </data>
+  <data name="To exercise any of these rights, please contact us using the information provided below or manage your preferences directly within your Aiursoft account dashboard." xml:space="preserve">
+    <value>For at udøve nogen af disse rettigheder, bedes du kontakte os ved hjælp af de oplysninger, der er angivet nedenfor, eller administrer dine præferencer direkte i dit Aiursoft-kontodashboard.</value>
+  </data>
+  <data name="To facilitate our business relationship and manage your subscriptions, we collect the following limited categories of information:" xml:space="preserve">
+    <value>For at lette vores forretningsforhold og administrere dine abonnementer, indsamler vi følgende begrænsede kategorier af oplysninger:</value>
+  </data>
+  <data name="To facilitate subscription billing and process payments securely via Stripe." xml:space="preserve">
+    <value>For at lette abonnementsfakturering og behandle betalinger sikkert via Stripe.</value>
+  </data>
+  <data name="To send you critical system notifications (such as scheduled maintenance alerts or downtime warnings), billing receipts, and responses to your technical support inquiries." xml:space="preserve">
+    <value>For at sende dig kritiske systemmeddelelser (såsom varsler om planlagt vedligeholdelse eller advarsler om driftsstop), fakturaer og svar på dine henvendelser til teknisk support.</value>
+  </data>
+  <data name="Transaction Processing:" xml:space="preserve">
+    <value>Behandling af transaktioner:</value>
+  </data>
+  <data name="Upon Cancellation (Cloud-Hosted Plans):" xml:space="preserve">
+    <value>Ved afmelding (cloud-hostede abonnementer):</value>
+  </data>
+  <data name="Upon Cancellation (On-Premise Plans):" xml:space="preserve">
+    <value>Ved Opsigelse (On-Premise Planer):</value>
+  </data>
+  <data name="Voxihost:" xml:space="preserve">
+    <value>Voxihost:</value>
+  </data>
+  <data name="We are unequivocally committed to the following principles:" xml:space="preserve">
+    <value>Vi er ubetinget forpligtet til følgende principper:</value>
+  </data>
+  <data name="We categorically state that your private data, documents, and communications are never used to train our AI models or any third-party Large Language Models (LLMs). Our AI solutions, particularly in the Custom Enterprise tier, are designed to run locally and train exclusively on data you explicitly provide within your secure environment." xml:space="preserve">
+    <value>Vi erklærer kategorisk, at dine private data, dokumenter og kommunikation aldrig bruges til at træne vores AI-modeller eller tredjeparts Large Language Models (LLMs). Vores AI-løsninger, især i Custom Enterprise-niveauet, er designet til at køre lokalt og trænes udelukkende på data, du eksplicit leverer inden for dit sikre miljø.</value>
+  </data>
+  <data name="We collect only the absolute minimum data necessary to provide you with secure, reliable, and functional services." xml:space="preserve">
+    <value>Vi indsamler kun det absolutte minimum af data, der er nødvendigt for at levere sikre, pålidelige og funktionelle tjenester til dig.</value>
+  </data>
+  <data name="We do not share your personal information with external parties except where absolutely necessary to deliver our services. To operate effectively, we utilize the following trusted third-party sub-processors:" xml:space="preserve">
+    <value>Vi deler ikke dine personoplysninger med eksterne parter, medmindre det er absolut nødvendigt for at levere vores tjenester. For at fungere effektivt bruger vi følgende betroede tredjeparts underforarbejdere:</value>
+  </data>
+  <data name="We do not, and will never, sell, rent, or lease your personal or business data to third parties." xml:space="preserve">
+    <value>Vi sælger, lejer ud eller udlejer aldrig dine personlige eller erhvervsdata til tredjeparter, og det vil vi heller aldrig gøre.</value>
+  </data>
+  <data name="We securely retain your account and hosted data for the duration of your active subscription to ensure continuous service delivery." xml:space="preserve">
+    <value>Vi opbevarer sikkert din konto og dine hostede data i hele perioden, hvor dit abonnement er aktivt, for at sikre en kontinuerlig leverance af tjenesten.</value>
+  </data>
+  <data name="When you elect to deploy our solutions on your own local servers or private cloud environments, You are in absolute control. In these deployments, Aiursoft has Zero Access to your physical servers, networks, files, emails, or locally constructed AI knowledge bases. Because the data physically resides within your perimeter, we cannot collect, view, or process it. Your privacy is guaranteed by physical and network isolation." xml:space="preserve">
+    <value>Når du vælger at implementere vores løsninger på dine egne lokale servere eller i private cloud-miljøer, har du fuld kontrol. I disse implementeringer har Aiursoft nul adgang til dine fysiske servere, netværk, filer, e-mails eller lokalt opbyggede AI-videnbaser. Da dataene fysisk befinder sig inden for dit sikkerhedsområde, kan vi ikke indsamle, se eller behandle dem. Din privatliv er garanteret ved fysisk og netværksmæssig isolering.</value>
+  </data>
+  <data name="When you register for an Aiursoft commercial account or engage with our sales team, we collect necessary contact details, including your name, your work email address, and your company name. This information is used strictly for account administration and communication." xml:space="preserve">
+    <value>Når du registrerer en kommerciel Aiursoft-konto eller kontakter vores salgsteam, indsamler vi nødvendige kontaktoplysninger, herunder dit navn, din arbejds-e-mailadresse og dit firmanavn. Disse oplysninger bruges udelukkende til kontoadministration og kommunikation.</value>
+  </data>
+  <data name="When you utilize our cloud-hosted infrastructure (such as Mailcow, Nextcloud, or Authentik instances managed on our servers), AIURSOFT LIMITED acts as a Data Processor. You remain the Data Controller. We host and maintain the infrastructure to ensure uptime and security, but our personnel possess absolutely zero access to your underlying business data (e.g., the contents of your emails, your stored files, or your internal chat logs) unless you explicitly grant us temporary, revocable access for the sole purpose of resolving a technical support ticket you have initiated." xml:space="preserve">
+    <value>Når du benytter vores cloud-hostede infrastruktur (såsom Mailcow, Nextcloud eller Authentik-instanser, der administreres på vores servere), fungerer AIURSOFT LIMITED som en databehandler. Du forbliver databehandleren. Vi hoster og vedligeholder infrastrukturen for at sikre driftstid og sikkerhed, men vores personale har absolut nul adgang til dine underliggende forretningsdata (f.eks. indholdet af dine e-mails, dine lagrede filer eller dine interne chatlogs), medmindre du eksplicitt giver os midlertidig, tilbagekaldelig adgang med det ene formål at løse en teknisk supportanmodning, du har initieret.</value>
+  </data>
+  <data name="When you visit our public-facing websites (e.g., aiursoft.com), our web servers automatically log standard technical information, such as your IP address, browser type, and access times. This data is utilized exclusively for security monitoring (e.g., preventing DDoS attacks), ensuring the stability of our web infrastructure, and basic, anonymized traffic analysis. We do not employ invasive third-party tracking cookies for behavioral advertising." xml:space="preserve">
+    <value>Når du besøger vores offentlige websteder (f.eks. aiursoft.com), logger vores webserverer automatisk standard teknisk information, såsom din IP-adresse, browsertype og adgangstider. Disse data bruges udelukkende til sikkerhedsovervågning (f.eks. forebyggelse af DDoS-angreb), sikring af stabiliteten i vores webinfrastruktur og grundlæggende, anonymiseret trafikanalyse. Vi bruger ikke invasive tredjepartssporingscookies til adfærdsmæssig reklame.</value>
+  </data>
+  <data name="You may request a copy of the personal data we hold about you." xml:space="preserve">
+    <value>Du kan anmode om en kopi af de personoplysninger, vi har om dig.</value>
+  </data>
+  <data name="You may request that we correct any inaccurate or incomplete personal data." xml:space="preserve">
+    <value>Du kan anmode om, at vi retter eventuelle unøjagtige eller ufuldstændige personoplysninger.</value>
+  </data>
+  <data name="You may request the complete deletion of your account and associated personal data from our systems, subject to our retention policies for cancelled subscriptions and legal compliance requirements." xml:space="preserve">
+    <value>Du kan anmode om fuldstændig sletning af din konto og tilknyttede personoplysninger fra vores systemer, under forudsætning af vores opbevaringspolitikker for ophævede abonnementer og krav til lovoverholdelse.</value>
+  </data>
+
+</root>
