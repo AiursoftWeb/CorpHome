@@ -36,6 +36,12 @@
   <data name="The {0} must be at least {2} and at max {1} characters long." xml:space="preserve">
     <value>Το {0} πρέπει να έχει τουλάχιστον {2} και το πολύ {1} χαρακτήρες.</value>
   </data>
+  <data name="The {0} must be less than {1} characters." xml:space="preserve">
+    <value>Το {0} πρέπει να έχει λιγότερους από {1} χαρακτήρες.</value>
+  </data>
+  <data name="The {0} must be more than {1} characters." xml:space="preserve">
+    <value>Το {0} πρέπει να έχει περισσότερα από {1} χαρακτήρες.</value>
+  </data>
   <data name="User name" xml:space="preserve">
     <value>Όνομα χρήστη</value>
   </data>

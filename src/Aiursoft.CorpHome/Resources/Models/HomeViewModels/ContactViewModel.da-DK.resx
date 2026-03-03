@@ -48,6 +48,12 @@
   <data name="Organization Size" xml:space="preserve">
     <value>Organisationsstørrelse</value>
   </data>
+  <data name="The {0} is not a valid email address." xml:space="preserve">
+    <value>{0} er ikke en gyldig e-mailadresse.</value>
+  </data>
+  <data name="The {0} is required." xml:space="preserve">
+    <value>{0} er påkrævet.</value>
+  </data>
   <data name="What services do you provide?" xml:space="preserve">
     <value>Hvilke tjenester tilbyder I?</value>
   </data>

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="1. The Aiursoft Privacy Philosophy" xml:space="preserve">
+    <value>1. Aiursoft Gizlilik Felsefesi</value>
+  </data>
+  <data name="2. Core Distinction: Data Controller vs. Data Processor" xml:space="preserve">
+    <value>2. Temel Ayrım: Veri Sorumlusu vs. Veri İşleyici</value>
+  </data>
+  <data name="3. What Data We Actually Collect" xml:space="preserve">
+    <value>3. Aslında Hangi Verileri Topluyoruz</value>
+  </data>
+  <data name="4. How We Use Your Data" xml:space="preserve">
+    <value>4. Verilerinizi Nasıl Kullanıyoruz</value>
+  </data>
+  <data name="5. Data Sharing and Third-Party Sub-Processors" xml:space="preserve">
+    <value>5. Veri Paylaşımı ve Üçüncü Taraf Alt İşleyiciler</value>
+  </data>
+  <data name="6. Data Retention and Deletion" xml:space="preserve">
+    <value>6. Veri Saklama ve Silme</value>
+  </data>
+  <data name="7. Your Data Rights" xml:space="preserve">
+    <value>7. Veri Haklarınız</value>
+  </data>
+  <data name="8. Contact Us" xml:space="preserve">
+    <value>8. Bize Ulaşın</value>
+  </data>
+  <data name="Account Information:" xml:space="preserve">
+    <value>Hesap Bilgileri:</value>
+  </data>
+  <data name="AIURSOFT LIMITED" xml:space="preserve">
+    <value>AIURSOFT LIMITED</value>
+  </data>
+  <data name="Aiursoft Privacy Policy" xml:space="preserve">
+    <value>Aiursoft Gizlilik Politikası</value>
+  </data>
+  <data name="At Aiursoft, our foundational mission is to bring the spirit of open-source and free software to every enterprise and individual. This commitment to freedom inherently extends to your privacy and data sovereignty. We believe that your data belongs exclusively to you." xml:space="preserve">
+    <value>Aiursoft&apos;ta temel misyonumuz, açık kaynaklı ve özgür yazılımın ruhunu her işletmeye ve bireye taşımaktır. Özgürlüğe olan bu bağlılık, mahremiyetiniz ve veri egemenliğiniz için de doğal olarak geçerlidir. Verilerinizin tamamen size ait olduğuna inanıyoruz.</value>
+  </data>
+  <data name="Beyond these essential operational partners, Aiursoft will never disclose your data to any third party, including government entities, unless legally compelled to do so by a valid, binding court order or subpoena originating from a competent jurisdiction." xml:space="preserve">
+    <value>Bu temel iş ortaklarının ötesinde, Aiursoft, yetkili bir yargı bölgesinden çıkan geçerli ve bağlayıcı bir mahkeme emri veya sulh emri ile yasal olarak zorlanmadıkça, hükümet kuruluşları dahil olmak üzere verilerinizi hiçbir üçüncü şahısla paylaşmayacaktır.</value>
+  </data>
+  <data name="Billing and Payment Data:" xml:space="preserve">
+    <value>Faturalandırma ve Ödeme Verileri:</value>
+  </data>
+  <data name="Communication:" xml:space="preserve">
+    <value>İletişim:</value>
+  </data>
+  <data name="Company Entity:" xml:space="preserve">
+    <value>Şirket Kurumu:</value>
+  </data>
+  <data name="Company Entity: AIURSOFT LIMITED (Hong Kong)" xml:space="preserve">
+    <value>Şirket Birimi: AIURSOFT LIMITED (Hong Kong)</value>
+  </data>
+  <data name="Crucially, AIURSOFT LIMITED does not collect, process, or store your full credit card numbers or sensitive financial instruments on our servers. All payment transactions are securely handled by our PCI-DSS compliant third-party payment processor, Stripe, Inc. We only receive and retain non-sensitive billing information from Stripe, such as your billing address, subscription status, and the last four digits of your payment card, strictly for the purposes of issuing invoices, managing your active subscriptions, and complying with financial record-keeping laws." xml:space="preserve">
+    <value>Önemli olan, AIURSOFT LIMITED&apos;in sunucularınızda tam kredi kartı numaralarınızı veya hassas finansal araçlarınızı toplamaması, işlem yapmaması veya saklamamasıdır. Tüm ödeme işlemleri, PCI-DSS uyumlu üçüncü taraf ödeme işlemcimiz Stripe, Inc. tarafından güvenli bir şekilde yürütülür. Stripe&apos;tan yalnızca fatura adresiniz, abonelik durumunuz ve ödeme kartınızın son dört hanesi gibi hassas olmayan faturalandırma bilgilerini alır ve saklarız; bu da yalnızca fatura düzenleme, aktif aboneliklerinizi yönetme ve finansal kayıt tutma yasağına uyum sağlama amaçları için geçerlidir.</value>
+  </data>
+  <data name="During Active Subscription:" xml:space="preserve">
+    <value>Aktif Abonelik Süresince:</value>
+  </data>
+  <data name="Email:" xml:space="preserve">
+    <value>E-posta:</value>
+  </data>
+  <data name="Exclusively for secure payment processing and subscription management." xml:space="preserve">
+    <value>Sadece güvenli ödeme işleme ve abonelik yönetimi için.</value>
+  </data>
+  <data name="For Cloud-Hosted Plans (e.g., Aiursoft Substrate S1 Core):" xml:space="preserve">
+    <value>Bulut Barındırma Planları İçin (örneğin, Aiursoft Substrate S1 Core):</value>
+  </data>
+  <data name="For on-premise deployments, cancellation simply terminates our support and update services. Your data remains entirely intact on your own servers, under your complete control." xml:space="preserve">
+    <value>Kurumsal sunuculara kurulumlar için, iptal işlemi yalnızca destek ve güncelleme hizmetlerimizi sonlandırır. Verileriniz, tamamen kontrolünüz altında, kendi sunucularınızda tamamen korumalı kalır.</value>
+  </data>
+  <data name="For On-Premise Plans (e.g., Aiursoft Substrate S3 Startup &amp; S5 Enterprise):" xml:space="preserve">
+    <value>Kurumsal Planlar İçin (örn. Aiursoft Substrate S3 Startup &amp; S5 Enterprise):</value>
+  </data>
+  <data name="For provisioning the underlying high-performance cloud infrastructure that powers our official websites and Cloud-Hosted (S1 Core) client instances." xml:space="preserve">
+    <value>Resmi web sitelerimizi ve Bulut Barındırılan (S1 Core) istemci örneklerini destekleyen altta yatan yüksek performanslı bulut altyapısının sağlanması için.</value>
+  </data>
+  <data name="If you choose to cancel a Cloud-Hosted subscription, your account will remain active until the end of the current billing cycle. Following the expiration of your subscription, we observe a strict 30-day grace period. After this 30-day period, all of your associated business data (emails, files, databases) will be permanently, irreversibly, and securely hard-deleted from our hosting infrastructure. We cannot recover data once this deletion process has occurred." xml:space="preserve">
+    <value>Cloud-Hosted bir aboneliği iptal etmeyi seçerseniz, hesabınız mevcut faturalandırma döngüsünün sonuna kadar aktif kalacaktır. Aboneliğinizin sona ermesinin ardından, katı bir 30 günlük ek süre uygulanır. Bu 30 günlük sürenin ardından, tüm ilgili işletme verileriniz (e-postalar, dosyalar, veritabanları), barındırma altyapımızdan kalıcı, geri döndürülemez ve güvenli bir şekilde silinecektir. Bu silme işlemi gerçekleştiğinde veriler kurtarılamaz.</value>
+  </data>
+  <data name="If you have any questions, concerns, or requests regarding this Privacy Policy or our data handling practices, please contact our executive team:" xml:space="preserve">
+    <value>Bu Gizlilik Politikası veya veri işleme uygulamalarımızla ilgili herhangi bir sorunuz, endişeniz veya talebiniz varsa, lütfen yöneticilerimizle iletişime geçin:</value>
+  </data>
+  <data name="In accordance with global privacy standards, including the principles outlined in regulations such as the GDPR and the Hong Kong Personal Data (Privacy) Ordinance (PDPO), you possess the following rights regarding your personal data held by Aiursoft:" xml:space="preserve">
+    <value>GDPR ve Hong Kong Kişisel Veri (Gizlilik) Kanunu (PDPO) gibi düzenlemelerde belirtilen ilkeler dahil olmak üzere küresel gizlilik standartlarına uygun olarak, Aiursoft tarafından tutulan kişisel verilerinizle ilgili aşağıdaki haklara sahipsiniz:</value>
+  </data>
+  <data name="Last Updated: March 2026" xml:space="preserve">
+    <value>Son Güncelleme: Mart 2026</value>
+  </data>
+  <data name="Minimal Data Collection:" xml:space="preserve">
+    <value>Minimum Veri Toplama:</value>
+  </data>
+  <data name="No Data Selling:" xml:space="preserve">
+    <value>Veri Satışı Yapılmaz:</value>
+  </data>
+  <data name="No Hidden Telemetry:" xml:space="preserve">
+    <value>Gizli Telemetri Yok:</value>
+  </data>
+  <data name="Our software solutions are designed without concealed telemetry, advertising trackers, or behavioral profiling mechanisms." xml:space="preserve">
+    <value>Yazılım çözümlerimiz, gizli telemetri, reklam izleyicileri veya davranışsal profil oluşturma mekanizmaları olmadan tasarlanmıştır.</value>
+  </data>
+  <data name="Right to Access:" xml:space="preserve">
+    <value>Erişim Hakkı:</value>
+  </data>
+  <data name="Right to Erasure (The &quot;Right to be Forgotten&quot;):" xml:space="preserve">
+    <value>Silme Hakkı (&quot;Unutulma Hakkı&quot;):</value>
+  </data>
+  <data name="Right to Rectification:" xml:space="preserve">
+    <value>Düzeltme Hakkı:</value>
+  </data>
+  <data name="Service Provisioning:" xml:space="preserve">
+    <value>Hizmet Sağlama:</value>
+  </data>
+  <data name="Strict Prohibition on AI Training:" xml:space="preserve">
+    <value>Yapay Zeka Eğitiminde Kesin Yasağı:</value>
+  </data>
+  <data name="Stripe, Inc.:" xml:space="preserve">
+    <value>Stripe, Inc.:</value>
+  </data>
+  <data name="Technical and Diagnostic Data:" xml:space="preserve">
+    <value>Teknik ve Tanılama Verileri:</value>
+  </data>
+  <data name="The limited data we do collect is utilized solely for the following legitimate business purposes:" xml:space="preserve">
+    <value>Topladığımız sınırlı veriler yalnızca aşağıdaki meşru ticari amaçlar için kullanılır:</value>
+  </data>
+  <data name="To clearly understand how your data is handled, it is crucial to differentiate between the types of deployment plans we offer, as our legal and technical relationship to your data changes significantly based on your chosen architecture:" xml:space="preserve">
+    <value>Verilerinizin nasıl işlendiğini net bir şekilde anlamak için, sunduğumuz dağıtım planı türleri arasında ayrım yapmanız hayati önem taşır; çünkü verilerinizle olan yasal ve teknik ilişkimiz, seçtiğiniz mimariye bağlı olarak önemli ölçüde değişir:</value>
+  </data>
+  <data name="To create your account, configure your chosen deployment (whether cloud-hosted or coordinating on-premise setup), and authenticate your access." xml:space="preserve">
+    <value>Hesabınızı oluşturmak, seçtiğiniz dağıtımı yapılandırmak (bulut tabanlı veya yerel kurulum koordinasyonu) ve erişiminizi doğrulamak için.</value>
+  </data>
+  <data name="To exercise any of these rights, please contact us using the information provided below or manage your preferences directly within your Aiursoft account dashboard." xml:space="preserve">
+    <value>Bu haklardan herhangi birini kullanmak için lütfen aşağıda sağlanan bilgilerle bizimle iletişime geçin veya tercihlerinizi doğrudan Aiursoft hesap panelinizden yönetin.</value>
+  </data>
+  <data name="To facilitate our business relationship and manage your subscriptions, we collect the following limited categories of information:" xml:space="preserve">
+    <value>İş ilişkimizi kolaylaştırmak ve aboneliklerinizi yönetmek amacıyla aşağıdaki sınırlı bilgi kategorilerini topluyoruz:</value>
+  </data>
+  <data name="To facilitate subscription billing and process payments securely via Stripe." xml:space="preserve">
+    <value>Abonelik faturalandırmasını kolaylaştırmak ve Stripe aracılığıyla ödemeleri güvenli bir şekilde işlemek.</value>
+  </data>
+  <data name="To send you critical system notifications (such as scheduled maintenance alerts or downtime warnings), billing receipts, and responses to your technical support inquiries." xml:space="preserve">
+    <value>Kritik sistem bildirimlerini (planlı bakım uyarıları veya kesinti uyarıları gibi), fatura makbuzlarını ve teknik destek sorgularınıza verilen yanıtları göndermek için.</value>
+  </data>
+  <data name="Transaction Processing:" xml:space="preserve">
+    <value>İşlem İşleme:</value>
+  </data>
+  <data name="Upon Cancellation (Cloud-Hosted Plans):" xml:space="preserve">
+    <value>İptal Hakkında (Bulut Tabanlı Planlar):</value>
+  </data>
+  <data name="Upon Cancellation (On-Premise Plans):" xml:space="preserve">
+    <value>İptal Üzerine (Kurulum Yerinde Planlar):</value>
+  </data>
+  <data name="Voxihost:" xml:space="preserve">
+    <value>Voxihost:</value>
+  </data>
+  <data name="We are unequivocally committed to the following principles:" xml:space="preserve">
+    <value>Aşağıdaki ilkeler konusunda kesin bir şekilde taahhüt ediyoruz:</value>
+  </data>
+  <data name="We categorically state that your private data, documents, and communications are never used to train our AI models or any third-party Large Language Models (LLMs). Our AI solutions, particularly in the Custom Enterprise tier, are designed to run locally and train exclusively on data you explicitly provide within your secure environment." xml:space="preserve">
+    <value>Özel verilerinizin, belgelerinizin ve iletişimlerinizin asla yapay zeka modellerimizi veya herhangi bir üçüncü taraf Büyük Dil Modeli (LLM)&apos;yi eğitmek için kullanılmadığını kesin bir dille beyan ediyoruz. Yapay zeka çözümlerimiz, özellikle Custom Enterprise katmanında, yerel olarak çalışacak şekilde tasarlanmıştır ve yalnızca güvenli ortamınızda açıkça sağladığınız verilerle eğitilir.</value>
+  </data>
+  <data name="We collect only the absolute minimum data necessary to provide you with secure, reliable, and functional services." xml:space="preserve">
+    <value>Güvenli, güvenilir ve işlevsel hizmetler sunmak için yalnızca mutlak minimum veriyi topluyoruz.</value>
+  </data>
+  <data name="We do not share your personal information with external parties except where absolutely necessary to deliver our services. To operate effectively, we utilize the following trusted third-party sub-processors:" xml:space="preserve">
+    <value>Kişisel bilgilerinizi hizmetlerimizi sunmak için kesinlikle gerekli olmadıkça dış taraflarla paylaşmıyoruz. Etkili bir şekilde çalışabilmek için aşağıdaki güvenilir üçüncü taraf alt işleyicileri kullanıyoruz:</value>
+  </data>
+  <data name="We do not, and will never, sell, rent, or lease your personal or business data to third parties." xml:space="preserve">
+    <value>Kişisel veya ticari verilerinizi üçüncü taraflara asla satmaz, kiralamaz veya kiralayarak devretmeyiz.</value>
+  </data>
+  <data name="We securely retain your account and hosted data for the duration of your active subscription to ensure continuous service delivery." xml:space="preserve">
+    <value>Hizmetin kesintisiz sunulmasını sağlamak amacıyla, aktif aboneliğinizin süresi boyunca hesap ve barındırılan verilerinizi güvenli bir şekilde saklarız.</value>
+  </data>
+  <data name="When you elect to deploy our solutions on your own local servers or private cloud environments, You are in absolute control. In these deployments, Aiursoft has Zero Access to your physical servers, networks, files, emails, or locally constructed AI knowledge bases. Because the data physically resides within your perimeter, we cannot collect, view, or process it. Your privacy is guaranteed by physical and network isolation." xml:space="preserve">
+    <value>Çözümlerimizi kendi yerel sunucularınızda veya özel bulut ortamlarınızda dağıtmayı seçtiğinizde, tam kontrol sizdedir. Bu dağıtımlarda, Aiursoft&apos;un fiziksel sunucularınıza, ağlarınıza, dosyalarınıza, e-postalarınıza veya yerel olarak oluşturulan AI bilgi tabanlarınıza Sıfır Erişimi vardır. Veriler fiziksel olarak çevreniz içinde barındığı için bunları toplayamaz, görüntüleyemez veya işleyemeyiz. Gizliliğiniz, fiziksel ve ağ izolasyonu ile garanti altına alınmıştır.</value>
+  </data>
+  <data name="When you register for an Aiursoft commercial account or engage with our sales team, we collect necessary contact details, including your name, your work email address, and your company name. This information is used strictly for account administration and communication." xml:space="preserve">
+    <value>Bir Aiursoft ticari hesap için kayıt olduğunuzda veya satış ekibimizle iletişime geçtiğinizde, adınız, iş e-posta adresiniz ve şirket adınız dahil olmak üzere gerekli iletişim bilgilerini toplarız. Bu bilgiler yalnızca hesap yönetimi ve iletişim amaçları için kullanılır.</value>
+  </data>
+  <data name="When you utilize our cloud-hosted infrastructure (such as Mailcow, Nextcloud, or Authentik instances managed on our servers), AIURSOFT LIMITED acts as a Data Processor. You remain the Data Controller. We host and maintain the infrastructure to ensure uptime and security, but our personnel possess absolutely zero access to your underlying business data (e.g., the contents of your emails, your stored files, or your internal chat logs) unless you explicitly grant us temporary, revocable access for the sole purpose of resolving a technical support ticket you have initiated." xml:space="preserve">
+    <value>Bulut tabanlı altyapımızı (sunucularımızda yönetilen Mailcow, Nextcloud veya Authentik örnekleri gibi) kullandığınızda, AIURSOFT LIMITED bir Veri İşleyicisi olarak hareket eder. Siz Veri Sorumlusu olarak kalırsınız. Sürekliliği ve güvenliği sağlamak amacıyla altyapıyı barındırır ve bakımını yaparız; ancak başlattığınız bir teknik destek talebini çözmek amacıyla bize açıkça geçici ve geri alınabilir erişim izni vermediğiniz sürece, personelimizin altta yatan iş verilerinize (örneğin, e-postalarınızın içeriği, depolanan dosyalarınız veya iç sohbet kayıtlarınız) kesinlikle sıfır erişimi vardır.</value>
+  </data>
+  <data name="When you visit our public-facing websites (e.g., aiursoft.com), our web servers automatically log standard technical information, such as your IP address, browser type, and access times. This data is utilized exclusively for security monitoring (e.g., preventing DDoS attacks), ensuring the stability of our web infrastructure, and basic, anonymized traffic analysis. We do not employ invasive third-party tracking cookies for behavioral advertising." xml:space="preserve">
+    <value>Kamuoyuna açık web sitelerimizi (örneğin, aiursoft.com) ziyaret ettiğinizde, web sunucularımız IP adresiniz, tarayıcı türünüz ve erişim zamanlarınız gibi standart teknik bilgileri otomatik olarak kaydeder. Bu veriler yalnızca güvenlik izleme (örneğin, DDoS saldırılarını önleme), web altyapımızın kararlılığını sağlama ve temel, anonimleştirilmiş trafik analizi amacıyla kullanılır. Davranışsal reklamcılık için saldırgan üçüncü taraf izleme çerezleri kullanmıyoruz.</value>
+  </data>
+  <data name="You may request a copy of the personal data we hold about you." xml:space="preserve">
+    <value>Siz, sizin hakkınızda tuttuğumuz kişisel verilerin bir kopyasını talep edebilirsiniz.</value>
+  </data>
+  <data name="You may request that we correct any inaccurate or incomplete personal data." xml:space="preserve">
+    <value>Doğru olmayan veya eksiksiz olmayan kişisel verilerin düzeltilmesini talep edebilirsiniz.</value>
+  </data>
+  <data name="You may request the complete deletion of your account and associated personal data from our systems, subject to our retention policies for cancelled subscriptions and legal compliance requirements." xml:space="preserve">
+    <value>İptal edilen abonelikler için saklama politikalarımıza ve yasal uyumluluk gereksinimlerine tabi olarak, hesabınızın ve sistemlerimizden ilişkili kişisel verilerinizin tamamen silinmesini talep edebilirsiniz.</value>
+  </data>
+
+</root>

@@ -48,6 +48,12 @@
   <data name="Organization Size" xml:space="preserve">
     <value>संगठन का आकार</value>
   </data>
+  <data name="The {0} is not a valid email address." xml:space="preserve">
+    <value>{0} एक मान्य ईमेल पता नहीं है।</value>
+  </data>
+  <data name="The {0} is required." xml:space="preserve">
+    <value>{0} आवश्यक है।</value>
+  </data>
   <data name="What services do you provide?" xml:space="preserve">
     <value>आप कौन सी सेवाएं प्रदान करते हैं?</value>
   </data>

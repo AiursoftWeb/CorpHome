@@ -36,6 +36,12 @@
   <data name="The {0} must be at least {2} and at max {1} characters long." xml:space="preserve">
     <value>{0} має містити щонайменше {2} та не більше {1} символів.</value>
   </data>
+  <data name="The {0} must be less than {1} characters." xml:space="preserve">
+    <value>{0} має містити менше ніж {1} символів.</value>
+  </data>
+  <data name="The {0} must be more than {1} characters." xml:space="preserve">
+    <value>{0} має містити більше {1} символів.</value>
+  </data>
   <data name="User name" xml:space="preserve">
     <value>Ім&apos;я користувача</value>
   </data>
