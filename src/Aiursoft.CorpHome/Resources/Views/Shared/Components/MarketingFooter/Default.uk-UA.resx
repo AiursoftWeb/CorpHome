@@ -45,6 +45,9 @@
   <data name="Licence" xml:space="preserve">
     <value>Ліцензія</value>
   </data>
+  <data name="Privacy Policy" xml:space="preserve">
+    <value>Політика конфіденційності</value>
+  </data>
   <data name="Project" xml:space="preserve">
     <value>Проєкт</value>
   </data>
@@ -59,6 +62,9 @@
   </data>
   <data name="Source Code" xml:space="preserve">
     <value>Вихідний код</value>
+  </data>
+  <data name="Terms of Service" xml:space="preserve">
+    <value>Умови надання послуг</value>
   </data>
 
 </root>

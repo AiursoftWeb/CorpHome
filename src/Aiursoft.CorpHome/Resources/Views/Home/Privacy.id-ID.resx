@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="1. The Aiursoft Privacy Philosophy" xml:space="preserve">
+    <value>1. Filosofi Privasi Aiursoft</value>
+  </data>
+  <data name="2. Core Distinction: Data Controller vs. Data Processor" xml:space="preserve">
+    <value>2. Perbedaan Utama: Pengendali Data vs. Pengolah Data</value>
+  </data>
+  <data name="3. What Data We Actually Collect" xml:space="preserve">
+    <value>3. Data Apa yang Sebenarnya Kami Kumpulkan</value>
+  </data>
+  <data name="4. How We Use Your Data" xml:space="preserve">
+    <value>4. Bagaimana Kami Menggunakan Data Anda</value>
+  </data>
+  <data name="5. Data Sharing and Third-Party Sub-Processors" xml:space="preserve">
+    <value>5. Berbagi Data dan Sub-Pemroses Pihak Ketiga</value>
+  </data>
+  <data name="6. Data Retention and Deletion" xml:space="preserve">
+    <value>6. Retensi dan Penghapusan Data</value>
+  </data>
+  <data name="7. Your Data Rights" xml:space="preserve">
+    <value>7. Hak Data Anda</value>
+  </data>
+  <data name="8. Contact Us" xml:space="preserve">
+    <value>8. Hubungi Kami</value>
+  </data>
+  <data name="Account Information:" xml:space="preserve">
+    <value>Informasi Akun:</value>
+  </data>
+  <data name="AIURSOFT LIMITED" xml:space="preserve">
+    <value>AIURSOFT LIMITED</value>
+  </data>
+  <data name="Aiursoft Privacy Policy" xml:space="preserve">
+    <value>Kebijakan Privasi Aiursoft</value>
+  </data>
+  <data name="At Aiursoft, our foundational mission is to bring the spirit of open-source and free software to every enterprise and individual. This commitment to freedom inherently extends to your privacy and data sovereignty. We believe that your data belongs exclusively to you." xml:space="preserve">
+    <value>Di Aiursoft, misi fundamental kami adalah membawa semangat perangkat lunak sumber terbuka dan bebas kepada setiap perusahaan dan individu. Komitmen kami terhadap kebebasan ini secara inheren meluas hingga privasi dan kedaulatan data Anda. Kami percaya bahwa data Anda sepenuhnya milik Anda.</value>
+  </data>
+  <data name="Beyond these essential operational partners, Aiursoft will never disclose your data to any third party, including government entities, unless legally compelled to do so by a valid, binding court order or subpoena originating from a competent jurisdiction." xml:space="preserve">
+    <value>Selain mitra operasional penting ini, Aiursoft tidak akan pernah mengungkapkan data Anda kepada pihak ketiga manapun, termasuk entitas pemerintah, kecuali jika dipaksa secara hukum oleh perintah pengadilan atau surat perintah yang sah dan mengikat yang berasal dari yurisdiksi yang berwenang.</value>
+  </data>
+  <data name="Billing and Payment Data:" xml:space="preserve">
+    <value>Data Tagihan dan Pembayaran:</value>
+  </data>
+  <data name="Communication:" xml:space="preserve">
+    <value>Komunikasi:</value>
+  </data>
+  <data name="Company Entity:" xml:space="preserve">
+    <value>Entitas Perusahaan:</value>
+  </data>
+  <data name="Company Entity: AIURSOFT LIMITED (Hong Kong)" xml:space="preserve">
+    <value>Entitas Perusahaan: AIURSOFT LIMITED (Hong Kong)</value>
+  </data>
+  <data name="Crucially, AIURSOFT LIMITED does not collect, process, or store your full credit card numbers or sensitive financial instruments on our servers. All payment transactions are securely handled by our PCI-DSS compliant third-party payment processor, Stripe, Inc. We only receive and retain non-sensitive billing information from Stripe, such as your billing address, subscription status, and the last four digits of your payment card, strictly for the purposes of issuing invoices, managing your active subscriptions, and complying with financial record-keeping laws." xml:space="preserve">
+    <value>Secara krusial, AIURSOFT LIMITED tidak mengumpulkan, memproses, atau menyimpan nomor kartu kredit lengkap atau instrumen keuangan sensitif Anda di server kami. Semua transaksi pembayaran ditangani dengan aman oleh penyedia layanan pembayaran pihak ketiga kami yang sesuai dengan standar PCI-DSS, yaitu Stripe, Inc. Kami hanya menerima dan menyimpan informasi penagihan yang tidak sensitif dari Stripe, seperti alamat penagihan Anda, status langganan, dan empat digit terakhir kartu pembayaran Anda, secara ketat hanya untuk tujuan menerbitkan faktur, mengelola langganan aktif Anda, dan mematuhi hukum pencatatan keuangan.</value>
+  </data>
+  <data name="During Active Subscription:" xml:space="preserve">
+    <value>Selama Berlangganan Aktif:</value>
+  </data>
+  <data name="Email:" xml:space="preserve">
+    <value>Email:</value>
+  </data>
+  <data name="Exclusively for secure payment processing and subscription management." xml:space="preserve">
+    <value>Hanya untuk pemrosesan pembayaran yang aman dan manajemen langganan.</value>
+  </data>
+  <data name="For Cloud-Hosted Plans (e.g., Aiursoft Substrate S1 Core):" xml:space="preserve">
+    <value>Untuk Paket Berbasis Cloud (misalnya, Aiursoft Substrate S1 Core):</value>
+  </data>
+  <data name="For on-premise deployments, cancellation simply terminates our support and update services. Your data remains entirely intact on your own servers, under your complete control." xml:space="preserve">
+    <value>Untuk implementasi on-premise, pembatalan hanya mengakhiri layanan dukungan dan pembaruan kami. Data Anda tetap utuh sepenuhnya di server Anda sendiri, di bawah kendali penuh Anda.</value>
+  </data>
+  <data name="For On-Premise Plans (e.g., Aiursoft Substrate S3 Startup &amp; S5 Enterprise):" xml:space="preserve">
+    <value>Untuk Paket On-Premise (misalnya, Aiursoft Substrate S3 Startup &amp; S5 Enterprise):</value>
+  </data>
+  <data name="For provisioning the underlying high-performance cloud infrastructure that powers our official websites and Cloud-Hosted (S1 Core) client instances." xml:space="preserve">
+    <value>Untuk penyediaan infrastruktur cloud berkinerja tinggi yang mendasari yang menggerakkan situs web resmi kami dan instance klien Cloud-Hosted (S1 Core).</value>
+  </data>
+  <data name="If you choose to cancel a Cloud-Hosted subscription, your account will remain active until the end of the current billing cycle. Following the expiration of your subscription, we observe a strict 30-day grace period. After this 30-day period, all of your associated business data (emails, files, databases) will be permanently, irreversibly, and securely hard-deleted from our hosting infrastructure. We cannot recover data once this deletion process has occurred." xml:space="preserve">
+    <value>Jika Anda memilih untuk membatalkan langganan Cloud-Hosted, akun Anda akan tetap aktif hingga akhir siklus penagihan saat ini. Setelah berakhirnya masa berlaku langganan Anda, kami menerapkan periode toleransi ketat selama 30 hari. Setelah periode 30 hari ini, semua data bisnis terkait Anda (surel, file, basis data) akan dihapus secara permanen, tidak dapat dipulihkan, dan aman (hard-deleted) dari infrastruktur hosting kami. Kami tidak dapat memulihkan data setelah proses penghapusan ini terjadi.</value>
+  </data>
+  <data name="If you have any questions, concerns, or requests regarding this Privacy Policy or our data handling practices, please contact our executive team:" xml:space="preserve">
+    <value>Jika Anda memiliki pertanyaan, kekhawatiran, atau permintaan terkait Kebijakan Privasi ini atau praktik penanganan data kami, silakan hubungi tim eksekutif kami:</value>
+  </data>
+  <data name="In accordance with global privacy standards, including the principles outlined in regulations such as the GDPR and the Hong Kong Personal Data (Privacy) Ordinance (PDPO), you possess the following rights regarding your personal data held by Aiursoft:" xml:space="preserve">
+    <value>Sesuai dengan standar privasi global, termasuk prinsip-prinsip yang diuraikan dalam peraturan seperti GDPR dan Ordinal Data Pribadi (Privasi) Hong Kong (PDPO), Anda memiliki hak-hak berikut terkait data pribadi Anda yang dipegang oleh Aiursoft:</value>
+  </data>
+  <data name="Last Updated: March 2026" xml:space="preserve">
+    <value>Terakhir Diperbarui: Maret 2026</value>
+  </data>
+  <data name="Minimal Data Collection:" xml:space="preserve">
+    <value>Pengumpulan Data Minimal:</value>
+  </data>
+  <data name="No Data Selling:" xml:space="preserve">
+    <value>Tidak Menjual Data:</value>
+  </data>
+  <data name="No Hidden Telemetry:" xml:space="preserve">
+    <value>Tidak Ada Telemetri Tersembunyi:</value>
+  </data>
+  <data name="Our software solutions are designed without concealed telemetry, advertising trackers, or behavioral profiling mechanisms." xml:space="preserve">
+    <value>Solusi perangkat lunak kami dirancang tanpa telemetri tersembunyi, pelacak iklan, atau mekanisme profil perilaku.</value>
+  </data>
+  <data name="Right to Access:" xml:space="preserve">
+    <value>Hak Akses:</value>
+  </data>
+  <data name="Right to Erasure (The &quot;Right to be Forgotten&quot;):" xml:space="preserve">
+    <value>Hak Penghapusan (&quot;Hak untuk Dilupakan&quot;):</value>
+  </data>
+  <data name="Right to Rectification:" xml:space="preserve">
+    <value>Hak untuk Perbaikan:</value>
+  </data>
+  <data name="Service Provisioning:" xml:space="preserve">
+    <value>Penyediaan Layanan:</value>
+  </data>
+  <data name="Strict Prohibition on AI Training:" xml:space="preserve">
+    <value>Larangan Ketat terhadap Pelatihan AI:</value>
+  </data>
+  <data name="Stripe, Inc.:" xml:space="preserve">
+    <value>Stripe, Inc.:</value>
+  </data>
+  <data name="Technical and Diagnostic Data:" xml:space="preserve">
+    <value>Data Teknis dan Diagnostik:</value>
+  </data>
+  <data name="The limited data we do collect is utilized solely for the following legitimate business purposes:" xml:space="preserve">
+    <value>Data terbatas yang kami kumpulkan hanya digunakan semata-mata untuk tujuan bisnis yang sah berikut ini:</value>
+  </data>
+  <data name="To clearly understand how your data is handled, it is crucial to differentiate between the types of deployment plans we offer, as our legal and technical relationship to your data changes significantly based on your chosen architecture:" xml:space="preserve">
+    <value>Untuk memahami dengan jelas bagaimana data Anda ditangani, sangat penting untuk membedakan antara jenis rencana implementasi yang kami tawarkan, karena hubungan hukum dan teknis kami terhadap data Anda berubah secara signifikan berdasarkan arsitektur yang Anda pilih:</value>
+  </data>
+  <data name="To create your account, configure your chosen deployment (whether cloud-hosted or coordinating on-premise setup), and authenticate your access." xml:space="preserve">
+    <value>Untuk membuat akun Anda, mengonfigurasi penempatan yang Anda pilih (baik yang di-hosting di cloud atau mengoordinasikan pengaturan di tempat), dan mengotentikasi akses Anda.</value>
+  </data>
+  <data name="To exercise any of these rights, please contact us using the information provided below or manage your preferences directly within your Aiursoft account dashboard." xml:space="preserve">
+    <value>Untuk menggunakan hak-hak ini, silakan hubungi kami menggunakan informasi yang disediakan di bawah ini atau kelola preferensi Anda langsung melalui dasbor akun Aiursoft Anda.</value>
+  </data>
+  <data name="To facilitate our business relationship and manage your subscriptions, we collect the following limited categories of information:" xml:space="preserve">
+    <value>Untuk memfasilitasi hubungan bisnis kami dan mengelola langganan Anda, kami mengumpulkan kategori informasi terbatas berikut:</value>
+  </data>
+  <data name="To facilitate subscription billing and process payments securely via Stripe." xml:space="preserve">
+    <value>Untuk memfasilitasi penagihan langganan dan memproses pembayaran dengan aman melalui Stripe.</value>
+  </data>
+  <data name="To send you critical system notifications (such as scheduled maintenance alerts or downtime warnings), billing receipts, and responses to your technical support inquiries." xml:space="preserve">
+    <value>Untuk mengirimkan notifikasi sistem penting kepada Anda (seperti peringatan pemeliharaan terjadwal atau peringatan waktu henti), kwitran tagihan, dan tanggapan atas pertanyaan dukungan teknis Anda.</value>
+  </data>
+  <data name="Transaction Processing:" xml:space="preserve">
+    <value>Pemrosesan Transaksi:</value>
+  </data>
+  <data name="Upon Cancellation (Cloud-Hosted Plans):" xml:space="preserve">
+    <value>Saat Pembatalan (Rencana Cloud-Hosted):</value>
+  </data>
+  <data name="Upon Cancellation (On-Premise Plans):" xml:space="preserve">
+    <value>Saat Pembatalan (Rencana On-Premise):</value>
+  </data>
+  <data name="Voxihost:" xml:space="preserve">
+    <value>Voxihost:</value>
+  </data>
+  <data name="We are unequivocally committed to the following principles:" xml:space="preserve">
+    <value>Kami berkomitmen tanpa syarat terhadap prinsip-prinsip berikut:</value>
+  </data>
+  <data name="We categorically state that your private data, documents, and communications are never used to train our AI models or any third-party Large Language Models (LLMs). Our AI solutions, particularly in the Custom Enterprise tier, are designed to run locally and train exclusively on data you explicitly provide within your secure environment." xml:space="preserve">
+    <value>Kami menyatakan secara tegas bahwa data pribadi, dokumen, dan komunikasi Anda tidak pernah digunakan untuk melatih model AI kami atau model Bahasa Alami Besar (LLM) pihak ketiga manapun. Solusi AI kami, khususnya pada tingkat Custom Enterprise, dirancang untuk berjalan secara lokal dan dilatih secara eksklusif menggunakan data yang secara eksplisit Anda berikan di dalam lingkungan aman Anda.</value>
+  </data>
+  <data name="We collect only the absolute minimum data necessary to provide you with secure, reliable, and functional services." xml:space="preserve">
+    <value>Kami hanya mengumpulkan data minimum mutlak yang diperlukan untuk memberikan Anda layanan yang aman, andal, dan fungsional.</value>
+  </data>
+  <data name="We do not share your personal information with external parties except where absolutely necessary to deliver our services. To operate effectively, we utilize the following trusted third-party sub-processors:" xml:space="preserve">
+    <value>Kami tidak membagikan informasi pribadi Anda kepada pihak eksternal kecuali jika mutlak diperlukan untuk memberikan layanan kami. Untuk beroperasi secara efektif, kami memanfaatkan sub-pemroses pihak ketiga tepercaya berikut:</value>
+  </data>
+  <data name="We do not, and will never, sell, rent, or lease your personal or business data to third parties." xml:space="preserve">
+    <value>Kami tidak, dan tidak akan pernah, menjual, menyewakan, atau mengontrakkan data pribadi atau bisnis Anda kepada pihak ketiga.</value>
+  </data>
+  <data name="We securely retain your account and hosted data for the duration of your active subscription to ensure continuous service delivery." xml:space="preserve">
+    <value>Kami menyimpan akun dan data yang dihosting Anda dengan aman selama masa berlangganan aktif Anda untuk memastikan kelancaran penyediaan layanan.</value>
+  </data>
+  <data name="When you elect to deploy our solutions on your own local servers or private cloud environments, You are in absolute control. In these deployments, Aiursoft has Zero Access to your physical servers, networks, files, emails, or locally constructed AI knowledge bases. Because the data physically resides within your perimeter, we cannot collect, view, or process it. Your privacy is guaranteed by physical and network isolation." xml:space="preserve">
+    <value>Ketika Anda memilih untuk menyebarkan solusi kami pada server lokal Anda sendiri atau lingkungan cloud pribadi, Anda memiliki kendali penuh. Dalam penyebaran ini, Aiursoft tidak memiliki Akses Sama Sekali terhadap server fisik, jaringan, file, email, atau basis pengetahuan AI yang dibangun secara lokal Anda. Karena data secara fisik berada di dalam perimeter Anda, kami tidak dapat mengumpulkan, melihat, atau memprosesnya. Privasi Anda dijamin oleh isolasi fisik dan jaringan.</value>
+  </data>
+  <data name="When you register for an Aiursoft commercial account or engage with our sales team, we collect necessary contact details, including your name, your work email address, and your company name. This information is used strictly for account administration and communication." xml:space="preserve">
+    <value>Saat Anda mendaftar untuk akun komersial Aiursoft atau berinteraksi dengan tim penjualan kami, kami mengumpulkan detail kontak yang diperlukan, termasuk nama Anda, alamat email kerja Anda, dan nama perusahaan Anda. Informasi ini digunakan secara ketat untuk administrasi akun dan komunikasi.</value>
+  </data>
+  <data name="When you utilize our cloud-hosted infrastructure (such as Mailcow, Nextcloud, or Authentik instances managed on our servers), AIURSOFT LIMITED acts as a Data Processor. You remain the Data Controller. We host and maintain the infrastructure to ensure uptime and security, but our personnel possess absolutely zero access to your underlying business data (e.g., the contents of your emails, your stored files, or your internal chat logs) unless you explicitly grant us temporary, revocable access for the sole purpose of resolving a technical support ticket you have initiated." xml:space="preserve">
+    <value>Ketika Anda menggunakan infrastruktur berbasis cloud kami (seperti instance Mailcow, Nextcloud, atau Authentik yang dikelola di server kami), AIURSOFT LIMITED bertindak sebagai Pengolah Data. Anda tetap menjadi Pengontrol Data. Kami menampung dan memelihara infrastruktur untuk memastikan ketersediaan dan keamanan, namun personel kami sama sekali tidak memiliki akses terhadap data bisnis mendasar Anda (misalnya, isi email Anda, file yang disimpan, atau log obrolan internal Anda) kecuali Anda secara eksplisit memberikan kami akses sementara yang dapat dicabut hanya untuk tujuan menyelesaikan tiket dukungan teknis yang Anda inisiasi.</value>
+  </data>
+  <data name="When you visit our public-facing websites (e.g., aiursoft.com), our web servers automatically log standard technical information, such as your IP address, browser type, and access times. This data is utilized exclusively for security monitoring (e.g., preventing DDoS attacks), ensuring the stability of our web infrastructure, and basic, anonymized traffic analysis. We do not employ invasive third-party tracking cookies for behavioral advertising." xml:space="preserve">
+    <value>Ketika Anda mengunjungi situs web publik kami (misalnya, aiursoft.com), server web kami secara otomatis mencatat informasi teknis standar, seperti alamat IP Anda, jenis browser, dan waktu akses. Data ini digunakan secara eksklusif untuk pemantauan keamanan (misalnya, mencegah serangan DDoS), memastikan stabilitas infrastruktur web kami, dan analisis lalu lintas dasar yang dianonimkan. Kami tidak menggunakan cookie pelacakan pihak ketiga yang invasif untuk iklan perilaku.</value>
+  </data>
+  <data name="You may request a copy of the personal data we hold about you." xml:space="preserve">
+    <value>Anda dapat meminta salinan data pribadi yang kami simpan tentang Anda.</value>
+  </data>
+  <data name="You may request that we correct any inaccurate or incomplete personal data." xml:space="preserve">
+    <value>Anda dapat meminta kami untuk memperbaiki data pribadi yang tidak akurat atau tidak lengkap.</value>
+  </data>
+  <data name="You may request the complete deletion of your account and associated personal data from our systems, subject to our retention policies for cancelled subscriptions and legal compliance requirements." xml:space="preserve">
+    <value>Anda dapat meminta penghapusan lengkap akun Anda dan data pribadi terkait dari sistem kami, dengan tunduk pada kebijakan retensi kami untuk langganan yang dibatalkan dan persyaratan kepatuhan hukum.</value>
+  </data>
+
+</root>
