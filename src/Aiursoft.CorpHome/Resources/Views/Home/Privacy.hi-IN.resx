@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="1. The Aiursoft Privacy Philosophy" xml:space="preserve">
+    <value>1. एयूरसॉफ्ट गोपनीयता दर्शन</value>
+  </data>
+  <data name="2. Core Distinction: Data Controller vs. Data Processor" xml:space="preserve">
+    <value>2. मुख्य भेद: डेटा नियंत्रक बनाम डेटा प्रोसेसर</value>
+  </data>
+  <data name="3. What Data We Actually Collect" xml:space="preserve">
+    <value>3. हम वास्तव में कौन से डेटा एकत्र करते हैं</value>
+  </data>
+  <data name="4. How We Use Your Data" xml:space="preserve">
+    <value>4. हम आपके डेटा का उपयोग कैसे करते हैं</value>
+  </data>
+  <data name="5. Data Sharing and Third-Party Sub-Processors" xml:space="preserve">
+    <value>5. डेटा साझाकरण और तीसरे पक्ष के उप-प्रोसेसर</value>
+  </data>
+  <data name="6. Data Retention and Deletion" xml:space="preserve">
+    <value>6. डेटा संरक्षण और हटाना</value>
+  </data>
+  <data name="7. Your Data Rights" xml:space="preserve">
+    <value>7. आपका डेटा अधिकार</value>
+  </data>
+  <data name="8. Contact Us" xml:space="preserve">
+    <value>8. हमसे संपर्क करें</value>
+  </data>
+  <data name="Account Information:" xml:space="preserve">
+    <value>खाता जानकारी:</value>
+  </data>
+  <data name="AIURSOFT LIMITED" xml:space="preserve">
+    <value>AIURSOFT LIMITED</value>
+  </data>
+  <data name="Aiursoft Privacy Policy" xml:space="preserve">
+    <value>Aiursoft गोपनीयता नीति</value>
+  </data>
+  <data name="At Aiursoft, our foundational mission is to bring the spirit of open-source and free software to every enterprise and individual. This commitment to freedom inherently extends to your privacy and data sovereignty. We believe that your data belongs exclusively to you." xml:space="preserve">
+    <value>एयरसॉफ्ट में, हमारी मौलिक मिशन हर उद्यम और व्यक्ति को ओपन-सोर्स और फ्री सॉफ्टवेयर के भावना को लाने की है। स्वतंत्रता के प्रति यह प्रतिबद्धता स्वाभाविक रूप से आपकी गोपनीयता और डेटा संप्रभुता तक विस्तारित होती है। हम मानते हैं कि आपका डेटा केवल और केवल आपका ही है।</value>
+  </data>
+  <data name="Beyond these essential operational partners, Aiursoft will never disclose your data to any third party, including government entities, unless legally compelled to do so by a valid, binding court order or subpoena originating from a competent jurisdiction." xml:space="preserve">
+    <value>इन आवश्यक संचालन साझेदारों के अलावा, Aiursoft कभी भी आपका डेटा किसी तीसरे पक्ष को, जिसमें सरकारी संस्थाएं भी शामिल हैं, प्रकट नहीं करेगा, जब तक कि एक मान्य, बाध्यकारी अदालत के आदेश या समन द्वारा कानूनी रूप से ऐसा करने के लिए बाध्य न किया जाए जो एक योग्य क्षेत्राधिकार से उत्पन्न हो।</value>
+  </data>
+  <data name="Billing and Payment Data:" xml:space="preserve">
+    <value>बिलिंग और भुगतान डेटा:</value>
+  </data>
+  <data name="Communication:" xml:space="preserve">
+    <value>संचार:</value>
+  </data>
+  <data name="Company Entity:" xml:space="preserve">
+    <value>कंपनी इकाई:</value>
+  </data>
+  <data name="Company Entity: AIURSOFT LIMITED (Hong Kong)" xml:space="preserve">
+    <value>कंपनी इकाई: AIURSOFT LIMITED (Hong Kong)</value>
+  </data>
+  <data name="Crucially, AIURSOFT LIMITED does not collect, process, or store your full credit card numbers or sensitive financial instruments on our servers. All payment transactions are securely handled by our PCI-DSS compliant third-party payment processor, Stripe, Inc. We only receive and retain non-sensitive billing information from Stripe, such as your billing address, subscription status, and the last four digits of your payment card, strictly for the purposes of issuing invoices, managing your active subscriptions, and complying with financial record-keeping laws." xml:space="preserve">
+    <value>महत्वपूर्ण बात यह है कि AIURSOFT LIMITED हमारे सर्वरों पर आपकी पूर्ण क्रेडिट कार्ड संख्याएं या संवेदनशील वित्तीय उपकरणों को एकत्र, प्रसंस्करण या संग्रहीत नहीं करता है। सभी भुगतान लेनदेन सुरक्षित रूप से हमारे PCI-DSS अनुपाली तीसरे पक्ष के भुगतान प्रसंस्करणक, Stripe, Inc. द्वारा संभाले जाते हैं। हम Stripe से केवल गैर-संवेदनशील बिलिंग जानकारी प्राप्त और बनाए रखते हैं, जैसे कि आपका बिलिंग पता, सदस्यता स्थिति और आपके भुगतान कार्ड के अंतिम चार अंक, केवल इनवॉइस जारी करने, आपकी सक्रिय सदस्यताओं को प्रबंधित करने और वित्तीय रिकॉर्ड रखने वाले कानूनों के अनुपालन के उद्देश्यों के लिए।</value>
+  </data>
+  <data name="During Active Subscription:" xml:space="preserve">
+    <value>सक्रिय सदस्यता के दौरान:</value>
+  </data>
+  <data name="Email:" xml:space="preserve">
+    <value>ईमेल:</value>
+  </data>
+  <data name="Exclusively for secure payment processing and subscription management." xml:space="preserve">
+    <value>केवल सुरक्षित भुगतान प्रसंस्करण और सदस्यता प्रबंधन के लिए।</value>
+  </data>
+  <data name="For Cloud-Hosted Plans (e.g., Aiursoft Substrate S1 Core):" xml:space="preserve">
+    <value>क्लाउड-होस्टेड योजनाओं के लिए (उदाहरण के लिए, Aiursoft Substrate S1 Core):</value>
+  </data>
+  <data name="For on-premise deployments, cancellation simply terminates our support and update services. Your data remains entirely intact on your own servers, under your complete control." xml:space="preserve">
+    <value>ऑन-प्रेमिस डिप्लॉयमेंट के लिए, रद्दीकरण केवल हमारी सहायता और अपडेट सेवाओं को समाप्त करता है। आपका डेटा आपके अपने सर्वर पर पूरी तरह से सुरक्षित रहता है, आपकी पूर्ण नियंत्रण में।</value>
+  </data>
+  <data name="For On-Premise Plans (e.g., Aiursoft Substrate S3 Startup &amp; S5 Enterprise):" xml:space="preserve">
+    <value>ऑन-प्रेमिस योजनाओं के लिए (उदाहरण के लिए, Aiursoft Substrate S3 Startup &amp; S5 Enterprise):</value>
+  </data>
+  <data name="For provisioning the underlying high-performance cloud infrastructure that powers our official websites and Cloud-Hosted (S1 Core) client instances." xml:space="preserve">
+    <value>हमारी आधिकारिक वेबसाइटों और क्लाउड-होस्टेड (S1 Core) क्लाइंट इंस्टेंस को संचालित करने वाली अंतर्निहित उच्च-प्रदर्शन क्लाउड बुनियादी ढांचे की आपूर्ति के लिए।</value>
+  </data>
+  <data name="If you choose to cancel a Cloud-Hosted subscription, your account will remain active until the end of the current billing cycle. Following the expiration of your subscription, we observe a strict 30-day grace period. After this 30-day period, all of your associated business data (emails, files, databases) will be permanently, irreversibly, and securely hard-deleted from our hosting infrastructure. We cannot recover data once this deletion process has occurred." xml:space="preserve">
+    <value>यदि आप Cloud-Hosted सदस्यता रद्द करने का विकल्प चुनते हैं, तो आपका खाता वर्तमान बिलिंग चक्र के अंत तक सक्रिय रहेगा। अपनी सदस्यता की समाप्ति के बाद, हम एक सख्त 30-दिन की अनुग्रह अवधि का पालन करते हैं। इस 30-दिन की अवधि के बाद, आपकी सभी संबंधित व्यावसायिक डेटा (ईमेल, फ़ाइलें, डेटाबेस) हमारी होस्टिंग इंफ्रास्ट्रक्चर से स्थायी, अपरिवर्तनीय और सुरक्षित रूप से हार्ड-डिलीट कर दी जाएगी। एक बार जब यह डिलीशन प्रक्रिया हो जाती है, तो हम डेटा को वापस नहीं ला सकते।</value>
+  </data>
+  <data name="If you have any questions, concerns, or requests regarding this Privacy Policy or our data handling practices, please contact our executive team:" xml:space="preserve">
+    <value>यदि आपके पास इस गोपनीयता नीति या हमारी डेटा हैंडलिंग प्रथाओं के संबंध में कोई प्रश्न, चिंताएँ या अनुरोध हैं, तो कृपया हमारी कार्यकारी टीम से संपर्क करें:</value>
+  </data>
+  <data name="In accordance with global privacy standards, including the principles outlined in regulations such as the GDPR and the Hong Kong Personal Data (Privacy) Ordinance (PDPO), you possess the following rights regarding your personal data held by Aiursoft:" xml:space="preserve">
+    <value>वैश्विक गोपनीयता मानकों के अनुरूप, जिनमें GDPR और हॉन्ग कॉंग पर्सनल डेटा (गोपनीयता) अधिनियम (PDPO) जैसे नियमों में उल्लिखित सिद्धांत शामिल हैं, आपके पास Aiursoft द्वारा रखे गए आपके व्यक्तिगत डेटा के संबंध में निम्नलिखित अधिकार हैं:</value>
+  </data>
+  <data name="Last Updated: March 2026" xml:space="preserve">
+    <value>अंतिम अपडेट: मार्च 2026</value>
+  </data>
+  <data name="Minimal Data Collection:" xml:space="preserve">
+    <value>कम से कम डेटा संग्रह:</value>
+  </data>
+  <data name="No Data Selling:" xml:space="preserve">
+    <value>कोई डेटा नहीं बेचा जाता:</value>
+  </data>
+  <data name="No Hidden Telemetry:" xml:space="preserve">
+    <value>कोई छिपाया गया टेलीमेट्री नहीं:</value>
+  </data>
+  <data name="Our software solutions are designed without concealed telemetry, advertising trackers, or behavioral profiling mechanisms." xml:space="preserve">
+    <value>हमारे सॉफ्टवेयर समाधानों को छिपी हुई टेलीमेट्री, विज्ञापन ट्रैकर्स या व्यवहारिक प्रोफाइलिंग तंत्रों के बिना डिज़ाइन किया गया है।</value>
+  </data>
+  <data name="Right to Access:" xml:space="preserve">
+    <value>प्रवेश का अधिकार:</value>
+  </data>
+  <data name="Right to Erasure (The &quot;Right to be Forgotten&quot;):" xml:space="preserve">
+    <value>मेटावने का अधिकार (&quot;विस्मृत होने का अधिकार&quot;):</value>
+  </data>
+  <data name="Right to Rectification:" xml:space="preserve">
+    <value>सुधार का अधिकार:</value>
+  </data>
+  <data name="Service Provisioning:" xml:space="preserve">
+    <value>सेवा प्रदान करना:</value>
+  </data>
+  <data name="Strict Prohibition on AI Training:" xml:space="preserve">
+    <value>कृत्रिम बुद्धिमत्ता प्रशिक्षण पर कठोर प्रतिबंध:</value>
+  </data>
+  <data name="Stripe, Inc.:" xml:space="preserve">
+    <value>Stripe, Inc.:</value>
+  </data>
+  <data name="Technical and Diagnostic Data:" xml:space="preserve">
+    <value>तकनीकी और निदान डेटा:</value>
+  </data>
+  <data name="The limited data we do collect is utilized solely for the following legitimate business purposes:" xml:space="preserve">
+    <value>हम जो सीमित डेटा एकत्र करते हैं, उसका उपयोग केवल निम्नलिखित वैध व्यावसायिक उद्देश्यों के लिए किया जाता है:</value>
+  </data>
+  <data name="To clearly understand how your data is handled, it is crucial to differentiate between the types of deployment plans we offer, as our legal and technical relationship to your data changes significantly based on your chosen architecture:" xml:space="preserve">
+    <value>अपने डेटा को कैसे संभाला जाता है, यह स्पष्ट रूप से समझने के लिए यह अत्यंत महत्वपूर्ण है कि हमारे द्वारा प्रदान किए जाने वाले विभिन्न तैनाती योजनाओं के प्रकारों के बीच भेद किया जाए, क्योंकि आपकी चुनी गई वास्तुकला के आधार पर आपके डेटा के प्रति हमारा कानूनी और तकनीकी संबंध काफी हद तक बदल जाता है:</value>
+  </data>
+  <data name="To create your account, configure your chosen deployment (whether cloud-hosted or coordinating on-premise setup), and authenticate your access." xml:space="preserve">
+    <value>अपना खाता बनाने, अपने चुने हुए डिप्लॉयमेंट (चाहे वह क्लाउड-होस्टेड हो या ऑन-प्रीमिस सेटअप का समन्वय) को कॉन्फ़िगर करने और अपनी पहुंच को प्रमाणीकृत करने के लिए।</value>
+  </data>
+  <data name="To exercise any of these rights, please contact us using the information provided below or manage your preferences directly within your Aiursoft account dashboard." xml:space="preserve">
+    <value>इनमें से किसी भी अधिकार का प्रयोग करने के लिए, कृपया नीचे दिए गए जानकारी का उपयोग करके हमसे संपर्क करें या अपने Aiursoft खाते डैशबोर्ड के भीतर सीधे अपनी पसंदों का प्रबंधन करें।</value>
+  </data>
+  <data name="To facilitate our business relationship and manage your subscriptions, we collect the following limited categories of information:" xml:space="preserve">
+    <value>हमारे व्यावसायिक संबंधों को सुगम बनाने और आपके सदस्यताओं को प्रबंधित करने के लिए, हम निम्नलिखित सीमित श्रेणियों की जानकारी एकत्र करते हैं:</value>
+  </data>
+  <data name="To facilitate subscription billing and process payments securely via Stripe." xml:space="preserve">
+    <value>सदस्यता बिलिंग को सुविधाजनक बनाने और Stripe के माध्यम से भुगतान को सुरक्षित रूप से संसाधित करने के लिए।</value>
+  </data>
+  <data name="To send you critical system notifications (such as scheduled maintenance alerts or downtime warnings), billing receipts, and responses to your technical support inquiries." xml:space="preserve">
+    <value>आपको महत्वपूर्ण सिस्टम सूचनाएं (जैसे निर्धारित रखरखाव चेतावनी या डाउनटाइम चेतावनी), बिलिंग रसीदें, और आपके तकनीकी सहायता प्रश्नों के उत्तर भेजने के लिए।</value>
+  </data>
+  <data name="Transaction Processing:" xml:space="preserve">
+    <value>लेनदेन प्रसंस्करण:</value>
+  </data>
+  <data name="Upon Cancellation (Cloud-Hosted Plans):" xml:space="preserve">
+    <value>रद्दीकरण पर (क्लाउड-होस्टेड योजनाएं):</value>
+  </data>
+  <data name="Upon Cancellation (On-Premise Plans):" xml:space="preserve">
+    <value>रद्दीकरण पर (ऑन-प्रीमिस योजनाएं):</value>
+  </data>
+  <data name="Voxihost:" xml:space="preserve">
+    <value>Voxihost:</value>
+  </data>
+  <data name="We are unequivocally committed to the following principles:" xml:space="preserve">
+    <value>हम निम्नलिखित सिद्धांतों के प्रति पूर्णतः प्रतिबद्ध हैं:</value>
+  </data>
+  <data name="We categorically state that your private data, documents, and communications are never used to train our AI models or any third-party Large Language Models (LLMs). Our AI solutions, particularly in the Custom Enterprise tier, are designed to run locally and train exclusively on data you explicitly provide within your secure environment." xml:space="preserve">
+    <value>हम स्पष्ट रूप से कहते हैं कि आपका निजी डेटा, दस्तावेज़ और संचार कभी भी हमारे एआई मॉडल या किसी तीसरे पक्ष के बड़े भाषा मॉडल (LLMs) को प्रशिक्षित करने के लिए उपयोग नहीं किया जाता है। हमारे एआई समाधान, विशेष रूप से कस्टम एंटरप्राइस टियर में, स्थानीय रूप से चलने के लिए डिज़ाइन किए गए हैं और केवल उस डेटा पर प्रशिक्षित होते हैं जिसे आप अपने सुरक्षित वातावरण में स्पष्ट रूप से प्रदान करते हैं।</value>
+  </data>
+  <data name="We collect only the absolute minimum data necessary to provide you with secure, reliable, and functional services." xml:space="preserve">
+    <value>हम केवल उतना ही न्यूनतम डेटा एकत्र करते हैं जो आपको सुरक्षित, विश्वसनीय और कार्यात्मक सेवाएं प्रदान करने के लिए आवश्यक है।</value>
+  </data>
+  <data name="We do not share your personal information with external parties except where absolutely necessary to deliver our services. To operate effectively, we utilize the following trusted third-party sub-processors:" xml:space="preserve">
+    <value>हम अपनी सेवाओं को प्रदान करने के लिए पूर्ण रूप से आवश्यक होने के अलावा आपके व्यक्तिगत जानकारी को बाहरी पक्षों के साथ साझा नहीं करते हैं। प्रभावी ढंग से संचालित करने के लिए, हम निम्नलिखित विश्वसनीय तीसरे पक्ष के उप-प्रोसेसर का उपयोग करते हैं:</value>
+  </data>
+  <data name="We do not, and will never, sell, rent, or lease your personal or business data to third parties." xml:space="preserve">
+    <value>हम आपके व्यक्तिगत या व्यावसायिक डेटा को तीसरे पक्ष को कभी नहीं बेचते, किराये पर नहीं देते, या लीज पर नहीं देते, और कभी नहीं देंगे।</value>
+  </data>
+  <data name="We securely retain your account and hosted data for the duration of your active subscription to ensure continuous service delivery." xml:space="preserve">
+    <value>हम आपके सक्रिय सदस्यता की अवधि के लिए आपके खाते और होस्ट किए गए डेटा को सुरक्षित रूप से रखते हैं ताकि निरंतर सेवा प्रदान की जा सके।</value>
+  </data>
+  <data name="When you elect to deploy our solutions on your own local servers or private cloud environments, You are in absolute control. In these deployments, Aiursoft has Zero Access to your physical servers, networks, files, emails, or locally constructed AI knowledge bases. Because the data physically resides within your perimeter, we cannot collect, view, or process it. Your privacy is guaranteed by physical and network isolation." xml:space="preserve">
+    <value>जब आप अपने स्वयं के स्थानीय सर्वर या प्राइवेट क्लाउड वातावरण में हमारे समाधान तैनात करने का निर्णय लेते हैं, तो आप पूर्ण नियंत्रण में होते हैं। इन तैनातियों में, Aiursoft के आपके भौतिक सर्वर, नेटवर्क, फाइलें, ईमेल या स्थानीय रूप से निर्मित AI ज्ञान आधारों तक शून्य पहुंच है। क्योंकि डेटा भौतिक रूप से आपके परिधि के भीतर स्थित है, हम इसे इकट्ठा, देख या प्रोसेस नहीं कर सकते। आपकी गोपनीयता भौतिक और नेटवर्क अलगाव द्वारा गारंटीकृत है।</value>
+  </data>
+  <data name="When you register for an Aiursoft commercial account or engage with our sales team, we collect necessary contact details, including your name, your work email address, and your company name. This information is used strictly for account administration and communication." xml:space="preserve">
+    <value>जब आप Aiursoft व्यावसायिक खाते के लिए पंजीकरण करते हैं या हमारी बिक्री टीम के साथ संपर्क करते हैं, तो हम आवश्यक संपर्क विवरण एकत्र करते हैं, जिसमें आपका नाम, आपका कार्य ईमेल पता और आपकी कंपनी का नाम शामिल है। इस जानकारी का उपयोग केवल खाते प्रशासन और संचार के लिए किया जाता है।</value>
+  </data>
+  <data name="When you utilize our cloud-hosted infrastructure (such as Mailcow, Nextcloud, or Authentik instances managed on our servers), AIURSOFT LIMITED acts as a Data Processor. You remain the Data Controller. We host and maintain the infrastructure to ensure uptime and security, but our personnel possess absolutely zero access to your underlying business data (e.g., the contents of your emails, your stored files, or your internal chat logs) unless you explicitly grant us temporary, revocable access for the sole purpose of resolving a technical support ticket you have initiated." xml:space="preserve">
+    <value>जब आप हमारी क्लाउड-होस्टेड इंफ्रास्ट्रक्चर का उपयोग करते हैं (जैसे कि Mailcow, Nextcloud, या Authentik इंस्टेंस जो हमारे सर्वरों पर प्रबंधित किए जाते हैं), तो AIURSOFT LIMITED एक डेटा प्रोसेसर के रूप में कार्य करता है। आप डेटा कंट्रोलर बना रहते हैं। हम उptime और सुरक्षा सुनिश्चित करने के लिए इंफ्रास्ट्रक्चर को होस्ट और बनाए रखते हैं, लेकिन हमारे कर्मचारियों के पास आपके अंतर्निहित व्यापारिक डेटा (जैसे कि आपके ईमेल का सामग्री, आपके संग्रहीत फ़ाइलें, या आपके आंतरिक चैट लॉग) तक पूर्णतः शून्य पहुँच होती है, जब तक कि आप तकनीकी सहायता टिकट को हल करने के एकमात्र उद्देश्य के लिए हमें स्पष्ट रूप से अस्थायी और रद्द करने योग्य पहुँच प्रदान न करें, जिसे आपने शुरू किया है।</value>
+  </data>
+  <data name="When you visit our public-facing websites (e.g., aiursoft.com), our web servers automatically log standard technical information, such as your IP address, browser type, and access times. This data is utilized exclusively for security monitoring (e.g., preventing DDoS attacks), ensuring the stability of our web infrastructure, and basic, anonymized traffic analysis. We do not employ invasive third-party tracking cookies for behavioral advertising." xml:space="preserve">
+    <value>जब आप हमारे सार्वजनिक वेबसाइटों (जैसे, aiursoft.com) पर आते हैं, तो हमारे वेब सर्वर स्वचालित रूप से मानक तकनीकी जानकारी को रिकॉर्ड करते हैं, जैसे कि आपका IP पता, ब्राउज़र प्रकार और एक्सेस समय। इस डेटा का उपयोग केवल सुरक्षा निगरानी (जैसे, DDoS हमलों को रोकना), हमारी वेब बुनियादी ढांचे की स्थिरता सुनिश्चित करने और बुनियादी, अनाम ट्रैफ़िक विश्लेषण के लिए किया जाता है। हम व्यवहारिक विज्ञापन के लिए तीसरे पक्ष के आक्रामक ट्रैकिंग कुकीज़ का उपयोग नहीं करते हैं।</value>
+  </data>
+  <data name="You may request a copy of the personal data we hold about you." xml:space="preserve">
+    <value>आप हमारे पास आपके बारे में रखे गए व्यक्तिगत डेटा की एक प्रतिलिपि की मांग कर सकते हैं।</value>
+  </data>
+  <data name="You may request that we correct any inaccurate or incomplete personal data." xml:space="preserve">
+    <value>आप अनुरोध कर सकते हैं कि हम किसी भी असटीक या अपूर्ण व्यक्तिगत डेटा को सुधारें।</value>
+  </data>
+  <data name="You may request the complete deletion of your account and associated personal data from our systems, subject to our retention policies for cancelled subscriptions and legal compliance requirements." xml:space="preserve">
+    <value>आप हमारे सिस्टम से अपने खाते और संबंधित व्यक्तिगत डेटा का पूर्ण मिटाने का अनुरोध कर सकते हैं, बशर्ते रद्द की गई सदस्यताओं और कानूनी अनुपालन आवश्यकताओं के लिए हमारे रोकने की नीतियों के अनुसार।</value>
+  </data>
+
+</root>
