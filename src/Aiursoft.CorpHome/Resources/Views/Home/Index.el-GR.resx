@@ -18,8 +18,23 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="&quot;Fire-and-forget&quot; support for long-running tasks (like emails or AI), featuring a GUI for queue management, parallel processing, and cancellation." xml:space="preserve">
+      <data name=" tailored to your business needs" xml:space="preserve">
+    <value>προσαρμοσμένο στις επιχειρηματικές σας ανάγκες</value>
+  </data>
+  <data name="&quot;Fire-and-forget&quot; support for long-running tasks (like emails or AI), featuring a GUI for queue management, parallel processing, and cancellation." xml:space="preserve">
     <value>Υποστήριξη &quot;Fire-and-forget&quot; για μακροχρόνιες εργασίες (όπως email ή AI), με GUI για διαχείριση ουράς, παράλληλη επεξεργασία και ακύρωση.</value>
+  </data>
+  <data name="/ month" xml:space="preserve">
+    <value>/ μήνα</value>
+  </data>
+  <data name="/ user" xml:space="preserve">
+    <value>/ χρήστης</value>
+  </data>
+  <data name="7×24 On-Call Support" xml:space="preserve">
+    <value>Υποστήριξη Επείγουσας Ανταπόκρισης 7×24</value>
+  </data>
+  <data name="A beautiful, self-hosted chat interface for interacting with your local AI models." xml:space="preserve">
+    <value>Ένα όμορφο, αυτοξενούμενο περιβάλλον συνομιλίας για αλληλεπίδραση με τα τοπικά μοντέλα Τεχνητής Νοημοσύνης σας.</value>
   </data>
   <data name="A built-in Role-Based Access Control (RBAC) system for fine-grained permission management." xml:space="preserve">
     <value>Ένα ενσωματωμένο σύστημα Ελέγχου Πρόσβασης Βάσει Ρόλων (RBAC) για λεπτομερή διαχείριση δικαιωμάτων.</value>
@@ -39,20 +54,59 @@
   <data name="Achieve more with Aiursoft Template" xml:space="preserve">
     <value>Κερδίστε περισσότερα με το Aiursoft Template</value>
   </data>
+  <data name="AI Era" xml:space="preserve">
+    <value>Εποχή Τεχνητής Νοημοσύνης</value>
+  </data>
+  <data name="AI Knowledge Base construction" xml:space="preserve">
+    <value>Δημιουργία βάσης γνώσης Τεχνητής Νοημοσύνης</value>
+  </data>
   <data name="AI Readable" xml:space="preserve">
     <value>ΑΙ αναγνώσιμο</value>
+  </data>
+  <data name="AI Translation" xml:space="preserve">
+    <value>Μετάφραση με Τεχνητή Νοημοσύνη</value>
   </data>
   <data name="AI-Powered Translations" xml:space="preserve">
     <value>Μεταφράσεις με Τεχνητή Νοημοσύνη</value>
   </data>
+  <data name="Air-Gapped Ready" xml:space="preserve">
+    <value>Ετοιμότητα για Απομονωμένο Δίκτυο</value>
+  </data>
+  <data name="Aiursoft is dedicated to bringing the spirit of Open-source and free software to every enterprise and individual." xml:space="preserve">
+    <value>Η Aiursoft είναι αφιερωμένη στην ανάδειξη του πνεύματος του λογισμικού ανοιχτού κώδικα και του ελεύθερου λογισμικού σε κάθε επιχείρηση και άτομο.</value>
+  </data>
+  <data name="Aiursoft Substratum Core" xml:space="preserve">
+    <value>Aiursoft Substratum Core</value>
+  </data>
+  <data name="Aiursoft Substratum Enterprise" xml:space="preserve">
+    <value>Aiursoft Substratum Enterprise</value>
+  </data>
+  <data name="Aiursoft Substratum Startup" xml:space="preserve">
+    <value>Aiursoft Substratum Startup</value>
+  </data>
   <data name="Aiursoft Template" xml:space="preserve">
     <value>Aiursoft Template</value>
+  </data>
+  <data name="Aiursoft Template is continuously optimized for the AI era, built with the most popular and reliable Open-source technologies. It has already produced dozens of mature applications delivered to enterprises. Aiursoft uses Template to help businesses develop custom solutions based on their core needs." xml:space="preserve">
+    <value>Το Aiursoft Template βελτιστοποιείται συνεχώς για την εποχή της Τεχνητής Νοημοσύνης, χτισμένο με τις πιο δημοφιλείς και αξιόπιστες τεχνολογίες ανοιχτού κώδικα. Έχει ήδη παράγει δεκάδες ώριμες εφαρμογές που παραδόθηκαν σε επιχειρήσεις. Η Aiursoft χρησιμοποιεί το Template για να βοηθήσει τις επιχειρήσεις να αναπτύξουν προσαρμοσμένες λύσεις με βάση τις βασικές τους ανάγκες.</value>
   </data>
   <data name="Aiursoft Template is our definitive choice for enterprise projects! It&apos;s built for developers and is lightweight yet powerful. We can skip all the boilerplate for authentication and user management." xml:space="preserve">
     <value>Το Aiursoft Template είναι η απόλυτη μας επιλογή για εταιρικά έργα! Είναι φτιαγμένο για προγραμματιστές και είναι ελαφρύ αλλά και ισχυρό. Μπορούμε να παραλείψουμε όλο τον τυπικό κώδικα για την ταυτοποίηση και τη διαχείριση χρηστών.</value>
   </data>
+  <data name="Aiursoft Template Screenshot" xml:space="preserve">
+    <value>Aiursoft Template Στιγμιότυπο</value>
+  </data>
+  <data name="All Aiursoft servers are sourced from Voxihost. We help clients land on Voxihost infrastructure." xml:space="preserve">
+    <value>Όλοι οι διακομιστές της Aiursoft προέρχονται από τη Voxihost. Βοηθούμε τους πελάτες μας να εγκατασταθούν στην υποδομή της Voxihost.</value>
+  </data>
   <data name="All dependencies are automatically registered and always available via constructor injection." xml:space="preserve">
     <value>Όλες οι εξαρτήσεις εγγράφονται αυτόματα και είναι πάντα διαθέσιμες μέσω της εισαγωγής από κατασκευαστή.</value>
+  </data>
+  <data name="All enterprise knowledge stays under your control — sustainable, auditable, and truly yours." xml:space="preserve">
+    <value>Όλη η γνώση της επιχείρησης παραμένει υπό τον έλεγχό σας — βιώσιμη, ελέγξιμη και πραγματικά δική σας.</value>
+  </data>
+  <data name="Always on-premises, sustainable, and built for the long term. Aiursoft is committed to running all Agents locally, ensuring your enterprise knowledge truly belongs to you." xml:space="preserve">
+    <value>Πάντα σε περιβάλλον πελάτη, βιώσιμο και σχεδιασμένο για το μακροπρόθεσμο μέλλον. Η Aiursoft είναι δεσμευμένη να εκτελεί όλους τους Agents τοπικά, διασφαλίζοντας ότι οι επιχειρηματικές σας γνώσεις ανήκουν πραγματικά σε εσάς.</value>
   </data>
   <data name="Anduin" xml:space="preserve">
     <value>Anduin</value>
@@ -60,11 +114,20 @@
   <data name="Anduin Xue" xml:space="preserve">
     <value>Anduin Xue</value>
   </data>
+  <data name="AnduinOS Enterprise" xml:space="preserve">
+    <value>AnduinOS Enterprise</value>
+  </data>
+  <data name="AnduinOS Enterprise Edition adds enterprise-grade customer support and 7×24 phone on-call on top of the community edition." xml:space="preserve">
+    <value>Η έκδοση AnduinOS Enterprise προσφέρει υποστήριξη πελατών επιπέδου επιχείρησης και τηλεφωνική διαθεσιμότητα 7×24, πέραν της έκδοσης κοινότητας.</value>
+  </data>
   <data name="Artificial Intelligence Translation" xml:space="preserve">
     <value>Μετάφραση της Τεχνητής Νοημοσύνης</value>
   </data>
   <data name="Authentik &amp; Okta" xml:space="preserve">
     <value>Authentik &amp; Okta</value>
+  </data>
+  <data name="Auto AI translation to 28 languages." xml:space="preserve">
+    <value>Αυτόματη μετάφραση με AI σε 28 γλώσσες.</value>
   </data>
   <data name="Auto Deployment" xml:space="preserve">
     <value>Αυτόματη Εγκατάσταση</value>
@@ -105,14 +168,32 @@
   <data name="Bilingual Tutorials" xml:space="preserve">
     <value>Διγλωσσικά Μαθήματα</value>
   </data>
+  <data name="Brand the OS with your company logo, pre-installed software, and compliance requirements." xml:space="preserve">
+    <value>Προσαρμόστε το ΛΣ με το λογότυπο της εταιρείας σας, προεγκατεστημένο λογισμικό και απαιτήσεις συμμόρφωσης.</value>
+  </data>
+  <data name="Break Vendor Lock-in" xml:space="preserve">
+    <value>Καταργήστε την Εξάρτηση από τον Προμηθευτή</value>
+  </data>
   <data name="Build once, run anywhere. Fully containerized architecture." xml:space="preserve">
     <value>Κατασκευάστε μία φορά, εκτελέστε παντού. Πλήρως ενσωματωμένη αρχιτεκτονική με δοχεία.</value>
+  </data>
+  <data name="Build Your Local Knowledge Base" xml:space="preserve">
+    <value>Δημιουργήστε τη Τοπική Βάση Γνώσης σας</value>
   </data>
   <data name="Build your next big thing," xml:space="preserve">
     <value>Δημιουργήστε το επόμενό σας μεγάλο πράγμα,</value>
   </data>
+  <data name="Build your own intranet software sources to accelerate compliance and reduce patching turnaround time." xml:space="preserve">
+    <value>Δημιουργήστε τις δικές σας πηγές λογισμικού ενδοδικτύου για να επιταχύνετε τη συμμόρφωση και να μειώσετε τον χρόνο απόκρισης στις ενημερώσεις ασφαλείας.</value>
+  </data>
+  <data name="Building Rock-Solid Enterprise" xml:space="preserve">
+    <value>Δημιουργία Αδιάσειστης Επιχειρηματικής Βάσης</value>
+  </data>
   <data name="Built for engineers who care about quality." xml:space="preserve">
     <value>Κατασκευασμένο για μηχανικούς που ενδιαφέρονται για ποιότητα.</value>
+  </data>
+  <data name="Built on open standards. Migrate in or out anytime with full data portability and transparency." xml:space="preserve">
+    <value>Δημιουργημένο με βάση ανοιχτά πρότυπα. Μεταφέρετε τα δεδομένα σας προς τα μέσα ή προς τα έξω ανά πάσα στιγμή με πλήρη φορητότητα και διαφάνεια.</value>
   </data>
   <data name="Built with Aiursoft Template" xml:space="preserve">
     <value>Φτιαγμένο με το Aiursoft Template</value>
@@ -126,8 +207,17 @@
   <data name="Built-in Auth" xml:space="preserve">
     <value>Ενσωματωμένη Πιστοποίηση</value>
   </data>
+  <data name="Built-in RBAC for fine-grained permission management." xml:space="preserve">
+    <value>Ενσωματωμένο RBAC για λεπτομερή διαχείριση δικαιωμάτων.</value>
+  </data>
   <data name="Built-in User Management" xml:space="preserve">
     <value>Ενσωματωμένη Διαχείριση Χρηστών</value>
+  </data>
+  <data name="Code Audit &amp; Integration" xml:space="preserve">
+    <value>Έλεγχος Κώδικα &amp; Ενσωμάτωση</value>
+  </data>
+  <data name="Combine Open-source tools on GitHub and Hugging Face — no enterprise licenses needed." xml:space="preserve">
+    <value>Συνδυάστε εργαλεία ανοιχτού κώδικα στο GitHub και το Hugging Face — χωρίς ανάγκη για άδειες επιχειρήσεων.</value>
   </data>
   <data name="Comes with Docker support for simplified and consistent deployments." xml:space="preserve">
     <value>Διαθέτει υποστήριξη για Docker για απλούς και συνεκτικούς τρόπους μεταφοράς.</value>
@@ -137,6 +227,18 @@
   </data>
   <data name="Comes with strict unit tests, making test-driven development easy." xml:space="preserve">
     <value>Περιλαμβάνει αυστηρούς δοκιμαστικούς ελέγχους μονάδας, κάνοντας την ανάπτυξη βασισμένη σε δοκιμές εύκολη.</value>
+  </data>
+  <data name="Complete Business Hosting" xml:space="preserve">
+    <value>Πλήρης Επαγγελματική Φιλοξενία</value>
+  </data>
+  <data name="Complete control over your enterprise data. No third-party access, full privacy compliance." xml:space="preserve">
+    <value>Πλήρης έλεγχος των δεδομένων της επιχείρησής σας. Καμία πρόσβαση τρίτων, πλήρης συμμόρφωση με την ιδιωτικότητα.</value>
+  </data>
+  <data name="Completely offline." xml:space="preserve">
+    <value>Εντελώς χωρίς σύνδεση.</value>
+  </data>
+  <data name="Compliance Ready" xml:space="preserve">
+    <value>Ετοιμότητα Συμμόρφωσης</value>
   </data>
   <data name="Comprehensive Documentation" xml:space="preserve">
     <value>Πληρέστερη Τεκμηρίωση</value>
@@ -150,6 +252,12 @@
   <data name="Consistency Validation" xml:space="preserve">
     <value>Έλεγχος Συνοχής</value>
   </data>
+  <data name="Contact Sales" xml:space="preserve">
+    <value>Επικοινωνήστε με τις Πωλήσεις</value>
+  </data>
+  <data name="Contact Us" xml:space="preserve">
+    <value>Επικοινωνήστε μαζί μας</value>
+  </data>
   <data name="Coordinate Comfortably" xml:space="preserve">
     <value>Συντονίστε Άνετα</value>
   </data>
@@ -159,14 +267,32 @@
   <data name="Cross Platform" xml:space="preserve">
     <value>Διαπλατφορμικό</value>
   </data>
+  <data name="Custom Branding" xml:space="preserve">
+    <value>Προσαρμοσμένη Εμπορική Σήμανση</value>
+  </data>
+  <data name="Custom container development" xml:space="preserve">
+    <value>Εξατομικευμένη ανάπτυξη δοχείων</value>
+  </data>
+  <data name="Custom Development Fee" xml:space="preserve">
+    <value>Τέλος Προσαρμοσμένης Ανάπτυξης</value>
+  </data>
+  <data name="Customized for your enterprise" xml:space="preserve">
+    <value>Προσαρμοσμένο για την επιχείρησή σας</value>
+  </data>
   <data name="Dashboard Website" xml:space="preserve">
     <value>Ιστοσελίδα Πίνακα Ελέγχου</value>
+  </data>
+  <data name="Data Sovereignty" xml:space="preserve">
+    <value>Εθνική Κυριαρχία Δεδομένων</value>
   </data>
   <data name="Day 1 Compliance &amp; Security." xml:space="preserve">
     <value>Ημέρα 1 Συμμόρφωση &amp; Ασφάλεια.</value>
   </data>
   <data name="Day 1 Ready" xml:space="preserve">
     <value>Έτος 1 έτοιμο</value>
+  </data>
+  <data name="Deep Collaboration" xml:space="preserve">
+    <value>Βαθιά Συνεργασία</value>
   </data>
   <data name="Deep integration testing with Authentik. Compatible with Okta." xml:space="preserve">
     <value>Ακριβής δοκιμή ενσωμάτωσης με Authentik. Συμβατό με Okta.</value>
@@ -180,6 +306,9 @@
   <data name="Designed for the container era. Includes pre-configured CI/CD pipelines for GitLab. Push code, pass strictly linting, auto-test, and deploy to Docker Swarm or Kubernetes automatically." xml:space="preserve">
     <value>Σχεδιάστηκε για την εποχή των container. Συμπεριλαμβάνει προ-διαμορφωμένους CI/CD pipelines για το GitLab. Ανεβάστε κώδικα, περάστε το στριμούλι, αυτόματη δοκιμή και αυτόματη εγκατάσταση σε Docker Swarm ή Kubernetes.</value>
   </data>
+  <data name="Designed to run offline. Perfect for high-security environments with no internet dependency." xml:space="preserve">
+    <value>Σχεδιασμένο για λειτουργία χωρίς σύνδεση. Ιδανικό για περιβάλλοντα υψηλής ασφάλειας χωρίς εξάρτηση από το διαδίκτυο.</value>
+  </data>
   <data name="Dev &amp; Prod" xml:space="preserve">
     <value>Dev &amp; Prod</value>
   </data>
@@ -191,6 +320,9 @@
   </data>
   <data name="DevOps Native" xml:space="preserve">
     <value>DevOps Φυσικός</value>
+  </data>
+  <data name="Discover AnduinOS" xml:space="preserve">
+    <value>Ανακαλύψτε το AnduinOS</value>
   </data>
   <data name="Discussions page" xml:space="preserve">
     <value>Σελίδα Συζητήσεων</value>
@@ -207,6 +339,9 @@
   <data name="Dynamic Navigation Bar" xml:space="preserve">
     <value>Δυναμική Γραμμή Πλοήγησης</value>
   </data>
+  <data name="Easily achieve zero-trust and hardware-level security based on Yubico hardware keys." xml:space="preserve">
+    <value>Επιτύχετε εύκολα την αρχή μηδενικής εμπιστοσύνης και την ασφάλεια σε επίπεδο υλικού με βάση τα υλικά κλειδιά Yubico.</value>
+  </data>
   <data name="Easily switch between database providers, including SQLite, MySQL, SQL Server, and an in-memory database for testing." xml:space="preserve">
     <value>Εύκολη αλλαγή μεταξύ προμηθευτών βάσης δεδομένων, συμπεριλαμβανομένου του SQLite, MySQL, SQL Server και μιας βάσης δεδομένων στη μνήμη για δοκιμές.</value>
   </data>
@@ -216,17 +351,44 @@
   <data name="Effortlessly write integration tests using in-memory databases, temporary file systems, built-in mocking, and real-world HTTP request simulation." xml:space="preserve">
     <value>Εύκολα γράψτε δοκιμές ενοποίησης χρησιμοποιώντας βάσεις δεδομένων στη μνήμη, προσωρινά συστήματα αρχείων, ενσωματωμένη μοκινγκ και πραγματικές εξελίξεις HTTP αιτήσεων.</value>
   </data>
+  <data name="Empower developers with a flexible platform that scales with your business needs." xml:space="preserve">
+    <value>Εξουσιοδοτήστε τους προγραμματιστές με μια ευέλικτη πλατφόρμα που προσαρμόζεται στις ανάγκες της επιχείρησής σας.</value>
+  </data>
+  <data name="Endpoint Monitoring" xml:space="preserve">
+    <value>Παρακολούθηση Τερματικών Σημείων</value>
+  </data>
   <data name="Enforced" xml:space="preserve">
     <value>Επιβεβαιωμένο</value>
+  </data>
+  <data name="Enterprise" xml:space="preserve">
+    <value>Επιχείρηση</value>
+  </data>
+  <data name="Enterprise business framework for the" xml:space="preserve">
+    <value>Πλαίσιο επιχειρηματικής δραστηριότητας για το</value>
   </data>
   <data name="Enterprise C#" xml:space="preserve">
     <value>Enterprise C#</value>
   </data>
+  <data name="Enterprise customers get round-the-clock telephone support, ensuring critical issues are addressed immediately." xml:space="preserve">
+    <value>Οι πελάτες επιχειρήσεων λαμβάνουν τηλεφωνική υποστήριξη 24 ώρες το 24ωρο, διασφαλίζοντας την άμεση επίλυση κρίσιμων ζητημάτων.</value>
+  </data>
   <data name="Enterprise Ready" xml:space="preserve">
     <value>Έτοιμο για Επιχειρήσεις</value>
   </data>
+  <data name="Enterprise scale deployment" xml:space="preserve">
+    <value>Επιχειρηματική κλίμακα ανάπτυξης</value>
+  </data>
   <data name="Enterprise Security" xml:space="preserve">
     <value>Επιχειρηματική Ασφάλεια</value>
+  </data>
+  <data name="Every access is verified, every connection is encrypted, every action is audited." xml:space="preserve">
+    <value>Κάθε πρόσβαση ελέγχεται, κάθε σύνδεση κρυπτογραφείται, κάθε ενέργεια καταγράφεται.</value>
+  </data>
+  <data name="Explore on GitHub" xml:space="preserve">
+    <value>Εξερευνήστε στο GitHub</value>
+  </data>
+  <data name="Explore Our Projects" xml:space="preserve">
+    <value>Εξερευνήστε τα έργα μας</value>
   </data>
   <data name="FAQ" xml:space="preserve">
     <value>Συχνές Ερωτήσεις</value>
@@ -261,11 +423,17 @@
   <data name="Free Software" xml:space="preserve">
     <value>Ελεύθερο Λογισμικό</value>
   </data>
+  <data name="Freedom and enterprise service don&apos;t conflict." xml:space="preserve">
+    <value>Η ελευθερία και οι υπηρεσίες για επιχειρήσεις δεν έρχονται σε σύγκρουση.</value>
+  </data>
   <data name="Frequently asked questions" xml:space="preserve">
     <value>Συχνές ερωτήσεις</value>
   </data>
   <data name="From the Architect" xml:space="preserve">
     <value>Από τον Αρχιτέκτονα</value>
+  </data>
+  <data name="Full Infrastructure Suite, on your local server" xml:space="preserve">
+    <value>Πλήρης Σουίτα Υποδομής, στον τοπικό σας διακομιστή</value>
   </data>
   <data name="Full RBAC" xml:space="preserve">
     <value>Πλήρης RBAC</value>
@@ -279,6 +447,15 @@
   <data name="Fully Offline" xml:space="preserve">
     <value>Πλήρως Αποσυνδεδεμένο</value>
   </data>
+  <data name="Get a public cloud-like experience while hosting your applications in your own server." xml:space="preserve">
+    <value>Αποκτήστε μια εμπειρία παρόμοια με δημόσιο cloud φιλοξενώντας τις εφαρμογές σας στον δικό σας διακομιστή.</value>
+  </data>
+  <data name="Get Started" xml:space="preserve">
+    <value>Ξεκινήστε</value>
+  </data>
+  <data name="Get unified endpoint management (UEM), identity management (IAM), and collaboration tools (OA) in one package. All on your local servers!" xml:space="preserve">
+    <value>Αποκτήστε ενιαία διαχείριση τελικών σημείων (UEM), διαχείριση ταυτότητας (IAM) και εργαλεία συνεργασίας (OA) σε ένα πακέτο. Όλα στους τοπικούς σας διακομιστές!</value>
+  </data>
   <data name="GitLab CI" xml:space="preserve">
     <value>GitLab CI</value>
   </data>
@@ -291,11 +468,17 @@
   <data name="Go to dashboard" xml:space="preserve">
     <value>Μετάβαση στον πίνακα ελέγχου</value>
   </data>
+  <data name="Go to Dashboard" xml:space="preserve">
+    <value>Πήγαινε στο Πίνακα Ελέγχου</value>
+  </data>
   <data name="Handle recurring jobs like cleanup and synchronization with a comprehensive GUI for monitoring execution history and logs." xml:space="preserve">
     <value>Διαχείριση επαναλαμβανόμενων εργασιών όπως καθαρισμός και συγχρονισμός με ολοκληρωμένη διεπαφή χρήστη για την παρακολούθηση της ιστορίας εκτέλεσης και των καταγραφών.</value>
   </data>
   <data name="Hands-on tutorials suitable for computer science interns." xml:space="preserve">
     <value>Πρακτικά εκπαιδευτικά εργαστήρια κατάλληλα για εντεύθεν υποψήφιους προγραμματιστές στον τομέα της επιστήμης υπολογιστών.</value>
+  </data>
+  <data name="Hardware-Level Security" xml:space="preserve">
+    <value>Ασφάλεια σε Επίπεδο Υλικού</value>
   </data>
   <data name="Hello World!" xml:space="preserve">
     <value>Γεια σου Κόσμε!</value>
@@ -309,6 +492,9 @@
   <data name="High Quality" xml:space="preserve">
     <value>Υψηλής Ποιότητας</value>
   </data>
+  <data name="Hosted by Aiursoft" xml:space="preserve">
+    <value>Διαχειριζόμενο από το Aiursoft</value>
+  </data>
   <data name="How can I get support?" xml:space="preserve">
     <value>Πώς μπορώ να λάβω υποστήριξη;</value>
   </data>
@@ -321,8 +507,20 @@
   <data name="IDE Support" xml:space="preserve">
     <value>Υποστήριξη IDE</value>
   </data>
+  <data name="in the AI Era." xml:space="preserve">
+    <value>στην Εποχή της Τεχνητής Νοημοσύνης.</value>
+  </data>
   <data name="Included" xml:space="preserve">
     <value>Συμπεριλαμβανόμενο</value>
+  </data>
+  <data name="Includes Collaboration + Email + Identity Gateway" xml:space="preserve">
+    <value>Περιλαμβάνει Συνεργασία + Email + Identity Gateway</value>
+  </data>
+  <data name="Includes everything in Starter" xml:space="preserve">
+    <value>Περιλαμβάνει τα πάντα του Starter</value>
+  </data>
+  <data name="Includes everything in Startup" xml:space="preserve">
+    <value>Περιλαμβάνει τα πάντα του Startup</value>
   </data>
   <data name="Includes extensive documentation and practical examples to get you started quickly." xml:space="preserve">
     <value>Περιλαμβάνει εκτενή τεκμηρίωση και πρακτικά παραδείγματα για να ξεκινήσετε γρήγορα.</value>
@@ -345,6 +543,9 @@
   <data name="Is it free to use Aiursoft Template?" xml:space="preserve">
     <value>Είναι δωρεάν η χρήση του Aiursoft Template;</value>
   </data>
+  <data name="IT teams can monitor the health of all endpoints and perform basic remote management." xml:space="preserve">
+    <value>Οι ομάδες ΤΠ μπορούν να παρακολουθούν την υγεία όλων των τελικών σημείων και να εκτελούν βασική διαχείριση από απόσταση.</value>
+  </data>
   <data name="Join Discussions" xml:space="preserve">
     <value>Συμμετέχετε στις Συζητήσεις</value>
   </data>
@@ -357,11 +558,29 @@
   <data name="Lint Check" xml:space="preserve">
     <value>Ελέγχους Lint</value>
   </data>
+  <data name="Live Demo" xml:space="preserve">
+    <value>Ζωντανή Δοκιμή</value>
+  </data>
+  <data name="Local LLM Deployment" xml:space="preserve">
+    <value>Τοπική Εγκατάσταση LLM</value>
+  </data>
   <data name="Maintain High Code Quality" xml:space="preserve">
     <value>Διατηρήστε Υψηλή Ποιότητα Κώδικα</value>
   </data>
   <data name="Markdown To HTML" xml:space="preserve">
     <value>Markdown σε HTML</value>
+  </data>
+  <data name="Max 1000 accounts" xml:space="preserve">
+    <value>Μέγιστο 1000 λογαριασμοί</value>
+  </data>
+  <data name="Max 150 accounts" xml:space="preserve">
+    <value>Μέγιστο 150 λογαριασμοί</value>
+  </data>
+  <data name="MDM based device compliance" xml:space="preserve">
+    <value>Συμμόρφωση συσκευών βασισμένη σε MDM</value>
+  </data>
+  <data name="Meet industry compliance requirements with auditable configurations and enterprise-grade controls." xml:space="preserve">
+    <value>Εκπληρώστε τις απαιτήσεις συμμόρφωσης του κλάδου με διαμορφώσεις ελέγξιμες από ελεγκτές και ελέγχους επιπέδου επιχειρήσεων.</value>
   </data>
   <data name="MIT Licence" xml:space="preserve">
     <value>Άδεια MIT</value>
@@ -371,6 +590,9 @@
   </data>
   <data name="Models are validated on both client and server sides based on data annotations." xml:space="preserve">
     <value>Τα μοντέλα ελέγχονται στην πλευρά του πελάτη και του διακομιστή βάσει των σημειώσεων δεδομένων.</value>
+  </data>
+  <data name="Multi-Database" xml:space="preserve">
+    <value>Πολλαπλή Βάση Δεδομένων</value>
   </data>
   <data name="Multiple Database Provider Support" xml:space="preserve">
     <value>Υποστήριξη Πολλαπλών Παροχέων Βάσης Δεδομένων</value>
@@ -384,23 +606,62 @@
   <data name="Music Tools" xml:space="preserve">
     <value>Εργαλεία Μουσικής</value>
   </data>
+  <data name="Need to develop faster? A robust project template to support your grand ambitions." xml:space="preserve">
+    <value>Θέλετε να αναπτύσσετε πιο γρήγορα; Ένα ισχυρό πρότυπο έργου για να στηρίξει τους μεγάλους σας στόχους.</value>
+  </data>
   <data name="No dependency on any cloud vendor. Run anywhere, any time." xml:space="preserve">
     <value>Χωρίς εξάρτηση από κάποιον πάροχο cloud. Εκτελέστε παντού, παντότε.</value>
   </data>
   <data name="Offline Capable" xml:space="preserve">
     <value>Εκτός Σύνδεσης Εφοδιασμένο</value>
   </data>
+  <data name="On-premise offline deployment" xml:space="preserve">
+    <value>Εγκατάσταση εκτός δικτύου στον χώρο του πελάτη</value>
+  </data>
   <data name="One Click Start" xml:space="preserve">
     <value>Μία κλικ για έναρξη</value>
+  </data>
+  <data name="One-time Setup Fee" xml:space="preserve">
+    <value>Μονοχρήσιμο Τέλος Εγκατάστασης</value>
   </data>
   <data name="Open Source" xml:space="preserve">
     <value>Ανοιχτού Κώδικα</value>
   </data>
+  <data name="Open WebUI – Local AI Knowledge Base" xml:space="preserve">
+    <value>Open WebUI – Τοπική Βάση Γνώσης Τεχνητής Νοημοσύνης</value>
+  </data>
+  <data name="Open WebUI Integration" xml:space="preserve">
+    <value>Ενσωμάτωση Open WebUI</value>
+  </data>
+  <data name="Open-source &amp; AI era." xml:space="preserve">
+    <value>Εποχή ανοιχτού κώδικα &amp; Τεχνητής Νοημοσύνης.</value>
+  </data>
+  <data name="Open-Source Solutions" xml:space="preserve">
+    <value>Λύσεις Κώδικα Ανοικτού</value>
+  </data>
+  <data name="OpenID Connect" xml:space="preserve">
+    <value>OpenID Connect</value>
+  </data>
   <data name="OpenID Connect Integration" xml:space="preserve">
     <value>Ενσωμάτωση OpenID Connect</value>
   </data>
+  <data name="Own Your Data" xml:space="preserve">
+    <value>Κατέχετε τα Δεδομένα Σας</value>
+  </data>
+  <data name="Paving the Way for Your Business." xml:space="preserve">
+    <value>Ετοιμάζοντας τον Δρόμο για την Επιχείρησή σας.</value>
+  </data>
   <data name="Pre-configured CI/CD pipelines specifically for GitLab." xml:space="preserve">
     <value>Προκαθορισμένα CI/CD pipelines ειδικά για το GitLab.</value>
+  </data>
+  <data name="Pricing" xml:space="preserve">
+    <value>Τιμολόγηση</value>
+  </data>
+  <data name="Private Package Repository" xml:space="preserve">
+    <value>Ιδιωτικό Αποθετήριο Συσκευασιών</value>
+  </data>
+  <data name="Purchase Now" xml:space="preserve">
+    <value>Αγορά Τώρα</value>
   </data>
   <data name="Quality Gate" xml:space="preserve">
     <value>Ποιότητα Πύλης</value>
@@ -411,6 +672,15 @@
   <data name="Read the document" xml:space="preserve">
     <value>Διαβάστε το έγγραφο</value>
   </data>
+  <data name="Ready to build your enterprise on Open-source foundations?" xml:space="preserve">
+    <value>Είστε έτοιμοι να χτίσετε την επιχείρησή σας πάνω σε θεμέλια ανοιχτού κώδικα;</value>
+  </data>
+  <data name="Recommended" xml:space="preserve">
+    <value>Προτεινόμενο</value>
+  </data>
+  <data name="Reduce Your Attack Surface." xml:space="preserve">
+    <value>Μειώστε την Επιφάνεια Επιδράσεών σας.</value>
+  </data>
   <data name="Responsive Design" xml:space="preserve">
     <value>Αποκρισιμό Σχεδιασμό</value>
   </data>
@@ -420,14 +690,23 @@
   <data name="Robust Integration Testing" xml:space="preserve">
     <value>Ενισχυμένος Έλεγχος Ολοκλήρωσης</value>
   </data>
+  <data name="Run powerful language models entirely on-premises — your data never leaves your network." xml:space="preserve">
+    <value>Εκτελέστε ισχυρά μοντέλα γλώσσας αποκλειστικά σε υποδομές σας — τα δεδομένα σας δεν εγκαταλείπουν ποτέ το δίκτυό σας.</value>
+  </data>
   <data name="Runs without any internet connection required." xml:space="preserve">
     <value>Λειτουργεί χωρίς να απαιτείται σύνδεση στο διαδίκτυο.</value>
   </data>
   <data name="Scheduled Task Management" xml:space="preserve">
     <value>Διαχείριση Προγραμματισμένων Εργασιών</value>
   </data>
+  <data name="Seamless integration with any OIDC provider." xml:space="preserve">
+    <value>Αναρριχητική ολοκλήρωση με οποιοδήποτε πάροχο OIDC.</value>
+  </data>
   <data name="Seamlessly integrate with any OpenID Connect provider, with automatic role synchronization." xml:space="preserve">
     <value>Απολαύστε απρόσκοπτη ενσωμάτωση με οποιονδήποτε πάροχο OpenID Connect, με αυτόματο συγχρονισμό ρόλων.</value>
+  </data>
+  <data name="Security First" xml:space="preserve">
+    <value>Ασφάλεια Πρώτα</value>
   </data>
   <data name="Shift with confidence" xml:space="preserve">
     <value>Μετακινηθείτε με αυτοπεποίθηση</value>
@@ -447,6 +726,12 @@
   <data name="Smart dark mode that automatically adapts to the user&apos;s system settings." xml:space="preserve">
     <value>Έξυπνη λειτουργία σκούρου θέματος που προσαρμόζεται αυτόματα στις ρυθμίσεις συστήματος του χρήστη.</value>
   </data>
+  <data name="Source Code" xml:space="preserve">
+    <value>Πηγαίος Κώδικας</value>
+  </data>
+  <data name="Specific fees need to be discussed with our architecture team to determine how to build for your enterprise." xml:space="preserve">
+    <value>Οι συγκεκριμένες χρεώσεις πρέπει να συζητηθούν με την ομάδα αρχιτεκτονικής μας για να καθοριστεί ο τρόπος κατασκευής για την επιχείρησή σας.</value>
+  </data>
   <data name="Standard implementation. Switch providers without compilation." xml:space="preserve">
     <value>Πρότυπη υλοποίηση. Αλλάξτε προμηθευτές χωρίς μεταγλώττιση.</value>
   </data>
@@ -462,8 +747,17 @@
   <data name="Start with a single &apos;docker run&apos; command." xml:space="preserve">
     <value>Ξεκινήστε με μία μόνο εντολή &apos;docker run&apos;.</value>
   </data>
+  <data name="Starts compliant, secure immediately." xml:space="preserve">
+    <value>Ξεκινά συμμορφωμένο, αμέσως ασφαλές.</value>
+  </data>
   <data name="Stop Coding Boilerplate." xml:space="preserve">
     <value>Σταματήστε την κωδικοποίηση επαναλαμβανόμενου κώδικα.</value>
+  </data>
+  <data name="Strategic Partner" xml:space="preserve">
+    <value>Στρατηγικός Εταίρος</value>
+  </data>
+  <data name="Strengthen your business with flexible Open Source projects that run by Aiursoft." xml:space="preserve">
+    <value>Ενισχύστε την επιχείρησή σας με ευέλικτα έργα Open Source που λειτουργούν από την Aiursoft.</value>
   </data>
   <data name="Strict Lint Rules" xml:space="preserve">
     <value>Αυστηροί κανόνες lint</value>
@@ -480,11 +774,23 @@
   <data name="Strongly Consistent Linting" xml:space="preserve">
     <value>Ισχυρή και Συνεπής Έλεγχος Κώδικα</value>
   </data>
+  <data name="Substrate" xml:space="preserve">
+    <value>Υπόστρωμα</value>
+  </data>
+  <data name="Supercharge Innovation" xml:space="preserve">
+    <value>Επιταχύνετε την Καινοτομία</value>
+  </data>
   <data name="Supports both environment variables and database-backed settings, with automatic priority given to environment variables for seamless overrides." xml:space="preserve">
     <value>Υποστηρίζει και τις δύο μεταβλητές περιβάλλοντος και ρυθμίσεις που βασίζονται σε βάση δεδομένων, με αυτόματη προτεραιότητα προς τις μεταβλητές περιβάλλοντος για ομαλή αντικατάσταση.</value>
   </data>
   <data name="Supports JetBrains Rider for easy code style fixes." xml:space="preserve">
     <value>Υποστηρίζει το JetBrains Rider για εύκολη διόρθωση του στυλ κώδικα.</value>
+  </data>
+  <data name="Switch easily between SQLite, MySQL, SQL Server." xml:space="preserve">
+    <value>Αλλάξτε εύκολα μεταξύ SQLite, MySQL και SQL Server.</value>
+  </data>
+  <data name="Talk to an Architect" xml:space="preserve">
+    <value>Μιλήστε με έναν Αρχιτέκτονα</value>
   </data>
   <data name="Task Runner" xml:space="preserve">
     <value>Task Runner</value>
@@ -498,17 +804,32 @@
   <data name="The navigation bar automatically adjusts based on user roles and permissions." xml:space="preserve">
     <value>Η γραμμή πλοήγησης προσαρμόζεται αυτόματα με βάση τους ρόλους και τα δικαιώματα των χρηστών.</value>
   </data>
+  <data name="The Open-source world already has the solutions you need." xml:space="preserve">
+    <value>Ο κόσμος του ανοιχτού κώδικα έχει ήδη τις λύσεις που χρειάζεστε.</value>
+  </data>
+  <data name="The Open-source world is free, but full of dangers. Aiursoft helps you withstand the first wave of attacks." xml:space="preserve">
+    <value>Ο κόσμος του Open-source είναι δωρεάν, αλλά γεμάτος κινδύνους. Η Aiursoft σας βοηθά να αντέξετε την πρώτη κύμα επιθέσεων.</value>
+  </data>
   <data name="The Philosophy" xml:space="preserve">
     <value>Η Φιλοσοφία</value>
   </data>
   <data name="The template is built for easy deployment. It includes full Docker support, so you can containerize your app and run it anywhere. You can also deploy it directly to IIS, Azure App Service, or any server that supports ASP.NET Core." xml:space="preserve">
     <value>Το πρότυπο είναι κατασκευασμένο για εύκολη ανάπτυξη. Περιλαμβάνει πλήρη υποστήριξη Docker, ώστε να μπορείτε να συσκευάσετε την εφαρμογή σας σε containers και να την εκτελέσετε οπουδήποτε. Μπορείτε επίσης να την αναπτύξετε απευθείας στο IIS, στο Azure App Service ή σε οποιονδήποτε διακομιστή που υποστηρίζει ASP.NET Core.</value>
   </data>
+  <data name="The Turnkey Enterprise Foundation" xml:space="preserve">
+    <value>Το Έτοιμο Επιχειρηματικό Θεμέλιο</value>
+  </data>
   <data name="This is a template project" xml:space="preserve">
     <value>Αυτό είναι ένα πρότυπο έργο</value>
   </data>
   <data name="This is a template project, where we start the voyager..." xml:space="preserve">
     <value>Αυτό είναι ένα πρότυπο έργο, από όπου ξεκινάμε το ταξίδι...</value>
+  </data>
+  <data name="To build your offline AI knowledge base, you may need to purchase an NVIDIA GPU. This may require additional payment to NVIDIA corporation." xml:space="preserve">
+    <value>Για τη δημιουργία της τοπικής βάσης γνώσης Τεχνητής Νοημοσύνης (AI), ενδέχεται να χρειαστεί να αγοράσετε μια κάρτα γραφικών NVIDIA GPU. Αυτό ενδέχεται να απαιτεί επιπλέον πληρωμή στην εταιρεία NVIDIA.</value>
+  </data>
+  <data name="Transparent &amp; Affordable" xml:space="preserve">
+    <value>Διαφανής &amp; Προσιτή Τιμολόγηση</value>
   </data>
   <data name="Trusted by production-grade applications including AnduinOS, StatHub, and Warp. We don&apos;t just share this code; we run our entire business on it." xml:space="preserve">
     <value>Εμπιστεύεται εφαρμογές προσαρμοσμένες για παραγωγή, συμπεριλαμβανομένων AnduinOS, StatHub και Warp. Δεν μοιραζόμαστε απλώς αυτόν τον κώδικα· τρέχουμε την επιχείρησή μας εντελώς με αυτόν.</value>
@@ -528,6 +849,24 @@
   <data name="View on GitHub" xml:space="preserve">
     <value>Προβολή στο GitHub</value>
   </data>
+  <data name="Voxihost" xml:space="preserve">
+    <value>Voxihost</value>
+  </data>
+  <data name="Voxihost Cloud Infrastructure" xml:space="preserve">
+    <value>Υποδομή Cloud της Voxihost</value>
+  </data>
+  <data name="Voxihost offers transparent, cost-effective cloud and generously sponsors Aiursoft&apos;s Open-source work." xml:space="preserve">
+    <value>Το Voxihost προσφέρει διαφανή, οικονομικά αποδοτικό cloud και χορηγεί γενναιόδωρα το έργο ανοιχτού κώδικα της Aiursoft.</value>
+  </data>
+  <data name="We audit and integrate Open-source code, respect GPL, compile components, and contribute upstream." xml:space="preserve">
+    <value>Ελέγχουμε και ενσωματώνουμε κώδικα ανοιχτού κώδικα, σέβουμε το GPL, μεταγράφουμε συστατικά και συνεισφέρουμε upstream.</value>
+  </data>
+  <data name="We procure Yubikeys for all clients and configure zero-trust architecture." xml:space="preserve">
+    <value>Προμηθεύουμε Yubikeys για όλους τους πελάτες και διαμορφώνουμε αρχιτεκτονική μηδενικής εμπιστοσύνης.</value>
+  </data>
+  <data name="We Take the First Hit." xml:space="preserve">
+    <value>Εμείς δεχόμαστε το πρώτο χτύπημα.</value>
+  </data>
   <data name="Welcome" xml:space="preserve">
     <value>Καλώς ήρθατε</value>
   </data>
@@ -543,11 +882,23 @@
   <data name="Win/Lin/Mac" xml:space="preserve">
     <value>Win/Lin/Mac</value>
   </data>
+  <data name="with Open-Source Infrastructure." xml:space="preserve">
+    <value>με Υποδομές Κώδικα Ανοικτού.</value>
+  </data>
+  <data name="With reliable cloud infrastructure, your business can grow reliably alongside Aiursoft." xml:space="preserve">
+    <value>Με αξιόπιστη υποδομή cloud, η επιχείρησή σας μπορεί να αναπτυχθεί αξιόπιστα μαζί με την Aiursoft.</value>
+  </data>
+  <data name="With Voxihost, Aiursoft helps enterprises host Email, authentication, cloud drives, employee portals, monitoring, and AI." xml:space="preserve">
+    <value>Με τη Voxihost, η Aiursoft βοηθά τις επιχειρήσεις να φιλοξενούν Email, εγγραφή, cloud drives, πύλες υπαλλήλων, παρακολούθηση και AI.</value>
+  </data>
   <data name="Yes, Aiursoft Template is completely free and open-source under the MIT License. You can use it for personal and commercial projects without any cost." xml:space="preserve">
     <value>Ναι, το Aiursoft Template είναι εντελώς δωρεάν και ανοιχτού κώδικα υπό την άδεια MIT. Μπορείτε να το χρησιμοποιήσετε για προσωπικά και εμπορικά projects χωρίς κανένα κόστος.</value>
   </data>
   <data name="You can get community support via GitHub Discussions. Please visit our" xml:space="preserve">
     <value>Μπορείτε να λάβετε υποστήριξη από την κοινότητα μέσω των Συζητήσεων GitHub. Παρακαλούμε επισκεφτείτε την</value>
+  </data>
+  <data name="You don&apos;t need to purchase expensive monopolistic services. A small $5/month server can rapidly power your business." xml:space="preserve">
+    <value>Δεν χρειάζεται να αγοράσετε ακριβά μονοπωλιακά υπηρεσίες. Ένας μικρός διακομιστής $5/μήνα μπορεί γρήγορα να δυναμώσει την επιχείρησή σας.</value>
   </data>
   <data name="You&apos;ll need the .NET 10 SDK, npm and your favorite IDE, like Visual Studio or JetBrains Rider. You can find the full setup guide in our documentation." xml:space="preserve">
     <value>Θα χρειαστείτε το .NET 10 SDK, το npm και το αγαπημένο σας περιβάλλον ανάπτυξης (IDE), όπως το Visual Studio ή το JetBrains Rider. Μπορείτε να βρείτε τον πλήρη οδηγό ρύθμισης στην τεκμηρίωσή μας.</value>
@@ -558,8 +909,20 @@
   <data name="Yubikey &amp; TOTP" xml:space="preserve">
     <value>Yubikey &amp; TOTP</value>
   </data>
+  <data name="Yubikey for Every Client" xml:space="preserve">
+    <value>Yubikey για κάθε πελάτη</value>
+  </data>
   <data name="Zero Configuration" xml:space="preserve">
     <value>Μηδενική Ρύθμιση</value>
+  </data>
+  <data name="Zero Trust Architecture" xml:space="preserve">
+    <value>Αρχιτεκτονική Μηδενικής Εμπιστοσύνης</value>
+  </data>
+  <data name="Zero Trust Security with Yubikey" xml:space="preserve">
+    <value>Ασφάλεια Zero Trust με Yubikey</value>
+  </data>
+  <data name="Zero Trust Yubikey Auth" xml:space="preserve">
+    <value>Επαλήθευση Yubikey Zero Trust</value>
   </data>
 
 </root>

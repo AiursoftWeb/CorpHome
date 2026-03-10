@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="1. The Nature of Our Services" xml:space="preserve">
+    <value>1. हमारी सेवाओं की प्रकृति</value>
+  </data>
+  <data name="10. Governing Law" xml:space="preserve">
+    <value>10. प्रभावी कानून</value>
+  </data>
+  <data name="11. Contact Us" xml:space="preserve">
+    <value>11. हमसे संपर्क करें</value>
+  </data>
+  <data name="2. Plan Distinctions &amp; Responsibilities" xml:space="preserve">
+    <value>2. योजनाओं में अंतर और जिम्मेदारियाँ</value>
+  </data>
+  <data name="3. Subscription, Billing, and Payments" xml:space="preserve">
+    <value>3. सदस्यता, बिलिंग और भुगतान</value>
+  </data>
+  <data name="4. Cancellation and Refund Policy" xml:space="preserve">
+    <value>4. रद्दीकरण और रिफंड नीति</value>
+  </data>
+  <data name="5. Hardware Purchases (Third-Party)" xml:space="preserve">
+    <value>5. हार्डवेयर खरीद (तीसरे पक्ष की)</value>
+  </data>
+  <data name="6. Acceptable Use Policy" xml:space="preserve">
+    <value>6. स्वीकार्य उपयोग नीति</value>
+  </data>
+  <data name="7. Intellectual Property" xml:space="preserve">
+    <value>7. बौद्धिक संपदा</value>
+  </data>
+  <data name="8. Limitation of Liability" xml:space="preserve">
+    <value>8. दायित्व की सीमा</value>
+  </data>
+  <data name="9. Modifications to the Terms" xml:space="preserve">
+    <value>9. शर्तों में संशोधन</value>
+  </data>
+  <data name="Aiursoft hosts the infrastructure on our secured servers. We are responsible for server uptime, standard backups, and basic network security." xml:space="preserve">
+    <value>Aiursoft अपनी सुरक्षित सर्वरों पर इंफ्रास्ट्रक्चर होस्ट करता है। हम सर्वर अपटाइम, मानक बैकअप और बुनियादी नेटवर्क सुरक्षा के लिए जिम्मेदार हैं।</value>
+  </data>
+  <data name="AIURSOFT LIMITED" xml:space="preserve">
+    <value>AIURSOFT LIMITED</value>
+  </data>
+  <data name="Aiursoft provides enterprise IT infrastructure solutions built upon open-source technologies (e.g., Linux, Nextcloud, Mailcow, Authentik, GitLab)." xml:space="preserve">
+    <value>Aiursoft उन्मूलन स्रोत तकनीकों (जैसे कि, Linux, Nextcloud, Mailcow, Authentik, GitLab) पर आधारित उद्यम आईटी बुनियादी ढांचे के समाधान प्रदान करता है।</value>
+  </data>
+  <data name="All fees are exclusive of applicable taxes, levies, or duties imposed by taxing authorities, and you shall be responsible for payment of all such taxes." xml:space="preserve">
+    <value>सभी शुल्क कर प्राधिकरणों द्वारा लगाए गए लागू करों, करों या शुल्क से मुक्त हैं, और आपको सभी ऐसे करों का भुगतान करने की जिम्मेदारी होगी।</value>
+  </data>
+  <data name="All payments are securely processed by our third-party payment gateway, Stripe. Aiursoft does not collect, process, or store your full credit card information on our servers." xml:space="preserve">
+    <value>सभी भुगतान हमारे तीसरे पक्ष के भुगतान गेटवे, Stripe द्वारा सुरक्षित रूप से प्रसंस्कृत किए जाते हैं। Aiursoft अपने सर्वरों पर आपकी पूर्ण क्रेडिट कार्ड जानकारी एकत्र, प्रसंस्कृत या संग्रहीत नहीं करता है।</value>
+  </data>
+  <data name="Any unauthorized access to your on-premise servers (for Startup/Enterprise plans)." xml:space="preserve">
+    <value>अपने ऑन-प्रीमिस सर्वर (स्टार्टअप/एंटरप्राइज प्लान के लिए) तक कोई अनधिकृत पहुंच।</value>
+  </data>
+  <data name="Attempt to bypass or compromise any security measure implemented by Aiursoft on Cloud-Hosted plans." xml:space="preserve">
+    <value>Aiursoft द्वारा Cloud-Hosted प्लान्स पर लागू की गई किसी भी सुरक्षा उपाय को बायपास करने या धोखा देने की कोशिश न करें।</value>
+  </data>
+  <data name="Automatic Renewal:" xml:space="preserve">
+    <value>स्वतः नवीकरण:</value>
+  </data>
+  <data name="Certain features, such as offline AI Knowledge Base construction or hardware-based Zero Trust authentication, may require physical hardware (e.g., NVIDIA GPUs, YubiKeys). Unless explicitly stated in a custom enterprise contract, you are responsible for procuring this hardware directly from the respective manufacturers. Aiursoft acts solely as the software integration provider." xml:space="preserve">
+    <value>कुछ विशेषताएं, जैसे कि ऑफ़लाइन एआई ज्ञान आधार निर्माण या हार्डवेयर-आधारित जीरो ट्रस्ट प्रमाणीकरण, शारीरिक हार्डवेयर (जैसे, NVIDIA GPUs, YubiKeys) की आवश्यकता हो सकती हैं। जब तक कि एक कस्टम उद्योग अनुबंध में स्पष्ट रूप से नहीं कहा गया है, आपको इस हार्डवेयर को संबंधित निर्माताओं से सीधे खरीदने की जिम्मेदारी है। Aiursoft केवल सॉफ़्टवेयर एकीकरण प्रदाता के रूप में कार्य करता है।</value>
+  </data>
+  <data name="Cloud-Hosted Plans (e.g., Core):" xml:space="preserve">
+    <value>क्लाउड-होस्टेड योजनाएँ (उदाहरण के लिए, Core):</value>
+  </data>
+  <data name="Company Entity: AIURSOFT LIMITED (Hong Kong)" xml:space="preserve">
+    <value>कंपनी इकाई: AIURSOFT LIMITED (Hong Kong)</value>
+  </data>
+  <data name="Company:" xml:space="preserve">
+    <value>कंपनी:</value>
+  </data>
+  <data name="Data loss due to hardware failure on your self-hosted infrastructure." xml:space="preserve">
+    <value>आपकी स्व-होस्ट की गई इंफ्रास्ट्रक्चर पर हार्डवेयर विफलता के कारण डेटा हानि।</value>
+  </data>
+  <data name="Effect of Cancellation:" xml:space="preserve">
+    <value>रद्दीकरण का प्रभाव:</value>
+  </data>
+  <data name="Email:" xml:space="preserve">
+    <value>ईमेल:</value>
+  </data>
+  <data name="For On-Premise plans requiring a One-Time Setup Fee, this fee covers the manual labor of our architects (e.g., network configuration, Docker deployment, Yubikey integration). Setup fees are strictly non-refundable once the deployment and configuration process has commenced." xml:space="preserve">
+    <value>उन On-Premise योजनाओं के लिए जिनके लिए एक बार सेटअप शुल्क (One-Time Setup Fee) आवश्यक है, यह शुल्क हमारे आर्किटेक्ट्स के शारीरिक श्रम (जैसे नेटवर्क कॉन्फ़िगरेशन, Docker डिप्लॉयमेंट, Yubikey एकीकरण) को कवर करता है। डिप्लॉयमेंट और कॉन्फ़िगरेशन प्रक्रिया शुरू होने के बाद सेटअप शुल्क पूरी तरह से अदायगी-योग्य नहीं होते हैं।</value>
+  </data>
+  <data name="How to Cancel:" xml:space="preserve">
+    <value>कैसे रद्द करें:`</value>
+  </data>
+  <data name="If you cancel your subscription, the cancellation will take effect at the end of your current paid billing cycle. You will retain full access to the Services until that cycle concludes." xml:space="preserve">
+    <value>यदि आप अपनी सदस्यता रद्द करते हैं, तो रद्दीकरण आपके वर्तमान भुगतान किए गए बिलिंग चक्र के अंत में प्रभावी होगा। आप उस चक्र के समाप्त होने तक सेवाओं की पूर्ण पहुंच बनाए रखेंगे।</value>
+  </data>
+  <data name="If you have any questions about these Terms, please contact our executive team at:" xml:space="preserve">
+    <value>यदि आपके पास इन शर्तों के बारे में कोई प्रश्न हैं, तो कृपया हमारी कार्यकारी टीम से संपर्क करें:</value>
+  </data>
+  <data name="In no event shall Aiursoft&apos;s aggregate liability for all claims related to the services exceed the total amount paid by you to Aiursoft for the specific service in the twelve (12) months preceding the claim." xml:space="preserve">
+    <value>कोई भी परिस्थिति में Aiursoft की सेवाओं से संबंधित सभी दावों के लिए समुचित जिम्मेदारी आपके द्वारा दावे से पूर्व बारह (12) महीनों में Aiursoft को विशिष्ट सेवा के लिए भुगतान की गई कुल राशि से अधिक नहीं होगी।</value>
+  </data>
+  <data name="Last Updated: March 2026" xml:space="preserve">
+    <value>अंतिम अद्यतन: मार्च 2026</value>
+  </data>
+  <data name="No Pro-Rated Refunds:" xml:space="preserve">
+    <value>कोई अनुपातिक वापसी नहीं:</value>
+  </data>
+  <data name="On-Premise Plans (e.g., Startup, Custom Enterprise):" xml:space="preserve">
+    <value>ऑन-प्रीमिस योजनाएँ (उदाहरण के लिए, स्टार्टअप, कस्टम एंटरप्राइज़):</value>
+  </data>
+  <data name="One-Time Setup Fees:" xml:space="preserve">
+    <value>एक बार सेटअप शुल्क:</value>
+  </data>
+  <data name="Payment Processing:" xml:space="preserve">
+    <value>भुगतान प्रसंस्करण:</value>
+  </data>
+  <data name="Per-User Billing:" xml:space="preserve">
+    <value>प्रति-उपयोगकर्ता बिलिंग:</value>
+  </data>
+  <data name="Subscription fees are calculated based on the number of active users/accounts managed within your Aiursoft Identity Gateway per billing cycle." xml:space="preserve">
+    <value>सदस्यता शुल्क आपके Aiursoft Identity Gateway में प्रबंधित सक्रिय उपयोगकर्ताओं/खातों की संख्या के आधार पर प्रत्येक बिलिंग चक्र के लिए गणना किए जाते हैं।</value>
+  </data>
+  <data name="Taxes:" xml:space="preserve">
+    <value>कर:</value>
+  </data>
+  <data name="Terms of Service &amp; Subscription Agreement" xml:space="preserve">
+    <value>सेवा की शर्तें और सदस्यता समझौता</value>
+  </data>
+  <data name="The Aiursoft brand, logos, website design, and proprietary deployment scripts (e.g., Aiursoft Template orchestrations) are the intellectual property of AIURSOFT LIMITED. The underlying open-source software remains the property of their respective creators and is provided to you under their specific open-source licenses." xml:space="preserve">
+    <value>Aiursoft ब्रांड, लोगो, वेबसाइट डिज़ाइन, और स्वामित्व वाले डिप्लॉयमेंट स्क्रिप्ट (जैसे, Aiursoft Template ऑर्केस्ट्रेशन) AIURSOFT LIMITED का बौद्धिक संपदा हैं। अंतर्निहित ओपन-सोर्स सॉफ्टवेयर उनके संबंधित निर्माताओं का संपदा बना रहता है और उन्हें उनके विशिष्ट ओपन-सोर्स लाइसेंस के तहत आपको प्रदान किया जाता है।</value>
+  </data>
+  <data name="The Service is Commercial:" xml:space="preserve">
+    <value>सेवा वाणिज्यिक है:</value>
+  </data>
+  <data name="The software is deployed on your local servers or private cloud. You retain absolute physical control and ownership of your data (&quot;Own Your Data&quot;). Consequently, you are solely responsible for your underlying hardware, local network security, physical access control, and disaster recovery backups. Aiursoft&apos;s responsibility is limited to software-level maintenance, container updates, and technical support as defined in your plan." xml:space="preserve">
+    <value>सॉफ़्टवेयर आपके स्थानीय सर्वरों या निजी क्लाउड पर तैनात किया जाता है। आप अपने डेटा का पूर्ण भौतिक नियंत्रण और स्वामित्व बनाए रखते हैं (&quot;Own Your Data&quot;)। अतः, आप अपने अंतर्निहित हार्डवेयर, स्थानीय नेटवर्क सुरक्षा, भौतिक एक्सेस नियंत्रण और आपदा पुनर्प्राप्ति बैकअप के लिए पूर्ण रूप से जिम्मेदार हैं। Aiursoft की जिम्मेदारी केवल सॉफ़्टवेयर स्तर की रखरखाव, कंटेनर अपडेट और आपके योजना में परिभाषित तकनीकी सहायता तक सीमित है।</value>
+  </data>
+  <data name="The Software is Free:" xml:space="preserve">
+    <value>सॉफ़्टवेयर मुफ्त है:</value>
+  </data>
+  <data name="The underlying open-source codes are subject to their respective licenses (e.g., MIT, GPL). You are free to inspect, modify, and distribute the code as permitted by those licenses." xml:space="preserve">
+    <value>मूल खुला-स्रोत कोड अपने-अपने लाइसेंस (जैसे कि MIT, GPL) के अधीन हैं। आप उन लाइसेंसों द्वारा अनुमति प्राप्त होने पर कोड की जांच, संशोधन और वितरण करने के लिए स्वतंत्र हैं।</value>
+  </data>
+  <data name="These Terms of Service (&quot;Terms&quot;) govern your access to and use of the Aiursoft website, products, and subscription services, including but not limited to Aiursoft Substrate (Core, Startup, and Enterprise plans) (collectively, the &quot;Services&quot;). By registering for an account or purchasing a subscription, you agree to be bound by these Terms." xml:space="preserve">
+    <value>इन सेवा की शर्तें (&quot;शर्तें&quot;) आपकी Aiursoft वेबसाइट, उत्पादों और सदस्यता सेवाओं तक पहुंच और उपयोग को नियंत्रित करती हैं, जिसमें Aiursoft Substrate (Core, Startup, और Enterprise प्लान) शामिल है लेकिन इन तक सीमित नहीं है (सामूहिक रूप से, &quot;सेवाएं&quot;)। एक खाते के लिए पंजीकरण करके या सदस्यता खरीदकर, आप इन शर्तों द्वारा बंधित होने के लिए सहमत होते हैं।</value>
+  </data>
+  <data name="These Terms shall be governed by and construed in accordance with the laws of the Hong Kong Special Administrative Region, without regard to its conflict of law provisions." xml:space="preserve">
+    <value>इन शर्तों को हंगकांग विशेष प्रशासनिक क्षेत्र के कानूनों द्वारा शासित और व्याख्या की जाएगी, इसके विधि संघर्ष की व्यवस्थाओं को ध्यान में नहीं रखते हुए।</value>
+  </data>
+  <data name="To ensure uninterrupted service, our commercial plans operate on a recurring subscription basis." xml:space="preserve">
+    <value>अविच्छिन्न सेवा सुनिश्चित करने के लिए, हमारे वाणिज्यिक प्लान पुनरावर्ती सदस्यता के आधार पर संचालित होते हैं।</value>
+  </data>
+  <data name="To the maximum extent permitted by law, Aiursoft Limited shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses, resulting from:" xml:space="preserve">
+    <value>कानून द्वारा अनुमति प्राप्त अधिकतम सीमा तक, Aiursoft Limited किसी भी अप्रत्यक्ष, संयोगजनक, विशेष, परिणामस्वरूप या दंडात्मक क्षति के लिए, या सीधे या अप्रत्यक्ष रूप से होने वाले किसी भी लाभ या राजस्व की हानि के लिए, या डेटा, उपयोग, अच्छे इरादे (goodwill) या अन्य अमूर्त हानि के लिए जिम्मेदार नहीं होगा, जो निम्नलिखित के परिणामस्वरूप होती है:</value>
+  </data>
+  <data name="Use our Cloud-Hosted email services (Mailcow) to send unsolicited spam or conduct phishing campaigns. Violation of this rule will result in immediate account termination without refund." xml:space="preserve">
+    <value>अनचाहे स्पैम भेजने या फिशिंग अभियान चलाए जाने के लिए हमारे क्लाउड-होस्ट ईमेल सेवाओं (Mailcow) का उपयोग न करें। इस नियम का उल्लंघन करने पर तुरंत खाता रद्द कर दिया जाएगा और कोई वापसी नहीं की जाएगी।</value>
+  </data>
+  <data name="Use the Services to conduct any illegal, fraudulent, or malicious activities." xml:space="preserve">
+    <value>किसी भी अवैध, धोखाधड़ी या दुर्भावनापूर्ण गतिविधियों को करने के लिए सेवाओं का उपयोग न करें।</value>
+  </data>
+  <data name="We do not provide refunds or credits for any partial-month subscription periods, or for user accounts that were provisioned but remained inactive." xml:space="preserve">
+    <value>हम किसी भी आंशिक-महीने की सदस्यता अवधि के लिए या उन उपयोगकर्ता खातों के लिए जो तैयार किए गए थे लेकिन निष्क्रिय रहे, कोई रीफंड या क्रेडिट प्रदान नहीं करते हैं।</value>
+  </data>
+  <data name="We may revise these Terms from time to time to better reflect changes to the law, new regulatory requirements, or improvements made to our Services. If an update affects your use of the Services or your legal rights as a user of our Services, we’ll notify you prior to the update&apos;s effective date by sending an email to the account owner." xml:space="preserve">
+    <value>हम कानून में होने वाले बदलावों, नए नियामक आवश्यकताओं या हमारी सेवाओं में की गई सुधारों को बेहतर ढंग से दर्शाने के लिए इन शर्तों को समय-समय पर संशोधित कर सकते हैं। यदि कोई अपडेट आपके द्वारा सेवाओं का उपयोग करने या हमारी सेवाओं के उपयोगकर्ता के रूप में आपके कानूनी अधिकारों को प्रभावित करता है, तो हम अपडेट की प्रभावी तिथि से पहले खाते के मालिक को ईमेल भेजकर आपको सूचित करेंगे।</value>
+  </data>
+  <data name="We offer different tiers of deployment to suit your business needs:" xml:space="preserve">
+    <value>हम आपके व्यावसायिक आवश्यकताओं के अनुरूप विभिन्न स्तरों पर तैनाती की पेशकश करते हैं:</value>
+  </data>
+  <data name="Welcome to Aiursoft. We are dedicated to bringing the spirit of open-source and free software to every enterprise and individual." xml:space="preserve">
+    <value>Aiursoft में आपका स्वागत है। हम हर उद्यम और व्यक्ति को ओपन-सोर्स और मुफ्त सॉफ्टवेयर के आत्म को लाने के लिए समर्पित हैं।</value>
+  </data>
+  <data name="What you are purchasing from Aiursoft is the hosting, automated deployment, maintenance, priority support, and enterprise integration of these tools." xml:space="preserve">
+    <value>आप Aiursoft से जो खरीद रहे हैं, वह इन उपकरणों की होस्टिंग, स्वचालित तैनाती, रखरखाव, प्राथमिकता सहायता और उद्यम एकीकरण है।</value>
+  </data>
+  <data name="You agree not to misuse the Services or help anyone else to do so. You must not:" xml:space="preserve">
+    <value>आप सहमत हैं कि आप सेवाओं का दुरुपयोग नहीं करेंगे या किसी अन्य को ऐसा करने में मदद नहीं करेंगे। आपको निम्नलिखित कार्य नहीं करने चाहिए:</value>
+  </data>
+  <data name="You may cancel your subscription at any time through your Aiursoft Billing Dashboard or by contacting our support team." xml:space="preserve">
+    <value>आप किसी भी समय अपने Aiursoft बिलिंग डैशबोर्ड के माध्यम से या हमारी सहायता टीम से संपर्क करके अपनी सदस्यता रद्द कर सकते हैं।</value>
+  </data>
+  <data name="Your access to or use of or inability to access or use the Services." xml:space="preserve">
+    <value>आपका सेवाओं तक पहुंचना या उनका उपयोग करना या सेवाओं तक पहुंचने या उनका उपयोग करने में असमर्थता।</value>
+  </data>
+  <data name="Your subscription will automatically renew at the end of each billing cycle (monthly or annually) unless you cancel it prior to the renewal date. You authorize us (via Stripe) to charge the applicable subscription fees to your payment method on file." xml:space="preserve">
+    <value>आपकी सदस्यता प्रत्येक बिलिंग चक्र (मासिक या वार्षिक) के अंत में स्वचालित रूप से नवीनीकृत हो जाएगी, जब तक कि आप नवीनीकरण तिथि से पहले इसे रद्द न कर दें। आप हमें (Stripe के माध्यम से) अपने फाइल में मौजूद भुगतान विधि पर लागू सदस्यता शुल्क काटने की अनुमति देते हैं।</value>
+  </data>
+
+</root>
