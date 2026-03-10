@@ -45,6 +45,9 @@
   <data name="Licence" xml:space="preserve">
     <value>लाइसेंस</value>
   </data>
+  <data name="Privacy Policy" xml:space="preserve">
+    <value>गोपनीयता नीति</value>
+  </data>
   <data name="Project" xml:space="preserve">
     <value>प्रोजेक्ट</value>
   </data>
@@ -59,6 +62,9 @@
   </data>
   <data name="Source Code" xml:space="preserve">
     <value>सोर्स कोड</value>
+  </data>
+  <data name="Terms of Service" xml:space="preserve">
+    <value>सेवा की शर्तें</value>
   </data>
 
 </root>

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="1. The Aiursoft Privacy Philosophy" xml:space="preserve">
+    <value>1. Η Φιλοσοφία Απορρήτου της Aiursoft</value>
+  </data>
+  <data name="2. Core Distinction: Data Controller vs. Data Processor" xml:space="preserve">
+    <value>2. Βασική Διαφορά: Υπεύθυνος Επεξεργασίας Δεδομένων έναντι Επεξεργαστή Δεδομένων</value>
+  </data>
+  <data name="3. What Data We Actually Collect" xml:space="preserve">
+    <value>3. Ποια δεδομένα συλλέγουμε πραγματικά</value>
+  </data>
+  <data name="4. How We Use Your Data" xml:space="preserve">
+    <value>4. Πώς Χρησιμοποιούμε τα Στοιχεία σας</value>
+  </data>
+  <data name="5. Data Sharing and Third-Party Sub-Processors" xml:space="preserve">
+    <value>5. Διαμοιρασμός Δεδομένων και Υποεπεξεργαστές Τρίτων</value>
+  </data>
+  <data name="6. Data Retention and Deletion" xml:space="preserve">
+    <value>6. Διατήρηση και Διαγραφή Δεδομένων</value>
+  </data>
+  <data name="7. Your Data Rights" xml:space="preserve">
+    <value>7. Τα Δικαιώματά σας σχετικά με τα Δεδομένα</value>
+  </data>
+  <data name="8. Contact Us" xml:space="preserve">
+    <value>8. Επικοινωνήστε μαζί μας</value>
+  </data>
+  <data name="Account Information:" xml:space="preserve">
+    <value>Πληροφορίες Λογαριασμού:</value>
+  </data>
+  <data name="AIURSOFT LIMITED" xml:space="preserve">
+    <value>AIURSOFT LIMITED</value>
+  </data>
+  <data name="Aiursoft Privacy Policy" xml:space="preserve">
+    <value>Πολιτική Απορρήτου Aiursoft</value>
+  </data>
+  <data name="At Aiursoft, our foundational mission is to bring the spirit of open-source and free software to every enterprise and individual. This commitment to freedom inherently extends to your privacy and data sovereignty. We believe that your data belongs exclusively to you." xml:space="preserve">
+    <value>Στην Aiursoft, ο θεμελιώδης μας στόχος είναι να φέρουμε το πνεύμα του λογισμικού ανοιχτού κώδικα και του ελεύθερου λογισμικού σε κάθε επιχείρηση και άτομο. Αυτή η δέσμευση προς την ελευθερία επεκτείνεται εγγενώς στην ιδιωτικότητα και την κυριαρχία των δεδομένων σας. Πιστεύουμε ότι τα δεδομένα σας ανήκουν αποκλειστικά σε εσάς.</value>
+  </data>
+  <data name="Beyond these essential operational partners, Aiursoft will never disclose your data to any third party, including government entities, unless legally compelled to do so by a valid, binding court order or subpoena originating from a competent jurisdiction." xml:space="preserve">
+    <value>Πέρα από αυτούς τους απαραίτητους επιχειρηματικούς συνεργάτες, η Aiursoft δεν θα αποκαλύψει ποτέ τα δεδομένα σας σε οποιοδήποτε τρίτο μέρος, συμπεριλαμβανομένων των κυβερνητικών οργάνων, εκτός εάν αναγκαστεί νομικά να το κάνει βάσει έγκυρης, δεσμευτικής δικαστικής απόφασης ή παραγγελίας που εκδίδεται από αρμόδια δικαιοδοσία.</value>
+  </data>
+  <data name="Billing and Payment Data:" xml:space="preserve">
+    <value>Στοιχεία Χρέωσης και Πληρωμής:</value>
+  </data>
+  <data name="Communication:" xml:space="preserve">
+    <value>Επικοινωνία:</value>
+  </data>
+  <data name="Company Entity:" xml:space="preserve">
+    <value>Νομικό Πρόσωπο Εταιρείας:</value>
+  </data>
+  <data name="Company Entity: AIURSOFT LIMITED (Hong Kong)" xml:space="preserve">
+    <value>Νομικό Πρόσωπο Εταιρείας: AIURSOFT LIMITED (Hong Kong)</value>
+  </data>
+  <data name="Crucially, AIURSOFT LIMITED does not collect, process, or store your full credit card numbers or sensitive financial instruments on our servers. All payment transactions are securely handled by our PCI-DSS compliant third-party payment processor, Stripe, Inc. We only receive and retain non-sensitive billing information from Stripe, such as your billing address, subscription status, and the last four digits of your payment card, strictly for the purposes of issuing invoices, managing your active subscriptions, and complying with financial record-keeping laws." xml:space="preserve">
+    <value>Κρίσιμα, η AIURSOFT LIMITED δεν συλλέγει, επεξεργάζεται ή αποθηκεύει τους πλήρεις αριθμούς πιστωτικής σας κάρτας ή ευαίσθητα οικονομικά μέσα στους διακομιστές μας. Όλες οι συναλλαγές πληρωμών διαχειρίζονται με ασφάλεια από τον συμμορφούμενο με το PCI-DSS εξωτερικό μας επεξεργαστή πληρωμών, τη Stripe, Inc. Παραλαμβάνουμε και διατηρούμε μόνο μη ευαίσθητα στοιχεία χρέωσης από τη Stripe, όπως τη διεύθυνση χρέωσής σας, την κατάσταση συνδρομής σας και τους τελευταίους τέσσερις αριθμούς της κάρτας πληρωμής σας, αποκλειστικά για τους σκοπούς έκδοσης τιμολογίων, διαχείρισης των ενεργών συνδρομών σας και συμμόρφωσης με τους νόμους για τη διατήρηση οικονομικών αρχείων.</value>
+  </data>
+  <data name="During Active Subscription:" xml:space="preserve">
+    <value>Κατά τη διάρκεια ενεργής συνδρομής:</value>
+  </data>
+  <data name="Email:" xml:space="preserve">
+    <value>Ηλεκτρονικό ταχυδρομείο:</value>
+  </data>
+  <data name="Exclusively for secure payment processing and subscription management." xml:space="preserve">
+    <value>Αποκλειστικά για την ασφαλή επεξεργασία πληρωμών και τη διαχείριση συνδρομών.</value>
+  </data>
+  <data name="For Cloud-Hosted Plans (e.g., Aiursoft Substrate S1 Core):" xml:space="preserve">
+    <value>Για Σχεδιασμούς Φιλοξενίας στο Cloud (π.χ., Aiursoft Substrate S1 Core):</value>
+  </data>
+  <data name="For on-premise deployments, cancellation simply terminates our support and update services. Your data remains entirely intact on your own servers, under your complete control." xml:space="preserve">
+    <value>Για τις τοπικές εγκαταστάσεις (on-premise), η ακύρωση απλώς τερματίζει τις υπηρεσίες υποστήριξης και ενημέρωσής μας. Τα δεδομένα σας παραμένουν πλήρως άθικτα στους δικούς σας διακομιστές, υπό την πλήρη έλεγχό σας.</value>
+  </data>
+  <data name="For On-Premise Plans (e.g., Aiursoft Substrate S3 Startup &amp; S5 Enterprise):" xml:space="preserve">
+    <value>Για τα Σχέδια On-Premise (π.χ., Aiursoft Substrate S3 Startup &amp; S5 Enterprise):</value>
+  </data>
+  <data name="For provisioning the underlying high-performance cloud infrastructure that powers our official websites and Cloud-Hosted (S1 Core) client instances." xml:space="preserve">
+    <value>Για τη διαχείριση της υποκείμενης υποδομής cloud υψηλών επιδόσεων που τροφοδοτεί τις επίσημες ιστοσελίδες μας και τις πελατικές στιγμιότυπα Cloud-Hosted (S1 Core).</value>
+  </data>
+  <data name="If you choose to cancel a Cloud-Hosted subscription, your account will remain active until the end of the current billing cycle. Following the expiration of your subscription, we observe a strict 30-day grace period. After this 30-day period, all of your associated business data (emails, files, databases) will be permanently, irreversibly, and securely hard-deleted from our hosting infrastructure. We cannot recover data once this deletion process has occurred." xml:space="preserve">
+    <value>Αν αποφασίσετε να ακυρώσετε μια συνδρομή Cloud-Hosted, ο λογαριασμός σας θα παραμείνει ενεργός έως το τέλος του τρέχοντος κύκλου χρέωσης. Μετά τη λήξη της συνδρομής σας, τηρούμε μια αυστηρή περίοδο χάριτος 30 ημερών. Μετά την πάροδο αυτής της περιόδου 30 ημερών, όλα τα συναφή επιχειρηματικά σας δεδομένα (ηλεκτρονικά μηνύματα, αρχεία, βάσεις δεδομένων) θα διαγραφούν οριστικά, μη αναστρέψιμα και με ασφάλεια από την υποδομή φιλοξενίας μας. Δεν μπορούμε να ανακτήσουμε δεδομένα μετά την ολοκλήρωση αυτής της διαδικασίας διαγραφής.</value>
+  </data>
+  <data name="If you have any questions, concerns, or requests regarding this Privacy Policy or our data handling practices, please contact our executive team:" xml:space="preserve">
+    <value>Εάν έχετε οποιεσδήποτε ερωτήσεις, ανησυχίες ή αιτήματα σχετικά με αυτή την Πολιτική Απορρήτου ή τις πρακτικές διαχείρισης δεδομένων μας, παρακαλούμε επικοινωνήστε με την ανώτατη διοίκηση της εταιρείας μας:</value>
+  </data>
+  <data name="In accordance with global privacy standards, including the principles outlined in regulations such as the GDPR and the Hong Kong Personal Data (Privacy) Ordinance (PDPO), you possess the following rights regarding your personal data held by Aiursoft:" xml:space="preserve">
+    <value>Συμμόρφως με τα παγκόσμια πρότυπα προστασίας των προσωπικών δεδομένων, συμπεριλαμβανομένων των αρχών που καθορίζονται σε κανονισμούς όπως ο Γενικός Κανονισμός Προστασίας Δεδομένων (GDPR) και ο Νόμος περί Προστασίας Προσωπικών Δεδομένων (Προστασία) της Χονγκ Κονγκ (PDPO), έχετε τα εξής δικαιώματα σχετικά με τα προσωπικά σας δεδομένα που κατέχει η Aiursoft:</value>
+  </data>
+  <data name="Last Updated: March 2026" xml:space="preserve">
+    <value>Τελευταία Ενημέρωση: Μάρτιος 2026</value>
+  </data>
+  <data name="Minimal Data Collection:" xml:space="preserve">
+    <value>Ελάχιστη Συλλογή Δεδομένων:</value>
+  </data>
+  <data name="No Data Selling:" xml:space="preserve">
+    <value>Καμία πώληση δεδομένων:</value>
+  </data>
+  <data name="No Hidden Telemetry:" xml:space="preserve">
+    <value>Καμία κρυφή τηλεμετρία:</value>
+  </data>
+  <data name="Our software solutions are designed without concealed telemetry, advertising trackers, or behavioral profiling mechanisms." xml:space="preserve">
+    <value>Οι λύσεις λογισμικού μας σχεδιάστηκαν χωρίς κρυφές τηλεμετρίες, παρακολουθητές διαφημίσεων ή μηχανισμούς προφίλ συμπεριφοράς.</value>
+  </data>
+  <data name="Right to Access:" xml:space="preserve">
+    <value>Δικαίωμα Πρόσβασης:</value>
+  </data>
+  <data name="Right to Erasure (The &quot;Right to be Forgotten&quot;):" xml:space="preserve">
+    <value>Δικαίωμα Διαγραφής (Το «Δικαίωμα στη Λήθη»):</value>
+  </data>
+  <data name="Right to Rectification:" xml:space="preserve">
+    <value>Δικαίωμα διόρθωσης:</value>
+  </data>
+  <data name="Service Provisioning:" xml:space="preserve">
+    <value>Παροχή Υπηρεσιών:</value>
+  </data>
+  <data name="Strict Prohibition on AI Training:" xml:space="preserve">
+    <value>Αυστηρή Απαγόρευση Εκπαίδευσης Τεχνητής Νοημοσύνης:</value>
+  </data>
+  <data name="Stripe, Inc.:" xml:space="preserve">
+    <value>Stripe, Inc.:</value>
+  </data>
+  <data name="Technical and Diagnostic Data:" xml:space="preserve">
+    <value>Τεχνικά και Διαγνωστικά Δεδομένα:</value>
+  </data>
+  <data name="The limited data we do collect is utilized solely for the following legitimate business purposes:" xml:space="preserve">
+    <value>Τα περιορισμένα δεδομένα που συλλέγουμε χρησιμοποιούνται αποκλειστικά για τους παρακάτω νόμιμους επιχειρηματικούς σκοπούς:</value>
+  </data>
+  <data name="To clearly understand how your data is handled, it is crucial to differentiate between the types of deployment plans we offer, as our legal and technical relationship to your data changes significantly based on your chosen architecture:" xml:space="preserve">
+    <value>Για να κατανοήσετε σαφώς πώς διαχειρίζονται τα δεδομένα σας, είναι απαραίτητο να διαχωρίσετε τους τύπους των σχεδίων εγγραφής που προσφέρουμε, καθώς η νομική και τεχνική μας σχέση με τα δεδομένα σας αλλάζει σημαντικά ανάλογα με την αρχιτεκτονική που επιλέγετε:</value>
+  </data>
+  <data name="To create your account, configure your chosen deployment (whether cloud-hosted or coordinating on-premise setup), and authenticate your access." xml:space="preserve">
+    <value>Για τη δημιουργία του λογαριασμού σας, τη διαμόρφωση της επιλεγμένης σας εγκατάστασης (είτε φιλοξενούμενης στο σύννεφο είτε συντονισμένης εγκατάστασης σε τοπικό περιβάλλον) και την πιστοποίηση της πρόσβασής σας.</value>
+  </data>
+  <data name="To exercise any of these rights, please contact us using the information provided below or manage your preferences directly within your Aiursoft account dashboard." xml:space="preserve">
+    <value>Για να ασκήσετε οποιοδήποτε από αυτά τα δικαιώματα, παρακαλούμε επικοινωνήστε μαζί μας χρησιμοποιώντας τις παρακάτω πληροφορίες ή διαχειριστείτε τις προτιμήσεις σας απευθείας από τον πίνακα ελέγχου του λογαριασμού σας στο Aiursoft.</value>
+  </data>
+  <data name="To facilitate our business relationship and manage your subscriptions, we collect the following limited categories of information:" xml:space="preserve">
+    <value>Για να διευκολύνουμε τη συνεργασία μας και να διαχειριστούμε τις συνδρομές σας, συλλέγουμε τις εξής περιορισμένες κατηγορίες πληροφοριών:</value>
+  </data>
+  <data name="To facilitate subscription billing and process payments securely via Stripe." xml:space="preserve">
+    <value>Για να διευκολυνθεί η χρέωση συνδρομής και η ασφαλή επεξεργασία πληρωμών μέσω του Stripe.</value>
+  </data>
+  <data name="To send you critical system notifications (such as scheduled maintenance alerts or downtime warnings), billing receipts, and responses to your technical support inquiries." xml:space="preserve">
+    <value>Για να σας στέλνουμε κρίσιμες ειδοποιήσεις συστήματος (όπως ειδοποιήσεις προγραμματισμένης συντήρησης ή προειδοποιήσεις διακοπής λειτουργίας), αποδείξεις χρέωσης και απαντήσεις στα αιτήματά σας για τεχνική υποστήριξη.</value>
+  </data>
+  <data name="Transaction Processing:" xml:space="preserve">
+    <value>Επεξεργασία Συναλλαγών:</value>
+  </data>
+  <data name="Upon Cancellation (Cloud-Hosted Plans):" xml:space="preserve">
+    <value>Κατά την Ακύρωση (Σχέδια με Φιλοξενία στο Cloud):</value>
+  </data>
+  <data name="Upon Cancellation (On-Premise Plans):" xml:space="preserve">
+    <value>Κατά την Ακύρωση (Σχέδια On-Premise):</value>
+  </data>
+  <data name="Voxihost:" xml:space="preserve">
+    <value>Voxihost:</value>
+  </data>
+  <data name="We are unequivocally committed to the following principles:" xml:space="preserve">
+    <value>Είμαστε αδιαμφισβήτητα δεσμευμένοι με τις παρακάτω αρχές:</value>
+  </data>
+  <data name="We categorically state that your private data, documents, and communications are never used to train our AI models or any third-party Large Language Models (LLMs). Our AI solutions, particularly in the Custom Enterprise tier, are designed to run locally and train exclusively on data you explicitly provide within your secure environment." xml:space="preserve">
+    <value>Διακηρύσσουμε κατηγορηματικά ότι τα ιδιωτικά σας δεδομένα, έγγραφα και επικοινωνίες δεν χρησιμοποιούνται ποτέ για την εκπαίδευση των μοντέλων τεχνητής νοημοσύνης μας ή οποιωνδήποτε μοντέλων μεγάλων γλωσσών (LLMs) τρίτων μερών. Οι λύσεις τεχνητής νοημοσύνης μας, ιδιαίτερα στο επίπεδο Custom Enterprise, έχουν σχεδιαστεί για να λειτουργούν τοπικά και να εκπαιδεύονται αποκλειστικά με δεδομένα που παρέχετε ρητά εντός του ασφαλούς περιβάλλοντός σας.</value>
+  </data>
+  <data name="We collect only the absolute minimum data necessary to provide you with secure, reliable, and functional services." xml:space="preserve">
+    <value>Συλλέγουμε μόνο τα απόλυτα ελάχιστα δεδομένα που είναι απαραίτητα για να σας παρέχουμε ασφαλείς, αξιόπιστες και λειτουργικές υπηρεσίες.</value>
+  </data>
+  <data name="We do not share your personal information with external parties except where absolutely necessary to deliver our services. To operate effectively, we utilize the following trusted third-party sub-processors:" xml:space="preserve">
+    <value>Δεν κοινοποιούμε τα προσωπικά σας δεδομένα σε εξωτερικούς φορείς, εκτός όπου απολύτως απαραίτητο για την παροχή των υπηρεσιών μας. Για να λειτουργήσουμε αποτελεσματικά, χρησιμοποιούμε τους εξής αξιόπιστους τρίτους υπο-επεξεργαστές:</value>
+  </data>
+  <data name="We do not, and will never, sell, rent, or lease your personal or business data to third parties." xml:space="preserve">
+    <value>Δεν πωλούμε, δεν ενοικιάζουμε και δεν θα πωλούμε ή ενοικιάζουμε ποτέ τα προσωπικά ή επιχειρηματικά σας δεδομένα σε τρίτους.</value>
+  </data>
+  <data name="We securely retain your account and hosted data for the duration of your active subscription to ensure continuous service delivery." xml:space="preserve">
+    <value>Διατηρούμε με ασφάλεια τον λογαριασμό σας και τα φιλοξενημένα δεδομένα για τη διάρκεια της ενεργής συνδρομής σας, ώστε να διασφαλίζεται η συνεχής παροχή υπηρεσιών.</value>
+  </data>
+  <data name="When you elect to deploy our solutions on your own local servers or private cloud environments, You are in absolute control. In these deployments, Aiursoft has Zero Access to your physical servers, networks, files, emails, or locally constructed AI knowledge bases. Because the data physically resides within your perimeter, we cannot collect, view, or process it. Your privacy is guaranteed by physical and network isolation." xml:space="preserve">
+    <value>Όταν επιλέξετε να διαχειριστείτε τις λύσεις μας στους δικούς σας τοπικούς διακομιστές ή σε περιβάλλοντα ιδιωτικού cloud, έχετε απόλυτο έλεγχο. Σε αυτές τις εγκαταστάσεις, η Aiursoft δεν έχει καμία πρόσβαση στους φυσικούς διακομιστές, τα δίκτυα, τα αρχεία, τα email ή τις τοπικά κατασκευασμένες βάσεις γνώσης Τεχνητής Νοημοσύνης. Επειδή τα δεδομένα βρίσκονται φυσικά εντός του περιγράμματός σας, δεν μπορούμε να τα συλλέξουμε, να τα δούμε ή να τα επεξεργαστούμε. Η ιδιωτικότητά σας εγγυάται από τον φυσικό και δικτυακό απομόνωση.</value>
+  </data>
+  <data name="When you register for an Aiursoft commercial account or engage with our sales team, we collect necessary contact details, including your name, your work email address, and your company name. This information is used strictly for account administration and communication." xml:space="preserve">
+    <value>Όταν εγγραφείτε σε ένα εμπορικό λογαριασμό της Aiursoft ή επικοινωνήσετε με την ομάδα πωλήσεων μας, συλλέγουμε τα απαραίτητα στοιχεία επικοινωνίας, συμπεριλαμβανομένου του ονόματός σας, της επαγγελματικής σας διεύθυνσης email και της ονομασίας της εταιρείας σας. Αυτές οι πληροφορίες χρησιμοποιούνται αποκλειστικά για τη διαχείριση του λογαριασμού και την επικοινωνία.</value>
+  </data>
+  <data name="When you utilize our cloud-hosted infrastructure (such as Mailcow, Nextcloud, or Authentik instances managed on our servers), AIURSOFT LIMITED acts as a Data Processor. You remain the Data Controller. We host and maintain the infrastructure to ensure uptime and security, but our personnel possess absolutely zero access to your underlying business data (e.g., the contents of your emails, your stored files, or your internal chat logs) unless you explicitly grant us temporary, revocable access for the sole purpose of resolving a technical support ticket you have initiated." xml:space="preserve">
+    <value>Όταν χρησιμοποιείτε την υποδομή που φιλοξενείται στο cloud μας (όπως στιγμιότυπα Mailcow, Nextcloud ή Authentik που διαχειρίζονται στους διακομιστές μας), η AIURSOFT LIMITED δρα ως Επεξεργαστής Δεδομένων. Εσείς παραμένετε ο Υπεύθυνος Επεξεργασίας. Φιλοξενούμε και συντηρούμε την υποδομή για να διασφαλίσουμε τη διαθεσιμότητα και την ασφάλεια, αλλά το προσωπικό μας δεν έχει απόλυτη πρόσβαση στα υποκείμενα επιχειρηματικά σας δεδομένα (π.χ., το περιεχόμενο των email σας, τα αποθηκευμένα αρχεία σας ή τα εσωτερικά αρχεία συνομιλιών σας), εκτός εάν μας παραχωρήσετε ρητά προσωρινή και ανακλητή πρόσβαση με τον αποκλειστικό σκοπό της επίλυσης ενός τεχνικού αιτήματος υποστήριξης που έχετε ξεκινήσει.</value>
+  </data>
+  <data name="When you visit our public-facing websites (e.g., aiursoft.com), our web servers automatically log standard technical information, such as your IP address, browser type, and access times. This data is utilized exclusively for security monitoring (e.g., preventing DDoS attacks), ensuring the stability of our web infrastructure, and basic, anonymized traffic analysis. We do not employ invasive third-party tracking cookies for behavioral advertising." xml:space="preserve">
+    <value>Όταν επισκέπτεστε τους δημόσιους ιστότοπούς μας (π.χ., aiursoft.com), οι διακομιστές ιστοσελίδων μας καταγράφουν αυτόματα τυπικές τεχνικές πληροφορίες, όπως τη διεύθυνση IP, τον τύπο του περιηγητή και τις ώρες πρόσβασής σας. Τα δεδομένα αυτά χρησιμοποιούνται αποκλειστικά για την παρακολούθηση της ασφάλειας (π.χ., πρόληψη επιθέσεων DDoS), την εξασφάλιση της σταθερότητας του υποδομής μας στο διαδίκτυο και τη βασική ανωνυμοποιημένη ανάλυση της κυκλοφορίας. Δεν χρησιμοποιούμε επεμβατικά cookies παρακολούθησης τρίτων για τη διαφήμιση με βάση τη συμπεριφορά.</value>
+  </data>
+  <data name="You may request a copy of the personal data we hold about you." xml:space="preserve">
+    <value>Μπορείτε να ζητήσετε ένα αντίγραφο των προσωπικών δεδομένων που κατέχουμε σχετικά με εσάς.</value>
+  </data>
+  <data name="You may request that we correct any inaccurate or incomplete personal data." xml:space="preserve">
+    <value>Μπορείτε να ζητήσετε να διορθώσουμε οποιαδήποτε ανακριβή ή ελλιπή προσωπικά δεδομένα.</value>
+  </data>
+  <data name="You may request the complete deletion of your account and associated personal data from our systems, subject to our retention policies for cancelled subscriptions and legal compliance requirements." xml:space="preserve">
+    <value>Μπορείτε να ζητήσετε τη πλήρη διαγραφή του λογαριασμού σας και των συναφών προσωπικών δεδομένων από τα συστήματά μας, υπό τους όρους των πολιτικών μας διατήρησης δεδομένων για ακυρωμένες συνδρομές και των απαιτήσεων νομικής συμμόρφωσης.</value>
+  </data>
+
+</root>
