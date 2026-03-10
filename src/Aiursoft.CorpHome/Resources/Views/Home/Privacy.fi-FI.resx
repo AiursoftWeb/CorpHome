@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="1. The Aiursoft Privacy Philosophy" xml:space="preserve">
+    <value>1. Aiursoftin tietosuojafilosofia</value>
+  </data>
+  <data name="2. Core Distinction: Data Controller vs. Data Processor" xml:space="preserve">
+    <value>2. Keskeinen ero: tietojen käsittelijä vs. tietojen käsittelijä</value>
+  </data>
+  <data name="3. What Data We Actually Collect" xml:space="preserve">
+    <value>3. Mitä tietoja keräämme todellisuudessa</value>
+  </data>
+  <data name="4. How We Use Your Data" xml:space="preserve">
+    <value>4. Miten käytämme tietojasi</value>
+  </data>
+  <data name="5. Data Sharing and Third-Party Sub-Processors" xml:space="preserve">
+    <value>5. Tietojen jakaminen ja kolmansien osapuolten aliprosessorit</value>
+  </data>
+  <data name="6. Data Retention and Deletion" xml:space="preserve">
+    <value>6. Tietojen säilytys ja poistaminen</value>
+  </data>
+  <data name="7. Your Data Rights" xml:space="preserve">
+    <value>7. Tietojen oikeutesi</value>
+  </data>
+  <data name="8. Contact Us" xml:space="preserve">
+    <value>8. Ota yhteyttä</value>
+  </data>
+  <data name="Account Information:" xml:space="preserve">
+    <value>Tietotili:</value>
+  </data>
+  <data name="AIURSOFT LIMITED" xml:space="preserve">
+    <value>AIURSOFT LIMITED</value>
+  </data>
+  <data name="Aiursoft Privacy Policy" xml:space="preserve">
+    <value>Aiursoftin tietosuojakäytäntö</value>
+  </data>
+  <data name="At Aiursoft, our foundational mission is to bring the spirit of open-source and free software to every enterprise and individual. This commitment to freedom inherently extends to your privacy and data sovereignty. We believe that your data belongs exclusively to you." xml:space="preserve">
+    <value>Aiursoftissa perustehtävämme on tuoda avoimen lähdekoodin ja vapaan ohjelmiston henki jokaiseen yritykseen ja yksittäiseen käyttäjään. Tämä sitoutuminen vapauteen ulottuu luonnostaan yksityisyyteesi ja tietosuvereniteettisi. Uskomme, että tietosi kuuluu yksinomaan sinulle.</value>
+  </data>
+  <data name="Beyond these essential operational partners, Aiursoft will never disclose your data to any third party, including government entities, unless legally compelled to do so by a valid, binding court order or subpoena originating from a competent jurisdiction." xml:space="preserve">
+    <value>Näiden välttämättömien toiminnallisten kumppaneiden lisäksi Aiursoft ei koskaan paljasta tietojasi millekään kolmannelle osapuolelle, mukaan lukien viranomaiset, ellei sitä velvoita tekemään voimassa oleva, sitova tuomioistuimen määräys tai oikeusviranomaisen saatava pätevältä tuomioistuimelta.</value>
+  </data>
+  <data name="Billing and Payment Data:" xml:space="preserve">
+    <value>Laskutus- ja maksutiedot:</value>
+  </data>
+  <data name="Communication:" xml:space="preserve">
+    <value>Viestintä:</value>
+  </data>
+  <data name="Company Entity:" xml:space="preserve">
+    <value>Yritysyksikkö:</value>
+  </data>
+  <data name="Company Entity: AIURSOFT LIMITED (Hong Kong)" xml:space="preserve">
+    <value>Yritysyksikkö: AIURSOFT LIMITED (Hong Kong)</value>
+  </data>
+  <data name="Crucially, AIURSOFT LIMITED does not collect, process, or store your full credit card numbers or sensitive financial instruments on our servers. All payment transactions are securely handled by our PCI-DSS compliant third-party payment processor, Stripe, Inc. We only receive and retain non-sensitive billing information from Stripe, such as your billing address, subscription status, and the last four digits of your payment card, strictly for the purposes of issuing invoices, managing your active subscriptions, and complying with financial record-keeping laws." xml:space="preserve">
+    <value>Erityisen tärkeää on, että AIURSOFT LIMITED ei kerää, käsittele tai tallenna luottokorttisi numeroita tai muita arkaluonteisia rahoitusvälineitä palvelimillamme. Kaikki maksutapahtumat käsitellään turvallisesti PCI-DSS-standardin mukaisen kolmannen osapuolen maksunkäsittelijämme, Stripe, Inc.:n kautta. Vastaanotamme ja säilytämme Stripe:ltä vain ei-arkaluonteista laskutustietoa, kuten laskutusosoitteesi, tilaustilasi ja maksukorttisi neljä viimeistä numeroa, ainoastaan laskutuksen, aktiivisten tilaustesi hallinnan ja rahoitusasiakirjojen säilyttämistä koskevien lakien noudattamisen tarkoituksessa.</value>
+  </data>
+  <data name="During Active Subscription:" xml:space="preserve">
+    <value>Aktiivisen tilauksen aikana:</value>
+  </data>
+  <data name="Email:" xml:space="preserve">
+    <value>Sähköposti:</value>
+  </data>
+  <data name="Exclusively for secure payment processing and subscription management." xml:space="preserve">
+    <value>Ainoastaan turvalliselle maksujen käsittelylle ja tilaushallinnalle.</value>
+  </data>
+  <data name="For Cloud-Hosted Plans (e.g., Aiursoft Substrate S1 Core):" xml:space="preserve">
+    <value>Pilvipohjaisille suunnitelmissa (esim. Aiursoft Substrate S1 Core):</value>
+  </data>
+  <data name="For on-premise deployments, cancellation simply terminates our support and update services. Your data remains entirely intact on your own servers, under your complete control." xml:space="preserve">
+    <value>Paikan päällä toteutetuissa asennuksissa peruutus lopettaa yksinkertaisesti tukipalvelumme ja päivityspalvelumme. Tietosi pysyvät täysin ehjinä omilla palvelimillasi, täysin sinun hallinnassasi.</value>
+  </data>
+  <data name="For On-Premise Plans (e.g., Aiursoft Substrate S3 Startup &amp; S5 Enterprise):" xml:space="preserve">
+    <value>Paikan päällä oleville suunnitelmiin (esim. Aiursoft Substrate S3 Startup &amp; S5 Enterprise):</value>
+  </data>
+  <data name="For provisioning the underlying high-performance cloud infrastructure that powers our official websites and Cloud-Hosted (S1 Core) client instances." xml:space="preserve">
+    <value>Virallisten verkkosivujemme ja pilvipohjaisten (S1 Core) asiakasinstanssien taustalla olevan suorituskykyisen pilvipohjaisen alustan tarjoamiseen.</value>
+  </data>
+  <data name="If you choose to cancel a Cloud-Hosted subscription, your account will remain active until the end of the current billing cycle. Following the expiration of your subscription, we observe a strict 30-day grace period. After this 30-day period, all of your associated business data (emails, files, databases) will be permanently, irreversibly, and securely hard-deleted from our hosting infrastructure. We cannot recover data once this deletion process has occurred." xml:space="preserve">
+    <value>Jos peruutat Cloud-Hosted -tilauksen, tilisi pysyy aktiivisena nykyisen laskutusjakson loppuun saakka. Tilauksen vanhetessa noudatamme tiukkaa 30 päivän armokaikaa. Tämän 30 päivän jakson jälkeen kaikki liittyvät yritystietosi (sähköpostit, tiedostot, tietokannat) poistetaan pysyvästi, peruuttamattomasti ja turvallisesti loppupääteltyä (hard-deleted) isännöintirakenteestamme. Emme voi palauttaa tietoja, kun poistoprosessi on suoritettu.</value>
+  </data>
+  <data name="If you have any questions, concerns, or requests regarding this Privacy Policy or our data handling practices, please contact our executive team:" xml:space="preserve">
+    <value>Jos sinulla on kysymyksiä, huolia tai pyyntöjä tämän tietosuojaselosteen tai tietojenkäsittelykäytäntöjemme osalta, ota yhteyttä johtoryhmäämme:</value>
+  </data>
+  <data name="In accordance with global privacy standards, including the principles outlined in regulations such as the GDPR and the Hong Kong Personal Data (Privacy) Ordinance (PDPO), you possess the following rights regarding your personal data held by Aiursoft:" xml:space="preserve">
+    <value>Globaalien tietosuojastandardien mukaisesti, mukaan lukien GDPR-asetuksen ja Hongkongin henkilöiden tietosuojalain (PDPO) periaatteet, sinulla on seuraavat oikeudet Aiursoftin hallussa oleviin henkilökohtaisiin tietoihisi:</value>
+  </data>
+  <data name="Last Updated: March 2026" xml:space="preserve">
+    <value>Viimeksi päivitetty: maaliskuu 2026</value>
+  </data>
+  <data name="Minimal Data Collection:" xml:space="preserve">
+    <value>Vähimmäismäärä tietojen keräämistä:</value>
+  </data>
+  <data name="No Data Selling:" xml:space="preserve">
+    <value>Ei tietojen myyntiä:</value>
+  </data>
+  <data name="No Hidden Telemetry:" xml:space="preserve">
+    <value>Ei piilotettua telemetriaa:</value>
+  </data>
+  <data name="Our software solutions are designed without concealed telemetry, advertising trackers, or behavioral profiling mechanisms." xml:space="preserve">
+    <value>Ohjelmistourratuksemme on suunniteltu ilman piilotettua telemetriaa, mainoseurintajärjestelmiä tai käyttäytymisen profilointimekanismeja.</value>
+  </data>
+  <data name="Right to Access:" xml:space="preserve">
+    <value>Oikeus tietoon:</value>
+  </data>
+  <data name="Right to Erasure (The &quot;Right to be Forgotten&quot;):" xml:space="preserve">
+    <value>Poistamisoikeus (&quot;oikeus unohdettavuuteen&quot;):</value>
+  </data>
+  <data name="Right to Rectification:" xml:space="preserve">
+    <value>Oikeus oikaisuun:</value>
+  </data>
+  <data name="Service Provisioning:" xml:space="preserve">
+    <value>Palvelun tarjoaminen:</value>
+  </data>
+  <data name="Strict Prohibition on AI Training:" xml:space="preserve">
+    <value>Tiukka kielto tekoälyn koulutuksessa:</value>
+  </data>
+  <data name="Stripe, Inc.:" xml:space="preserve">
+    <value>Stripe, Inc.:</value>
+  </data>
+  <data name="Technical and Diagnostic Data:" xml:space="preserve">
+    <value>Teknisiä ja diagnostiikkatietoja:</value>
+  </data>
+  <data name="The limited data we do collect is utilized solely for the following legitimate business purposes:" xml:space="preserve">
+    <value>Keräämämme rajallinen määrä tietoja käytetään ainoastaan seuraaviin laillisiin liiketoimintatarkoituksiin:</value>
+  </data>
+  <data name="To clearly understand how your data is handled, it is crucial to differentiate between the types of deployment plans we offer, as our legal and technical relationship to your data changes significantly based on your chosen architecture:" xml:space="preserve">
+    <value>Ymmärtääksesi selvästi, miten tietojasi käsitellään, on erittäin tärkeää erottaa toisistaan tarjoamamme eri toteutussuunnitelmat, sillä oikeudellinen ja tekninen suhteesi tietoihin muuttuu merkittävästi valitsemasi arkkitehtuurin perusteella:</value>
+  </data>
+  <data name="To create your account, configure your chosen deployment (whether cloud-hosted or coordinating on-premise setup), and authenticate your access." xml:space="preserve">
+    <value>Tililläsi luomiseksi, valitsemasi laityksen (olipa kyseessä pilvipohjainen tai paikallinen asennus) konfiguroimiseksi ja pääsyn todentamiseksi.</value>
+  </data>
+  <data name="To exercise any of these rights, please contact us using the information provided below or manage your preferences directly within your Aiursoft account dashboard." xml:space="preserve">
+    <value>Näiden oikeuksien käyttämiseksi ota yhteyttä meihin alla olevien tietojen avulla tai hallinnoi asetuksiasi suoraan Aiursoft-tilisi ohjaustaulussa.</value>
+  </data>
+  <data name="To facilitate our business relationship and manage your subscriptions, we collect the following limited categories of information:" xml:space="preserve">
+    <value>Sujuvoittaaksemme liiketoimintasuhteemme ja hallitaksemme tilauksiasi keräämme seuraavat rajatut tietoluokat:</value>
+  </data>
+  <data name="To facilitate subscription billing and process payments securely via Stripe." xml:space="preserve">
+    <value>Tilauksien laskutuksen helpottamiseksi ja maksujen turvallisesta käsittelystä Stripe-palvelun kautta.</value>
+  </data>
+  <data name="To send you critical system notifications (such as scheduled maintenance alerts or downtime warnings), billing receipts, and responses to your technical support inquiries." xml:space="preserve">
+    <value>Lähetelläksemme sinulle kriittisiä järjestelmäilmoituksia (kuten suunnitellut ylläpitohälytykset tai käyttökatkosvaroitukset), laskutustodisteet ja vastaukset tekniseen tukipyyntöisiisi.</value>
+  </data>
+  <data name="Transaction Processing:" xml:space="preserve">
+    <value>Transaktioiden käsittely:</value>
+  </data>
+  <data name="Upon Cancellation (Cloud-Hosted Plans):" xml:space="preserve">
+    <value>Peruutuksen yhteydessä (pilvipohjaiset suunnitelmat):</value>
+  </data>
+  <data name="Upon Cancellation (On-Premise Plans):" xml:space="preserve">
+    <value>Peruutuksen yhteydessä (paikalliset tilaukset):</value>
+  </data>
+  <data name="Voxihost:" xml:space="preserve">
+    <value>Voxihost:</value>
+  </data>
+  <data name="We are unequivocally committed to the following principles:" xml:space="preserve">
+    <value>Olemme ehdottomasti sitoutuneet seuraaviin periaatteisiin:</value>
+  </data>
+  <data name="We categorically state that your private data, documents, and communications are never used to train our AI models or any third-party Large Language Models (LLMs). Our AI solutions, particularly in the Custom Enterprise tier, are designed to run locally and train exclusively on data you explicitly provide within your secure environment." xml:space="preserve">
+    <value>Vahvistamme ehdottomasti, että yksityisiä tietojasi, asiakirjojasi ja viestintääsi ei koskaan käytetä tekoälymalliemme tai muiden kolmansien osapuolten suurten kielimallien (LLM) koulutukseen. Tekoälyratkaisumme, erityisesti Custom Enterprise -tasolla, on suunniteltu ajamaan paikallisesti ja kouluttautumaan yksinomaan tietoihin, jotka annat nimenomaisesti turvallisessa ympäristössäsi.</value>
+  </data>
+  <data name="We collect only the absolute minimum data necessary to provide you with secure, reliable, and functional services." xml:space="preserve">
+    <value>Keräämme vain ehdottoman vähimmäismäärän tietoja, jotka ovat välttämättömiä turvallisien, luotettavien ja toimivien palveluiden tarjoamiseksi.</value>
+  </data>
+  <data name="We do not share your personal information with external parties except where absolutely necessary to deliver our services. To operate effectively, we utilize the following trusted third-party sub-processors:" xml:space="preserve">
+    <value>Emme jaa henkilötietojasi ulkopuolisille osapuolille paitsi siinä määrin kuin se on ehdottoman välttämätöntä palveluiden tarjoamiseksi. Toimimme tehokkaasti käyttämällä seuraavia luotettavia kolmansien osapuolten aliprosessoreja:</value>
+  </data>
+  <data name="We do not, and will never, sell, rent, or lease your personal or business data to third parties." xml:space="preserve">
+    <value>Emme myy, vuokraa tai anna käyttöösi henkilökohtaisia tai yritystietoja kolmansille osapuolille, eikä meillä ole koskaan aikomustakaan tehdä niin.</value>
+  </data>
+  <data name="We securely retain your account and hosted data for the duration of your active subscription to ensure continuous service delivery." xml:space="preserve">
+    <value>Talletamme tilisi ja isännöidyt tietosi turvallisesti aktiivisen tilauksesi ajaksi varmistaaksemme jatkuvan palvelun toimittamisen.</value>
+  </data>
+  <data name="When you elect to deploy our solutions on your own local servers or private cloud environments, You are in absolute control. In these deployments, Aiursoft has Zero Access to your physical servers, networks, files, emails, or locally constructed AI knowledge bases. Because the data physically resides within your perimeter, we cannot collect, view, or process it. Your privacy is guaranteed by physical and network isolation." xml:space="preserve">
+    <value>Kun valitset asettaa ratkaisumme omille paikallisille palvelimillesi tai yksityisiin pilviympäristöihisi, olet täysin hallinnassa. Näissä käyttöönotoissa Aiursoftilla ei ole lainkaan pääsyä fyysisiin palvelimiisi, verkkoihisi, tiedostoihisi, sähköposteihisi tai paikallisesti rakennettuihin tekoälyn tietokantoihisi. Koska data sijaitsee fyysisesti sisällä perimääsi, emme voi kerätä, tarkastella tai käsitellä sitä. Yksityisyytesi taataan fyysisellä ja verkon eristyksellä.</value>
+  </data>
+  <data name="When you register for an Aiursoft commercial account or engage with our sales team, we collect necessary contact details, including your name, your work email address, and your company name. This information is used strictly for account administration and communication." xml:space="preserve">
+    <value>Kun rekisteröidyt Aiursoftin kaupalliseen tiliin tai otat yhteyttä myyntitiimiimme, keräämme välttämättömät yhteystietosi, mukaan lukien nimesi, työ sähköpostiosoitteesi ja yrityksesi nimi. Näitä tietoja käytetään ainoastaan tilin hallinnointiin ja viestintään.</value>
+  </data>
+  <data name="When you utilize our cloud-hosted infrastructure (such as Mailcow, Nextcloud, or Authentik instances managed on our servers), AIURSOFT LIMITED acts as a Data Processor. You remain the Data Controller. We host and maintain the infrastructure to ensure uptime and security, but our personnel possess absolutely zero access to your underlying business data (e.g., the contents of your emails, your stored files, or your internal chat logs) unless you explicitly grant us temporary, revocable access for the sole purpose of resolving a technical support ticket you have initiated." xml:space="preserve">
+    <value>Kun käytät pilvipohjaista infrastruktuuria (kuten palvelimillamme hallittuja Mailcow-, Nextcloud- tai Authentik-tietokantapalveluita), AIURSOFT LIMITED toimii tietojen käsittelijänä. Sinä pysyt tietojen hallitsijana. Isännöimme ja ylläpidämme infrastruktuuria varmistaaksemme käytettävyyden ja turvallisuuden, mutta henkilökunnallamme ei ole lainkaan pääsyä taustalla oleviin liiketoimintatietoihisi (esim. sähköpostisi sisältö, tallennetut tiedostosi tai sisäiset keskustelulokit), ellei sinä nimenomaan myönnä meille väliaikaista ja peruutettavaa pääsyä ainoastaan sinun aloittamasi teknisen tuki-ilmoituksen ratkaisemiseksi.</value>
+  </data>
+  <data name="When you visit our public-facing websites (e.g., aiursoft.com), our web servers automatically log standard technical information, such as your IP address, browser type, and access times. This data is utilized exclusively for security monitoring (e.g., preventing DDoS attacks), ensuring the stability of our web infrastructure, and basic, anonymized traffic analysis. We do not employ invasive third-party tracking cookies for behavioral advertising." xml:space="preserve">
+    <value>Kun vierailet julkisesti saatavilla olevilla verkkosivustoillamme (esim. aiursoft.com), verkkopalvelimemme tallentavat automaattisesti standardin teknistä tietoa, kuten IP-osoitteesi, selaimen tyyppisi ja pääsyn ajankohdat. Tätä tietoa käytetään ainoastaan turvallisuuden valvontaan (esim. DDoS-hyökkäysten ehkäisyyn), verkkoinfrastruktuurimme vakauden varmistamiseen sekä perustavanlaatuiseen, nimettömään liikenteen analysointiin. Emme käytä käyttäytymismarkkinointiin tarkoitettuja tunkeilevia kolmansien osapuolien seurantaevästeitä.</value>
+  </data>
+  <data name="You may request a copy of the personal data we hold about you." xml:space="preserve">
+    <value>Voit pyytää kopiota sinusta pitämistämme henkilötiedoista.</value>
+  </data>
+  <data name="You may request that we correct any inaccurate or incomplete personal data." xml:space="preserve">
+    <value>Voit pyytää meitä korjaamaan epätarkkaa tai puutteellista henkilötietoja.</value>
+  </data>
+  <data name="You may request the complete deletion of your account and associated personal data from our systems, subject to our retention policies for cancelled subscriptions and legal compliance requirements." xml:space="preserve">
+    <value>Voit pyytää tilisi ja siihen liittyvien henkilötietojen täydellistä poistamista järjestelmistämme, noudattaen kuitenkin peruutettujen tilausjaksojen säilytyspolitiikkaamme ja lainsäädännön vaatimuksia.</value>
+  </data>
+
+</root>
