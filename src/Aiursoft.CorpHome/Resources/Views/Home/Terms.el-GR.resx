@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="1. The Nature of Our Services" xml:space="preserve">
+    <value>1. Η Φύση των Υπηρεσιών μας</value>
+  </data>
+  <data name="10. Governing Law" xml:space="preserve">
+    <value>10. Εφαρμοστέο Δίκαιο</value>
+  </data>
+  <data name="11. Contact Us" xml:space="preserve">
+    <value>11. Επικοινωνήστε μαζί μας</value>
+  </data>
+  <data name="2. Plan Distinctions &amp; Responsibilities" xml:space="preserve">
+    <value>2. Διακρίσεις Σχεδίων &amp; Ευθύνες</value>
+  </data>
+  <data name="3. Subscription, Billing, and Payments" xml:space="preserve">
+    <value>3. Συνδρομές, Χρεώσεις και Πληρωμές</value>
+  </data>
+  <data name="4. Cancellation and Refund Policy" xml:space="preserve">
+    <value>4. Πολιτική Ακύρωσης και Επιστροφής Χρημάτων</value>
+  </data>
+  <data name="5. Hardware Purchases (Third-Party)" xml:space="preserve">
+    <value>5. Αγορές Υλικού (Από Τρίτους)</value>
+  </data>
+  <data name="6. Acceptable Use Policy" xml:space="preserve">
+    <value>6. Πολιτική Αποδεκτής Χρήσης</value>
+  </data>
+  <data name="7. Intellectual Property" xml:space="preserve">
+    <value>7. Πνευματική Ιδιοκτησία</value>
+  </data>
+  <data name="8. Limitation of Liability" xml:space="preserve">
+    <value>8. Περιορισμός Ευθύνης</value>
+  </data>
+  <data name="9. Modifications to the Terms" xml:space="preserve">
+    <value>9. Τροποποιήσεις των Όρων</value>
+  </data>
+  <data name="Aiursoft hosts the infrastructure on our secured servers. We are responsible for server uptime, standard backups, and basic network security." xml:space="preserve">
+    <value>Η Aiursoft φιλοξενεί την υποδομή στους ασφαλισμένους διακομιστές μας. Είμαστε υπεύθυνοι για τη διαθεσιμότητα των διακομιστών, τα τυπικά αντίγραφα ασφαλείας και την βασική ασφάλεια δικτύου.</value>
+  </data>
+  <data name="AIURSOFT LIMITED" xml:space="preserve">
+    <value>AIURSOFT LIMITED</value>
+  </data>
+  <data name="Aiursoft provides enterprise IT infrastructure solutions built upon open-source technologies (e.g., Linux, Nextcloud, Mailcow, Authentik, GitLab)." xml:space="preserve">
+    <value>Η Aiursoft παρέχει λύσεις υποδομής Πληροφορικής για επιχειρήσεις βασισμένες σε τεχνολογίες ανοιχτού κώδικα (π.χ., Linux, Nextcloud, Mailcow, Authentik, GitLab).</value>
+  </data>
+  <data name="All fees are exclusive of applicable taxes, levies, or duties imposed by taxing authorities, and you shall be responsible for payment of all such taxes." xml:space="preserve">
+    <value>Όλα τα τέλη είναι αποκλειστικά των εφαρμοστέων φόρων, τελών ή δασμών που επιβάλλονται από τις φορολογικές αρχές, και εσείς είστε υπεύθυνοι για την πληρωμή όλων των εν λόγω φόρων.</value>
+  </data>
+  <data name="All payments are securely processed by our third-party payment gateway, Stripe. Aiursoft does not collect, process, or store your full credit card information on our servers." xml:space="preserve">
+    <value>Όλες οι πληρωμές επεξεργάζονται με ασφάλεια από την τρίτη υπηρεσία πληρωμών μας, Stripe. Η Aiursoft δεν συλλέγει, επεξεργάζεται ή αποθηκεύει τις πλήρεις πληροφορίες της πιστωτικής σας κάρτας στους διακομιστές της.</value>
+  </data>
+  <data name="Any unauthorized access to your on-premise servers (for Startup/Enterprise plans)." xml:space="preserve">
+    <value>Οποιαδήποτε μη εξουσιοδοτημένη πρόσβαση στους τοπικούς σας διακομιστές (για τα πακέτα Startup/Enterprise).</value>
+  </data>
+  <data name="Attempt to bypass or compromise any security measure implemented by Aiursoft on Cloud-Hosted plans." xml:space="preserve">
+    <value>Προσπάθεια παραβίασης ή υπονόμευσης οποιουδήποτε μέτρου ασφαλείας που έχει υλοποιηθεί από την Aiursoft στα σχέδια Cloud-Hosted.</value>
+  </data>
+  <data name="Automatic Renewal:" xml:space="preserve">
+    <value>Αυτόματη Ανανέωση:</value>
+  </data>
+  <data name="Certain features, such as offline AI Knowledge Base construction or hardware-based Zero Trust authentication, may require physical hardware (e.g., NVIDIA GPUs, YubiKeys). Unless explicitly stated in a custom enterprise contract, you are responsible for procuring this hardware directly from the respective manufacturers. Aiursoft acts solely as the software integration provider." xml:space="preserve">
+    <value>Ορισμένες λειτουργίες, όπως η δημιουργία βάσης γνώσης Τεχνητής Νοημοσύνης (AI) εκτός σύνδεσης ή η αυθεντικοποίηση Zero Trust βασισμένη σε υλικό, ενδέχεται να απαιτούν φυσικό υλικό (π.χ. NVIDIA GPUs, YubiKeys). Εκτός αν αναφέρεται ρητά σε ένα εξατομικευμένο συμβόλαιο επιχείρησης, εσείς φέρτε την ευθύνη για την απόκτηση αυτού του υλικού απευθείας από τους αντίστοιχους κατασκευαστές. Η Aiursoft δρα αποκλειστικά ως πάροχος ολοκλήρωσης λογισμικού.</value>
+  </data>
+  <data name="Cloud-Hosted Plans (e.g., Core):" xml:space="preserve">
+    <value>Σχέδια φιλοξενίας στο Cloud (π.χ., Core):</value>
+  </data>
+  <data name="Company Entity: AIURSOFT LIMITED (Hong Kong)" xml:space="preserve">
+    <value>Νομικό Πρόσωπο Εταιρείας: AIURSOFT LIMITED (Hong Kong)</value>
+  </data>
+  <data name="Company:" xml:space="preserve">
+    <value>Εταιρεία:</value>
+  </data>
+  <data name="Data loss due to hardware failure on your self-hosted infrastructure." xml:space="preserve">
+    <value>Απώλεια δεδομένων λόγω βλάβης υλικού στην υποδομή που φιλοξενείτε μόνοι σας.</value>
+  </data>
+  <data name="Effect of Cancellation:" xml:space="preserve">
+    <value>Αποτέλεσμα Ακύρωσης:</value>
+  </data>
+  <data name="Email:" xml:space="preserve">
+    <value>Ηλεκτρονικό ταχυδρομείο:</value>
+  </data>
+  <data name="For On-Premise plans requiring a One-Time Setup Fee, this fee covers the manual labor of our architects (e.g., network configuration, Docker deployment, Yubikey integration). Setup fees are strictly non-refundable once the deployment and configuration process has commenced." xml:space="preserve">
+    <value>Για τα σχέδια On-Premise που απαιτούν Μία Εφάπαξ Χρέωση Εγκατάστασης, αυτή η χρέωση καλύπτει το χειροκίνητο έργο των αρχιτεκτόνων μας (π.χ. διαμόρφωση δικτύου, έγκαιρη εγκατάσταση Docker, ολοκλήρωση Yubikey). Οι χρεώσεις εγκατάστασης είναι αυστηρά μη επιστρέψιμες μόλις ξεκινήσει η διαδικασία εγκατάστασης και διαμόρφωσης.</value>
+  </data>
+  <data name="How to Cancel:" xml:space="preserve">
+    <value>Πώς να Ακυρώσετε:</value>
+  </data>
+  <data name="If you cancel your subscription, the cancellation will take effect at the end of your current paid billing cycle. You will retain full access to the Services until that cycle concludes." xml:space="preserve">
+    <value>Αν ακυρώσετε την συνδρομή σας, η ακύρωση θα ισχύσει στο τέλος του τρέχοντος πληρωμένου κύκλου χρέωσης. Θα διατηρήσετε πλήρη πρόσβαση στις Υπηρεσίες μέχρι να ολοκληρωθεί αυτός ο κύκλος.</value>
+  </data>
+  <data name="If you have any questions about these Terms, please contact our executive team at:" xml:space="preserve">
+    <value>Εάν έχετε οποιεσδήποτε ερωτήσεις σχετικά με τους παρόντες Όρους, παρακαλούμε επικοινωνήστε με την ανώτατη διοίκηση μας στο:</value>
+  </data>
+  <data name="In no event shall Aiursoft&apos;s aggregate liability for all claims related to the services exceed the total amount paid by you to Aiursoft for the specific service in the twelve (12) months preceding the claim." xml:space="preserve">
+    <value>Καθ&apos; υπόθεση, η συνολική ευθύνη της Aiursoft για όλα τα αιτήματα που αφορούν τις υπηρεσίες δεν θα υπερβαίνει το συνολικό ποσό που έχετε πληρώσει στην Aiursoft για την συγκεκριμένη υπηρεσία κατά τους δώδεκα (12) μήνες πριν από το αίτημα.</value>
+  </data>
+  <data name="Last Updated: March 2026" xml:space="preserve">
+    <value>Τελευταία Ενημέρωση: Μάρτιος 2026</value>
+  </data>
+  <data name="No Pro-Rated Refunds:" xml:space="preserve">
+    <value>Καμία Αναλογική Επιστροφή Χρημάτων:</value>
+  </data>
+  <data name="On-Premise Plans (e.g., Startup, Custom Enterprise):" xml:space="preserve">
+    <value>Σχέδια On-Premise (π.χ., Startup, Custom Enterprise):</value>
+  </data>
+  <data name="One-Time Setup Fees:" xml:space="preserve">
+    <value>Μονοχρήσιμα Τέλη Εγκατάστασης:</value>
+  </data>
+  <data name="Payment Processing:" xml:space="preserve">
+    <value>Επεξεργασία Πληρωμών:</value>
+  </data>
+  <data name="Per-User Billing:" xml:space="preserve">
+    <value>Χρέωση ανά Χρήστη:</value>
+  </data>
+  <data name="Subscription fees are calculated based on the number of active users/accounts managed within your Aiursoft Identity Gateway per billing cycle." xml:space="preserve">
+    <value>Τα τέλη συνδρομής υπολογίζονται με βάση τον αριθμό των ενεργών χρηστών/λογαριασμών που διαχειρίζονται στο Aiursoft Identity Gateway ανά κύκλο χρέωσης.</value>
+  </data>
+  <data name="Taxes:" xml:space="preserve">
+    <value>Φόροι:</value>
+  </data>
+  <data name="Terms of Service &amp; Subscription Agreement" xml:space="preserve">
+    <value>Όροι Χρήσης &amp; Συμβόλαιο Εγγραφής</value>
+  </data>
+  <data name="The Aiursoft brand, logos, website design, and proprietary deployment scripts (e.g., Aiursoft Template orchestrations) are the intellectual property of AIURSOFT LIMITED. The underlying open-source software remains the property of their respective creators and is provided to you under their specific open-source licenses." xml:space="preserve">
+    <value>Το σήμα Aiursoft, τα λογότυπα, ο σχεδιασμός του ιστοτόπου και τα ιδιόκτητα σενάρια εγγραφής (π.χ. συντονισμοί Aiursoft Template) αποτελούν πνευματική ιδιοκτησία της AIURSOFT LIMITED. Το υποκείμενο λογισμικό ανοιχτού κώδικα παραμένει ιδιοκτησία των αντίστοιχων δημιουργών του και παρέχεται σε εσάς βάσει των συγκεκριμένων αδειών ανοιχτού κώδικά τους.</value>
+  </data>
+  <data name="The Service is Commercial:" xml:space="preserve">
+    <value>Η Υπηρεσία είναι Εμπορική:</value>
+  </data>
+  <data name="The software is deployed on your local servers or private cloud. You retain absolute physical control and ownership of your data (&quot;Own Your Data&quot;). Consequently, you are solely responsible for your underlying hardware, local network security, physical access control, and disaster recovery backups. Aiursoft&apos;s responsibility is limited to software-level maintenance, container updates, and technical support as defined in your plan." xml:space="preserve">
+    <value>Το λογισμικό εγκαθίσταται στους τοπικούς σας διακομιστές ή στο ιδιωτικό σας cloud. Διατηρείτε την απόλυτη φυσική ελεγχόμενη και την ιδιοκτησία των δεδομένων σας (&quot;Own Your Data&quot;). Κατά συνέπεια, εσείς μόνο ευθύνεστε για τον υποκείμενο υλικό εξοπλισμό, την ασφάλεια του τοπικού δικτύου, τον έλεγχο της φυσικής πρόσβασης και τα αντίγραφα ασφαλείας για ανάκαμψη από καταστροφές. Η ευθύνη της Aiursoft περιορίζεται στη συντήρηση σε επίπεδο λογισμικού, στις ενημερώσεις των containers και στην τεχνική υποστήριξη, όπως ορίζεται στο πρόγραμμά σας.</value>
+  </data>
+  <data name="The Software is Free:" xml:space="preserve">
+    <value>Το Λογισμικό είναι Δωρεάν:</value>
+  </data>
+  <data name="The underlying open-source codes are subject to their respective licenses (e.g., MIT, GPL). You are free to inspect, modify, and distribute the code as permitted by those licenses." xml:space="preserve">
+    <value>Ο βασικός κώδικας ανοιχτού λογισμικού υπόκειται στους αντίστοιχους όρους άδειας χρήσης (π.χ., MIT, GPL). Έχετε την ελευθερία να εξετάσετε, να τροποποιήσετε και να διανείμετε τον κώδικα σύμφωνα με ό,τι επιτρέπουν αυτές οι άδειες.</value>
+  </data>
+  <data name="These Terms of Service (&quot;Terms&quot;) govern your access to and use of the Aiursoft website, products, and subscription services, including but not limited to Aiursoft Substrate (Core, Startup, and Enterprise plans) (collectively, the &quot;Services&quot;). By registering for an account or purchasing a subscription, you agree to be bound by these Terms." xml:space="preserve">
+    <value>Οι παρούσες Όροι Χρήσης («Όροι») διέπουν την πρόσβασή σας και τη χρήση του ιστότοπου, των προϊόντων και των υπηρεσιών συνδρομής της Aiursoft, περιλαμβανομένων αλλά όχι περιορισμένων στην Aiursoft Substrate (πλάνα Core, Startup και Enterprise) (συλλογικά, τις «Υπηρεσίες»). Καταχωρίζοντας έναν λογαριασμό ή αγοράζοντας μια συνδρομή, συμφωνείτε να δεσμεύεστε από τους παρόντες Όρους.</value>
+  </data>
+  <data name="These Terms shall be governed by and construed in accordance with the laws of the Hong Kong Special Administrative Region, without regard to its conflict of law provisions." xml:space="preserve">
+    <value>Οι παρούσες Όροι θα διέπονται και θα ερμηνεύονται σύμφωνα με τις διατάξεις του Νόμου της Ειδικής Διοικητικής Περιοχής Χονγκ Κονγκ, χωρίς να λαμβάνονται υπόψη οι διατάξεις του περί σύγκρουσης νόμων.</value>
+  </data>
+  <data name="To ensure uninterrupted service, our commercial plans operate on a recurring subscription basis." xml:space="preserve">
+    <value>Για να διασφαλιστεί η αδιάλειπτη παροχή υπηρεσιών, οι εμπορικοί μας σχεδιασμοί λειτουργούν με βάση επαναλαμβανόμενη συνδρομή.</value>
+  </data>
+  <data name="To the maximum extent permitted by law, Aiursoft Limited shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses, resulting from:" xml:space="preserve">
+    <value>Σε κάθε περίπτωση που επιτρέπεται από τον νόμο, η Aiursoft Limited δεν φέρει ευθύνη για οποιαδήποτε έμμεση, τυχαία, ειδική, επακόλουθη ή ποινική ζημία, ή για οποιαδήποτε απώλεια κερδών ή εσόδων, είτε προέκυψαν άμεσα είτε έμμεσα, ή για οποιαδήποτε απώλεια δεδομένων, χρήσης, φήμης ή άλλες άυλες απώλειες, που οφείλονται σε:</value>
+  </data>
+  <data name="Use our Cloud-Hosted email services (Mailcow) to send unsolicited spam or conduct phishing campaigns. Violation of this rule will result in immediate account termination without refund." xml:space="preserve">
+    <value>Μην χρησιμοποιείτε τις υπηρεσίες ηλεκτρονικού ταχυδρομείου μας που φιλοξενούνται στο Cloud (Mailcow) για την αποστολή ανεπιθύμητων εμπορικών μηνυμάτων (spam) ή την διεξαγωγή καμπανιών ψαρέματος (phishing). Η παραβίαση αυτού του κανόνα θα οδηγήσει σε άμεση διαγραφή του λογαριασμού χωρίς επιστροφή χρημάτων.</value>
+  </data>
+  <data name="Use the Services to conduct any illegal, fraudulent, or malicious activities." xml:space="preserve">
+    <value>Χρήση των Υπηρεσιών για τη διενέργεια οποιασδήποτε παράνομης, απάτης ή κακόβουλης δραστηριότητας.</value>
+  </data>
+  <data name="We do not provide refunds or credits for any partial-month subscription periods, or for user accounts that were provisioned but remained inactive." xml:space="preserve">
+    <value>Δεν παρέχουμε επιστροφές χρημάτων ή πιστώσεις για οποιεσδήποτε περιόδους συνδρομής μερικού μήνα, ούτε για λογαριασμούς χρηστών που δημιουργήθηκαν αλλά παρέμειναν ανενεργοί.</value>
+  </data>
+  <data name="We may revise these Terms from time to time to better reflect changes to the law, new regulatory requirements, or improvements made to our Services. If an update affects your use of the Services or your legal rights as a user of our Services, we’ll notify you prior to the update&apos;s effective date by sending an email to the account owner." xml:space="preserve">
+    <value>Μπορούμε να αναθεωρούμε περιστασιακά τους παρόντες Όρους ώστε να αντανακλούν καλύτερα αλλαγές στον νόμο, νέες ρυθμιστικές απαιτήσεις ή βελτιώσεις που έχουν γίνει στις Υπηρεσίες μας. Εάν μια ενημέρωση επηρεάσει τη χρήση σας των Υπηρεσιών ή τα νομικά σας δικαιώματα ως χρήστης των Υπηρεσιών μας, θα σας ειδοποιήσουμε πριν από την ημερομηνία ισχύος της ενημέρωσης, αποστέλλοντας ένα email στον κάτοχο του λογαριασμού.</value>
+  </data>
+  <data name="We offer different tiers of deployment to suit your business needs:" xml:space="preserve">
+    <value>Προσφέρουμε διαφορετικά επίπεδα εφοδιασμού για να καλύψουμε τις επιχειρηματικές σας ανάγκες:</value>
+  </data>
+  <data name="Welcome to Aiursoft. We are dedicated to bringing the spirit of open-source and free software to every enterprise and individual." xml:space="preserve">
+    <value>Καλώς ήρθατε στην Aiursoft. Είμαστε αφιερωμένοι στο να φέρουμε το πνεύμα του λογισμικού ανοιχτού κώδικα και του δωρεάν λογισμικού σε κάθε επιχείρηση και άτομο.</value>
+  </data>
+  <data name="What you are purchasing from Aiursoft is the hosting, automated deployment, maintenance, priority support, and enterprise integration of these tools." xml:space="preserve">
+    <value>Αυτό που αγοράζετε από την Aiursoft είναι η φιλοξενία, η αυτοματοποιημένη ανάπτυξη, η συντήρηση, η προτεραιότητα υποστήριξης και η εταιρική ολοκλήρωση αυτών των εργαλείων.</value>
+  </data>
+  <data name="You agree not to misuse the Services or help anyone else to do so. You must not:" xml:space="preserve">
+    <value>Συμφωνείτε να μην κακοποιείτε τις Υπηρεσίες ή να βοηθάτε οποιονδήποτε άλλο να το κάνει. Δεν πρέπει να:</value>
+  </data>
+  <data name="You may cancel your subscription at any time through your Aiursoft Billing Dashboard or by contacting our support team." xml:space="preserve">
+    <value>Μπορείτε να ακυρώσετε την συνδρομή σας οποιαδήποτε στιγμή μέσω του Πίνακα Ελέγχου Χρεώσεων Aiursoft ή επικοινωνώντας με την ομάδα υποστήριξής μας.</value>
+  </data>
+  <data name="Your access to or use of or inability to access or use the Services." xml:space="preserve">
+    <value>Η πρόσβασή σας ή η χρήση ή η αδυναμία πρόσβασης ή χρήσης των Υπηρεσιών.</value>
+  </data>
+  <data name="Your subscription will automatically renew at the end of each billing cycle (monthly or annually) unless you cancel it prior to the renewal date. You authorize us (via Stripe) to charge the applicable subscription fees to your payment method on file." xml:space="preserve">
+    <value>Η συνδρομή σας θα ανανεώνεται αυτόματα στο τέλος κάθε κύκλου χρέωσης (μηνιαία ή ετησίως), εκτός αν την ακυρώσετε πριν από την ημερομηνία ανανέωσης. Εξουσιοδοτείτε εμάς (μέσω της Stripe) να χρεώνουμε τα ενδεδειγμένα τέλη συνδρομής στη μέθοδο πληρωμής που έχουμε καταχωρήσει.</value>
+  </data>
+
+</root>
