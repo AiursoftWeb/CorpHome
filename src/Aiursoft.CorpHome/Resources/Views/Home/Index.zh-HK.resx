@@ -72,11 +72,8 @@
   <data name="Air-Gapped Ready" xml:space="preserve">
     <value>離線環境就緒</value>
   </data>
-  <data name="Aiursoft is dedicated to bringing the spirit of open-source and free software to every enterprise and individual." xml:space="preserve">
-    <value>Aiursoft 致力於將開放原始碼及自由軟件的精神帶給每一個企業及個人。</value>
-  </data>
   <data name="Aiursoft is dedicated to bringing the spirit of Open-source and free software to every enterprise and individual." xml:space="preserve">
-    <value>Aiursoft 致力於將開放原始碼及自由軟件的精神帶給每間企業和個人。</value>
+    <value>Aiursoft 致力於將開放原始碼及自由軟件的精神帶給每一個企業及個人。</value>
   </data>
   <data name="Aiursoft Substratum Core" xml:space="preserve">
     <value>Aiursoft Substratum Core</value>
@@ -90,11 +87,8 @@
   <data name="Aiursoft Template" xml:space="preserve">
     <value>Aiursoft Template</value>
   </data>
-  <data name="Aiursoft Template is continuously optimized for the AI era, built with the most popular and reliable open-source technologies. It has already produced dozens of mature applications delivered to enterprises. Aiursoft uses Template to help businesses develop custom solutions based on their core needs." xml:space="preserve">
-    <value>Aiursoft Template 持續優化以配合人工智慧時代，採用最流行及可靠的開源技術打造。它已成功開發出數十個成熟的應用程式，並交付予企業使用。Aiursoft 利用 Template 協助企業根據核心需求開發定制化解決方案。</value>
-  </data>
   <data name="Aiursoft Template is continuously optimized for the AI era, built with the most popular and reliable Open-source technologies. It has already produced dozens of mature applications delivered to enterprises. Aiursoft uses Template to help businesses develop custom solutions based on their core needs." xml:space="preserve">
-    <value>Aiursoft Template 持續優化以配合 AI 時代，採用最流行且可靠的開源技術打造。此模板已成功開發出數十個成熟應用程式，並交付企業使用。Aiursoft 利用 Template 協助企業根據其核心需求開發定制化解決方案。</value>
+    <value>Aiursoft Template 持續優化以配合人工智慧時代，採用最流行及可靠的開源技術打造。它已成功開發出數十個成熟的應用程式，並交付予企業使用。Aiursoft 利用 Template 協助企業根據核心需求開發定制化解決方案。</value>
   </data>
   <data name="Aiursoft Template is our definitive choice for enterprise projects! It&apos;s built for developers and is lightweight yet powerful. We can skip all the boilerplate for authentication and user management." xml:space="preserve">
     <value>Aiursoft Template 係我哋企業項目嘅不二之選！佢專為開發者打造，輕量之餘功能強大。我哋可以跳過所有驗證同用戶管理嘅樣板代碼。</value>
@@ -222,11 +216,8 @@
   <data name="Code Audit &amp; Integration" xml:space="preserve">
     <value>程式碼審核與整合</value>
   </data>
-  <data name="Combine open-source tools on GitHub and Hugging Face — no enterprise licenses needed." xml:space="preserve">
-    <value>結合 GitHub 和 Hugging Face 上的開源工具——無需企業授權。</value>
-  </data>
   <data name="Combine Open-source tools on GitHub and Hugging Face — no enterprise licenses needed." xml:space="preserve">
-    <value>結合 GitHub 和 Hugging Face 上的開源工具 —— 無需企業版授權</value>
+    <value>結合 GitHub 和 Hugging Face 上的開源工具——無需企業授權。</value>
   </data>
   <data name="Comes with Docker support for simplified and consistent deployments." xml:space="preserve">
     <value>內建 Docker 支援，可簡化並確保部署的一致性。</value>
@@ -474,11 +465,8 @@
   <data name="Go global without extra effort." xml:space="preserve">
     <value>全球拓展，無需額外努力</value>
   </data>
-  <data name="Go to dashboard" xml:space="preserve">
-    <value>前往控制台</value>
-  </data>
   <data name="Go to Dashboard" xml:space="preserve">
-    <value>前往儀表板</value>
+    <value>前往控制台</value>
   </data>
   <data name="Handle recurring jobs like cleanup and synchronization with a comprehensive GUI for monitoring execution history and logs." xml:space="preserve">
     <value>處理重複執行的工作，例如清理和同步，並提供全面的GUI以監控執行歷史和記錄。</value>
@@ -642,9 +630,6 @@
   <data name="Open WebUI Integration" xml:space="preserve">
     <value>Open WebUI 集成</value>
   </data>
-  <data name="open-source &amp; AI era." xml:space="preserve">
-    <value>開源及人工智能時代</value>
-  </data>
   <data name="Open-source &amp; AI era." xml:space="preserve">
     <value>開源及人工智能時代</value>
   </data>
@@ -684,11 +669,8 @@
   <data name="Read the document" xml:space="preserve">
     <value>閱讀文件</value>
   </data>
-  <data name="Ready to build your enterprise on open-source foundations?" xml:space="preserve">
-    <value>準備好以開源基礎建構企業了嗎？</value>
-  </data>
   <data name="Ready to build your enterprise on Open-source foundations?" xml:space="preserve">
-    <value>準備好以開源基礎建設您的企業嗎？</value>
+    <value>準備好以開源基礎建構企業了嗎？</value>
   </data>
   <data name="Recommended" xml:space="preserve">
     <value>推薦</value>
@@ -771,11 +753,8 @@
   <data name="Strategic Partner" xml:space="preserve">
     <value>戰略合作夥伴</value>
   </data>
-  <data name="Strengthen your business with flexible open source projects that run by Aiursoft." xml:space="preserve">
-    <value>以靈活的開源專案強化您的業務，由 Aiursoft 運作。</value>
-  </data>
   <data name="Strengthen your business with flexible Open Source projects that run by Aiursoft." xml:space="preserve">
-    <value>以靈活的開源項目加強您的業務，由 Aiursoft 運行。</value>
+    <value>以靈活的開源專案強化您的業務，由 Aiursoft 運作。</value>
   </data>
   <data name="Strict Lint Rules" xml:space="preserve">
     <value>嚴格的程式碼檢查規則</value>
@@ -822,17 +801,11 @@
   <data name="The navigation bar automatically adjusts based on user roles and permissions." xml:space="preserve">
     <value>導覽列會根據用戶角色同權限自動調整。</value>
   </data>
-  <data name="The open-source world already has the solutions you need." xml:space="preserve">
-    <value>開源世界早已擁有你需要的解決方案。</value>
-  </data>
   <data name="The Open-source world already has the solutions you need." xml:space="preserve">
     <value>開源世界早已擁有你需要的解決方案。</value>
   </data>
-  <data name="The open-source world is free, but full of dangers. Aiursoft helps you withstand the first wave of attacks." xml:space="preserve">
-    <value>開源世界雖然是免費的，但充滿了危險。Aiursoft助你抵禦首波攻擊。</value>
-  </data>
   <data name="The Open-source world is free, but full of dangers. Aiursoft helps you withstand the first wave of attacks." xml:space="preserve">
-    <value>開源世界雖然免費，但充滿危險。Aiursoft助你抵禦首波攻擊。</value>
+    <value>開源世界雖然是免費的，但充滿了危險。Aiursoft助你抵禦首波攻擊。</value>
   </data>
   <data name="The Philosophy" xml:space="preserve">
     <value>理念</value>
@@ -879,14 +852,8 @@
   <data name="Voxihost Cloud Infrastructure" xml:space="preserve">
     <value>Voxihost 雲端基礎設施</value>
   </data>
-  <data name="Voxihost offers transparent, cost-effective cloud and generously sponsors Aiursoft&apos;s open-source work." xml:space="preserve">
+  <data name="Voxihost offers transparent, cost-effective cloud and generously sponsors Aiursoft&#x27;s Open-source work." xml:space="preserve">
     <value>Voxihost 提供透明、成本效益高的雲端服務，並慷慨資助 Aiursoft 的開源工作。</value>
-  </data>
-  <data name="Voxihost offers transparent, cost-effective cloud and generously sponsors Aiursoft&apos;s Open-source work." xml:space="preserve">
-    <value>Voxihost 提供透明、高性價比的雲端服務，並慷慨資助 Aiursoft 的開源工作。</value>
-  </data>
-  <data name="We audit and integrate open-source code, respect GPL, compile components, and contribute upstream." xml:space="preserve">
-    <value>我們審核及整合開源程式碼，尊重 GPL，編譯組件，並向上游貢獻。</value>
   </data>
   <data name="We audit and integrate Open-source code, respect GPL, compile components, and contribute upstream." xml:space="preserve">
     <value>我們審核及整合開源程式碼，尊重 GPL，編譯組件，並向上游貢獻。</value>

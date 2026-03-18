@@ -72,11 +72,8 @@
   <data name="Air-Gapped Ready" xml:space="preserve">
     <value>オフライン環境対応</value>
   </data>
-  <data name="Aiursoft is dedicated to bringing the spirit of open-source and free software to every enterprise and individual." xml:space="preserve">
-    <value>Aiursoftは、オープンソースおよびフリーソフトウェアの精神を、すべての企業および個人に届けることに尽力しています。</value>
-  </data>
   <data name="Aiursoft is dedicated to bringing the spirit of Open-source and free software to every enterprise and individual." xml:space="preserve">
-    <value>Aiursoftは、オープンソースおよびフリーソフトウェアの精神を、すべての企業および個人に届けることに専念しています。</value>
+    <value>Aiursoftは、オープンソースおよびフリーソフトウェアの精神を、すべての企業および個人に届けることに尽力しています。</value>
   </data>
   <data name="Aiursoft Substratum Core" xml:space="preserve">
     <value>Aiursoft Substratum Core</value>
@@ -90,11 +87,8 @@
   <data name="Aiursoft Template" xml:space="preserve">
     <value>Aiursoft Template</value>
   </data>
-  <data name="Aiursoft Template is continuously optimized for the AI era, built with the most popular and reliable open-source technologies. It has already produced dozens of mature applications delivered to enterprises. Aiursoft uses Template to help businesses develop custom solutions based on their core needs." xml:space="preserve">
-    <value>Aiursoft TemplateはAI時代に合わせて継続的に最適化されており、最も人気があり信頼性の高いオープンソース技術で構築されています。すでに数十の成熟したアプリケーションが企業に提供されており、AiursoftはTemplateを活用して企業の核心的なニーズに基づいたカスタムソリューションの開発を支援しています。</value>
-  </data>
   <data name="Aiursoft Template is continuously optimized for the AI era, built with the most popular and reliable Open-source technologies. It has already produced dozens of mature applications delivered to enterprises. Aiursoft uses Template to help businesses develop custom solutions based on their core needs." xml:space="preserve">
-    <value>Aiursoft Template は、AIの時代に合わせて継続的に最適化されており、最も人気があり信頼性の高いオープンソース技術で構築されています。すでに数十の成熟したアプリケーションが企業に提供されています。Aiursoft は、企業の核心的なニーズに基づいてカスタムソリューションを開発するのを支援するために、Template を活用しています。</value>
+    <value>Aiursoft TemplateはAI時代に合わせて継続的に最適化されており、最も人気があり信頼性の高いオープンソース技術で構築されています。すでに数十の成熟したアプリケーションが企業に提供されており、AiursoftはTemplateを活用して企業の核心的なニーズに基づいたカスタムソリューションの開発を支援しています。</value>
   </data>
   <data name="Aiursoft Template is our definitive choice for enterprise projects! It&apos;s built for developers and is lightweight yet powerful. We can skip all the boilerplate for authentication and user management." xml:space="preserve">
     <value>Aiursoft Templateは、エンタープライズプロジェクトにおける私たちの確固たる選択です！開発者のために構築されており、軽量でありながら強力です。認証やユーザー管理に関する定型コードをすべて省略できます。</value>
@@ -222,11 +216,8 @@
   <data name="Code Audit &amp; Integration" xml:space="preserve">
     <value>コード監査と統合</value>
   </data>
-  <data name="Combine open-source tools on GitHub and Hugging Face — no enterprise licenses needed." xml:space="preserve">
-    <value>GitHub と Hugging Face 上のオープンソースツールを組み合わせる — 企業用ライセンスは不要。</value>
-  </data>
   <data name="Combine Open-source tools on GitHub and Hugging Face — no enterprise licenses needed." xml:space="preserve">
-    <value>GitHub と Hugging Face 上のオープンソースツールを組み合わせて使用 — 企業用ライセンスは不要です。</value>
+    <value>GitHub と Hugging Face 上のオープンソースツールを組み合わせる — 企業用ライセンスは不要。</value>
   </data>
   <data name="Comes with Docker support for simplified and consistent deployments." xml:space="preserve">
     <value>Dockerサポートを備えており、簡単で一貫性のあるデプロイが可能になります。</value>
@@ -474,11 +465,8 @@
   <data name="Go global without extra effort." xml:space="preserve">
     <value>世界中へ簡単に展開できます</value>
   </data>
-  <data name="Go to dashboard" xml:space="preserve">
-    <value>ダッシュボードへ</value>
-  </data>
   <data name="Go to Dashboard" xml:space="preserve">
-    <value>ダッシュボードへ移動</value>
+    <value>ダッシュボードへ</value>
   </data>
   <data name="Handle recurring jobs like cleanup and synchronization with a comprehensive GUI for monitoring execution history and logs." xml:space="preserve">
     <value>定期的なジョブ（クリーンアップや同期など）を処理し、実行履歴やログのモニタリングが可能な包括的なGUIを提供します。</value>
@@ -642,9 +630,6 @@
   <data name="Open WebUI Integration" xml:space="preserve">
     <value>Open WebUI 統合</value>
   </data>
-  <data name="open-source &amp; AI era." xml:space="preserve">
-    <value>オープンソース &amp; AI エラ。</value>
-  </data>
   <data name="Open-source &amp; AI era." xml:space="preserve">
     <value>オープンソース &amp; AI エラ。</value>
   </data>
@@ -683,9 +668,6 @@
   </data>
   <data name="Read the document" xml:space="preserve">
     <value>ドキュメントを読む</value>
-  </data>
-  <data name="Ready to build your enterprise on open-source foundations?" xml:space="preserve">
-    <value>オープンソースの基盤の上で企業を構築する準備はできていますか？</value>
   </data>
   <data name="Ready to build your enterprise on Open-source foundations?" xml:space="preserve">
     <value>オープンソースの基盤の上で企業を構築する準備はできていますか？</value>
@@ -771,9 +753,6 @@
   <data name="Strategic Partner" xml:space="preserve">
     <value>戦略的パートナー</value>
   </data>
-  <data name="Strengthen your business with flexible open source projects that run by Aiursoft." xml:space="preserve">
-    <value>Aiursoftが運用する柔軟なオープンソースプロジェクトで、あなたのビジネスを強化しましょう。</value>
-  </data>
   <data name="Strengthen your business with flexible Open Source projects that run by Aiursoft." xml:space="preserve">
     <value>Aiursoftが運用する柔軟なオープンソースプロジェクトで、あなたのビジネスを強化しましょう。</value>
   </data>
@@ -822,17 +801,11 @@
   <data name="The navigation bar automatically adjusts based on user roles and permissions." xml:space="preserve">
     <value>ナビゲーションバーは、ユーザーの役割と権限に基づいて自動的に調整されます。</value>
   </data>
-  <data name="The open-source world already has the solutions you need." xml:space="preserve">
+  <data name="The Open-source world already has the solutions you need." xml:space="preserve">
     <value>オープンソースの世界には、すでにあなたが求めるソリューションが揃っています。</value>
   </data>
-  <data name="The Open-source world already has the solutions you need." xml:space="preserve">
-    <value>オープンソースの世界には、すでにあなたが求めるソリューションが備わっています。</value>
-  </data>
-  <data name="The open-source world is free, but full of dangers. Aiursoft helps you withstand the first wave of attacks." xml:space="preserve">
-    <value>オープンソースの世界は無料ですが、危険に満ちています。Aiursoftは、最初の攻撃波からあなたを守ります。</value>
-  </data>
   <data name="The Open-source world is free, but full of dangers. Aiursoft helps you withstand the first wave of attacks." xml:space="preserve">
-    <value>オープンソースの世界は無料ですが、危険に満ちています。Aiursoftは、最初の攻撃波からあなたを守り抜きます。</value>
+    <value>オープンソースの世界は無料ですが、危険に満ちています。Aiursoftは、最初の攻撃波からあなたを守ります。</value>
   </data>
   <data name="The Philosophy" xml:space="preserve">
     <value>哲学</value>
@@ -879,17 +852,11 @@
   <data name="Voxihost Cloud Infrastructure" xml:space="preserve">
     <value>Voxihost クラウドインフラストラクチャ</value>
   </data>
-  <data name="Voxihost offers transparent, cost-effective cloud and generously sponsors Aiursoft&apos;s open-source work." xml:space="preserve">
+  <data name="Voxihost offers transparent, cost-effective cloud and generously sponsors Aiursoft&#x27;s Open-source work." xml:space="preserve">
     <value>Voxihost は透明性があり、コスト効率の高いクラウドを提供し、Aiursoft のオープンソース作業を広く支援しています。</value>
-  </data>
-  <data name="Voxihost offers transparent, cost-effective cloud and generously sponsors Aiursoft&apos;s Open-source work." xml:space="preserve">
-    <value>Voxihost は透明性があり、コスト効率の高いクラウドを提供し、Aiursoft のオープンソース作業を広く支援しています。</value>
-  </data>
-  <data name="We audit and integrate open-source code, respect GPL, compile components, and contribute upstream." xml:space="preserve">
-    <value>私たちはオープンソースコードを監査・統合し、GPLを尊重し、コンポーネントをコンパイルし、上流に貢献します。</value>
   </data>
   <data name="We audit and integrate Open-source code, respect GPL, compile components, and contribute upstream." xml:space="preserve">
-    <value>私たちはオープンソースコードを監査および統合し、GPLを尊重し、コンポーネントをコンパイルし、上流に貢献します。</value>
+    <value>私たちはオープンソースコードを監査・統合し、GPLを尊重し、コンポーネントをコンパイルし、上流に貢献します。</value>
   </data>
   <data name="We procure Yubikeys for all clients and configure zero-trust architecture." xml:space="preserve">
     <value>すべてのクライアント向けにYubikeyを調達し、ゼロトラストアーキテクチャを構成します。</value>
