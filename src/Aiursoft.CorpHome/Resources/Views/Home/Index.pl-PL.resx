@@ -621,6 +621,9 @@
   <data name="One-time Setup Fee" xml:space="preserve">
     <value>Jednorazowy koszt ustawienia</value>
   </data>
+  <data name="One-time setup fee needs to be discussed based on your deployment mode, generally around {0}." xml:space="preserve">
+    <value>Jednorazowa opłata za konfigurację wymaga omówienia w zależności od trybu wdrożenia, zazwyczaj wynosi około {0}.</value>
+  </data>
   <data name="Open Source" xml:space="preserve">
     <value>Otwarte Źródło</value>
   </data>

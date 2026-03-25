@@ -187,7 +187,7 @@
     <value>构建自己的内网软件源，以加速合规并缩短补丁修复周期。</value>
   </data>
   <data name="Building Rock-Solid Enterprise" xml:space="preserve">
-    <value>构建坚如磐石的企业基础架构</value>
+    <value>构建坚如磐石的企业</value>
   </data>
   <data name="Built for engineers who care about quality." xml:space="preserve">
     <value>专为追求卓越的工程师打造。</value>
@@ -620,6 +620,9 @@
   </data>
   <data name="One-time Setup Fee" xml:space="preserve">
     <value>一次性设置费用</value>
+  </data>
+  <data name="One-time setup fee needs to be discussed based on your deployment mode, generally around {0}." xml:space="preserve">
+    <value>一次性初装费需要根据您的部署模式具体商定，通常在 {0} 左右。</value>
   </data>
   <data name="Open Source" xml:space="preserve">
     <value>开源</value>

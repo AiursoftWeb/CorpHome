@@ -621,6 +621,9 @@
   <data name="One-time Setup Fee" xml:space="preserve">
     <value>일회성 설정 비용</value>
   </data>
+  <data name="One-time setup fee needs to be discussed based on your deployment mode, generally around {0}." xml:space="preserve">
+    <value>일회성 설정 비용은 배포 모드에 따라 논의되어야 하며, 일반적으로 {0} 정도입니다.</value>
+  </data>
   <data name="Open Source" xml:space="preserve">
     <value>오픈 소스</value>
   </data>
