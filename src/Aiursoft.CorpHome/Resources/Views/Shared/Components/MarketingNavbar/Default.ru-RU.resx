@@ -30,6 +30,15 @@
   <data name="GitHub" xml:space="preserve">
     <value>GitHub</value>
   </data>
+  <data name="Partners" xml:space="preserve">
+    <value>Партнёры</value>
+  </data>
+  <data name="Products" xml:space="preserve">
+    <value>Продукты</value>
+  </data>
+  <data name="Solutions" xml:space="preserve">
+    <value>Решения</value>
+  </data>
   <data name="Source Code" xml:space="preserve">
     <value>Исходный код</value>
   </data>

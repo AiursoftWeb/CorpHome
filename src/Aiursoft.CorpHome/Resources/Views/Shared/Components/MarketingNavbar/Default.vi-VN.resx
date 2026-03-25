@@ -30,6 +30,15 @@
   <data name="GitHub" xml:space="preserve">
     <value>GitHub</value>
   </data>
+  <data name="Partners" xml:space="preserve">
+    <value>Đối tác</value>
+  </data>
+  <data name="Products" xml:space="preserve">
+    <value>Sản phẩm</value>
+  </data>
+  <data name="Solutions" xml:space="preserve">
+    <value>Giải pháp</value>
+  </data>
   <data name="Source Code" xml:space="preserve">
     <value>Mã Nguồn</value>
   </data>
