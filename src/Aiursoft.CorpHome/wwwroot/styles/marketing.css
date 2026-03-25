@@ -615,3 +615,90 @@
 .diagram-mobile-fallback .float-in.float-in-visible {
     transform: translateY(0);
 }
+
+/* =========================================
+   Canonical-style Mega Nav
+   ========================================= */
+
+.landing-mega-nav .nav-link {
+    font-weight: 500;
+}
+
+/* Base styles for the pane */
+.landing-mega-nav .mega-menu-pane {
+    background-color: #1a1b1f; /* Canonical-like dark background */
+    border: 1px solid rgba(255, 255, 255, 0.08) !important;
+    border-top: none !important; /* Make it fuse with the navbar */
+    border-radius: 0 0 8px 8px; /* Flat top, rounded bottom */
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.6) !important;
+    margin-top: 25px !important; /* Calculated exact pixel offset to align with navbar bottom */
+    width: 650px; /* Force wide width for mega menu */
+    max-width: 95vw;
+}
+
+/* Invisible bridge to prevent hover loss when moving mouse from link to menu */
+.landing-mega-nav .mega-menu-pane::before {
+    content: '';
+    position: absolute;
+    top: -24px;
+    left: 0;
+    right: 0;
+    height: 24px;
+    background: transparent;
+    z-index: -1;
+}
+
+/* Disable the default background color on hover for dropdown items since we're using our own */
+.landing-mega-nav .dropdown-item:hover,
+.landing-mega-nav .dropdown-item:focus {
+    background-color: transparent;
+}
+
+/* The glass-like item interaction */
+.landing-mega-nav .hover-bg-glass {
+    transition: background-color 0.2s ease, transform 0.2s ease;
+    text-decoration: none;
+}
+
+.landing-mega-nav .hover-bg-glass:hover {
+    background-color: rgba(255, 255, 255, 0.05);
+    transform: translateX(4px);
+}
+
+.text-purple {
+    color: #a855f7 !important;
+}
+
+/* Desktop Hover Logic */
+@media (min-width: 768px) {
+    /* Auto-expand the dropdown menu on hover */
+    .landing-mega-nav .dropdown-mega:hover .mega-menu-pane {
+        display: block;
+        animation: fadeinDown 0.3s cubic-bezier(0.165, 0.84, 0.44, 1) forwards;
+    }
+}
+
+@keyframes fadeinDown {
+    from {
+        opacity: 0;
+        transform: translateY(5px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Mobile Adjustments */
+@media (max-width: 767px) {
+    .landing-mega-nav .mega-menu-pane {
+        width: 100%;
+        box-shadow: none !important;
+        border-radius: 0;
+        border: none !important;
+        background-color: rgba(0, 0, 0, 0.2);
+    }
+    .landing-mega-nav .hover-bg-glass:hover {
+        transform: none; /* disable horizontal nudge on mobile to prevent overflow/flicker */
+    }
+}

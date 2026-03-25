@@ -6,15 +6,89 @@
             <img src="@Model.LogoUrl" alt="logo" style="width: 24px; height: 24px;" />
             @Model.ProjectName
         </a>
-        <ul class="navbar-nav ms-auto">
-            <li class="nav-item d-none d-md-inline-block">
-                <a class="nav-link active text-lg px-lg-3" href="https://template-docs.aiursoft.com/">@Localizer["Documentation"]</a>
+        <ul class="navbar-nav ms-auto landing-mega-nav">
+            <li class="nav-item dropdown dropdown-mega">
+                <a class="nav-link dropdown-toggle active text-lg px-lg-3" href="#" id="navbarDropdownProducts" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    @Localizer["Products"]
+                </a>
+                <div class="dropdown-menu dropdown-menu-dark dropdown-menu-end mega-menu-pane border-0 shadow-lg" aria-labelledby="navbarDropdownProducts">
+                    <div class="container-fluid py-3 px-4">
+                        <div class="row">
+                            <div class="col-md-4 mb-3 mb-md-0">
+                                <a href="#" class="dropdown-item mega-item rounded p-3 d-flex align-items-start hover-bg-glass">
+                                    <div class="text-primary fs-4 me-3"><i class="fa-solid fa-server"></i></div>
+                                    <div>
+                                        <h6 class="mb-1 fw-bold text-white">Ubuntu Server</h6>
+                                        <small class="text-gray-400 text-wrap">Scalable OS for the cloud</small>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-md-4 mb-3 mb-md-0">
+                                <a href="#" class="dropdown-item mega-item rounded p-3 d-flex align-items-start hover-bg-glass">
+                                    <div class="text-success fs-4 me-3"><i class="fa-solid fa-cloud"></i></div>
+                                    <div>
+                                        <h6 class="mb-1 fw-bold text-white">MicroCloud</h6>
+                                        <small class="text-gray-400 text-wrap">Lightweight, automated clouds</small>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-md-4">
+                                <a href="#" class="dropdown-item mega-item rounded p-3 d-flex align-items-start hover-bg-glass">
+                                    <div class="text-info fs-4 me-3"><i class="fa-solid fa-brain"></i></div>
+                                    <div>
+                                        <h6 class="mb-1 fw-bold text-white">MLOps</h6>
+                                        <small class="text-gray-400 text-wrap">Scalable machine learning solutions</small>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </li>
-            <li class="nav-item d-none d-md-inline-block">
-                <a class="nav-link active text-lg px-lg-3" href="https://github.com/aiursoftweb/template">@Localizer["Source Code"]</a>
+            <li class="nav-item dropdown dropdown-mega">
+                <a class="nav-link dropdown-toggle active text-lg px-lg-3" href="#" id="navbarDropdownSolutions" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    @Localizer["Solutions"]
+                </a>
+                <div class="dropdown-menu dropdown-menu-dark dropdown-menu-end mega-menu-pane border-0 shadow-lg" aria-labelledby="navbarDropdownSolutions">
+                    <div class="container-fluid py-3 px-4">
+                        <div class="row">
+                            <div class="col-md-6 mb-3">
+                                <a href="#" class="dropdown-item mega-item rounded p-3 d-flex align-items-start hover-bg-glass">
+                                    <div class="text-warning fs-4 me-3"><i class="fa-solid fa-shield-halved"></i></div>
+                                    <div>
+                                        <h6 class="mb-1 fw-bold text-white">Enterprise Security</h6>
+                                        <small class="text-gray-400 text-wrap">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt.</small>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-md-6 mb-3">
+                                <a href="#" class="dropdown-item mega-item rounded p-3 d-flex align-items-start hover-bg-glass">
+                                    <div class="text-purple fs-4 me-3"><i class="fa-solid fa-network-wired"></i></div>
+                                    <div>
+                                        <h6 class="mb-1 fw-bold text-white">Infrastructure</h6>
+                                        <small class="text-gray-400 text-wrap">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</small>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </li>
-            <li class="nav-item d-none d-md-inline-block">
-                <a class="nav-link active text-lg px-lg-3" href="https://github.com/aiursoftweb/template/discussions">@Localizer["Community"]</a>
+            <li class="nav-item dropdown dropdown-mega">
+                <a class="nav-link dropdown-toggle active text-lg px-lg-3" href="#" id="navbarDropdownPartners" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    @Localizer["Partners"]
+                </a>
+                <div class="dropdown-menu dropdown-menu-dark dropdown-menu-end mega-menu-pane border-0 shadow-lg" aria-labelledby="navbarDropdownPartners">
+                    <div class="container-fluid py-3 px-4">
+                        <div class="row">
+                            <div class="col-12 text-center py-4">
+                                <p class="text-gray-400 mb-0">Join our partner ecosystem.</p>
+                                <h5 class="text-white mt-2 mb-3">Discover the benefits of working with us.</h5>
+                                <a href="#" class="btn btn-outline-light btn-sm px-4 rounded-pill">View Partners</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </li>
         </ul>
         <a asp-controller="Dashboard" asp-action="Index" class="btn btn-lg btn-primary btn-pill my-2 my-sm-0 ms-3">
