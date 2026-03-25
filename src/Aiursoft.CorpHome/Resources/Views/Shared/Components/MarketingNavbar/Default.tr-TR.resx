@@ -30,6 +30,15 @@
   <data name="GitHub" xml:space="preserve">
     <value>GitHub</value>
   </data>
+  <data name="Partners" xml:space="preserve">
+    <value>Ortaklar</value>
+  </data>
+  <data name="Products" xml:space="preserve">
+    <value>Ürünler</value>
+  </data>
+  <data name="Solutions" xml:space="preserve">
+    <value>Çözümler</value>
+  </data>
   <data name="Source Code" xml:space="preserve">
     <value>Kaynak Kodu</value>
   </data>
