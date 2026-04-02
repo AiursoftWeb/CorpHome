@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="/ month" xml:space="preserve">
+    <value>/ måned</value>
+  </data>
+  <data name="/ user" xml:space="preserve">
+    <value>/ bruger</value>
+  </data>
+  <data name="AI Knowledge Base construction" xml:space="preserve">
+    <value>Konstruktion af AI-kunnskabsbase</value>
+  </data>
+  <data name="Aiursoft Substratum Core" xml:space="preserve">
+    <value>Aiursoft Substratum Core</value>
+  </data>
+  <data name="Aiursoft Substratum Enterprise" xml:space="preserve">
+    <value>Aiursoft Substratum Enterprise</value>
+  </data>
+  <data name="Aiursoft Substratum Startup" xml:space="preserve">
+    <value>Aiursoft Substratum Startup</value>
+  </data>
+  <data name="AnduinOS Enterprise" xml:space="preserve">
+    <value>AnduinOS Enterprise</value>
+  </data>
+  <data name="Contact Sales" xml:space="preserve">
+    <value>Kontakt Salg</value>
+  </data>
+  <data name="Custom container development" xml:space="preserve">
+    <value>Udvikling af tilpassede containere</value>
+  </data>
+  <data name="Custom Development Fee" xml:space="preserve">
+    <value>Gebyr for specialudvikling</value>
+  </data>
+  <data name="Customized for your enterprise" xml:space="preserve">
+    <value>Tilpasset til din virksomhed</value>
+  </data>
+  <data name="Enterprise scale deployment" xml:space="preserve">
+    <value>Enterprise-skala deployment</value>
+  </data>
+  <data name="Full Infrastructure Suite, on your local server" xml:space="preserve">
+    <value>Komplet infrastrukturpakke, på din lokale server</value>
+  </data>
+  <data name="Get a public cloud-like experience while hosting your applications in your own server." xml:space="preserve">
+    <value>Få en oplevelse, der minder om en offentlig sky, mens du hoster dine applikationer på din egen server.</value>
+  </data>
+  <data name="Get Started" xml:space="preserve">
+    <value>Kom i gang</value>
+  </data>
+  <data name="Hosted by Aiursoft" xml:space="preserve">
+    <value>Hosted af Aiursoft</value>
+  </data>
+  <data name="Includes Collaboration + Email + Identity Gateway" xml:space="preserve">
+    <value>Indeholder Collaboration + Email + Identity Gateway</value>
+  </data>
+  <data name="Includes everything in Starter" xml:space="preserve">
+    <value>Indeholder alt i Starter</value>
+  </data>
+  <data name="Includes everything in Startup" xml:space="preserve">
+    <value>Indeholder alt, hvad Startup inkluderer</value>
+  </data>
+  <data name="Max 1000 accounts" xml:space="preserve">
+    <value>Maks 1000 konti</value>
+  </data>
+  <data name="MDM based device compliance" xml:space="preserve">
+    <value>MDM-baseret enhedsoverensstemmelse</value>
+  </data>
+  <data name="On-premise offline deployment" xml:space="preserve">
+    <value>Offline installation på egen infrastruktur</value>
+  </data>
+  <data name="One-time Setup Fee" xml:space="preserve">
+    <value>En- gangs opsætningsgebyr</value>
+  </data>
+  <data name="Pricing" xml:space="preserve">
+    <value>Priser</value>
+  </data>
+  <data name="Recommended" xml:space="preserve">
+    <value>Anbefalet</value>
+  </data>
+  <data name="Single user account" xml:space="preserve">
+    <value>Enkelt brugerkonto</value>
+  </data>
+  <data name="Specific fees need to be discussed with our architecture team to determine how to build for your enterprise." xml:space="preserve">
+    <value>Specifikke gebyrer skal drøftes med vores arkitekturteam for at fastlægge, hvordan vi bygger til jeres virksomhed.</value>
+  </data>
+  <data name="Strengthen your business with flexible Open Source projects that run by Aiursoft." xml:space="preserve">
+    <value>Styrk din virksomhed med fleksible Open Source-projekter, der drives af Aiursoft.</value>
+  </data>
+  <data name="tailored to your business needs" xml:space="preserve">
+    <value>tilpasset dine forretningsbehov</value>
+  </data>
+  <data name="Talk to an Architect" xml:space="preserve">
+    <value>Tal med en arkitekt</value>
+  </data>
+  <data name="To build your offline AI knowledge base, you may need to purchase an NVIDIA GPU. This may require additional payment to NVIDIA corporation." xml:space="preserve">
+    <value>For at opbygge din offline AI-videnbase kan det være nødvendigt at købe et NVIDIA GPU. Dette kan kræve et yderligere betalingsbeløb til NVIDIA-korporationen.</value>
+  </data>
+  <data name="Zero Trust Yubikey Auth" xml:space="preserve">
+    <value>Zero Trust Yubikey Auth</value>
+  </data>
+
+</root>

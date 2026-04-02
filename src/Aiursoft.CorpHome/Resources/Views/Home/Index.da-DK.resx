@@ -54,6 +54,9 @@
   <data name="Achieve more with Aiursoft Template" xml:space="preserve">
     <value>Opnå mere med Aiursoft Template</value>
   </data>
+  <data name="AI Agents Integration" xml:space="preserve">
+    <value>AI-agents integration</value>
+  </data>
   <data name="AI Era" xml:space="preserve">
     <value>AI-æra</value>
   </data>
@@ -173,6 +176,9 @@
   </data>
   <data name="Break Vendor Lock-in" xml:space="preserve">
     <value>Bryd leverandørbinding</value>
+  </data>
+  <data name="Browse Source Code" xml:space="preserve">
+    <value>Gennemse kildekoden</value>
   </data>
   <data name="Build once, run anywhere. Fully containerized architecture." xml:space="preserve">
     <value>Byg én gang, kørs overalt. Fuld containeriseret arkitektur.</value>
@@ -383,6 +389,9 @@
   </data>
   <data name="Every access is verified, every connection is encrypted, every action is audited." xml:space="preserve">
     <value>Hver adgang verificeres, hver forbindelse krypteres, og hver handling efterfølges.</value>
+  </data>
+  <data name="Experience Aiursoft AI" xml:space="preserve">
+    <value>Prøv Aiursoft AI</value>
   </data>
   <data name="Explore on GitHub" xml:space="preserve">
     <value>Udforsk på GitHub</value>
@@ -611,6 +620,9 @@
   </data>
   <data name="Offline Capable" xml:space="preserve">
     <value>Offline-funktion</value>
+  </data>
+  <data name="OllamaGateway has been officially tested and is fully compatible with popular ecosystem tools including Open-WebUI, Opencode, and Roocode. Its robust API translation makes it the ideal choice for deploying autonomous AI agents." xml:space="preserve">
+    <value>OllamaGateway er officielt testet og er fuldt kompatibel med populære økosystemværktøjer herunder Open-WebUI, Opencode og Roocode. Dens robuste API-oversættelse gør den til det ideelle valg til implementering af autonome AI-agenter.</value>
   </data>
   <data name="On-premise offline deployment" xml:space="preserve">
     <value>On-premise offline installation</value>

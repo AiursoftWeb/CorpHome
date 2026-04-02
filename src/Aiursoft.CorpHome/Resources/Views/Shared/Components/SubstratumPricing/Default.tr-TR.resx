@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="/ month" xml:space="preserve">
+    <value>/ ay</value>
+  </data>
+  <data name="/ user" xml:space="preserve">
+    <value>/kullanıcı</value>
+  </data>
+  <data name="AI Knowledge Base construction" xml:space="preserve">
+    <value>AI Bilgi Tabanı Oluşturma</value>
+  </data>
+  <data name="Aiursoft Substratum Core" xml:space="preserve">
+    <value>Aiursoft Substratum Core</value>
+  </data>
+  <data name="Aiursoft Substratum Enterprise" xml:space="preserve">
+    <value>Aiursoft Substratum Enterprise</value>
+  </data>
+  <data name="Aiursoft Substratum Startup" xml:space="preserve">
+    <value>Aiursoft Substratum Startup</value>
+  </data>
+  <data name="AnduinOS Enterprise" xml:space="preserve">
+    <value>AnduinOS Enterprise</value>
+  </data>
+  <data name="Contact Sales" xml:space="preserve">
+    <value>Satış Ekibiyle İletişime Geçin</value>
+  </data>
+  <data name="Custom container development" xml:space="preserve">
+    <value>Özel konteyner geliştirme</value>
+  </data>
+  <data name="Custom Development Fee" xml:space="preserve">
+    <value>Özel Geliştirme Ücreti</value>
+  </data>
+  <data name="Customized for your enterprise" xml:space="preserve">
+    <value>İşletmeniz için özelleştirilmiş</value>
+  </data>
+  <data name="Enterprise scale deployment" xml:space="preserve">
+    <value>Kurumsal ölçekli dağıtım</value>
+  </data>
+  <data name="Full Infrastructure Suite, on your local server" xml:space="preserve">
+    <value>Tam altyapı paketi, kendi yerel sunucunuzda</value>
+  </data>
+  <data name="Get a public cloud-like experience while hosting your applications in your own server." xml:space="preserve">
+    <value>Uygulamalarınızı kendi sunucunuzda barındırırken halka açık bulut benzeri bir deneyim kazanın.</value>
+  </data>
+  <data name="Get Started" xml:space="preserve">
+    <value>Başlayın</value>
+  </data>
+  <data name="Hosted by Aiursoft" xml:space="preserve">
+    <value>Aiursoft tarafından barındırılıyor</value>
+  </data>
+  <data name="Includes Collaboration + Email + Identity Gateway" xml:space="preserve">
+    <value>İşbirliği + E-posta + Kimlik Geçidi Dahildir</value>
+  </data>
+  <data name="Includes everything in Starter" xml:space="preserve">
+    <value>Starter pakettekilerin hepsini içerir</value>
+  </data>
+  <data name="Includes everything in Startup" xml:space="preserve">
+    <value>Startup pakettekilerin hepsini içerir</value>
+  </data>
+  <data name="Max 1000 accounts" xml:space="preserve">
+    <value>Maksimum 1000 hesap</value>
+  </data>
+  <data name="MDM based device compliance" xml:space="preserve">
+    <value>MDM tabanlı cihaz uyumluluğu</value>
+  </data>
+  <data name="On-premise offline deployment" xml:space="preserve">
+    <value>Yerel sunucuda çevrimdışı kurulum</value>
+  </data>
+  <data name="One-time Setup Fee" xml:space="preserve">
+    <value>Tek Seferlik Kurulum Ücreti</value>
+  </data>
+  <data name="Pricing" xml:space="preserve">
+    <value>Fiyatlandırma</value>
+  </data>
+  <data name="Recommended" xml:space="preserve">
+    <value>Önerilen</value>
+  </data>
+  <data name="Single user account" xml:space="preserve">
+    <value>Tek kullanıcı hesabı</value>
+  </data>
+  <data name="Specific fees need to be discussed with our architecture team to determine how to build for your enterprise." xml:space="preserve">
+    <value>Belirli ücretlerin, işletmeniz için nasıl bir yapılandırma yapılacağını belirlemek adına mimarlık ekibimizle görüşülmesi gerekmektedir.</value>
+  </data>
+  <data name="Strengthen your business with flexible Open Source projects that run by Aiursoft." xml:space="preserve">
+    <value>İşinizi Aiursoft tarafından yönetilen esnek Açık Kaynak projeleriyle güçlendirin.</value>
+  </data>
+  <data name="tailored to your business needs" xml:space="preserve">
+    <value>işletme ihtiyaçlarınıza özel olarak uyarlanmıştır</value>
+  </data>
+  <data name="Talk to an Architect" xml:space="preserve">
+    <value>Mimarla Görüşün</value>
+  </data>
+  <data name="To build your offline AI knowledge base, you may need to purchase an NVIDIA GPU. This may require additional payment to NVIDIA corporation." xml:space="preserve">
+    <value>Çevrimdışı AI bilgi tabanınızı oluşturmak için NVIDIA GPU satın almanız gerekebilir. Bu, NVIDIA şirketine ek ödeme gerektirebilir.</value>
+  </data>
+  <data name="Zero Trust Yubikey Auth" xml:space="preserve">
+    <value>Sıfır Güvenlik Yubikey Kimlik Doğrulama</value>
+  </data>
+
+</root>

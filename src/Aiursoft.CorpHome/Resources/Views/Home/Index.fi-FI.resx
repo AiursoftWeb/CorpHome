@@ -54,6 +54,9 @@
   <data name="Achieve more with Aiursoft Template" xml:space="preserve">
     <value>Saavuta enemmän Aiursoft Templatella</value>
   </data>
+  <data name="AI Agents Integration" xml:space="preserve">
+    <value>Tekoälyagenttien integrointi</value>
+  </data>
   <data name="AI Era" xml:space="preserve">
     <value>Tekoälyn aika</value>
   </data>
@@ -173,6 +176,9 @@
   </data>
   <data name="Break Vendor Lock-in" xml:space="preserve">
     <value>Pääse irti toimittajariippuvuudesta</value>
+  </data>
+  <data name="Browse Source Code" xml:space="preserve">
+    <value>Selaa lähdekoodia</value>
   </data>
   <data name="Build once, run anywhere. Fully containerized architecture." xml:space="preserve">
     <value>Rakenna kerran, suorita missä tahansa. Täysin säiliöön paketoidu arkkitehtuuri.</value>
@@ -383,6 +389,9 @@
   </data>
   <data name="Every access is verified, every connection is encrypted, every action is audited." xml:space="preserve">
     <value>Jokainen pääsy on varmistettu, jokainen yhteys on salattu, jokainen toiminta on tarkastettu.</value>
+  </data>
+  <data name="Experience Aiursoft AI" xml:space="preserve">
+    <value>Kokeile Aiursoftin tekoälyä</value>
   </data>
   <data name="Explore on GitHub" xml:space="preserve">
     <value>Selaa GitHubissa</value>
@@ -611,6 +620,9 @@
   </data>
   <data name="Offline Capable" xml:space="preserve">
     <value>Offline-kelpoisuus</value>
+  </data>
+  <data name="OllamaGateway has been officially tested and is fully compatible with popular ecosystem tools including Open-WebUI, Opencode, and Roocode. Its robust API translation makes it the ideal choice for deploying autonomous AI agents." xml:space="preserve">
+    <value>OllamaGateway on virallisesti testattu ja se on täysin yhteensopiva suosittujen ekosysteemin työkalujen kanssa, mukaan lukien Open-WebUI, Opencode ja Roocode. Sen vankka API-käännös tekee siitä ihanteellisen valinnan autonomisten tekoälyagenttien käyttöönottoon.</value>
   </data>
   <data name="On-premise offline deployment" xml:space="preserve">
     <value>Paikallinen offline-asettaminen</value>

@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="24/7 dedicated support line" xml:space="preserve">
+    <value>Layanan dukungan khusus 24/7</value>
+  </data>
+  <data name="7×24 On-call Support" xml:space="preserve">
+    <value>Dukungan On-call 7×24</value>
+  </data>
+  <data name="AI &amp; Intelligence" xml:space="preserve">
+    <value>AI &amp; Kecerdasan</value>
+  </data>
+  <data name="AI Knowledge Base Construction" xml:space="preserve">
+    <value>Pembangunan Basis Pengetahuan AI</value>
+  </data>
+  <data name="Aiursoft-hosted Email Service" xml:space="preserve">
+    <value>Layanan Email yang dihosting oleh Aiursoft</value>
+  </data>
+  <data name="AnduinOS Enterprise (Desktop OS)" xml:space="preserve">
+    <value>AnduinOS Enterprise (Desktop OS)</value>
+  </data>
+  <data name="Business hours email support" xml:space="preserve">
+    <value>dukungan email selama jam kerja</value>
+  </data>
+  <data name="Business hours phone support" xml:space="preserve">
+    <value>dukungan telepon sesuai jam kerja</value>
+  </data>
+  <data name="Cloud Office Suite" xml:space="preserve">
+    <value>Kantor Berbasis Awan</value>
+  </data>
+  <data name="Communication &amp; Email" xml:space="preserve">
+    <value>Komunikasi &amp; Email</value>
+  </data>
+  <data name="Compare Substratum plans" xml:space="preserve">
+    <value>Bandingkan Paket Substratum</value>
+  </data>
+  <data name="Core" xml:space="preserve">
+    <value>Inti</value>
+  </data>
+  <data name="Custom AI pipeline" xml:space="preserve">
+    <value>Custom AI pipeline</value>
+  </data>
+  <data name="Custom Container Development" xml:space="preserve">
+    <value>Pengembangan Container Kustom</value>
+  </data>
+  <data name="Custom speech synthesis/recognition, search integration &amp; deep investigation pipelines" xml:space="preserve">
+    <value>Sintesis/pengenalan suara kustom, integrasi pencarian &amp; pipa investigasi mendalam</value>
+  </data>
+  <data name="Custom TTS / STT, Search Engine &amp; Deep Research" xml:space="preserve">
+    <value>TTS / STT Kustom, Mesin Pencari &amp; Penelitian Mendalam</value>
+  </data>
+  <data name="Deployment &amp; Hosting" xml:space="preserve">
+    <value>Penyebaran &amp; Peng-hosting</value>
+  </data>
+  <data name="DevOps &amp; Engineering" xml:space="preserve">
+    <value>DevOps &amp; Engineering</value>
+  </data>
+  <data name="Document Conversion" xml:space="preserve">
+    <value>Konversi Dokumen</value>
+  </data>
+  <data name="Enterprise" xml:space="preserve">
+    <value>Enterprise</value>
+  </data>
+  <data name="Enterprise Customization" xml:space="preserve">
+    <value>Kustomisasi Perusahaan</value>
+  </data>
+  <data name="Enterprise Scale Deployment" xml:space="preserve">
+    <value>Penyebaran Skala Enterprise</value>
+  </data>
+  <data name="Every plan is built on the same foundational stack. Higher tiers add more applications, on-premise deployment, and dedicated enterprise support on top." xml:space="preserve">
+    <value>Setiap rencana dibangun di atas tumpukan fondasi yang sama. Tingkat yang lebih tinggi menambahkan lebih banyak aplikasi, penerapan on-premise, dan dukungan enterprise khusus di atasnya.</value>
+  </data>
+  <data name="File Storage" xml:space="preserve">
+    <value>Penyimpanan Berkas</value>
+  </data>
+  <data name="Fleet device policy management" xml:space="preserve">
+    <value>Pengelolaan kebijakan perangkat armada</value>
+  </data>
+  <data name="Hardware key enforcement" xml:space="preserve">
+    <value>Penegakan kunci perangkat keras</value>
+  </data>
+  <data name="Hosted by Aiursoft (SaaS)" xml:space="preserve">
+    <value>Dihoskan oleh Aiursoft (SaaS)</value>
+  </data>
+  <data name="Hosted by Aiursoft, not on-premise" xml:space="preserve">
+    <value>Ditangani oleh Aiursoft, bukan on-premise</value>
+  </data>
+  <data name="HR &amp; Org Portal" xml:space="preserve">
+    <value>Portal SDM &amp; Organisasi</value>
+  </data>
+  <data name="Identity &amp; Security" xml:space="preserve">
+    <value>Identitas &amp; Keamanan</value>
+  </data>
+  <data name="Included" xml:space="preserve">
+    <value>Termasuk</value>
+  </data>
+  <data name="Local LLM API Gateway" xml:space="preserve">
+    <value>Gerbang API LLM Lokal</value>
+  </data>
+  <data name="Managed endpoint OS" xml:space="preserve">
+    <value>OS endpoint terkelola</value>
+  </data>
+  <data name="Managed, zero-ops" xml:space="preserve">
+    <value>Dikelola, tanpa operasi</value>
+  </data>
+  <data name="Max User Accounts" xml:space="preserve">
+    <value>Maksimum Akun Pengguna</value>
+  </data>
+  <data name="MDM Device Compliance" xml:space="preserve">
+    <value>Kepatuhan Perangkat MDM</value>
+  </data>
+  <data name="Media &amp; Personal" xml:space="preserve">
+    <value>Media &amp; Personal</value>
+  </data>
+  <data name="mo" xml:space="preserve">
+    <value>mo</value>
+  </data>
+  <data name="Multi-site &amp; HA capable" xml:space="preserve">
+    <value>Multi-site &amp; HA capable</value>
+  </data>
+  <data name="Not included" xml:space="preserve">
+    <value>Tidak disertakan</value>
+  </data>
+  <data name="Not included in Core" xml:space="preserve">
+    <value>Tidak termasuk dalam Core</value>
+  </data>
+  <data name="Not included in Startup" xml:space="preserve">
+    <value>Tidak disertakan dalam Startup</value>
+  </data>
+  <data name="On-premise / Air-gapped Deployment" xml:space="preserve">
+    <value>Deploy On-premise / Air-gapped</value>
+  </data>
+  <data name="Online Code Execution" xml:space="preserve">
+    <value>Eksekusi Kode Online</value>
+  </data>
+  <data name="PaddleOCR-based" xml:space="preserve">
+    <value>berbasis PaddleOCR</value>
+  </data>
+  <data name="Partial / limited" xml:space="preserve">
+    <value>Sebagian / terbatas</value>
+  </data>
+  <data name="PDF ingestion &amp; vector store construction via PaddleOCR" xml:space="preserve">
+    <value>Ingesti PDF &amp; konstruksi vektor store melalui PaddleOCR</value>
+  </data>
+  <data name="PDF Processing &amp; Vector Database" xml:space="preserve">
+    <value>Pemrosesan PDF &amp; Basis Data Vektor</value>
+  </data>
+  <data name="Photo &amp; Video Management" xml:space="preserve">
+    <value>Manajemen Foto &amp; Video</value>
+  </data>
+  <data name="Productivity &amp; Collaboration" xml:space="preserve">
+    <value>Produktivitas &amp; Kolaborasi</value>
+  </data>
+  <data name="Repository Sync" xml:space="preserve">
+    <value>Sinkronisasi Repositori</value>
+  </data>
+  <data name="SaaS only" xml:space="preserve">
+    <value>Hanya SaaS</value>
+  </data>
+  <data name="Scale &amp; Support" xml:space="preserve">
+    <value>Skala &amp; Dukungan</value>
+  </data>
+  <data name="Self-hosted LLM inference gateway" xml:space="preserve">
+    <value>Gerbang inferensi LLM yang di-host sendiri</value>
+  </data>
+  <data name="Self-hosted on your own servers" xml:space="preserve">
+    <value>Dikelola sendiri di server Anda sendiri</value>
+  </data>
+  <data name="Server Monitoring" xml:space="preserve">
+    <value>Pemantauan Server</value>
+  </data>
+  <data name="Service / Feature" xml:space="preserve">
+    <value>Layanan / Fitur</value>
+  </data>
+  <data name="Single-site on-premise" xml:space="preserve">
+    <value>Satu lokasi di lokasi</value>
+  </data>
+  <data name="Source Control &amp; CI/CD" xml:space="preserve">
+    <value>Pengendalian Sumber &amp; CI/CD</value>
+  </data>
+  <data name="SSO / Identity Gateway" xml:space="preserve">
+    <value>SSO / Gerbang Identitas</value>
+  </data>
+  <data name="Startup" xml:space="preserve">
+    <value>Startup</value>
+  </data>
+  <data name="Tailored to your stack" xml:space="preserve">
+    <value>Disesuaikan dengan tumpukan Anda</value>
+  </data>
+  <data name="Talk to an Architect" xml:space="preserve">
+    <value>Bicara dengan Arsitek</value>
+  </data>
+  <data name="Team Voting" xml:space="preserve">
+    <value>Pemungutan Suara Tim</value>
+  </data>
+  <data name="Unlimited" xml:space="preserve">
+    <value>Tak Terbatas</value>
+  </data>
+  <data name="URL Shortener" xml:space="preserve">
+    <value>Pemendek URL</value>
+  </data>
+  <data name="user" xml:space="preserve">
+    <value>pengguna</value>
+  </data>
+  <data name="What&apos;s Included" xml:space="preserve">
+    <value>Apa yang Termasuk</value>
+  </data>
+  <data name="Zero Trust Yubikey Auth" xml:space="preserve">
+    <value>Autentikasi Yubikey Zero Trust</value>
+  </data>
+
+</root>

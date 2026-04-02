@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="24/7 dedicated support line" xml:space="preserve">
+    <value>24/7 özel destek hattı</value>
+  </data>
+  <data name="7×24 On-call Support" xml:space="preserve">
+    <value>7×24 Çağrı Desteği</value>
+  </data>
+  <data name="AI &amp; Intelligence" xml:space="preserve">
+    <value>Yapay Zeka &amp; Zeka</value>
+  </data>
+  <data name="AI Knowledge Base Construction" xml:space="preserve">
+    <value>AI Bilgi Tabanı Oluşturma</value>
+  </data>
+  <data name="Aiursoft-hosted Email Service" xml:space="preserve">
+    <value>Aiursoft-tarafından barındırılan E-posta Hizmeti</value>
+  </data>
+  <data name="AnduinOS Enterprise (Desktop OS)" xml:space="preserve">
+    <value>AnduinOS Enterprise (Masaüstü İşletim Sistemi)</value>
+  </data>
+  <data name="Business hours email support" xml:space="preserve">
+    <value>İş saatleri e-posta desteği</value>
+  </data>
+  <data name="Business hours phone support" xml:space="preserve">
+    <value>İş saatleri telefon desteği</value>
+  </data>
+  <data name="Cloud Office Suite" xml:space="preserve">
+    <value>Bulut Ofis Paketi</value>
+  </data>
+  <data name="Communication &amp; Email" xml:space="preserve">
+    <value>İletişim &amp; E-posta</value>
+  </data>
+  <data name="Compare Substratum plans" xml:space="preserve">
+    <value>Substratum planlarını karşılaştırın</value>
+  </data>
+  <data name="Core" xml:space="preserve">
+    <value>Temel</value>
+  </data>
+  <data name="Custom AI pipeline" xml:space="preserve">
+    <value>Özel AI hattı</value>
+  </data>
+  <data name="Custom Container Development" xml:space="preserve">
+    <value>Özel Konteyner Geliştirme</value>
+  </data>
+  <data name="Custom speech synthesis/recognition, search integration &amp; deep investigation pipelines" xml:space="preserve">
+    <value>Özel konuşma sentezi/algılama, arama entegrasyonu ve derin araştırma boru hatları</value>
+  </data>
+  <data name="Custom TTS / STT, Search Engine &amp; Deep Research" xml:space="preserve">
+    <value>Özel TTS / STT, Arama Motoru &amp; Derin Araştırma</value>
+  </data>
+  <data name="Deployment &amp; Hosting" xml:space="preserve">
+    <value>Dağıtım ve Barındırma</value>
+  </data>
+  <data name="DevOps &amp; Engineering" xml:space="preserve">
+    <value>DevOps &amp; Engineering</value>
+  </data>
+  <data name="Document Conversion" xml:space="preserve">
+    <value>Belge Dönüşümü</value>
+  </data>
+  <data name="Enterprise" xml:space="preserve">
+    <value>Kurumsal</value>
+  </data>
+  <data name="Enterprise Customization" xml:space="preserve">
+    <value>Kurumsal Özelleştirme</value>
+  </data>
+  <data name="Enterprise Scale Deployment" xml:space="preserve">
+    <value>Kurumsal Ölçekli Dağıtım</value>
+  </data>
+  <data name="Every plan is built on the same foundational stack. Higher tiers add more applications, on-premise deployment, and dedicated enterprise support on top." xml:space="preserve">
+    <value>Her plan, aynı temel yığın üzerine inşa edilmiştir. Daha yüksek seviyeler, daha fazla uygulama, yerinde dağıtım ve özel kurumsal desteği bu temelin üzerine ekler.</value>
+  </data>
+  <data name="File Storage" xml:space="preserve">
+    <value>Dosya Depolama</value>
+  </data>
+  <data name="Fleet device policy management" xml:space="preserve">
+    <value>Filoya cihaz politikası yönetimi</value>
+  </data>
+  <data name="Hardware key enforcement" xml:space="preserve">
+    <value>Donanım anahtar zorlaması</value>
+  </data>
+  <data name="Hosted by Aiursoft (SaaS)" xml:space="preserve">
+    <value>Aiursoft (SaaS) Tarafından Barındırılıyor</value>
+  </data>
+  <data name="Hosted by Aiursoft, not on-premise" xml:space="preserve">
+    <value>Aiursoft tarafından barındırılır, yerel değil</value>
+  </data>
+  <data name="HR &amp; Org Portal" xml:space="preserve">
+    <value>İnsan Kaynakları ve Organizasyon Portalı</value>
+  </data>
+  <data name="Identity &amp; Security" xml:space="preserve">
+    <value>Kimlik &amp; Güvenlik</value>
+  </data>
+  <data name="Included" xml:space="preserve">
+    <value>İçerik</value>
+  </data>
+  <data name="Local LLM API Gateway" xml:space="preserve">
+    <value>Yerel LLM API Gateway</value>
+  </data>
+  <data name="Managed endpoint OS" xml:space="preserve">
+    <value>Yönetilen uç nokta işletim sistemi</value>
+  </data>
+  <data name="Managed, zero-ops" xml:space="preserve">
+    <value>Yönetilen, sıfır işlemlilik</value>
+  </data>
+  <data name="Max User Accounts" xml:space="preserve">
+    <value>Maksimum Kullanıcı Hesabı</value>
+  </data>
+  <data name="MDM Device Compliance" xml:space="preserve">
+    <value>MDM Cihaz Uyumluluğu</value>
+  </data>
+  <data name="Media &amp; Personal" xml:space="preserve">
+    <value>Medya &amp; Kişisel</value>
+  </data>
+  <data name="mo" xml:space="preserve">
+    <value>ay</value>
+  </data>
+  <data name="Multi-site &amp; HA capable" xml:space="preserve">
+    <value>Çoklu site ve HA destekli</value>
+  </data>
+  <data name="Not included" xml:space="preserve">
+    <value>İçermez</value>
+  </data>
+  <data name="Not included in Core" xml:space="preserve">
+    <value>Çekirdek pakette yer almıyor</value>
+  </data>
+  <data name="Not included in Startup" xml:space="preserve">
+    <value>Başlangıçta Dahil Değil</value>
+  </data>
+  <data name="On-premise / Air-gapped Deployment" xml:space="preserve">
+    <value>Yerinde / İzole Edilmiş Dağıtım</value>
+  </data>
+  <data name="Online Code Execution" xml:space="preserve">
+    <value>Çevrimiçi Kod Çalıştırma</value>
+  </data>
+  <data name="PaddleOCR-based" xml:space="preserve">
+    <value>PaddleOCR tabanlı</value>
+  </data>
+  <data name="Partial / limited" xml:space="preserve">
+    <value>Kısmi / sınırlı</value>
+  </data>
+  <data name="PDF ingestion &amp; vector store construction via PaddleOCR" xml:space="preserve">
+    <value>PaddleOCR ile PDF yükleme ve vektör deposu oluşturma</value>
+  </data>
+  <data name="PDF Processing &amp; Vector Database" xml:space="preserve">
+    <value>PDF İşleme &amp; Vektör Veritabanı</value>
+  </data>
+  <data name="Photo &amp; Video Management" xml:space="preserve">
+    <value>Foto &amp; Video Yönetimi</value>
+  </data>
+  <data name="Productivity &amp; Collaboration" xml:space="preserve">
+    <value>Üretkenlik &amp; İşbirliği</value>
+  </data>
+  <data name="Repository Sync" xml:space="preserve">
+    <value>Depo Senkronizasyonu</value>
+  </data>
+  <data name="SaaS only" xml:space="preserve">
+    <value>SaaS only</value>
+  </data>
+  <data name="Scale &amp; Support" xml:space="preserve">
+    <value>Ölçeklendirme ve Destek</value>
+  </data>
+  <data name="Self-hosted LLM inference gateway" xml:space="preserve">
+    <value>Kendi kendine barındırılan LLM çıkarım geçidi</value>
+  </data>
+  <data name="Self-hosted on your own servers" xml:space="preserve">
+    <value>Kendi sunucularınızda kendi kendine barındırma</value>
+  </data>
+  <data name="Server Monitoring" xml:space="preserve">
+    <value>Sunucu İzleme</value>
+  </data>
+  <data name="Service / Feature" xml:space="preserve">
+    <value>Hizmet / Özellik</value>
+  </data>
+  <data name="Single-site on-premise" xml:space="preserve">
+    <value>Tek lokasyon yerel kurulum</value>
+  </data>
+  <data name="Source Control &amp; CI/CD" xml:space="preserve">
+    <value>Kaynak Kontrolü &amp; CI/CD</value>
+  </data>
+  <data name="SSO / Identity Gateway" xml:space="preserve">
+    <value>SSO / Kimlik Geçidi</value>
+  </data>
+  <data name="Startup" xml:space="preserve">
+    <value>Başlangıç</value>
+  </data>
+  <data name="Tailored to your stack" xml:space="preserve">
+    <value>Yığınınıza özel olarak tasarlanmıştır</value>
+  </data>
+  <data name="Talk to an Architect" xml:space="preserve">
+    <value>Bir Mimarla Konuşun</value>
+  </data>
+  <data name="Team Voting" xml:space="preserve">
+    <value>Ekip Oylaması</value>
+  </data>
+  <data name="Unlimited" xml:space="preserve">
+    <value>Sınırsız</value>
+  </data>
+  <data name="URL Shortener" xml:space="preserve">
+    <value>URL Kısaltıcı</value>
+  </data>
+  <data name="user" xml:space="preserve">
+    <value>kullanıcı</value>
+  </data>
+  <data name="What&apos;s Included" xml:space="preserve">
+    <value>Neler Dahil</value>
+  </data>
+  <data name="Zero Trust Yubikey Auth" xml:space="preserve">
+    <value>Sıfır Güvenlik Yubikey Kimlik Doğrulama</value>
+  </data>
+
+</root>

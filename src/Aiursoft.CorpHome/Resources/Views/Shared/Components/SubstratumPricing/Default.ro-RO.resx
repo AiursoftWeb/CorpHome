@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="/ month" xml:space="preserve">
+    <value>/lună</value>
+  </data>
+  <data name="/ user" xml:space="preserve">
+    <value>/ utilizator</value>
+  </data>
+  <data name="AI Knowledge Base construction" xml:space="preserve">
+    <value>Construcția bazei de cunoștințe AI</value>
+  </data>
+  <data name="Aiursoft Substratum Core" xml:space="preserve">
+    <value>Aiursoft Substratum Core</value>
+  </data>
+  <data name="Aiursoft Substratum Enterprise" xml:space="preserve">
+    <value>Aiursoft Substratum Enterprise</value>
+  </data>
+  <data name="Aiursoft Substratum Startup" xml:space="preserve">
+    <value>Aiursoft Substratum Startup</value>
+  </data>
+  <data name="AnduinOS Enterprise" xml:space="preserve">
+    <value>AnduinOS Enterprise</value>
+  </data>
+  <data name="Contact Sales" xml:space="preserve">
+    <value>Contact Sales</value>
+  </data>
+  <data name="Custom container development" xml:space="preserve">
+    <value>Dezvoltare de containere personalizate</value>
+  </data>
+  <data name="Custom Development Fee" xml:space="preserve">
+    <value>Taxă pentru dezvoltare personalizată</value>
+  </data>
+  <data name="Customized for your enterprise" xml:space="preserve">
+    <value>Personalizat pentru întreprinderea dumneavoastră</value>
+  </data>
+  <data name="Enterprise scale deployment" xml:space="preserve">
+    <value>Implementare la scară de întreprindere</value>
+  </data>
+  <data name="Full Infrastructure Suite, on your local server" xml:space="preserve">
+    <value>Suite completă de infrastructură, pe serverul dumneavoastră local</value>
+  </data>
+  <data name="Get a public cloud-like experience while hosting your applications in your own server." xml:space="preserve">
+    <value>Obțineți o experiență similară cu cea a cloud-ului public în timp ce găzduiți aplicațiile dvs. pe propriul server.</value>
+  </data>
+  <data name="Get Started" xml:space="preserve">
+    <value>Începe acum</value>
+  </data>
+  <data name="Hosted by Aiursoft" xml:space="preserve">
+    <value>Găzduit de Aiursoft</value>
+  </data>
+  <data name="Includes Collaboration + Email + Identity Gateway" xml:space="preserve">
+    <value>Include colaborare + e-mail + Gateway de identitate</value>
+  </data>
+  <data name="Includes everything in Starter" xml:space="preserve">
+    <value>Includează tot ce este inclus în Starter</value>
+  </data>
+  <data name="Includes everything in Startup" xml:space="preserve">
+    <value>Includează totul din Startup</value>
+  </data>
+  <data name="Max 1000 accounts" xml:space="preserve">
+    <value>Max 1000 conturi</value>
+  </data>
+  <data name="MDM based device compliance" xml:space="preserve">
+    <value>Conformitate dispozitive bazată pe MDM</value>
+  </data>
+  <data name="On-premise offline deployment" xml:space="preserve">
+    <value>Implementare offline pe propriile servere</value>
+  </data>
+  <data name="One-time Setup Fee" xml:space="preserve">
+    <value>Taxă de configurare unică</value>
+  </data>
+  <data name="Pricing" xml:space="preserve">
+    <value>Prețuri</value>
+  </data>
+  <data name="Recommended" xml:space="preserve">
+    <value>Recomandat</value>
+  </data>
+  <data name="Single user account" xml:space="preserve">
+    <value>Cont de utilizator unic</value>
+  </data>
+  <data name="Specific fees need to be discussed with our architecture team to determine how to build for your enterprise." xml:space="preserve">
+    <value>Taxele specifice trebuie discutate cu echipa noastră de arhitectură pentru a determina modul de implementare pentru întreprinderea dumneavoastră.</value>
+  </data>
+  <data name="Strengthen your business with flexible Open Source projects that run by Aiursoft." xml:space="preserve">
+    <value>Întărește-ți afacerea cu proiecte flexibile Open Source gestionate de Aiursoft.</value>
+  </data>
+  <data name="tailored to your business needs" xml:space="preserve">
+    <value>personalizat pentru nevoile afacerii tale</value>
+  </data>
+  <data name="Talk to an Architect" xml:space="preserve">
+    <value>Discutați cu un Arhitect</value>
+  </data>
+  <data name="To build your offline AI knowledge base, you may need to purchase an NVIDIA GPU. This may require additional payment to NVIDIA corporation." xml:space="preserve">
+    <value>Pentru a construi baza dvs. de cunoștințe AI offline, este posibil să fie necesară achiziționarea unui GPU NVIDIA. Acest lucru poate necesita o plată suplimentară către corporația NVIDIA.</value>
+  </data>
+  <data name="Zero Trust Yubikey Auth" xml:space="preserve">
+    <value>Autentificare Zero Trust cu Yubikey</value>
+  </data>
+
+</root>
