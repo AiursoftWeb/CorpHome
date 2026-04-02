@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="Air-Gapped Ready" xml:space="preserve">
+    <value>에어 갭 대응</value>
+  </data>
+  <data name="Break Vendor Lock-in" xml:space="preserve">
+    <value>벤더 종속 탈피</value>
+  </data>
+  <data name="Built on open standards. Migrate in or out anytime with full data portability and transparency." xml:space="preserve">
+    <value>오픈 표준 기반. 언제든지 완전한 데이터 이식성과 투명성을 바탕으로 진입하거나 이탈하세요.</value>
+  </data>
+  <data name="Complete control over your enterprise data. No third-party access, full privacy compliance." xml:space="preserve">
+    <value>귀하의 기업 데이터에 대한 완전한 통제. 제3자 접근 없음, 전체 개인정보 보호 규정 준수.</value>
+  </data>
+  <data name="Contact Us" xml:space="preserve">
+    <value>문의하기</value>
+  </data>
+  <data name="Designed to run offline. Perfect for high-security environments with no internet dependency." xml:space="preserve">
+    <value>오프라인 실행을 위해 설계되었습니다. 인터넷 의존성이 없는 고보안 환경에 완벽합니다.</value>
+  </data>
+  <data name="Empower developers with a flexible platform that scales with your business needs." xml:space="preserve">
+    <value>유연한 플랫폼으로 개발자를 지원하여 비즈니스 요구 사항에 맞춰 확장하세요.</value>
+  </data>
+  <data name="Get unified endpoint management (UEM), identity management (IAM), and collaboration tools (OA) in one package. All on your local servers!" xml:space="preserve">
+    <value>단일 패키지로 통합 엔드포인트 관리 (UEM), 신원 관리 (IAM), 및 협업 도구 (OA) 를 제공하며, 모든 것을 로컬 서버에서 실행합니다!</value>
+  </data>
+  <data name="Own Your Data" xml:space="preserve">
+    <value>당신의 데이터를 소유하세요</value>
+  </data>
+  <data name="Purchase Now" xml:space="preserve">
+    <value>지금 구매하기</value>
+  </data>
+  <data name="Supercharge Innovation" xml:space="preserve">
+    <value>혁신 가속화</value>
+  </data>
+  <data name="The Turnkey Enterprise Foundation" xml:space="preserve">
+    <value>터미널형 엔터프라이즈 파운데이션</value>
+  </data>
+
+</root>

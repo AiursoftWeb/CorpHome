@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="24/7 dedicated support line" xml:space="preserve">
+    <value>24/7 专属支持热线</value>
+  </data>
+  <data name="7×24 On-call Support" xml:space="preserve">
+    <value>7×24 在线支持</value>
+  </data>
+  <data name="AI &amp; Intelligence" xml:space="preserve">
+    <value>人工智能与智能</value>
+  </data>
+  <data name="AI Knowledge Base Construction" xml:space="preserve">
+    <value>AI知识库构建</value>
+  </data>
+  <data name="Aiursoft-hosted Email Service" xml:space="preserve">
+    <value>Aiursoft 托管的电子邮件服务</value>
+  </data>
+  <data name="AnduinOS Enterprise (Desktop OS)" xml:space="preserve">
+    <value>AnduinOS Enterprise (桌面操作系统)</value>
+  </data>
+  <data name="Business hours email support" xml:space="preserve">
+    <value>工作时间邮件支持</value>
+  </data>
+  <data name="Business hours phone support" xml:space="preserve">
+    <value>工作时间电话支持</value>
+  </data>
+  <data name="Cloud Office Suite" xml:space="preserve">
+    <value>云办公套件</value>
+  </data>
+  <data name="Communication &amp; Email" xml:space="preserve">
+    <value>通信与邮件</value>
+  </data>
+  <data name="Compare Substratum plans" xml:space="preserve">
+    <value>比较 Substratum 计划</value>
+  </data>
+  <data name="Core" xml:space="preserve">
+    <value>核心</value>
+  </data>
+  <data name="Custom AI pipeline" xml:space="preserve">
+    <value>自定义 AI 流程</value>
+  </data>
+  <data name="Custom Container Development" xml:space="preserve">
+    <value>自定义容器开发</value>
+  </data>
+  <data name="Custom speech synthesis/recognition, search integration &amp; deep investigation pipelines" xml:space="preserve">
+    <value>自定义语音合成/识别、搜索集成与深度调查管道</value>
+  </data>
+  <data name="Custom TTS / STT, Search Engine &amp; Deep Research" xml:space="preserve">
+    <value>自定义 TTS / STT、搜索引擎与深度研究</value>
+  </data>
+  <data name="Deployment &amp; Hosting" xml:space="preserve">
+    <value>部署与托管</value>
+  </data>
+  <data name="DevOps &amp; Engineering" xml:space="preserve">
+    <value>DevOps &amp; Engineering</value>
+  </data>
+  <data name="Document Conversion" xml:space="preserve">
+    <value>文档转换</value>
+  </data>
+  <data name="Enterprise" xml:space="preserve">
+    <value>企业</value>
+  </data>
+  <data name="Enterprise Customization" xml:space="preserve">
+    <value>企业定制</value>
+  </data>
+  <data name="Enterprise Scale Deployment" xml:space="preserve">
+    <value>企业级规模部署</value>
+  </data>
+  <data name="Every plan is built on the same foundational stack. Higher tiers add more applications, on-premise deployment, and dedicated enterprise support on top." xml:space="preserve">
+    <value>所有计划均基于相同的底层架构构建。更高阶的计划会在其上增加更多应用程序、本地部署以及专属企业支持。</value>
+  </data>
+  <data name="File Storage" xml:space="preserve">
+    <value>文件存储</value>
+  </data>
+  <data name="Fleet device policy management" xml:space="preserve">
+    <value>设备策略群管理</value>
+  </data>
+  <data name="Hardware key enforcement" xml:space="preserve">
+    <value>硬件密钥强制</value>
+  </data>
+  <data name="Hosted by Aiursoft (SaaS)" xml:space="preserve">
+    <value>由 Aiursoft (SaaS) 托管</value>
+  </data>
+  <data name="Hosted by Aiursoft, not on-premise" xml:space="preserve">
+    <value>由 Aiursoft 托管，非本地部署</value>
+  </data>
+  <data name="HR &amp; Org Portal" xml:space="preserve">
+    <value>人力资源与组织门户</value>
+  </data>
+  <data name="Identity &amp; Security" xml:space="preserve">
+    <value>身份与安全性</value>
+  </data>
+  <data name="Included" xml:space="preserve">
+    <value>包含</value>
+  </data>
+  <data name="Local LLM API Gateway" xml:space="preserve">
+    <value>本地大语言模型 API 网关</value>
+  </data>
+  <data name="Managed endpoint OS" xml:space="preserve">
+    <value>受管端点操作系统</value>
+  </data>
+  <data name="Managed, zero-ops" xml:space="preserve">
+    <value>托管，零运维</value>
+  </data>
+  <data name="Max User Accounts" xml:space="preserve">
+    <value>最大用户账户数</value>
+  </data>
+  <data name="MDM Device Compliance" xml:space="preserve">
+    <value>MDM 设备合规性</value>
+  </data>
+  <data name="Media &amp; Personal" xml:space="preserve">
+    <value>媒体与个人</value>
+  </data>
+  <data name="mo" xml:space="preserve">
+    <value>月</value>
+  </data>
+  <data name="Multi-site &amp; HA capable" xml:space="preserve">
+    <value>支持多站点与高可用</value>
+  </data>
+  <data name="Not included" xml:space="preserve">
+    <value>不包含</value>
+  </data>
+  <data name="Not included in Core" xml:space="preserve">
+    <value>未包含在核心版中</value>
+  </data>
+  <data name="Not included in Startup" xml:space="preserve">
+    <value>未包含在启动项中</value>
+  </data>
+  <data name="On-premise / Air-gapped Deployment" xml:space="preserve">
+    <value>本地部署 / 物理隔离部署</value>
+  </data>
+  <data name="Online Code Execution" xml:space="preserve">
+    <value>在线代码执行</value>
+  </data>
+  <data name="PaddleOCR-based" xml:space="preserve">
+    <value>基于PaddleOCR</value>
+  </data>
+  <data name="Partial / limited" xml:space="preserve">
+    <value>部分/有限</value>
+  </data>
+  <data name="PDF ingestion &amp; vector store construction via PaddleOCR" xml:space="preserve">
+    <value>通过 PaddleOCR 进行 PDF 摄入与向量存储构建</value>
+  </data>
+  <data name="PDF Processing &amp; Vector Database" xml:space="preserve">
+    <value>PDF 处理与向量数据库</value>
+  </data>
+  <data name="Photo &amp; Video Management" xml:space="preserve">
+    <value>照片与视频管理</value>
+  </data>
+  <data name="Productivity &amp; Collaboration" xml:space="preserve">
+    <value>生产力与协作</value>
+  </data>
+  <data name="Repository Sync" xml:space="preserve">
+    <value>代码仓库同步</value>
+  </data>
+  <data name="SaaS only" xml:space="preserve">
+    <value>仅限 SaaS</value>
+  </data>
+  <data name="Scale &amp; Support" xml:space="preserve">
+    <value>规模与技术支持</value>
+  </data>
+  <data name="Self-hosted LLM inference gateway" xml:space="preserve">
+    <value>自托管大语言模型推理网关</value>
+  </data>
+  <data name="Self-hosted on your own servers" xml:space="preserve">
+    <value>在自己的服务器上自行托管</value>
+  </data>
+  <data name="Server Monitoring" xml:space="preserve">
+    <value>服务器监控</value>
+  </data>
+  <data name="Service / Feature" xml:space="preserve">
+    <value>服务 / 功能</value>
+  </data>
+  <data name="Single-site on-premise" xml:space="preserve">
+    <value>单站点本地部署</value>
+  </data>
+  <data name="Source Control &amp; CI/CD" xml:space="preserve">
+    <value>源码控制与持续集成/部署</value>
+  </data>
+  <data name="SSO / Identity Gateway" xml:space="preserve">
+    <value>SSO / 身份网关</value>
+  </data>
+  <data name="Startup" xml:space="preserve">
+    <value>初创版</value>
+  </data>
+  <data name="Tailored to your stack" xml:space="preserve">
+    <value>根据您的技术栈量身定制</value>
+  </data>
+  <data name="Talk to an Architect" xml:space="preserve">
+    <value>联系架构师</value>
+  </data>
+  <data name="Team Voting" xml:space="preserve">
+    <value>团队投票</value>
+  </data>
+  <data name="Unlimited" xml:space="preserve">
+    <value>无限</value>
+  </data>
+  <data name="URL Shortener" xml:space="preserve">
+    <value>URL 短链接</value>
+  </data>
+  <data name="user" xml:space="preserve">
+    <value>用户</value>
+  </data>
+  <data name="What&apos;s Included" xml:space="preserve">
+    <value>包含内容</value>
+  </data>
+  <data name="Zero Trust Yubikey Auth" xml:space="preserve">
+    <value>零信任 Yubikey 认证</value>
+  </data>
+
+</root>

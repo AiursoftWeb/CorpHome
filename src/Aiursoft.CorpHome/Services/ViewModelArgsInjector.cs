@@ -87,6 +87,8 @@ public class ViewModelArgsInjector(
     
         _ = localizer["Privacy Policy"];
         _ = localizer["Terms"];
+    
+        _ = localizer["Substratum"];
     }
 
     public void InjectSimple(

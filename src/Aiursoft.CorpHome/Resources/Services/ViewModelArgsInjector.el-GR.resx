@@ -153,6 +153,9 @@
   <data name="Sign out" xml:space="preserve">
     <value>Αποσύνδεση</value>
   </data>
+  <data name="Substratum" xml:space="preserve">
+    <value>Υπόβαθρο</value>
+  </data>
   <data name="System" xml:space="preserve">
     <value>Σύστημα</value>
   </data>

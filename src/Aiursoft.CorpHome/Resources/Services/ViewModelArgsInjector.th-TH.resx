@@ -156,6 +156,9 @@
   <data name="Sign out" xml:space="preserve">
     <value>ออกจากระบบ</value>
   </data>
+  <data name="Substratum" xml:space="preserve">
+    <value>Substratum</value>
+  </data>
   <data name="System" xml:space="preserve">
     <value>ระบบ</value>
   </data>
