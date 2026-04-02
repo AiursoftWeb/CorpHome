@@ -8,9 +8,9 @@
 
 <vc:substratum-hero></vc:substratum-hero>
 
-<vc:substratum-pricing></vc:substratum-pricing>
+<vc:substratum-ecosystem></vc:substratum-ecosystem>
 
-<vc:anduinos-enterprise></vc:anduinos-enterprise>
+<vc:substratum-pricing></vc:substratum-pricing>
 
 <vc:marketing-footer></vc:marketing-footer>
 
@@ -18,4 +18,20 @@
 @section scripts {
     <script src="~/scripts/lucide.min.js"></script>
     <script>lucide.createIcons();</script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const observer = new IntersectionObserver((entries) => {
+                let delay = 0;
+                entries.forEach(entry => {
+                    if (entry.isIntersecting && !entry.target.classList.contains('float-in-visible')) {
+                        setTimeout(() => {
+                            entry.target.classList.add('float-in-visible');
+                        }, delay);
+                        delay += 50;
+                    }
+                });
+            }, { threshold: 0.1 });
+            document.querySelectorAll('.float-in').forEach(el => observer.observe(el));
+        });
+    </script>
 }

@@ -132,94 +132,98 @@
             </svg>
 
             @* Center hub node – AnduinOS *@
-            <div class="node-base node-center float-in" title="AnduinOS">
+            <a href="https://www.anduinos.com/" target="_blank" rel="noopener noreferrer" class="node-base node-center float-in" title="AnduinOS">
                 <img src="~/images/app_icons/anduinos.webp" alt="AnduinOS" />
-            </div>
+            </a>
 
-            @* Outer nodes – 7 app icons positioned around the hub *@
+            @* Outer nodes – 8 app icons positioned around the hub *@
             @* Top *@
-            <div class="node-base node-icon float-in" style="left: 50%; top: 14%;" title="Authentik">
+            <a href="https://auth.aiursoft.com/" target="_blank" rel="noopener noreferrer" class="node-base node-icon float-in" style="left: 50%; top: 14%;" title="Authentik">
                 <img src="~/images/app_icons/authentik.webp" alt="Authentik" />
-            </div>
+            </a>
             <div class="node-label float-in" style="left: 50%; top: 3%; transform: translateX(-50%);">Authentik</div>
 
             @* Top-right *@
-            <div class="node-base node-icon float-in" style="left: 76%; top: 22%;" title="Nextcloud">
+            <a href="https://nextcloud.com/" target="_blank" rel="noopener noreferrer" class="node-base node-icon float-in" style="left: 76%; top: 22%;" title="Nextcloud">
                 <img src="~/images/app_icons/nextcloud.webp" alt="Nextcloud" />
-            </div>
+            </a>
             <div class="node-label float-in" style="left: 84%; top: 17%;">Nextcloud</div>
 
             @* Right *@
-            <div class="node-base node-icon float-in" style="left: 86%; top: 50%;" title="Immich">
-                <img src="~/images/app_icons/immich.webp" alt="Immich" />
-            </div>
-            <div class="node-label float-in" style="left: 93%; top: 47%;">Immich</div>
+            <a href="https://polls.aiursoft.com/" target="_blank" rel="noopener noreferrer" class="node-base node-icon float-in" style="left: 86%; top: 50%;" title="Polls">
+                <img src="~/images/app_icons/polls.svg" alt="Polls" />
+            </a>
+            <div class="node-label float-in" style="left: 93%; top: 47%;">Polls</div>
 
             @* Bottom-right *@
-            <div class="node-base node-icon float-in" style="left: 76%; top: 78%;" title="Open WebUI">
-                <img src="~/images/app_icons/openwebui.webp" alt="Open WebUI" />
-            </div>
-            <div class="node-label float-in" style="left: 84%; top: 80%;">Open WebUI</div>
+            <a href="https://ollama.aiursoft.com/" target="_blank" rel="noopener noreferrer" class="node-base node-icon float-in" style="left: 76%; top: 78%;" title="Ollama Gateway">
+                <img src="~/images/app_icons/ollamagateway.svg" alt="Ollama Gateway" />
+            </a>
+            <div class="node-label float-in" style="left: 84%; top: 80%;">Ollama Gateway</div>
 
             @* Bottom *@
-            <div class="node-base node-icon float-in" style="left: 50%; top: 86%;" title="Zot Registry">
+            <a href="https://zotregistry.dev/" target="_blank" rel="noopener noreferrer" class="node-base node-icon float-in" style="left: 50%; top: 86%;" title="Zot Registry">
                 <img src="~/images/app_icons/zot.webp" alt="Zot" />
-            </div>
+            </a>
             <div class="node-label float-in" style="left: 50%; top: 96%; transform: translateX(-50%);">Zot</div>
 
             @* Bottom-left *@
-            <div class="node-base node-icon float-in" style="left: 24%; top: 78%;" title="Aiursoft Template">
-                <img src="~/images/app_icons/template.webp" alt="Template" />
-            </div>
-            <div class="node-label float-in" style="left: 8%; top: 80%;">Template</div>
+            <a href="https://employee.aiursoft.com/" target="_blank" rel="noopener noreferrer" class="node-base node-icon float-in" style="left: 24%; top: 78%;" title="Employee Center">
+                <img src="~/images/app_icons/employee.svg" alt="Employee Center" />
+            </a>
+            <div class="node-label float-in" style="left: 8%; top: 80%;">Employee Center</div>
 
             @* Left *@
-            <div class="node-base node-icon float-in" style="left: 14%; top: 50%;" title="Mailcow">
-                <img src="~/images/app_icons/mailcow.webp" alt="Mailcow" />
-            </div>
-            <div class="node-label float-in" style="left: 2%; top: 47%;">Mailcow</div>
+            <a href="https://stathub.aiursoft.com/" target="_blank" rel="noopener noreferrer" class="node-base node-icon float-in" style="left: 14%; top: 50%;" title="StatHub">
+                <img src="~/images/app_icons/stathub.svg" alt="StatHub" />
+            </a>
+            <div class="node-label float-in" style="left: 2%; top: 47%;">StatHub</div>
 
             @* Top-left *@
-            <div class="node-base node-icon float-in" style="left: 24%; top: 22%;" title="GitLab">
+            <a href="https://about.gitlab.com/" target="_blank" rel="noopener noreferrer" class="node-base node-icon float-in" style="left: 24%; top: 22%;" title="GitLab">
                 <img src="~/images/app_icons/gitlab.webp" alt="GitLab" />
-            </div>
+            </a>
             <div class="node-label float-in" style="left: 10%; top: 17%;">GitLab</div>
         </div>
 
         @* Mobile fallback: simple icon grid *@
         <div class="diagram-mobile-fallback flex-wrap justify-content-center gap-4 py-4" style="display: none;">
-            <div class="text-center float-in">
+            <a href="https://www.anduinos.com/" target="_blank" rel="noopener noreferrer" class="text-center float-in text-decoration-none">
+                <img src="~/images/app_icons/anduinos.webp" alt="AnduinOS" width="48" height="48" class="rounded-3 mb-1" />
+                <div class="extra-small text-gray-400">AnduinOS</div>
+            </a>
+            <a href="https://auth.aiursoft.com/" target="_blank" rel="noopener noreferrer" class="text-center float-in text-decoration-none">
                 <img src="~/images/app_icons/authentik.webp" alt="Authentik" width="48" height="48" class="rounded-3 mb-1" />
                 <div class="extra-small text-gray-400">Authentik</div>
-            </div>
-            <div class="text-center float-in">
+            </a>
+            <a href="https://nextcloud.com/" target="_blank" rel="noopener noreferrer" class="text-center float-in text-decoration-none">
                 <img src="~/images/app_icons/nextcloud.webp" alt="Nextcloud" width="48" height="48" class="rounded-3 mb-1" />
                 <div class="extra-small text-gray-400">Nextcloud</div>
-            </div>
-            <div class="text-center float-in">
-                <img src="~/images/app_icons/immich.webp" alt="Immich" width="48" height="48" class="rounded-3 mb-1" />
-                <div class="extra-small text-gray-400">Immich</div>
-            </div>
-            <div class="text-center float-in">
-                <img src="~/images/app_icons/openwebui.webp" alt="Open WebUI" width="48" height="48" class="rounded-3 mb-1" />
-                <div class="extra-small text-gray-400">Open WebUI</div>
-            </div>
-            <div class="text-center float-in">
-                <img src="~/images/app_icons/mailcow.webp" alt="Mailcow" width="48" height="48" class="rounded-3 mb-1" />
-                <div class="extra-small text-gray-400">Mailcow</div>
-            </div>
-            <div class="text-center float-in">
-                <img src="~/images/app_icons/gitlab.webp" alt="GitLab" width="48" height="48" class="rounded-3 mb-1" />
-                <div class="extra-small text-gray-400">GitLab</div>
-            </div>
-            <div class="text-center float-in">
-                <img src="~/images/app_icons/template.webp" alt="Template" width="48" height="48" class="rounded-3 mb-1" />
-                <div class="extra-small text-gray-400">Template</div>
-            </div>
-            <div class="text-center float-in">
+            </a>
+            <a href="https://polls.aiursoft.com/" target="_blank" rel="noopener noreferrer" class="text-center float-in text-decoration-none">
+                <img src="~/images/app_icons/polls.svg" alt="Polls" width="48" height="48" class="rounded-3 mb-1" />
+                <div class="extra-small text-gray-400">Polls</div>
+            </a>
+            <a href="https://ollama.aiursoft.com/" target="_blank" rel="noopener noreferrer" class="text-center float-in text-decoration-none">
+                <img src="~/images/app_icons/ollamagateway.svg" alt="Ollama Gateway" width="48" height="48" class="rounded-3 mb-1" />
+                <div class="extra-small text-gray-400">Ollama Gateway</div>
+            </a>
+            <a href="https://zotregistry.dev/" target="_blank" rel="noopener noreferrer" class="text-center float-in text-decoration-none">
                 <img src="~/images/app_icons/zot.webp" alt="Zot" width="48" height="48" class="rounded-3 mb-1" />
                 <div class="extra-small text-gray-400">Zot</div>
-            </div>
+            </a>
+            <a href="https://employee.aiursoft.com/" target="_blank" rel="noopener noreferrer" class="text-center float-in text-decoration-none">
+                <img src="~/images/app_icons/employee.svg" alt="Employee Center" width="48" height="48" class="rounded-3 mb-1" />
+                <div class="extra-small text-gray-400">Employee Center</div>
+            </a>
+            <a href="https://stathub.aiursoft.com/" target="_blank" rel="noopener noreferrer" class="text-center float-in text-decoration-none">
+                <img src="~/images/app_icons/stathub.svg" alt="StatHub" width="48" height="48" class="rounded-3 mb-1" />
+                <div class="extra-small text-gray-400">StatHub</div>
+            </a>
+            <a href="https://about.gitlab.com/" target="_blank" rel="noopener noreferrer" class="text-center float-in text-decoration-none">
+                <img src="~/images/app_icons/gitlab.webp" alt="GitLab" width="48" height="48" class="rounded-3 mb-1" />
+                <div class="extra-small text-gray-400">GitLab</div>
+            </a>
         </div>
 
     </div>

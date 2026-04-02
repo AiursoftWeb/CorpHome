@@ -1,0 +1,216 @@
+@inject Microsoft.Extensions.Localization.IStringLocalizer<Aiursoft.CorpHome.Views.Shared.Components.SubstratumEcosystem.SubstratumEcosystem> Localizer
+
+<section class="py-6 bg-darker">
+    <div class="container">
+
+        @* Section header *@
+        <div class="row justify-content-center mb-5 text-center">
+            <div class="col-lg-8 col-md-10">
+                <span class="text-uppercase text-primary text-sm fw-medium mb-1 d-block">@Localizer["App Ecosystem"]</span>
+                <h2 class="display-6 fw-light mb-4 text-white">@Localizer["One platform. Every tool your team needs."]</h2>
+                <p class="lead text-gray-400">@Localizer["Substratum unifies your entire software stack — from identity and source control to media, collaboration, and developer tools — on a single self-hosted server."]</p>
+            </div>
+        </div>
+
+        @* ──────────────────────────────────────
+           Two-ring radial diagram (desktop)
+           Canvas: 1000 × 500, center (500, 250)
+
+           Center      : AnduinOS
+           Inner ring  : GitLab (0°) · StatHub (120°) · Nextcloud (240°)   rx=130, ry=65
+           Outer ring  : 9 nodes at 40° steps from top
+             0°  Authentik  → SVG(500, 65)   → 50%, 13%
+            40°  Immich     → SVG(738, 108)  → 74%, 22%
+            80°  Mark HTML  → SVG(864, 218)  → 86%, 44%
+           120°  Polls      → SVG(820, 343)  → 82%, 69%
+           160°  Employee   → SVG(627, 424)  → 63%, 85%
+           200°  AiurDrive  → SVG(373, 424)  → 37%, 85%
+           240°  Warp       → SVG(180, 343)  → 18%, 69%
+           280°  Git Mirror → SVG(136, 218)  → 14%, 44%
+           320°  C++ Runner → SVG(262, 108)  → 26%, 22%
+           ────────────────────────────────────── *@
+        <div class="diagram-container">
+
+            @* SVG background — 2 orbit ellipses + 9 radial spokes extending to canvas edge *@
+            <svg class="bg-lines" viewBox="0 0 1000 500" preserveAspectRatio="xMidYMid meet">
+
+                @* Faint innermost halo *@
+                <ellipse cx="500" cy="250" rx="55" ry="28"
+                         fill="none" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+
+                @* Inner-orbit ring — matches the 3 inner-ring node positions *@
+                <ellipse cx="500" cy="250" rx="130" ry="65"
+                         fill="none" stroke="rgba(255,255,255,0.12)" stroke-width="1.5"
+                         stroke-dasharray="6 3"/>
+
+                @* Outer-orbit ring — matches the 9 outer-ring node positions *@
+                <ellipse cx="500" cy="250" rx="370" ry="185"
+                         fill="none" stroke="rgba(255,255,255,0.07)" stroke-width="1"
+                         stroke-dasharray="4 4"/>
+
+                @* 9 radial spokes from center (500,250) extended to canvas edge *@
+                @* 0°   top          *@ <line x1="500" y1="250" x2="500"  y2="0"   class="line-path"/>
+                @* 40°  top-right    *@ <line x1="500" y1="250" x2="710"  y2="0"   class="line-path"/>
+                @* 80°  right        *@ <line x1="500" y1="250" x2="1000" y2="162" class="line-path"/>
+                @* 120° right-bottom *@ <line x1="500" y1="250" x2="933"  y2="500" class="line-path"/>
+                @* 160° bottom-right *@ <line x1="500" y1="250" x2="591"  y2="500" class="line-path"/>
+                @* 200° bottom-left  *@ <line x1="500" y1="250" x2="409"  y2="500" class="line-path"/>
+                @* 240° left-bottom  *@ <line x1="500" y1="250" x2="67"   y2="500" class="line-path"/>
+                @* 280° left         *@ <line x1="500" y1="250" x2="0"    y2="162" class="line-path"/>
+                @* 320° top-left     *@ <line x1="500" y1="250" x2="290"  y2="0"   class="line-path"/>
+
+                @* Larger dots at inner-ring node positions (on spokes 0°, 120°, 240°) *@
+                <circle class="line-dot" cx="500" cy="185" r="4"/>
+                <circle class="line-dot" cx="613" cy="283" r="4"/>
+                <circle class="line-dot" cx="387" cy="283" r="4"/>
+
+                @* Faint dots where the other 6 spokes cross the inner ellipse *@
+                <circle class="line-dot" cx="584" cy="200" r="3" opacity="0.5"/>
+                <circle class="line-dot" cx="628" cy="239" r="3" opacity="0.5"/>
+                <circle class="line-dot" cx="544" cy="311" r="3" opacity="0.5"/>
+                <circle class="line-dot" cx="456" cy="311" r="3" opacity="0.5"/>
+                <circle class="line-dot" cx="372" cy="239" r="3" opacity="0.5"/>
+                <circle class="line-dot" cx="416" cy="200" r="3" opacity="0.5"/>
+            </svg>
+
+            @* ══ CENTER HUB — AnduinOS ══ *@
+            <div class="node-base node-center float-in" title="AnduinOS">
+                <img src="~/images/app_icons/anduinos.webp" alt="AnduinOS" />
+            </div>
+
+            @* ══ INNER RING — 3 nodes at 0°, 120°, 240° ══ *@
+
+            @* GitLab — top (0°), SVG(500,185), CSS 50%/37% *@
+            <div class="node-base node-icon float-in" style="left: 50%; top: 37%;" title="GitLab">
+                <img src="~/images/app_icons/gitlab.webp" alt="GitLab" />
+            </div>
+            <div class="node-label float-in" style="left: 50%; top: 26%; transform: translateX(-50%);">GitLab</div>
+
+            @* StatHub — bottom-right (120°), SVG(613,283), CSS 61%/57% *@
+            <div class="node-base node-icon float-in" style="left: 61%; top: 57%;" title="StatHub">
+                <img src="~/images/app_icons/stathub.svg" alt="StatHub" />
+            </div>
+            <div class="node-label float-in" style="left: 67%; top: 62%;">StatHub</div>
+
+            @* Nextcloud — bottom-left (240°), SVG(387,283), CSS 39%/57% *@
+            <div class="node-base node-icon float-in" style="left: 39%; top: 57%;" title="Nextcloud">
+                <img src="~/images/app_icons/nextcloud.webp" alt="Nextcloud" />
+            </div>
+            <div class="node-label float-in" style="right: 64%; top: 62%;">Nextcloud</div>
+
+            @* ══ OUTER RING — 9 nodes at 40° steps ══ *@
+
+            @* Authentik — top (0°), CSS 50%/13% *@
+            <div class="node-base node-icon float-in" style="left: 50%; top: 13%;" title="Authentik — Identity & SSO">
+                <img src="~/images/app_icons/authentik.webp" alt="Authentik" />
+            </div>
+            <div class="node-label float-in" style="left: 50%; top: 4%; transform: translateX(-50%);">Authentik</div>
+
+            @* Immich — top-right (40°), CSS 74%/22% *@
+            <div class="node-base node-icon float-in" style="left: 74%; top: 22%;" title="Immich — Photo management">
+                <img src="~/images/app_icons/immich.webp" alt="Immich" />
+            </div>
+            <div class="node-label float-in" style="left: 80%; top: 16%;">Immich</div>
+
+            @* Mark To HTML — right (80°), CSS 86%/44% *@
+            <div class="node-base node-icon float-in" style="left: 86%; top: 44%;" title="Mark To HTML — Document conversion">
+                <img src="~/images/app_icons/mth.svg" alt="Mark To HTML" />
+            </div>
+            <div class="node-label float-in" style="left: 92%; top: 41%;">Mark To HTML</div>
+
+            @* Polls — right-bottom (120°), CSS 82%/69% *@
+            <div class="node-base node-icon float-in" style="left: 82%; top: 69%;" title="Polls — Team voting">
+                <img src="~/images/app_icons/polls.svg" alt="Polls" />
+            </div>
+            <div class="node-label float-in" style="left: 88%; top: 68%;">Polls</div>
+
+            @* Employee Center — bottom-right (160°), CSS 63%/85% *@
+            <div class="node-base node-icon float-in" style="left: 63%; top: 85%;" title="Employee Center — HR portal">
+                <img src="~/images/app_icons/employee.svg" alt="Employee Center" />
+            </div>
+            <div class="node-label float-in" style="left: 59%; top: 93%; transform: translateX(-50%);">Employee Center</div>
+
+            @* AiurDrive — bottom-left (200°), CSS 37%/85% *@
+            <div class="node-base node-icon float-in" style="left: 37%; top: 85%;" title="AiurDrive — File storage">
+                <img src="~/images/app_icons/aiurdrive.svg" alt="AiurDrive" />
+            </div>
+            <div class="node-label float-in" style="right: 66%; top: 93%; transform: translateX(50%);">AiurDrive</div>
+
+            @* Warp — left-bottom (240°), CSS 18%/69% *@
+            <div class="node-base node-icon float-in" style="left: 18%; top: 69%;" title="Warp — Network tunnelling">
+                <img src="~/images/app_icons/warp.svg" alt="Warp" />
+            </div>
+            <div class="node-label float-in" style="right: 84%; top: 68%;">Warp</div>
+
+            @* Git Mirror Server — left (280°), CSS 14%/44% *@
+            <div class="node-base node-icon float-in" style="left: 14%; top: 44%;" title="Git Mirror Server — Repository sync">
+                <img src="~/images/app_icons/gitmirror.svg" alt="Git Mirror Server" />
+            </div>
+            <div class="node-label float-in" style="right: 88%; top: 41%;">Git Mirror</div>
+
+            @* C++ Runner — top-left (320°), CSS 26%/22% *@
+            <div class="node-base node-icon float-in" style="left: 26%; top: 22%;" title="C++ Runner — Online code execution">
+                <img src="~/images/app_icons/cpprunner.svg" alt="C++ Runner" />
+            </div>
+            <div class="node-label float-in" style="right: 76%; top: 16%;">C++ Runner</div>
+
+        </div>
+
+        @* Mobile fallback: simple icon grid *@
+        <div class="diagram-mobile-fallback flex-wrap justify-content-center gap-3 py-4" style="display: none;">
+            <div class="text-center float-in">
+                <img src="~/images/app_icons/anduinos.webp" alt="AnduinOS" width="48" height="48" class="rounded-3 mb-1"/>
+                <div class="extra-small text-gray-400">AnduinOS</div>
+            </div>
+            <div class="text-center float-in">
+                <img src="~/images/app_icons/authentik.webp" alt="Authentik" width="48" height="48" class="rounded-3 mb-1"/>
+                <div class="extra-small text-gray-400">Authentik</div>
+            </div>
+            <div class="text-center float-in">
+                <img src="~/images/app_icons/gitlab.webp" alt="GitLab" width="48" height="48" class="rounded-3 mb-1"/>
+                <div class="extra-small text-gray-400">GitLab</div>
+            </div>
+            <div class="text-center float-in">
+                <img src="~/images/app_icons/stathub.svg" alt="StatHub" width="48" height="48" class="rounded-3 mb-1"/>
+                <div class="extra-small text-gray-400">StatHub</div>
+            </div>
+            <div class="text-center float-in">
+                <img src="~/images/app_icons/nextcloud.webp" alt="Nextcloud" width="48" height="48" class="rounded-3 mb-1"/>
+                <div class="extra-small text-gray-400">Nextcloud</div>
+            </div>
+            <div class="text-center float-in">
+                <img src="~/images/app_icons/immich.webp" alt="Immich" width="48" height="48" class="rounded-3 mb-1"/>
+                <div class="extra-small text-gray-400">Immich</div>
+            </div>
+            <div class="text-center float-in">
+                <img src="~/images/app_icons/mth.svg" alt="Mark To HTML" width="48" height="48" class="rounded-3 mb-1"/>
+                <div class="extra-small text-gray-400">Mark To HTML</div>
+            </div>
+            <div class="text-center float-in">
+                <img src="~/images/app_icons/polls.svg" alt="Polls" width="48" height="48" class="rounded-3 mb-1"/>
+                <div class="extra-small text-gray-400">Polls</div>
+            </div>
+            <div class="text-center float-in">
+                <img src="~/images/app_icons/employee.svg" alt="Employee Center" width="48" height="48" class="rounded-3 mb-1"/>
+                <div class="extra-small text-gray-400">Employee Center</div>
+            </div>
+            <div class="text-center float-in">
+                <img src="~/images/app_icons/aiurdrive.svg" alt="AiurDrive" width="48" height="48" class="rounded-3 mb-1"/>
+                <div class="extra-small text-gray-400">AiurDrive</div>
+            </div>
+            <div class="text-center float-in">
+                <img src="~/images/app_icons/warp.svg" alt="Warp" width="48" height="48" class="rounded-3 mb-1"/>
+                <div class="extra-small text-gray-400">Warp</div>
+            </div>
+            <div class="text-center float-in">
+                <img src="~/images/app_icons/gitmirror.svg" alt="Git Mirror Server" width="48" height="48" class="rounded-3 mb-1"/>
+                <div class="extra-small text-gray-400">Git Mirror</div>
+            </div>
+            <div class="text-center float-in">
+                <img src="~/images/app_icons/cpprunner.svg" alt="C++ Runner" width="48" height="48" class="rounded-3 mb-1"/>
+                <div class="extra-small text-gray-400">C++ Runner</div>
+            </div>
+        </div>
+
+    </div>
+</section>
