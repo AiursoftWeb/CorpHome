@@ -54,6 +54,9 @@
   <data name="Achieve more with Aiursoft Template" xml:space="preserve">
     <value>Logra más con Aiursoft Template</value>
   </data>
+  <data name="AI Agents Integration" xml:space="preserve">
+    <value>Integración de Agentes de IA</value>
+  </data>
   <data name="AI Era" xml:space="preserve">
     <value>Era de la IA</value>
   </data>
@@ -173,6 +176,9 @@
   </data>
   <data name="Break Vendor Lock-in" xml:space="preserve">
     <value>Romper el bloqueo del proveedor</value>
+  </data>
+  <data name="Browse Source Code" xml:space="preserve">
+    <value>Explorar código fuente</value>
   </data>
   <data name="Build once, run anywhere. Fully containerized architecture." xml:space="preserve">
     <value>Construye una vez, ejecuta en cualquier lugar. Arquitectura completamente contenerizada.</value>
@@ -383,6 +389,9 @@
   </data>
   <data name="Every access is verified, every connection is encrypted, every action is audited." xml:space="preserve">
     <value>Cada acceso se verifica, cada conexión se cifra y cada acción se audita.</value>
+  </data>
+  <data name="Experience Aiursoft AI" xml:space="preserve">
+    <value>Prueba la IA de Aiursoft</value>
   </data>
   <data name="Explore on GitHub" xml:space="preserve">
     <value>Explora en GitHub</value>
@@ -611,6 +620,9 @@
   </data>
   <data name="Offline Capable" xml:space="preserve">
     <value>Capaz de funcionar sin conexión</value>
+  </data>
+  <data name="OllamaGateway has been officially tested and is fully compatible with popular ecosystem tools including Open-WebUI, Opencode, and Roocode. Its robust API translation makes it the ideal choice for deploying autonomous AI agents." xml:space="preserve">
+    <value>OllamaGateway ha sido oficialmente probado y es totalmente compatible con herramientas populares del ecosistema, incluyendo Open-WebUI, Opencode y Roocode. Su robusta traducción de API lo convierte en la opción ideal para implementar agentes de IA autónomos.</value>
   </data>
   <data name="On-premise offline deployment" xml:space="preserve">
     <value>Despliegue local sin conexión</value>

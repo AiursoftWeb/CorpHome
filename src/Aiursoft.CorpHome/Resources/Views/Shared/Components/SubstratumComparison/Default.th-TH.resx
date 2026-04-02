@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="24/7 dedicated support line" xml:space="preserve">
+    <value>24/7 dedicated support line</value>
+  </data>
+  <data name="7×24 On-call Support" xml:space="preserve">
+    <value>การสนับสนุนแบบออนไลน์ตลอด 24 ชั่วโมง 7 วัน</value>
+  </data>
+  <data name="AI &amp; Intelligence" xml:space="preserve">
+    <value>AI &amp; Intelligence</value>
+  </data>
+  <data name="AI Knowledge Base Construction" xml:space="preserve">
+    <value>การสร้างฐานความรู้ AI</value>
+  </data>
+  <data name="Aiursoft-hosted Email Service" xml:space="preserve">
+    <value>บริการอีเมลที่โฮสต์โดย Aiursoft</value>
+  </data>
+  <data name="AnduinOS Enterprise (Desktop OS)" xml:space="preserve">
+    <value>AnduinOS Enterprise (Desktop OS)</value>
+  </data>
+  <data name="Business hours email support" xml:space="preserve">
+    <value>การสนับสนุนทางอีเมลในช่วงเวลาทำการ</value>
+  </data>
+  <data name="Business hours phone support" xml:space="preserve">
+    <value>บริการโทรศัพท์ในช่วงเวลาทำการ</value>
+  </data>
+  <data name="Cloud Office Suite" xml:space="preserve">
+    <value>ชุดสำนักงานบนคลาวด์</value>
+  </data>
+  <data name="Communication &amp; Email" xml:space="preserve">
+    <value>การสื่อสารและอีเมล</value>
+  </data>
+  <data name="Compare Substratum plans" xml:space="preserve">
+    <value>เปรียบเทียบแผน Substratum</value>
+  </data>
+  <data name="Core" xml:space="preserve">
+    <value>พื้นฐาน</value>
+  </data>
+  <data name="Custom AI pipeline" xml:space="preserve">
+    <value>Custom AI pipeline</value>
+  </data>
+  <data name="Custom Container Development" xml:space="preserve">
+    <value>การพัฒนาคอนเทนเนอร์ตามความต้องการ</value>
+  </data>
+  <data name="Custom speech synthesis/recognition, search integration &amp; deep investigation pipelines" xml:space="preserve">
+    <value>การสังเคราะห์/รู้จำเสียงพูดแบบกำหนดเอง การผสานรวมการค้นหา และระบบตรวจสอบเชิงลึก</value>
+  </data>
+  <data name="Custom TTS / STT, Search Engine &amp; Deep Research" xml:space="preserve">
+    <value>TTS / STT แบบกำหนดเอง, เครื่องค้นหา &amp; การวิจัยเชิงลึก</value>
+  </data>
+  <data name="Deployment &amp; Hosting" xml:space="preserve">
+    <value>การปรับใช้และการโฮสต์</value>
+  </data>
+  <data name="DevOps &amp; Engineering" xml:space="preserve">
+    <value>DevOps &amp; Engineering</value>
+  </data>
+  <data name="Document Conversion" xml:space="preserve">
+    <value>การแปลงเอกสาร</value>
+  </data>
+  <data name="Enterprise" xml:space="preserve">
+    <value>Enterprise</value>
+  </data>
+  <data name="Enterprise Customization" xml:space="preserve">
+    <value>การปรับแต่งระดับองค์กร</value>
+  </data>
+  <data name="Enterprise Scale Deployment" xml:space="preserve">
+    <value>การปรับใช้ระดับองค์กร</value>
+  </data>
+  <data name="Every plan is built on the same foundational stack. Higher tiers add more applications, on-premise deployment, and dedicated enterprise support on top." xml:space="preserve">
+    <value>แผนทั้งหมดสร้างขึ้นบนโครงสร้างพื้นฐานเดียวกัน ระดับที่สูงขึ้นจะเพิ่มแอปพลิเคชันเพิ่มเติม การติดตั้งบนเครื่อง และบริการสนับสนุนระดับองค์กรเฉพาะทางเพิ่มเติม</value>
+  </data>
+  <data name="File Storage" xml:space="preserve">
+    <value>การจัดเก็บไฟล์</value>
+  </data>
+  <data name="Fleet device policy management" xml:space="preserve">
+    <value>การจัดการนโยบายอุปกรณ์ fleets</value>
+  </data>
+  <data name="Hardware key enforcement" xml:space="preserve">
+    <value>การบังคับใช้กุญแจฮาร์ดแวร์</value>
+  </data>
+  <data name="Hosted by Aiursoft (SaaS)" xml:space="preserve">
+    <value>โฮสต์โดย Aiursoft (SaaS)</value>
+  </data>
+  <data name="Hosted by Aiursoft, not on-premise" xml:space="preserve">
+    <value>โฮสต์โดย Aiursoft ไม่ใช่แบบติดตั้งในองค์กร</value>
+  </data>
+  <data name="HR &amp; Org Portal" xml:space="preserve">
+    <value>HR &amp; Org Portal</value>
+  </data>
+  <data name="Identity &amp; Security" xml:space="preserve">
+    <value>Identity &amp; Security</value>
+  </data>
+  <data name="Included" xml:space="preserve">
+    <value>สิ่งที่รวมอยู่</value>
+  </data>
+  <data name="Local LLM API Gateway" xml:space="preserve">
+    <value>เกตเวย์ API LLM ท้องถิ่น</value>
+  </data>
+  <data name="Managed endpoint OS" xml:space="preserve">
+    <value>ระบบปฏิบัติการจุดปลายแบบจัดการ</value>
+  </data>
+  <data name="Managed, zero-ops" xml:space="preserve">
+    <value>จัดการแล้ว ไม่ต้องดูแลเอง</value>
+  </data>
+  <data name="Max User Accounts" xml:space="preserve">
+    <value>จำนวนผู้ใช้งานสูงสุด</value>
+  </data>
+  <data name="MDM Device Compliance" xml:space="preserve">
+    <value>MDM Device Compliance</value>
+  </data>
+  <data name="Media &amp; Personal" xml:space="preserve">
+    <value>สื่อ &amp; ส่วนตัว</value>
+  </data>
+  <data name="mo" xml:space="preserve">
+    <value>เดือน</value>
+  </data>
+  <data name="Multi-site &amp; HA capable" xml:space="preserve">
+    <value>รองรับหลายไซต์และมีความพร้อมใช้งานสูง</value>
+  </data>
+  <data name="Not included" xml:space="preserve">
+    <value>ไม่รวม</value>
+  </data>
+  <data name="Not included in Core" xml:space="preserve">
+    <value>ไม่รวมอยู่ใน Core</value>
+  </data>
+  <data name="Not included in Startup" xml:space="preserve">
+    <value>ไม่รวมอยู่ใน Startup</value>
+  </data>
+  <data name="On-premise / Air-gapped Deployment" xml:space="preserve">
+    <value>การติดตั้งในองค์กร / การติดตั้งแบบแยกขาด</value>
+  </data>
+  <data name="Online Code Execution" xml:space="preserve">
+    <value>การดำเนินการโค้ดออนไลน์</value>
+  </data>
+  <data name="PaddleOCR-based" xml:space="preserve">
+    <value>ใช้ PaddleOCR</value>
+  </data>
+  <data name="Partial / limited" xml:space="preserve">
+    <value>บางส่วน / จำกัด</value>
+  </data>
+  <data name="PDF ingestion &amp; vector store construction via PaddleOCR" xml:space="preserve">
+    <value>การนำเข้า PDF และการสร้างเวกเตอร์สโตร์ผ่าน PaddleOCR</value>
+  </data>
+  <data name="PDF Processing &amp; Vector Database" xml:space="preserve">
+    <value>การประมวลผล PDF และฐานข้อมูลเวกเตอร์</value>
+  </data>
+  <data name="Photo &amp; Video Management" xml:space="preserve">
+    <value>การจัดการรูปภาพและวิดีโอ</value>
+  </data>
+  <data name="Productivity &amp; Collaboration" xml:space="preserve">
+    <value>ผลิตภาพและการร่วมมือ</value>
+  </data>
+  <data name="Repository Sync" xml:space="preserve">
+    <value>การซิงค์รีโพสิทอรี</value>
+  </data>
+  <data name="SaaS only" xml:space="preserve">
+    <value>เฉพาะ SaaS</value>
+  </data>
+  <data name="Scale &amp; Support" xml:space="preserve">
+    <value>การขยายขนาดและการสนับสนุน</value>
+  </data>
+  <data name="Self-hosted LLM inference gateway" xml:space="preserve">
+    <value>เกตเวย์การอนุมาน LLM แบบโฮสต์ด้วยตนเอง</value>
+  </data>
+  <data name="Self-hosted on your own servers" xml:space="preserve">
+    <value>โฮสต์ด้วยตนเองบนเซิร์ฟเวอร์ของคุณเอง</value>
+  </data>
+  <data name="Server Monitoring" xml:space="preserve">
+    <value>การตรวจสอบเซิร์ฟเวอร์</value>
+  </data>
+  <data name="Service / Feature" xml:space="preserve">
+    <value>บริการ / ฟีเจอร์</value>
+  </data>
+  <data name="Single-site on-premise" xml:space="preserve">
+    <value>การติดตั้งแบบบนเซิร์ฟเวอร์ในองค์กรเดียว</value>
+  </data>
+  <data name="Source Control &amp; CI/CD" xml:space="preserve">
+    <value>การควบคุมแหล่งที่มาและการส่งมอบอย่างต่อเนื่อง</value>
+  </data>
+  <data name="SSO / Identity Gateway" xml:space="preserve">
+    <value>SSO / เกตเวย์ประจำตัว</value>
+  </data>
+  <data name="Startup" xml:space="preserve">
+    <value>Startup</value>
+  </data>
+  <data name="Tailored to your stack" xml:space="preserve">
+    <value>ปรับแต่งให้เหมาะกับระบบของคุณ</value>
+  </data>
+  <data name="Talk to an Architect" xml:space="preserve">
+    <value>พูดคุยกับสถาปนิก</value>
+  </data>
+  <data name="Team Voting" xml:space="preserve">
+    <value>การโหวตของทีม</value>
+  </data>
+  <data name="Unlimited" xml:space="preserve">
+    <value>ไม่จำกัด</value>
+  </data>
+  <data name="URL Shortener" xml:space="preserve">
+    <value>URL Shortener</value>
+  </data>
+  <data name="user" xml:space="preserve">
+    <value>ผู้ใช้</value>
+  </data>
+  <data name="What&apos;s Included" xml:space="preserve">
+    <value>สิ่งที่มีในแพ็กเกจ</value>
+  </data>
+  <data name="Zero Trust Yubikey Auth" xml:space="preserve">
+    <value>การพิสูจน์ตัวตนด้วย Yubikey แบบ Zero Trust</value>
+  </data>
+
+</root>

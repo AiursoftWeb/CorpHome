@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="24/7 dedicated support line" xml:space="preserve">
+    <value>Linha de suporte dedicada 24/7</value>
+  </data>
+  <data name="7×24 On-call Support" xml:space="preserve">
+    <value>Suporte 24/7 em regime de plantão</value>
+  </data>
+  <data name="AI &amp; Intelligence" xml:space="preserve">
+    <value>IA &amp; Inteligência</value>
+  </data>
+  <data name="AI Knowledge Base Construction" xml:space="preserve">
+    <value>Construção da Base de Conhecimento de IA</value>
+  </data>
+  <data name="Aiursoft-hosted Email Service" xml:space="preserve">
+    <value>Serviço de E-mail alojado pela Aiursoft</value>
+  </data>
+  <data name="AnduinOS Enterprise (Desktop OS)" xml:space="preserve">
+    <value>AnduinOS Enterprise (Sistema Operativo de Escritório)</value>
+  </data>
+  <data name="Business hours email support" xml:space="preserve">
+    <value>Suporte por e-mail em horário comercial</value>
+  </data>
+  <data name="Business hours phone support" xml:space="preserve">
+    <value>Suporte telefónico em horário comercial</value>
+  </data>
+  <data name="Cloud Office Suite" xml:space="preserve">
+    <value>Conjunto de Escritório na Nuvem</value>
+  </data>
+  <data name="Communication &amp; Email" xml:space="preserve">
+    <value>Comunicação e Correio</value>
+  </data>
+  <data name="Compare Substratum plans" xml:space="preserve">
+    <value>Comparar planos Substratum</value>
+  </data>
+  <data name="Core" xml:space="preserve">
+    <value>Núcleo</value>
+  </data>
+  <data name="Custom AI pipeline" xml:space="preserve">
+    <value>Pipeline de IA personalizado</value>
+  </data>
+  <data name="Custom Container Development" xml:space="preserve">
+    <value>Desenvolvimento de Contentores Personalizados</value>
+  </data>
+  <data name="Custom speech synthesis/recognition, search integration &amp; deep investigation pipelines" xml:space="preserve">
+    <value>Síntese e reconhecimento de voz personalizados, integração de pesquisa e pipelines de investigação profunda</value>
+  </data>
+  <data name="Custom TTS / STT, Search Engine &amp; Deep Research" xml:space="preserve">
+    <value>TTS/STT personalizados, Motor de Pesquisa e Investigação Profunda</value>
+  </data>
+  <data name="Deployment &amp; Hosting" xml:space="preserve">
+    <value>Implantação e Alojamento</value>
+  </data>
+  <data name="DevOps &amp; Engineering" xml:space="preserve">
+    <value>DevOps &amp; Engenharia</value>
+  </data>
+  <data name="Document Conversion" xml:space="preserve">
+    <value>Conversão de Documentos</value>
+  </data>
+  <data name="Enterprise" xml:space="preserve">
+    <value>Empresarial</value>
+  </data>
+  <data name="Enterprise Customization" xml:space="preserve">
+    <value>Personalização Empresarial</value>
+  </data>
+  <data name="Enterprise Scale Deployment" xml:space="preserve">
+    <value>Implantação Empresarial em Escala</value>
+  </data>
+  <data name="Every plan is built on the same foundational stack. Higher tiers add more applications, on-premise deployment, and dedicated enterprise support on top." xml:space="preserve">
+    <value>Cada plano é construído sobre a mesma base fundamental. As camadas superiores adicionam mais aplicações, implementação on-premise e suporte empresarial dedicado por cima.</value>
+  </data>
+  <data name="File Storage" xml:space="preserve">
+    <value>Armazenamento de Ficheiros</value>
+  </data>
+  <data name="Fleet device policy management" xml:space="preserve">
+    <value>Gestão de políticas de dispositivos de frota</value>
+  </data>
+  <data name="Hardware key enforcement" xml:space="preserve">
+    <value>Aplicação de chaves de hardware</value>
+  </data>
+  <data name="Hosted by Aiursoft (SaaS)" xml:space="preserve">
+    <value>Alojado pela Aiursoft (SaaS)</value>
+  </data>
+  <data name="Hosted by Aiursoft, not on-premise" xml:space="preserve">
+    <value>Hospedado pela Aiursoft, não on-premise</value>
+  </data>
+  <data name="HR &amp; Org Portal" xml:space="preserve">
+    <value>Portal de RH e Organização</value>
+  </data>
+  <data name="Identity &amp; Security" xml:space="preserve">
+    <value>Identidade &amp; Segurança</value>
+  </data>
+  <data name="Included" xml:space="preserve">
+    <value>Incluído</value>
+  </data>
+  <data name="Local LLM API Gateway" xml:space="preserve">
+    <value>Gateway de API de LLM Local</value>
+  </data>
+  <data name="Managed endpoint OS" xml:space="preserve">
+    <value>Sistema operativo de terminal gerido</value>
+  </data>
+  <data name="Managed, zero-ops" xml:space="preserve">
+    <value>Gerido, sem operações</value>
+  </data>
+  <data name="Max User Accounts" xml:space="preserve">
+    <value>Máximo de contas de utilizador</value>
+  </data>
+  <data name="MDM Device Compliance" xml:space="preserve">
+    <value>Conformidade do Dispositivo MDM</value>
+  </data>
+  <data name="Media &amp; Personal" xml:space="preserve">
+    <value>Média e Pessoal</value>
+  </data>
+  <data name="mo" xml:space="preserve">
+    <value>mês</value>
+  </data>
+  <data name="Multi-site &amp; HA capable" xml:space="preserve">
+    <value>Multi-site &amp; HA capáz</value>
+  </data>
+  <data name="Not included" xml:space="preserve">
+    <value>Não incluído</value>
+  </data>
+  <data name="Not included in Core" xml:space="preserve">
+    <value>Não incluído no Core</value>
+  </data>
+  <data name="Not included in Startup" xml:space="preserve">
+    <value>Não incluído no arranque</value>
+  </data>
+  <data name="On-premise / Air-gapped Deployment" xml:space="preserve">
+    <value>Implantação On-premise / Isolada (Air-gapped)</value>
+  </data>
+  <data name="Online Code Execution" xml:space="preserve">
+    <value>Execução de Código Online</value>
+  </data>
+  <data name="PaddleOCR-based" xml:space="preserve">
+    <value>baseado no PaddleOCR</value>
+  </data>
+  <data name="Partial / limited" xml:space="preserve">
+    <value>Parcial / limitado</value>
+  </data>
+  <data name="PDF ingestion &amp; vector store construction via PaddleOCR" xml:space="preserve">
+    <value>Ingestão de PDF e construção de repositório vetorial via PaddleOCR</value>
+  </data>
+  <data name="PDF Processing &amp; Vector Database" xml:space="preserve">
+    <value>Processamento de PDF e Base de Dados Vetorial</value>
+  </data>
+  <data name="Photo &amp; Video Management" xml:space="preserve">
+    <value>Gestão de Fotos e Vídeos</value>
+  </data>
+  <data name="Productivity &amp; Collaboration" xml:space="preserve">
+    <value>Produtividade e Colaboração</value>
+  </data>
+  <data name="Repository Sync" xml:space="preserve">
+    <value>Sincronização de Repositório</value>
+  </data>
+  <data name="SaaS only" xml:space="preserve">
+    <value>Apenas SaaS</value>
+  </data>
+  <data name="Scale &amp; Support" xml:space="preserve">
+    <value>Escala e Suporte</value>
+  </data>
+  <data name="Self-hosted LLM inference gateway" xml:space="preserve">
+    <value>Porta de inferência LLM auto-hospedada</value>
+  </data>
+  <data name="Self-hosted on your own servers" xml:space="preserve">
+    <value>Auto-hospedado nos seus próprios servidores</value>
+  </data>
+  <data name="Server Monitoring" xml:space="preserve">
+    <value>Monitorização de Servidores</value>
+  </data>
+  <data name="Service / Feature" xml:space="preserve">
+    <value>Serviço / Funcionalidade</value>
+  </data>
+  <data name="Single-site on-premise" xml:space="preserve">
+    <value>Implantação única local</value>
+  </data>
+  <data name="Source Control &amp; CI/CD" xml:space="preserve">
+    <value>Controlo de Versão &amp; CI/CD</value>
+  </data>
+  <data name="SSO / Identity Gateway" xml:space="preserve">
+    <value>SSO / Gateway de Identidade</value>
+  </data>
+  <data name="Startup" xml:space="preserve">
+    <value>Startup</value>
+  </data>
+  <data name="Tailored to your stack" xml:space="preserve">
+    <value>Personalizado para o seu stack</value>
+  </data>
+  <data name="Talk to an Architect" xml:space="preserve">
+    <value>Fale com um Arquiteto</value>
+  </data>
+  <data name="Team Voting" xml:space="preserve">
+    <value>Votação da Equipa</value>
+  </data>
+  <data name="Unlimited" xml:space="preserve">
+    <value>Ilimitado</value>
+  </data>
+  <data name="URL Shortener" xml:space="preserve">
+    <value>Encurtador de URL</value>
+  </data>
+  <data name="user" xml:space="preserve">
+    <value>utilizador</value>
+  </data>
+  <data name="What&apos;s Included" xml:space="preserve">
+    <value>O que está incluído</value>
+  </data>
+  <data name="Zero Trust Yubikey Auth" xml:space="preserve">
+    <value>Autenticação Yubikey de Confiança Zero</value>
+  </data>
+
+</root>

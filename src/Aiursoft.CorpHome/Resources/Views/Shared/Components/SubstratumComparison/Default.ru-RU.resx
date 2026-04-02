@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="24/7 dedicated support line" xml:space="preserve">
+    <value>выделенная линия поддержки 24/7</value>
+  </data>
+  <data name="7×24 On-call Support" xml:space="preserve">
+    <value>Поддержка 7×24 по вызову</value>
+  </data>
+  <data name="AI &amp; Intelligence" xml:space="preserve">
+    <value>ИИ и интеллектуальные технологии</value>
+  </data>
+  <data name="AI Knowledge Base Construction" xml:space="preserve">
+    <value>Создание базы знаний ИИ</value>
+  </data>
+  <data name="Aiursoft-hosted Email Service" xml:space="preserve">
+    <value>Почта, размещенная Aiursoft</value>
+  </data>
+  <data name="AnduinOS Enterprise (Desktop OS)" xml:space="preserve">
+    <value>AnduinOS Enterprise (Desktop OS)</value>
+  </data>
+  <data name="Business hours email support" xml:space="preserve">
+    <value>Поддержка по электронной почте в рабочее время</value>
+  </data>
+  <data name="Business hours phone support" xml:space="preserve">
+    <value>Поддержка по телефону в рабочее время</value>
+  </data>
+  <data name="Cloud Office Suite" xml:space="preserve">
+    <value>Пакет облачных офисных приложений</value>
+  </data>
+  <data name="Communication &amp; Email" xml:space="preserve">
+    <value>Связь и электронная почта</value>
+  </data>
+  <data name="Compare Substratum plans" xml:space="preserve">
+    <value>Сравните планы Substratum</value>
+  </data>
+  <data name="Core" xml:space="preserve">
+    <value>Основной</value>
+  </data>
+  <data name="Custom AI pipeline" xml:space="preserve">
+    <value>Пользовательский AI-конвейер</value>
+  </data>
+  <data name="Custom Container Development" xml:space="preserve">
+    <value>Разработка пользовательских контейнеров</value>
+  </data>
+  <data name="Custom speech synthesis/recognition, search integration &amp; deep investigation pipelines" xml:space="preserve">
+    <value>Кастомная синтез/распознавание речи, интеграция поиска и конвейеры глубокого исследования</value>
+  </data>
+  <data name="Custom TTS / STT, Search Engine &amp; Deep Research" xml:space="preserve">
+    <value>Пользовательские TTS / STT, поисковая система и глубокое исследование</value>
+  </data>
+  <data name="Deployment &amp; Hosting" xml:space="preserve">
+    <value>Развертывание и хостинг</value>
+  </data>
+  <data name="DevOps &amp; Engineering" xml:space="preserve">
+    <value>DevOps &amp; Инженерия</value>
+  </data>
+  <data name="Document Conversion" xml:space="preserve">
+    <value>Конвертация документов</value>
+  </data>
+  <data name="Enterprise" xml:space="preserve">
+    <value>Предприятия</value>
+  </data>
+  <data name="Enterprise Customization" xml:space="preserve">
+    <value>Корпоративная кастомизация</value>
+  </data>
+  <data name="Enterprise Scale Deployment" xml:space="preserve">
+    <value>Развертывание масштабируемое для предприятий</value>
+  </data>
+  <data name="Every plan is built on the same foundational stack. Higher tiers add more applications, on-premise deployment, and dedicated enterprise support on top." xml:space="preserve">
+    <value>Каждый план построен на одной и той же базовой платформе. Более высокие тарифы добавляют дополнительные приложения, развертывание на стороне клиента и выделенную корпоративную поддержку.</value>
+  </data>
+  <data name="File Storage" xml:space="preserve">
+    <value>Хранилище файлов</value>
+  </data>
+  <data name="Fleet device policy management" xml:space="preserve">
+    <value>Управление политиками устройств во флоте</value>
+  </data>
+  <data name="Hardware key enforcement" xml:space="preserve">
+    <value>Принудительное использование аппаратного ключа</value>
+  </data>
+  <data name="Hosted by Aiursoft (SaaS)" xml:space="preserve">
+    <value>Хостинг от Aiursoft (SaaS)</value>
+  </data>
+  <data name="Hosted by Aiursoft, not on-premise" xml:space="preserve">
+    <value>Размещено Aiursoft, не локально</value>
+  </data>
+  <data name="HR &amp; Org Portal" xml:space="preserve">
+    <value>HR &amp; Org Portal</value>
+  </data>
+  <data name="Identity &amp; Security" xml:space="preserve">
+    <value>Идентификация и безопасность</value>
+  </data>
+  <data name="Included" xml:space="preserve">
+    <value>Включено</value>
+  </data>
+  <data name="Local LLM API Gateway" xml:space="preserve">
+    <value>Шлюз API локальной LLM</value>
+  </data>
+  <data name="Managed endpoint OS" xml:space="preserve">
+    <value>Управляемая ОС конечной точки</value>
+  </data>
+  <data name="Managed, zero-ops" xml:space="preserve">
+    <value>Управляемая, без обслуживания</value>
+  </data>
+  <data name="Max User Accounts" xml:space="preserve">
+    <value>Макс. кол-во пользовательских аккаунтов</value>
+  </data>
+  <data name="MDM Device Compliance" xml:space="preserve">
+    <value>Соблюдение требований к устройствам MDM</value>
+  </data>
+  <data name="Media &amp; Personal" xml:space="preserve">
+    <value>Медиа и персональные</value>
+  </data>
+  <data name="mo" xml:space="preserve">
+    <value>мес</value>
+  </data>
+  <data name="Multi-site &amp; HA capable" xml:space="preserve">
+    <value>Поддержка нескольких сайтов и высокая доступность</value>
+  </data>
+  <data name="Not included" xml:space="preserve">
+    <value>Не включено</value>
+  </data>
+  <data name="Not included in Core" xml:space="preserve">
+    <value>Не входит в базовый комплект</value>
+  </data>
+  <data name="Not included in Startup" xml:space="preserve">
+    <value>Не включено в Startup</value>
+  </data>
+  <data name="On-premise / Air-gapped Deployment" xml:space="preserve">
+    <value>Локальное развертывание / Развертывание в изолированной сети</value>
+  </data>
+  <data name="Online Code Execution" xml:space="preserve">
+    <value>Выполнение кода онлайн</value>
+  </data>
+  <data name="PaddleOCR-based" xml:space="preserve">
+    <value>на основе PaddleOCR</value>
+  </data>
+  <data name="Partial / limited" xml:space="preserve">
+    <value>Частично / ограничено</value>
+  </data>
+  <data name="PDF ingestion &amp; vector store construction via PaddleOCR" xml:space="preserve">
+    <value>Загрузка PDF и создание векторного хранилища с помощью PaddleOCR</value>
+  </data>
+  <data name="PDF Processing &amp; Vector Database" xml:space="preserve">
+    <value>Обработка PDF и векторная база данных</value>
+  </data>
+  <data name="Photo &amp; Video Management" xml:space="preserve">
+    <value>Управление фото и видео</value>
+  </data>
+  <data name="Productivity &amp; Collaboration" xml:space="preserve">
+    <value>Продуктивность и сотрудничество</value>
+  </data>
+  <data name="Repository Sync" xml:space="preserve">
+    <value>Синхронизация репозитория</value>
+  </data>
+  <data name="SaaS only" xml:space="preserve">
+    <value>Только SaaS</value>
+  </data>
+  <data name="Scale &amp; Support" xml:space="preserve">
+    <value>Масштабирование и поддержка</value>
+  </data>
+  <data name="Self-hosted LLM inference gateway" xml:space="preserve">
+    <value>Шлюз инференса LLM с самохостингом</value>
+  </data>
+  <data name="Self-hosted on your own servers" xml:space="preserve">
+    <value>Самостоятельная установка на ваших собственных серверах</value>
+  </data>
+  <data name="Server Monitoring" xml:space="preserve">
+    <value>Мониторинг серверов</value>
+  </data>
+  <data name="Service / Feature" xml:space="preserve">
+    <value>Услуга / Функция</value>
+  </data>
+  <data name="Single-site on-premise" xml:space="preserve">
+    <value>Одноузловая локальная развертка</value>
+  </data>
+  <data name="Source Control &amp; CI/CD" xml:space="preserve">
+    <value>Управление исходным кодом &amp; CI/CD</value>
+  </data>
+  <data name="SSO / Identity Gateway" xml:space="preserve">
+    <value>SSO / Шлюз идентификации</value>
+  </data>
+  <data name="Startup" xml:space="preserve">
+    <value>Стартап</value>
+  </data>
+  <data name="Tailored to your stack" xml:space="preserve">
+    <value>Адаптировано под ваш стек</value>
+  </data>
+  <data name="Talk to an Architect" xml:space="preserve">
+    <value>Поговорите с архитектором</value>
+  </data>
+  <data name="Team Voting" xml:space="preserve">
+    <value>Голосование команды</value>
+  </data>
+  <data name="Unlimited" xml:space="preserve">
+    <value>Безлимитный</value>
+  </data>
+  <data name="URL Shortener" xml:space="preserve">
+    <value>URL Shortener</value>
+  </data>
+  <data name="user" xml:space="preserve">
+    <value>пользователя</value>
+  </data>
+  <data name="What&apos;s Included" xml:space="preserve">
+    <value>Что включено</value>
+  </data>
+  <data name="Zero Trust Yubikey Auth" xml:space="preserve">
+    <value>Zero Trust Yubikey Auth</value>
+  </data>
+
+</root>

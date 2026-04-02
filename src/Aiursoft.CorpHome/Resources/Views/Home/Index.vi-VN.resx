@@ -54,6 +54,9 @@
   <data name="Achieve more with Aiursoft Template" xml:space="preserve">
     <value>Đạt được nhiều hơn với Aiursoft Template</value>
   </data>
+  <data name="AI Agents Integration" xml:space="preserve">
+    <value>Tích hợp Đại lý AI</value>
+  </data>
   <data name="AI Era" xml:space="preserve">
     <value>Thời đại AI</value>
   </data>
@@ -173,6 +176,9 @@
   </data>
   <data name="Break Vendor Lock-in" xml:space="preserve">
     <value>Chấm dứt sự phụ thuộc vào nhà cung cấp</value>
+  </data>
+  <data name="Browse Source Code" xml:space="preserve">
+    <value>Duyệt mã nguồn</value>
   </data>
   <data name="Build once, run anywhere. Fully containerized architecture." xml:space="preserve">
     <value>Xây dựng một lần, chạy ở bất kỳ đâu. Kiến trúc được đóng gói hoàn toàn trong container.</value>
@@ -383,6 +389,9 @@
   </data>
   <data name="Every access is verified, every connection is encrypted, every action is audited." xml:space="preserve">
     <value>Mọi truy cập đều được xác minh, mọi kết nối đều được mã hóa, mọi thao tác đều được ghi nhật ký.</value>
+  </data>
+  <data name="Experience Aiursoft AI" xml:space="preserve">
+    <value>Trải nghiệm Aiursoft AI</value>
   </data>
   <data name="Explore on GitHub" xml:space="preserve">
     <value>Khám phá trên GitHub</value>
@@ -611,6 +620,9 @@
   </data>
   <data name="Offline Capable" xml:space="preserve">
     <value>Khả năng hoạt động ngoại tuyến</value>
+  </data>
+  <data name="OllamaGateway has been officially tested and is fully compatible with popular ecosystem tools including Open-WebUI, Opencode, and Roocode. Its robust API translation makes it the ideal choice for deploying autonomous AI agents." xml:space="preserve">
+    <value>OllamaGateway đã được kiểm thử chính thức và hoàn toàn tương thích với các công cụ hệ sinh thái phổ biến bao gồm Open-WebUI, Opencode và Roocode. Khả năng dịch API mạnh mẽ của nó biến nó thành lựa chọn lý tưởng để triển khai các tác nhân AI tự động.</value>
   </data>
   <data name="On-premise offline deployment" xml:space="preserve">
     <value>Triển khai ngoại tuyến tại chỗ</value>

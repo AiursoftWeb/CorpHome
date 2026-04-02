@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="Air-Gapped Ready" xml:space="preserve">
+    <value>Redo för luftspaltad drift</value>
+  </data>
+  <data name="Break Vendor Lock-in" xml:space="preserve">
+    <value>Bryt leverantörsberoende</value>
+  </data>
+  <data name="Built on open standards. Migrate in or out anytime with full data portability and transparency." xml:space="preserve">
+    <value>Byggd på öppna standarder. Migrera in eller ut när som helst med full dataportabilitet och transparens.</value>
+  </data>
+  <data name="Complete control over your enterprise data. No third-party access, full privacy compliance." xml:space="preserve">
+    <value>Fullständig kontroll över din företagsdata. Ingen tillgång för tredje part, fullständig efterlevnad av integritetsregler.</value>
+  </data>
+  <data name="Contact Us" xml:space="preserve">
+    <value>Kontakta oss</value>
+  </data>
+  <data name="Designed to run offline. Perfect for high-security environments with no internet dependency." xml:space="preserve">
+    <value>Designad för att köras offline. Perfekt för högsäkra miljöer utan beroende av internet.</value>
+  </data>
+  <data name="Empower developers with a flexible platform that scales with your business needs." xml:space="preserve">
+    <value>Ge utvecklare möjlighet att använda en flexibel plattform som skalas efter era affärsbehov.</value>
+  </data>
+  <data name="Get unified endpoint management (UEM), identity management (IAM), and collaboration tools (OA) in one package. All on your local servers!" xml:space="preserve">
+    <value>Få sammanfogad hantering av slutpunkter (UEM), identitetshantering (IAM) och samarbetsverktyg (OA) i ett paket. Allt på dina lokala servrar!</value>
+  </data>
+  <data name="Own Your Data" xml:space="preserve">
+    <value>Äga din data</value>
+  </data>
+  <data name="Purchase Now" xml:space="preserve">
+    <value>Köp nu</value>
+  </data>
+  <data name="Supercharge Innovation" xml:space="preserve">
+    <value>Driv innovationen</value>
+  </data>
+  <data name="The Turnkey Enterprise Foundation" xml:space="preserve">
+    <value>Den nyckelfärdiga affärsplattformen</value>
+  </data>
+
+</root>

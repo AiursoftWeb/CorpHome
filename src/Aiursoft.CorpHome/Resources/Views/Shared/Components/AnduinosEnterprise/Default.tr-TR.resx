@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="7×24 On-Call Support" xml:space="preserve">
+    <value>7×24 Çağrı Desteği</value>
+  </data>
+  <data name="AnduinOS Enterprise" xml:space="preserve">
+    <value>AnduinOS Enterprise</value>
+  </data>
+  <data name="AnduinOS Enterprise Edition adds enterprise-grade customer support and 7×24 phone on-call on top of the community edition." xml:space="preserve">
+    <value>AnduinOS Enterprise Edition, topluluk sürümünün üzerine kurulu olarak kurumsal düzeyde müşteri desteği ve 7×24 telefon üzerinden erişilebilir destek ekler.</value>
+  </data>
+  <data name="Brand the OS with your company logo, pre-installed software, and compliance requirements." xml:space="preserve">
+    <value>İşletim sistemini şirket logonuz, önceden yüklenmiş yazılımlarınız ve uyumluluk gereksinimlerinizi içerecek şekilde markalayın.</value>
+  </data>
+  <data name="Build your own intranet software sources to accelerate compliance and reduce patching turnaround time." xml:space="preserve">
+    <value>Kendi intranet yazılım kaynaklarınızı oluşturarak uyumluluğu hızlandırın ve yama işlemlerinin dönüş süresini azaltın.</value>
+  </data>
+  <data name="Compliance Ready" xml:space="preserve">
+    <value>Uyumluluk Hazır</value>
+  </data>
+  <data name="Custom Branding" xml:space="preserve">
+    <value>Özel Markalama</value>
+  </data>
+  <data name="Easily achieve zero-trust and hardware-level security based on Yubico hardware keys." xml:space="preserve">
+    <value>Yubico donanım anahtarları temelinde kolayca sıfır güven ve donanım düzeyinde güvenlik sağlayın.</value>
+  </data>
+  <data name="Endpoint Monitoring" xml:space="preserve">
+    <value>Uç Nokta İzleme</value>
+  </data>
+  <data name="Enterprise customers get round-the-clock telephone support, ensuring critical issues are addressed immediately." xml:space="preserve">
+    <value>Kurumsal müşteriler, kritik sorunların derhal çözülmesini sağlayacak şekilde 7/24 telefon desteği alır.</value>
+  </data>
+  <data name="Freedom and enterprise service don&apos;t conflict." xml:space="preserve">
+    <value>Özgürlük ve kurumsal hizmet çelişmez.</value>
+  </data>
+  <data name="Hardware-Level Security" xml:space="preserve">
+    <value>Donanım Seviyesinde Güvenlik</value>
+  </data>
+  <data name="IT teams can monitor the health of all endpoints and perform basic remote management." xml:space="preserve">
+    <value>IT ekipleri, tüm uç noktaların sağlığını izleyebilir ve temel uzaktan yönetim işlemlerini gerçekleştirebilir.</value>
+  </data>
+  <data name="Meet industry compliance requirements with auditable configurations and enterprise-grade controls." xml:space="preserve">
+    <value>Sektör uyumluluk gereksinimlerini denetlenebilir yapılandırmalar ve kurumsal düzeyde kontrollerle karşılayın.</value>
+  </data>
+  <data name="Private Package Repository" xml:space="preserve">
+    <value>Özel Paket Deposu</value>
+  </data>
+
+</root>

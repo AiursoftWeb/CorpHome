@@ -54,6 +54,9 @@
   <data name="Achieve more with Aiursoft Template" xml:space="preserve">
     <value>บรรลุผลได้มากขึ้นด้วย Aiursoft Template</value>
   </data>
+  <data name="AI Agents Integration" xml:space="preserve">
+    <value>การผสานรวมตัวแทน AI</value>
+  </data>
   <data name="AI Era" xml:space="preserve">
     <value>ยุคของปัญญาประดิษฐ์</value>
   </data>
@@ -173,6 +176,9 @@
   </data>
   <data name="Break Vendor Lock-in" xml:space="preserve">
     <value>ปลดล็อกผู้ให้บริการ</value>
+  </data>
+  <data name="Browse Source Code" xml:space="preserve">
+    <value>ดูซอร์สโค้ด</value>
   </data>
   <data name="Build once, run anywhere. Fully containerized architecture." xml:space="preserve">
     <value>สร้างครั้งเดียว รันได้ทุกที่ สถาปัตยกรรมที่ถูกบรรจุในคอนเทนเนอร์อย่างสมบูรณ์</value>
@@ -383,6 +389,9 @@
   </data>
   <data name="Every access is verified, every connection is encrypted, every action is audited." xml:space="preserve">
     <value>ทุกการเข้าถึงจะได้รับการยืนยัน ทุกการเชื่อมต่อจะถูกเข้ารหัส ทุกการกระทำจะถูกตรวจสอบ</value>
+  </data>
+  <data name="Experience Aiursoft AI" xml:space="preserve">
+    <value>สัมผัสประสบการณ์ AI ของ Aiursoft</value>
   </data>
   <data name="Explore on GitHub" xml:space="preserve">
     <value>สำรวจบน GitHub</value>
@@ -611,6 +620,9 @@
   </data>
   <data name="Offline Capable" xml:space="preserve">
     <value>รองรับการทำงานแบบออฟไลน์</value>
+  </data>
+  <data name="OllamaGateway has been officially tested and is fully compatible with popular ecosystem tools including Open-WebUI, Opencode, and Roocode. Its robust API translation makes it the ideal choice for deploying autonomous AI agents." xml:space="preserve">
+    <value>OllamaGateway ได้รับการทดสอบอย่างเป็นทางการแล้วและมีความเข้ากันได้เต็มที่กับเครื่องมือในนิเวศน์ยอดนิยม ได้แก่ Open-WebUI, Opencode และ Roocode การแปล API ที่แข็งแกร่งของ使它เหมาะอย่างยิ่งสำหรับการปรับใช้เอเจนต์ AI แบบอัตโนมัติ</value>
   </data>
   <data name="On-premise offline deployment" xml:space="preserve">
     <value>การติดตั้งแบบออฟไลน์ภายในสถานที่</value>
