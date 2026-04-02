@@ -1,0 +1,85 @@
+<section class="py-7 position-relative overflow-hidden" style="background-color: #0b0d14;">
+
+    @* Ambient Core Glow Background *@
+    <div class="position-absolute top-50 start-50 translate-middle w-100 h-100 pointer-events-none"
+         style="background: radial-gradient(circle at center, rgba(13, 110, 253, 0.05) 0%, transparent 60%); z-index: 0;">
+    </div>
+
+    <div class="container position-relative z-1">
+        <div class="row justify-content-center text-center mb-5 mb-lg-6">
+            <div class="col-lg-8">
+                <div class="d-inline-flex align-items-center px-3 py-1 mb-3 rounded-pill border border-primary-subtle bg-primary-subtle bg-opacity-10">
+                    <span class="text-primary fw-bold small text-uppercase tracking-wider">@Localizer["The Turnkey Enterprise Foundation"]</span>
+                </div>
+                <h2 class="display-4 fw-bold text-white mb-4">
+                    <img src="~/favicon.svg" class="align-top me-2" style="height: 1em;" alt="Aiursoft Logo">Aiursoft <span class="text-transparent bg-clip-text bg-gradient-primary-info">Substratum</span>
+                </h2>
+                <p class="lead text-gray-400 fs-5 mb-4 mx-auto" style="max-width: 800px;">
+                    @Localizer["Get unified endpoint management (UEM), identity management (IAM), and collaboration tools (OA) in one package. All on your local servers!"]
+                </p>
+                <div class="d-flex flex-column flex-sm-row justify-content-center align-items-center gap-3 mt-4">
+                    <a href="#enterprise-packages" class="btn btn-primary px-4 py-2 rounded-pill fw-bold shadow-sm">
+                        @Localizer["Purchase Now"]
+                    </a>
+                    <a asp-controller="Home" asp-action="Contact" class="btn btn-outline-light px-4 py-2 rounded-pill fw-bold border-white-20 text-white hover-bg-white-10">
+                        @Localizer["Contact Us"]
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="row g-4">
+            @* Card 1: Own Your Data *@
+            <div class="col-md-6 col-lg-3">
+                <div class="card h-100 bg-dark-glass border-white-10 hover-lift hover-glow-primary">
+                    <div class="card-body p-4 p-xl-5">
+                        <div class="d-inline-flex align-items-center justify-content-center bg-primary bg-opacity-10 text-primary rounded-4 mb-4" style="width: 56px; height: 56px;">
+                            <i data-lucide="database" style="width: 28px; height: 28px;"></i>
+                        </div>
+                        <h4 class="h5 fw-bold text-white mb-3">@Localizer["Own Your Data"]</h4>
+                        <p class="text-gray-400 mb-0">@Localizer["Complete control over your enterprise data. No third-party access, full privacy compliance."]</p>
+                    </div>
+                </div>
+            </div>
+
+            @* Card 2: Air-Gapped Ready *@
+            <div class="col-md-6 col-lg-3">
+                <div class="card h-100 bg-dark-glass border-white-10 hover-lift hover-glow-success">
+                    <div class="card-body p-4 p-xl-5">
+                        <div class="d-inline-flex align-items-center justify-content-center bg-success bg-opacity-10 text-success rounded-4 mb-4" style="width: 56px; height: 56px;">
+                            <i data-lucide="wifi-off" style="width: 28px; height: 28px;"></i>
+                        </div>
+                        <h4 class="h5 fw-bold text-white mb-3">@Localizer["Air-Gapped Ready"]</h4>
+                        <p class="text-gray-400 mb-0">@Localizer["Designed to run offline. Perfect for high-security environments with no internet dependency."]</p>
+                    </div>
+                </div>
+            </div>
+
+            @* Card 3: Break Vendor Lock-in *@
+            <div class="col-md-6 col-lg-3">
+                <div class="card h-100 bg-dark-glass border-white-10 hover-lift hover-glow-warning">
+                    <div class="card-body p-4 p-xl-5">
+                        <div class="d-inline-flex align-items-center justify-content-center bg-warning bg-opacity-10 text-warning rounded-4 mb-4" style="width: 56px; height: 56px;">
+                            <i data-lucide="unlock" style="width: 28px; height: 28px;"></i>
+                        </div>
+                        <h4 class="h5 fw-bold text-white mb-3">@Localizer["Break Vendor Lock-in"]</h4>
+                        <p class="text-gray-400 mb-0">@Localizer["Built on open standards. Migrate in or out anytime with full data portability and transparency."]</p>
+                    </div>
+                </div>
+            </div>
+
+            @* Card 4: Supercharge Innovation *@
+            <div class="col-md-6 col-lg-3">
+                <div class="card h-100 bg-dark-glass border-white-10 hover-lift hover-glow-info">
+                    <div class="card-body p-4 p-xl-5">
+                        <div class="d-inline-flex align-items-center justify-content-center bg-info bg-opacity-10 text-info rounded-4 mb-4" style="width: 56px; height: 56px;">
+                            <i data-lucide="zap" style="width: 28px; height: 28px;"></i>
+                        </div>
+                        <h4 class="h5 fw-bold text-white mb-3">@Localizer["Supercharge Innovation"]</h4>
+                        <p class="text-gray-400 mb-0">@Localizer["Empower developers with a flexible platform that scales with your business needs."]</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

@@ -14,6 +14,11 @@ public class HomeController(TemplateDbContext dbContext) : Controller
         return this.SimpleView(new IndexViewModel());
     }
 
+    public IActionResult Substratum()
+    {
+        return this.SimpleView(new SubstratumViewModel());
+    }
+
     [Route("/terms")]
     [Route("/terms.html")]
     public IActionResult Terms()
