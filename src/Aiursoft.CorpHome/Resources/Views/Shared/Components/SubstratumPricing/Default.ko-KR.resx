@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="/ month" xml:space="preserve">
+    <value>/월</value>
+  </data>
+  <data name="/ user" xml:space="preserve">
+    <value>/ 사용자</value>
+  </data>
+  <data name="AI Knowledge Base construction" xml:space="preserve">
+    <value>AI 지식 베이스 구축</value>
+  </data>
+  <data name="Aiursoft Substratum Core" xml:space="preserve">
+    <value>Aiursoft Substratum Core</value>
+  </data>
+  <data name="Aiursoft Substratum Enterprise" xml:space="preserve">
+    <value>Aiursoft Substratum Enterprise</value>
+  </data>
+  <data name="Aiursoft Substratum Startup" xml:space="preserve">
+    <value>Aiursoft Substratum Startup</value>
+  </data>
+  <data name="AnduinOS Enterprise" xml:space="preserve">
+    <value>AnduinOS Enterprise</value>
+  </data>
+  <data name="Contact Sales" xml:space="preserve">
+    <value>영업팀 문의</value>
+  </data>
+  <data name="Custom container development" xml:space="preserve">
+    <value>사용자 정의 컨테이너 개발</value>
+  </data>
+  <data name="Custom Development Fee" xml:space="preserve">
+    <value>사용자 지정 개발 비용</value>
+  </data>
+  <data name="Customized for your enterprise" xml:space="preserve">
+    <value>귀하의 기업을 위해 맞춤화된 솔루션</value>
+  </data>
+  <data name="Enterprise scale deployment" xml:space="preserve">
+    <value>Enterprise 규모 배포</value>
+  </data>
+  <data name="Full Infrastructure Suite, on your local server" xml:space="preserve">
+    <value>온프레미스 서버에서 풀 인프라 스위트</value>
+  </data>
+  <data name="Get a public cloud-like experience while hosting your applications in your own server." xml:space="preserve">
+    <value>서버에서 애플리케이션을 호스팅하면서도 공용 클라우드와 유사한 경험을 얻으세요.</value>
+  </data>
+  <data name="Get Started" xml:space="preserve">
+    <value>시작하기</value>
+  </data>
+  <data name="Hosted by Aiursoft" xml:space="preserve">
+    <value>Aiursoft에서 호스팅됨</value>
+  </data>
+  <data name="Includes Collaboration + Email + Identity Gateway" xml:space="preserve">
+    <value>협업 + 이메일 + 신원 게이트웨이 포함</value>
+  </data>
+  <data name="Includes everything in Starter" xml:space="preserve">
+    <value>스타터 버전의 모든 기능이 포함됨</value>
+  </data>
+  <data name="Includes everything in Startup" xml:space="preserve">
+    <value>스타트업의 모든 기능이 포함됩니다</value>
+  </data>
+  <data name="Max 1000 accounts" xml:space="preserve">
+    <value>최대 1000 계정</value>
+  </data>
+  <data name="MDM based device compliance" xml:space="preserve">
+    <value>MDM 기반 디바이스 준수</value>
+  </data>
+  <data name="On-premise offline deployment" xml:space="preserve">
+    <value>온프레미스 오프라인 배포</value>
+  </data>
+  <data name="One-time Setup Fee" xml:space="preserve">
+    <value>일회성 설정 비용</value>
+  </data>
+  <data name="Pricing" xml:space="preserve">
+    <value>가격</value>
+  </data>
+  <data name="Recommended" xml:space="preserve">
+    <value>추천</value>
+  </data>
+  <data name="Single user account" xml:space="preserve">
+    <value>단일 사용자 계정</value>
+  </data>
+  <data name="Specific fees need to be discussed with our architecture team to determine how to build for your enterprise." xml:space="preserve">
+    <value>구체적인 비용은 귀하의 기업에 맞는 구축 방안을 결정하기 위해 우리 아키텍처 팀과 논의해야 합니다.</value>
+  </data>
+  <data name="Strengthen your business with flexible Open Source projects that run by Aiursoft." xml:space="preserve">
+    <value>유연한 오픈 소스 프로젝트를 통해 비즈니스를 강화하세요. Aiursoft 가 운영합니다.</value>
+  </data>
+  <data name="tailored to your business needs" xml:space="preserve">
+    <value>비즈니스 요구에 맞춤화된</value>
+  </data>
+  <data name="Talk to an Architect" xml:space="preserve">
+    <value>아키텍트와 상담하기</value>
+  </data>
+  <data name="To build your offline AI knowledge base, you may need to purchase an NVIDIA GPU. This may require additional payment to NVIDIA corporation." xml:space="preserve">
+    <value>오프라인 AI 지식 베이스를 구축하려면 NVIDIA GPU 를 구매해야 할 수 있습니다. 이는 NVIDIA corporation 에 추가 결제가 필요할 수 있습니다.</value>
+  </data>
+  <data name="Zero Trust Yubikey Auth" xml:space="preserve">
+    <value>Zero Trust Yubikey Auth</value>
+  </data>
+
+</root>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="7×24 On-Call Support" xml:space="preserve">
+    <value>Soporte de guardia 7×24</value>
+  </data>
+  <data name="AnduinOS Enterprise" xml:space="preserve">
+    <value>AnduinOS Enterprise</value>
+  </data>
+  <data name="AnduinOS Enterprise Edition adds enterprise-grade customer support and 7×24 phone on-call on top of the community edition." xml:space="preserve">
+    <value>La edición empresarial de AnduinOS incluye soporte al cliente de nivel empresarial y atención telefónica 7×24 sobre la edición comunitaria.</value>
+  </data>
+  <data name="Brand the OS with your company logo, pre-installed software, and compliance requirements." xml:space="preserve">
+    <value>Personaliza el sistema operativo con el logotipo de tu empresa, el software preinstalado y los requisitos de cumplimiento.</value>
+  </data>
+  <data name="Build your own intranet software sources to accelerate compliance and reduce patching turnaround time." xml:space="preserve">
+    <value>Construye tus propias fuentes de software de intranet para acelerar el cumplimiento y reducir el tiempo de respuesta de los parches.</value>
+  </data>
+  <data name="Compliance Ready" xml:space="preserve">
+    <value>Listo para el cumplimiento</value>
+  </data>
+  <data name="Custom Branding" xml:space="preserve">
+    <value>Personalización de marca</value>
+  </data>
+  <data name="Easily achieve zero-trust and hardware-level security based on Yubico hardware keys." xml:space="preserve">
+    <value>Alcance fácilmente la seguridad de confianza cero y a nivel de hardware basada en las claves de hardware Yubico.</value>
+  </data>
+  <data name="Endpoint Monitoring" xml:space="preserve">
+    <value>Monitoreo de puntos finales</value>
+  </data>
+  <data name="Enterprise customers get round-the-clock telephone support, ensuring critical issues are addressed immediately." xml:space="preserve">
+    <value>Los clientes empresariales reciben soporte telefónico las 24 horas del día, los 7 días de la semana, asegurando que los problemas críticos se resuelvan de inmediato.</value>
+  </data>
+  <data name="Freedom and enterprise service don&apos;t conflict." xml:space="preserve">
+    <value>La libertad y el servicio empresarial no entran en conflicto.</value>
+  </data>
+  <data name="Hardware-Level Security" xml:space="preserve">
+    <value>Seguridad a nivel de hardware</value>
+  </data>
+  <data name="IT teams can monitor the health of all endpoints and perform basic remote management." xml:space="preserve">
+    <value>Los equipos de TI pueden supervisar el estado de todos los puntos finales y realizar una gestión remota básica.</value>
+  </data>
+  <data name="Meet industry compliance requirements with auditable configurations and enterprise-grade controls." xml:space="preserve">
+    <value>Cumpla con los requisitos de cumplimiento del sector mediante configuraciones auditables y controles de nivel empresarial.</value>
+  </data>
+  <data name="Private Package Repository" xml:space="preserve">
+    <value>Repositorio privado de paquetes</value>
+  </data>
+
+</root>

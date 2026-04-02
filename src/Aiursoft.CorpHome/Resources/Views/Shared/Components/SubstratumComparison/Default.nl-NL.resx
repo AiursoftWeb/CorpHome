@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="24/7 dedicated support line" xml:space="preserve">
+    <value>24/7 toegewijde supportlijn</value>
+  </data>
+  <data name="7×24 On-call Support" xml:space="preserve">
+    <value>7×24-ondersteuning op afroep</value>
+  </data>
+  <data name="AI &amp; Intelligence" xml:space="preserve">
+    <value>AI &amp; Intelligentie</value>
+  </data>
+  <data name="AI Knowledge Base Construction" xml:space="preserve">
+    <value>AI-kennisbankopbouw</value>
+  </data>
+  <data name="Aiursoft-hosted Email Service" xml:space="preserve">
+    <value>Door Aiursoft gehoste e-mailservice</value>
+  </data>
+  <data name="AnduinOS Enterprise (Desktop OS)" xml:space="preserve">
+    <value>AnduinOS Enterprise (Desktop OS)</value>
+  </data>
+  <data name="Business hours email support" xml:space="preserve">
+    <value>Bedrijfstijden e-mailondersteuning</value>
+  </data>
+  <data name="Business hours phone support" xml:space="preserve">
+    <value>Telefonische ondersteuning tijdens kantooruren</value>
+  </data>
+  <data name="Cloud Office Suite" xml:space="preserve">
+    <value>Cloud Office Suite</value>
+  </data>
+  <data name="Communication &amp; Email" xml:space="preserve">
+    <value>Communicatie &amp; E-mail</value>
+  </data>
+  <data name="Compare Substratum plans" xml:space="preserve">
+    <value>Vergelijk Substratum-plannen</value>
+  </data>
+  <data name="Core" xml:space="preserve">
+    <value>Core</value>
+  </data>
+  <data name="Custom AI pipeline" xml:space="preserve">
+    <value>Aangepast AI-pijplijn</value>
+  </data>
+  <data name="Custom Container Development" xml:space="preserve">
+    <value>Aangepaste containerontwikkeling</value>
+  </data>
+  <data name="Custom speech synthesis/recognition, search integration &amp; deep investigation pipelines" xml:space="preserve">
+    <value>Aangepaste spraaksynthese/-herkenning, zoekintegratie &amp; diepgaande onderzoeks pipelines</value>
+  </data>
+  <data name="Custom TTS / STT, Search Engine &amp; Deep Research" xml:space="preserve">
+    <value>Aangepaste TTS / STT, Zoekmachine &amp; Diep Onderzoek</value>
+  </data>
+  <data name="Deployment &amp; Hosting" xml:space="preserve">
+    <value>Implementatie &amp; Hosting</value>
+  </data>
+  <data name="DevOps &amp; Engineering" xml:space="preserve">
+    <value>DevOps &amp; Engineering</value>
+  </data>
+  <data name="Document Conversion" xml:space="preserve">
+    <value>Documentomzetting</value>
+  </data>
+  <data name="Enterprise" xml:space="preserve">
+    <value>Enterprise</value>
+  </data>
+  <data name="Enterprise Customization" xml:space="preserve">
+    <value>Enterprise Aanpassing</value>
+  </data>
+  <data name="Enterprise Scale Deployment" xml:space="preserve">
+    <value>Enterprise Schaaluitrol</value>
+  </data>
+  <data name="Every plan is built on the same foundational stack. Higher tiers add more applications, on-premise deployment, and dedicated enterprise support on top." xml:space="preserve">
+    <value>Elk plan is gebaseerd op dezelfde fundamentele stack. Hogere tiers voegen meer applicaties, on-premise implementatie en toegewijde enterprise-ondersteuning toe.</value>
+  </data>
+  <data name="File Storage" xml:space="preserve">
+    <value>Bestandsopslag</value>
+  </data>
+  <data name="Fleet device policy management" xml:space="preserve">
+    <value>Beheer van beleidsregels voor apparaatflotten</value>
+  </data>
+  <data name="Hardware key enforcement" xml:space="preserve">
+    <value>Handmatige sleutelafkapping</value>
+  </data>
+  <data name="Hosted by Aiursoft (SaaS)" xml:space="preserve">
+    <value>Gehost door Aiursoft (SaaS)</value>
+  </data>
+  <data name="Hosted by Aiursoft, not on-premise" xml:space="preserve">
+    <value>Gehost door Aiursoft, niet on-premise</value>
+  </data>
+  <data name="HR &amp; Org Portal" xml:space="preserve">
+    <value>HR &amp; Organisatieportaal</value>
+  </data>
+  <data name="Identity &amp; Security" xml:space="preserve">
+    <value>Identiteit &amp; Beveiliging</value>
+  </data>
+  <data name="Included" xml:space="preserve">
+    <value>Inbegrepen</value>
+  </data>
+  <data name="Local LLM API Gateway" xml:space="preserve">
+    <value>Lokale LLM API Gateway</value>
+  </data>
+  <data name="Managed endpoint OS" xml:space="preserve">
+    <value>Beheerd eindpuntbesturingssysteem</value>
+  </data>
+  <data name="Managed, zero-ops" xml:space="preserve">
+    <value>Beheerd, zero-ops</value>
+  </data>
+  <data name="Max User Accounts" xml:space="preserve">
+    <value>Maximale gebruikersaccounts</value>
+  </data>
+  <data name="MDM Device Compliance" xml:space="preserve">
+    <value>MDM-apparaatcompliance</value>
+  </data>
+  <data name="Media &amp; Personal" xml:space="preserve">
+    <value>Media &amp; Persoonlijk</value>
+  </data>
+  <data name="mo" xml:space="preserve">
+    <value>maand</value>
+  </data>
+  <data name="Multi-site &amp; HA capable" xml:space="preserve">
+    <value>Meerdere locaties en HA-capabel</value>
+  </data>
+  <data name="Not included" xml:space="preserve">
+    <value>Niet inbegrepen</value>
+  </data>
+  <data name="Not included in Core" xml:space="preserve">
+    <value>Niet inbegrepen in Core</value>
+  </data>
+  <data name="Not included in Startup" xml:space="preserve">
+    <value>Niet inbegrepen in Startup</value>
+  </data>
+  <data name="On-premise / Air-gapped Deployment" xml:space="preserve">
+    <value>On-premise / Air-gapped implementatie</value>
+  </data>
+  <data name="Online Code Execution" xml:space="preserve">
+    <value>Online code uitvoeren</value>
+  </data>
+  <data name="PaddleOCR-based" xml:space="preserve">
+    <value>op PaddleOCR gebaseerd</value>
+  </data>
+  <data name="Partial / limited" xml:space="preserve">
+    <value>Deels / beperkt</value>
+  </data>
+  <data name="PDF ingestion &amp; vector store construction via PaddleOCR" xml:space="preserve">
+    <value>PDF-ingestie en constructie van vectoropslag via PaddleOCR</value>
+  </data>
+  <data name="PDF Processing &amp; Vector Database" xml:space="preserve">
+    <value>PDF-verwerking &amp; vectordatabase</value>
+  </data>
+  <data name="Photo &amp; Video Management" xml:space="preserve">
+    <value>Foto- &amp; videobeheer</value>
+  </data>
+  <data name="Productivity &amp; Collaboration" xml:space="preserve">
+    <value>Productiviteit &amp; Samenwerking</value>
+  </data>
+  <data name="Repository Sync" xml:space="preserve">
+    <value>Repository Sync</value>
+  </data>
+  <data name="SaaS only" xml:space="preserve">
+    <value>Alleen SaaS</value>
+  </data>
+  <data name="Scale &amp; Support" xml:space="preserve">
+    <value>Schalen &amp; Ondersteuning</value>
+  </data>
+  <data name="Self-hosted LLM inference gateway" xml:space="preserve">
+    <value>Zelf gehoste LLM-inferentiegateway</value>
+  </data>
+  <data name="Self-hosted on your own servers" xml:space="preserve">
+    <value>Zelf gehost op uw eigen servers</value>
+  </data>
+  <data name="Server Monitoring" xml:space="preserve">
+    <value>Servermonitoring</value>
+  </data>
+  <data name="Service / Feature" xml:space="preserve">
+    <value>Service / Functie</value>
+  </data>
+  <data name="Single-site on-premise" xml:space="preserve">
+    <value>Eén-locatie on-premise</value>
+  </data>
+  <data name="Source Control &amp; CI/CD" xml:space="preserve">
+    <value>Bronbeheer &amp; CI/CD</value>
+  </data>
+  <data name="SSO / Identity Gateway" xml:space="preserve">
+    <value>SSO / Identiteitsgateway</value>
+  </data>
+  <data name="Startup" xml:space="preserve">
+    <value>Startup</value>
+  </data>
+  <data name="Tailored to your stack" xml:space="preserve">
+    <value>Op maat gemaakt voor uw stack</value>
+  </data>
+  <data name="Talk to an Architect" xml:space="preserve">
+    <value>Neem contact op met een architect</value>
+  </data>
+  <data name="Team Voting" xml:space="preserve">
+    <value>Stemmen in team</value>
+  </data>
+  <data name="Unlimited" xml:space="preserve">
+    <value>Onbeperkt</value>
+  </data>
+  <data name="URL Shortener" xml:space="preserve">
+    <value>URL-korter</value>
+  </data>
+  <data name="user" xml:space="preserve">
+    <value>gebruiker</value>
+  </data>
+  <data name="What&apos;s Included" xml:space="preserve">
+    <value>Inbegrepen</value>
+  </data>
+  <data name="Zero Trust Yubikey Auth" xml:space="preserve">
+    <value>Zero Trust Yubikey-authenticatie</value>
+  </data>
+
+</root>

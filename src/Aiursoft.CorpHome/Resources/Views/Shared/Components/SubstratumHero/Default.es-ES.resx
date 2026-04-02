@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="Air-Gapped Ready" xml:space="preserve">
+    <value>Listo para entornos desconectados</value>
+  </data>
+  <data name="Break Vendor Lock-in" xml:space="preserve">
+    <value>Rompe el bloqueo del proveedor</value>
+  </data>
+  <data name="Built on open standards. Migrate in or out anytime with full data portability and transparency." xml:space="preserve">
+    <value>Basado en estándares abiertos. Migre dentro o fuera en cualquier momento con plena portabilidad y transparencia de los datos.</value>
+  </data>
+  <data name="Complete control over your enterprise data. No third-party access, full privacy compliance." xml:space="preserve">
+    <value>Control total sobre los datos de tu empresa. Sin acceso de terceros, cumplimiento total de la privacidad.</value>
+  </data>
+  <data name="Contact Us" xml:space="preserve">
+    <value>Contáctanos</value>
+  </data>
+  <data name="Designed to run offline. Perfect for high-security environments with no internet dependency." xml:space="preserve">
+    <value>Diseñado para funcionar sin conexión. Ideal para entornos de alta seguridad sin dependencia de internet.</value>
+  </data>
+  <data name="Empower developers with a flexible platform that scales with your business needs." xml:space="preserve">
+    <value>Empodera a los desarrolladores con una plataforma flexible que escala con las necesidades de tu negocio.</value>
+  </data>
+  <data name="Get unified endpoint management (UEM), identity management (IAM), and collaboration tools (OA) in one package. All on your local servers!" xml:space="preserve">
+    <value>Obtenga gestión unificada de puntos finales (UEM), gestión de identidades (IAM) y herramientas de colaboración (OA) en un solo paquete. ¡Todo en sus servidores locales!</value>
+  </data>
+  <data name="Own Your Data" xml:space="preserve">
+    <value>Asume el control de tus datos</value>
+  </data>
+  <data name="Purchase Now" xml:space="preserve">
+    <value>Comprar ahora</value>
+  </data>
+  <data name="Supercharge Innovation" xml:space="preserve">
+    <value>Impulsa la innovación</value>
+  </data>
+  <data name="The Turnkey Enterprise Foundation" xml:space="preserve">
+    <value>La Base Fundacional Empresarial Llave en Mano</value>
+  </data>
+
+</root>

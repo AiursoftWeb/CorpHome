@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="24/7 dedicated support line" xml:space="preserve">
+    <value>خط دعم مخصص على مدار الساعة طوال أيام الأسبوع</value>
+  </data>
+  <data name="7×24 On-call Support" xml:space="preserve">
+    <value>دعم على مدار الساعة 7×24</value>
+  </data>
+  <data name="AI &amp; Intelligence" xml:space="preserve">
+    <value>الذكاء الاصطناعي والذكاء</value>
+  </data>
+  <data name="AI Knowledge Base Construction" xml:space="preserve">
+    <value>بناء قاعدة معرفة الذكاء الاصطناعي</value>
+  </data>
+  <data name="Aiursoft-hosted Email Service" xml:space="preserve">
+    <value>خدمة البريد الإلكتروني المستضافة من قبل Aiursoft</value>
+  </data>
+  <data name="AnduinOS Enterprise (Desktop OS)" xml:space="preserve">
+    <value>AnduinOS Enterprise (نظام تشغيل سطح المكتب)</value>
+  </data>
+  <data name="Business hours email support" xml:space="preserve">
+    <value>دعم عبر البريد الإلكتروني خلال ساعات العمل</value>
+  </data>
+  <data name="Business hours phone support" xml:space="preserve">
+    <value>دعم هاتفي خلال ساعات العمل</value>
+  </data>
+  <data name="Cloud Office Suite" xml:space="preserve">
+    <value>مجموعة مكاتب سحابية</value>
+  </data>
+  <data name="Communication &amp; Email" xml:space="preserve">
+    <value>التواصل والبريد الإلكتروني</value>
+  </data>
+  <data name="Compare Substratum plans" xml:space="preserve">
+    <value>قارن خطط Substratum</value>
+  </data>
+  <data name="Core" xml:space="preserve">
+    <value>النواة</value>
+  </data>
+  <data name="Custom AI pipeline" xml:space="preserve">
+    <value>خط أنابيب الذكاء الاصطناعي المخصص</value>
+  </data>
+  <data name="Custom Container Development" xml:space="preserve">
+    <value>تطوير حاويات مخصص</value>
+  </data>
+  <data name="Custom speech synthesis/recognition, search integration &amp; deep investigation pipelines" xml:space="preserve">
+    <value>توليد/استيعاب الصوت المخصص، دمج البحث، وخطوط أنابيب التحقيق العميق</value>
+  </data>
+  <data name="Custom TTS / STT, Search Engine &amp; Deep Research" xml:space="preserve">
+    <value>توليد الصوت المخصص / التعرف على الصوت، محرك البحث &amp; البحث المتعمق</value>
+  </data>
+  <data name="Deployment &amp; Hosting" xml:space="preserve">
+    <value>النشر والاستضافة</value>
+  </data>
+  <data name="DevOps &amp; Engineering" xml:space="preserve">
+    <value>DevOps &amp; Engineering</value>
+  </data>
+  <data name="Document Conversion" xml:space="preserve">
+    <value>تحويل المستندات</value>
+  </data>
+  <data name="Enterprise" xml:space="preserve">
+    <value>الشركات</value>
+  </data>
+  <data name="Enterprise Customization" xml:space="preserve">
+    <value>تخصيص المؤسسات</value>
+  </data>
+  <data name="Enterprise Scale Deployment" xml:space="preserve">
+    <value>نشر على مستوى المؤسسة</value>
+  </data>
+  <data name="Every plan is built on the same foundational stack. Higher tiers add more applications, on-premise deployment, and dedicated enterprise support on top." xml:space="preserve">
+    <value>يتم بناء كل خطة على نفس الركن الأساسي. تضيف المستويات الأعلى المزيد من التطبيقات، ونشر محلي، ودعم مخصص للمؤسسات فوق ذلك.</value>
+  </data>
+  <data name="File Storage" xml:space="preserve">
+    <value>تخزين الملفات</value>
+  </data>
+  <data name="Fleet device policy management" xml:space="preserve">
+    <value>إدارة سياسات أجهزة الأسطول</value>
+  </data>
+  <data name="Hardware key enforcement" xml:space="preserve">
+    <value>إنفاذ مفتاح الأجهزة</value>
+  </data>
+  <data name="Hosted by Aiursoft (SaaS)" xml:space="preserve">
+    <value>مُستضافة بواسطة Aiursoft (SaaS)</value>
+  </data>
+  <data name="Hosted by Aiursoft, not on-premise" xml:space="preserve">
+    <value>يُستضاف بواسطة Aiursoft، وليس محليًا</value>
+  </data>
+  <data name="HR &amp; Org Portal" xml:space="preserve">
+    <value>بوابة الموارد البشرية والتنظيم</value>
+  </data>
+  <data name="Identity &amp; Security" xml:space="preserve">
+    <value>الهوية والأمان</value>
+  </data>
+  <data name="Included" xml:space="preserve">
+    <value>المضمنة</value>
+  </data>
+  <data name="Local LLM API Gateway" xml:space="preserve">
+    <value>بوابة واجهة برمجة تطبيقات الذكاء الاصطناعي المحلي</value>
+  </data>
+  <data name="Managed endpoint OS" xml:space="preserve">
+    <value>نظام تشغيل نقاط طرفية مُدار</value>
+  </data>
+  <data name="Managed, zero-ops" xml:space="preserve">
+    <value>مدارة، بدون عمليات</value>
+  </data>
+  <data name="Max User Accounts" xml:space="preserve">
+    <value>الحد الأقصى لحسابات المستخدمين</value>
+  </data>
+  <data name="MDM Device Compliance" xml:space="preserve">
+    <value>امتثال جهاز MDM</value>
+  </data>
+  <data name="Media &amp; Personal" xml:space="preserve">
+    <value>الوسائط والشخصية</value>
+  </data>
+  <data name="mo" xml:space="preserve">
+    <value>شهرياً</value>
+  </data>
+  <data name="Multi-site &amp; HA capable" xml:space="preserve">
+    <value>قادر على تعدد المواقع والجاهزية العالية</value>
+  </data>
+  <data name="Not included" xml:space="preserve">
+    <value>غير متضمن</value>
+  </data>
+  <data name="Not included in Core" xml:space="preserve">
+    <value>غير متضمن في النسخة الأساسية</value>
+  </data>
+  <data name="Not included in Startup" xml:space="preserve">
+    <value>غير مُدرج في التشغيل التلقائي</value>
+  </data>
+  <data name="On-premise / Air-gapped Deployment" xml:space="preserve">
+    <value>نشر محلي / نشر معزول</value>
+  </data>
+  <data name="Online Code Execution" xml:space="preserve">
+    <value>تنفيذ الكود عبر الإنترنت</value>
+  </data>
+  <data name="PaddleOCR-based" xml:space="preserve">
+    <value>قائم على PaddleOCR</value>
+  </data>
+  <data name="Partial / limited" xml:space="preserve">
+    <value>جزئي / محدود</value>
+  </data>
+  <data name="PDF ingestion &amp; vector store construction via PaddleOCR" xml:space="preserve">
+    <value>استيعاف PDF وبناء مستودع متجهات عبر PaddleOCR</value>
+  </data>
+  <data name="PDF Processing &amp; Vector Database" xml:space="preserve">
+    <value>معالجة PDF وقاعدة بيانات متجهة</value>
+  </data>
+  <data name="Photo &amp; Video Management" xml:space="preserve">
+    <value>إدارة الصور والفيديو</value>
+  </data>
+  <data name="Productivity &amp; Collaboration" xml:space="preserve">
+    <value>الإنتاجية والتعاون</value>
+  </data>
+  <data name="Repository Sync" xml:space="preserve">
+    <value>مزامنة المستودع</value>
+  </data>
+  <data name="SaaS only" xml:space="preserve">
+    <value>SaaS فقط</value>
+  </data>
+  <data name="Scale &amp; Support" xml:space="preserve">
+    <value>التوسع والدعم</value>
+  </data>
+  <data name="Self-hosted LLM inference gateway" xml:space="preserve">
+    <value>بوابة استنتاج نماذج لغوية كبيرة مستضافة ذاتيًا</value>
+  </data>
+  <data name="Self-hosted on your own servers" xml:space="preserve">
+    <value>مُستضافة ذاتيًا على خوادمك الخاصة</value>
+  </data>
+  <data name="Server Monitoring" xml:space="preserve">
+    <value>مراقبة الخوادم</value>
+  </data>
+  <data name="Service / Feature" xml:space="preserve">
+    <value>الخدمة / الميزة</value>
+  </data>
+  <data name="Single-site on-premise" xml:space="preserve">
+    <value>موقع واحد محلي</value>
+  </data>
+  <data name="Source Control &amp; CI/CD" xml:space="preserve">
+    <value>التحكم في الإصدار و CI/CD</value>
+  </data>
+  <data name="SSO / Identity Gateway" xml:space="preserve">
+    <value>بوابة الهوية / الدخول الموحد</value>
+  </data>
+  <data name="Startup" xml:space="preserve">
+    <value>بداية</value>
+  </data>
+  <data name="Tailored to your stack" xml:space="preserve">
+    <value>مصممة خصيصًا لتقنياتك</value>
+  </data>
+  <data name="Talk to an Architect" xml:space="preserve">
+    <value>تحدث إلى مهندس معماري</value>
+  </data>
+  <data name="Team Voting" xml:space="preserve">
+    <value>تصويت الفريق</value>
+  </data>
+  <data name="Unlimited" xml:space="preserve">
+    <value>غير محدود</value>
+  </data>
+  <data name="URL Shortener" xml:space="preserve">
+    <value>مُختصر الروابط</value>
+  </data>
+  <data name="user" xml:space="preserve">
+    <value>مستخدم</value>
+  </data>
+  <data name="What&apos;s Included" xml:space="preserve">
+    <value>ما هو شامل</value>
+  </data>
+  <data name="Zero Trust Yubikey Auth" xml:space="preserve">
+    <value>مصادقة Yubikey ذات الثقة الصفرية</value>
+  </data>
+
+</root>

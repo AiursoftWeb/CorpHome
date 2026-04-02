@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="App Ecosystem" xml:space="preserve">
+    <value>Hệ sinh thái ứng dụng</value>
+  </data>
+  <data name="One platform. Every tool your team needs." xml:space="preserve">
+    <value>Một nền tảng. Mọi công cụ đội nhóm của bạn cần.</value>
+  </data>
+  <data name="Substratum unifies your entire software stack — from identity and source control to media, collaboration, and developer tools — on a single self-hosted server." xml:space="preserve">
+    <value>Substratum hợp nhất toàn bộ nền tảng phần mềm của bạn — từ xác thực và kiểm soát nguồn đến phương tiện, cộng tác và công cụ dành cho nhà phát triển — trên một máy chủ tự lưu trữ duy nhất.</value>
+  </data>
+
+</root>

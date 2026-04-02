@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="/ month" xml:space="preserve">
+    <value>/ mois</value>
+  </data>
+  <data name="/ user" xml:space="preserve">
+    <value>/ utilisateur</value>
+  </data>
+  <data name="AI Knowledge Base construction" xml:space="preserve">
+    <value>Construction de la base de connaissances IA</value>
+  </data>
+  <data name="Aiursoft Substratum Core" xml:space="preserve">
+    <value>Aiursoft Substratum Core</value>
+  </data>
+  <data name="Aiursoft Substratum Enterprise" xml:space="preserve">
+    <value>Aiursoft Substratum Enterprise</value>
+  </data>
+  <data name="Aiursoft Substratum Startup" xml:space="preserve">
+    <value>Aiursoft Substratum Startup</value>
+  </data>
+  <data name="AnduinOS Enterprise" xml:space="preserve">
+    <value>AnduinOS Enterprise</value>
+  </data>
+  <data name="Contact Sales" xml:space="preserve">
+    <value>Contacter les ventes</value>
+  </data>
+  <data name="Custom container development" xml:space="preserve">
+    <value>Développement de conteneur personnalisé</value>
+  </data>
+  <data name="Custom Development Fee" xml:space="preserve">
+    <value>Frais de développement personnalisé</value>
+  </data>
+  <data name="Customized for your enterprise" xml:space="preserve">
+    <value>Personnalisé pour votre entreprise</value>
+  </data>
+  <data name="Enterprise scale deployment" xml:space="preserve">
+    <value>Déploiement à l&apos;échelle de l&apos;entreprise</value>
+  </data>
+  <data name="Full Infrastructure Suite, on your local server" xml:space="preserve">
+    <value>Suite complète d&apos;infrastructure, sur votre serveur local</value>
+  </data>
+  <data name="Get a public cloud-like experience while hosting your applications in your own server." xml:space="preserve">
+    <value>Obtenez une expérience similaire à un cloud public tout en hébergeant vos applications sur votre propre serveur.</value>
+  </data>
+  <data name="Get Started" xml:space="preserve">
+    <value>Commencer</value>
+  </data>
+  <data name="Hosted by Aiursoft" xml:space="preserve">
+    <value>Hébergé par Aiursoft</value>
+  </data>
+  <data name="Includes Collaboration + Email + Identity Gateway" xml:space="preserve">
+    <value>Comprend Collaboration + Email + Identity Gateway</value>
+  </data>
+  <data name="Includes everything in Starter" xml:space="preserve">
+    <value>Inclut tout ce qui est inclus dans le forfait Starter</value>
+  </data>
+  <data name="Includes everything in Startup" xml:space="preserve">
+    <value>Comprend tout ce qui est inclus dans Startup</value>
+  </data>
+  <data name="Max 1000 accounts" xml:space="preserve">
+    <value>Max 1000 comptes</value>
+  </data>
+  <data name="MDM based device compliance" xml:space="preserve">
+    <value>Conformité des appareils basée sur la GMD</value>
+  </data>
+  <data name="On-premise offline deployment" xml:space="preserve">
+    <value>Déploiement hors ligne sur site</value>
+  </data>
+  <data name="One-time Setup Fee" xml:space="preserve">
+    <value>Frais de configuration unique</value>
+  </data>
+  <data name="Pricing" xml:space="preserve">
+    <value>Tarification</value>
+  </data>
+  <data name="Recommended" xml:space="preserve">
+    <value>Recommandé</value>
+  </data>
+  <data name="Single user account" xml:space="preserve">
+    <value>Compte utilisateur unique</value>
+  </data>
+  <data name="Specific fees need to be discussed with our architecture team to determine how to build for your enterprise." xml:space="preserve">
+    <value>Des frais spécifiques doivent être discutés avec notre équipe d&apos;architecture pour déterminer comment construire pour votre entreprise.</value>
+  </data>
+  <data name="Strengthen your business with flexible Open Source projects that run by Aiursoft." xml:space="preserve">
+    <value>Renforcez votre entreprise grâce à des projets Open Source flexibles gérés par Aiursoft.</value>
+  </data>
+  <data name="tailored to your business needs" xml:space="preserve">
+    <value>adapté aux besoins de votre entreprise</value>
+  </data>
+  <data name="Talk to an Architect" xml:space="preserve">
+    <value>Parlez à un architecte</value>
+  </data>
+  <data name="To build your offline AI knowledge base, you may need to purchase an NVIDIA GPU. This may require additional payment to NVIDIA corporation." xml:space="preserve">
+    <value>Pour construire votre base de connaissances IA hors ligne, vous devrez peut-être acheter un GPU NVIDIA. Cela peut nécessiter un paiement supplémentaire à la société NVIDIA.</value>
+  </data>
+  <data name="Zero Trust Yubikey Auth" xml:space="preserve">
+    <value>Authentification Zero Trust avec Yubikey</value>
+  </data>
+
+</root>

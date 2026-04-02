@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="24/7 dedicated support line" xml:space="preserve">
+    <value>dedikerad supportlinje dygnet runt</value>
+  </data>
+  <data name="7×24 On-call Support" xml:space="preserve">
+    <value>7×24-support på call</value>
+  </data>
+  <data name="AI &amp; Intelligence" xml:space="preserve">
+    <value>AI &amp; Intelligens</value>
+  </data>
+  <data name="AI Knowledge Base Construction" xml:space="preserve">
+    <value>AI Knowledge Base Construction</value>
+  </data>
+  <data name="Aiursoft-hosted Email Service" xml:space="preserve">
+    <value>Aiursoft-hostad e-posttjänst</value>
+  </data>
+  <data name="AnduinOS Enterprise (Desktop OS)" xml:space="preserve">
+    <value>AnduinOS Enterprise (Skrivbords-OS)</value>
+  </data>
+  <data name="Business hours email support" xml:space="preserve">
+    <value>E-postsupport under kontorstider</value>
+  </data>
+  <data name="Business hours phone support" xml:space="preserve">
+    <value>Telefonisupport under affärstid</value>
+  </data>
+  <data name="Cloud Office Suite" xml:space="preserve">
+    <value>Molnbaserad kontorspaket</value>
+  </data>
+  <data name="Communication &amp; Email" xml:space="preserve">
+    <value>Kommunikation &amp; E-post</value>
+  </data>
+  <data name="Compare Substratum plans" xml:space="preserve">
+    <value>Jämför Substratum-planer</value>
+  </data>
+  <data name="Core" xml:space="preserve">
+    <value>Kärna</value>
+  </data>
+  <data name="Custom AI pipeline" xml:space="preserve">
+    <value>Egendefinierad AI-pipeline</value>
+  </data>
+  <data name="Custom Container Development" xml:space="preserve">
+    <value>Utveckling av anpassade containrar</value>
+  </data>
+  <data name="Custom speech synthesis/recognition, search integration &amp; deep investigation pipelines" xml:space="preserve">
+    <value>Anpassad röstsyntes/igenkänning, sökinslagning &amp; djupgranskningspipelines</value>
+  </data>
+  <data name="Custom TTS / STT, Search Engine &amp; Deep Research" xml:space="preserve">
+    <value>Anpassad TTS / STT, Sökmotor &amp; Djupforskning</value>
+  </data>
+  <data name="Deployment &amp; Hosting" xml:space="preserve">
+    <value>Införande och värdskap</value>
+  </data>
+  <data name="DevOps &amp; Engineering" xml:space="preserve">
+    <value>DevOps &amp; Engineering</value>
+  </data>
+  <data name="Document Conversion" xml:space="preserve">
+    <value>Dokumentkonvertering</value>
+  </data>
+  <data name="Enterprise" xml:space="preserve">
+    <value>Företag</value>
+  </data>
+  <data name="Enterprise Customization" xml:space="preserve">
+    <value>Anpassning för företag</value>
+  </data>
+  <data name="Enterprise Scale Deployment" xml:space="preserve">
+    <value>Affärsskalig deployment</value>
+  </data>
+  <data name="Every plan is built on the same foundational stack. Higher tiers add more applications, on-premise deployment, and dedicated enterprise support on top." xml:space="preserve">
+    <value>Varje plan är byggt på samma grundläggande stack. Högre nivåer lägger till fler applikationer, on-premise-deployering och dedikerad företagsstöd ovanpå.</value>
+  </data>
+  <data name="File Storage" xml:space="preserve">
+    <value>Filförvaring</value>
+  </data>
+  <data name="Fleet device policy management" xml:space="preserve">
+    <value>Hantering av enhetspolicy för flotta</value>
+  </data>
+  <data name="Hardware key enforcement" xml:space="preserve">
+    <value>Hårdvarunöckelkrav</value>
+  </data>
+  <data name="Hosted by Aiursoft (SaaS)" xml:space="preserve">
+    <value>Värd av Aiursoft (SaaS)</value>
+  </data>
+  <data name="Hosted by Aiursoft, not on-premise" xml:space="preserve">
+    <value>Drivs av Aiursoft, inte på plats</value>
+  </data>
+  <data name="HR &amp; Org Portal" xml:space="preserve">
+    <value>HR- och organisationsportal</value>
+  </data>
+  <data name="Identity &amp; Security" xml:space="preserve">
+    <value>Identitet &amp; Säkerhet</value>
+  </data>
+  <data name="Included" xml:space="preserve">
+    <value>Inkluderat</value>
+  </data>
+  <data name="Local LLM API Gateway" xml:space="preserve">
+    <value>Lokal LLM API-gateway</value>
+  </data>
+  <data name="Managed endpoint OS" xml:space="preserve">
+    <value>Hanterad slutpunkts-OS</value>
+  </data>
+  <data name="Managed, zero-ops" xml:space="preserve">
+    <value>Hanterad, noll drift</value>
+  </data>
+  <data name="Max User Accounts" xml:space="preserve">
+    <value>Max antal användarkonton</value>
+  </data>
+  <data name="MDM Device Compliance" xml:space="preserve">
+    <value>MDM-enhetens efterlevnad</value>
+  </data>
+  <data name="Media &amp; Personal" xml:space="preserve">
+    <value>Media &amp; Personligt</value>
+  </data>
+  <data name="mo" xml:space="preserve">
+    <value>mån</value>
+  </data>
+  <data name="Multi-site &amp; HA capable" xml:space="preserve">
+    <value>Flerortsbaserad &amp; HA-kapabel</value>
+  </data>
+  <data name="Not included" xml:space="preserve">
+    <value>Ingår inte</value>
+  </data>
+  <data name="Not included in Core" xml:space="preserve">
+    <value>Ingenlunda ingår i kärnan</value>
+  </data>
+  <data name="Not included in Startup" xml:space="preserve">
+    <value>Ingår inte i Startup</value>
+  </data>
+  <data name="On-premise / Air-gapped Deployment" xml:space="preserve">
+    <value>Lokal installation / Luftspaltad installation</value>
+  </data>
+  <data name="Online Code Execution" xml:space="preserve">
+    <value>Kodkörning online</value>
+  </data>
+  <data name="PaddleOCR-based" xml:space="preserve">
+    <value>PaddleOCR-baserad</value>
+  </data>
+  <data name="Partial / limited" xml:space="preserve">
+    <value>Delvis / begränsat</value>
+  </data>
+  <data name="PDF ingestion &amp; vector store construction via PaddleOCR" xml:space="preserve">
+    <value>Inmatning av PDF och konstruktion av vektorlagring via PaddleOCR</value>
+  </data>
+  <data name="PDF Processing &amp; Vector Database" xml:space="preserve">
+    <value>PDF-behandling och vektordatabas</value>
+  </data>
+  <data name="Photo &amp; Video Management" xml:space="preserve">
+    <value>Fotografi- och videohantering</value>
+  </data>
+  <data name="Productivity &amp; Collaboration" xml:space="preserve">
+    <value>Produktivitet &amp; samarbete</value>
+  </data>
+  <data name="Repository Sync" xml:space="preserve">
+    <value>Repository Sync</value>
+  </data>
+  <data name="SaaS only" xml:space="preserve">
+    <value>Endast SaaS</value>
+  </data>
+  <data name="Scale &amp; Support" xml:space="preserve">
+    <value>Skalering &amp; Support</value>
+  </data>
+  <data name="Self-hosted LLM inference gateway" xml:space="preserve">
+    <value>Självhostad LLM-inferensgateway</value>
+  </data>
+  <data name="Self-hosted on your own servers" xml:space="preserve">
+    <value>Självhostad på dina egna servrar</value>
+  </data>
+  <data name="Server Monitoring" xml:space="preserve">
+    <value>Serverövervakning</value>
+  </data>
+  <data name="Service / Feature" xml:space="preserve">
+    <value>Tjänst / Funktion</value>
+  </data>
+  <data name="Single-site on-premise" xml:space="preserve">
+    <value>Enskild plats, lokal installation</value>
+  </data>
+  <data name="Source Control &amp; CI/CD" xml:space="preserve">
+    <value>Källkodscontroll &amp; CI/CD</value>
+  </data>
+  <data name="SSO / Identity Gateway" xml:space="preserve">
+    <value>SSO / identitetsgateway</value>
+  </data>
+  <data name="Startup" xml:space="preserve">
+    <value>Start-up</value>
+  </data>
+  <data name="Tailored to your stack" xml:space="preserve">
+    <value>Skräddarsydd efter din teknikstack</value>
+  </data>
+  <data name="Talk to an Architect" xml:space="preserve">
+    <value>Prata med en arkitekt</value>
+  </data>
+  <data name="Team Voting" xml:space="preserve">
+    <value>Teamrösta</value>
+  </data>
+  <data name="Unlimited" xml:space="preserve">
+    <value>Obegränsat</value>
+  </data>
+  <data name="URL Shortener" xml:space="preserve">
+    <value>URL-förkortare</value>
+  </data>
+  <data name="user" xml:space="preserve">
+    <value>användare</value>
+  </data>
+  <data name="What&apos;s Included" xml:space="preserve">
+    <value>Vad som ingår</value>
+  </data>
+  <data name="Zero Trust Yubikey Auth" xml:space="preserve">
+    <value>Zero Trust Yubikey-authning</value>
+  </data>
+
+</root>

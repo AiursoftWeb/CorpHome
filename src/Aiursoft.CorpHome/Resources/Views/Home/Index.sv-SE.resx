@@ -54,6 +54,9 @@
   <data name="Achieve more with Aiursoft Template" xml:space="preserve">
     <value>Uppnå mer med Aiursoft Template</value>
   </data>
+  <data name="AI Agents Integration" xml:space="preserve">
+    <value>Integration av AI-agenter</value>
+  </data>
   <data name="AI Era" xml:space="preserve">
     <value>AI-eran</value>
   </data>
@@ -173,6 +176,9 @@
   </data>
   <data name="Break Vendor Lock-in" xml:space="preserve">
     <value>Bryt leverantörslåsning</value>
+  </data>
+  <data name="Browse Source Code" xml:space="preserve">
+    <value>Bläddra i källkoden</value>
   </data>
   <data name="Build once, run anywhere. Fully containerized architecture." xml:space="preserve">
     <value>Bygg en gång, kör överallt. Fullt containeriserad arkitektur.</value>
@@ -383,6 +389,9 @@
   </data>
   <data name="Every access is verified, every connection is encrypted, every action is audited." xml:space="preserve">
     <value>Varje åtkomst verifieras, varje anslutning krypteras, varje åtgärd spåras.</value>
+  </data>
+  <data name="Experience Aiursoft AI" xml:space="preserve">
+    <value>Upptäcka Aiursoft AI</value>
   </data>
   <data name="Explore on GitHub" xml:space="preserve">
     <value>Utforska på GitHub</value>
@@ -611,6 +620,9 @@
   </data>
   <data name="Offline Capable" xml:space="preserve">
     <value>Offline-förmåga</value>
+  </data>
+  <data name="OllamaGateway has been officially tested and is fully compatible with popular ecosystem tools including Open-WebUI, Opencode, and Roocode. Its robust API translation makes it the ideal choice for deploying autonomous AI agents." xml:space="preserve">
+    <value>OllamaGateway har officiellt testats och är fullt kompatibel med populära verktyg i ekosystemet, inklusive Open-WebUI, Opencode och Roocode. Dess robusta API-översättning gör den till det idealiska valet för att implementera autonoma AI-agenter.</value>
   </data>
   <data name="On-premise offline deployment" xml:space="preserve">
     <value>On-premise offline distribution</value>
