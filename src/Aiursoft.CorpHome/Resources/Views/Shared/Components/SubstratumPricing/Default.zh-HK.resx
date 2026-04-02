@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="/ month" xml:space="preserve">
+    <value>/ 月</value>
+  </data>
+  <data name="/ user" xml:space="preserve">
+    <value>/ 用戶</value>
+  </data>
+  <data name="AI Knowledge Base construction" xml:space="preserve">
+    <value>AI 知識庫構建</value>
+  </data>
+  <data name="Aiursoft Substratum Core" xml:space="preserve">
+    <value>Aiursoft Substratum Core</value>
+  </data>
+  <data name="Aiursoft Substratum Enterprise" xml:space="preserve">
+    <value>Aiursoft Substratum Enterprise</value>
+  </data>
+  <data name="Aiursoft Substratum Startup" xml:space="preserve">
+    <value>Aiursoft Substratum Startup</value>
+  </data>
+  <data name="AnduinOS Enterprise" xml:space="preserve">
+    <value>AnduinOS Enterprise</value>
+  </data>
+  <data name="Contact Sales" xml:space="preserve">
+    <value>聯絡銷售</value>
+  </data>
+  <data name="Custom container development" xml:space="preserve">
+    <value>自訂容器開發</value>
+  </data>
+  <data name="Custom Development Fee" xml:space="preserve">
+    <value>定制開發費用</value>
+  </data>
+  <data name="Customized for your enterprise" xml:space="preserve">
+    <value>為您的企業量身打造</value>
+  </data>
+  <data name="Enterprise scale deployment" xml:space="preserve">
+    <value>企業級規模部署</value>
+  </data>
+  <data name="Full Infrastructure Suite, on your local server" xml:space="preserve">
+    <value>完整基礎設施套件，部署於您的本地服務器</value>
+  </data>
+  <data name="Get a public cloud-like experience while hosting your applications in your own server." xml:space="preserve">
+    <value>在自有服務器上託管您的應用程序時，獲得類似公有雲的體驗。</value>
+  </data>
+  <data name="Get Started" xml:space="preserve">
+    <value>立即開始</value>
+  </data>
+  <data name="Hosted by Aiursoft" xml:space="preserve">
+    <value>由 Aiursoft 托管</value>
+  </data>
+  <data name="Includes Collaboration + Email + Identity Gateway" xml:space="preserve">
+    <value>包含協作 + 電郵 + 身份網關</value>
+  </data>
+  <data name="Includes everything in Starter" xml:space="preserve">
+    <value>包含 Starter 版的所有功能</value>
+  </data>
+  <data name="Includes everything in Startup" xml:space="preserve">
+    <value>包含 Startup 中的所有內容</value>
+  </data>
+  <data name="Max 1000 accounts" xml:space="preserve">
+    <value>最多 1000 個帳戶</value>
+  </data>
+  <data name="MDM based device compliance" xml:space="preserve">
+    <value>基於 MDM 的裝置合規性</value>
+  </data>
+  <data name="On-premise offline deployment" xml:space="preserve">
+    <value>本地離線部署</value>
+  </data>
+  <data name="One-time Setup Fee" xml:space="preserve">
+    <value>一次性設置費用</value>
+  </data>
+  <data name="Pricing" xml:space="preserve">
+    <value>定價</value>
+  </data>
+  <data name="Recommended" xml:space="preserve">
+    <value>推薦</value>
+  </data>
+  <data name="Single user account" xml:space="preserve">
+    <value>單一用戶賬戶</value>
+  </data>
+  <data name="Specific fees need to be discussed with our architecture team to determine how to build for your enterprise." xml:space="preserve">
+    <value>具體費用需與我們的架構團隊商討，以確定如何為您的企業進行構建。</value>
+  </data>
+  <data name="Strengthen your business with flexible Open Source projects that run by Aiursoft." xml:space="preserve">
+    <value>以 Aiursoft 提供的靈活開源項目加強您的業務。</value>
+  </data>
+  <data name="tailored to your business needs" xml:space="preserve">
+    <value>為您的業務需要而度身訂造</value>
+  </data>
+  <data name="Talk to an Architect" xml:space="preserve">
+    <value>與建築師洽談</value>
+  </data>
+  <data name="To build your offline AI knowledge base, you may need to purchase an NVIDIA GPU. This may require additional payment to NVIDIA corporation." xml:space="preserve">
+    <value>要構建您的離線 AI 知識庫，您可能需要購買 NVIDIA GPU。這可能需要向 NVIDIA 公司支付額外費用。</value>
+  </data>
+  <data name="Zero Trust Yubikey Auth" xml:space="preserve">
+    <value>零信任 Yubikey 身份驗證</value>
+  </data>
+
+</root>

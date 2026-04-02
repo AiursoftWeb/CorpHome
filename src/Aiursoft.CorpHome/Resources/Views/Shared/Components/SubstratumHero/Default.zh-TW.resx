@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="Air-Gapped Ready" xml:space="preserve">
+    <value>已準備好進行空氣間隙隔離</value>
+  </data>
+  <data name="Break Vendor Lock-in" xml:space="preserve">
+    <value>打破供應商鎖定</value>
+  </data>
+  <data name="Built on open standards. Migrate in or out anytime with full data portability and transparency." xml:space="preserve">
+    <value>基於開放標準。隨時進出，享有完整資料可攜性與透明度。</value>
+  </data>
+  <data name="Complete control over your enterprise data. No third-party access, full privacy compliance." xml:space="preserve">
+    <value>完全掌控您的企業數據。無第三方存取，符合全面隱私規範。</value>
+  </data>
+  <data name="Contact Us" xml:space="preserve">
+    <value>聯絡我們</value>
+  </data>
+  <data name="Designed to run offline. Perfect for high-security environments with no internet dependency." xml:space="preserve">
+    <value>設計用於離線運行。適合無網路依賴的高安全環境。</value>
+  </data>
+  <data name="Empower developers with a flexible platform that scales with your business needs." xml:space="preserve">
+    <value>賦予開發者一個能隨業務需求靈活擴展的平台</value>
+  </data>
+  <data name="Get unified endpoint management (UEM), identity management (IAM), and collaboration tools (OA) in one package. All on your local servers!" xml:space="preserve">
+    <value>一次獲得統一端點管理 (UEM)、身份管理 (IAM) 與協作工具 (OA)。所有功能皆部署於您本地的伺服器上！</value>
+  </data>
+  <data name="Own Your Data" xml:space="preserve">
+    <value>掌握您的資料</value>
+  </data>
+  <data name="Purchase Now" xml:space="preserve">
+    <value>立即購買</value>
+  </data>
+  <data name="Supercharge Innovation" xml:space="preserve">
+    <value>加速創新</value>
+  </data>
+  <data name="The Turnkey Enterprise Foundation" xml:space="preserve">
+    <value>Turnkey 企業基礎架構</value>
+  </data>
+
+</root>

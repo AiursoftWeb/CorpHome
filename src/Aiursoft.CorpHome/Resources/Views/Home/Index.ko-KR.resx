@@ -54,6 +54,9 @@
   <data name="Achieve more with Aiursoft Template" xml:space="preserve">
     <value>Aiursoft 템플릿으로 더 많은 성과를 이루세요</value>
   </data>
+  <data name="AI Agents Integration" xml:space="preserve">
+    <value>AI 에이전트 통합</value>
+  </data>
   <data name="AI Era" xml:space="preserve">
     <value>AI 시대</value>
   </data>
@@ -173,6 +176,9 @@
   </data>
   <data name="Break Vendor Lock-in" xml:space="preserve">
     <value>공급업체 종속성 해제</value>
+  </data>
+  <data name="Browse Source Code" xml:space="preserve">
+    <value>소스 코드 보기</value>
   </data>
   <data name="Build once, run anywhere. Fully containerized architecture." xml:space="preserve">
     <value>한 번 빌드하면 어디서나 실행 가능. 완전히 컨테이너화된 아키텍처.</value>
@@ -383,6 +389,9 @@
   </data>
   <data name="Every access is verified, every connection is encrypted, every action is audited." xml:space="preserve">
     <value>모든 접근은 검증되며, 모든 연결은 암호화되며, 모든 작업은 감사됩니다.</value>
+  </data>
+  <data name="Experience Aiursoft AI" xml:space="preserve">
+    <value>Aiursoft AI 체험하기</value>
   </data>
   <data name="Explore on GitHub" xml:space="preserve">
     <value>GitHub에서 탐색하기</value>
@@ -611,6 +620,9 @@
   </data>
   <data name="Offline Capable" xml:space="preserve">
     <value>오프라인 사용 가능</value>
+  </data>
+  <data name="OllamaGateway has been officially tested and is fully compatible with popular ecosystem tools including Open-WebUI, Opencode, and Roocode. Its robust API translation makes it the ideal choice for deploying autonomous AI agents." xml:space="preserve">
+    <value>OllamaGateway는 공식적으로 테스트되었으며 Open-WebUI, Opencode, Roocode를 포함한 인기 있는 생태계 도구와 완전히 호환됩니다. 강력한 API 변환으로 인해 자율 AI 에이전트를 배포하는 데 이상적인 선택입니다.</value>
   </data>
   <data name="On-premise offline deployment" xml:space="preserve">
     <value>온프레미스 오프라인 배포</value>

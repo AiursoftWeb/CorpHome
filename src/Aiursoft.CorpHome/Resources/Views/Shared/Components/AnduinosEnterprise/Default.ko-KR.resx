@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="7×24 On-Call Support" xml:space="preserve">
+    <value>7×24 온콜 지원</value>
+  </data>
+  <data name="AnduinOS Enterprise" xml:space="preserve">
+    <value>AnduinOS Enterprise</value>
+  </data>
+  <data name="AnduinOS Enterprise Edition adds enterprise-grade customer support and 7×24 phone on-call on top of the community edition." xml:space="preserve">
+    <value>AnduinOS Enterprise Edition은 커뮤니티 에디션에 엔터프라이즈급 고객 지원 및 7×24 시간 전화 온콜을 추가합니다.</value>
+  </data>
+  <data name="Brand the OS with your company logo, pre-installed software, and compliance requirements." xml:space="preserve">
+    <value>OS 에 회사 로고, 사전 설치된 소프트웨어 및 규정 준수 요구 사항을 적용하세요.</value>
+  </data>
+  <data name="Build your own intranet software sources to accelerate compliance and reduce patching turnaround time." xml:space="preserve">
+    <value>사용자만의 내부망 소프트웨어 소스를 구축하여 규정 준수를 가속화하고 패치 처리 시간을 단축하세요.</value>
+  </data>
+  <data name="Compliance Ready" xml:space="preserve">
+    <value>준비 완료된 규정 준수</value>
+  </data>
+  <data name="Custom Branding" xml:space="preserve">
+    <value>사용자 지정 브랜딩</value>
+  </data>
+  <data name="Easily achieve zero-trust and hardware-level security based on Yubico hardware keys." xml:space="preserve">
+    <value>Yubico 하드웨어 키를 기반으로 제로 트러스트 및 하드웨어 수준의 보안을 쉽게 달성하세요.</value>
+  </data>
+  <data name="Endpoint Monitoring" xml:space="preserve">
+    <value>엔드포인트 모니터링</value>
+  </data>
+  <data name="Enterprise customers get round-the-clock telephone support, ensuring critical issues are addressed immediately." xml:space="preserve">
+    <value>기업 고객은 연중무휴 전화 지원을 받아 중요한 문제가 즉시 해결되도록 보장합니다.</value>
+  </data>
+  <data name="Freedom and enterprise service don&apos;t conflict." xml:space="preserve">
+    <value>자유와 기업 서비스는 충돌하지 않습니다.</value>
+  </data>
+  <data name="Hardware-Level Security" xml:space="preserve">
+    <value>하드웨어 수준의 보안</value>
+  </data>
+  <data name="IT teams can monitor the health of all endpoints and perform basic remote management." xml:space="preserve">
+    <value>IT 팀은 모든 엔드포인트의 상태를 모니터링하고 기본 원격 관리를 수행할 수 있습니다.</value>
+  </data>
+  <data name="Meet industry compliance requirements with auditable configurations and enterprise-grade controls." xml:space="preserve">
+    <value>산업 규정 준수 요구 사항을 감사 가능한 구성 및 엔터프라이즈급 컨트롤로 충족하세요.</value>
+  </data>
+  <data name="Private Package Repository" xml:space="preserve">
+    <value>개인 패키지 저장소</value>
+  </data>
+
+</root>

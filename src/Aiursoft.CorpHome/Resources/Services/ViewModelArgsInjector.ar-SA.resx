@@ -153,6 +153,9 @@
   <data name="Sign out" xml:space="preserve">
     <value>تسجيل الخروج</value>
   </data>
+  <data name="Substratum" xml:space="preserve">
+    <value>الطبقة الأساسية</value>
+  </data>
   <data name="System" xml:space="preserve">
     <value>النظام</value>
   </data>
