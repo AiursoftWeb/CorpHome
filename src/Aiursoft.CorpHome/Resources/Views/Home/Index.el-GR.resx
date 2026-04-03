@@ -54,6 +54,9 @@
   <data name="Achieve more with Aiursoft Template" xml:space="preserve">
     <value>Κερδίστε περισσότερα με το Aiursoft Template</value>
   </data>
+  <data name="AI Agents Integration" xml:space="preserve">
+    <value>Ενσωμάτωση Πρακτόρων Τεχνητής Νοημοσύνης</value>
+  </data>
   <data name="AI Era" xml:space="preserve">
     <value>Εποχή Τεχνητής Νοημοσύνης</value>
   </data>
@@ -173,6 +176,9 @@
   </data>
   <data name="Break Vendor Lock-in" xml:space="preserve">
     <value>Καταργήστε την Εξάρτηση από τον Προμηθευτή</value>
+  </data>
+  <data name="Browse Source Code" xml:space="preserve">
+    <value>Περιήγηση στον Πηγαίο Κώδικα</value>
   </data>
   <data name="Build once, run anywhere. Fully containerized architecture." xml:space="preserve">
     <value>Κατασκευάστε μία φορά, εκτελέστε παντού. Πλήρως ενσωματωμένη αρχιτεκτονική με δοχεία.</value>
@@ -383,6 +389,9 @@
   </data>
   <data name="Every access is verified, every connection is encrypted, every action is audited." xml:space="preserve">
     <value>Κάθε πρόσβαση ελέγχεται, κάθε σύνδεση κρυπτογραφείται, κάθε ενέργεια καταγράφεται.</value>
+  </data>
+  <data name="Experience Aiursoft AI" xml:space="preserve">
+    <value>Αποκτήστε εμπειρία με την AI της Aiursoft</value>
   </data>
   <data name="Explore on GitHub" xml:space="preserve">
     <value>Εξερευνήστε στο GitHub</value>
@@ -611,6 +620,9 @@
   </data>
   <data name="Offline Capable" xml:space="preserve">
     <value>Εκτός Σύνδεσης Εφοδιασμένο</value>
+  </data>
+  <data name="OllamaGateway has been officially tested and is fully compatible with popular ecosystem tools including Open-WebUI, Opencode, and Roocode. Its robust API translation makes it the ideal choice for deploying autonomous AI agents." xml:space="preserve">
+    <value>Το OllamaGateway έχει ελεγχθεί επίσημα και είναι πλήρως συμβατό με δημοφιλή εργαλεία του οικοσυστήματος, συμπεριλαμβανομένων των Open-WebUI, Opencode και Roocode. Η ισχυρή μετάφραση API του το καθιστά την ιδανική επιλογή για την ανάπτυξη αυτόνομων τεχνητών νοημοσυνών (AI agents).</value>
   </data>
   <data name="On-premise offline deployment" xml:space="preserve">
     <value>Εγκατάσταση εκτός δικτύου στον χώρο του πελάτη</value>

@@ -54,6 +54,9 @@
   <data name="Achieve more with Aiursoft Template" xml:space="preserve">
     <value>Realizați mai multe cu Aiursoft Template</value>
   </data>
+  <data name="AI Agents Integration" xml:space="preserve">
+    <value>Integrare agenți AI</value>
+  </data>
   <data name="AI Era" xml:space="preserve">
     <value>Era AI</value>
   </data>
@@ -173,6 +176,9 @@
   </data>
   <data name="Break Vendor Lock-in" xml:space="preserve">
     <value>Întrerupe blocarea de la furnizor</value>
+  </data>
+  <data name="Browse Source Code" xml:space="preserve">
+    <value>Parcurge codul sursă</value>
   </data>
   <data name="Build once, run anywhere. Fully containerized architecture." xml:space="preserve">
     <value>Construiți o dată, rulați oriunde. Arhitectură complet containerizată.</value>
@@ -383,6 +389,9 @@
   </data>
   <data name="Every access is verified, every connection is encrypted, every action is audited." xml:space="preserve">
     <value>Fiecare acces este verificat, fiecare conexiune este criptată, fiecare acțiune este auditată.</value>
+  </data>
+  <data name="Experience Aiursoft AI" xml:space="preserve">
+    <value>Experimentează Aiursoft AI</value>
   </data>
   <data name="Explore on GitHub" xml:space="preserve">
     <value>Exploră pe GitHub</value>
@@ -611,6 +620,9 @@
   </data>
   <data name="Offline Capable" xml:space="preserve">
     <value>Capabil offline</value>
+  </data>
+  <data name="OllamaGateway has been officially tested and is fully compatible with popular ecosystem tools including Open-WebUI, Opencode, and Roocode. Its robust API translation makes it the ideal choice for deploying autonomous AI agents." xml:space="preserve">
+    <value>OllamaGateway a fost testat oficial și este complet compatibil cu instrumente populare din ecosistem, inclusiv Open-WebUI, Opencode și Roocode. Traducerea sa robustă a API-ului o face alegerea ideală pentru implementarea agenților AI autonomi.</value>
   </data>
   <data name="On-premise offline deployment" xml:space="preserve">
     <value>Implementare offline pe loc</value>

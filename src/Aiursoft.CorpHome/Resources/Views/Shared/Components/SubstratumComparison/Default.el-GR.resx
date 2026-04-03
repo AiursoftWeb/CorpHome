@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="24/7 dedicated support line" xml:space="preserve">
+    <value>Γραμμή εξυπηρέτησης 24/7 με εξειδικευμένο προσωπικό</value>
+  </data>
+  <data name="7×24 On-call Support" xml:space="preserve">
+    <value>Υποστήριξη 7×24 On-call</value>
+  </data>
+  <data name="AI &amp; Intelligence" xml:space="preserve">
+    <value>Τεχνητή Νοημοσύνη &amp; Εξυπνάδα</value>
+  </data>
+  <data name="AI Knowledge Base Construction" xml:space="preserve">
+    <value>Δημιουργία Βάσης Γνώσεων Τεχνητής Νοημοσύνης</value>
+  </data>
+  <data name="Aiursoft-hosted Email Service" xml:space="preserve">
+    <value>Ηλεκτρονικό ταχυδρομείο που φιλοξενείται από την Aiursoft</value>
+  </data>
+  <data name="AnduinOS Enterprise (Desktop OS)" xml:space="preserve">
+    <value>AnduinOS Enterprise (Επιτραπέζιο Λειτουργικό Σύστημα)</value>
+  </data>
+  <data name="Business hours email support" xml:space="preserve">
+    <value>Υποστήριξη μέσω email κατά τις ώρες εργασίας</value>
+  </data>
+  <data name="Business hours phone support" xml:space="preserve">
+    <value>Τηλεφωνική υποστήριξη κατά τις ώρες εργασίας</value>
+  </data>
+  <data name="Cloud Office Suite" xml:space="preserve">
+    <value>Σύνολο Γραφείου στο Cloud</value>
+  </data>
+  <data name="Communication &amp; Email" xml:space="preserve">
+    <value>Επικοινωνία &amp; Ηλεκτρονικό Ταχυδρομείο</value>
+  </data>
+  <data name="Compare Substratum plans" xml:space="preserve">
+    <value>Σύγκριση σχεδίων Substratum</value>
+  </data>
+  <data name="Core" xml:space="preserve">
+    <value>Κύριο</value>
+  </data>
+  <data name="Custom AI pipeline" xml:space="preserve">
+    <value>Προσαρμοσμένη AI ροή εργασίας</value>
+  </data>
+  <data name="Custom Container Development" xml:space="preserve">
+    <value>Προσαρμοσμένη Ανάπτυξη Δοχείων</value>
+  </data>
+  <data name="Custom speech synthesis/recognition, search integration &amp; deep investigation pipelines" xml:space="preserve">
+    <value>Προσαρμοσμένη σύνθεση και αναγνώριση ομιλίας, ενσωμάτωση αναζήτησης &amp; αλυσίδες βαθιάς διερεύνησης</value>
+  </data>
+  <data name="Custom TTS / STT, Search Engine &amp; Deep Research" xml:space="preserve">
+    <value>Προσαρμοσμένο TTS / STT, Μηχανή Αναζήτησης &amp; Βαθιά Έρευνα</value>
+  </data>
+  <data name="Deployment &amp; Hosting" xml:space="preserve">
+    <value>Εγκατάσταση &amp; Φιλοξενία</value>
+  </data>
+  <data name="DevOps &amp; Engineering" xml:space="preserve">
+    <value>DevOps &amp; Engineering</value>
+  </data>
+  <data name="Document Conversion" xml:space="preserve">
+    <value>Μετατροπή εγγράφων</value>
+  </data>
+  <data name="Enterprise" xml:space="preserve">
+    <value>Επιχειρησιακό</value>
+  </data>
+  <data name="Enterprise Customization" xml:space="preserve">
+    <value>Επιχειρησιακή Προσαρμογή</value>
+  </data>
+  <data name="Enterprise Scale Deployment" xml:space="preserve">
+    <value>Επιχειρηματική Κλίμακα Διάταξη</value>
+  </data>
+  <data name="Every plan is built on the same foundational stack. Higher tiers add more applications, on-premise deployment, and dedicated enterprise support on top." xml:space="preserve">
+    <value>Κάθε σχέδιο χτίζεται πάνω στην ίδια θεμελιώδη υποδομή. Τα υψηλότερα επίπεδα προσθέτουν περισσότερες εφαρμογές, τοπική εγκατάσταση και εξειδικευμένη επιχειρηματική υποστήριξη.</value>
+  </data>
+  <data name="File Storage" xml:space="preserve">
+    <value>Αποθήκευση Αρχείων</value>
+  </data>
+  <data name="Fleet device policy management" xml:space="preserve">
+    <value>Διαχείριση πολιτικών συσκευών στόλου</value>
+  </data>
+  <data name="Hardware key enforcement" xml:space="preserve">
+    <value>Επιβολή κλειδιού υλικού</value>
+  </data>
+  <data name="Hosted by Aiursoft (SaaS)" xml:space="preserve">
+    <value>Διαμεταφορά από Aiursoft (SaaS)</value>
+  </data>
+  <data name="Hosted by Aiursoft, not on-premise" xml:space="preserve">
+    <value>Διαχείριση από την Aiursoft, όχι τοπικά</value>
+  </data>
+  <data name="HR &amp; Org Portal" xml:space="preserve">
+    <value>Πύλη HR &amp; Οργανισμού</value>
+  </data>
+  <data name="Identity &amp; Security" xml:space="preserve">
+    <value>Ταυτότητα &amp; Ασφάλεια</value>
+  </data>
+  <data name="Included" xml:space="preserve">
+    <value>Περιλαμβάνεται</value>
+  </data>
+  <data name="Local LLM API Gateway" xml:space="preserve">
+    <value>Πύλη API Τοπικού LLM</value>
+  </data>
+  <data name="Managed endpoint OS" xml:space="preserve">
+    <value>Διαχειριζόμενο λειτουργικό σύστημα τερματικού</value>
+  </data>
+  <data name="Managed, zero-ops" xml:space="preserve">
+    <value>Διαχειριζόμενο, χωρίς λειτουργίες</value>
+  </data>
+  <data name="Max User Accounts" xml:space="preserve">
+    <value>Μέγιστος αριθμός λογαριασμών χρηστών</value>
+  </data>
+  <data name="MDM Device Compliance" xml:space="preserve">
+    <value>Συμμόρφωση συσκευών MDM</value>
+  </data>
+  <data name="Media &amp; Personal" xml:space="preserve">
+    <value>Μέσα &amp; Προσωπικά</value>
+  </data>
+  <data name="mo" xml:space="preserve">
+    <value>μήνα</value>
+  </data>
+  <data name="Multi-site &amp; HA capable" xml:space="preserve">
+    <value>Πολλαπλών τοποθεσιών &amp; ικανό για HA</value>
+  </data>
+  <data name="Not included" xml:space="preserve">
+    <value>Δεν περιλαμβάνεται</value>
+  </data>
+  <data name="Not included in Core" xml:space="preserve">
+    <value>Δεν περιλαμβάνεται στο Core</value>
+  </data>
+  <data name="Not included in Startup" xml:space="preserve">
+    <value>Δεν περιλαμβάνεται στην εκκίνηση</value>
+  </data>
+  <data name="On-premise / Air-gapped Deployment" xml:space="preserve">
+    <value>Εγκατάσταση τοπικά / Εγκατάσταση σε περιβάλλον χωρίς σύνδεση</value>
+  </data>
+  <data name="Online Code Execution" xml:space="preserve">
+    <value>Προγραμματισμός Κώδικα στο Διαδίκτυο</value>
+  </data>
+  <data name="PaddleOCR-based" xml:space="preserve">
+    <value>Βασισμένο στο PaddleOCR</value>
+  </data>
+  <data name="Partial / limited" xml:space="preserve">
+    <value>Μερική / Περιορισμένη</value>
+  </data>
+  <data name="PDF ingestion &amp; vector store construction via PaddleOCR" xml:space="preserve">
+    <value>Εισαγωγή PDF &amp; κατασκευή αποθήκης διανυσμάτων μέσω PaddleOCR</value>
+  </data>
+  <data name="PDF Processing &amp; Vector Database" xml:space="preserve">
+    <value>Επεξεργασία PDF &amp; Βάση Δεδομένων Διανυσμάτων</value>
+  </data>
+  <data name="Photo &amp; Video Management" xml:space="preserve">
+    <value>Διαχείριση Φωτογραφιών &amp; Βίντεο</value>
+  </data>
+  <data name="Productivity &amp; Collaboration" xml:space="preserve">
+    <value>Παραγωγικότητα &amp; Συνεργασία</value>
+  </data>
+  <data name="Repository Sync" xml:space="preserve">
+    <value>Συγχρονισμός Αποθετηρίου</value>
+  </data>
+  <data name="SaaS only" xml:space="preserve">
+    <value>Μόνο SaaS</value>
+  </data>
+  <data name="Scale &amp; Support" xml:space="preserve">
+    <value>Κλιμάκωση &amp; Υποστήριξη</value>
+  </data>
+  <data name="Self-hosted LLM inference gateway" xml:space="preserve">
+    <value>Πύλη εγγενούς εκτέλεσης LLM</value>
+  </data>
+  <data name="Self-hosted on your own servers" xml:space="preserve">
+    <value>Αυτοεξυπηρετούμενο σε δικούς σας servers</value>
+  </data>
+  <data name="Server Monitoring" xml:space="preserve">
+    <value>Παρακολούθηση Εξυπηρετητή</value>
+  </data>
+  <data name="Service / Feature" xml:space="preserve">
+    <value>Υπηρεσία / Λειτουργία</value>
+  </data>
+  <data name="Single-site on-premise" xml:space="preserve">
+    <value>Εγκατάσταση σε τοπικό δίκτυο σε μία τοποθεσία</value>
+  </data>
+  <data name="Source Control &amp; CI/CD" xml:space="preserve">
+    <value>Έλεγχος Πηγής &amp; CI/CD</value>
+  </data>
+  <data name="SSO / Identity Gateway" xml:space="preserve">
+    <value>SSO / Πύλη Ταυτότητας</value>
+  </data>
+  <data name="Startup" xml:space="preserve">
+    <value>Επιχείρησης</value>
+  </data>
+  <data name="Tailored to your stack" xml:space="preserve">
+    <value>Προσαρμοσμένο στο δικό σας περιβάλλον</value>
+  </data>
+  <data name="Talk to an Architect" xml:space="preserve">
+    <value>Μιλήστε με έναν Αρχιτέκτονα</value>
+  </data>
+  <data name="Team Voting" xml:space="preserve">
+    <value>Ψηφοφορία Ομάδας</value>
+  </data>
+  <data name="Unlimited" xml:space="preserve">
+    <value>Άπειρο</value>
+  </data>
+  <data name="URL Shortener" xml:space="preserve">
+    <value>Συντομευτής URL</value>
+  </data>
+  <data name="user" xml:space="preserve">
+    <value>χρήστη</value>
+  </data>
+  <data name="What&apos;s Included" xml:space="preserve">
+    <value>Τι περιλαμβάνεται</value>
+  </data>
+  <data name="Zero Trust Yubikey Auth" xml:space="preserve">
+    <value>Zero Trust Yubikey Auth</value>
+  </data>
+
+</root>

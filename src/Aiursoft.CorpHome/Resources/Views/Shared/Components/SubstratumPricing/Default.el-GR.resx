@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="/ month" xml:space="preserve">
+    <value>/ μήνα</value>
+  </data>
+  <data name="/ user" xml:space="preserve">
+    <value>/ χρήστη</value>
+  </data>
+  <data name="AI Knowledge Base construction" xml:space="preserve">
+    <value>Κατασκευή βάσης γνώσης AI</value>
+  </data>
+  <data name="Aiursoft Substratum Core" xml:space="preserve">
+    <value>Aiursoft Substratum Core</value>
+  </data>
+  <data name="Aiursoft Substratum Enterprise" xml:space="preserve">
+    <value>Aiursoft Substratum Enterprise</value>
+  </data>
+  <data name="Aiursoft Substratum Startup" xml:space="preserve">
+    <value>Aiursoft Substratum Startup</value>
+  </data>
+  <data name="AnduinOS Enterprise" xml:space="preserve">
+    <value>AnduinOS Enterprise</value>
+  </data>
+  <data name="Contact Sales" xml:space="preserve">
+    <value>Επικοινωνία με την πωλητική ομάδα</value>
+  </data>
+  <data name="Custom container development" xml:space="preserve">
+    <value>Προσαρμοσμένη ανάπτυξη περιεχομένου</value>
+  </data>
+  <data name="Custom Development Fee" xml:space="preserve">
+    <value>Τέλη προσαρμοσμένης ανάπτυξης</value>
+  </data>
+  <data name="Customized for your enterprise" xml:space="preserve">
+    <value>Προσαρμοσμένο για την επιχείρησή σας</value>
+  </data>
+  <data name="Enterprise scale deployment" xml:space="preserve">
+    <value>Επιχειρησιακής κλίμακας εγκατάσταση</value>
+  </data>
+  <data name="Full Infrastructure Suite, on your local server" xml:space="preserve">
+    <value>Πλήρες σύστημα υποδομής, στον τοπικό σας διακομιστή</value>
+  </data>
+  <data name="Get a public cloud-like experience while hosting your applications in your own server." xml:space="preserve">
+    <value>Αποκτήστε μια εμπειρία παρόμοια με αυτή του δημόσιου cloud, φιλοξενώντας τις εφαρμογές σας στον δικό σας διακομιστή.</value>
+  </data>
+  <data name="Get Started" xml:space="preserve">
+    <value>Ξεκινήστε</value>
+  </data>
+  <data name="Hosted by Aiursoft" xml:space="preserve">
+    <value>Διαμεταγωγή από την Aiursoft</value>
+  </data>
+  <data name="Includes Collaboration + Email + Identity Gateway" xml:space="preserve">
+    <value>Περιλαμβάνει συνεργασία + Email + Gateway Ταυτότητας</value>
+  </data>
+  <data name="Includes everything in Starter" xml:space="preserve">
+    <value>Περιλαμβάνει όλα όσα περιλαμβάνονται στο Starter</value>
+  </data>
+  <data name="Includes everything in Startup" xml:space="preserve">
+    <value>Περιλαμβάνει όλα όσα περιλαμβάνονται στο Startup</value>
+  </data>
+  <data name="Max 1000 accounts" xml:space="preserve">
+    <value>Μέγιστο 1000 λογαριασμοί</value>
+  </data>
+  <data name="MDM based device compliance" xml:space="preserve">
+    <value>Συμμόρφωση συσκευών με βάση MDM</value>
+  </data>
+  <data name="On-premise offline deployment" xml:space="preserve">
+    <value>Εγκατάσταση εκτός σύνδεσης τοπικά</value>
+  </data>
+  <data name="One-time Setup Fee" xml:space="preserve">
+    <value>Μια φορά πληρωτέα χρέωση εγκατάστασης</value>
+  </data>
+  <data name="Pricing" xml:space="preserve">
+    <value>Τιμολόγηση</value>
+  </data>
+  <data name="Recommended" xml:space="preserve">
+    <value>Συσταθέν</value>
+  </data>
+  <data name="Single user account" xml:space="preserve">
+    <value>Λογαριασμός μεμονωμένου χρήστη</value>
+  </data>
+  <data name="Specific fees need to be discussed with our architecture team to determine how to build for your enterprise." xml:space="preserve">
+    <value>Οι συγκεκριμένες χρεώσεις πρέπει να συζητηθούν με την ομάδα αρχιτεκτονικής μας για να καθοριστεί ο τρόπος υλοποίησής τους για την επιχείρησή σας.</value>
+  </data>
+  <data name="Strengthen your business with flexible Open Source projects that run by Aiursoft." xml:space="preserve">
+    <value>Δυναμώστε την επιχείρησή σας με ευέλικτα έργα ανοιχτού κώδικα που εκτελούνται από την Aiursoft.</value>
+  </data>
+  <data name="tailored to your business needs" xml:space="preserve">
+    <value>προσαρμοσμένο στις ανάγκες της επιχείρησής σας</value>
+  </data>
+  <data name="Talk to an Architect" xml:space="preserve">
+    <value>Μιλήστε με έναν Αρχιτέκτονα</value>
+  </data>
+  <data name="To build your offline AI knowledge base, you may need to purchase an NVIDIA GPU. This may require additional payment to NVIDIA corporation." xml:space="preserve">
+    <value>Για να δημιουργήσετε την τοπική βάσει γνώσης AI, ενδέχεται να χρειαστεί να αγοράσετε κάρτα γραφικών NVIDIA. Αυτό μπορεί να απαιτήσει επιπλέον πληρωμή στην εταιρεία NVIDIA.</value>
+  </data>
+  <data name="Zero Trust Yubikey Auth" xml:space="preserve">
+    <value>Zero Trust Yubikey Auth</value>
+  </data>
+
+</root>

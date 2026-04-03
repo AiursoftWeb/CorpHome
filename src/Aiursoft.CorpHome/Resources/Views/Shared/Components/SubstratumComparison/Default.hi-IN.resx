@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="24/7 dedicated support line" xml:space="preserve">
+    <value>24/7 समर्पित सहायता लाइन</value>
+  </data>
+  <data name="7×24 On-call Support" xml:space="preserve">
+    <value>7×24 ऑन-कॉल सहायता</value>
+  </data>
+  <data name="AI &amp; Intelligence" xml:space="preserve">
+    <value>AI और बुद्धिमत्ता</value>
+  </data>
+  <data name="AI Knowledge Base Construction" xml:space="preserve">
+    <value>एआई ज्ञान आधार निर्माण</value>
+  </data>
+  <data name="Aiursoft-hosted Email Service" xml:space="preserve">
+    <value>Aiursoft-होस्टेड ईमेल सेवा</value>
+  </data>
+  <data name="AnduinOS Enterprise (Desktop OS)" xml:space="preserve">
+    <value>AnduinOS Enterprise (डेस्कटॉप OS)</value>
+  </data>
+  <data name="Business hours email support" xml:space="preserve">
+    <value>व्यावसायिक घंटों के दौरान ईमेल सहायता</value>
+  </data>
+  <data name="Business hours phone support" xml:space="preserve">
+    <value>कार्यकारी समय में फोन सहायता</value>
+  </data>
+  <data name="Cloud Office Suite" xml:space="preserve">
+    <value>क्लाउड ऑफिस सूट</value>
+  </data>
+  <data name="Communication &amp; Email" xml:space="preserve">
+    <value>संचार और ईमेल</value>
+  </data>
+  <data name="Compare Substratum plans" xml:space="preserve">
+    <value>Substratum योजनाओं की तुलना करें</value>
+  </data>
+  <data name="Core" xml:space="preserve">
+    <value>कोर</value>
+  </data>
+  <data name="Custom AI pipeline" xml:space="preserve">
+    <value>कस्टम एआई पाइपलाइन</value>
+  </data>
+  <data name="Custom Container Development" xml:space="preserve">
+    <value>कस्टम कंटेनर विकास</value>
+  </data>
+  <data name="Custom speech synthesis/recognition, search integration &amp; deep investigation pipelines" xml:space="preserve">
+    <value>कस्टम स्पीच सिंथेसिस/पहचान, खोज एकीकरण और गहन जांच पाइपलाइन</value>
+  </data>
+  <data name="Custom TTS / STT, Search Engine &amp; Deep Research" xml:space="preserve">
+    <value>कस्टम TTS / STT, खोज इंजन और गहन शोध</value>
+  </data>
+  <data name="Deployment &amp; Hosting" xml:space="preserve">
+    <value>डिप्लॉयमेंट और होस्टिंग</value>
+  </data>
+  <data name="DevOps &amp; Engineering" xml:space="preserve">
+    <value>DevOps &amp; Engineering</value>
+  </data>
+  <data name="Document Conversion" xml:space="preserve">
+    <value>दस्तावेज़ रूपांतरण</value>
+  </data>
+  <data name="Enterprise" xml:space="preserve">
+    <value>एंटरप्राइज़</value>
+  </data>
+  <data name="Enterprise Customization" xml:space="preserve">
+    <value>उद्यम अनुकूलन</value>
+  </data>
+  <data name="Enterprise Scale Deployment" xml:space="preserve">
+    <value>उद्यम स्तर का विस्तार</value>
+  </data>
+  <data name="Every plan is built on the same foundational stack. Higher tiers add more applications, on-premise deployment, and dedicated enterprise support on top." xml:space="preserve">
+    <value>प्रत्येक योजना एक ही मौलिक ढांचे पर आधारित है। उच्च स्तरों में अधिक एप्लिकेशन, ऑन-प्रीमिस डेप्लॉयमेंट और समर्पित एंटरप्राइज़ सहायता जोड़ते हैं।</value>
+  </data>
+  <data name="File Storage" xml:space="preserve">
+    <value>फ़ाइल भंडारण</value>
+  </data>
+  <data name="Fleet device policy management" xml:space="preserve">
+    <value>फ्लीट उपकरण नीति प्रबंधन</value>
+  </data>
+  <data name="Hardware key enforcement" xml:space="preserve">
+    <value>हार्डवेयर कुंजी प्रवर्तन</value>
+  </data>
+  <data name="Hosted by Aiursoft (SaaS)" xml:space="preserve">
+    <value>Aiursoft (SaaS) द्वारा होस्ट किया गया</value>
+  </data>
+  <data name="Hosted by Aiursoft, not on-premise" xml:space="preserve">
+    <value>Aiursoft द्वारा होस्ट किया गया, ऑन-प्रेमिस नहीं</value>
+  </data>
+  <data name="HR &amp; Org Portal" xml:space="preserve">
+    <value>मानव संसाधन और संगठन पोर्टल</value>
+  </data>
+  <data name="Identity &amp; Security" xml:space="preserve">
+    <value>पहचान और सुरक्षा</value>
+  </data>
+  <data name="Included" xml:space="preserve">
+    <value>शामिल</value>
+  </data>
+  <data name="Local LLM API Gateway" xml:space="preserve">
+    <value>स्थानीय LLM API गेटवे</value>
+  </data>
+  <data name="Managed endpoint OS" xml:space="preserve">
+    <value>प्रबंधित एंडपॉइंट OS</value>
+  </data>
+  <data name="Managed, zero-ops" xml:space="preserve">
+    <value>प्रबंधित, शून्य-ऑप्स</value>
+  </data>
+  <data name="Max User Accounts" xml:space="preserve">
+    <value>अधिकतम उपयोगकर्ता खाते</value>
+  </data>
+  <data name="MDM Device Compliance" xml:space="preserve">
+    <value>MDM डिवाइस अनुपालन</value>
+  </data>
+  <data name="Media &amp; Personal" xml:space="preserve">
+    <value>मीडिया और व्यक्तिगत</value>
+  </data>
+  <data name="mo" xml:space="preserve">
+    <value>माह</value>
+  </data>
+  <data name="Multi-site &amp; HA capable" xml:space="preserve">
+    <value>बहु-साइट और एचए सक्षम</value>
+  </data>
+  <data name="Not included" xml:space="preserve">
+    <value>समावेशित नहीं है</value>
+  </data>
+  <data name="Not included in Core" xml:space="preserve">
+    <value>कोर में शामिल नहीं</value>
+  </data>
+  <data name="Not included in Startup" xml:space="preserve">
+    <value>स्टार्टअप में शामिल नहीं</value>
+  </data>
+  <data name="On-premise / Air-gapped Deployment" xml:space="preserve">
+    <value>स्थानीय / एयर-गैप्ड डिप्लॉयमेंट</value>
+  </data>
+  <data name="Online Code Execution" xml:space="preserve">
+    <value>ऑनलाइन कोड एक्जीक्यूशन</value>
+  </data>
+  <data name="PaddleOCR-based" xml:space="preserve">
+    <value>PaddleOCR-आधारित</value>
+  </data>
+  <data name="Partial / limited" xml:space="preserve">
+    <value>आंशिक / सीमित</value>
+  </data>
+  <data name="PDF ingestion &amp; vector store construction via PaddleOCR" xml:space="preserve">
+    <value>PDF इनगेशन और व्हेक्टर स्टोर निर्माण PaddleOCR के माध्यम से</value>
+  </data>
+  <data name="PDF Processing &amp; Vector Database" xml:space="preserve">
+    <value>PDF प्रोसेसिंग और वेक्टर डेटाबेस</value>
+  </data>
+  <data name="Photo &amp; Video Management" xml:space="preserve">
+    <value>फोटो और वीडियो प्रबंधन</value>
+  </data>
+  <data name="Productivity &amp; Collaboration" xml:space="preserve">
+    <value>उत्पादकता और सहयोग</value>
+  </data>
+  <data name="Repository Sync" xml:space="preserve">
+    <value>Repository Sync</value>
+  </data>
+  <data name="SaaS only" xml:space="preserve">
+    <value>केवल SaaS</value>
+  </data>
+  <data name="Scale &amp; Support" xml:space="preserve">
+    <value>स्केल और समर्थन</value>
+  </data>
+  <data name="Self-hosted LLM inference gateway" xml:space="preserve">
+    <value>स्व-आधारित एलएलएम इनफरेंस गेटवे</value>
+  </data>
+  <data name="Self-hosted on your own servers" xml:space="preserve">
+    <value>स्व-होस्टेड अपने स्वयं के सर्वर पर</value>
+  </data>
+  <data name="Server Monitoring" xml:space="preserve">
+    <value>सर्वर मॉनिटरिंग</value>
+  </data>
+  <data name="Service / Feature" xml:space="preserve">
+    <value>सेवा / सुविधा</value>
+  </data>
+  <data name="Single-site on-premise" xml:space="preserve">
+    <value>एक-स्थल स्थानीय</value>
+  </data>
+  <data name="Source Control &amp; CI/CD" xml:space="preserve">
+    <value>स्रोत नियंत्रण और CI/CD</value>
+  </data>
+  <data name="SSO / Identity Gateway" xml:space="preserve">
+    <value>SSO / पहचान गेटवे</value>
+  </data>
+  <data name="Startup" xml:space="preserve">
+    <value>स्टार्टअप</value>
+  </data>
+  <data name="Tailored to your stack" xml:space="preserve">
+    <value>आपकी स्टैक के लिए अनुकूलित</value>
+  </data>
+  <data name="Talk to an Architect" xml:space="preserve">
+    <value>एक आर्किटेक्ट से बात करें</value>
+  </data>
+  <data name="Team Voting" xml:space="preserve">
+    <value>टीम वोटिंग</value>
+  </data>
+  <data name="Unlimited" xml:space="preserve">
+    <value>असीमित</value>
+  </data>
+  <data name="URL Shortener" xml:space="preserve">
+    <value>URL शॉर्टनर</value>
+  </data>
+  <data name="user" xml:space="preserve">
+    <value>उपयोगकर्ता</value>
+  </data>
+  <data name="What&apos;s Included" xml:space="preserve">
+    <value>क्या शामिल है</value>
+  </data>
+  <data name="Zero Trust Yubikey Auth" xml:space="preserve">
+    <value>ज़ीरो ट्रस्ट युबिकी प्रमाण</value>
+  </data>
+
+</root>
