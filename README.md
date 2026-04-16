@@ -1,9 +1,9 @@
 # CorpHome
 
-[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://gitlab.aiursoft.com/aiursoft/corpHome/-/blob/master/LICENSE)
+[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/aiursoftweb/corpHome/blob/master/LICENSE)
 [![Pipeline stat](https://gitlab.aiursoft.com/aiursoft/corpHome/badges/master/pipeline.svg)](https://gitlab.aiursoft.com/aiursoft/corpHome/-/pipelines)
 [![Test Coverage](https://gitlab.aiursoft.com/aiursoft/corpHome/badges/master/coverage.svg)](https://gitlab.aiursoft.com/aiursoft/corpHome/-/pipelines)
-[![Man hours](https://manhours.aiursoft.com/r/gitlab.aiursoft.com/aiursoft/corpHome.svg)](https://manhours.aiursoft.com/r/gitlab.aiursoft.com/aiursoft/corpHome.html)
+[![Man hours](https://manhours.aiursoft.com/r/github.com/aiursoftweb/corpHome.svg)](https://manhours.aiursoft.com/r/github.com/aiursoftweb/corpHome.html)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.aiursoft.com)](https://www.aiursoft.com)
 [![Docker](https://img.shields.io/docker/pulls/aiursoft/corphome.svg)](https://hub.docker.com/r/aiursoft/corphome)
 
@@ -24,13 +24,13 @@ The following script will install\update this app on your Ubuntu server. Support
 On your Ubuntu server, run the following command:
 
 ```bash
-curl -sL https://gitlab.aiursoft.com/aiursoft/corpHome/-/raw/master/install.sh | sudo bash
+curl -sL https://github.com/aiursoftweb/corpHome/raw/master/install.sh | sudo bash
 ```
 
 Of course it is suggested that append a custom port number to the command:
 
 ```bash
-curl -sL https://gitlab.aiursoft.com/aiursoft/corpHome/-/raw/master/install.sh | sudo bash -s 8080
+curl -sL https://github.com/aiursoftweb/corpHome/raw/master/install.sh | sudo bash -s 8080
 ```
 
 It will install the app as a systemd service, and start it automatically. Binary files will be located at `/opt/apps`. Service files will be located at `/etc/systemd/system`.
