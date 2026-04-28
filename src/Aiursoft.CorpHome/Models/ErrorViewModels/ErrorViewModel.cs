@@ -10,6 +10,20 @@ public class ErrorViewModel: UiStackLayoutViewModel
         PageTitle = "Error";
     }
 
+    public ErrorViewModel(int code)
+    {
+        ErrorCode = code;
+        PageTitle = code switch
+        {
+            400 => "Bad Request",
+            401 => "Unauthorized",
+            403 => "Access Denied",
+            404 => "Not Found",
+            500 => "Internal Server Error",
+            _ => $"Error {code}"
+        };
+    }
+
     [Display(Name = "Error code")]
     public int ErrorCode { get; set; } = 500;
 
