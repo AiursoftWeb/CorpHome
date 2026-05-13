@@ -189,7 +189,7 @@ public class UsersController(
         userInDb.AvatarRelativePath = model.AvatarUrl;
         await userManager.UpdateAsync(userInDb);
 
-        if (!string.IsNullOrWhiteSpace(model.Password) && model.Password != "you-cant-read-it")
+        if (!string.IsNullOrWhiteSpace(model.Password))
         {
             var token = await userManager.GeneratePasswordResetTokenAsync(userInDb);
             await userManager.ResetPasswordAsync(userInDb, token, model.Password);
