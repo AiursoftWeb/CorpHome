@@ -18,17 +18,38 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Aiursoft Template" xml:space="preserve">
+      <data name="A simple, real-time server monitoring system designed for local deployment. Keep an eye on your infrastructure with intuitive dashboards and detailed metrics." xml:space="preserve">
+    <value>Một hệ thống giám sát máy chủ đơn giản, theo thời gian thực, được thiết kế để triển khai cục bộ. Theo dõi cơ sở hạ tầng của bạn với các bảng điều khiển trực quan và các chỉ số chi tiết.</value>
+  </data>
+  <data name="Aiursoft Template" xml:space="preserve">
     <value>Mẫu Aiursoft</value>
+  </data>
+  <data name="AnduinOS" xml:space="preserve">
+    <value>AnduinOS</value>
+  </data>
+  <data name="AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
+    <value>AnduinOS là một bản phân phối Linux dựa trên Ubuntu tùy chỉnh, mang lại trải nghiệm quen thuộc và dễ sử dụng cho bất kỳ ai chuyển sang Linux.</value>
   </data>
   <data name="Community" xml:space="preserve">
     <value>Cộng đồng</value>
   </data>
+  <data name="Discover the benefits of working with us." xml:space="preserve">
+    <value>Khám phá những lợi ích khi hợp tác với chúng tôi.</value>
+  </data>
   <data name="Documentation" xml:space="preserve">
     <value>Tài liệu</value>
   </data>
+  <data name="Enterprise business framework for the Open-source &amp; AI era." xml:space="preserve">
+    <value>Khung kinh doanh doanh nghiệp cho kỷ nguyên Mã nguồn mở &amp; AI.</value>
+  </data>
   <data name="GitHub" xml:space="preserve">
     <value>GitHub</value>
+  </data>
+  <data name="Join our partner ecosystem." xml:space="preserve">
+    <value>Tham gia hệ sinh thái đối tác của chúng tôi.</value>
+  </data>
+  <data name="Ollama Gateway" xml:space="preserve">
+    <value>Cổng Ollama</value>
   </data>
   <data name="Partners" xml:space="preserve">
     <value>Đối tác</value>
@@ -42,8 +63,26 @@
   <data name="Source Code" xml:space="preserve">
     <value>Mã Nguồn</value>
   </data>
+  <data name="StatHub" xml:space="preserve">
+    <value>StatHub</value>
+  </data>
+  <data name="Substratum" xml:space="preserve">
+    <value>Substratum</value>
+  </data>
+  <data name="Supercharge your native Ollama with enterprise-grade API authentication, request auditing, and virtual model management—your secure, private AI gateway." xml:space="preserve">
+    <value>Tăng cường Ollama gốc của bạn với xác thực API cấp doanh nghiệp, kiểm toán yêu cầu và quản lý mô hình ảo—cổng AI an toàn, riêng tư của bạn.</value>
+  </data>
+  <data name="Template" xml:space="preserve">
+    <value>Mẫu</value>
+  </data>
   <data name="Try the dashboard" xml:space="preserve">
     <value>Dùng thử bảng điều khiển</value>
+  </data>
+  <data name="Unified endpoint management (UEM), identity management (IAM), and collaboration tools (OA) in one package. All on your local servers!" xml:space="preserve">
+    <value>Quản lý điểm cuối thống nhất (UEM), quản lý danh tính (IAM) và công cụ cộng tác (OA) trong một gói duy nhất. Tất cả trên máy chủ nội bộ của bạn!</value>
+  </data>
+  <data name="View Partners" xml:space="preserve">
+    <value>Xem đối tác</value>
   </data>
 
 </root>

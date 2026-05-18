@@ -117,6 +117,9 @@
   <data name="Anduin Xue" xml:space="preserve">
     <value>Anduin Xue</value>
   </data>
+  <data name="AnduinOS" xml:space="preserve">
+    <value>AnduinOS</value>
+  </data>
   <data name="AnduinOS Enterprise" xml:space="preserve">
     <value>AnduinOS Enterprise</value>
   </data>
@@ -125,6 +128,9 @@
   </data>
   <data name="Artificial Intelligence Translation" xml:space="preserve">
     <value>การแปลด้วยปัญญาประดิษฐ์</value>
+  </data>
+  <data name="Authentik" xml:space="preserve">
+    <value>Authentik</value>
   </data>
   <data name="Authentik &amp; Okta" xml:space="preserve">
     <value>Authentik &amp; Okta</value>
@@ -357,6 +363,9 @@
   <data name="Effortlessly write integration tests using in-memory databases, temporary file systems, built-in mocking, and real-world HTTP request simulation." xml:space="preserve">
     <value>เขียนการทดสอบการรวมระบบได้อย่างง่ายดายโดยใช้ฐานข้อมูลในหน่วยความจำ ระบบไฟล์ชั่วคราว การจำลองแบบที่มีอยู่ในตัว และการจำลองการร้องขอ HTTP แบบจริง</value>
   </data>
+  <data name="Employee Center" xml:space="preserve">
+    <value>ศูนย์พนักงาน</value>
+  </data>
   <data name="Empower developers with a flexible platform that scales with your business needs." xml:space="preserve">
     <value>ให้พลังกับนักพัฒนาด้วยแพลตฟอร์มที่ยืดหยุ่นและขยายตัวได้ตามความต้องการของธุรกิจของคุณ</value>
   </data>
@@ -464,6 +473,9 @@
   </data>
   <data name="Get unified endpoint management (UEM), identity management (IAM), and collaboration tools (OA) in one package. All on your local servers!" xml:space="preserve">
     <value>รับการจัดการปลายทางแบบรวมศูนย์ (UEM), การจัดการตัวตน (IAM), และเครื่องมือการทำงานร่วมกัน (OA) ทั้งหมดในชุดเดียว ทั้งหมดอยู่บนเซิร์ฟเวอร์ของคุณเอง!</value>
+  </data>
+  <data name="GitLab" xml:space="preserve">
+    <value>GitLab</value>
   </data>
   <data name="GitLab CI" xml:space="preserve">
     <value>GitLab CI</value>
@@ -615,11 +627,17 @@
   <data name="Need to develop faster? A robust project template to support your grand ambitions." xml:space="preserve">
     <value>ต้องการพัฒนาให้เร็วขึ้นไหม? แบบจำลองโครงการที่มั่นคงเพื่อสนับสนุนความทะเยอทะยานอันยิ่งใหญ่ของคุณ</value>
   </data>
+  <data name="Nextcloud" xml:space="preserve">
+    <value>Nextcloud</value>
+  </data>
   <data name="No dependency on any cloud vendor. Run anywhere, any time." xml:space="preserve">
     <value>ไม่มีการพึ่งพาผู้ให้บริการคลาวด์ใด ๆ ใช้งานได้ทุกที่ ทุกเวลา</value>
   </data>
   <data name="Offline Capable" xml:space="preserve">
     <value>รองรับการทำงานแบบออฟไลน์</value>
+  </data>
+  <data name="Ollama Gateway" xml:space="preserve">
+    <value>Ollama Gateway</value>
   </data>
   <data name="OllamaGateway has been officially tested and is fully compatible with popular ecosystem tools including Open-WebUI, Opencode, and Roocode. Its robust API translation makes it the ideal choice for deploying autonomous AI agents." xml:space="preserve">
     <value>OllamaGateway ได้รับการทดสอบอย่างเป็นทางการแล้วและมีความเข้ากันได้เต็มที่กับเครื่องมือในนิเวศน์ยอดนิยม ได้แก่ Open-WebUI, Opencode และ Roocode การแปล API ที่แข็งแกร่งของ使它เหมาะอย่างยิ่งสำหรับการปรับใช้เอเจนต์ AI แบบอัตโนมัติ</value>
@@ -662,6 +680,9 @@
   </data>
   <data name="Paving the Way for Your Business." xml:space="preserve">
     <value>กำลังเปิดทางให้ธุรกิจของคุณ</value>
+  </data>
+  <data name="Polls" xml:space="preserve">
+    <value>Polls</value>
   </data>
   <data name="Pre-configured CI/CD pipelines specifically for GitLab." xml:space="preserve">
     <value>พื้นที่ที่ตั้งค่าล่วงหน้าสำหรับการจัดการ CI/CD โดยเฉพาะสำหรับ GitLab</value>
@@ -761,6 +782,9 @@
   </data>
   <data name="Starts compliant, secure immediately." xml:space="preserve">
     <value>เริ่มต้นด้วยการปฏิบัติตามข้อกำหนด ปลอดภัยทันที</value>
+  </data>
+  <data name="StatHub" xml:space="preserve">
+    <value>StatHub</value>
   </data>
   <data name="Stop Coding Boilerplate." xml:space="preserve">
     <value>หยุดเขียนโค้ดซ้ำซ้อน</value>
@@ -935,6 +959,9 @@
   </data>
   <data name="Zero Trust Yubikey Auth" xml:space="preserve">
     <value>การรับรอง Yubikey แบบ Zero Trust</value>
+  </data>
+  <data name="Zot" xml:space="preserve">
+    <value>Zot</value>
   </data>
 
 </root>

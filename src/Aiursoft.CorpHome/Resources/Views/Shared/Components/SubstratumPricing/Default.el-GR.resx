@@ -27,6 +27,9 @@
   <data name="AI Knowledge Base construction" xml:space="preserve">
     <value>Κατασκευή βάσης γνώσης AI</value>
   </data>
+  <data name="AiurDrive, StatHub, Nextcloud" xml:space="preserve">
+    <value>AiurDrive, StatHub, Nextcloud</value>
+  </data>
   <data name="Aiursoft Substratum Core" xml:space="preserve">
     <value>Aiursoft Substratum Core</value>
   </data>
@@ -38,6 +41,9 @@
   </data>
   <data name="AnduinOS Enterprise" xml:space="preserve">
     <value>AnduinOS Enterprise</value>
+  </data>
+  <data name="Authentik" xml:space="preserve">
+    <value>Authentik</value>
   </data>
   <data name="Contact Sales" xml:space="preserve">
     <value>Επικοινωνία με την πωλητική ομάδα</value>
@@ -51,6 +57,9 @@
   <data name="Customized for your enterprise" xml:space="preserve">
     <value>Προσαρμοσμένο για την επιχείρησή σας</value>
   </data>
+  <data name="Employee Center" xml:space="preserve">
+    <value>Κέντρο Εργαζομένων</value>
+  </data>
   <data name="Enterprise scale deployment" xml:space="preserve">
     <value>Επιχειρησιακής κλίμακας εγκατάσταση</value>
   </data>
@@ -63,6 +72,9 @@
   <data name="Get Started" xml:space="preserve">
     <value>Ξεκινήστε</value>
   </data>
+  <data name="GitLab, Ollama Gateway" xml:space="preserve">
+    <value>GitLab, Ollama Gateway</value>
+  </data>
   <data name="Hosted by Aiursoft" xml:space="preserve">
     <value>Διαμεταγωγή από την Aiursoft</value>
   </data>
@@ -74,6 +86,15 @@
   </data>
   <data name="Includes everything in Startup" xml:space="preserve">
     <value>Περιλαμβάνει όλα όσα περιλαμβάνονται στο Startup</value>
+  </data>
+  <data name="Koel, Immich, Memos" xml:space="preserve">
+    <value>Koel, Immich, Memos</value>
+  </data>
+  <data name="Mailcow" xml:space="preserve">
+    <value>Mailcow</value>
+  </data>
+  <data name="MarkToHtml, Polls" xml:space="preserve">
+    <value>MarkToHtml, Δημοσκοπήσεις</value>
   </data>
   <data name="Max 1000 accounts" xml:space="preserve">
     <value>Μέγιστο 1000 λογαριασμοί</value>

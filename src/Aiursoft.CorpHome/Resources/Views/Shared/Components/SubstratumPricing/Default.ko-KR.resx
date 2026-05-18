@@ -27,6 +27,9 @@
   <data name="AI Knowledge Base construction" xml:space="preserve">
     <value>AI 지식 베이스 구축</value>
   </data>
+  <data name="AiurDrive, StatHub, Nextcloud" xml:space="preserve">
+    <value>AiurDrive, StatHub, Nextcloud</value>
+  </data>
   <data name="Aiursoft Substratum Core" xml:space="preserve">
     <value>Aiursoft Substratum Core</value>
   </data>
@@ -38,6 +41,9 @@
   </data>
   <data name="AnduinOS Enterprise" xml:space="preserve">
     <value>AnduinOS Enterprise</value>
+  </data>
+  <data name="Authentik" xml:space="preserve">
+    <value>Authentik</value>
   </data>
   <data name="Contact Sales" xml:space="preserve">
     <value>영업팀 문의</value>
@@ -51,6 +57,9 @@
   <data name="Customized for your enterprise" xml:space="preserve">
     <value>귀하의 기업을 위해 맞춤화된 솔루션</value>
   </data>
+  <data name="Employee Center" xml:space="preserve">
+    <value>사원 센터</value>
+  </data>
   <data name="Enterprise scale deployment" xml:space="preserve">
     <value>Enterprise 규모 배포</value>
   </data>
@@ -63,6 +72,9 @@
   <data name="Get Started" xml:space="preserve">
     <value>시작하기</value>
   </data>
+  <data name="GitLab, Ollama Gateway" xml:space="preserve">
+    <value>GitLab, Ollama Gateway</value>
+  </data>
   <data name="Hosted by Aiursoft" xml:space="preserve">
     <value>Aiursoft에서 호스팅됨</value>
   </data>
@@ -74,6 +86,15 @@
   </data>
   <data name="Includes everything in Startup" xml:space="preserve">
     <value>스타트업의 모든 기능이 포함됩니다</value>
+  </data>
+  <data name="Koel, Immich, Memos" xml:space="preserve">
+    <value>Koel, Immich, Memos</value>
+  </data>
+  <data name="Mailcow" xml:space="preserve">
+    <value>Mailcow</value>
+  </data>
+  <data name="MarkToHtml, Polls" xml:space="preserve">
+    <value>MarkToHtml, 설문조사</value>
   </data>
   <data name="Max 1000 accounts" xml:space="preserve">
     <value>최대 1000 계정</value>

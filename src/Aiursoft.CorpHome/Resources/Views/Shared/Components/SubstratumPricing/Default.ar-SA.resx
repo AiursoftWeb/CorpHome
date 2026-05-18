@@ -27,6 +27,9 @@
   <data name="AI Knowledge Base construction" xml:space="preserve">
     <value>إنشاء قاعدة معرفية بالذكاء الاصطناعي</value>
   </data>
+  <data name="AiurDrive, StatHub, Nextcloud" xml:space="preserve">
+    <value>AiurDrive, StatHub, Nextcloud</value>
+  </data>
   <data name="Aiursoft Substratum Core" xml:space="preserve">
     <value>نواة آيورسوفت سبستريم</value>
   </data>
@@ -38,6 +41,9 @@
   </data>
   <data name="AnduinOS Enterprise" xml:space="preserve">
     <value>AnduinOS Enterprise</value>
+  </data>
+  <data name="Authentik" xml:space="preserve">
+    <value>Authentik</value>
   </data>
   <data name="Contact Sales" xml:space="preserve">
     <value>تواصل مع المبيعات</value>
@@ -51,6 +57,9 @@
   <data name="Customized for your enterprise" xml:space="preserve">
     <value>مخصص لمنتجك المؤسسي</value>
   </data>
+  <data name="Employee Center" xml:space="preserve">
+    <value>مركز الموظفين</value>
+  </data>
   <data name="Enterprise scale deployment" xml:space="preserve">
     <value>نشر على نطاق المؤسسة</value>
   </data>
@@ -63,6 +72,9 @@
   <data name="Get Started" xml:space="preserve">
     <value>ابدأ الآن</value>
   </data>
+  <data name="GitLab, Ollama Gateway" xml:space="preserve">
+    <value>GitLab، بوابة Ollama</value>
+  </data>
   <data name="Hosted by Aiursoft" xml:space="preserve">
     <value>مُستضاف بواسطة أيورسوفت</value>
   </data>
@@ -74,6 +86,15 @@
   </data>
   <data name="Includes everything in Startup" xml:space="preserve">
     <value>يشمل كل ما في خطة البداية</value>
+  </data>
+  <data name="Koel, Immich, Memos" xml:space="preserve">
+    <value>Koel, Immich, Memos</value>
+  </data>
+  <data name="Mailcow" xml:space="preserve">
+    <value>Mailcow</value>
+  </data>
+  <data name="MarkToHtml, Polls" xml:space="preserve">
+    <value>MarkToHtml، الاستطلاعات</value>
   </data>
   <data name="Max 1000 accounts" xml:space="preserve">
     <value>ماكس 1000 حسابًا</value>

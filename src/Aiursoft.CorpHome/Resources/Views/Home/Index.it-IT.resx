@@ -117,6 +117,9 @@
   <data name="Anduin Xue" xml:space="preserve">
     <value>Anduin Xue</value>
   </data>
+  <data name="AnduinOS" xml:space="preserve">
+    <value>AnduinOS</value>
+  </data>
   <data name="AnduinOS Enterprise" xml:space="preserve">
     <value>AnduinOS Enterprise</value>
   </data>
@@ -125,6 +128,9 @@
   </data>
   <data name="Artificial Intelligence Translation" xml:space="preserve">
     <value>Traduzione con intelligenza artificiale</value>
+  </data>
+  <data name="Authentik" xml:space="preserve">
+    <value>Authentik</value>
   </data>
   <data name="Authentik &amp; Okta" xml:space="preserve">
     <value>Authentik &amp; Okta</value>
@@ -357,6 +363,9 @@
   <data name="Effortlessly write integration tests using in-memory databases, temporary file systems, built-in mocking, and real-world HTTP request simulation." xml:space="preserve">
     <value>Scritta facilmente test di integrazione utilizzando database in memoria, sistemi di file temporanei, mock integrati e simulazione di richieste HTTP reali.</value>
   </data>
+  <data name="Employee Center" xml:space="preserve">
+    <value>Centro dipendenti</value>
+  </data>
   <data name="Empower developers with a flexible platform that scales with your business needs." xml:space="preserve">
     <value>Potenzia gli sviluppatori con una piattaforma flessibile che si adatta alle tue esigenze aziendali.</value>
   </data>
@@ -464,6 +473,9 @@
   </data>
   <data name="Get unified endpoint management (UEM), identity management (IAM), and collaboration tools (OA) in one package. All on your local servers!" xml:space="preserve">
     <value>Ottieni gestione unificata degli endpoint (UEM), gestione dell&apos;identità (IAM) e strumenti di collaborazione (OA) in un unico pacchetto. Tutti sui tuoi server locali!</value>
+  </data>
+  <data name="GitLab" xml:space="preserve">
+    <value>GitLab</value>
   </data>
   <data name="GitLab CI" xml:space="preserve">
     <value>GitLab CI</value>
@@ -615,11 +627,17 @@
   <data name="Need to develop faster? A robust project template to support your grand ambitions." xml:space="preserve">
     <value>Devi sviluppare più velocemente? Un solido modello di progetto per sostenere le tue ambizioni grandiose.</value>
   </data>
+  <data name="Nextcloud" xml:space="preserve">
+    <value>Nextcloud</value>
+  </data>
   <data name="No dependency on any cloud vendor. Run anywhere, any time." xml:space="preserve">
     <value>Nessuna dipendenza da fornitori di cloud. Esegui ovunque, in qualsiasi momento.</value>
   </data>
   <data name="Offline Capable" xml:space="preserve">
     <value>Capace di funzionare in modalità offline</value>
+  </data>
+  <data name="Ollama Gateway" xml:space="preserve">
+    <value>Gateway Ollama</value>
   </data>
   <data name="OllamaGateway has been officially tested and is fully compatible with popular ecosystem tools including Open-WebUI, Opencode, and Roocode. Its robust API translation makes it the ideal choice for deploying autonomous AI agents." xml:space="preserve">
     <value>OllamaGateway è stato ufficialmente testato ed è pienamente compatibile con gli strumenti popolari dell&apos;ecosistema, tra cui Open-WebUI, Opencode e Roocode. La sua robusta traduzione API lo rende la scelta ideale per il deployment di agenti AI autonomi.</value>
@@ -662,6 +680,9 @@
   </data>
   <data name="Paving the Way for Your Business." xml:space="preserve">
     <value>Predisponiamo il terreno per il tuo business.</value>
+  </data>
+  <data name="Polls" xml:space="preserve">
+    <value>Polls</value>
   </data>
   <data name="Pre-configured CI/CD pipelines specifically for GitLab." xml:space="preserve">
     <value>Pipeline CI/CD preconfigurati specificamente per GitLab.</value>
@@ -761,6 +782,9 @@
   </data>
   <data name="Starts compliant, secure immediately." xml:space="preserve">
     <value>Inizia conforme, sicuro immediatamente.</value>
+  </data>
+  <data name="StatHub" xml:space="preserve">
+    <value>StatHub</value>
   </data>
   <data name="Stop Coding Boilerplate." xml:space="preserve">
     <value>Smetti di scrivere codice boilerplate.</value>
@@ -935,6 +959,9 @@
   </data>
   <data name="Zero Trust Yubikey Auth" xml:space="preserve">
     <value>Autenticazione Zero Trust Yubikey</value>
+  </data>
+  <data name="Zot" xml:space="preserve">
+    <value>Zot</value>
   </data>
 
 </root>

@@ -117,6 +117,9 @@
   <data name="Anduin Xue" xml:space="preserve">
     <value>Anduin Xue</value>
   </data>
+  <data name="AnduinOS" xml:space="preserve">
+    <value>AnduinOS</value>
+  </data>
   <data name="AnduinOS Enterprise" xml:space="preserve">
     <value>AnduinOS Enterprise</value>
   </data>
@@ -125,6 +128,9 @@
   </data>
   <data name="Artificial Intelligence Translation" xml:space="preserve">
     <value>Traducere prin Inteligență Artificială</value>
+  </data>
+  <data name="Authentik" xml:space="preserve">
+    <value>Authentik</value>
   </data>
   <data name="Authentik &amp; Okta" xml:space="preserve">
     <value>Authentik &amp; Okta</value>
@@ -357,6 +363,9 @@
   <data name="Effortlessly write integration tests using in-memory databases, temporary file systems, built-in mocking, and real-world HTTP request simulation." xml:space="preserve">
     <value>Scrieți testele de integrare fără efort folosind baze de date în memorie, sisteme de fișiere temporare, mocking integrat și simularea cererilor HTTP din lumea reală.</value>
   </data>
+  <data name="Employee Center" xml:space="preserve">
+    <value>Centrul Angajaților</value>
+  </data>
   <data name="Empower developers with a flexible platform that scales with your business needs." xml:space="preserve">
     <value>Împărtășește dezvoltatorilor o platformă flexibilă care se extinde în funcție de nevoile afacerii tale.</value>
   </data>
@@ -464,6 +473,9 @@
   </data>
   <data name="Get unified endpoint management (UEM), identity management (IAM), and collaboration tools (OA) in one package. All on your local servers!" xml:space="preserve">
     <value>Obține gestionarea unificată a punctelor de terminare (UEM), gestionarea identității (IAM) și instrumentele de colaborare (OA) într-un singur pachet. Toate pe serverele tale locale!</value>
+  </data>
+  <data name="GitLab" xml:space="preserve">
+    <value>GitLab</value>
   </data>
   <data name="GitLab CI" xml:space="preserve">
     <value>GitLab CI</value>
@@ -615,11 +627,17 @@
   <data name="Need to develop faster? A robust project template to support your grand ambitions." xml:space="preserve">
     <value>Trebuie să dezvolți mai repede? Un model de proiect robust pentru a susține ambițiile tale mari.</value>
   </data>
+  <data name="Nextcloud" xml:space="preserve">
+    <value>Nextcloud</value>
+  </data>
   <data name="No dependency on any cloud vendor. Run anywhere, any time." xml:space="preserve">
     <value>Fără dependență de niciun furnizor de cloud. Rulează oriunde, oricând.</value>
   </data>
   <data name="Offline Capable" xml:space="preserve">
     <value>Capabil offline</value>
+  </data>
+  <data name="Ollama Gateway" xml:space="preserve">
+    <value>Ollama Gateway</value>
   </data>
   <data name="OllamaGateway has been officially tested and is fully compatible with popular ecosystem tools including Open-WebUI, Opencode, and Roocode. Its robust API translation makes it the ideal choice for deploying autonomous AI agents." xml:space="preserve">
     <value>OllamaGateway a fost testat oficial și este complet compatibil cu instrumente populare din ecosistem, inclusiv Open-WebUI, Opencode și Roocode. Traducerea sa robustă a API-ului o face alegerea ideală pentru implementarea agenților AI autonomi.</value>
@@ -662,6 +680,9 @@
   </data>
   <data name="Paving the Way for Your Business." xml:space="preserve">
     <value>Deschidem calea pentru afacerea ta.</value>
+  </data>
+  <data name="Polls" xml:space="preserve">
+    <value>Sondaje</value>
   </data>
   <data name="Pre-configured CI/CD pipelines specifically for GitLab." xml:space="preserve">
     <value>Pipelines CI/CD preconfigurate specifice pentru GitLab.</value>
@@ -761,6 +782,9 @@
   </data>
   <data name="Starts compliant, secure immediately." xml:space="preserve">
     <value>Începe conform, sigur imediat.</value>
+  </data>
+  <data name="StatHub" xml:space="preserve">
+    <value>StatHub</value>
   </data>
   <data name="Stop Coding Boilerplate." xml:space="preserve">
     <value>Încetează să scrii cod boilerplate.</value>
@@ -935,6 +959,9 @@
   </data>
   <data name="Zero Trust Yubikey Auth" xml:space="preserve">
     <value>Autentificare Zero Trust Yubikey</value>
+  </data>
+  <data name="Zot" xml:space="preserve">
+    <value>Zot</value>
   </data>
 
 </root>

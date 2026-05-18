@@ -117,6 +117,9 @@
   <data name="Anduin Xue" xml:space="preserve">
     <value>Anduin Xue</value>
   </data>
+  <data name="AnduinOS" xml:space="preserve">
+    <value>AnduinOS</value>
+  </data>
   <data name="AnduinOS Enterprise" xml:space="preserve">
     <value>AnduinOS Enterprise</value>
   </data>
@@ -125,6 +128,9 @@
   </data>
   <data name="Artificial Intelligence Translation" xml:space="preserve">
     <value>人工智能翻譯</value>
+  </data>
+  <data name="Authentik" xml:space="preserve">
+    <value>Authentik</value>
   </data>
   <data name="Authentik &amp; Okta" xml:space="preserve">
     <value>Authentik &amp; Okta</value>
@@ -357,6 +363,9 @@
   <data name="Effortlessly write integration tests using in-memory databases, temporary file systems, built-in mocking, and real-world HTTP request simulation." xml:space="preserve">
     <value>輕鬆撰寫整合測試，使用記憶體資料庫、暫存檔案系統、內建模擬及真實世界的 HTTP 請求模擬。</value>
   </data>
+  <data name="Employee Center" xml:space="preserve">
+    <value>員工中心</value>
+  </data>
   <data name="Empower developers with a flexible platform that scales with your business needs." xml:space="preserve">
     <value>賦能開發人員，以靈活的平台配合企業發展需要。</value>
   </data>
@@ -464,6 +473,9 @@
   </data>
   <data name="Get unified endpoint management (UEM), identity management (IAM), and collaboration tools (OA) in one package. All on your local servers!" xml:space="preserve">
     <value>一站式整合終端設備管理 (UEM)、身份管理 (IAM) 及協作工具 (OA)。所有功能均安裝於您的本地伺服器！</value>
+  </data>
+  <data name="GitLab" xml:space="preserve">
+    <value>GitLab</value>
   </data>
   <data name="GitLab CI" xml:space="preserve">
     <value>GitLab CI</value>
@@ -615,11 +627,17 @@
   <data name="Need to develop faster? A robust project template to support your grand ambitions." xml:space="preserve">
     <value>需要加快開發進度？一個穩健的項目模板，助您實現宏大的抱負。</value>
   </data>
+  <data name="Nextcloud" xml:space="preserve">
+    <value>Nextcloud</value>
+  </data>
   <data name="No dependency on any cloud vendor. Run anywhere, any time." xml:space="preserve">
     <value>無需依賴任何雲端供應商。隨時隨地運行。</value>
   </data>
   <data name="Offline Capable" xml:space="preserve">
     <value>離線可用</value>
+  </data>
+  <data name="Ollama Gateway" xml:space="preserve">
+    <value>Ollama Gateway</value>
   </data>
   <data name="OllamaGateway has been officially tested and is fully compatible with popular ecosystem tools including Open-WebUI, Opencode, and Roocode. Its robust API translation makes it the ideal choice for deploying autonomous AI agents." xml:space="preserve">
     <value>OllamaGateway 已正式通過測試，完全兼容包括 Open-WebUI、Opencode 和 Roocode 在內的多個主流生態系統工具。其強大的 API 轉換功能使其成為部署自主 AI 代理的理想選擇。</value>
@@ -662,6 +680,9 @@
   </data>
   <data name="Paving the Way for Your Business." xml:space="preserve">
     <value>為您的企業開闢道路</value>
+  </data>
+  <data name="Polls" xml:space="preserve">
+    <value>投票</value>
   </data>
   <data name="Pre-configured CI/CD pipelines specifically for GitLab." xml:space="preserve">
     <value>預設設定的 CI/CD 管道，專為 GitLab 設計。</value>
@@ -761,6 +782,9 @@
   </data>
   <data name="Starts compliant, secure immediately." xml:space="preserve">
     <value>一開始已符合合規，即時安全。</value>
+  </data>
+  <data name="StatHub" xml:space="preserve">
+    <value>StatHub</value>
   </data>
   <data name="Stop Coding Boilerplate." xml:space="preserve">
     <value>停止編寫重複代碼。</value>
@@ -935,6 +959,9 @@
   </data>
   <data name="Zero Trust Yubikey Auth" xml:space="preserve">
     <value>零信任 Yubikey 認證</value>
+  </data>
+  <data name="Zot" xml:space="preserve">
+    <value>Zot</value>
   </data>
 
 </root>

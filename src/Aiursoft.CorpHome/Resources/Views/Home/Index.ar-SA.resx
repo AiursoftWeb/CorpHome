@@ -117,6 +117,9 @@
   <data name="Anduin Xue" xml:space="preserve">
     <value>Anduin Xue</value>
   </data>
+  <data name="AnduinOS" xml:space="preserve">
+    <value>AnduinOS</value>
+  </data>
   <data name="AnduinOS Enterprise" xml:space="preserve">
     <value>AnduinOS Enterprise</value>
   </data>
@@ -125,6 +128,9 @@
   </data>
   <data name="Artificial Intelligence Translation" xml:space="preserve">
     <value>الترجمة بالذكاء الاصطناعي</value>
+  </data>
+  <data name="Authentik" xml:space="preserve">
+    <value>Authentik</value>
   </data>
   <data name="Authentik &amp; Okta" xml:space="preserve">
     <value>Authentik &amp; Okta</value>
@@ -357,6 +363,9 @@
   <data name="Effortlessly write integration tests using in-memory databases, temporary file systems, built-in mocking, and real-world HTTP request simulation." xml:space="preserve">
     <value>اكتب اختبارات التكامل بسهولة باستخدام قواعد بيانات الذاكرة، وأنظمة ملفات مؤقتة، والمحاكاة المدمجة، ومحاكاة طلبات HTTP الحقيقية.</value>
   </data>
+  <data name="Employee Center" xml:space="preserve">
+    <value>مركز الموظفين</value>
+  </data>
   <data name="Empower developers with a flexible platform that scales with your business needs." xml:space="preserve">
     <value>تمكين المطورين من منصة مرنة تتوسع وفقًا لاحتياجات عملك.</value>
   </data>
@@ -464,6 +473,9 @@
   </data>
   <data name="Get unified endpoint management (UEM), identity management (IAM), and collaboration tools (OA) in one package. All on your local servers!" xml:space="preserve">
     <value>احصل على إدارة النهايات الموحدة (UEM)، وإدارة الهوية (IAM)، وأدوات التعاون (OA) في حزمة واحدة. كل شيء على خوادمك المحلية!</value>
+  </data>
+  <data name="GitLab" xml:space="preserve">
+    <value>GitLab</value>
   </data>
   <data name="GitLab CI" xml:space="preserve">
     <value>GitLab CI</value>
@@ -615,11 +627,17 @@
   <data name="Need to develop faster? A robust project template to support your grand ambitions." xml:space="preserve">
     <value>هل تحتاج إلى تطوير أسرع؟ قالب مشروع قوي يدعم طموحاتك الكبيرة.</value>
   </data>
+  <data name="Nextcloud" xml:space="preserve">
+    <value>Nextcloud</value>
+  </data>
   <data name="No dependency on any cloud vendor. Run anywhere, any time." xml:space="preserve">
     <value>لا يعتمد على أي مزود سحابي. شغّل في أي مكان وفي أي وقت.</value>
   </data>
   <data name="Offline Capable" xml:space="preserve">
     <value>قادر على العمل دون اتصال</value>
+  </data>
+  <data name="Ollama Gateway" xml:space="preserve">
+    <value>بوابة ألاما</value>
   </data>
   <data name="OllamaGateway has been officially tested and is fully compatible with popular ecosystem tools including Open-WebUI, Opencode, and Roocode. Its robust API translation makes it the ideal choice for deploying autonomous AI agents." xml:space="preserve">
     <value>تم اختبار OllamaGateway رسميًا وهو متوافق تمامًا مع أدوات النظام البيئي الشهيرة بما في ذلك Open-WebUI و Opencode و Roocode. تجعل ترجمتها القوية لـ API منها الخيار المثالي لنشر وكلاء الذكاء الاصطناعي المستقلين.</value>
@@ -662,6 +680,9 @@
   </data>
   <data name="Paving the Way for Your Business." xml:space="preserve">
     <value>تمهيد الطريق لعملك.</value>
+  </data>
+  <data name="Polls" xml:space="preserve">
+    <value>استطلاعات</value>
   </data>
   <data name="Pre-configured CI/CD pipelines specifically for GitLab." xml:space="preserve">
     <value>ممرات CI/CD المُهيأة مسبقًا بشكل خاص لـ GitLab.</value>
@@ -761,6 +782,9 @@
   </data>
   <data name="Starts compliant, secure immediately." xml:space="preserve">
     <value>تبدأ متوافقة، آمنة فورًا.</value>
+  </data>
+  <data name="StatHub" xml:space="preserve">
+    <value>StatHub</value>
   </data>
   <data name="Stop Coding Boilerplate." xml:space="preserve">
     <value>توقّف عن كتابة الكود المتكرر.</value>
@@ -935,6 +959,9 @@
   </data>
   <data name="Zero Trust Yubikey Auth" xml:space="preserve">
     <value>مصادقة يوبيكاي فـ Zero Trust</value>
+  </data>
+  <data name="Zot" xml:space="preserve">
+    <value>زوت</value>
   </data>
 
 </root>

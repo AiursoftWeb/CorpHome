@@ -18,17 +18,38 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Aiursoft Template" xml:space="preserve">
+      <data name="A simple, real-time server monitoring system designed for local deployment. Keep an eye on your infrastructure with intuitive dashboards and detailed metrics." xml:space="preserve">
+    <value>一套簡易的即時伺服器監控系統，專為本地部署而設計。透過直觀的控制面板和詳細的指標，隨時掌握您的基礎設施狀況。</value>
+  </data>
+  <data name="Aiursoft Template" xml:space="preserve">
     <value>Aiursoft 模板</value>
+  </data>
+  <data name="AnduinOS" xml:space="preserve">
+    <value>AnduinOS</value>
+  </data>
+  <data name="AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
+    <value>AnduinOS 是一套基於 Ubuntu 的自定義 Linux 發行版，為任何轉向 Linux 的用戶提供熟悉且易於使用的體驗。</value>
   </data>
   <data name="Community" xml:space="preserve">
     <value>社群</value>
   </data>
+  <data name="Discover the benefits of working with us." xml:space="preserve">
+    <value>發掘與我們合作的優勢。</value>
+  </data>
   <data name="Documentation" xml:space="preserve">
     <value>說明文件</value>
   </data>
+  <data name="Enterprise business framework for the Open-source &amp; AI era." xml:space="preserve">
+    <value>面向開源與人工智慧時代的企業級業務框架</value>
+  </data>
   <data name="GitHub" xml:space="preserve">
     <value>GitHub</value>
+  </data>
+  <data name="Join our partner ecosystem." xml:space="preserve">
+    <value>加入我們的合作夥伴生態系統。</value>
+  </data>
+  <data name="Ollama Gateway" xml:space="preserve">
+    <value>Ollama Gateway</value>
   </data>
   <data name="Partners" xml:space="preserve">
     <value>合作夥伴</value>
@@ -42,8 +63,26 @@
   <data name="Source Code" xml:space="preserve">
     <value>源始碼</value>
   </data>
+  <data name="StatHub" xml:space="preserve">
+    <value>StatHub</value>
+  </data>
+  <data name="Substratum" xml:space="preserve">
+    <value>底層平台</value>
+  </data>
+  <data name="Supercharge your native Ollama with enterprise-grade API authentication, request auditing, and virtual model management—your secure, private AI gateway." xml:space="preserve">
+    <value>為你的原生 Ollama 注入強大動力，提供企業級 API 認證、請求審計及虛擬模型管理——成為你安全、私密的 AI 閘道。</value>
+  </data>
+  <data name="Template" xml:space="preserve">
+    <value>模板</value>
+  </data>
   <data name="Try the dashboard" xml:space="preserve">
     <value>試用控制台</value>
+  </data>
+  <data name="Unified endpoint management (UEM), identity management (IAM), and collaboration tools (OA) in one package. All on your local servers!" xml:space="preserve">
+    <value>統一終端管理 (UEM)、身份管理 (IAM) 及協作工具 (OA) 一應俱全，全部部署於您的本地服務器！</value>
+  </data>
+  <data name="View Partners" xml:space="preserve">
+    <value>查看合作夥伴</value>
   </data>
 
 </root>

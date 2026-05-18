@@ -27,6 +27,9 @@
   <data name="AI Knowledge Base construction" xml:space="preserve">
     <value>AI 知识库构建</value>
   </data>
+  <data name="AiurDrive, StatHub, Nextcloud" xml:space="preserve">
+    <value>AiurDrive、StatHub、Nextcloud</value>
+  </data>
   <data name="Aiursoft Substratum Core" xml:space="preserve">
     <value>Aiursoft Substratum Core</value>
   </data>
@@ -38,6 +41,9 @@
   </data>
   <data name="AnduinOS Enterprise" xml:space="preserve">
     <value>AnduinOS Enterprise</value>
+  </data>
+  <data name="Authentik" xml:space="preserve">
+    <value>Authentik</value>
   </data>
   <data name="Contact Sales" xml:space="preserve">
     <value>联系销售</value>
@@ -51,6 +57,9 @@
   <data name="Customized for your enterprise" xml:space="preserve">
     <value>专为您的企业定制</value>
   </data>
+  <data name="Employee Center" xml:space="preserve">
+    <value>员工中心</value>
+  </data>
   <data name="Enterprise scale deployment" xml:space="preserve">
     <value>企业级规模部署</value>
   </data>
@@ -63,6 +72,9 @@
   <data name="Get Started" xml:space="preserve">
     <value>开始使用</value>
   </data>
+  <data name="GitLab, Ollama Gateway" xml:space="preserve">
+    <value>GitLab, Ollama 网关</value>
+  </data>
   <data name="Hosted by Aiursoft" xml:space="preserve">
     <value>由 Aiursoft 托管</value>
   </data>
@@ -74,6 +86,15 @@
   </data>
   <data name="Includes everything in Startup" xml:space="preserve">
     <value>包含 Startup 的所有内容</value>
+  </data>
+  <data name="Koel, Immich, Memos" xml:space="preserve">
+    <value>Koel, Immich, Memos</value>
+  </data>
+  <data name="Mailcow" xml:space="preserve">
+    <value>Mailcow</value>
+  </data>
+  <data name="MarkToHtml, Polls" xml:space="preserve">
+    <value>MarkToHtml、投票</value>
   </data>
   <data name="Max 1000 accounts" xml:space="preserve">
     <value>最多 1000 个账户</value>

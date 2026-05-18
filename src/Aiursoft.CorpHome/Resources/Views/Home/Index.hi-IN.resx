@@ -117,6 +117,9 @@
   <data name="Anduin Xue" xml:space="preserve">
     <value>Anduin Xue</value>
   </data>
+  <data name="AnduinOS" xml:space="preserve">
+    <value>AnduinOS</value>
+  </data>
   <data name="AnduinOS Enterprise" xml:space="preserve">
     <value>AnduinOS Enterprise</value>
   </data>
@@ -125,6 +128,9 @@
   </data>
   <data name="Artificial Intelligence Translation" xml:space="preserve">
     <value>कृत्रिम बुद्धिमत्ता अनुवाद</value>
+  </data>
+  <data name="Authentik" xml:space="preserve">
+    <value>Authentik</value>
   </data>
   <data name="Authentik &amp; Okta" xml:space="preserve">
     <value>Authentik &amp; Okta</value>
@@ -357,6 +363,9 @@
   <data name="Effortlessly write integration tests using in-memory databases, temporary file systems, built-in mocking, and real-world HTTP request simulation." xml:space="preserve">
     <value>आसानी से इंटीग्रेशन टेस्ट लिखें इन-मेमोरी डेटाबेस, अस्थायी फाइल सिस्टम, बिल्ट-इन मॉकिंग, और वास्तविक दुनिया के HTTP रिक्वेस्ट सिमुलेशन का उपयोग करके।</value>
   </data>
+  <data name="Employee Center" xml:space="preserve">
+    <value>कर्मचारी केंद्र</value>
+  </data>
   <data name="Empower developers with a flexible platform that scales with your business needs." xml:space="preserve">
     <value>अपने व्यवसाय की जरूरतों के साथ स्केल होने वाले लचीले प्लेटफॉर्म के साथ डेवलपर्स को सशक्त बनाएं।</value>
   </data>
@@ -464,6 +473,9 @@
   </data>
   <data name="Get unified endpoint management (UEM), identity management (IAM), and collaboration tools (OA) in one package. All on your local servers!" xml:space="preserve">
     <value>एक पैकेज में एकीकृत एंडपॉइंट प्रबंधन (UEM), पहचान प्रबंधन (IAM), और सहयोग टूल्स (OA) प्राप्त करें। सब कुछ आपके स्थानीय सर्वरों पर!</value>
+  </data>
+  <data name="GitLab" xml:space="preserve">
+    <value>GitLab</value>
   </data>
   <data name="GitLab CI" xml:space="preserve">
     <value>GitLab CI</value>
@@ -615,11 +627,17 @@
   <data name="Need to develop faster? A robust project template to support your grand ambitions." xml:space="preserve">
     <value>क्या तेज़ी से विकसित करने की आवश्यकता है? अपने महत्वाकांक्षी लक्ष्यों का समर्थन करने के लिए एक मजबूत प्रोजेक्ट टेम्पलेट।</value>
   </data>
+  <data name="Nextcloud" xml:space="preserve">
+    <value>Nextcloud</value>
+  </data>
   <data name="No dependency on any cloud vendor. Run anywhere, any time." xml:space="preserve">
     <value>किसी भी क्लाउड वेंडर पर निर्भरता नहीं। कहीं भी, कभी भी चलाएं।</value>
   </data>
   <data name="Offline Capable" xml:space="preserve">
     <value>ऑफलाइन कैपेबल</value>
+  </data>
+  <data name="Ollama Gateway" xml:space="preserve">
+    <value>ओलामा गेटवे</value>
   </data>
   <data name="OllamaGateway has been officially tested and is fully compatible with popular ecosystem tools including Open-WebUI, Opencode, and Roocode. Its robust API translation makes it the ideal choice for deploying autonomous AI agents." xml:space="preserve">
     <value>ओलामागेटवे को आधिकारिक रूप से परीक्षण किया गया है और यह ओपन-वेबयू, ओपेनकोड, और रूकोड सहित लोकप्रिय इकोसिस्टम टूल्स के साथ पूरी तरह से संगत है। इसकी मजबूत एपीआई अनुवाद इसे स्वायत्त एआई एजेंटों को विन्यास करने के लिए आदर्श विकल्प बनाता है।</value>
@@ -662,6 +680,9 @@
   </data>
   <data name="Paving the Way for Your Business." xml:space="preserve">
     <value>आपके व्यवसाय के लिए रास्ता खोलना।</value>
+  </data>
+  <data name="Polls" xml:space="preserve">
+    <value>पOLLs</value>
   </data>
   <data name="Pre-configured CI/CD pipelines specifically for GitLab." xml:space="preserve">
     <value>गिटलैब के लिए विशेष रूप से पूर्व-संरचित CI/CD पाइपलाइन</value>
@@ -761,6 +782,9 @@
   </data>
   <data name="Starts compliant, secure immediately." xml:space="preserve">
     <value>तुरंत अनुपालन और सुरक्षित प्रारंभ।</value>
+  </data>
+  <data name="StatHub" xml:space="preserve">
+    <value>StatHub</value>
   </data>
   <data name="Stop Coding Boilerplate." xml:space="preserve">
     <value>बॉयलरप्लेट कोडिंग बंद करें।</value>
@@ -935,6 +959,9 @@
   </data>
   <data name="Zero Trust Yubikey Auth" xml:space="preserve">
     <value>ज़ीरो ट्रस्ट यूबीकी ऑथ</value>
+  </data>
+  <data name="Zot" xml:space="preserve">
+    <value>Zot</value>
   </data>
 
 </root>

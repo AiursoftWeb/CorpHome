@@ -18,17 +18,38 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Aiursoft Template" xml:space="preserve">
+      <data name="A simple, real-time server monitoring system designed for local deployment. Keep an eye on your infrastructure with intuitive dashboards and detailed metrics." xml:space="preserve">
+    <value>نظام مراقبة خوادم بسيط في الوقت الفعلي مصمم للنشر المحلي. تابع بنية التحتية الخاصة بك عبر لوحات معلومات بديهية ومقاييس مفصلة.</value>
+  </data>
+  <data name="Aiursoft Template" xml:space="preserve">
     <value>قالب Aiursoft</value>
+  </data>
+  <data name="AnduinOS" xml:space="preserve">
+    <value>AnduinOS</value>
+  </data>
+  <data name="AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
+    <value>AnduinOS هو توزيعة لينكس مخصصة تعتمد على أوبونتو، وتقدم تجربة مألوسة وسهلة الاستخدام لأي شخص ينتقل إلى لينكس.</value>
   </data>
   <data name="Community" xml:space="preserve">
     <value>المجتمع</value>
   </data>
+  <data name="Discover the benefits of working with us." xml:space="preserve">
+    <value>اكتشف مزايا العمل معنا.</value>
+  </data>
   <data name="Documentation" xml:space="preserve">
     <value>التوثيق</value>
   </data>
+  <data name="Enterprise business framework for the Open-source &amp; AI era." xml:space="preserve">
+    <value>إطار عمل الأعمال المؤسسية لعصر المصدر المفتوح والذكاء الاصطناعي.</value>
+  </data>
   <data name="GitHub" xml:space="preserve">
     <value>GitHub</value>
+  </data>
+  <data name="Join our partner ecosystem." xml:space="preserve">
+    <value>انضم إلى نظامنا الشريك.</value>
+  </data>
+  <data name="Ollama Gateway" xml:space="preserve">
+    <value>بوابة Ollama</value>
   </data>
   <data name="Partners" xml:space="preserve">
     <value>الشركاء</value>
@@ -42,8 +63,26 @@
   <data name="Source Code" xml:space="preserve">
     <value>الكود المصدري</value>
   </data>
+  <data name="StatHub" xml:space="preserve">
+    <value>StatHub</value>
+  </data>
+  <data name="Substratum" xml:space="preserve">
+    <value>أساس</value>
+  </data>
+  <data name="Supercharge your native Ollama with enterprise-grade API authentication, request auditing, and virtual model management—your secure, private AI gateway." xml:space="preserve">
+    <value>عزّز أولاما الخاص بك بمصادقة واجهة برمجة التطبيقات على مستوى المؤسسات، ومراجعة الطلبات، وإدارة النماذج الافتراضية - بوابة الذكاء الاصطناعي الآمنة والخاصة بك.</value>
+  </data>
+  <data name="Template" xml:space="preserve">
+    <value>قالب</value>
+  </data>
   <data name="Try the dashboard" xml:space="preserve">
     <value>جرب لوحة التحكم</value>
+  </data>
+  <data name="Unified endpoint management (UEM), identity management (IAM), and collaboration tools (OA) in one package. All on your local servers!" xml:space="preserve">
+    <value>إدارة نقاط النهاية الموحدة (UEM)، وإدارة الهوية (IAM)، وأدوات التعاون (OA) في حزمة واحدة. كل ذلك على خوادمك المحلية!</value>
+  </data>
+  <data name="View Partners" xml:space="preserve">
+    <value>عرض الشركاء</value>
   </data>
 
 </root>

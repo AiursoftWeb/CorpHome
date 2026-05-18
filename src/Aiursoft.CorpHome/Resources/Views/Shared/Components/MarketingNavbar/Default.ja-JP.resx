@@ -18,17 +18,38 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Aiursoft Template" xml:space="preserve">
+      <data name="A simple, real-time server monitoring system designed for local deployment. Keep an eye on your infrastructure with intuitive dashboards and detailed metrics." xml:space="preserve">
+    <value>ローカルデプロイ向けに設計されたシンプルでリアルタイムのサーバー監視システム。直感的なダッシュボードと詳細なメトリクスでインフラストラクチャを常に監視。</value>
+  </data>
+  <data name="Aiursoft Template" xml:space="preserve">
     <value>Aiursoft テンプレート</value>
+  </data>
+  <data name="AnduinOS" xml:space="preserve">
+    <value>AnduinOS</value>
+  </data>
+  <data name="AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
+    <value>AnduinOSは、Linuxに移行するすべての人に慣れ親しんだ使いやすい体験を提供する、カスタムUbuntuベースのLinuxディストリビューションです。</value>
   </data>
   <data name="Community" xml:space="preserve">
     <value>コミュニティ</value>
   </data>
+  <data name="Discover the benefits of working with us." xml:space="preserve">
+    <value>私たちとの連携の利点をご確認ください。</value>
+  </data>
   <data name="Documentation" xml:space="preserve">
     <value>ドキュメント</value>
   </data>
+  <data name="Enterprise business framework for the Open-source &amp; AI era." xml:space="preserve">
+    <value>オープンソースとAI時代のエンタープライズビジネスフレームワーク</value>
+  </data>
   <data name="GitHub" xml:space="preserve">
     <value>GitHub</value>
+  </data>
+  <data name="Join our partner ecosystem." xml:space="preserve">
+    <value>パートナーエコシステムに参加しましょう。</value>
+  </data>
+  <data name="Ollama Gateway" xml:space="preserve">
+    <value>Ollama ゲートウェイ</value>
   </data>
   <data name="Partners" xml:space="preserve">
     <value>パートナー</value>
@@ -42,8 +63,26 @@
   <data name="Source Code" xml:space="preserve">
     <value>ソースコード</value>
   </data>
+  <data name="StatHub" xml:space="preserve">
+    <value>StatHub</value>
+  </data>
+  <data name="Substratum" xml:space="preserve">
+    <value>Substratum</value>
+  </data>
+  <data name="Supercharge your native Ollama with enterprise-grade API authentication, request auditing, and virtual model management—your secure, private AI gateway." xml:space="preserve">
+    <value>エンタープライズグレードのAPI認証、リクエスト監査、仮想モデル管理で、ネイティブのOllamaを強化します—安全でプライベートなAIゲートウェイ。</value>
+  </data>
+  <data name="Template" xml:space="preserve">
+    <value>テンプレート</value>
+  </data>
   <data name="Try the dashboard" xml:space="preserve">
     <value>ダッシュボードを試す</value>
+  </data>
+  <data name="Unified endpoint management (UEM), identity management (IAM), and collaboration tools (OA) in one package. All on your local servers!" xml:space="preserve">
+    <value>一元のパッケージで統一エンドポイント管理（UEM）、アイデンティティ管理（IAM）、コラボレーションツール（OA）を。すべてローカルサーバー上で！</value>
+  </data>
+  <data name="View Partners" xml:space="preserve">
+    <value>パートナーを見る</value>
   </data>
 
 </root>

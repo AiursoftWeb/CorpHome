@@ -117,6 +117,9 @@
   <data name="Anduin Xue" xml:space="preserve">
     <value>Anduin Xue</value>
   </data>
+  <data name="AnduinOS" xml:space="preserve">
+    <value>AnduinOS</value>
+  </data>
   <data name="AnduinOS Enterprise" xml:space="preserve">
     <value>AnduinOS Enterprise</value>
   </data>
@@ -125,6 +128,9 @@
   </data>
   <data name="Artificial Intelligence Translation" xml:space="preserve">
     <value>人工知能翻訳</value>
+  </data>
+  <data name="Authentik" xml:space="preserve">
+    <value>Authentik</value>
   </data>
   <data name="Authentik &amp; Okta" xml:space="preserve">
     <value>Authentik &amp; Okta</value>
@@ -357,6 +363,9 @@
   <data name="Effortlessly write integration tests using in-memory databases, temporary file systems, built-in mocking, and real-world HTTP request simulation." xml:space="preserve">
     <value>インメモリデータベース、一時ファイルシステム、組み込みモック、そして現実のHTTPリクエストシミュレーションを使用して、簡単に統合テストを書くことができます。</value>
   </data>
+  <data name="Employee Center" xml:space="preserve">
+    <value>従業員センター</value>
+  </data>
   <data name="Empower developers with a flexible platform that scales with your business needs." xml:space="preserve">
     <value>開発者を、ビジネスのニーズに合わせてスケーラブルな柔軟なプラットフォームで強化します。</value>
   </data>
@@ -464,6 +473,9 @@
   </data>
   <data name="Get unified endpoint management (UEM), identity management (IAM), and collaboration tools (OA) in one package. All on your local servers!" xml:space="preserve">
     <value>1つのパッケージで統合エンドポイント管理 (UEM)、ID管理 (IAM)、コラボレーションツール (OA) を取得できます。すべてあなたのローカルサーバー上で！</value>
+  </data>
+  <data name="GitLab" xml:space="preserve">
+    <value>GitLab</value>
   </data>
   <data name="GitLab CI" xml:space="preserve">
     <value>GitLab CI</value>
@@ -615,11 +627,17 @@
   <data name="Need to develop faster? A robust project template to support your grand ambitions." xml:space="preserve">
     <value>より速く開発したいですか？あなたの壮大な野心を支える堅牢なプロジェクトテンプレート。</value>
   </data>
+  <data name="Nextcloud" xml:space="preserve">
+    <value>Nextcloud</value>
+  </data>
   <data name="No dependency on any cloud vendor. Run anywhere, any time." xml:space="preserve">
     <value>クラウドベンダーへの依存なし。どこでも、いつでも実行可能。</value>
   </data>
   <data name="Offline Capable" xml:space="preserve">
     <value>オフライン対応</value>
+  </data>
+  <data name="Ollama Gateway" xml:space="preserve">
+    <value>Ollama Gateway</value>
   </data>
   <data name="OllamaGateway has been officially tested and is fully compatible with popular ecosystem tools including Open-WebUI, Opencode, and Roocode. Its robust API translation makes it the ideal choice for deploying autonomous AI agents." xml:space="preserve">
     <value>OllamaGatewayは公式にテスト済みであり、Open-WebUI、Opencode、Roocodeを含む人気のエコシステムツールと完全に互換性があります。その堅牢なAPI変換機能により、自律型AIエージェントのデプロイに最適な選択肢となっています。</value>
@@ -662,6 +680,9 @@
   </data>
   <data name="Paving the Way for Your Business." xml:space="preserve">
     <value>あなたのビジネスの道を開く</value>
+  </data>
+  <data name="Polls" xml:space="preserve">
+    <value>アンケート</value>
   </data>
   <data name="Pre-configured CI/CD pipelines specifically for GitLab." xml:space="preserve">
     <value>GitLab専用に事前設定されたCI/CDパイプライン</value>
@@ -761,6 +782,9 @@
   </data>
   <data name="Starts compliant, secure immediately." xml:space="preserve">
     <value>導入直後からコンプライアンスとセキュリティを確保できます。</value>
+  </data>
+  <data name="StatHub" xml:space="preserve">
+    <value>StatHub</value>
   </data>
   <data name="Stop Coding Boilerplate." xml:space="preserve">
     <value>ボイラープレートのコーディングをやめよう。</value>
@@ -935,6 +959,9 @@
   </data>
   <data name="Zero Trust Yubikey Auth" xml:space="preserve">
     <value>ゼロトラスト Yubikey 認証</value>
+  </data>
+  <data name="Zot" xml:space="preserve">
+    <value>Zot</value>
   </data>
 
 </root>

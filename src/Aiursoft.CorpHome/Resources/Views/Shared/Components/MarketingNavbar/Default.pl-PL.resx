@@ -18,17 +18,38 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Aiursoft Template" xml:space="preserve">
+      <data name="A simple, real-time server monitoring system designed for local deployment. Keep an eye on your infrastructure with intuitive dashboards and detailed metrics." xml:space="preserve">
+    <value>Prosty, działający w czasie rzeczywistym system monitorowania serwerów przeznaczony do wdrożenia lokalnego. Zadbaj o swoją infrastrukturę dzięki intuicyjnym panelom i szczegółowym metrykom.</value>
+  </data>
+  <data name="Aiursoft Template" xml:space="preserve">
     <value>Szablon Aiursoft</value>
+  </data>
+  <data name="AnduinOS" xml:space="preserve">
+    <value>AnduinOS</value>
+  </data>
+  <data name="AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
+    <value>AnduinOS to niestandardowa dystrybucja Linuksa oparta na Ubuntu, oferująca znajome i łatwe w obsłudze środowisko dla każdego, kto przechodzi na system Linux.</value>
   </data>
   <data name="Community" xml:space="preserve">
     <value>Społeczność</value>
   </data>
+  <data name="Discover the benefits of working with us." xml:space="preserve">
+    <value>Odkryj korzyści płynące ze współpracy z nami.</value>
+  </data>
   <data name="Documentation" xml:space="preserve">
     <value>Dokumentacja</value>
   </data>
+  <data name="Enterprise business framework for the Open-source &amp; AI era." xml:space="preserve">
+    <value>Zaawansowany szkielet biznesowy dla ery open-source i AI.</value>
+  </data>
   <data name="GitHub" xml:space="preserve">
     <value>GitHub</value>
+  </data>
+  <data name="Join our partner ecosystem." xml:space="preserve">
+    <value>Dołącz do naszego ekosystemu partnerów.</value>
+  </data>
+  <data name="Ollama Gateway" xml:space="preserve">
+    <value>Ollama Gateway</value>
   </data>
   <data name="Partners" xml:space="preserve">
     <value>Partnerzy</value>
@@ -42,8 +63,26 @@
   <data name="Source Code" xml:space="preserve">
     <value>Kod źródłowy</value>
   </data>
+  <data name="StatHub" xml:space="preserve">
+    <value>StatHub</value>
+  </data>
+  <data name="Substratum" xml:space="preserve">
+    <value>Substratum</value>
+  </data>
+  <data name="Supercharge your native Ollama with enterprise-grade API authentication, request auditing, and virtual model management—your secure, private AI gateway." xml:space="preserve">
+    <value>Wzmocnij swój natywny Ollamę o uwierzytelnianie API klasy enterprise, audyt żądań i zarządzanie wirtualnymi modelami — Twoje bezpieczne, prywatne bramki AI.</value>
+  </data>
+  <data name="Template" xml:space="preserve">
+    <value>Szablon</value>
+  </data>
   <data name="Try the dashboard" xml:space="preserve">
     <value>Wypróbuj panel sterowania</value>
+  </data>
+  <data name="Unified endpoint management (UEM), identity management (IAM), and collaboration tools (OA) in one package. All on your local servers!" xml:space="preserve">
+    <value>Zarządzanie punktami końcowymi (UEM), zarządzanie tożsamością (IAM) i narzędzia do współpracy (OA) w jednym pakiecie. Wszystko na Twoich lokalnych serwerach!</value>
+  </data>
+  <data name="View Partners" xml:space="preserve">
+    <value>Zobacz partnerów</value>
   </data>
 
 </root>

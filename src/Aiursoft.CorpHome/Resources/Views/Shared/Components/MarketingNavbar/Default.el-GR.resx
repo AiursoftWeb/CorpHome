@@ -18,17 +18,38 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Aiursoft Template" xml:space="preserve">
+      <data name="A simple, real-time server monitoring system designed for local deployment. Keep an eye on your infrastructure with intuitive dashboards and detailed metrics." xml:space="preserve">
+    <value>Ένα απλό σύστημα παρακολούθησης διακομιστών σε πραγματικό χρόνο, σχεδιασμένο για τοπική εγκατάσταση. Παρακολουθήστε την υποδομή σας με διαισθητικούς πίνακες ελέγχου και λεπτομερείς μετρικές.</value>
+  </data>
+  <data name="Aiursoft Template" xml:space="preserve">
     <value>Πρότυπο Aiursoft</value>
+  </data>
+  <data name="AnduinOS" xml:space="preserve">
+    <value>AnduinOS</value>
+  </data>
+  <data name="AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
+    <value>Το AnduinOS είναι μια προσαρμοσμένη διανομή Linux βασισμένη στο Ubuntu, που προσφέρει μια οικεία και εύχρηστη εμπειρία σε όποιον μεταπηδά στο Linux.</value>
   </data>
   <data name="Community" xml:space="preserve">
     <value>Κοινότητα</value>
   </data>
+  <data name="Discover the benefits of working with us." xml:space="preserve">
+    <value>Ανακαλύψτε τα οφέλη της συνεργασίας μαζί μας.</value>
+  </data>
   <data name="Documentation" xml:space="preserve">
     <value>Τεκμηρίωση</value>
   </data>
+  <data name="Enterprise business framework for the Open-source &amp; AI era." xml:space="preserve">
+    <value>Επιχειρησιακό πλαίσιο για την εποχή του ανοιχτού κώδικα και της Τεχνητής Νοημοσύνης.</value>
+  </data>
   <data name="GitHub" xml:space="preserve">
     <value>GitHub</value>
+  </data>
+  <data name="Join our partner ecosystem." xml:space="preserve">
+    <value>Γίνετε μέλος του συνεργατικού μας οικοσυστήματος.</value>
+  </data>
+  <data name="Ollama Gateway" xml:space="preserve">
+    <value>Πύλη Ollama</value>
   </data>
   <data name="Partners" xml:space="preserve">
     <value>Συνεργάτες</value>
@@ -42,8 +63,26 @@
   <data name="Source Code" xml:space="preserve">
     <value>Πηγαίος Κώδικας</value>
   </data>
+  <data name="StatHub" xml:space="preserve">
+    <value>StatHub</value>
+  </data>
+  <data name="Substratum" xml:space="preserve">
+    <value>Υπόστρωμα</value>
+  </data>
+  <data name="Supercharge your native Ollama with enterprise-grade API authentication, request auditing, and virtual model management—your secure, private AI gateway." xml:space="preserve">
+    <value>Ενισχύστε το τοπικό Ollama με πιστοποίηση API επιπέδου επιχείρησης, ελέγχο αιτημάτων και διαχείριση εικονικών μοντέλων—η ασφαλής, ιδιωτική πύλη AI σας.</value>
+  </data>
+  <data name="Template" xml:space="preserve">
+    <value>Πρότυπο</value>
+  </data>
   <data name="Try the dashboard" xml:space="preserve">
     <value>Δοκιμάστε τον πίνακα ελέγχου</value>
+  </data>
+  <data name="Unified endpoint management (UEM), identity management (IAM), and collaboration tools (OA) in one package. All on your local servers!" xml:space="preserve">
+    <value>Ενιαία διαχείριση τερματικών (UEM), διαχείριση ταυτότητας (IAM) και εργαλεία συνεργασίας (OA) σε ένα πακέτο. Όλα στους τοπικούς σας διακομιστές!</value>
+  </data>
+  <data name="View Partners" xml:space="preserve">
+    <value>Προβολή Συνεργατών</value>
   </data>
 
 </root>
