@@ -689,6 +689,20 @@
     }
 }
 
+/* =========================================
+   Partner Logo Styles
+   ========================================= */
+
+.partner-logo {
+    filter: grayscale(100%) opacity(0.55);
+    transition: filter 0.3s ease, transform 0.3s ease;
+}
+
+.partner-logo:hover {
+    filter: grayscale(0%) opacity(1);
+    transform: translateY(-2px);
+}
+
 /* Mobile Adjustments */
 @media (max-width: 767px) {
     .landing-mega-nav .mega-menu-pane {

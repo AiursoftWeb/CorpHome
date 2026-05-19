@@ -18,7 +18,10 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="A simple, real-time server monitoring system designed for local deployment. Keep an eye on your infrastructure with intuitive dashboards and detailed metrics." xml:space="preserve">
+      <data name="A fast, free, open-source and offline-deployable enterprise office hub enhanced with agentic RAG — streamline HR, finance, and operations for your SMB." xml:space="preserve">
+    <value>Sebuah pusat kantor perusahaan yang cepat, gratis, open-source, dan dapat di-deploy secara offline, diperkaya dengan agentic RAG — streamline HR, keuangan, dan operasi untuk SMB Anda.</value>
+  </data>
+  <data name="A simple, real-time server monitoring system designed for local deployment. Keep an eye on your infrastructure with intuitive dashboards and detailed metrics." xml:space="preserve">
     <value>Sistem pemantauan server real-time yang sederhana, dirancang untuk penempatan lokal. Pantau infrastruktur Anda dengan dasbor yang intuitif dan metrik terperinci.</value>
   </data>
   <data name="Aiursoft Template" xml:space="preserve">
@@ -38,6 +41,9 @@
   </data>
   <data name="Documentation" xml:space="preserve">
     <value>Dokumentasi</value>
+  </data>
+  <data name="Employee Center" xml:space="preserve">
+    <value>Pusat Karyawan</value>
   </data>
   <data name="Enterprise business framework for the Open-source &amp; AI era." xml:space="preserve">
     <value>Kerangka bisnis perusahaan untuk era Open-source &amp; AI.</value>

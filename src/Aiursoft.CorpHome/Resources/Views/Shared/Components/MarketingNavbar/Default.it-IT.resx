@@ -18,7 +18,10 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="A simple, real-time server monitoring system designed for local deployment. Keep an eye on your infrastructure with intuitive dashboards and detailed metrics." xml:space="preserve">
+      <data name="A fast, free, open-source and offline-deployable enterprise office hub enhanced with agentic RAG — streamline HR, finance, and operations for your SMB." xml:space="preserve">
+    <value>Un hub aziendale rapido, gratuito, open-source e deployabile offline, potenziato con agentic RAG — semplifica HR, finanza e operazioni per la tua PMI.</value>
+  </data>
+  <data name="A simple, real-time server monitoring system designed for local deployment. Keep an eye on your infrastructure with intuitive dashboards and detailed metrics." xml:space="preserve">
     <value>Un semplice sistema di monitoraggio dei server in tempo reale, progettato per il deployment locale. Tieni sotto controllo la tua infrastruttura con dashboard intuitive e metriche dettagliate.</value>
   </data>
   <data name="Aiursoft Template" xml:space="preserve">
@@ -38,6 +41,9 @@
   </data>
   <data name="Documentation" xml:space="preserve">
     <value>Documentazione</value>
+  </data>
+  <data name="Employee Center" xml:space="preserve">
+    <value>Centro dipendenti</value>
   </data>
   <data name="Enterprise business framework for the Open-source &amp; AI era." xml:space="preserve">
     <value>Framework aziendale per l&apos;era dell&apos;open source e dell&apos;IA.</value>

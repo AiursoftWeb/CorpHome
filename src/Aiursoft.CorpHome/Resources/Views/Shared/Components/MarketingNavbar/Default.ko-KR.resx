@@ -18,7 +18,10 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="A simple, real-time server monitoring system designed for local deployment. Keep an eye on your infrastructure with intuitive dashboards and detailed metrics." xml:space="preserve">
+      <data name="A fast, free, open-source and offline-deployable enterprise office hub enhanced with agentic RAG — streamline HR, finance, and operations for your SMB." xml:space="preserve">
+    <value>빠르고 무료이며 오픈소스이고 오프라인 배포가 가능한 엔터프라이즈 오피스 허브로, 에이전트형 RAG를 통해 SMB의 인사, 재무, 운영을 간소화하세요.</value>
+  </data>
+  <data name="A simple, real-time server monitoring system designed for local deployment. Keep an eye on your infrastructure with intuitive dashboards and detailed metrics." xml:space="preserve">
     <value>로컬 배포용으로 설계된 간단하고 실시간인 서버 모니터링 시스템. 직관적인 대시보드와 상세한 메트릭으로 인프라를 모니터링하세요.</value>
   </data>
   <data name="Aiursoft Template" xml:space="preserve">
@@ -38,6 +41,9 @@
   </data>
   <data name="Documentation" xml:space="preserve">
     <value>문서</value>
+  </data>
+  <data name="Employee Center" xml:space="preserve">
+    <value>직원 센터</value>
   </data>
   <data name="Enterprise business framework for the Open-source &amp; AI era." xml:space="preserve">
     <value>오픈소스 및 AI 시대를 위한 엔터프라이즈 비즈니스 프레임워크</value>

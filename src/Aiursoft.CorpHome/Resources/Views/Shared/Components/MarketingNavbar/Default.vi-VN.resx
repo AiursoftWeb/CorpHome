@@ -18,7 +18,10 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="A simple, real-time server monitoring system designed for local deployment. Keep an eye on your infrastructure with intuitive dashboards and detailed metrics." xml:space="preserve">
+      <data name="A fast, free, open-source and offline-deployable enterprise office hub enhanced with agentic RAG — streamline HR, finance, and operations for your SMB." xml:space="preserve">
+    <value>Một trung tâm văn phòng doanh nghiệp nhanh chóng, miễn phí, mã nguồn mở và có thể triển khai ngoại tuyến, được tăng cường với RAG tác nhân — tối ưu hóa nhân sự, tài chính và vận hành cho doanh nghiệp vừa và nhỏ của bạn.</value>
+  </data>
+  <data name="A simple, real-time server monitoring system designed for local deployment. Keep an eye on your infrastructure with intuitive dashboards and detailed metrics." xml:space="preserve">
     <value>Một hệ thống giám sát máy chủ đơn giản, theo thời gian thực, được thiết kế để triển khai cục bộ. Theo dõi cơ sở hạ tầng của bạn với các bảng điều khiển trực quan và các chỉ số chi tiết.</value>
   </data>
   <data name="Aiursoft Template" xml:space="preserve">
@@ -38,6 +41,9 @@
   </data>
   <data name="Documentation" xml:space="preserve">
     <value>Tài liệu</value>
+  </data>
+  <data name="Employee Center" xml:space="preserve">
+    <value>Trung tâm Nhân viên</value>
   </data>
   <data name="Enterprise business framework for the Open-source &amp; AI era." xml:space="preserve">
     <value>Khung kinh doanh doanh nghiệp cho kỷ nguyên Mã nguồn mở &amp; AI.</value>
