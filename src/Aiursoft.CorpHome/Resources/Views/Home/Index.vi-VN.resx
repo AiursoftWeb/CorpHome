@@ -228,6 +228,9 @@
   <data name="Code Audit &amp; Integration" xml:space="preserve">
     <value>Kiểm tra mã nguồn &amp; Tích hợp</value>
   </data>
+  <data name="Collaborating with innovative companies to deliver the best enterprise solutions." xml:space="preserve">
+    <value>Hợp tác với các công ty đổi mới để cung cấp các giải pháp doanh nghiệp tốt nhất.</value>
+  </data>
   <data name="Combine Open-source tools on GitHub and Hugging Face — no enterprise licenses needed." xml:space="preserve">
     <value>Kết hợp các công cụ mã nguồn mở trên GitHub và Hugging Face — không cần giấy phép doanh nghiệp.</value>
   </data>
@@ -675,6 +678,9 @@
   <data name="OpenID Connect Integration" xml:space="preserve">
     <value>Tích hợp OpenID Connect</value>
   </data>
+  <data name="Our Partners" xml:space="preserve">
+    <value>Đối tác của chúng tôi</value>
+  </data>
   <data name="Own Your Data" xml:space="preserve">
     <value>Sở hữu Dữ liệu của Bạn</value>
   </data>
@@ -866,6 +872,9 @@
   </data>
   <data name="Transparent &amp; Affordable" xml:space="preserve">
     <value>Minh bạch và giá cả phải chăng</value>
+  </data>
+  <data name="Trusted by Industry Leaders" xml:space="preserve">
+    <value>Được các nhà lãnh đạo ngành tin tưởng</value>
   </data>
   <data name="Trusted by production-grade applications including AnduinOS, StatHub, and Warp. We don&apos;t just share this code; we run our entire business on it." xml:space="preserve">
     <value>Được tin tưởng bởi các ứng dụng sản xuất cấp độ cao, bao gồm AnduinOS, StatHub, và Warp. Chúng tôi không chỉ chia sẻ mã nguồn này; chúng tôi vận hành toàn bộ doanh nghiệp của mình dựa trên nó.</value>

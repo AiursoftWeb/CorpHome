@@ -108,6 +108,9 @@
   <data name="One-time Setup Fee" xml:space="preserve">
     <value>Eenmalige instelkosten</value>
   </data>
+  <data name="One-time setup fee needs to be discussed based on your deployment mode, generally around {0}." xml:space="preserve">
+    <value>Eenmalige instelkosten moeten worden besproken op basis van uw implementatiemodus, over het algemeen rond {0}.</value>
+  </data>
   <data name="Pricing" xml:space="preserve">
     <value>Prijzen</value>
   </data>

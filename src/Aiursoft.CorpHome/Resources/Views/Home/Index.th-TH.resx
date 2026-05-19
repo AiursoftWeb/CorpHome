@@ -228,6 +228,9 @@
   <data name="Code Audit &amp; Integration" xml:space="preserve">
     <value>การตรวจสอบโค้ดและการรวมระบบ</value>
   </data>
+  <data name="Collaborating with innovative companies to deliver the best enterprise solutions." xml:space="preserve">
+    <value>ร่วมมือกับบริษัทชั้นนำด้านนวัตกรรมเพื่อมอบโซลูชันองค์กรที่ดีที่สุด</value>
+  </data>
   <data name="Combine Open-source tools on GitHub and Hugging Face — no enterprise licenses needed." xml:space="preserve">
     <value>รวมเครื่องมือโอเพ่นซอร์สบน GitHub และ Hugging Face — ไม่ต้องใช้ใบอนุญาตสำหรับองค์กร</value>
   </data>
@@ -675,6 +678,9 @@
   <data name="OpenID Connect Integration" xml:space="preserve">
     <value>การผสานรวม OpenID Connect</value>
   </data>
+  <data name="Our Partners" xml:space="preserve">
+    <value>พันธมิตรของเรา</value>
+  </data>
   <data name="Own Your Data" xml:space="preserve">
     <value>เป็นเจ้าของข้อมูลของคุณเอง</value>
   </data>
@@ -866,6 +872,9 @@
   </data>
   <data name="Transparent &amp; Affordable" xml:space="preserve">
     <value>โปร่งใสและคุ้มค่า</value>
+  </data>
+  <data name="Trusted by Industry Leaders" xml:space="preserve">
+    <value>ได้รับความไว้วางใจจากผู้นำในอุตสาหกรรม</value>
   </data>
   <data name="Trusted by production-grade applications including AnduinOS, StatHub, and Warp. We don&apos;t just share this code; we run our entire business on it." xml:space="preserve">
     <value>ได้รับการไว้วางใจจากแอปพลิเคชันระดับการผลิต รวมถึง AnduinOS, StatHub, และ Warp เรายังไม่เพียงแค่แบ่งปันโค้ดเท่านั้น แต่เราใช้โค้ดนี้ในการดำเนินธุรกิจทั้งหมดของเรา</value>
