@@ -84,11 +84,17 @@
   <data name="For Cloud-Hosted Plans (e.g., Aiursoft Substrate S1 Core):" xml:space="preserve">
     <value>Voor cloudgehoste plannen (bijv. Aiursoft Substrate S1 Core):</value>
   </data>
+  <data name="For Cloud-Hosted Plans (e.g., Aiursoft Substratum Core):" xml:space="preserve">
+    <value>Voor cloud-gehoste abonnementen (bijv. Aiursoft Substratum Core):</value>
+  </data>
   <data name="For on-premise deployments, cancellation simply terminates our support and update services. Your data remains entirely intact on your own servers, under your complete control." xml:space="preserve">
     <value>Voor on-premise implementaties beëindigt annulering simpelweg onze ondersteuning- en updatediensten. Uw gegevens blijven volledig onaangetast op uw eigen servers, onder uw volledige controle.</value>
   </data>
   <data name="For On-Premise Plans (e.g., Aiursoft Substrate S3 Startup &amp; S5 Enterprise):" xml:space="preserve">
     <value>Voor on-premise plannen (bijv. Aiursoft Substrate S3 Startup &amp; S5 Enterprise):</value>
+  </data>
+  <data name="For On-Premise Plans (e.g., Aiursoft Substratum Startup &amp; Enterprise):" xml:space="preserve">
+    <value>Voor On-Premise-plannen (bijv. Aiursoft Substratum Startup &amp; Enterprise):</value>
   </data>
   <data name="For provisioning the underlying high-performance cloud infrastructure that powers our official websites and Cloud-Hosted (S1 Core) client instances." xml:space="preserve">
     <value>Voor het inrichten van de onderliggende high-performance cloud-infrastructuur die onze officiële websites en Cloud-Hosted (S1 Core) clientinstanties voedt.</value>

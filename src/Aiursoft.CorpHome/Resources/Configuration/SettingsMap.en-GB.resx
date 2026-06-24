@@ -39,6 +39,9 @@
   <data name="Brand Name" xml:space="preserve">
     <value>Brand Name</value>
   </data>
+  <data name="Company Name (Simplified Chinese)" xml:space="preserve">
+    <value>Company Name (Simplified Chinese)</value>
+  </data>
   <data name="Dummy Choice" xml:space="preserve">
     <value>Dummy Choice</value>
   </data>
@@ -98,6 +101,9 @@
   </data>
   <data name="The brand name displayed in the footer." xml:space="preserve">
     <value>The brand name displayed in the footer.</value>
+  </data>
+  <data name="The company name displayed when the page language is Simplified Chinese. Leave empty to use the default brand name." xml:space="preserve">
+    <value>The company name displayed when the page language is Simplified Chinese. Leave blank to use the default brand name.</value>
   </data>
   <data name="The ICP license number for China mainland users. Leave empty to hide." xml:space="preserve">
     <value>The ICP license number for China mainland users. Leave empty to hide.</value>

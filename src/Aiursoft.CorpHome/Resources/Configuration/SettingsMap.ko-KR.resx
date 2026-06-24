@@ -39,6 +39,9 @@
   <data name="Brand Name" xml:space="preserve">
     <value>브랜드 이름</value>
   </data>
+  <data name="Company Name (Simplified Chinese)" xml:space="preserve">
+    <value>회사명 (중국어 간체)</value>
+  </data>
   <data name="Dummy Choice" xml:space="preserve">
     <value>임의 선택</value>
   </data>
@@ -98,6 +101,9 @@
   </data>
   <data name="The brand name displayed in the footer." xml:space="preserve">
     <value>푸터에 표시되는 브랜드 이름</value>
+  </data>
+  <data name="The company name displayed when the page language is Simplified Chinese. Leave empty to use the default brand name." xml:space="preserve">
+    <value>페이지 언어가 간체 중국어일 때 표시되는 회사 이름입니다. 기본 브랜드 이름을 사용하려면 비워 둡니다.</value>
   </data>
   <data name="The ICP license number for China mainland users. Leave empty to hide." xml:space="preserve">
     <value>중국 대륙 사용자를 위한 ICP 라이선스 번호. 비워두면 숨깁니다.</value>

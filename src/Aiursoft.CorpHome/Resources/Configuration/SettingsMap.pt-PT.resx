@@ -39,6 +39,9 @@
   <data name="Brand Name" xml:space="preserve">
     <value>Nome da Marca</value>
   </data>
+  <data name="Company Name (Simplified Chinese)" xml:space="preserve">
+    <value>Nome da Empresa (Chinês Simplificado)</value>
+  </data>
   <data name="Dummy Choice" xml:space="preserve">
     <value>Escolha de Teste</value>
   </data>
@@ -98,6 +101,9 @@
   </data>
   <data name="The brand name displayed in the footer." xml:space="preserve">
     <value>O nome da marca exibido no rodapé.</value>
+  </data>
+  <data name="The company name displayed when the page language is Simplified Chinese. Leave empty to use the default brand name." xml:space="preserve">
+    <value>O nome da empresa exibido quando o idioma da página é Chinês Simplificado. Deixe em branco para usar o nome da marca padrão.</value>
   </data>
   <data name="The ICP license number for China mainland users. Leave empty to hide." xml:space="preserve">
     <value>O número de licença ICP para utilizadores da China continental. Deixe em branco para ocultar.</value>

@@ -39,6 +39,9 @@
   <data name="Brand Name" xml:space="preserve">
     <value>Όνομα Εταιρείας</value>
   </data>
+  <data name="Company Name (Simplified Chinese)" xml:space="preserve">
+    <value>Ονομασία Εταιρείας (Απλοποιημένο Κινεζικό)</value>
+  </data>
   <data name="Dummy Choice" xml:space="preserve">
     <value>Προσχέδιο Επιλογής</value>
   </data>
@@ -98,6 +101,9 @@
   </data>
   <data name="The brand name displayed in the footer." xml:space="preserve">
     <value>Το όνομα της εταιρείας που εμφανίζεται στον ποδόσκαλο.</value>
+  </data>
+  <data name="The company name displayed when the page language is Simplified Chinese. Leave empty to use the default brand name." xml:space="preserve">
+    <value>Το όνομα της εταιρείας που εμφανίζεται όταν η γλώσσα της σελίδας είναι Απλοποιημένα Κινέζικα. Αφήστε το κενό για να χρησιμοποιήσετε το προεπιλεγμένο όνομα μάρκας.</value>
   </data>
   <data name="The ICP license number for China mainland users. Leave empty to hide." xml:space="preserve">
     <value>Ο αριθμός άδειας ICP για χρήστες της κυρίως Κίνας. Αφήστε κενό για να κρυφτεί.</value>

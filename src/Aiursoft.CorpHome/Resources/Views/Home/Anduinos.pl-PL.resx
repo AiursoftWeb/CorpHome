@@ -99,6 +99,9 @@
   <data name="Community Site" xml:space="preserve">
     <value>Strona społeczności</value>
   </data>
+  <data name="Compatible with most x86 PCs manufactured in the last decade." xml:space="preserve">
+    <value>Kompatybilne z większością komputerów PC x86 wyprodukowanych w ostatniej dekadzie.</value>
+  </data>
   <data name="Compatible with virtually any PC hardware manufactured in the last decade." xml:space="preserve">
     <value>Kompatybilny z niemal każdym sprzętem PC produkowanym w ostatniej dekadzie.</value>
   </data>
@@ -284,6 +287,9 @@
   </data>
   <data name="Multi-Node" xml:space="preserve">
     <value>Wielowęzłowy</value>
+  </data>
+  <data name="NVIDIA Graphics Support" xml:space="preserve">
+    <value>Wsparcie dla NVIDIA</value>
   </data>
   <data name="NVIDIA Tested" xml:space="preserve">
     <value>Przetestowany przez NVIDIA</value>

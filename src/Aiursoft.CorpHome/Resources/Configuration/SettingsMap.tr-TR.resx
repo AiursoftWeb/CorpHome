@@ -39,6 +39,9 @@
   <data name="Brand Name" xml:space="preserve">
     <value>Marka Adı</value>
   </data>
+  <data name="Company Name (Simplified Chinese)" xml:space="preserve">
+    <value>Şirket Adı (Basitleştirilmiş Çince)</value>
+  </data>
   <data name="Dummy Choice" xml:space="preserve">
     <value>Yanlış Seçim</value>
   </data>
@@ -98,6 +101,9 @@
   </data>
   <data name="The brand name displayed in the footer." xml:space="preserve">
     <value>Footer&apos;da gösterilen marka adı.</value>
+  </data>
+  <data name="The company name displayed when the page language is Simplified Chinese. Leave empty to use the default brand name." xml:space="preserve">
+    <value>Sayfa dili Basitleştirilmiş Çince olduğunda görüntülenen şirket adı. Varsayılan marka adını kullanmak için boş bırakın.</value>
   </data>
   <data name="The ICP license number for China mainland users. Leave empty to hide." xml:space="preserve">
     <value>Çin ana karasında kullanıcılar için ICP lisans numarası. Gizlemek için boş bırakın.</value>

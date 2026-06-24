@@ -27,6 +27,9 @@
   <data name="Add to Management Cloud and go live" xml:space="preserve">
     <value>أضف إلى إدارة السحابة وابدأ العمل</value>
   </data>
+  <data name="Advanced" xml:space="preserve">
+    <value>متقدمة</value>
+  </data>
   <data name="All the power of open-source, backed by enterprise-grade support, management tools, and customisation capabilities." xml:space="preserve">
     <value>جميع قوة المصادر المفتوحة، مدعومة بالدعم وإدارة الأدوات وقدرات التخصيص المصممة للقطاع الخاص.</value>
   </data>
@@ -69,6 +72,9 @@
   <data name="Apkg is a declarative APT repository platform that lets you host signed Debian repositories, mirror upstream archives, and publish your own .apkg packages — all fully on-premise. Integrates seamlessly with AnduinOS for painless apt update &amp;&amp; apt install workflows across your entire fleet." xml:space="preserve">
     <value>Apkg هو منصة مستودع APT إعلانية تتيح لك استضافة مستودعات Debian الموقعة، وإنشاء مرايا للأرشيفات المصدرية، ونشر حزمك الخاصة بصيغة .apkg — وكل ذلك بشكل كامل داخل موقعك (On-Premise). يتم تكامله بسلاسة مع AnduinOS لتمكين سير عمل apt update &amp;&amp; apt install بسلاسة عبر أسطولك بأكمله.</value>
   </data>
+  <data name="Architecture" xml:space="preserve">
+    <value>البنية</value>
+  </data>
   <data name="Atomic Snapshots" xml:space="preserve">
     <value>لقطات فورية متسقة</value>
   </data>
@@ -87,6 +93,9 @@
   <data name="Built for business. Air-gapped by design." xml:space="preserve">
     <value>مصمم للأعمال. معزول تقنياً بالتصميم.</value>
   </data>
+  <data name="Built on a rock-solid foundation. Designed for the enterprise." xml:space="preserve">
+    <value>مبني على أساس متين. مصمم للمؤسسات.</value>
+  </data>
   <data name="Built on the same infrastructure that powers AnduinOS package delivery. Push updates to your entire fleet with a single command." xml:space="preserve">
     <value>مبني على نفس البنية التحتية التي تقود تسليم حزم AnduinOS. قم بتحديث أسطولك بالكامل بأمر واحد.</value>
   </data>
@@ -96,11 +105,17 @@
   <data name="Community Site" xml:space="preserve">
     <value>موقع المجتمع</value>
   </data>
+  <data name="Compatible with most x86 PCs manufactured in the last decade." xml:space="preserve">
+    <value>متوافق مع معظم أجهزة الكمبيوتر x86 المصنعة خلال العقد الماضي.</value>
+  </data>
   <data name="Compliance-ready default configurations" xml:space="preserve">
     <value>إعدادات افتراضية جاهزة للامتثال</value>
   </data>
   <data name="Contact Enterprise Sales" xml:space="preserve">
     <value>اتصل بفريق مبيعات المؤسسات</value>
+  </data>
+  <data name="Contact Sales" xml:space="preserve">
+    <value>تواصل مع المبيعات</value>
   </data>
   <data name="Containerized" xml:space="preserve">
     <value>المُعبَّأة</value>
@@ -123,6 +138,12 @@
   <data name="Declarative Packaging" xml:space="preserve">
     <value>التعبئة الإعلانية</value>
   </data>
+  <data name="Default Browser" xml:space="preserve">
+    <value>المتصفح الافتراضي</value>
+  </data>
+  <data name="Default Filesystem" xml:space="preserve">
+    <value>نظام الملفات الافتراضي</value>
+  </data>
   <data name="Deploy at scale, manage centrally, enjoy the enterprise edition!" xml:space="preserve">
     <value>نفّذ على نطاق واسع، وأدر مركزياً، واستمتع بنسخة المؤسسات!</value>
   </data>
@@ -132,8 +153,17 @@
   <data name="Deployment" xml:space="preserve">
     <value>النشر</value>
   </data>
+  <data name="Desktop Environment" xml:space="preserve">
+    <value>بيئة سطح المكتب</value>
+  </data>
   <data name="digital signage and kiosk terminals" xml:space="preserve">
     <value>اللافتات الرقمية ومحطات kiosks</value>
+  </data>
+  <data name="Disk Space" xml:space="preserve">
+    <value>مساحة القرص</value>
+  </data>
+  <data name="Display Server" xml:space="preserve">
+    <value>خادم العرض</value>
   </data>
   <data name="Distribute your own software packages internally via standard apt protocol. Take control of your enterprise package ecosystem." xml:space="preserve">
     <value>وزع حزمك البرمجية داخلياً عبر بروتوكول apt القياسي. تحكم في نظامك البيئي لحزم المؤسسة.</value>
@@ -150,11 +180,20 @@
   <data name="Ecological perfection" xml:space="preserve">
     <value>الكمال البيئي</value>
   </data>
+  <data name="End of Support" xml:space="preserve">
+    <value>نهاية الدعم</value>
+  </data>
   <data name="Enroll" xml:space="preserve">
     <value>التسجيل</value>
   </data>
+  <data name="Enterprise" xml:space="preserve">
+    <value>المؤسسية</value>
+  </data>
   <data name="Enterprise Services" xml:space="preserve">
     <value>خدمات المؤسسات</value>
+  </data>
+  <data name="Enterprise-grade" xml:space="preserve">
+    <value>على مستوى المؤسسات</value>
   </data>
   <data name="Enterprise-grade management for your fleet" xml:space="preserve">
     <value>إدارة بمعايير المؤسسات لأسطولك</value>
@@ -165,11 +204,20 @@
   <data name="Explore StatHub" xml:space="preserve">
     <value>استكشف StatHub</value>
   </data>
+  <data name="Familiar UX" xml:space="preserve">
+    <value>واجهة مستخدم مألوفة</value>
+  </data>
+  <data name="Firmware" xml:space="preserve">
+    <value>البرامج الثابتة</value>
+  </data>
   <data name="Flash" xml:space="preserve">
     <value>تفليش</value>
   </data>
   <data name="Free" xml:space="preserve">
     <value>مجاني</value>
+  </data>
+  <data name="Free Software" xml:space="preserve">
+    <value>برمجيات حرة</value>
   </data>
   <data name="Friendly interface" xml:space="preserve">
     <value>واجهة سهلة الاستخدام</value>
@@ -189,6 +237,15 @@
   <data name="Graphical applications are installed via Flatpak, and keep themselves separate from the base system. They also allow for fine-grained control over their permissions." xml:space="preserve">
     <value>يتم تثبيت التطبيقات الرسومية عبر Flatpak، وتبقى معزولة عن النظام الأساسي. كما تتيح التحكم الدقيق في صلاحياتها.</value>
   </data>
+  <data name="HDR Support" xml:space="preserve">
+    <value>دعم HDR</value>
+  </data>
+  <data name="Image Size" xml:space="preserve">
+    <value>حجم الصورة</value>
+  </data>
+  <data name="Init System" xml:space="preserve">
+    <value>نظام التهيئة</value>
+  </data>
   <data name="Internal package distribution via apt" xml:space="preserve">
     <value>توزيع الحزم الداخلية عبر apt</value>
   </data>
@@ -201,6 +258,12 @@
   <data name="Lightweight Agents" xml:space="preserve">
     <value>عوامل خفيفة الوزن</value>
   </data>
+  <data name="Linux Kernel" xml:space="preserve">
+    <value>نواة لينكس</value>
+  </data>
+  <data name="Live Boot" xml:space="preserve">
+    <value>إعداد مباشر</value>
+  </data>
   <data name="Locked-down &amp; tamper-proof" xml:space="preserve">
     <value>مقفل وآمن ضد التلاعب</value>
   </data>
@@ -209,6 +272,12 @@
   </data>
   <data name="Low-overhead agents collect metrics without impacting your AnduinOS devices&apos; performance. Deploy in seconds with Docker." xml:space="preserve">
     <value>تجمع الوكلاء منخفضي النفقات المقاييس دون التأثير على أداء أجهزة AnduinOS الخاصة بك. قم بالنشر في ثوانٍ باستخدام Docker.</value>
+  </data>
+  <data name="LTS Support" xml:space="preserve">
+    <value>دعم الإصدار طويل الأمد</value>
+  </data>
+  <data name="management for your fleet" xml:space="preserve">
+    <value>إدارة لأسطولك</value>
   </data>
   <data name="Minimal maintenance. Maximum stability." xml:space="preserve">
     <value>صيانة محدودة. استقرار أقصى.</value>
@@ -225,6 +294,9 @@
   <data name="Multi-Node" xml:space="preserve">
     <value>متعدد العقد</value>
   </data>
+  <data name="NVIDIA Graphics Support" xml:space="preserve">
+    <value>دعم رسوميات NVIDIA</value>
+  </data>
   <data name="Offline repository mirrors for air-gapped networks" xml:space="preserve">
     <value>نسخ مرآتية للمخازن تعمل دون اتصال للشبكات المعزولة جوهرياً</value>
   </data>
@@ -234,17 +306,38 @@
   <data name="Open Source" xml:space="preserve">
     <value>مفتوح المصدر</value>
   </data>
+  <data name="or" xml:space="preserve">
+    <value>أو</value>
+  </data>
   <data name="Package Distribution" xml:space="preserve">
     <value>توزيع الحزم</value>
+  </data>
+  <data name="Package Format" xml:space="preserve">
+    <value>تنسيق الحزمة</value>
+  </data>
+  <data name="Package Manager" xml:space="preserve">
+    <value>مدير الحزم</value>
   </data>
   <data name="Performance" xml:space="preserve">
     <value>الأداء</value>
   </data>
+  <data name="Ports" xml:space="preserve">
+    <value>المنافذ</value>
+  </data>
   <data name="Pre-install company software packages" xml:space="preserve">
     <value>تثبيت حزم برامج الشركة مسبقاً</value>
   </data>
+  <data name="Pricing" xml:space="preserve">
+    <value>التسعير</value>
+  </data>
   <data name="Privacy is no longer optional. It&apos;s essential. AnduinOS is designed to gather nothing from you. We don&apos;t track you. We don&apos;t profile you. We don&apos;t target you. You remain anonymous to the system." xml:space="preserve">
     <value>لم يعد الخصوصية خياراً، بل أصبحت ضرورة. تم تصميم AnduinOS لعدم جمع أي بيانات منك. نحن لا نتتبعك. نحن لا نبني ملفات تعريفية لك. نحن لا نستهدفك. تظل هويتك مجهولة للنظام.</value>
+  </data>
+  <data name="Processor" xml:space="preserve">
+    <value>المعالج</value>
+  </data>
+  <data name="RAM" xml:space="preserve">
+    <value>الذاكرة العشوائية (RAM)</value>
   </data>
   <data name="Ready to use" xml:space="preserve">
     <value>جاهز للاستخدام</value>
@@ -257,6 +350,9 @@
   </data>
   <data name="Reasons" xml:space="preserve">
     <value>الأسباب</value>
+  </data>
+  <data name="Release Date" xml:space="preserve">
+    <value>تاريخ الإصدار</value>
   </data>
   <data name="Remote configuration and policy enforcement" xml:space="preserve">
     <value>التكوين عن بُعد وإنفاذ السياسات</value>
@@ -282,11 +378,17 @@
   <data name="Runs smoothly on older devices. Extends hardware lifespan by being resource-efficient, so you don&apos;t need to buy new machines." xml:space="preserve">
     <value>يعمل بسلاسة على الأجهزة القديمة. يطيل عمر الأجهزة المادية من خلال كفاءة استخدام الموارد، لذا لا داعي لشراء أجهزة جديدة.</value>
   </data>
+  <data name="Screen" xml:space="preserve">
+    <value>شاشة</value>
+  </data>
   <data name="Seamless AnduinOS Integration" xml:space="preserve">
     <value>تكامل سلس مع AnduinOS</value>
   </data>
   <data name="Secure" xml:space="preserve">
     <value>آمن</value>
+  </data>
+  <data name="Secure Boot" xml:space="preserve">
+    <value>الإقلاع الآمن</value>
   </data>
   <data name="Set up your system in under 5 minutes" xml:space="preserve">
     <value>قم بإعداد نظامك في أقل من 5 دقائق</value>
@@ -306,6 +408,9 @@
   <data name="Speedy Makeover" xml:space="preserve">
     <value>تحديث سريع</value>
   </data>
+  <data name="Stable &amp; Modern" xml:space="preserve">
+    <value>مثبت وعصري</value>
+  </data>
   <data name="StatHub Dashboard Screenshot" xml:space="preserve">
     <value>لقطة شاشة لوحة معلومات StatHub</value>
   </data>
@@ -315,8 +420,14 @@
   <data name="Sync, sign, and promote atomically via rename(2). APT clients never see half-written metadata — only consistent, signed snapshots." xml:space="preserve">
     <value>المزامنة، والتوقيع، والترويج ذرية عبر rename(2). عملاء APT لا يرون البيانات الوصفية المكتوبة جزئياً أبداً — فقط لقطات متسقة وموقعة.</value>
   </data>
+  <data name="System Requirements" xml:space="preserve">
+    <value>متطلبات النظام</value>
+  </data>
   <data name="System updates apply automatically when you restart. Zero maintenance windows — just reboot, and you&apos;re on the latest version." xml:space="preserve">
     <value>يتم تطبيق تحديثات النظام تلقائيًا عند إعادة التشغيل. لا نوافذ صيانة مطلوبة - ما عليك سوى إعادة التشغيل، وستكون على أحدث إصدار.</value>
+  </data>
+  <data name="Technical Specifications" xml:space="preserve">
+    <value>المواصفات الفنية</value>
   </data>
   <data name="The GNOME-based desktop environment has beautiful interfaces and human-computer interactions that fit user habits, allowing you to quickly get started with AnduinOS without too much learning cost." xml:space="preserve">
     <value>يتميز بيئة سطح المكتب المبنية على GNOME بواجهات جميلة وتفاعلات بين الإنسان والحاسوب تتوافق مع عادات المستخدمين، مما يتيح لك البدء بسرعة في استخدام AnduinOS دون تكبد تكلفة تعلم كبيرة.</value>
@@ -327,6 +438,9 @@
   <data name="The ISO is just 2.4GB in size. Similar to Ubuntu, it is simple to install and can meet your daily needs without additional configuration or complicated operations." xml:space="preserve">
     <value>لا يتجاوز حجم ملف ISO 2.4 جيجابايت. وعلى غرار Ubuntu، فإنه سهل التثبيت ويمكنه تلبية احتياجاتك اليومية دون الحاجة إلى إعدادات إضافية أو عمليات معقدة.</value>
   </data>
+  <data name="The operating system your enterprise needs — familiar, beautiful, stable, mature, and easy to manage. AnduinOS Enterprise is built on Linux 7.0, GNOME 50, and Ubuntu 26.04, keeping your team in a comfortable, productive environment." xml:space="preserve">
+    <value>نظام التشغيل الذي تحتاجه مؤسستك — مألوف، جميل، مستقر، ناضج، وسهل الإدارة. تم تطوير AnduinOS Enterprise على أساس Linux 7.0 و GNOME 50 و Ubuntu 26.04، مما يوفر لفريقك بيئة مريحة وإنتاجية.</value>
+  </data>
   <data name="Tired of your sluggish OS slowing you down? Switch to AnduinOS for instant speed and seamless performance." xml:space="preserve">
     <value>هل سئمت من بطء نظام التشغيل الخاص بك الذي يعيق عملك؟ انتقل إلى AnduinOS للحصول على سرعة فورية وأداء سلس.</value>
   </data>
@@ -336,6 +450,12 @@
   <data name="Turn any screen into a kiosk" xml:space="preserve">
     <value>تحويل أي شاشة إلى كشك</value>
   </data>
+  <data name="Ubuntu Base" xml:space="preserve">
+    <value>أساس أوبونتو</value>
+  </data>
+  <data name="UI Toolkit" xml:space="preserve">
+    <value>مجموعة أدوات واجهة المستخدم</value>
+  </data>
   <data name="Update content, push configurations, and monitor device health — all from the cloud. No need for on-site visits." xml:space="preserve">
     <value>تحديث المحتوى، وإرسال إعدادات التكوين، ومراقبة صحة الأجهزة — كل ذلك من السحابة الإلكترونية. لا حاجة لزيارات الموقع.</value>
   </data>
@@ -344,6 +464,9 @@
   </data>
   <data name="Visit Community Site" xml:space="preserve">
     <value>زيارة موقع المجتمع</value>
+  </data>
+  <data name="Wayland Ready" xml:space="preserve">
+    <value>متوافق مع Wayland</value>
   </data>
   <data name="Why choose AnduinOS?" xml:space="preserve">
     <value>لماذا تختار AnduinOS؟</value>
@@ -356,6 +479,9 @@
   </data>
   <data name="with StatHub" xml:space="preserve">
     <value>مع StatHub</value>
+  </data>
+  <data name="Without Snap" xml:space="preserve">
+    <value>بدون Snap</value>
   </data>
   <data name="Write the image to a USB drive" xml:space="preserve">
     <value>اكتب الصورة على محرك أقراص USB</value>

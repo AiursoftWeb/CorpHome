@@ -84,11 +84,17 @@
   <data name="For Cloud-Hosted Plans (e.g., Aiursoft Substrate S1 Core):" xml:space="preserve">
     <value>針對雲端主機方案（例如：Aiursoft Substrate S1 Core）：</value>
   </data>
+  <data name="For Cloud-Hosted Plans (e.g., Aiursoft Substratum Core):" xml:space="preserve">
+    <value>針對雲端託管方案（例如 Aiursoft Substratum Core）：</value>
+  </data>
   <data name="For on-premise deployments, cancellation simply terminates our support and update services. Your data remains entirely intact on your own servers, under your complete control." xml:space="preserve">
     <value>對於在本機部署的情況，取消服務僅會終止我們的支援與更新服務。您的資料將完全完好地保留在您自己的伺服器上，由您完全掌控。</value>
   </data>
   <data name="For On-Premise Plans (e.g., Aiursoft Substrate S3 Startup &amp; S5 Enterprise):" xml:space="preserve">
     <value>針對本地部署方案（例如：Aiursoft Substrate S3 Startup 與 S5 Enterprise）：</value>
+  </data>
+  <data name="For On-Premise Plans (e.g., Aiursoft Substratum Startup &amp; Enterprise):" xml:space="preserve">
+    <value>針對本機部署方案（例如：Aiursoft Substratum Startup &amp; Enterprise）：</value>
   </data>
   <data name="For provisioning the underlying high-performance cloud infrastructure that powers our official websites and Cloud-Hosted (S1 Core) client instances." xml:space="preserve">
     <value>用於建置支援我們官方網站與 Cloud-Hosted (S1 Core) 客戶執行個體的底層高效能雲端基礎架構。</value>
