@@ -16,7 +16,7 @@
                         <div class="row">
                             <div class="col-md-6 mb-3">
                                 <a href="https://www.anduinos.com" class="dropdown-item mega-item rounded p-3 d-flex align-items-start hover-bg-glass">
-                                    <div class="me-3 flex-shrink-0"><img src="https://www.anduinos.com/favicon.svg" alt="AnduinOS" style="width:32px;height:32px;" /></div>
+                                    <div class="me-3 flex-shrink-0"><img src="~/images/app_icons/anduinos.svg" alt="AnduinOS" style="width:32px;height:32px;" /></div>
                                     <div>
                                         <h6 class="mb-1 fw-bold text-white">@Localizer["AnduinOS"]</h6>
                                         <small class="text-gray-400 text-wrap">@Localizer["AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux."]</small>
@@ -25,7 +25,7 @@
                             </div>
                             <div class="col-md-6 mb-3">
                                 <a href="https://template.aiursoft.com" class="dropdown-item mega-item rounded p-3 d-flex align-items-start hover-bg-glass">
-                                    <div class="me-3 flex-shrink-0"><img src="https://template.aiursoft.com/favicon.svg" alt="Aiursoft Template" style="width:32px;height:32px;" /></div>
+                                    <div class="me-3 flex-shrink-0"><img src="~/images/app_icons/template.svg" alt="Aiursoft Template" style="width:32px;height:32px;" /></div>
                                     <div>
                                         <h6 class="mb-1 fw-bold text-white">Aiursoft Template</h6>
                                         <small class="text-gray-400 text-wrap">@Localizer["Enterprise business framework for the Open-source & AI era."]</small>
@@ -33,8 +33,8 @@
                                 </a>
                             </div>
                             <div class="col-md-6 mb-3">
-                                <a href="https://ollamagateway.aiursoft.com" class="dropdown-item mega-item rounded p-3 d-flex align-items-start hover-bg-glass">
-                                    <div class="me-3 flex-shrink-0"><img src="https://ollama.aiursoft.com/favicon.svg" alt="OllamaGateway" style="width:32px;height:32px;" /></div>
+                                <a href="https://ollama.aiursoft.com" class="dropdown-item mega-item rounded p-3 d-flex align-items-start hover-bg-glass">
+                                    <div class="me-3 flex-shrink-0"><img src="~/images/app_icons/ollamagateway.svg" alt="OllamaGateway" style="width:32px;height:32px;" /></div>
                                     <div>
                                         <h6 class="mb-1 fw-bold text-white">@Localizer["Ollama Gateway"]</h6>
                                         <small class="text-gray-400 text-wrap">@Localizer["Supercharge your native Ollama with enterprise-grade API authentication, request auditing, and virtual model management—your secure, private AI gateway."]</small>
@@ -42,8 +42,17 @@
                                 </a>
                             </div>
                             <div class="col-md-6 mb-3">
+                                <a href="https://kanban.aiursoft.com" class="dropdown-item mega-item rounded p-3 d-flex align-items-start hover-bg-glass">
+                                    <div class="me-3 flex-shrink-0"><img src="~/images/app_icons/kanban.svg" alt="Kanban" style="width:32px;height:32px;" /></div>
+                                    <div>
+                                        <h6 class="mb-1 fw-bold text-white">@Localizer["Kanban"]</h6>
+                                        <small class="text-gray-400 text-wrap">@Localizer["A lightweight, self-hosted Kanban workspace for planning boards, tracking cards, assigning work, and sharing progress across your team."]</small>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-md-6 mb-3">
                                 <a href="https://stathub.aiursoft.com" class="dropdown-item mega-item rounded p-3 d-flex align-items-start hover-bg-glass">
-                                    <div class="me-3 flex-shrink-0"><img src="https://stathub.aiursoft.com/favicon.svg" alt="StatHub" style="width:32px;height:32px;" /></div>
+                                    <div class="me-3 flex-shrink-0"><img src="~/images/app_icons/stathub.svg" alt="StatHub" style="width:32px;height:32px;" /></div>
                                     <div>
                                         <h6 class="mb-1 fw-bold text-white">@Localizer["StatHub"]</h6>
                                         <small class="text-gray-400 text-wrap">@Localizer["A simple, real-time server monitoring system designed for local deployment. Keep an eye on your infrastructure with intuitive dashboards and detailed metrics."]</small>
@@ -52,7 +61,7 @@
                             </div>
                             <div class="col-md-6 mb-3">
                                 <a href="https://employee.aiursoft.com" class="dropdown-item mega-item rounded p-3 d-flex align-items-start hover-bg-glass">
-                                    <div class="me-3 flex-shrink-0"><img src="https://employee.aiursoft.com/favicon.svg" alt="Aiursoft Employee Center" style="width:32px;height:32px;" /></div>
+                                    <div class="me-3 flex-shrink-0"><img src="~/images/app_icons/employee.svg" alt="Aiursoft Employee Center" style="width:32px;height:32px;" /></div>
                                     <div>
                                         <h6 class="mb-1 fw-bold text-white">Aiursoft Employee Center</h6>
                                         <small class="text-gray-400 text-wrap">@Localizer["A fast, free, open-source and offline-deployable enterprise office hub enhanced with agentic RAG — streamline HR, finance, and operations for your SMB."]</small>
@@ -70,12 +79,21 @@
                 <div class="dropdown-menu dropdown-menu-dark dropdown-menu-end mega-menu-pane border-0 shadow-lg" aria-labelledby="navbarDropdownSolutions">
                     <div class="container-fluid py-3 px-4">
                         <div class="row">
-                            <div class="col-md-12">
+                            <div class="col-md-6 mb-3">
                                 <a asp-controller="Home" asp-action="Substratum" class="dropdown-item mega-item rounded p-3 d-flex align-items-start hover-bg-glass">
                                     <div class="me-3 flex-shrink-0"><img src="/favicon.svg" alt="Substratum" style="width:32px;height:32px;" /></div>
                                     <div>
                                         <h6 class="mb-1 fw-bold text-white">@Localizer["Substratum"]</h6>
                                         <small class="text-gray-400 text-wrap">@Localizer["Unified endpoint management (UEM), identity management (IAM), and collaboration tools (OA) in one package. All on your local servers!"]</small>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-md-6 mb-3">
+                                <a href="https://www.anduinos.com" target="_blank" class="dropdown-item mega-item rounded p-3 d-flex align-items-start hover-bg-glass">
+                                    <div class="me-3 flex-shrink-0"><img src="~/images/app_icons/anduinos.svg" alt="AnduinOS" style="width:32px;height:32px;" /></div>
+                                    <div>
+                                        <h6 class="mb-1 fw-bold text-white">@Localizer["AnduinOS Enterprise"]</h6>
+                                        <small class="text-gray-400 text-wrap">@Localizer["A custom Ubuntu-based Linux distribution with enterprise-grade endpoint management, zero-trust security, and seamless open-source integration."]</small>
                                     </div>
                                 </a>
                             </div>

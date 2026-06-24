@@ -10,6 +10,12 @@ public class SettingsMap
     public const string ProjectLogo = "ProjectLogo";
     public const string AllowUserAdjustNickname = "Allow_User_Adjust_Nickname";
     public const string Icp = "Icp";
+    public const string ShowVoxihostPartnership = "ShowVoxihostPartnership";
+    public const string ShowPartnerMoog = "ShowPartnerMoog";
+    public const string ShowPartnerSenparc = "ShowPartnerSenparc";
+    public const string ShowPartnerVoxihost = "ShowPartnerVoxihost";
+    public const string ShowPartnerChopinsight = "ShowPartnerChopinsight";
+    public const string ShowPartnerEgret = "ShowPartnerEgret";
 
     public class FakeLocalizer
     {
@@ -70,6 +76,54 @@ public class SettingsMap
             Description = Localizer["The ICP license number for China mainland users. Leave empty to hide."],
             Type = SettingType.Text,
             DefaultValue = ""
+        },
+        new GlobalSettingDefinition
+        {
+            Key = ShowVoxihostPartnership,
+            Name = Localizer["Show Voxihost Partnership"],
+            Description = Localizer["Show the Voxihost partnership section on the home page."],
+            Type = SettingType.Bool,
+            DefaultValue = "False"
+        },
+        new GlobalSettingDefinition
+        {
+            Key = ShowPartnerMoog,
+            Name = Localizer["Show Partner: Moog"],
+            Description = Localizer["Show Moog in the trusted partners section."],
+            Type = SettingType.Bool,
+            DefaultValue = "False"
+        },
+        new GlobalSettingDefinition
+        {
+            Key = ShowPartnerSenparc,
+            Name = Localizer["Show Partner: Senparc"],
+            Description = Localizer["Show Senparc in the trusted partners section."],
+            Type = SettingType.Bool,
+            DefaultValue = "False"
+        },
+        new GlobalSettingDefinition
+        {
+            Key = ShowPartnerVoxihost,
+            Name = Localizer["Show Partner: Voxihost"],
+            Description = Localizer["Show Voxihost in the trusted partners section."],
+            Type = SettingType.Bool,
+            DefaultValue = "False"
+        },
+        new GlobalSettingDefinition
+        {
+            Key = ShowPartnerChopinsight,
+            Name = Localizer["Show Partner: Chopinsight"],
+            Description = Localizer["Show Chopinsight in the trusted partners section."],
+            Type = SettingType.Bool,
+            DefaultValue = "False"
+        },
+        new GlobalSettingDefinition
+        {
+            Key = ShowPartnerEgret,
+            Name = Localizer["Show Partner: Egret"],
+            Description = Localizer["Show Egret in the trusted partners section."],
+            Type = SettingType.Bool,
+            DefaultValue = "False"
         }
     };
 }

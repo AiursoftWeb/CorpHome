@@ -1,0 +1,63 @@
+@model Aiursoft.CorpHome.Views.Shared.Components.TrustedPartners.TrustedPartnersViewModel
+
+@* ═══════════════════════════════════════════════════════════════════════════════
+   SECTION 8: Trusted Partners
+   ═══════════════════════════════════════════════════════════════════════════════ *@
+<section class="py-6 bg-white">
+    <div class="container">
+        <div class="row justify-content-center mb-5 text-center">
+            <div class="col-lg-8 col-md-10">
+                <span class="text-uppercase text-primary text-sm fw-medium mb-1 d-block">@Localizer["Our Partners"]</span>
+                <h2 class="display-6 fw-bold mb-3">@Localizer["Trusted by Industry Leaders"]</h2>
+                <p class="lead text-muted">@Localizer["Collaborating with innovative companies to deliver the best enterprise solutions."]</p>
+            </div>
+        </div>
+        <div class="row text-center align-items-center">
+            @if (Model.ShowMoog)
+            {
+                <div class="col-6 col-md-3 mb-4">
+                    <a href="https://www.moog.com.cn/" target="_blank" class="d-inline-block p-3">
+                        <img src="~/images/partners/moog.png" alt="Moog" class="img-fluid partner-logo" style="max-height: 64px;" />
+                        <h5 class="mt-3 fw-bold">Moog</h5>
+                    </a>
+                </div>
+            }
+            @if (Model.ShowSenparc)
+            {
+                <div class="col-6 col-md-3 mb-4">
+                    <a href="https://www.senparc.com/" target="_blank" class="d-inline-block p-3">
+                        <img src="~/images/partners/senparc.png" alt="Senparc" class="img-fluid partner-logo" style="max-height: 64px;" />
+                        <h5 class="mt-3 fw-bold">Senparc</h5>
+                    </a>
+                </div>
+            }
+            @if (Model.ShowVoxihost)
+            {
+                <div class="col-6 col-md-3 mb-4">
+                    <a href="https://voxihost.pl/" target="_blank" class="d-inline-block p-3">
+                        <img src="~/images/partners/voxihost.png" alt="Voxihost" class="img-fluid partner-logo" style="max-height: 64px;" />
+                        <h5 class="mt-3 fw-bold">Voxihost</h5>
+                    </a>
+                </div>
+            }
+            @if (Model.ShowChopinsight)
+            {
+                <div class="col-6 col-md-3 mb-4">
+                    <a href="https://www.chopinsight.cn/" target="_blank" class="d-inline-block p-3">
+                        <img src="~/images/partners/chopinsight.svg" alt="Chopinsight" class="img-fluid partner-logo" style="max-height: 64px;" />
+                        <h5 class="mt-3 fw-bold">Chopinsight</h5>
+                    </a>
+                </div>
+            }
+            @if (Model.ShowEgret)
+            {
+                <div class="col-6 col-md-3 mb-4">
+                    <a href="https://hlwuxi.com/" target="_blank" class="d-inline-block p-3">
+                        <img src="~/images/partners/egret.png" alt="Egret" class="img-fluid partner-logo" style="max-height: 64px;" />
+                        <h5 class="mt-3 fw-bold">Egret</h5>
+                    </a>
+                </div>
+            }
+        </div>
+    </div>
+</section>

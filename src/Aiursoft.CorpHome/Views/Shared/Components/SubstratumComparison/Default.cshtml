@@ -19,6 +19,7 @@
             <table class="table table-hover table-bordered bg-white mb-0 text-center align-middle">
                 <thead class="table-dark">
                     <tr>
+                        <th>@Localizer["Hacker"]</th>
                         <th class="text-start" style="min-width: 220px;">@Localizer["Service / Feature"]</th>
                         <th>
                             <div class="fw-bold">@Localizer["Core"]</div>
@@ -38,33 +39,38 @@
 
                     @* ── Deployment & Hosting ── *@
                     <tr class="table-secondary">
-                        <td class="text-start fw-semibold fst-italic text-muted" colspan="4">@Localizer["Deployment & Hosting"]</td>
+                        <td class="text-start fw-semibold fst-italic text-muted" colspan="5">@Localizer["Deployment & Hosting"]</td>
                     </tr>
                     <tr>
+                        <td></td>
                         <td class="text-start fw-medium">@Localizer["Hosted by Aiursoft (SaaS)"]</td>
                         <td><i class="fas fa-check-circle text-success" data-bs-toggle="tooltip" title="@Localizer["Managed, zero-ops"]"></i></td>
                         <td><i class="fas fa-check-circle text-success" data-bs-toggle="tooltip" title="@Localizer["Managed, zero-ops"]"></i></td>
                         <td><i class="fas fa-check-circle text-success" data-bs-toggle="tooltip" title="@Localizer["Managed, zero-ops"]"></i></td>
                     </tr>
                     <tr>
+                        <td></td>
                         <td class="text-start fw-medium">@Localizer["On-premise / Air-gapped Deployment"]</td>
                         <td><i class="fas fa-times-circle text-danger" data-bs-toggle="tooltip" title="@Localizer["SaaS only"]"></i></td>
                         <td><i class="fas fa-check-circle text-success" data-bs-toggle="tooltip" title="@Localizer["Self-hosted on your own servers"]"></i></td>
                         <td><i class="fas fa-check-circle text-success" data-bs-toggle="tooltip" title="@Localizer["Self-hosted on your own servers"]"></i></td>
                     </tr>
                     <tr>
+                        <td></td>
                         <td class="text-start fw-medium">@Localizer["AnduinOS Enterprise (Desktop OS)"]</td>
                         <td><i class="fas fa-times-circle text-danger" data-bs-toggle="tooltip" title="@Localizer["Not included"]"></i></td>
                         <td><i class="fas fa-check-circle text-success" data-bs-toggle="tooltip" title="@Localizer["Managed endpoint OS"]"></i></td>
                         <td><i class="fas fa-check-circle text-success" data-bs-toggle="tooltip" title="@Localizer["Managed endpoint OS"]"></i></td>
                     </tr>
                     <tr>
+                        <td></td>
                         <td class="text-start fw-medium">@Localizer["Zero Trust Yubikey Auth"]</td>
                         <td><i class="fas fa-times-circle text-danger" data-bs-toggle="tooltip" title="@Localizer["Not included"]"></i></td>
                         <td><i class="fas fa-check-circle text-success" data-bs-toggle="tooltip" title="@Localizer["Hardware key enforcement"]"></i></td>
                         <td><i class="fas fa-check-circle text-success" data-bs-toggle="tooltip" title="@Localizer["Hardware key enforcement"]"></i></td>
                     </tr>
                     <tr>
+                        <td></td>
                         <td class="text-start fw-medium">@Localizer["MDM Device Compliance"]</td>
                         <td><i class="fas fa-times-circle text-danger" data-bs-toggle="tooltip" title="@Localizer["Not included"]"></i></td>
                         <td><i class="fas fa-times-circle text-danger" data-bs-toggle="tooltip" title="@Localizer["Not included"]"></i></td>
@@ -73,10 +79,11 @@
 
                     @* ── Identity & Security ── *@
                     <tr class="table-secondary">
-                        <td class="text-start fw-semibold fst-italic text-muted" colspan="4">@Localizer["Identity & Security"]</td>
+                        <td class="text-start fw-semibold fst-italic text-muted" colspan="5">@Localizer["Identity & Security"]</td>
                     </tr>
                     <tr>
-                        <td class="text-start fw-medium">Authentik <span class="text-muted small">(@Localizer["SSO / Identity Gateway"])</span></td>
+                        <td class="text-center"><a href="https://github.com/goauthentik/authentik" target="_blank" rel="noopener noreferrer"><i class="fab fa-github fa-lg text-dark"></i></a></td>
+                        <td class="text-start fw-medium">Authentik <span class="text-muted small">(@Localizer["SSO / Identity Gateway"])</span><sup class="text-muted fw-normal fs-sm">4</sup></td>
                         <td><i class="fas fa-exclamation-circle text-warning" data-bs-toggle="tooltip" title="@Localizer["Hosted by Aiursoft, not on-premise"]"></i></td>
                         <td><i class="fas fa-check-circle text-success" data-bs-toggle="tooltip" title="@Localizer["Included"]"></i></td>
                         <td><i class="fas fa-check-circle text-success" data-bs-toggle="tooltip" title="@Localizer["Included"]"></i></td>
@@ -84,10 +91,11 @@
 
                     @* ── Communication & Email ── *@
                     <tr class="table-secondary">
-                        <td class="text-start fw-semibold fst-italic text-muted" colspan="4">@Localizer["Communication & Email"]</td>
+                        <td class="text-start fw-semibold fst-italic text-muted" colspan="5">@Localizer["Communication & Email"]</td>
                     </tr>
                     <tr>
-                        <td class="text-start fw-medium">Mailcow <span class="text-muted small">(@Localizer["Aiursoft-hosted Email Service"])</span></td>
+                        <td class="text-center"><a href="https://github.com/mailcow/mailcow-dockerized" target="_blank" rel="noopener noreferrer"><i class="fab fa-github fa-lg text-dark"></i></a></td>
+                        <td class="text-start fw-medium">Mailcow <span class="text-muted small">(@Localizer["Aiursoft-hosted Email Service"])</span><sup class="text-muted fw-normal fs-sm">2</sup></td>
                         <td><i class="fas fa-exclamation-circle text-warning" data-bs-toggle="tooltip" title="@Localizer["Hosted by Aiursoft, not on-premise"]"></i></td>
                         <td><i class="fas fa-exclamation-circle text-warning" data-bs-toggle="tooltip" title="@Localizer["Hosted by Aiursoft, not on-premise"]"></i></td>
                         <td><i class="fas fa-exclamation-circle text-warning" data-bs-toggle="tooltip" title="@Localizer["Hosted by Aiursoft, not on-premise"]"></i></td>
@@ -95,34 +103,53 @@
 
                     @* ── Productivity & Collaboration ── *@
                     <tr class="table-secondary">
-                        <td class="text-start fw-semibold fst-italic text-muted" colspan="4">@Localizer["Productivity & Collaboration"]</td>
+                        <td class="text-start fw-semibold fst-italic text-muted" colspan="5">@Localizer["Productivity & Collaboration"]</td>
                     </tr>
                     <tr>
+                        <td class="text-center"><a href="https://github.com/aiursoftweb/EmployeeCenter" target="_blank" rel="noopener noreferrer"><i class="fab fa-github fa-lg text-dark"></i></a></td>
                         <td class="text-start fw-medium">Employee Center <span class="text-muted small">(@Localizer["HR & Org Portal"])</span></td>
                         <td><i class="fas fa-check-circle text-success" data-bs-toggle="tooltip" title="@Localizer["Included"]"></i></td>
                         <td><i class="fas fa-check-circle text-success" data-bs-toggle="tooltip" title="@Localizer["Included"]"></i></td>
                         <td><i class="fas fa-check-circle text-success" data-bs-toggle="tooltip" title="@Localizer["Included"]"></i></td>
                     </tr>
                     <tr>
+                        <td class="text-center"><a href="https://github.com/aiursoftweb/MarkToHtml" target="_blank" rel="noopener noreferrer"><i class="fab fa-github fa-lg text-dark"></i></a></td>
                         <td class="text-start fw-medium">Mark To HTML <span class="text-muted small">(@Localizer["Document Conversion"])</span></td>
                         <td><i class="fas fa-check-circle text-success" data-bs-toggle="tooltip" title="@Localizer["Included"]"></i></td>
                         <td><i class="fas fa-check-circle text-success" data-bs-toggle="tooltip" title="@Localizer["Included"]"></i></td>
                         <td><i class="fas fa-check-circle text-success" data-bs-toggle="tooltip" title="@Localizer["Included"]"></i></td>
                     </tr>
                     <tr>
+                        <td class="text-center"><a href="https://github.com/aiursoftweb/Polls" target="_blank" rel="noopener noreferrer"><i class="fab fa-github fa-lg text-dark"></i></a></td>
                         <td class="text-start fw-medium">Polls <span class="text-muted small">(@Localizer["Team Voting"])</span></td>
                         <td><i class="fas fa-check-circle text-success" data-bs-toggle="tooltip" title="@Localizer["Included"]"></i></td>
                         <td><i class="fas fa-check-circle text-success" data-bs-toggle="tooltip" title="@Localizer["Included"]"></i></td>
                         <td><i class="fas fa-check-circle text-success" data-bs-toggle="tooltip" title="@Localizer["Included"]"></i></td>
                     </tr>
                     <tr>
+                        <td class="text-center"><a href="https://github.com/aiursoftweb/moongladev2" target="_blank" rel="noopener noreferrer"><i class="fab fa-github fa-lg text-dark"></i></a></td>
+                        <td class="text-start fw-medium">Blog <span class="text-muted small">(@Localizer["Team Blog"])</span></td>
+                        <td><i class="fas fa-times-circle text-danger" data-bs-toggle="tooltip" title="@Localizer["Not included in Core"]"></i></td>
+                        <td><i class="fas fa-check-circle text-success" data-bs-toggle="tooltip" title="@Localizer["Included"]"></i></td>
+                        <td><i class="fas fa-check-circle text-success" data-bs-toggle="tooltip" title="@Localizer["Included"]"></i></td>
+                    </tr>
+                    <tr>
+                        <td class="text-center"><a href="https://github.com/aiursoftweb/Kanban" target="_blank" rel="noopener noreferrer"><i class="fab fa-github fa-lg text-dark"></i></a></td>
+                        <td class="text-start fw-medium">Kanban <span class="text-muted small">(@Localizer["Workspace Boards"])</span></td>
+                        <td><i class="fas fa-times-circle text-danger" data-bs-toggle="tooltip" title="@Localizer["Not included in Core"]"></i></td>
+                        <td><i class="fas fa-check-circle text-success" data-bs-toggle="tooltip" title="@Localizer["Included"]"></i></td>
+                        <td><i class="fas fa-check-circle text-success" data-bs-toggle="tooltip" title="@Localizer["Included"]"></i></td>
+                    </tr>
+                    <tr>
+                        <td class="text-center"><a href="https://github.com/aiursoftweb/AiurDrive" target="_blank" rel="noopener noreferrer"><i class="fab fa-github fa-lg text-dark"></i></a></td>
                         <td class="text-start fw-medium">AiurDrive <span class="text-muted small">(@Localizer["File Storage"])</span></td>
                         <td><i class="fas fa-times-circle text-danger" data-bs-toggle="tooltip" title="@Localizer["Not included in Core"]"></i></td>
                         <td><i class="fas fa-check-circle text-success" data-bs-toggle="tooltip" title="@Localizer["Included"]"></i></td>
                         <td><i class="fas fa-check-circle text-success" data-bs-toggle="tooltip" title="@Localizer["Included"]"></i></td>
                     </tr>
                     <tr>
-                        <td class="text-start fw-medium">Nextcloud <span class="text-muted small">(@Localizer["Cloud Office Suite"])</span></td>
+                        <td class="text-center"><a href="https://github.com/nextcloud/server" target="_blank" rel="noopener noreferrer"><i class="fab fa-github fa-lg text-dark"></i></a></td>
+                        <td class="text-start fw-medium">Nextcloud Deployment <span class="text-muted small">(@Localizer["Cloud Office Suite"])</span><sup class="text-muted fw-normal fs-sm">3</sup></td>
                         <td><i class="fas fa-times-circle text-danger" data-bs-toggle="tooltip" title="@Localizer["Not included in Core"]"></i></td>
                         <td><i class="fas fa-check-circle text-success" data-bs-toggle="tooltip" title="@Localizer["Included"]"></i></td>
                         <td><i class="fas fa-check-circle text-success" data-bs-toggle="tooltip" title="@Localizer["Included"]"></i></td>
@@ -130,73 +157,71 @@
 
                     @* ── DevOps & Engineering ── *@
                     <tr class="table-secondary">
-                        <td class="text-start fw-semibold fst-italic text-muted" colspan="4">@Localizer["DevOps & Engineering"]</td>
+                        <td class="text-start fw-semibold fst-italic text-muted" colspan="5">@Localizer["DevOps & Engineering"]</td>
                     </tr>
                     <tr>
+                        <td class="text-center"><a href="https://github.com/aiursoftweb/StatHub" target="_blank" rel="noopener noreferrer"><i class="fab fa-github fa-lg text-dark"></i></a></td>
                         <td class="text-start fw-medium">StatHub <span class="text-muted small">(@Localizer["Server Monitoring"])</span></td>
                         <td><i class="fas fa-times-circle text-danger" data-bs-toggle="tooltip" title="@Localizer["Not included in Core"]"></i></td>
                         <td><i class="fas fa-check-circle text-success" data-bs-toggle="tooltip" title="@Localizer["Included"]"></i></td>
                         <td><i class="fas fa-check-circle text-success" data-bs-toggle="tooltip" title="@Localizer["Included"]"></i></td>
                     </tr>
                     <tr>
+                        <td class="text-center"><a href="https://github.com/aiursoftweb/Warp" target="_blank" rel="noopener noreferrer"><i class="fab fa-github fa-lg text-dark"></i></a></td>
                         <td class="text-start fw-medium">Warp <span class="text-muted small">(@Localizer["URL Shortener"])</span></td>
                         <td><i class="fas fa-times-circle text-danger" data-bs-toggle="tooltip" title="@Localizer["Not included in Core"]"></i></td>
                         <td><i class="fas fa-check-circle text-success" data-bs-toggle="tooltip" title="@Localizer["Included"]"></i></td>
                         <td><i class="fas fa-check-circle text-success" data-bs-toggle="tooltip" title="@Localizer["Included"]"></i></td>
                     </tr>
                     <tr>
+                        <td class="text-center"><a href="https://github.com/aiursoftweb/GitMirrorServer" target="_blank" rel="noopener noreferrer"><i class="fab fa-github fa-lg text-dark"></i></a></td>
                         <td class="text-start fw-medium">Git Mirror Server <span class="text-muted small">(@Localizer["Repository Sync"])</span></td>
                         <td><i class="fas fa-times-circle text-danger" data-bs-toggle="tooltip" title="@Localizer["Not included in Core"]"></i></td>
                         <td><i class="fas fa-check-circle text-success" data-bs-toggle="tooltip" title="@Localizer["Included"]"></i></td>
                         <td><i class="fas fa-check-circle text-success" data-bs-toggle="tooltip" title="@Localizer["Included"]"></i></td>
                     </tr>
                     <tr>
+                        <td class="text-center"><a href="https://github.com/aiursoftweb/CppRunner" target="_blank" rel="noopener noreferrer"><i class="fab fa-github fa-lg text-dark"></i></a></td>
                         <td class="text-start fw-medium">C++ Runner <span class="text-muted small">(@Localizer["Online Code Execution"])</span></td>
                         <td><i class="fas fa-times-circle text-danger" data-bs-toggle="tooltip" title="@Localizer["Not included in Core"]"></i></td>
                         <td><i class="fas fa-check-circle text-success" data-bs-toggle="tooltip" title="@Localizer["Included"]"></i></td>
                         <td><i class="fas fa-check-circle text-success" data-bs-toggle="tooltip" title="@Localizer["Included"]"></i></td>
                     </tr>
                     <tr>
-                        <td class="text-start fw-medium">GitLab <span class="text-muted small">(@Localizer["Source Control & CI/CD"])</span></td>
+                        <td></td>
+                        <td class="text-start fw-medium">GitLab Deployment <span class="text-muted small">(@Localizer["Source Control & CI/CD"])</span><sup class="text-muted fw-normal fs-sm">1</sup></td>
                         <td><i class="fas fa-times-circle text-danger" data-bs-toggle="tooltip" title="@Localizer["Not included in Core"]"></i></td>
                         <td><i class="fas fa-times-circle text-danger" data-bs-toggle="tooltip" title="@Localizer["Not included in Startup"]"></i></td>
                         <td><i class="fas fa-check-circle text-success" data-bs-toggle="tooltip" title="@Localizer["Included"]"></i></td>
                     </tr>
 
-                    @* ── Media & Personal ── *@
-                    <tr class="table-secondary">
-                        <td class="text-start fw-semibold fst-italic text-muted" colspan="4">@Localizer["Media & Personal"]</td>
-                    </tr>
-                    <tr>
-                        <td class="text-start fw-medium">Immich <span class="text-muted small">(@Localizer["Photo & Video Management"])</span></td>
-                        <td><i class="fas fa-times-circle text-danger" data-bs-toggle="tooltip" title="@Localizer["Not included in Core"]"></i></td>
-                        <td><i class="fas fa-check-circle text-success" data-bs-toggle="tooltip" title="@Localizer["Included"]"></i></td>
-                        <td><i class="fas fa-check-circle text-success" data-bs-toggle="tooltip" title="@Localizer["Included"]"></i></td>
-                    </tr>
-
                     @* ── AI & Intelligence ── *@
                     <tr class="table-secondary">
-                        <td class="text-start fw-semibold fst-italic text-muted" colspan="4">@Localizer["AI & Intelligence"]</td>
+                        <td class="text-start fw-semibold fst-italic text-muted" colspan="5">@Localizer["AI & Intelligence"]</td>
                     </tr>
                     <tr>
+                        <td class="text-center"><a href="https://github.com/aiursoftweb/OllamaGateway" target="_blank" rel="noopener noreferrer"><i class="fab fa-github fa-lg text-dark"></i></a></td>
                         <td class="text-start fw-medium">Ollama Gateway <span class="text-muted small">(@Localizer["Local LLM API Gateway"])</span></td>
                         <td><i class="fas fa-times-circle text-danger" data-bs-toggle="tooltip" title="@Localizer["Not included"]"></i></td>
                         <td><i class="fas fa-times-circle text-danger" data-bs-toggle="tooltip" title="@Localizer["Not included"]"></i></td>
                         <td><i class="fas fa-check-circle text-success" data-bs-toggle="tooltip" title="@Localizer["Self-hosted LLM inference gateway"]"></i></td>
                     </tr>
                     <tr>
+                        <td></td>
                         <td class="text-start fw-medium">@Localizer["PDF Processing & Vector Database"] <span class="text-muted small">(@Localizer["PaddleOCR-based"])</span></td>
                         <td><i class="fas fa-times-circle text-danger" data-bs-toggle="tooltip" title="@Localizer["Not included"]"></i></td>
                         <td><i class="fas fa-times-circle text-danger" data-bs-toggle="tooltip" title="@Localizer["Not included"]"></i></td>
                         <td><i class="fas fa-check-circle text-success" data-bs-toggle="tooltip" title="@Localizer["PDF ingestion & vector store construction via PaddleOCR"]"></i></td>
                     </tr>
                     <tr>
+                        <td></td>
                         <td class="text-start fw-medium">@Localizer["Custom TTS / STT, Search Engine & Deep Research"]</td>
                         <td><i class="fas fa-times-circle text-danger" data-bs-toggle="tooltip" title="@Localizer["Not included"]"></i></td>
                         <td><i class="fas fa-times-circle text-danger" data-bs-toggle="tooltip" title="@Localizer["Not included"]"></i></td>
                         <td><i class="fas fa-check-circle text-success" data-bs-toggle="tooltip" title="@Localizer["Custom speech synthesis/recognition, search integration & deep investigation pipelines"]"></i></td>
                     </tr>
                     <tr>
+                        <td></td>
                         <td class="text-start fw-medium">@Localizer["AI Knowledge Base Construction"]</td>
                         <td><i class="fas fa-times-circle text-danger" data-bs-toggle="tooltip" title="@Localizer["Not included"]"></i></td>
                         <td><i class="fas fa-times-circle text-danger" data-bs-toggle="tooltip" title="@Localizer["Not included"]"></i></td>
@@ -205,15 +230,17 @@
 
                     @* ── Enterprise Customization ── *@
                     <tr class="table-secondary">
-                        <td class="text-start fw-semibold fst-italic text-muted" colspan="4">@Localizer["Enterprise Customization"]</td>
+                        <td class="text-start fw-semibold fst-italic text-muted" colspan="5">@Localizer["Enterprise Customization"]</td>
                     </tr>
                     <tr>
+                        <td></td>
                         <td class="text-start fw-medium">@Localizer["Enterprise Scale Deployment"]</td>
                         <td><i class="fas fa-times-circle text-danger" data-bs-toggle="tooltip" title="@Localizer["Not included"]"></i></td>
                         <td><i class="fas fa-exclamation-circle text-warning" data-bs-toggle="tooltip" title="@Localizer["Single-site on-premise"]"></i></td>
                         <td><i class="fas fa-check-circle text-success" data-bs-toggle="tooltip" title="@Localizer["Multi-site & HA capable"]"></i></td>
                     </tr>
                     <tr>
+                        <td></td>
                         <td class="text-start fw-medium">@Localizer["Custom Container Development"]</td>
                         <td><i class="fas fa-times-circle text-danger" data-bs-toggle="tooltip" title="@Localizer["Not included"]"></i></td>
                         <td><i class="fas fa-times-circle text-danger" data-bs-toggle="tooltip" title="@Localizer["Not included"]"></i></td>
@@ -222,15 +249,17 @@
 
                     @* ── Scale & Support ── *@
                     <tr class="table-secondary">
-                        <td class="text-start fw-semibold fst-italic text-muted" colspan="4">@Localizer["Scale & Support"]</td>
+                        <td class="text-start fw-semibold fst-italic text-muted" colspan="5">@Localizer["Scale & Support"]</td>
                     </tr>
                     <tr>
+                        <td></td>
                         <td class="text-start fw-medium">@Localizer["Max User Accounts"]</td>
                         <td class="fw-semibold text-muted">1</td>
                         <td class="fw-semibold text-muted">1,000</td>
                         <td class="fw-semibold text-primary">@Localizer["Unlimited"]</td>
                     </tr>
                     <tr>
+                        <td></td>
                         <td class="text-start fw-medium">@Localizer["7×24 On-call Support"]</td>
                         <td><i class="fas fa-times-circle text-danger" data-bs-toggle="tooltip" title="@Localizer["Business hours email support"]"></i></td>
                         <td><i class="fas fa-exclamation-circle text-warning" data-bs-toggle="tooltip" title="@Localizer["Business hours phone support"]"></i></td>
@@ -239,6 +268,13 @@
 
                 </tbody>
             </table>
+        </div>
+
+        <div class="mt-4 text-muted small">
+            <p class="mb-1"><sup>1</sup> @Localizer["GitLab is a trademark of GitLab Inc. Aiursoft provides deployment, hosting, and integration services for GitLab — we are not affiliated with or endorsed by GitLab Inc. The GitLab Community Edition (CE) is MIT-licensed and can be deployed freely. The GitLab Enterprise Edition (EE) requires a separate license purchased from GitLab Inc. We can assist you with procuring the appropriate GitLab EE license, or you may choose to remove this item from your plan."]</p>
+            <p class="mb-1"><sup>2</sup> @Localizer["Mailcow is open-source software (GPL-3.0). Aiursoft provides managed hosting, deployment, and integration services. Any custom modifications provided during your on-premise deployment are fully compliant with and distributed under the GPL-3.0 license."]</p>
+            <p class="mb-1"><sup>3</sup> @Localizer["Nextcloud is a trademark of Nextcloud GmbH. Aiursoft is an independent integration provider. To ensure enterprise-grade stability and strict adherence to the AGPL-3.0 license, we deploy the official, unmodified Nextcloud releases and seamlessly connect your stack via standard APIs, OIDC/SAML, and official plugins."]</p>
+            <p class="mb-1"><sup>4</sup> @Localizer["Authentik uses an Open Core model. The Community Edition is licensed under the permissive MIT license, which allows commercial use, modification, and redistribution. We provide the Community Edition (MIT) as part of Substratum. The Enterprise Edition requires a separate commercial license from Authentik."]</p>
         </div>
 
         <div class="mt-4 d-flex justify-content-center flex-wrap gap-3 text-muted small">
