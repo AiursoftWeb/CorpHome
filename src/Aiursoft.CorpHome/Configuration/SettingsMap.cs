@@ -16,6 +16,7 @@ public class SettingsMap
     public const string ShowPartnerVoxihost = "ShowPartnerVoxihost";
     public const string ShowPartnerChopinsight = "ShowPartnerChopinsight";
     public const string ShowPartnerEgret = "ShowPartnerEgret";
+    public const string ShowPartnerAoji = "ShowPartnerAoji";
 
     public class FakeLocalizer
     {
@@ -122,6 +123,14 @@ public class SettingsMap
             Key = ShowPartnerEgret,
             Name = Localizer["Show Partner: Egret"],
             Description = Localizer["Show Egret in the trusted partners section."],
+            Type = SettingType.Bool,
+            DefaultValue = "False"
+        },
+        new GlobalSettingDefinition
+        {
+            Key = ShowPartnerAoji,
+            Name = Localizer["Show Partner: Aoji Airlines"],
+            Description = Localizer["Show Aoji Airlines in the trusted partners section."],
             Type = SettingType.Bool,
             DefaultValue = "False"
         }

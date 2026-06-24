@@ -15,11 +15,12 @@ public class TrustedPartners(
             ShowSenparc = await globalSettingsService.GetSettingValueAsync(SettingsMap.ShowPartnerSenparc) == "True",
             ShowVoxihost = await globalSettingsService.GetSettingValueAsync(SettingsMap.ShowPartnerVoxihost) == "True",
             ShowChopinsight = await globalSettingsService.GetSettingValueAsync(SettingsMap.ShowPartnerChopinsight) == "True",
-            ShowEgret = await globalSettingsService.GetSettingValueAsync(SettingsMap.ShowPartnerEgret) == "True"
+            ShowEgret = await globalSettingsService.GetSettingValueAsync(SettingsMap.ShowPartnerEgret) == "True",
+            ShowAoji = await globalSettingsService.GetSettingValueAsync(SettingsMap.ShowPartnerAoji) == "True"
         };
 
         // If no partner is enabled, return empty content
-        if (!model.ShowMoog && !model.ShowSenparc && !model.ShowVoxihost && !model.ShowChopinsight && !model.ShowEgret)
+        if (!model.ShowMoog && !model.ShowSenparc && !model.ShowVoxihost && !model.ShowChopinsight && !model.ShowEgret && !model.ShowAoji)
         {
             return Content(string.Empty);
         }

@@ -1,0 +1,87 @@
+@model Aiursoft.CorpHome.Models.HomeViewModels.KnowUsViewModel
+
+<vc:marketing-navbar></vc:marketing-navbar>
+
+<section class="landing-intro text-bg-dark pt-5 pt-lg-6 pb-5 pb-lg-7">
+    <div class="landing-intro-content container h-100">
+        <div class="row">
+            <div class="col-lg-8 mx-auto text-center">
+                <span class="badge badge-subtle-primary p-1">@Localizer["About Aiursoft"]</span>
+                <h1 class="my-4 text-white" style="font-size: 2.5rem;">
+                    @Localizer["Aiursoft is dedicated to bringing the spirit of open-source and free software to every enterprise and individual."]
+                </h1>
+            </div>
+        </div>
+    </div>
+</section>
+
+@* Chapter 1: Our Story *@
+<section class="py-6 bg-white">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                <span class="text-uppercase text-primary text-sm fw-medium mb-2 d-block">@Localizer["Chapter 1"]</span>
+                <p class="fs-5 text-muted">
+                    @Localizer["Aiursoft's story is closely linked to the communities that shape us, including the global community of open source contributors and enthusiasts who are part of our team. Since 2025, we have built an operating system called AnduinOS — designed to be clean, simple, and accessible to everyone."]
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+@* Where to find us *@
+<section class="py-6 bg-light">
+    <div class="container">
+        <div class="text-center mb-5">
+            <h2 class="h1">@Localizer["Where to find us"]</h2>
+        </div>
+        <div class="row g-4">
+            @* Hong Kong HQ *@
+            <div class="col-lg-6">
+                <div class="card border-0 shadow-sm h-100">
+                    <div class="card-header bg-white border-bottom-0 pt-4">
+                        <h4 class="mb-0">AIURSOFT LIMITED</h4>
+                        <small class="text-muted">@Localizer["Headquarters — Hong Kong"]</small>
+                    </div>
+                    <div class="card-body">
+                        <dl class="row mb-0 small">
+                            <dt class="col-sm-4 text-muted fw-normal">@Localizer["Entity Code"]</dt>
+                            <dd class="col-sm-8">79541265</dd>
+                            <dt class="col-sm-4 text-muted fw-normal">@Localizer["Director"]</dt>
+                            <dd class="col-sm-8">FENG XUE</dd>
+                            <dt class="col-sm-4 text-muted fw-normal">@Localizer["Registered Address"]</dt>
+                            <dd class="col-sm-8">UNIT 2A, 17/F GLENEALY TOWER NO.1 GLENEALY CENTRAL HONG KONG</dd>
+                            <dt class="col-sm-4 text-muted fw-normal">@Localizer["Contact"]</dt>
+                            <dd class="col-sm-8"><a href="mailto:leadership@aiursoft.com">leadership@aiursoft.com</a></dd>
+                        </dl>
+                    </div>
+                </div>
+            </div>
+            @* Suzhou Branch *@
+            <div class="col-lg-6">
+                <div class="card border-0 shadow-sm h-100">
+                    <div class="card-header bg-white border-bottom-0 pt-4">
+                        <h4 class="mb-0">苏州艾软科技有限公司</h4>
+                        <small class="text-muted">Suzhou Aiursoft Technology Co Ltd</small>
+                    </div>
+                    <div class="card-body">
+                        <dl class="row mb-0 small">
+                            <dt class="col-sm-4 text-muted fw-normal">@Localizer["Entity Code"]</dt>
+                            <dd class="col-sm-8">91320594MAEKJK0L03</dd>
+                            <dt class="col-sm-4 text-muted fw-normal">@Localizer["Director"]</dt>
+                            <dd class="col-sm-8">陈柏楠 / CHEN BAINAN</dd>
+                            <dt class="col-sm-4 text-muted fw-normal">@Localizer["Address"]</dt>
+                            <dd class="col-sm-8">中国（江苏）自由贸易试验区苏州片区苏州工业园区东长路88号D1栋3层C区C02</dd>
+                            <dt class="col-sm-4 text-muted fw-normal">@Localizer["Contact"]</dt>
+                            <dd class="col-sm-8"><a href="mailto:dvorak@aiursoft.com">dvorak@aiursoft.com</a></dd>
+                            <dt class="col-sm-4 text-muted fw-normal">@Localizer["Tel"]</dt>
+                            <dd class="col-sm-8">+86 18826467886</dd>
+                        </dl>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<vc:marketing-footer></vc:marketing-footer>

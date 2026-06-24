@@ -19,6 +19,20 @@ public class HomeController(TemplateDbContext dbContext) : Controller
         return this.SimpleView(new SubstratumViewModel());
     }
 
+    [Route("/know-us")]
+    [Route("/know-us.html")]
+    public IActionResult KnowUs()
+    {
+        return this.SimpleView(new KnowUsViewModel());
+    }
+
+    [Route("/anduinos")]
+    [Route("/anduinos.html")]
+    public IActionResult Anduinos()
+    {
+        return this.SimpleView(new AnduinosViewModel());
+    }
+
     [Route("/terms")]
     [Route("/terms.html")]
     public IActionResult Terms()

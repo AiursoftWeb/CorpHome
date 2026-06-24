@@ -136,6 +136,15 @@
     background: rgba(15, 23, 42, 0.4);
 }
 
+.transition-hover {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.transition-hover:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.12) !important;
+}
+
 .hover-lift {
     transition: transform 0.3s ease, background 0.3s ease;
 }
@@ -163,9 +172,41 @@
 .icon-box-sm {
     width: 42px;
     height: 42px;
+    min-width: 42px;
+    min-height: 42px;
+    max-width: 42px;
+    max-height: 42px;
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-shrink: 0;
+    align-self: center;
+}
+
+.icon-box-sm svg {
+    width: 20px;
+    height: 20px;
+    flex-shrink: 0;
+}
+
+.icon-box-lg {
+    width: 64px;
+    height: 64px;
+    min-width: 64px;
+    min-height: 64px;
+    max-width: 64px;
+    max-height: 64px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    align-self: center;
+}
+
+.icon-box-lg svg {
+    width: 28px;
+    height: 28px;
+    flex-shrink: 0;
 }
 
 .tracking-wider { letter-spacing: 0.05em; }
@@ -183,9 +224,11 @@
 .diagram-container {
     position: relative;
     width: 100%;
-    max-width: 1000px;
+    max-width: 1400px;
     aspect-ratio: 2 / 1;
     margin: 0 auto;
+    overflow: visible;
+    padding: 3% 5%;
 }
 
 .diagram-container .bg-lines {
@@ -239,14 +282,14 @@
 }
 
 .diagram-container .node-icon {
-    width: 52px; height: 52px;
+    width: 60px; height: 60px;
     background-color: #1a1a1a;
     border: 1px solid rgba(255, 255, 255, 0.2);
-    border-radius: 10px;
+    border-radius: 12px;
     transition: all 0.3s ease;
     cursor: pointer;
     overflow: hidden;
-    padding: 6px;
+    padding: 7px;
 }
 
 .diagram-container .node-icon img {
@@ -264,11 +307,12 @@
 .diagram-container .node-label {
     position: absolute;
     white-space: nowrap;
-    font-size: 0.7rem;
+    font-size: 0.8rem;
     font-weight: 600;
     color: #94a3b8;
     pointer-events: none;
     letter-spacing: 0.02em;
+    z-index: 20;
 }
 
 /* Responsive: hide SVG diagram on small screens, show icon grid instead */

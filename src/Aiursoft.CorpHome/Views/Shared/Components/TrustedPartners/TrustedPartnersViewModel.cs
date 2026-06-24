@@ -7,4 +7,5 @@ public class TrustedPartnersViewModel
     public bool ShowVoxihost { get; set; }
     public bool ShowChopinsight { get; set; }
     public bool ShowEgret { get; set; }
+    public bool ShowAoji { get; set; }
 }

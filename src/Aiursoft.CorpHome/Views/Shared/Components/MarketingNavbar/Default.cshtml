@@ -15,7 +15,7 @@
                     <div class="container-fluid py-3 px-4">
                         <div class="row">
                             <div class="col-md-6 mb-3">
-                                <a href="https://www.anduinos.com" class="dropdown-item mega-item rounded p-3 d-flex align-items-start hover-bg-glass">
+                                <a asp-controller="Home" asp-action="Anduinos" class="dropdown-item mega-item rounded p-3 d-flex align-items-start hover-bg-glass">
                                     <div class="me-3 flex-shrink-0"><img src="~/images/app_icons/anduinos.svg" alt="AnduinOS" style="width:32px;height:32px;" /></div>
                                     <div>
                                         <h6 class="mb-1 fw-bold text-white">@Localizer["AnduinOS"]</h6>
@@ -68,6 +68,15 @@
                                     </div>
                                 </a>
                             </div>
+                            <div class="col-md-6 mb-3">
+                                <a href="https://apkg.aiursoft.com" class="dropdown-item mega-item rounded p-3 d-flex align-items-start hover-bg-glass">
+                                    <div class="me-3 flex-shrink-0"><img src="~/images/app_icons/apkg.svg" alt="Apkg" style="width:32px;height:32px;" /></div>
+                                    <div>
+                                        <h6 class="mb-1 fw-bold text-white">@Localizer["Apkg"]</h6>
+                                        <small class="text-gray-400 text-wrap">@Localizer["Declarative APT repository platform. Ship Debian packages, mirror upstream archives, and publish .apkg bundles — fully on-premise."]</small>
+                                    </div>
+                                </a>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -89,7 +98,7 @@
                                 </a>
                             </div>
                             <div class="col-md-6 mb-3">
-                                <a href="https://www.anduinos.com" target="_blank" class="dropdown-item mega-item rounded p-3 d-flex align-items-start hover-bg-glass">
+                                <a asp-controller="Home" asp-action="Anduinos" class="dropdown-item mega-item rounded p-3 d-flex align-items-start hover-bg-glass">
                                     <div class="me-3 flex-shrink-0"><img src="~/images/app_icons/anduinos.svg" alt="AnduinOS" style="width:32px;height:32px;" /></div>
                                     <div>
                                         <h6 class="mb-1 fw-bold text-white">@Localizer["AnduinOS Enterprise"]</h6>
@@ -102,16 +111,29 @@
                 </div>
             </li>
             <li class="nav-item dropdown dropdown-mega">
-                <a class="nav-link dropdown-toggle active text-lg px-lg-3" href="#" id="navbarDropdownPartners" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                    @Localizer["Partners"]
+                <a class="nav-link dropdown-toggle active text-lg px-lg-3" href="#" id="navbarDropdownCompany" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    @Localizer["Company"]
                 </a>
-                <div class="dropdown-menu dropdown-menu-dark dropdown-menu-end mega-menu-pane border-0 shadow-lg" aria-labelledby="navbarDropdownPartners">
+                <div class="dropdown-menu dropdown-menu-dark dropdown-menu-end mega-menu-pane border-0 shadow-lg" aria-labelledby="navbarDropdownCompany">
                     <div class="container-fluid py-3 px-4">
                         <div class="row">
-                            <div class="col-12 text-center py-4">
-                                <p class="text-gray-400 mb-0">@Localizer["Join our partner ecosystem."]</p>
-                                <h5 class="text-white mt-2 mb-3">@Localizer["Discover the benefits of working with us."]</h5>
-                                <a href="#" class="btn btn-outline-light btn-sm px-4 rounded-pill">@Localizer["View Partners"]</a>
+                            <div class="col-md-6 mb-3">
+                                <a href="https://news.aiursoft.com" target="_blank" class="dropdown-item mega-item rounded p-3 d-flex align-items-start hover-bg-glass">
+                                    <div class="me-3 flex-shrink-0"><img src="~/images/app_icons/news.svg" alt="News" style="width:32px;height:32px;" /></div>
+                                    <div>
+                                        <h6 class="mb-1 fw-bold text-white">@Localizer["News"]</h6>
+                                        <small class="text-gray-400 text-wrap">@Localizer["Stay up to date with the latest announcements, product updates, and stories from the Aiursoft team."]</small>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-md-6 mb-3">
+                                <a asp-controller="Home" asp-action="KnowUs" class="dropdown-item mega-item rounded p-3 d-flex align-items-start hover-bg-glass">
+                                    <div class="me-3 flex-shrink-0"><img src="~/images/app_icons/know-us.svg" alt="Get to know us" style="width:32px;height:32px;" /></div>
+                                    <div>
+                                        <h6 class="mb-1 fw-bold text-white">@Localizer["Get to know us"]</h6>
+                                        <small class="text-gray-400 text-wrap">@Localizer["Learn about the team, mission, and values behind Aiursoft."]</small>
+                                    </div>
+                                </a>
                             </div>
                         </div>
                     </div>
