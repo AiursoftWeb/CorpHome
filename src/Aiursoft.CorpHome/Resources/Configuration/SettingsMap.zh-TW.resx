@@ -54,6 +54,48 @@
   <data name="Project Name" xml:space="preserve">
     <value>專案名稱</value>
   </data>
+  <data name="Show Aoji Airlines in the trusted partners section." xml:space="preserve">
+    <value>在受信任的合作夥伴部分顯示 Aoji Airlines。</value>
+  </data>
+  <data name="Show Chopinsight in the trusted partners section." xml:space="preserve">
+    <value>在受信任的合作伙伴部分顯示 Chopinsight。</value>
+  </data>
+  <data name="Show Egret in the trusted partners section." xml:space="preserve">
+    <value>在可信合作夥伴區塊中顯示 Egret。</value>
+  </data>
+  <data name="Show Moog in the trusted partners section." xml:space="preserve">
+    <value>在受信任的合作夥伴區塊中顯示 Moog。</value>
+  </data>
+  <data name="Show Partner: Aoji Airlines" xml:space="preserve">
+    <value>顯示合作夥伴：Aoji Airlines</value>
+  </data>
+  <data name="Show Partner: Chopinsight" xml:space="preserve">
+    <value>顯示合作夥伴：Chopinsight</value>
+  </data>
+  <data name="Show Partner: Egret" xml:space="preserve">
+    <value>顯示合作夥伴：Egret</value>
+  </data>
+  <data name="Show Partner: Moog" xml:space="preserve">
+    <value>顯示合作夥伴：Moog</value>
+  </data>
+  <data name="Show Partner: Senparc" xml:space="preserve">
+    <value>顯示合作夥伴：Senparc</value>
+  </data>
+  <data name="Show Partner: Voxihost" xml:space="preserve">
+    <value>顯示合作夥伴：Voxihost</value>
+  </data>
+  <data name="Show Senparc in the trusted partners section." xml:space="preserve">
+    <value>在受信合作夥伴區塊中顯示 Senparc。</value>
+  </data>
+  <data name="Show the Voxihost partnership section on the home page." xml:space="preserve">
+    <value>在主頁上顯示 Voxihost 合作夥伴區塊。</value>
+  </data>
+  <data name="Show Voxihost in the trusted partners section." xml:space="preserve">
+    <value>在受信合作夥伴區塊中顯示 Voxihost。</value>
+  </data>
+  <data name="Show Voxihost Partnership" xml:space="preserve">
+    <value>顯示 Voxihost 合作夥伴關係</value>
+  </data>
   <data name="The brand name displayed in the footer." xml:space="preserve">
     <value>頁尾顯示的品牌名稱</value>
   </data>

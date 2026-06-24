@@ -54,6 +54,48 @@
   <data name="Project Name" xml:space="preserve">
     <value>प्रोजेक्ट नाम</value>
   </data>
+  <data name="Show Aoji Airlines in the trusted partners section." xml:space="preserve">
+    <value>विश्वसनीय भागीदार खंड में Aoji Airlines दिखाएं।</value>
+  </data>
+  <data name="Show Chopinsight in the trusted partners section." xml:space="preserve">
+    <value>विश्वसनीय भागीदारों के अनुभाग में Chopinsight दिखाएं।</value>
+  </data>
+  <data name="Show Egret in the trusted partners section." xml:space="preserve">
+    <value>विश्वसनीय साझेदारों के अनुभाग में एग्रेट दिखाएं।</value>
+  </data>
+  <data name="Show Moog in the trusted partners section." xml:space="preserve">
+    <value>विश्वसनीय भागीदारों अनुभाग में Moog दिखाएं।</value>
+  </data>
+  <data name="Show Partner: Aoji Airlines" xml:space="preserve">
+    <value>पार्टनर दिखाएं: Aoji Airlines</value>
+  </data>
+  <data name="Show Partner: Chopinsight" xml:space="preserve">
+    <value>साझेदार दिखाएं: Chopinsight</value>
+  </data>
+  <data name="Show Partner: Egret" xml:space="preserve">
+    <value>साझेदार दिखाएं: Egret</value>
+  </data>
+  <data name="Show Partner: Moog" xml:space="preserve">
+    <value>साझेदार दिखाएं: Moog</value>
+  </data>
+  <data name="Show Partner: Senparc" xml:space="preserve">
+    <value>साझेदार दिखाएं: Senparc</value>
+  </data>
+  <data name="Show Partner: Voxihost" xml:space="preserve">
+    <value>भागीदार दिखाएं: Voxihost</value>
+  </data>
+  <data name="Show Senparc in the trusted partners section." xml:space="preserve">
+    <value>विश्वसनीय साझेदारों अनुभाग में Senparc दिखाएं।</value>
+  </data>
+  <data name="Show the Voxihost partnership section on the home page." xml:space="preserve">
+    <value>होम पेज पर Voxihost साझेदारी अनुभाग दिखाएँ।</value>
+  </data>
+  <data name="Show Voxihost in the trusted partners section." xml:space="preserve">
+    <value>विश्वसनीय भागीदारों के अनुभाग में Voxihost दिखाएं।</value>
+  </data>
+  <data name="Show Voxihost Partnership" xml:space="preserve">
+    <value>वॉक्सीहोस्ट साझेदारी दिखाएं</value>
+  </data>
   <data name="The brand name displayed in the footer." xml:space="preserve">
     <value>फुटर में दिखाई देने वाला ब्रांड नाम</value>
   </data>

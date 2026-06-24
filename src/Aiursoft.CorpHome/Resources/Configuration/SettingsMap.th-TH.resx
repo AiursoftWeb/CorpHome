@@ -54,6 +54,48 @@
   <data name="Project Name" xml:space="preserve">
     <value>ชื่อโปรเจกต์</value>
   </data>
+  <data name="Show Aoji Airlines in the trusted partners section." xml:space="preserve">
+    <value>แสดง Aoji Airlines ในส่วนพันธมิตรที่ไว้วางใจ</value>
+  </data>
+  <data name="Show Chopinsight in the trusted partners section." xml:space="preserve">
+    <value>แสดง Chopinsight ในส่วนพาร์ทเนอร์ที่ไว้วางใจ</value>
+  </data>
+  <data name="Show Egret in the trusted partners section." xml:space="preserve">
+    <value>แสดง Egret ในส่วนคู่ค้าที่ไว้วางใจ</value>
+  </data>
+  <data name="Show Moog in the trusted partners section." xml:space="preserve">
+    <value>แสดง Moog ในส่วนพันธมิตรที่ไว้วางใจ</value>
+  </data>
+  <data name="Show Partner: Aoji Airlines" xml:space="preserve">
+    <value>แสดงพันธมิตร: Aoji Airlines</value>
+  </data>
+  <data name="Show Partner: Chopinsight" xml:space="preserve">
+    <value>แสดงพันธมิตร: Chopinsight</value>
+  </data>
+  <data name="Show Partner: Egret" xml:space="preserve">
+    <value>แสดงพาร์ทเนอร์: Egret</value>
+  </data>
+  <data name="Show Partner: Moog" xml:space="preserve">
+    <value>แสดงพันธมิตร: Moog</value>
+  </data>
+  <data name="Show Partner: Senparc" xml:space="preserve">
+    <value>แสดงพาร์ทเนอร์: Senparc</value>
+  </data>
+  <data name="Show Partner: Voxihost" xml:space="preserve">
+    <value>แสดงพาร์ทเนอร์: Voxihost</value>
+  </data>
+  <data name="Show Senparc in the trusted partners section." xml:space="preserve">
+    <value>แสดง Senparc ในส่วนพันธมิตรที่ไว้วางใจ</value>
+  </data>
+  <data name="Show the Voxihost partnership section on the home page." xml:space="preserve">
+    <value>แสดงส่วนความร่วมมือของ Voxihost บนหน้าแรก</value>
+  </data>
+  <data name="Show Voxihost in the trusted partners section." xml:space="preserve">
+    <value>แสดง Voxihost ในส่วนพันธมิตรที่น่าเชื่อถือ</value>
+  </data>
+  <data name="Show Voxihost Partnership" xml:space="preserve">
+    <value>แสดงความร่วมมือ Voxihost</value>
+  </data>
   <data name="The brand name displayed in the footer." xml:space="preserve">
     <value>ชื่อแบรนด์ที่แสดงไว้ในส่วนท้ายหน้า</value>
   </data>
