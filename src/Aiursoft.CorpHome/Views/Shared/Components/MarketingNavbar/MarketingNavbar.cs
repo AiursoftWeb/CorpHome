@@ -12,7 +12,7 @@ public class MarketingNavbar(
     public async Task<IViewComponentResult> InvokeAsync(MarketingNavbarViewModel? model = null)
     {
         model ??= new MarketingNavbarViewModel();
-        model.ProjectName = await globalSettingsService.GetSettingValueAsync(SettingsMap.ProjectName);
+        model.CompanyName = await globalSettingsService.GetCompanyNameAsync();
         var logoPath = await globalSettingsService.GetSettingValueAsync(SettingsMap.ProjectLogo);
         if (!string.IsNullOrWhiteSpace(logoPath))
         {

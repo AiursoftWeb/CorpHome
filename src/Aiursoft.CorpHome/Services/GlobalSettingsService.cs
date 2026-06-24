@@ -49,6 +49,16 @@ public class GlobalSettingsService(
         return result;
     }
 
+    public async Task<string> GetCompanyNameAsync()
+    {
+        var brandName = await GetSettingValueAsync(SettingsMap.BrandName);
+        var zhName = await GetSettingValueAsync(SettingsMap.CompanyNameZhCn);
+        if (!string.IsNullOrWhiteSpace(zhName) &&
+            System.Globalization.CultureInfo.CurrentCulture.Name == "zh-CN")
+            return zhName;
+        return brandName;
+    }
+
     public async Task<bool> GetBoolSettingAsync(string key)
     {
         var value = await GetSettingValueAsync(key);

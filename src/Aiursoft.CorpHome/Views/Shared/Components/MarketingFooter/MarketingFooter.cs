@@ -12,10 +12,9 @@ public class MarketingFooter(
     public async Task<IViewComponentResult> InvokeAsync(MarketingFooterViewModel? model = null)
     {
         model ??= new MarketingFooterViewModel();
-        model.BrandName = await globalSettingsService.GetSettingValueAsync(SettingsMap.BrandName);
+        model.CompanyName = await globalSettingsService.GetCompanyNameAsync();
         model.BrandHomeUrl = await globalSettingsService.GetSettingValueAsync(SettingsMap.BrandHomeUrl);
         model.Icp = await globalSettingsService.GetSettingValueAsync(SettingsMap.Icp);
-        model.CompanyNameZhCn = await globalSettingsService.GetSettingValueAsync(SettingsMap.CompanyNameZhCn);
         
         var logoPath = await globalSettingsService.GetSettingValueAsync(SettingsMap.ProjectLogo);
         if (!string.IsNullOrWhiteSpace(logoPath))
