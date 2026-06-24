@@ -54,6 +54,48 @@
   <data name="Project Name" xml:space="preserve">
     <value>Project Name</value>
   </data>
+  <data name="Show Aoji Airlines in the trusted partners section." xml:space="preserve">
+    <value>Show Aoji Airlines in the trusted partners section.</value>
+  </data>
+  <data name="Show Chopinsight in the trusted partners section." xml:space="preserve">
+    <value>Show Chopinsight in the trusted partners section.</value>
+  </data>
+  <data name="Show Egret in the trusted partners section." xml:space="preserve">
+    <value>Show Egret in the trusted partners section.</value>
+  </data>
+  <data name="Show Moog in the trusted partners section." xml:space="preserve">
+    <value>Show Moog in the trusted partners section.</value>
+  </data>
+  <data name="Show Partner: Aoji Airlines" xml:space="preserve">
+    <value>Show Partner: Aoji Airlines</value>
+  </data>
+  <data name="Show Partner: Chopinsight" xml:space="preserve">
+    <value>Show Partner: Chopinsight</value>
+  </data>
+  <data name="Show Partner: Egret" xml:space="preserve">
+    <value>Show Partner: Egret</value>
+  </data>
+  <data name="Show Partner: Moog" xml:space="preserve">
+    <value>Show Partner: Moog</value>
+  </data>
+  <data name="Show Partner: Senparc" xml:space="preserve">
+    <value>Show Partner: Senparc</value>
+  </data>
+  <data name="Show Partner: Voxihost" xml:space="preserve">
+    <value>Show Partner: Voxihost</value>
+  </data>
+  <data name="Show Senparc in the trusted partners section." xml:space="preserve">
+    <value>Show Senparc in the trusted partners section.</value>
+  </data>
+  <data name="Show the Voxihost partnership section on the home page." xml:space="preserve">
+    <value>Show the Voxihost partnership section on the home page.</value>
+  </data>
+  <data name="Show Voxihost in the trusted partners section." xml:space="preserve">
+    <value>Show Voxihost in the trusted partners section.</value>
+  </data>
+  <data name="Show Voxihost Partnership" xml:space="preserve">
+    <value>Show Voxihost Partnership</value>
+  </data>
   <data name="The brand name displayed in the footer." xml:space="preserve">
     <value>The brand name displayed in the footer.</value>
   </data>

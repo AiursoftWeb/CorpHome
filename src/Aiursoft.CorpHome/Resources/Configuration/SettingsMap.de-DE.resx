@@ -54,6 +54,48 @@
   <data name="Project Name" xml:space="preserve">
     <value>Projektname</value>
   </data>
+  <data name="Show Aoji Airlines in the trusted partners section." xml:space="preserve">
+    <value>Zeigen Sie Aoji Airlines im Abschnitt für vertrauenswürdige Partner an.</value>
+  </data>
+  <data name="Show Chopinsight in the trusted partners section." xml:space="preserve">
+    <value>Chopinsight im Abschnitt „Vertrauenswürdige Partner“ anzeigen.</value>
+  </data>
+  <data name="Show Egret in the trusted partners section." xml:space="preserve">
+    <value>Egret im Abschnitt der vertrauenswürdigen Partner anzeigen.</value>
+  </data>
+  <data name="Show Moog in the trusted partners section." xml:space="preserve">
+    <value>Moog im Abschnitt „Vertrauenswürdige Partner“ anzeigen.</value>
+  </data>
+  <data name="Show Partner: Aoji Airlines" xml:space="preserve">
+    <value>Partner anzeigen: Aoji Airlines</value>
+  </data>
+  <data name="Show Partner: Chopinsight" xml:space="preserve">
+    <value>Partner anzeigen: Chopinsight</value>
+  </data>
+  <data name="Show Partner: Egret" xml:space="preserve">
+    <value>Partner anzeigen: Egret</value>
+  </data>
+  <data name="Show Partner: Moog" xml:space="preserve">
+    <value>Partner anzeigen: Moog</value>
+  </data>
+  <data name="Show Partner: Senparc" xml:space="preserve">
+    <value>Partner anzeigen: Senparc</value>
+  </data>
+  <data name="Show Partner: Voxihost" xml:space="preserve">
+    <value>Partner anzeigen: Voxihost</value>
+  </data>
+  <data name="Show Senparc in the trusted partners section." xml:space="preserve">
+    <value>Senparc im Bereich der vertrauenswürdigen Partner anzeigen.</value>
+  </data>
+  <data name="Show the Voxihost partnership section on the home page." xml:space="preserve">
+    <value>Zeige den Voxihost-Partnerbereich auf der Startseite.</value>
+  </data>
+  <data name="Show Voxihost in the trusted partners section." xml:space="preserve">
+    <value>Voxihost im Bereich der vertrauenswürdigen Partner anzeigen.</value>
+  </data>
+  <data name="Show Voxihost Partnership" xml:space="preserve">
+    <value>Voxihost-Partnerschaft anzeigen</value>
+  </data>
   <data name="The brand name displayed in the footer." xml:space="preserve">
     <value>Der Markenname, der im Footer angezeigt wird.</value>
   </data>

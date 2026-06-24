@@ -54,6 +54,48 @@
   <data name="Project Name" xml:space="preserve">
     <value>Название проекта</value>
   </data>
+  <data name="Show Aoji Airlines in the trusted partners section." xml:space="preserve">
+    <value>Отображать Aoji Airlines в разделе надежных партнеров.</value>
+  </data>
+  <data name="Show Chopinsight in the trusted partners section." xml:space="preserve">
+    <value>Показать Chopinsight в разделе доверенных партнеров.</value>
+  </data>
+  <data name="Show Egret in the trusted partners section." xml:space="preserve">
+    <value>Отображать Egret в разделе доверенных партнеров.</value>
+  </data>
+  <data name="Show Moog in the trusted partners section." xml:space="preserve">
+    <value>Показать Moog в разделе доверенных партнеров.</value>
+  </data>
+  <data name="Show Partner: Aoji Airlines" xml:space="preserve">
+    <value>Отображение партнера: Aoji Airlines</value>
+  </data>
+  <data name="Show Partner: Chopinsight" xml:space="preserve">
+    <value>Показать партнера: Chopinsight</value>
+  </data>
+  <data name="Show Partner: Egret" xml:space="preserve">
+    <value>Отображать партнера: Egret</value>
+  </data>
+  <data name="Show Partner: Moog" xml:space="preserve">
+    <value>Показать партнера: Moog</value>
+  </data>
+  <data name="Show Partner: Senparc" xml:space="preserve">
+    <value>Показать партнера: Senparc</value>
+  </data>
+  <data name="Show Partner: Voxihost" xml:space="preserve">
+    <value>Показать партнера: Voxihost</value>
+  </data>
+  <data name="Show Senparc in the trusted partners section." xml:space="preserve">
+    <value>Отображать Senparc в разделе доверенных партнеров.</value>
+  </data>
+  <data name="Show the Voxihost partnership section on the home page." xml:space="preserve">
+    <value>Отображать раздел партнерства с Voxihost на главной странице.</value>
+  </data>
+  <data name="Show Voxihost in the trusted partners section." xml:space="preserve">
+    <value>Отображение Voxihost в разделе надежных партнеров.</value>
+  </data>
+  <data name="Show Voxihost Partnership" xml:space="preserve">
+    <value>Показать партнерство с Voxihost</value>
+  </data>
   <data name="The brand name displayed in the footer." xml:space="preserve">
     <value>Название бренда, отображаемое в подвале.</value>
   </data>

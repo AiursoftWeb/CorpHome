@@ -33,6 +33,9 @@
   <data name="Aiursoft Template" xml:space="preserve">
     <value>Aiursoft 템플릿</value>
   </data>
+  <data name="AnduinOS" xml:space="preserve">
+    <value>AnduinOS</value>
+  </data>
   <data name="Anonymous" xml:space="preserve">
     <value>익명</value>
   </data>
@@ -92,6 +95,9 @@
   </data>
   <data name="Features" xml:space="preserve">
     <value>기능</value>
+  </data>
+  <data name="Get to know us" xml:space="preserve">
+    <value>회사 소개</value>
   </data>
   <data name="Global Settings" xml:space="preserve">
     <value>전역 설정</value>
