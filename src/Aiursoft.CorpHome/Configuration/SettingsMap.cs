@@ -10,6 +10,7 @@ public class SettingsMap
     public const string ProjectLogo = "ProjectLogo";
     public const string AllowUserAdjustNickname = "Allow_User_Adjust_Nickname";
     public const string Icp = "Icp";
+    public const string CompanyNameZhCn = "CompanyNameZhCn";
     public const string ShowVoxihostPartnership = "ShowVoxihostPartnership";
     public const string ShowPartnerMoog = "ShowPartnerMoog";
     public const string ShowPartnerSenparc = "ShowPartnerSenparc";
@@ -69,6 +70,14 @@ public class SettingsMap
             Description = Localizer["Allow users to adjust their nickname in the profile management page."],
             Type = SettingType.Bool,
             DefaultValue = "True"
+        },
+        new GlobalSettingDefinition
+        {
+            Key = CompanyNameZhCn,
+            Name = Localizer["Company Name (Simplified Chinese)"],
+            Description = Localizer["The company name displayed when the page language is Simplified Chinese. Leave empty to use the default brand name."],
+            Type = SettingType.Text,
+            DefaultValue = "苏州艾软科技有限公司"
         },
         new GlobalSettingDefinition
         {

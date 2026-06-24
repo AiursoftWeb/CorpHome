@@ -162,6 +162,9 @@
   <data name="On-premise / Air-gapped Deployment" xml:space="preserve">
     <value>Локальное развертывание / Развертывание в изолированной сети</value>
   </data>
+  <data name="On-premises APT Repository" xml:space="preserve">
+    <value>Локальное хранилище APT</value>
+  </data>
   <data name="Online Code Execution" xml:space="preserve">
     <value>Выполнение кода онлайн</value>
   </data>

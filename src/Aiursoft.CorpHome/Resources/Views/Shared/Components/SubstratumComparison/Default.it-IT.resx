@@ -162,6 +162,9 @@
   <data name="On-premise / Air-gapped Deployment" xml:space="preserve">
     <value>Deployment on-premise / in ambiente isolato</value>
   </data>
+  <data name="On-premises APT Repository" xml:space="preserve">
+    <value>Repository APT On-Premises</value>
+  </data>
   <data name="Online Code Execution" xml:space="preserve">
     <value>Esecuzione codice online</value>
   </data>

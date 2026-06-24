@@ -675,9 +675,23 @@
     border-top: none !important; /* Make it fuse with the navbar */
     border-radius: 0 0 8px 8px; /* Flat top, rounded bottom */
     box-shadow: 0 20px 40px rgba(0, 0, 0, 0.6) !important;
-    margin-top: 25px !important; /* Calculated exact pixel offset to align with navbar bottom */
-    width: 650px; /* Force wide width for mega menu */
+    margin-top: 25px !important;
+    width: 650px;
     max-width: 95vw;
+}
+
+/* Override Bootstrap's Popper left-alignment for dropdown-menu-end */
+.landing-mega-nav .dropdown-menu-end[data-bs-popper] {
+    left: 0 !important;
+    right: auto !important;
+}
+
+/* Hover-triggered dropdown for desktop */
+@media (min-width: 768px) {
+    .landing-mega-nav .dropdown-mega:hover .mega-menu-pane {
+        display: block;
+        animation: fadeinDown 0.3s cubic-bezier(0.165, 0.84, 0.44, 1) forwards;
+    }
 }
 
 /* Invisible bridge to prevent hover loss when moving mouse from link to menu */
@@ -716,10 +730,6 @@
 /* Desktop Hover Logic */
 @media (min-width: 768px) {
     /* Auto-expand the dropdown menu on hover */
-    .landing-mega-nav .dropdown-mega:hover .mega-menu-pane {
-        display: block;
-        animation: fadeinDown 0.3s cubic-bezier(0.165, 0.84, 0.44, 1) forwards;
-    }
 }
 
 @keyframes fadeinDown {

@@ -27,6 +27,9 @@
   <data name="Add to Management Cloud and go live" xml:space="preserve">
     <value>เพิ่มลงไปยัง Management Cloud และเริ่มใช้งานจริง</value>
   </data>
+  <data name="Advanced" xml:space="preserve">
+    <value>ขั้นสูง</value>
+  </data>
   <data name="All the power of open-source, backed by enterprise-grade support, management tools, and customisation capabilities." xml:space="preserve">
     <value>สรรพกำลังของโอเพ่นซอร์ส สนับสนุนโดยบริการจัดการระดับองค์กร เครื่องมือบริหารจัดการ และความสามารถในการปรับแต่ง</value>
   </data>
@@ -69,6 +72,9 @@
   <data name="Apkg is a declarative APT repository platform that lets you host signed Debian repositories, mirror upstream archives, and publish your own .apkg packages — all fully on-premise. Integrates seamlessly with AnduinOS for painless apt update &amp;&amp; apt install workflows across your entire fleet." xml:space="preserve">
     <value>Apkg เป็นแพลตฟอร์ม APT repository แบบ declarative ที่ช่วยให้คุณโฮสต์ Debian repositories ที่มีการลงนาม ทำ mirror archive จากแหล่งต้นทาง และเผยแพร่แพ็กเกจ .apkg ของคุณเอง — ทั้งหมดดำเนินการภายในระบบของคุณอย่างสมบูรณ์ (on-premise) พร้อมผสานรวมกับ AnduinOS อย่างไร้รอยต่อ ทำให้การอัปเดตและติดตั้งแพ็กเกจด้วยคำสั่ง apt update &amp;&amp; apt install ง่ายและราบรื่นสำหรับอุปกรณ์ทั้งหมดในเครือข่ายของคุณ</value>
   </data>
+  <data name="Architecture" xml:space="preserve">
+    <value>สถาปัตยกรรม</value>
+  </data>
   <data name="Atomic Snapshots" xml:space="preserve">
     <value>จุดบันทึกข้อมูลแบบอะตอมมิก</value>
   </data>
@@ -87,6 +93,9 @@
   <data name="Built for business. Air-gapped by design." xml:space="preserve">
     <value>ออกแบบมาเพื่อธุรกิจ แยกเครือข่ายจากระบบออนไลน์ตั้งแต่ต้นทาง</value>
   </data>
+  <data name="Built on a rock-solid foundation. Designed for the enterprise." xml:space="preserve">
+    <value>สร้างบนรากฐานที่มั่นคง ออกแบบมาเพื่อองค์กรโดยเฉพาะ</value>
+  </data>
   <data name="Built on the same infrastructure that powers AnduinOS package delivery. Push updates to your entire fleet with a single command." xml:space="preserve">
     <value>สร้างบนพื้นฐานโครงสร้างพื้นฐานเดียวกันที่ขับเคลื่อนการส่งมอบแพ็กเกจของ AnduinOS ส่งอัปเดตไปยัง armada ทั้งหมดของคุณด้วยคำสั่งเดียว</value>
   </data>
@@ -96,11 +105,17 @@
   <data name="Community Site" xml:space="preserve">
     <value>เว็บไซต์ชุมชน</value>
   </data>
+  <data name="Compatible with most x86 PCs manufactured in the last decade." xml:space="preserve">
+    <value>รองรับพีซี x86 ส่วนใหญ่ที่ผลิตในช่วงสิบปีที่ผ่านมา</value>
+  </data>
   <data name="Compliance-ready default configurations" xml:space="preserve">
     <value>ค่าเริ่มต้นที่พร้อมใช้ตามข้อกำหนดการปฏิบัติตามกฎระเบียบ</value>
   </data>
   <data name="Contact Enterprise Sales" xml:space="preserve">
     <value>ติดต่อฝ่ายขายองค์กร</value>
+  </data>
+  <data name="Contact Sales" xml:space="preserve">
+    <value>ติดต่อฝ่ายขาย</value>
   </data>
   <data name="Containerized" xml:space="preserve">
     <value>ใช้งานระบบคอนเทนเนอร์</value>
@@ -123,6 +138,12 @@
   <data name="Declarative Packaging" xml:space="preserve">
     <value>การแพ็กเกจแบบdeclarative</value>
   </data>
+  <data name="Default Browser" xml:space="preserve">
+    <value>เบราว์เซอร์เริ่มต้น</value>
+  </data>
+  <data name="Default Filesystem" xml:space="preserve">
+    <value>ระบบไฟล์เริ่มต้น</value>
+  </data>
   <data name="Deploy AnduinOS with your Enterprise!" xml:space="preserve">
     <value>ติดตั้ง AnduinOS สำหรับองค์กรของคุณ!</value>
   </data>
@@ -135,8 +156,17 @@
   <data name="Deployment" xml:space="preserve">
     <value>การติดตั้งใช้งาน</value>
   </data>
+  <data name="Desktop Environment" xml:space="preserve">
+    <value>สภาพแวดล้อมบนเดสก์ท็อป</value>
+  </data>
   <data name="digital signage and kiosk terminals" xml:space="preserve">
     <value>ป้ายประกาศทางดิจิทัลและเทอร์มินัลคีออสก์</value>
+  </data>
+  <data name="Disk Space" xml:space="preserve">
+    <value>พื้นที่ดิสก์</value>
+  </data>
+  <data name="Display Server" xml:space="preserve">
+    <value>เซิร์ฟเวอร์การแสดงผล</value>
   </data>
   <data name="Distribute your own software packages internally via standard apt protocol. Take control of your enterprise package ecosystem." xml:space="preserve">
     <value>แจกจ่ายแพ็กเกจซอฟต์แวร์ของคุณภายในองค์กรผ่านโปรโตคอล apt มาตรฐาน ควบคุมระบบนิเวศของแพ็กเกจในองค์กรของคุณได้อย่างเต็มที่</value>
@@ -153,11 +183,20 @@
   <data name="Ecological perfection" xml:space="preserve">
     <value>ระบบนิเวศที่สมบูรณ์แบบ</value>
   </data>
+  <data name="End of Support" xml:space="preserve">
+    <value>สิ้นสุดการรองรับ</value>
+  </data>
   <data name="Enroll" xml:space="preserve">
     <value>ลงทะเบียน</value>
   </data>
+  <data name="Enterprise" xml:space="preserve">
+    <value>องค์กรธุรกิจ</value>
+  </data>
   <data name="Enterprise Services" xml:space="preserve">
     <value>บริการสำหรับองค์กร</value>
+  </data>
+  <data name="Enterprise-grade" xml:space="preserve">
+    <value>ระดับองค์กร</value>
   </data>
   <data name="Enterprise-grade management for your fleet" xml:space="preserve">
     <value>การจัดการระดับองค์กรสำหรับอุปกรณ์ของคุณ</value>
@@ -168,11 +207,20 @@
   <data name="Explore StatHub" xml:space="preserve">
     <value>สำรวจ StatHub</value>
   </data>
+  <data name="Familiar UX" xml:space="preserve">
+    <value>UX ที่คุ้นเคย</value>
+  </data>
+  <data name="Firmware" xml:space="preserve">
+    <value>เฟิร์มแวร์</value>
+  </data>
   <data name="Flash" xml:space="preserve">
     <value>เขียนภาพลง USB</value>
   </data>
   <data name="Free" xml:space="preserve">
     <value>ฟรี</value>
+  </data>
+  <data name="Free Software" xml:space="preserve">
+    <value>ซอฟต์แวร์เสรี</value>
   </data>
   <data name="Friendly interface" xml:space="preserve">
     <value>อินเทอร์เฟซที่เป็นมิตร</value>
@@ -192,6 +240,15 @@
   <data name="Graphical applications are installed via Flatpak, and keep themselves separate from the base system. They also allow for fine-grained control over their permissions." xml:space="preserve">
     <value>แอปพลิเคชันกราฟิกจะติดตั้งผ่าน Flatpak และถูกแยกออกจากระบบหลักอย่างชัดเจน นอกจากนี้ยังให้การควบคุมสิทธิการเข้าถึงอย่างละเอียดและแม่นยำ</value>
   </data>
+  <data name="HDR Support" xml:space="preserve">
+    <value>การรองรับ HDR</value>
+  </data>
+  <data name="Image Size" xml:space="preserve">
+    <value>ขนาดของ Image</value>
+  </data>
+  <data name="Init System" xml:space="preserve">
+    <value>ระบบเริ่มต้น</value>
+  </data>
   <data name="Internal package distribution via apt" xml:space="preserve">
     <value>การแจกจ่ายแพ็กเกจภายในผ่าน apt</value>
   </data>
@@ -204,6 +261,12 @@
   <data name="Lightweight Agents" xml:space="preserve">
     <value>เอเจนต์น้ำหนักเบา</value>
   </data>
+  <data name="Linux Kernel" xml:space="preserve">
+    <value>ไลนุกซ์ เคอร์เนล</value>
+  </data>
+  <data name="Live Boot" xml:space="preserve">
+    <value>บูตแบบใช้งานทันที</value>
+  </data>
   <data name="Locked-down &amp; tamper-proof" xml:space="preserve">
     <value>ระบบปิดและป้องกันการแทรกแซง</value>
   </data>
@@ -212,6 +275,12 @@
   </data>
   <data name="Low-overhead agents collect metrics without impacting your AnduinOS devices&apos; performance. Deploy in seconds with Docker." xml:space="preserve">
     <value>เอเยนต์ที่มีทรัพยากรต่ำสามารถรวบรวมตัวชี้วัดได้โดยไม่ส่งผลต่อประสิทธิภาพของอุปกรณ์ AnduinOS ของคุณ จัดการให้ใช้งานได้ภายในวินาทีด้วย Docker</value>
+  </data>
+  <data name="LTS Support" xml:space="preserve">
+    <value>การรองรับ LTS</value>
+  </data>
+  <data name="management for your fleet" xml:space="preserve">
+    <value>การจัดการสำหรับยานพาหนะของคุณ</value>
   </data>
   <data name="Minimal maintenance. Maximum stability." xml:space="preserve">
     <value>บำรุงรักษาน้อยที่สุด เสถียรภาพสูงสุด</value>
@@ -228,26 +297,53 @@
   <data name="Multi-Node" xml:space="preserve">
     <value>หลายโหนด</value>
   </data>
+  <data name="NVIDIA Graphics Support" xml:space="preserve">
+    <value>รองรับกราฟิก NVIDIA</value>
+  </data>
   <data name="Offline repository mirrors for air-gapped networks" xml:space="preserve">
     <value>มิเรอร์แหล่งข้อมูลออฟไลน์สำหรับเครือข่ายที่แยกตัว (Air-Gapped)</value>
+  </data>
+  <data name="On-premises Apkg" xml:space="preserve">
+    <value>Apkg แบบในเครื่อง</value>
   </data>
   <data name="Open Source" xml:space="preserve">
     <value>โอเพนซอร์ส</value>
   </data>
+  <data name="or" xml:space="preserve">
+    <value>หรือ</value>
+  </data>
   <data name="Package Distribution" xml:space="preserve">
     <value>การแจกจ่ายแพ็กเกจ</value>
+  </data>
+  <data name="Package Format" xml:space="preserve">
+    <value>รูปแบบแพ็กเกจ</value>
+  </data>
+  <data name="Package Manager" xml:space="preserve">
+    <value>ตัวจัดการแพ็กเกจ</value>
   </data>
   <data name="Performance" xml:space="preserve">
     <value>ประสิทธิภาพ</value>
   </data>
+  <data name="Ports" xml:space="preserve">
+    <value>พอร์ต</value>
+  </data>
   <data name="Pre-install company software packages" xml:space="preserve">
     <value>ติดตั้งแพ็กเกจซอฟต์แวร์ขององค์กรล่วงหน้า</value>
+  </data>
+  <data name="Pricing" xml:space="preserve">
+    <value>ราคา</value>
   </data>
   <data name="Privacy is no longer optional. It&apos;s essential. AnduinOS is designed to gather nothing from you. We don&apos;t track you. We don&apos;t profile you. We don&apos;t target you. You remain anonymous to the system." xml:space="preserve">
     <value>ความเป็นส่วนตัวไม่ใช่ทางเลือกอีกต่อไป แต่เป็นเรื่องจำเป็น AnduinOS ถูกออกแบบมาเพื่อไม่เก็บข้อมูลใดๆ จากคุณ เราไม่ติดตามคุณ เราไม่สร้างโปรไฟล์คุณ เราไม่กำหนดกลุ่มเป้าหมายคุณ คุณยังคงเป็นบุคคล 익명 ต่อระบบ</value>
   </data>
   <data name="Private Apkg" xml:space="preserve">
     <value>Apkg ส่วนส่วนตัว</value>
+  </data>
+  <data name="Processor" xml:space="preserve">
+    <value>หน่วยประมวลผล</value>
+  </data>
+  <data name="RAM" xml:space="preserve">
+    <value>แรม</value>
   </data>
   <data name="Ready to use" xml:space="preserve">
     <value>พร้อมใช้งานทันที</value>
@@ -260,6 +356,9 @@
   </data>
   <data name="Reasons" xml:space="preserve">
     <value>เหตุผล</value>
+  </data>
+  <data name="Release Date" xml:space="preserve">
+    <value>วันที่เผยแพร่</value>
   </data>
   <data name="Remote configuration and policy enforcement" xml:space="preserve">
     <value>การกำหนดค่าระยะไกลและการบังคับใช้นโยบาย</value>
@@ -285,11 +384,17 @@
   <data name="Runs smoothly on older devices. Extends hardware lifespan by being resource-efficient, so you don&apos;t need to buy new machines." xml:space="preserve">
     <value>ทำงานลื่นไหลบนอุปกรณ์รุ่นเก่า ยืดอายุการใช้งานของฮาร์ดแวร์ด้วยการใช้ทรัพยากรอย่างคุ้มค่า ดังนั้นคุณจึงไม่จำเป็นต้องซื้อเครื่องใหม่</value>
   </data>
+  <data name="Screen" xml:space="preserve">
+    <value>หน้าจอ</value>
+  </data>
   <data name="Seamless AnduinOS Integration" xml:space="preserve">
     <value>การผสานรวม AnduinOS ที่ราบรื่นไร้รอยต่อ</value>
   </data>
   <data name="Secure" xml:space="preserve">
     <value>ปลอดภัย</value>
+  </data>
+  <data name="Secure Boot" xml:space="preserve">
+    <value>บูตปลอดภัย</value>
   </data>
   <data name="Set up your system in under 5 minutes" xml:space="preserve">
     <value>ตั้งค่าระบบของคุณภายใน 5 นาที</value>
@@ -309,6 +414,9 @@
   <data name="Speedy Makeover" xml:space="preserve">
     <value>เปลี่ยนแปลงให้รวดเร็วทันใจ</value>
   </data>
+  <data name="Stable &amp; Modern" xml:space="preserve">
+    <value>มั่นคงและทันสมัย</value>
+  </data>
   <data name="StatHub Dashboard Screenshot" xml:space="preserve">
     <value>ภาพหน้าจอแดชบอร์ด StatHub</value>
   </data>
@@ -318,8 +426,14 @@
   <data name="Sync, sign, and promote atomically via rename(2). APT clients never see half-written metadata — only consistent, signed snapshots." xml:space="preserve">
     <value>ซิงค์ ลงนาม และเผยแพร่แบบอะตอมิกผ่าน rename(2) ไคลเอนต์ APT จะไม่พบเมตาดาต้าที่เขียนไม่เสร็จสมบูรณ์ — จะพบเฉพาะสแนปชอตที่สอดคล้องกันและลงนามแล้วเท่านั้น</value>
   </data>
+  <data name="System Requirements" xml:space="preserve">
+    <value>ข้อกำหนดของระบบ</value>
+  </data>
   <data name="System updates apply automatically when you restart. Zero maintenance windows — just reboot, and you&apos;re on the latest version." xml:space="preserve">
     <value>อัปเดตระบบจะติดตั้งโดยอัตโนมัติเมื่อคุณเริ่มต้นระบบใหม่ ไม่ต้องใช้เวลาหยุดทำงานเพื่อการบำรุงรักษา — เพียงแค่รีสตาร์ทเครื่อง คุณก็จะได้ใช้งานเวอร์ชันล่าสุดทันที</value>
+  </data>
+  <data name="Technical Specifications" xml:space="preserve">
+    <value>ข้อกำหนดทางเทคนิค</value>
   </data>
   <data name="The GNOME-based desktop environment has beautiful interfaces and human-computer interactions that fit user habits, allowing you to quickly get started with AnduinOS without too much learning cost." xml:space="preserve">
     <value>สภาพแวดล้อมเดสก์ท็อปที่ขับเคลื่อนด้วย GNOME นำเสนออินเทอร์เฟซที่สวยงามและปฏิสัมพันธ์ระหว่างมนุษย์กับคอมพิวเตอร์ที่สอดคล้องกับพฤติกรรมการใช้งานของผู้ใช้ ช่วยให้คุณเริ่มต้นใช้งาน AnduinOS ได้อย่างรวดเร็วโดยไม่ต้องเสียเวลาเรียนรู้มากนัก</value>
@@ -330,6 +444,9 @@
   <data name="The ISO is just 2.4GB in size. Similar to Ubuntu, it is simple to install and can meet your daily needs without additional configuration or complicated operations." xml:space="preserve">
     <value>ไฟล์ ISO มีขนาดเล็กเพียง 2.4GB เหมือนกับ Ubuntu ติดตั้งง่ายและสามารถตอบสนองความต้องการประจำวันของคุณได้โดยไม่ต้องตั้งค่าเพิ่มเติมหรือดำเนินการที่ซับซ้อน</value>
   </data>
+  <data name="The operating system your enterprise needs — familiar, beautiful, stable, mature, and easy to manage. AnduinOS Enterprise is built on Linux 7.0, GNOME 50, and Ubuntu 26.04, keeping your team in a comfortable, productive environment." xml:space="preserve">
+    <value>ระบบปฏิบัติการที่องค์กรของคุณต้องการ — ใช้งานง่ายสวยงาม มั่นคง และจัดการได้สะดวก AnduinOS Enterprise พัฒนาขึ้นบน Linux 7.0, GNOME 50 และ Ubuntu 26.04 เพื่อให้ทีมงานของคุณทำงานในสภาพแวดล้อมที่สะดวกสบายและเกิดประสิทธิภาพสูงสุด</value>
+  </data>
   <data name="Tired of your sluggish OS slowing you down? Switch to AnduinOS for instant speed and seamless performance." xml:space="preserve">
     <value>เบื่อไหมที่ OS ช้าๆ ยับยั้งความเร็วของคุณ? เปลี่ยนมาใช้ AnduinOS เพื่อความเร็วทันทีและการทำงานที่ลื่นไหลไร้สะดุด</value>
   </data>
@@ -339,6 +456,12 @@
   <data name="Turn any screen into a kiosk" xml:space="preserve">
     <value>เปลี่ยนหน้าจอให้เป็นioskได้ทันที</value>
   </data>
+  <data name="Ubuntu Base" xml:space="preserve">
+    <value>พื้นฐาน Ubuntu</value>
+  </data>
+  <data name="UI Toolkit" xml:space="preserve">
+    <value>ชุดเครื่องมือ UI</value>
+  </data>
   <data name="Update content, push configurations, and monitor device health — all from the cloud. No need for on-site visits." xml:space="preserve">
     <value>อัปเดตเนื้อหา ส่งการตั้งค่า และตรวจสอบสถานะอุปกรณ์ — ทั้งหมดผ่านระบบคลาวด์ ไม่ต้องเดินทางเข้าหน้างาน</value>
   </data>
@@ -347,6 +470,9 @@
   </data>
   <data name="Visit Community Site" xml:space="preserve">
     <value>เยี่ยมชมชุมชน</value>
+  </data>
+  <data name="Wayland Ready" xml:space="preserve">
+    <value>พร้อมใช้งาน Wayland</value>
   </data>
   <data name="Why choose AnduinOS?" xml:space="preserve">
     <value>ทำไมถึงเลือก AnduinOS?</value>
@@ -359,6 +485,9 @@
   </data>
   <data name="with StatHub" xml:space="preserve">
     <value>ด้วย StatHub</value>
+  </data>
+  <data name="Without Snap" xml:space="preserve">
+    <value>ไม่มี Snap</value>
   </data>
   <data name="Write the image to a USB drive" xml:space="preserve">
     <value>เขียนภาพลงในไดรฟ์ USB</value>

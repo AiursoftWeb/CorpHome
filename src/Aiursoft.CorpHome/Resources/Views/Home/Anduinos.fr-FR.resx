@@ -231,6 +231,9 @@
   <data name="Offline repository mirrors for air-gapped networks" xml:space="preserve">
     <value>Miroirs de référentiels hors ligne pour les réseaux isolés</value>
   </data>
+  <data name="On-premises Apkg" xml:space="preserve">
+    <value>Apkg local</value>
+  </data>
   <data name="Open Source" xml:space="preserve">
     <value>Code source</value>
   </data>

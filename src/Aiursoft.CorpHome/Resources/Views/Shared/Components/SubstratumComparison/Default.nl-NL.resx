@@ -36,6 +36,9 @@
   <data name="AnduinOS Enterprise (Desktop OS)" xml:space="preserve">
     <value>AnduinOS Enterprise (Desktop OS)</value>
   </data>
+  <data name="Authentik uses an Open Core model. The Community Edition is licensed under the permissive MIT license, which allows commercial use, modification, and redistribution. We provide the Community Edition (MIT) as part of Substratum. The Enterprise Edition requires a separate commercial license from Authentik." xml:space="preserve">
+    <value>Authentik maakt gebruik van een Open Core-model. De Community Edition valt onder de permissive MIT-licentie, die commercieel gebruik, wijziging en herverdeling toestaat. Wij bieden de Community Edition (MIT) aan als onderdeel van Substratum. Voor de Enterprise Edition is een afzonderlijke commerciële licentie van Authentik vereist.</value>
+  </data>
   <data name="Business hours email support" xml:space="preserve">
     <value>Bedrijfstijden e-mailondersteuning</value>
   </data>
@@ -93,6 +96,12 @@
   <data name="Fleet device policy management" xml:space="preserve">
     <value>Beheer van beleidsregels voor apparaatflotten</value>
   </data>
+  <data name="GitLab is a trademark of GitLab Inc. Aiursoft provides deployment, hosting, and integration services for GitLab — we are not affiliated with or endorsed by GitLab Inc. The GitLab Community Edition (CE) is MIT-licensed and can be deployed freely. The GitLab Enterprise Edition (EE) requires a separate license purchased from GitLab Inc. We can assist you with procuring the appropriate GitLab EE license, or you may choose to remove this item from your plan." xml:space="preserve">
+    <value>GitLab is een handelsmerk van GitLab Inc. Aiursoft biedt implementatie-, hosting- en integratiediensten voor GitLab — wij zijn niet gelieerd aan of goedgekeurd door GitLab Inc. De GitLab Community Edition (CE) is MIT-gelicentieerd en kan vrij worden geïmplementeerd. Voor de GitLab Enterprise Edition (EE) is een aparte licentie vereist die bij GitLab Inc. moet worden aangeschaft. Wij kunnen u helpen bij het verkrijgen van de juiste GitLab EE-licentie, of u kunt ervoor kiezen dit onderdeel uit uw plan te verwijderen.</value>
+  </data>
+  <data name="Hacker" xml:space="preserve">
+    <value>Hacker</value>
+  </data>
   <data name="Hardware key enforcement" xml:space="preserve">
     <value>Handmatige sleutelafkapping</value>
   </data>
@@ -113,6 +122,9 @@
   </data>
   <data name="Local LLM API Gateway" xml:space="preserve">
     <value>Lokale LLM API Gateway</value>
+  </data>
+  <data name="Mailcow is open-source software (GPL-3.0). Aiursoft provides managed hosting, deployment, and integration services. Any custom modifications provided during your on-premise deployment are fully compliant with and distributed under the GPL-3.0 license." xml:space="preserve">
+    <value>Mailcow is open-source software (GPL-3.0). Aiursoft biedt beheerd hosting-, implementatie- en integratiediensten. Alle aangepaste wijzigingen die tijdens uw on-premise-implementatie worden geleverd, voldoen volledig aan de GPL-3.0-licentie en worden onder deze licentie gedistribueerd.</value>
   </data>
   <data name="Managed endpoint OS" xml:space="preserve">
     <value>Beheerd eindpuntbesturingssysteem</value>
@@ -135,6 +147,9 @@
   <data name="Multi-site &amp; HA capable" xml:space="preserve">
     <value>Meerdere locaties en HA-capabel</value>
   </data>
+  <data name="Nextcloud is a trademark of Nextcloud GmbH. Aiursoft is an independent integration provider. To ensure enterprise-grade stability and strict adherence to the AGPL-3.0 license, we deploy the official, unmodified Nextcloud releases and seamlessly connect your stack via standard APIs, OIDC/SAML, and official plugins." xml:space="preserve">
+    <value>Nextcloud is een handelsmerk van Nextcloud GmbH. Aiursoft is een onafhankelijke integratieprovider. Om enterprise-geschikte stabiliteit en strikte naleving van de AGPL-3.0-licentie te garanderen, implementeren we de officiële, ongewijzigde Nextcloud-releases en verbinden we uw stack naadloos via standaard-API&apos;s, OIDC/SAML en officiële plugins.</value>
+  </data>
   <data name="Not included" xml:space="preserve">
     <value>Niet inbegrepen</value>
   </data>
@@ -146,6 +161,9 @@
   </data>
   <data name="On-premise / Air-gapped Deployment" xml:space="preserve">
     <value>On-premise / Air-gapped implementatie</value>
+  </data>
+  <data name="On-premises APT Repository" xml:space="preserve">
+    <value>Lokale APT-repository</value>
   </data>
   <data name="Online Code Execution" xml:space="preserve">
     <value>Online code uitvoeren</value>
@@ -177,6 +195,9 @@
   <data name="Scale &amp; Support" xml:space="preserve">
     <value>Schalen &amp; Ondersteuning</value>
   </data>
+  <data name="Self-hosted APT repository with .apkg publishing" xml:space="preserve">
+    <value>Zelfgehoste APT-repository met .apkg-publicatie</value>
+  </data>
   <data name="Self-hosted LLM inference gateway" xml:space="preserve">
     <value>Zelf gehoste LLM-inferentiegateway</value>
   </data>
@@ -207,6 +228,9 @@
   <data name="Talk to an Architect" xml:space="preserve">
     <value>Neem contact op met een architect</value>
   </data>
+  <data name="Team Blog" xml:space="preserve">
+    <value>Team Blog</value>
+  </data>
   <data name="Team Voting" xml:space="preserve">
     <value>Stemmen in team</value>
   </data>
@@ -221,6 +245,9 @@
   </data>
   <data name="What&apos;s Included" xml:space="preserve">
     <value>Inbegrepen</value>
+  </data>
+  <data name="Workspace Boards" xml:space="preserve">
+    <value>Workspace-borden</value>
   </data>
   <data name="Zero Trust Yubikey Auth" xml:space="preserve">
     <value>Zero Trust Yubikey-authenticatie</value>

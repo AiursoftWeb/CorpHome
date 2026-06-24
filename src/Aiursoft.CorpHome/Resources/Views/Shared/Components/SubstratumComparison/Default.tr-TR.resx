@@ -36,6 +36,9 @@
   <data name="AnduinOS Enterprise (Desktop OS)" xml:space="preserve">
     <value>AnduinOS Enterprise (Masaüstü İşletim Sistemi)</value>
   </data>
+  <data name="Authentik uses an Open Core model. The Community Edition is licensed under the permissive MIT license, which allows commercial use, modification, and redistribution. We provide the Community Edition (MIT) as part of Substratum. The Enterprise Edition requires a separate commercial license from Authentik." xml:space="preserve">
+    <value>Authentik Açık Çekirdek (Open Core) modeli kullanır. Topluluk Sürümü, ticari kullanım, değiştirme ve yeniden dağıtımı允许的 izin verilen MIT lisansı altında lisanslanmıştır. Topluluk Sürümünü (MIT) Substratum&apos;ın bir parçası olarak sağlıyoruz. Kurumsal Sürüm, Authentik&apos;ten ayrı bir ticari lisans gerektirir.</value>
+  </data>
   <data name="Business hours email support" xml:space="preserve">
     <value>İş saatleri e-posta desteği</value>
   </data>
@@ -93,6 +96,12 @@
   <data name="Fleet device policy management" xml:space="preserve">
     <value>Filoya cihaz politikası yönetimi</value>
   </data>
+  <data name="GitLab is a trademark of GitLab Inc. Aiursoft provides deployment, hosting, and integration services for GitLab — we are not affiliated with or endorsed by GitLab Inc. The GitLab Community Edition (CE) is MIT-licensed and can be deployed freely. The GitLab Enterprise Edition (EE) requires a separate license purchased from GitLab Inc. We can assist you with procuring the appropriate GitLab EE license, or you may choose to remove this item from your plan." xml:space="preserve">
+    <value>GitLab, GitLab Inc.&apos;in bir ticari markasıdır. Aiursoft, GitLab için dağıtım, barındırma ve entegrasyon hizmetleri sağlar — GitLab Inc. ile bağlantılı veya onaylı değiliz. GitLab Topluluk Sürümü (CE), MIT lisanslıdır ve serbestçe dağıtılabilir. GitLab Kurumsal Sürümü (EE) için GitLab Inc.&apos;den satın alınacak ayrı bir lisans gereklidir. Uygun GitLab EE lisansını temin etmeniz konusunda size yardımcı olabiliriz, ya da bu öğeyi planınızdan kaldırma seçeneğini de kullanabilirsiniz.</value>
+  </data>
+  <data name="Hacker" xml:space="preserve">
+    <value>Hacker</value>
+  </data>
   <data name="Hardware key enforcement" xml:space="preserve">
     <value>Donanım anahtar zorlaması</value>
   </data>
@@ -113,6 +122,9 @@
   </data>
   <data name="Local LLM API Gateway" xml:space="preserve">
     <value>Yerel LLM API Gateway</value>
+  </data>
+  <data name="Mailcow is open-source software (GPL-3.0). Aiursoft provides managed hosting, deployment, and integration services. Any custom modifications provided during your on-premise deployment are fully compliant with and distributed under the GPL-3.0 license." xml:space="preserve">
+    <value>Mailcow, açık kaynaklı bir yazılımdır (GPL-3.0). Aiursoft, yönetilen barındırma, dağıtım ve entegrasyon hizmetleri sunar. Yerel dağıtımınız sırasında sağlanan tüm özel değişiklikler, GPL-3.0 lisansı ile tam uyumludur ve bu lisans altında dağıtılır.</value>
   </data>
   <data name="Managed endpoint OS" xml:space="preserve">
     <value>Yönetilen uç nokta işletim sistemi</value>
@@ -135,6 +147,9 @@
   <data name="Multi-site &amp; HA capable" xml:space="preserve">
     <value>Çoklu site ve HA destekli</value>
   </data>
+  <data name="Nextcloud is a trademark of Nextcloud GmbH. Aiursoft is an independent integration provider. To ensure enterprise-grade stability and strict adherence to the AGPL-3.0 license, we deploy the official, unmodified Nextcloud releases and seamlessly connect your stack via standard APIs, OIDC/SAML, and official plugins." xml:space="preserve">
+    <value>Nextcloud, Nextcloud GmbH&apos;nin tescilli markasıdır. Aiursoft bağımsız bir entegrasyon sağlayıcısıdır. Kurumsal düzeyde kararlılık ve AGPL-3.0 lisansına sıkı uyum sağlamak için resmi, değiştirilmemiş Nextcloud sürümlerini dağıtır ve standart API&apos;ler, OIDC/SAML ile resmi eklentiler aracılığıyla teknoloji yığınınızı hatasız bir şekilde entegre ederiz.</value>
+  </data>
   <data name="Not included" xml:space="preserve">
     <value>İçermez</value>
   </data>
@@ -146,6 +161,9 @@
   </data>
   <data name="On-premise / Air-gapped Deployment" xml:space="preserve">
     <value>Yerinde / İzole Edilmiş Dağıtım</value>
+  </data>
+  <data name="On-premises APT Repository" xml:space="preserve">
+    <value>Yerel APT Deposu</value>
   </data>
   <data name="Online Code Execution" xml:space="preserve">
     <value>Çevrimiçi Kod Çalıştırma</value>
@@ -177,6 +195,9 @@
   <data name="Scale &amp; Support" xml:space="preserve">
     <value>Ölçeklendirme ve Destek</value>
   </data>
+  <data name="Self-hosted APT repository with .apkg publishing" xml:space="preserve">
+    <value>.apkg yayınıyla kendi barındırılan APT deposu</value>
+  </data>
   <data name="Self-hosted LLM inference gateway" xml:space="preserve">
     <value>Kendi kendine barındırılan LLM çıkarım geçidi</value>
   </data>
@@ -207,6 +228,9 @@
   <data name="Talk to an Architect" xml:space="preserve">
     <value>Bir Mimarla Konuşun</value>
   </data>
+  <data name="Team Blog" xml:space="preserve">
+    <value>Takım Blogu</value>
+  </data>
   <data name="Team Voting" xml:space="preserve">
     <value>Ekip Oylaması</value>
   </data>
@@ -221,6 +245,9 @@
   </data>
   <data name="What&apos;s Included" xml:space="preserve">
     <value>Neler Dahil</value>
+  </data>
+  <data name="Workspace Boards" xml:space="preserve">
+    <value>Çalışma Alanı Panoları</value>
   </data>
   <data name="Zero Trust Yubikey Auth" xml:space="preserve">
     <value>Sıfır Güvenlik Yubikey Kimlik Doğrulama</value>

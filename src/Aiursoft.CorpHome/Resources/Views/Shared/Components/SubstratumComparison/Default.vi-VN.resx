@@ -162,6 +162,9 @@
   <data name="On-premise / Air-gapped Deployment" xml:space="preserve">
     <value>Triển khai nội bộ / Triển khai cách ly</value>
   </data>
+  <data name="On-premises APT Repository" xml:space="preserve">
+    <value>Kho APT nội bộ</value>
+  </data>
   <data name="Online Code Execution" xml:space="preserve">
     <value>Thực thi mã trực tuyến</value>
   </data>

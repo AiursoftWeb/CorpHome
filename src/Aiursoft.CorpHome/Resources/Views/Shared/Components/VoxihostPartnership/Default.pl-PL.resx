@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="All Aiursoft servers are sourced from Voxihost. We help clients land on Voxihost infrastructure." xml:space="preserve">
+    <value>Wszystkie serwery Aiursoft pochodzą od Voxihost. Pomagamy klientom zapanować z infrastrukturą Voxihost.</value>
+  </data>
+  <data name="Complete Business Hosting" xml:space="preserve">
+    <value>Kompletny hosting biznesowy</value>
+  </data>
+  <data name="Deep Collaboration" xml:space="preserve">
+    <value>Głęboka współpraca</value>
+  </data>
+  <data name="Paving the Way for Your Business." xml:space="preserve">
+    <value>Wytyczanie drogi dla Twojego biznesu.</value>
+  </data>
+  <data name="Strategic Partner" xml:space="preserve">
+    <value>Strategiczny Partner</value>
+  </data>
+  <data name="Transparent &amp; Affordable" xml:space="preserve">
+    <value>Przejrzystość i przystępna cena</value>
+  </data>
+  <data name="Voxihost" xml:space="preserve">
+    <value>Voxihost</value>
+  </data>
+  <data name="Voxihost Cloud Infrastructure" xml:space="preserve">
+    <value>Infrastruktura chmurowa Voxihost</value>
+  </data>
+  <data name="Voxihost offers transparent, cost-effective cloud and generously sponsors Aiursoft&apos;s Open-source work." xml:space="preserve">
+    <value>Voxihost oferuje przezroczystą, opłacalną chmurę i hojnie sponsoruje pracę nad open source w Aiursoft.</value>
+  </data>
+  <data name="With reliable cloud infrastructure, your business can grow reliably alongside Aiursoft." xml:space="preserve">
+    <value>Dzięki niezawodnej infrastrukturze chmurowej Twoja firma może pewnie rozwijać się razem z Aiursoft.</value>
+  </data>
+  <data name="With Voxihost, Aiursoft helps enterprises host Email, authentication, cloud drives, employee portals, monitoring, and AI." xml:space="preserve">
+    <value>Dzięki Voxihost Aiursoft pomaga firmom hostować pocztę, uwierzytelnianie, dyski w chmurze, portale pracowników, monitorowanie i sztuczną inteligencję.</value>
+  </data>
+
+</root>

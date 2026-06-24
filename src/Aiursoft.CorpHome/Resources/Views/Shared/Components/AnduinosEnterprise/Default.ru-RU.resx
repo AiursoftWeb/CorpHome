@@ -60,6 +60,9 @@
   <data name="Meet industry compliance requirements with auditable configurations and enterprise-grade controls." xml:space="preserve">
     <value>Соответствуйте отраслевым требованиям к соответствию с помощью конфигураций, подлежащих аудиту, и средств защиты корпоративного уровня.</value>
   </data>
+  <data name="On-premises Package Repository" xml:space="preserve">
+    <value>Локальный репозиторий пакетов</value>
+  </data>
   <data name="Private Package Repository" xml:space="preserve">
     <value>Частный репозиторий пакетов</value>
   </data>

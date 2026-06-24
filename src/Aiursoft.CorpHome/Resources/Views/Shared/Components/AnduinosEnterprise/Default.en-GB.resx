@@ -60,6 +60,9 @@
   <data name="Meet industry compliance requirements with auditable configurations and enterprise-grade controls." xml:space="preserve">
     <value>Meet industry compliance requirements with auditable configurations and enterprise-grade controls.</value>
   </data>
+  <data name="On-premises Package Repository" xml:space="preserve">
+    <value>On-premises Package Repository</value>
+  </data>
   <data name="Private Package Repository" xml:space="preserve">
     <value>Private Package Repository</value>
   </data>

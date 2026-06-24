@@ -60,6 +60,9 @@
   <data name="Meet industry compliance requirements with auditable configurations and enterprise-grade controls." xml:space="preserve">
     <value>Voldoe aan branchevereisten voor naleving met controleerbare configuraties en beheersmaatregelen op ondernemingsniveau.</value>
   </data>
+  <data name="On-premises Package Repository" xml:space="preserve">
+    <value>Lokaal pakketarchief</value>
+  </data>
   <data name="Private Package Repository" xml:space="preserve">
     <value>Privat pakketrepository</value>
   </data>

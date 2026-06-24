@@ -57,8 +57,14 @@
   <data name="IT teams can monitor the health of all endpoints and perform basic remote management." xml:space="preserve">
     <value>Các nhóm IT có thể theo dõi tình trạng sức khỏe của tất cả các điểm cuối và thực hiện các tác vụ quản lý từ xa cơ bản.</value>
   </data>
+  <data name="Learn about AnduinOS Enterprise" xml:space="preserve">
+    <value>Tìm hiểu về AnduinOS Enterprise</value>
+  </data>
   <data name="Meet industry compliance requirements with auditable configurations and enterprise-grade controls." xml:space="preserve">
     <value>Đáp ứng các yêu cầu tuân thủ ngành với các cấu hình có thể kiểm toán và các kiểm soát ở mức doanh nghiệp.</value>
+  </data>
+  <data name="On-premises Package Repository" xml:space="preserve">
+    <value>Kho gói phần mềm tại chỗ</value>
   </data>
   <data name="Private Package Repository" xml:space="preserve">
     <value>Kho lưu trữ gói riêng tư</value>

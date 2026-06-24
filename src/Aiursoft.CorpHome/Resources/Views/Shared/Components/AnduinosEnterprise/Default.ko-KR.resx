@@ -57,8 +57,14 @@
   <data name="IT teams can monitor the health of all endpoints and perform basic remote management." xml:space="preserve">
     <value>IT 팀은 모든 엔드포인트의 상태를 모니터링하고 기본 원격 관리를 수행할 수 있습니다.</value>
   </data>
+  <data name="Learn about AnduinOS Enterprise" xml:space="preserve">
+    <value>AnduinOS Enterprise 자세히 알아보기</value>
+  </data>
   <data name="Meet industry compliance requirements with auditable configurations and enterprise-grade controls." xml:space="preserve">
     <value>산업 규정 준수 요구 사항을 감사 가능한 구성 및 엔터프라이즈급 컨트롤로 충족하세요.</value>
+  </data>
+  <data name="On-premises Package Repository" xml:space="preserve">
+    <value>온프레미스 패키지 저장소</value>
   </data>
   <data name="Private Package Repository" xml:space="preserve">
     <value>개인 패키지 저장소</value>

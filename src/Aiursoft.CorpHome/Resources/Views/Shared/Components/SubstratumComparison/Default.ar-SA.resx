@@ -36,6 +36,9 @@
   <data name="AnduinOS Enterprise (Desktop OS)" xml:space="preserve">
     <value>AnduinOS Enterprise (نظام تشغيل سطح المكتب)</value>
   </data>
+  <data name="Authentik uses an Open Core model. The Community Edition is licensed under the permissive MIT license, which allows commercial use, modification, and redistribution. We provide the Community Edition (MIT) as part of Substratum. The Enterprise Edition requires a separate commercial license from Authentik." xml:space="preserve">
+    <value>تستخدم Authentik نموذج Open Core. الإصدار المجتمعي مرخص بموجب رخصة MIT المرنة، والتي تتيح الاستخدام التجاري والتعديل وإعادة التوزيع. نقدم الإصدار المجتمعي (MIT) كجزء من Substratum. يتطلب الإصدار المؤسسي رخصة تجارية منفصلة من Authentik.</value>
+  </data>
   <data name="Business hours email support" xml:space="preserve">
     <value>دعم عبر البريد الإلكتروني خلال ساعات العمل</value>
   </data>
@@ -93,6 +96,12 @@
   <data name="Fleet device policy management" xml:space="preserve">
     <value>إدارة سياسات أجهزة الأسطول</value>
   </data>
+  <data name="GitLab is a trademark of GitLab Inc. Aiursoft provides deployment, hosting, and integration services for GitLab — we are not affiliated with or endorsed by GitLab Inc. The GitLab Community Edition (CE) is MIT-licensed and can be deployed freely. The GitLab Enterprise Edition (EE) requires a separate license purchased from GitLab Inc. We can assist you with procuring the appropriate GitLab EE license, or you may choose to remove this item from your plan." xml:space="preserve">
+    <value>GitLab علامة تجارية لشركة GitLab Inc. تقدم Aiursoft خدمات النشر والاستضافة والتكامل لـ GitLab - نحن غير تابعين ولا معتمدين من قبل GitLab Inc. النسخة المجتمعية من GitLab (CE) مرخصة بموجب MIT ويمكن نشرها بحرية. تتطلب النسخة المؤسسية من GitLab (EE) ترخيصًا منفصلًا يتم شراؤه من GitLab Inc. يمكننا مساعدتك في الحصول على الترخيص المناسب لـ GitLab EE، أو يمكنك اختيار إزالة هذا العنصر من خطتك.</value>
+  </data>
+  <data name="Hacker" xml:space="preserve">
+    <value>هاكر</value>
+  </data>
   <data name="Hardware key enforcement" xml:space="preserve">
     <value>إنفاذ مفتاح الأجهزة</value>
   </data>
@@ -113,6 +122,9 @@
   </data>
   <data name="Local LLM API Gateway" xml:space="preserve">
     <value>بوابة واجهة برمجة تطبيقات الذكاء الاصطناعي المحلي</value>
+  </data>
+  <data name="Mailcow is open-source software (GPL-3.0). Aiursoft provides managed hosting, deployment, and integration services. Any custom modifications provided during your on-premise deployment are fully compliant with and distributed under the GPL-3.0 license." xml:space="preserve">
+    <value>يعتبر برنامج Mailcow برنامجًا مفتوح المصدر (GPL-3.0). تقدم شركة Aiursoft خدمات الاستضافة المُدارة، والنشر، والتكامل. أي تعديلات مخصصة يتم توفيرها أثناء النشر على الخوادم الخاصة بك تكون متوافقة تمامًا مع الترخيص GPL-3.0 وموزعة بموجب هذا الترخيص.</value>
   </data>
   <data name="Managed endpoint OS" xml:space="preserve">
     <value>نظام تشغيل نقاط طرفية مُدار</value>
@@ -135,6 +147,9 @@
   <data name="Multi-site &amp; HA capable" xml:space="preserve">
     <value>قادر على تعدد المواقع والجاهزية العالية</value>
   </data>
+  <data name="Nextcloud is a trademark of Nextcloud GmbH. Aiursoft is an independent integration provider. To ensure enterprise-grade stability and strict adherence to the AGPL-3.0 license, we deploy the official, unmodified Nextcloud releases and seamlessly connect your stack via standard APIs, OIDC/SAML, and official plugins." xml:space="preserve">
+    <value>Nextcloud هو علامة تجارية مسجلة لشركة Nextcloud GmbH. Aiursoft هي مزود تكامل مستقل. لضمان استقرار على مستوى المؤسسات والالتزام التام برخصة AGPL-3.0، نقوم بنشر إصدارات Nextcloud الرسمية وغير المعدلة، ونقوم بربط بنيتك التحتية بسلاسة عبر واجهات برمجة التطبيقات (APIs) القياسية، وبروتوكولات OIDC/SAML، والإضافات الرسمية.</value>
+  </data>
   <data name="Not included" xml:space="preserve">
     <value>غير متضمن</value>
   </data>
@@ -146,6 +161,9 @@
   </data>
   <data name="On-premise / Air-gapped Deployment" xml:space="preserve">
     <value>نشر محلي / نشر معزول</value>
+  </data>
+  <data name="On-premises APT Repository" xml:space="preserve">
+    <value>مستودع APT محلي التثبيت</value>
   </data>
   <data name="Online Code Execution" xml:space="preserve">
     <value>تنفيذ الكود عبر الإنترنت</value>
@@ -177,6 +195,9 @@
   <data name="Scale &amp; Support" xml:space="preserve">
     <value>التوسع والدعم</value>
   </data>
+  <data name="Self-hosted APT repository with .apkg publishing" xml:space="preserve">
+    <value>مستودع APT مضاف ذاتياً مع نشر ملفات .apkg</value>
+  </data>
   <data name="Self-hosted LLM inference gateway" xml:space="preserve">
     <value>بوابة استنتاج نماذج لغوية كبيرة مستضافة ذاتيًا</value>
   </data>
@@ -207,6 +228,9 @@
   <data name="Talk to an Architect" xml:space="preserve">
     <value>تحدث إلى مهندس معماري</value>
   </data>
+  <data name="Team Blog" xml:space="preserve">
+    <value>مدونة الفريق</value>
+  </data>
   <data name="Team Voting" xml:space="preserve">
     <value>تصويت الفريق</value>
   </data>
@@ -221,6 +245,9 @@
   </data>
   <data name="What&apos;s Included" xml:space="preserve">
     <value>ما هو شامل</value>
+  </data>
+  <data name="Workspace Boards" xml:space="preserve">
+    <value>لوحات مساحة العمل</value>
   </data>
   <data name="Zero Trust Yubikey Auth" xml:space="preserve">
     <value>مصادقة Yubikey ذات الثقة الصفرية</value>

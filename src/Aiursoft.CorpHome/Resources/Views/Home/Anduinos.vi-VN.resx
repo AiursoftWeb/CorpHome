@@ -27,6 +27,9 @@
   <data name="Add to Management Cloud and go live" xml:space="preserve">
     <value>Thêm vào Management Cloud và bắt đầu sử dụng</value>
   </data>
+  <data name="Advanced" xml:space="preserve">
+    <value>Nâng cao</value>
+  </data>
   <data name="All the power of open-source, backed by enterprise-grade support, management tools, and customisation capabilities." xml:space="preserve">
     <value>Toàn bộ sức mạnh của mã nguồn mở, được hỗ trợ bởi dịch vụ hỗ trợ, công cụ quản lý và khả năng tùy chỉnh theo chuẩn doanh nghiệp.</value>
   </data>
@@ -69,6 +72,9 @@
   <data name="Apkg is a declarative APT repository platform that lets you host signed Debian repositories, mirror upstream archives, and publish your own .apkg packages — all fully on-premise. Integrates seamlessly with AnduinOS for painless apt update &amp;&amp; apt install workflows across your entire fleet." xml:space="preserve">
     <value>Apkg là một nền tảng kho lưu trữ APT khai báo cho phép bạn lưu trữ các kho Debian đã ký, nhân bản kho lưu trữ nguồn gốc và phát hành các gói .apkg riêng của bạn — tất cả đều chạy hoàn toàn nội bộ. Tích hợp liền mạch với AnduinOS cho quy trình apt update &amp;&amp; apt install suôn sẻ trên toàn bộ đội thiết bị của bạn.</value>
   </data>
+  <data name="Architecture" xml:space="preserve">
+    <value>Kiến trúc</value>
+  </data>
   <data name="Atomic Snapshots" xml:space="preserve">
     <value>Tức thì Chụp Ảnh</value>
   </data>
@@ -87,6 +93,9 @@
   <data name="Built for business. Air-gapped by design." xml:space="preserve">
     <value>Thiết kế dành cho doanh nghiệp. Cách ly mạng ngay từ bản thiết kế.</value>
   </data>
+  <data name="Built on a rock-solid foundation. Designed for the enterprise." xml:space="preserve">
+    <value>Xây dựng trên nền tảng vững chắc. Thiết kế dành cho doanh nghiệp.</value>
+  </data>
   <data name="Built on the same infrastructure that powers AnduinOS package delivery. Push updates to your entire fleet with a single command." xml:space="preserve">
     <value>Xây dựng trên cùng hạ tầng vận hành hệ phân phối gói phần mềm AnduinOS. Đẩy bản cập nhật lên toàn bộ hệ thống chỉ với một lệnh duy nhất.</value>
   </data>
@@ -96,11 +105,17 @@
   <data name="Community Site" xml:space="preserve">
     <value>Trang web Cộng đồng</value>
   </data>
+  <data name="Compatible with most x86 PCs manufactured in the last decade." xml:space="preserve">
+    <value>Tương thích với hầu hết các PC x86 được sản xuất trong thập kỷ qua.</value>
+  </data>
   <data name="Compliance-ready default configurations" xml:space="preserve">
     <value>Cấu hình mặc định sẵn sàng tuân thủ</value>
   </data>
   <data name="Contact Enterprise Sales" xml:space="preserve">
     <value>Liên hệ Bộ phận Bán hàng Doanh nghiệp</value>
+  </data>
+  <data name="Contact Sales" xml:space="preserve">
+    <value>Liên hệ Bán hàng</value>
   </data>
   <data name="Containerized" xml:space="preserve">
     <value>Đã chứa trong container</value>
@@ -123,6 +138,12 @@
   <data name="Declarative Packaging" xml:space="preserve">
     <value>Đóng gói khai báo</value>
   </data>
+  <data name="Default Browser" xml:space="preserve">
+    <value>Trình duyệt mặc định</value>
+  </data>
+  <data name="Default Filesystem" xml:space="preserve">
+    <value>Hệ thống tệp mặc định</value>
+  </data>
   <data name="Deploy AnduinOS with your Enterprise!" xml:space="preserve">
     <value>Triển khai AnduinOS cho Doanh nghiệp của bạn!</value>
   </data>
@@ -135,8 +156,17 @@
   <data name="Deployment" xml:space="preserve">
     <value>Triển khai</value>
   </data>
+  <data name="Desktop Environment" xml:space="preserve">
+    <value>Môi trường Desktop</value>
+  </data>
   <data name="digital signage and kiosk terminals" xml:space="preserve">
     <value>màn hình hiển thị kỹ thuật số và thiết bị đầu cuối kiosk</value>
+  </data>
+  <data name="Disk Space" xml:space="preserve">
+    <value>Dung lượng đĩa</value>
+  </data>
+  <data name="Display Server" xml:space="preserve">
+    <value>Máy chủ hiển thị</value>
   </data>
   <data name="Distribute your own software packages internally via standard apt protocol. Take control of your enterprise package ecosystem." xml:space="preserve">
     <value>Phát hành các gói phần mềm nội bộ của bạn qua giao thức apt tiêu chuẩn. Làm chủ hệ sinh thái gói phần mềm doanh nghiệp của bạn.</value>
@@ -153,11 +183,20 @@
   <data name="Ecological perfection" xml:space="preserve">
     <value>Hệ sinh thái hoàn thiện</value>
   </data>
+  <data name="End of Support" xml:space="preserve">
+    <value>Hết hạn hỗ trợ</value>
+  </data>
   <data name="Enroll" xml:space="preserve">
     <value>Đăng ký</value>
   </data>
+  <data name="Enterprise" xml:space="preserve">
+    <value>Doanh nghiệp</value>
+  </data>
   <data name="Enterprise Services" xml:space="preserve">
     <value>Dịch vụ Doanh nghiệp</value>
+  </data>
+  <data name="Enterprise-grade" xml:space="preserve">
+    <value>Cấp độ doanh nghiệp</value>
   </data>
   <data name="Enterprise-grade management for your fleet" xml:space="preserve">
     <value>Quản lý cấp doanh nghiệp cho đội thiết bị của bạn</value>
@@ -168,11 +207,20 @@
   <data name="Explore StatHub" xml:space="preserve">
     <value>Khám phá StatHub</value>
   </data>
+  <data name="Familiar UX" xml:space="preserve">
+    <value>Giao diện quen thuộc</value>
+  </data>
+  <data name="Firmware" xml:space="preserve">
+    <value>Phần mềm điều khiển</value>
+  </data>
   <data name="Flash" xml:space="preserve">
     <value>Ghi ảnh</value>
   </data>
   <data name="Free" xml:space="preserve">
     <value>Miễn phí</value>
+  </data>
+  <data name="Free Software" xml:space="preserve">
+    <value>Phần mềm tự do</value>
   </data>
   <data name="Friendly interface" xml:space="preserve">
     <value>Giao diện thân thiện</value>
@@ -192,6 +240,15 @@
   <data name="Graphical applications are installed via Flatpak, and keep themselves separate from the base system. They also allow for fine-grained control over their permissions." xml:space="preserve">
     <value>Các ứng dụng đồ họa được cài đặt qua Flatpak và duy trì sự tách biệt khỏi hệ thống cơ bản. Chúng cũng cho phép kiểm soát chi tiết các quyền truy cập.</value>
   </data>
+  <data name="HDR Support" xml:space="preserve">
+    <value>Hỗ trợ HDR</value>
+  </data>
+  <data name="Image Size" xml:space="preserve">
+    <value>Kích thước镜像</value>
+  </data>
+  <data name="Init System" xml:space="preserve">
+    <value>Hệ thống khởi tạo</value>
+  </data>
   <data name="Internal package distribution via apt" xml:space="preserve">
     <value>Phân phối gói phần mềm nội bộ qua apt</value>
   </data>
@@ -204,6 +261,12 @@
   <data name="Lightweight Agents" xml:space="preserve">
     <value>Tác nhân Nhẹ</value>
   </data>
+  <data name="Linux Kernel" xml:space="preserve">
+    <value>Nhân Linux</value>
+  </data>
+  <data name="Live Boot" xml:space="preserve">
+    <value>Khởi động trực tiếp</value>
+  </data>
   <data name="Locked-down &amp; tamper-proof" xml:space="preserve">
     <value>Được khóa chặt &amp; chống can thiệp</value>
   </data>
@@ -212,6 +275,12 @@
   </data>
   <data name="Low-overhead agents collect metrics without impacting your AnduinOS devices&apos; performance. Deploy in seconds with Docker." xml:space="preserve">
     <value>Các tác nhân nhẹ nhàng thu thập các chỉ số mà không ảnh hưởng đến hiệu suất của thiết bị AnduinOS của bạn. Triển khai trong vài giây với Docker.</value>
+  </data>
+  <data name="LTS Support" xml:space="preserve">
+    <value>Hỗ trợ LTS</value>
+  </data>
+  <data name="management for your fleet" xml:space="preserve">
+    <value>quản lý cho đội thiết bị của bạn</value>
   </data>
   <data name="Minimal maintenance. Maximum stability." xml:space="preserve">
     <value>Bảo trì tối thiểu. Ổn định tối đa.</value>
@@ -228,26 +297,53 @@
   <data name="Multi-Node" xml:space="preserve">
     <value>Đa Nút</value>
   </data>
+  <data name="NVIDIA Graphics Support" xml:space="preserve">
+    <value>Hỗ trợ đồ họa NVIDIA</value>
+  </data>
   <data name="Offline repository mirrors for air-gapped networks" xml:space="preserve">
     <value>Gương kho lưu trữ ngoại tuyến cho mạng cách ly vật lý</value>
+  </data>
+  <data name="On-premises Apkg" xml:space="preserve">
+    <value>Apkg cục bộ</value>
   </data>
   <data name="Open Source" xml:space="preserve">
     <value>Mã nguồn mở</value>
   </data>
+  <data name="or" xml:space="preserve">
+    <value>hoặc</value>
+  </data>
   <data name="Package Distribution" xml:space="preserve">
     <value>Phân phối Gói phần mềm</value>
+  </data>
+  <data name="Package Format" xml:space="preserve">
+    <value>Định dạng gói</value>
+  </data>
+  <data name="Package Manager" xml:space="preserve">
+    <value>Trình quản lý gói</value>
   </data>
   <data name="Performance" xml:space="preserve">
     <value>Hiệu suất</value>
   </data>
+  <data name="Ports" xml:space="preserve">
+    <value>Cổng kết nối</value>
+  </data>
   <data name="Pre-install company software packages" xml:space="preserve">
     <value>Cài đặt sẵn phần mềm của công ty</value>
+  </data>
+  <data name="Pricing" xml:space="preserve">
+    <value>Bảng giá</value>
   </data>
   <data name="Privacy is no longer optional. It&apos;s essential. AnduinOS is designed to gather nothing from you. We don&apos;t track you. We don&apos;t profile you. We don&apos;t target you. You remain anonymous to the system." xml:space="preserve">
     <value>Quyền riêng tư không còn là tùy chọn. Nó là điều thiết yếu. AnduinOS được thiết kế để không thu thập bất kỳ thông tin nào từ bạn. Chúng tôi không theo dõi bạn. Chúng tôi không phân tích hồ sơ bạn. Chúng tôi không nhắm mục tiêu bạn. Bạn vẫn giữ tính ẩn danh với hệ thống.</value>
   </data>
   <data name="Private Apkg" xml:space="preserve">
     <value>Apkg riêng</value>
+  </data>
+  <data name="Processor" xml:space="preserve">
+    <value>Bộ xử lý</value>
+  </data>
+  <data name="RAM" xml:space="preserve">
+    <value>RAM</value>
   </data>
   <data name="Ready to use" xml:space="preserve">
     <value>Sẵn sàng sử dụng</value>
@@ -260,6 +356,9 @@
   </data>
   <data name="Reasons" xml:space="preserve">
     <value>Lý do</value>
+  </data>
+  <data name="Release Date" xml:space="preserve">
+    <value>Ngày phát hành</value>
   </data>
   <data name="Remote configuration and policy enforcement" xml:space="preserve">
     <value>Cấu hình từ xa và thực thi chính sách</value>
@@ -285,11 +384,17 @@
   <data name="Runs smoothly on older devices. Extends hardware lifespan by being resource-efficient, so you don&apos;t need to buy new machines." xml:space="preserve">
     <value>Hoạt động mượt mà trên các thiết bị cũ. Kéo dài tuổi thọ phần cứng nhờ khả năng tối ưu tài nguyên, giúp bạn không cần mua máy mới.</value>
   </data>
+  <data name="Screen" xml:space="preserve">
+    <value>Màn hình</value>
+  </data>
   <data name="Seamless AnduinOS Integration" xml:space="preserve">
     <value>Tích hợp liền mạch với AnduinOS</value>
   </data>
   <data name="Secure" xml:space="preserve">
     <value>Bảo mật</value>
+  </data>
+  <data name="Secure Boot" xml:space="preserve">
+    <value>Khởi động an toàn</value>
   </data>
   <data name="Set up your system in under 5 minutes" xml:space="preserve">
     <value>Cài đặt hệ thống của bạn trong vòng chưa đầy 5 phút</value>
@@ -309,6 +414,9 @@
   <data name="Speedy Makeover" xml:space="preserve">
     <value>Lột xác nhanh chóng</value>
   </data>
+  <data name="Stable &amp; Modern" xml:space="preserve">
+    <value>Ổn định &amp; Hiện đại</value>
+  </data>
   <data name="StatHub Dashboard Screenshot" xml:space="preserve">
     <value>Ảnh chụp màn hình Bảng điều khiển StatHub</value>
   </data>
@@ -318,8 +426,14 @@
   <data name="Sync, sign, and promote atomically via rename(2). APT clients never see half-written metadata — only consistent, signed snapshots." xml:space="preserve">
     <value>Đồng bộ, ký và nâng cấp nguyên tử qua rename(2). Khách hàng APT không bao giờ nhìn thấy siêu dữ liệu chưa hoàn thành - chỉ có các bản chụp nhất quán, đã ký.</value>
   </data>
+  <data name="System Requirements" xml:space="preserve">
+    <value>Yêu cầu hệ thống</value>
+  </data>
   <data name="System updates apply automatically when you restart. Zero maintenance windows — just reboot, and you&apos;re on the latest version." xml:space="preserve">
     <value>Các bản cập nhật hệ thống được áp dụng tự động khi bạn khởi động lại. Không cần khoảng thời gian bảo trì — chỉ cần khởi động lại và bạn đã có phiên bản mới nhất.</value>
+  </data>
+  <data name="Technical Specifications" xml:space="preserve">
+    <value>Thông số kỹ thuật</value>
   </data>
   <data name="The GNOME-based desktop environment has beautiful interfaces and human-computer interactions that fit user habits, allowing you to quickly get started with AnduinOS without too much learning cost." xml:space="preserve">
     <value>Môi trường máy tính để bàn dựa trên GNOME có giao diện đẹp mắt và tương tác người-máy phù hợp với thói quen người dùng, giúp bạn nhanh chóng làm quen với AnduinOS mà không cần tốn nhiều công sức học hỏi.</value>
@@ -330,6 +444,9 @@
   <data name="The ISO is just 2.4GB in size. Similar to Ubuntu, it is simple to install and can meet your daily needs without additional configuration or complicated operations." xml:space="preserve">
     <value>File ISO chỉ nặng 2,4GB. Giống như Ubuntu, hệ điều hành này dễ dàng cài đặt và có thể đáp ứng nhu cầu hàng ngày của bạn mà không cần cấu hình thêm hay thực hiện các thao tác phức tạp.</value>
   </data>
+  <data name="The operating system your enterprise needs — familiar, beautiful, stable, mature, and easy to manage. AnduinOS Enterprise is built on Linux 7.0, GNOME 50, and Ubuntu 26.04, keeping your team in a comfortable, productive environment." xml:space="preserve">
+    <value>Hệ điều hành mà doanh nghiệp của bạn cần — quen thuộc, đẹp mắt, ổn định, trưởng thành và dễ quản lý. AnduinOS Enterprise được xây dựng dựa trên nền tảng Linux 7.0, GNOME 50 và Ubuntu 26.04, giúp đội ngũ của bạn làm việc trong môi trường thoải mái, năng suất.</value>
+  </data>
   <data name="Tired of your sluggish OS slowing you down? Switch to AnduinOS for instant speed and seamless performance." xml:space="preserve">
     <value>Đã chán hệ điều hành cồng kềnh làm giảm tốc độ của bạn? Chuyển sang AnduinOS để trải nghiệm tốc độ tức thì và hiệu suất mượt mà.</value>
   </data>
@@ -339,6 +456,12 @@
   <data name="Turn any screen into a kiosk" xml:space="preserve">
     <value>Biến bất kỳ màn hình nào thành kios</value>
   </data>
+  <data name="Ubuntu Base" xml:space="preserve">
+    <value>Dựa trên Ubuntu</value>
+  </data>
+  <data name="UI Toolkit" xml:space="preserve">
+    <value>Bộ công cụ giao diện người dùng</value>
+  </data>
   <data name="Update content, push configurations, and monitor device health — all from the cloud. No need for on-site visits." xml:space="preserve">
     <value>Cập nhật nội dung, triển khai cấu hình và theo dõi tình trạng thiết bị — tất cả đều qua đám mây. Không cần phải đến hiện trường.</value>
   </data>
@@ -347,6 +470,9 @@
   </data>
   <data name="Visit Community Site" xml:space="preserve">
     <value>Thăm Trang Cộng đồng</value>
+  </data>
+  <data name="Wayland Ready" xml:space="preserve">
+    <value>Sẵn sàng Wayland</value>
   </data>
   <data name="Why choose AnduinOS?" xml:space="preserve">
     <value>Tại sao chọn AnduinOS?</value>
@@ -359,6 +485,9 @@
   </data>
   <data name="with StatHub" xml:space="preserve">
     <value>với StatHub</value>
+  </data>
+  <data name="Without Snap" xml:space="preserve">
+    <value>Không sử dụng Snap</value>
   </data>
   <data name="Write the image to a USB drive" xml:space="preserve">
     <value>Đặt hình ảnh vào một ổ USB</value>

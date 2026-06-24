@@ -233,8 +233,8 @@
                         <div class="icon-box-lg bg-primary-subtle text-primary rounded-circle mx-auto mb-4">
                             <i data-lucide="timer" style="width: 2rem; height: 2rem;"></i>
                         </div>
-                        <h3 class="fw-bold mb-2">@Localizer["10-Second Boot"]</h3>
-                        <p class="text-muted mb-0">@Localizer["AnduinOS wakes up almost as fast as you can blink. Wait time? What's that? Lightning-fast start-up on any hardware."]</p>
+                        <h3 class="fw-bold mb-2">@Localizer["Stable & Modern"]</h3>
+                        <p class="text-muted mb-0">@Localizer["The operating system your enterprise needs — familiar, beautiful, stable, mature, and easy to manage. AnduinOS Enterprise is built on Linux 7.0, GNOME 50, and Ubuntu 26.04, keeping your team in a comfortable, productive environment."]</p>
                     </div>
                 </div>
             </div>
@@ -268,7 +268,108 @@
 </section>
 
 @* ═══════════════════════════════════════════════════════════════════════════════
-   SECTION 7: Enterprise Services
+   SECTION 7: AnduinOS Enterprise — Specifications
+   ═══════════════════════════════════════════════════════════════════════════════ *@
+<section class="position-relative py-6 overflow-hidden" style="background-color: #0b0d14;">
+    @* Cyber Grid Background *@
+    <svg class="position-absolute top-0 start-0 w-100 h-100 opacity-10" viewBox="0 0 800 600" preserveAspectRatio="xMidYMid slice" xmlns="http://www.w3.org/2000/svg" style="pointer-events: none; z-index: 0;">
+        <g stroke="#0ea5e9" stroke-width="0.5" opacity="0.3">
+            <path d="M 0 100 L 800 100 M 0 200 L 800 200 M 0 300 L 800 300 M 0 400 L 800 400 M 0 500 L 800 500" />
+            <path d="M 100 0 L 100 600 M 200 0 L 200 600 M 300 0 L 300 600 M 400 0 L 400 600 M 500 0 L 500 600 M 600 0 L 600 600 M 700 0 L 700 600" />
+        </g>
+    </svg>
+
+    <div class="container position-relative z-2">
+        <div class="text-center mb-5">
+            <h2 class="display-4 fw-bold text-white"><span class="text-primary">AnduinOS</span> @Localizer["Enterprise"]</h2>
+            <p class="lead text-gray-400">@Localizer["Built on a rock-solid foundation. Designed for the enterprise."]</p>
+        </div>
+
+        @* Feature Badges *@
+        <div class="d-flex flex-wrap justify-content-center gap-2 mb-5">
+            <span class="badge bg-dark-glass border-white-10 text-gray-300 px-3 py-2 rounded-pill">@Localizer["Familiar UX"]</span>
+            <span class="badge bg-dark-glass border-white-10 text-gray-300 px-3 py-2 rounded-pill">2.5 GB</span>
+            <span class="badge bg-dark-glass border-white-10 text-gray-300 px-3 py-2 rounded-pill">@Localizer["Live Boot"]</span>
+            <span class="badge bg-dark-glass border-white-10 text-gray-300 px-3 py-2 rounded-pill">@Localizer["LTS Support"]</span>
+            <span class="badge bg-dark-glass border-white-10 text-gray-300 px-3 py-2 rounded-pill">@Localizer["Without Snap"]</span>
+            <span class="badge bg-dark-glass border-white-10 text-gray-300 px-3 py-2 rounded-pill">@Localizer["Free Software"]</span>
+            <span class="badge bg-dark-glass border-white-10 text-gray-300 px-3 py-2 rounded-pill">@Localizer["NVIDIA Graphics Support"]</span>
+            <span class="badge bg-dark-glass border-white-10 text-gray-300 px-3 py-2 rounded-pill">@Localizer["Secure Boot"]</span>
+            <span class="badge bg-dark-glass border-white-10 text-gray-300 px-3 py-2 rounded-pill">@Localizer["Ubuntu Base"]</span>
+            <span class="badge bg-dark-glass border-white-10 text-gray-300 px-3 py-2 rounded-pill">@Localizer["Wayland Ready"]</span>
+            <span class="badge bg-dark-glass border-white-10 text-gray-300 px-3 py-2 rounded-pill">@Localizer["HDR Support"]</span>
+        </div>
+
+        <div class="row g-4">
+            @* Left: Tech Specs *@
+            <div class="col-lg-6">
+                <div class="card bg-dark-glass border-white-10 h-100">
+                    <div class="card-header bg-transparent border-white-10 pt-4">
+                        <h4 class="mb-0 text-white">@Localizer["Technical Specifications"]</h4>
+                    </div>
+                    <div class="card-body pt-0">
+                        <table class="table table-borderless mb-0">
+                            <tbody>
+                                <tr><td class="text-gray-500 ps-0" style="width: 40%;">@Localizer["Release Date"]</td><td class="text-white fw-semibold pe-0">2026-06-30</td></tr>
+                                <tr><td class="text-gray-500 ps-0">@Localizer["End of Support"]</td><td class="text-white fw-semibold pe-0">April 2041</td></tr>
+                                <tr><td class="text-gray-500 ps-0">@Localizer["Pricing"]</td><td class="fw-semibold pe-0"><a asp-controller="Home" asp-action="Contact" class="text-primary">@Localizer["Contact Sales"]</a></td></tr>
+                                <tr><td class="text-gray-500 ps-0">@Localizer["Image Size"]</td><td class="text-white fw-semibold pe-0">2.5 GB</td></tr>
+                                <tr><td class="text-gray-500 ps-0">@Localizer["Linux Kernel"]</td><td class="text-white fw-semibold pe-0">7.0.0</td></tr>
+                                <tr><td class="text-gray-500 ps-0">@Localizer["Desktop Environment"]</td><td class="text-white fw-semibold pe-0">GNOME 52</td></tr>
+                                <tr><td class="text-gray-500 ps-0">@Localizer["Display Server"]</td><td class="text-white fw-semibold pe-0">Wayland</td></tr>
+                            </tbody>
+                        </table>
+                        @* Collapsible Advanced Specs *@
+                        <div class="collapse" id="advancedSpecs">
+                            <table class="table table-borderless mb-0">
+                                <tbody>
+                                    <tr><td class="text-gray-500 ps-0" style="width: 40%;">@Localizer["UI Toolkit"]</td><td class="text-white fw-semibold pe-0">GTK4</td></tr>
+                                    <tr><td class="text-gray-500 ps-0">@Localizer["Package Manager"]</td><td class="text-white fw-semibold pe-0">apt</td></tr>
+                                    <tr><td class="text-gray-500 ps-0">@Localizer["Package Format"]</td><td class="text-white fw-semibold pe-0">deb + Flatpak</td></tr>
+                                    <tr><td class="text-gray-500 ps-0">@Localizer["Architecture"]</td><td class="text-white fw-semibold pe-0">x86_64</td></tr>
+                                    <tr><td class="text-gray-500 ps-0">@Localizer["Init System"]</td><td class="text-white fw-semibold pe-0">systemd</td></tr>
+                                    <tr><td class="text-gray-500 ps-0">@Localizer["Default Filesystem"]</td><td class="text-white fw-semibold pe-0">ext4</td></tr>
+                                    <tr><td class="text-gray-500 ps-0">@Localizer["Default Browser"]</td><td class="text-white fw-semibold pe-0">Firefox</td></tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        <button class="btn btn-sm btn-outline-light rounded-pill mt-2" type="button" data-bs-toggle="collapse" data-bs-target="#advancedSpecs" aria-expanded="false">
+                            <i data-lucide="chevron-down" class="me-1" style="width: 14px; height: 14px;"></i>@Localizer["Advanced"]
+                        </button>
+                    </div>
+                </div>
+            </div>
+            @* Right: System Requirements *@
+            <div class="col-lg-6">
+                <div class="card bg-dark-glass border-white-10 h-100">
+                    <div class="card-header bg-transparent border-white-10 pt-4">
+                        <h4 class="mb-0 text-white">@Localizer["System Requirements"]</h4>
+                    </div>
+                    <div class="card-body pt-0">
+                        <table class="table table-borderless mb-0">
+                            <tbody>
+                                <tr><td class="text-gray-500 ps-0" style="width: 40%;">@Localizer["Architecture"]</td><td class="text-white fw-semibold pe-0">x86_64</td></tr>
+                                <tr><td class="text-gray-500 ps-0">@Localizer["Firmware"]</td><td class="text-white fw-semibold pe-0">UEFI @Localizer["or"] BIOS</td></tr>
+                                <tr><td class="text-gray-500 ps-0">@Localizer["Processor"]</td><td class="text-white fw-semibold pe-0">2 GHz</td></tr>
+                                <tr><td class="text-gray-500 ps-0">@Localizer["RAM"]</td><td class="text-white fw-semibold pe-0">4 GB</td></tr>
+                                <tr><td class="text-gray-500 ps-0">@Localizer["Disk Space"]</td><td class="text-white fw-semibold pe-0">20 GB</td></tr>
+                                <tr><td class="text-gray-500 ps-0">@Localizer["Screen"]</td><td class="text-white fw-semibold pe-0">1024 × 768</td></tr>
+                                <tr><td class="text-gray-500 ps-0">@Localizer["Ports"]</td><td class="text-white fw-semibold pe-0">USB @Localizer["or"] DVD</td></tr>
+                            </tbody>
+                        </table>
+                        <div class="mt-3 p-3 bg-dark-glass rounded-3 text-center text-gray-400 small border-white-10 border">
+                            <i data-lucide="info" class="me-1" style="width: 14px; height: 14px;"></i>
+                            @Localizer["Compatible with most x86 PCs manufactured in the last decade."]
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+@* ═══════════════════════════════════════════════════════════════════════════════
+   SECTION 8: Enterprise Services
    ═══════════════════════════════════════════════════════════════════════════════ *@
 <section class="position-relative py-6 overflow-hidden" style="background-color: #0b0d14;">
     @* Cyberpunk Grid Background *@
@@ -296,7 +397,7 @@
                 <span class="text-primary me-2"><i data-lucide="cog"></i></span>
                 <span class="text-gray-300 small fw-medium text-uppercase tracking-wider">@Localizer["Enterprise Services"]</span>
             </div>
-            <h2 class="display-4 fw-bold text-white mb-3">@Localizer["Enterprise-grade management for your fleet"]</h2>
+            <h2 class="display-4 fw-bold text-white mb-3"><span class="text-primary">@Localizer["Enterprise-grade"]</span> @Localizer["management for your fleet"]</h2>
             <p class="lead text-gray-400">@Localizer["Control, customize, and secure thousands of devices with enterprise tools built for scale."]</p>
         </div>
         <div class="row g-4">
@@ -356,7 +457,7 @@
 </section>
 
 @* ═══════════════════════════════════════════════════════════════════════════════
-   SECTION 8: Apkg — Declarative Enterprise Package Distribution
+   SECTION 9: Apkg — Declarative Enterprise Package Distribution
    ═══════════════════════════════════════════════════════════════════════════════ *@
 <section class="immersive-section position-relative w-100 overflow-hidden d-flex align-items-center border-top border-white-10">
     <div class="immersive-bg">
@@ -441,7 +542,7 @@
 </section>
 
 @* ═══════════════════════════════════════════════════════════════════════════════
-   SECTION 9: StatHub — Batch Monitor Your AnduinOS Fleet
+   SECTION 10: StatHub — Batch Monitor Your AnduinOS Fleet
    ═══════════════════════════════════════════════════════════════════════════════ *@
 <section class="immersive-section position-relative w-100 overflow-hidden d-flex align-items-center border-top border-white-10">
     <div class="immersive-bg-right">
@@ -526,7 +627,7 @@
 </section>
 
 @* ═══════════════════════════════════════════════════════════════════════════════
-   SECTION 10: 5-Minute Setup
+   SECTION 11: 5-Minute Setup
    ═══════════════════════════════════════════════════════════════════════════════ *@
 <section class="py-6 bg-white">
     <div class="container">
@@ -581,7 +682,7 @@
 </section>
 
 @* ═══════════════════════════════════════════════════════════════════════════════
-   SECTION 11: Stability Guarantee
+   SECTION 12: Stability Guarantee
    ═══════════════════════════════════════════════════════════════════════════════ *@
 <section class="py-6" style="background: linear-gradient(135deg, #161a27 0%, #0b0d14 100%);">
     <div class="container text-center">

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="About Aiursoft" xml:space="preserve">
+    <value>Over Aiursoft</value>
+  </data>
+  <data name="Address" xml:space="preserve">
+    <value>Adres</value>
+  </data>
+  <data name="Aiursoft is built to last a century. We are just getting started. Every decision we make serves a blueprint measured in decades, not quarters. We resist the urge to chase short-term hype or fleeting trends. Our choices are deliberate, steady, and patient — because the work that truly matters takes time, and we intend to be here for all of it." xml:space="preserve">
+    <value>Aiursoft is gebouwd om een eeuw te overleven. We zijn nog maar net begonnen. Elke beslissing die we nemen, sluit aan bij een blauwdruk die is gemeten in decennia, niet in kwartalen. We verzetten ons tegen de drang om te jagen op korte-termijn hype of vluchtige trends. Onze keuzes zijn doordacht, steady en geduldig – omdat het werk dat er écht toe doet tijd kost, en we van plan zijn erheen te zijn voor het hele parcours.</value>
+  </data>
+  <data name="Aiursoft is dedicated to bringing the spirit of open-source and free software to every enterprise and individual." xml:space="preserve">
+    <value>Aiursoft is toegewijd aan het brengen van de geest van open-source- en vrij software naar elk bedrijf en individu.</value>
+  </data>
+  <data name="Aiursoft&apos;s story is closely linked to the communities that shape us, including the global community of open source contributors and enthusiasts who are part of our team. Since 2025, we have built an operating system called AnduinOS — designed to be clean, simple, and accessible to everyone." xml:space="preserve">
+    <value>Het verhaal van Aiursoft is nauw verbonden met de gemeenschappen die ons vormgeven, waaronder de wereldwijde gemeenschap van open-source bijdragers en enthousiastelingen die deel uitmaken van ons team. Sinds 2025 hebben we een besturingssysteem gebouwd genaamd AnduinOS – ontworpen om schoon, simpel en toegankelijk te zijn voor iedereen.</value>
+  </data>
+  <data name="Chapter 1" xml:space="preserve">
+    <value>Hoofdstuk 1</value>
+  </data>
+  <data name="Contact" xml:space="preserve">
+    <value>Contact</value>
+  </data>
+  <data name="Contact us" xml:space="preserve">
+    <value>Neem contact met ons op</value>
+  </data>
+  <data name="Director" xml:space="preserve">
+    <value>Directeur</value>
+  </data>
+  <data name="Entity Code" xml:space="preserve">
+    <value>Entiteitscode</value>
+  </data>
+  <data name="Follow us" xml:space="preserve">
+    <value>Volg ons</value>
+  </data>
+  <data name="For every team member, personal growth comes first — above profit, above deadlines. We design work so that it is accessible without deep prior familiarity: the best learning happens through hands-on exploration, not prerequisites. We value playfulness and genuine curiosity — the kind that makes you lose track of time. When our people grow, the company grows as a natural consequence, not the other way around." xml:space="preserve">
+    <value>Voor elk teamlid gaat persoonlijke groei voorop — boven winst, boven deadlines. Wij ontwerpen werk zodanig dat het toegankelijk is zonder uitgebreide voorkennis: het beste leren vindt plaats door praktische verkenning, niet door voorafgaande eisen. Wij waarderen speelsheid en oprechte nieuwsgierigheid — de soort die je de tijd doet vergeten. Wanneer onze mensen groeien, groeit het bedrijf als een natuurlijk gevolg, niet andersom.</value>
+  </data>
+  <data name="Freedom" xml:space="preserve">
+    <value>Vrijheid</value>
+  </data>
+  <data name="Growth" xml:space="preserve">
+    <value>Groei</value>
+  </data>
+  <data name="Headquarters — Hong Kong" xml:space="preserve">
+    <value>Hoofdkantoor — Hong Kong</value>
+  </data>
+  <data name="Legal Representative" xml:space="preserve">
+    <value>Wettelijk Vertegenwoordiger</value>
+  </data>
+  <data name="Long-term" xml:space="preserve">
+    <value>Langetermijn</value>
+  </data>
+  <data name="Our Culture" xml:space="preserve">
+    <value>Onze cultuur</value>
+  </data>
+  <data name="Registered Address" xml:space="preserve">
+    <value>Geregistreerd adres</value>
+  </data>
+  <data name="Tel" xml:space="preserve">
+    <value>Tel.</value>
+  </data>
+  <data name="We open-source everything we build. We reject vendor lock-in and ecosystem entrapment. We respect open standards, champion offline-first operation, and believe every right to the code belongs to the customer and the device owner. We build nothing that stands between software users and their freedom to tinker — no barriers, no gatekeeping, no artificial constraints on what a hacker or user can do with the tools we create." xml:space="preserve">
+    <value>We maken alles open source wat we bouwen. Wij verwerpen vendor lock-in en ecosysteemvalkuilen. Wij respecteren open standaarden, beloven offline-first operatie, en geloven dat elk recht over de code bij de klant en de eigenaar van het apparaat hoort. Wij bouwen niets wat tussen softwaregebruikers en hun vrijheid om te experimenteren staat — geen barrières, geen poortwachters, geen kunstmatige beperkingen op wat een hacker of gebruiker kan doen met de tools die we creëren.</value>
+  </data>
+  <data name="Where to find us" xml:space="preserve">
+    <value>Waar te vinden</value>
+  </data>
+
+</root>

@@ -60,6 +60,9 @@
   <data name="Meet industry compliance requirements with auditable configurations and enterprise-grade controls." xml:space="preserve">
     <value>استوفِ متطلبات الامتثال الصناعية عبر تكوينات قابلة للتدقيق وضوابط من طراز المؤسسات.</value>
   </data>
+  <data name="On-premises Package Repository" xml:space="preserve">
+    <value>مستودع الحزم المحلي</value>
+  </data>
   <data name="Private Package Repository" xml:space="preserve">
     <value>مستودع الحزم الخاص</value>
   </data>

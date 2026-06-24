@@ -162,6 +162,9 @@
   <data name="On-premise / Air-gapped Deployment" xml:space="preserve">
     <value>オンプレミス / エアギャップデプロイメント</value>
   </data>
+  <data name="On-premises APT Repository" xml:space="preserve">
+    <value>オンプレミス APT リポジトリ</value>
+  </data>
   <data name="Online Code Execution" xml:space="preserve">
     <value>オンラインコード実行</value>
   </data>

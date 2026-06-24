@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="All Aiursoft servers are sourced from Voxihost. We help clients land on Voxihost infrastructure." xml:space="preserve">
+    <value>Alle Aiursoft-servers worden geleverd door Voxihost. Wij helpen klanten hun weg te vinden naar de infrastructuur van Voxihost.</value>
+  </data>
+  <data name="Complete Business Hosting" xml:space="preserve">
+    <value>Compleet Zakelijk Hosten</value>
+  </data>
+  <data name="Deep Collaboration" xml:space="preserve">
+    <value>Diepe Samenwerking</value>
+  </data>
+  <data name="Paving the Way for Your Business." xml:space="preserve">
+    <value>De weg banend voor uw bedrijf.</value>
+  </data>
+  <data name="Strategic Partner" xml:space="preserve">
+    <value>Strategische partner</value>
+  </data>
+  <data name="Transparent &amp; Affordable" xml:space="preserve">
+    <value>Transparant &amp; Betaalbaar</value>
+  </data>
+  <data name="Voxihost" xml:space="preserve">
+    <value>Voxihost</value>
+  </data>
+  <data name="Voxihost Cloud Infrastructure" xml:space="preserve">
+    <value>Voxihost cloudinfrastructuur</value>
+  </data>
+  <data name="Voxihost offers transparent, cost-effective cloud and generously sponsors Aiursoft&apos;s Open-source work." xml:space="preserve">
+    <value>Voxihost biedt transparante, kostenefficiënte cloudoplossingen en sponsordeert genereus het Open-source-werk van Aiursoft.</value>
+  </data>
+  <data name="With reliable cloud infrastructure, your business can grow reliably alongside Aiursoft." xml:space="preserve">
+    <value>Met betrouwbare cloudinfrastructuur kan uw bedrijf samen met Aiursoft groeien.</value>
+  </data>
+  <data name="With Voxihost, Aiursoft helps enterprises host Email, authentication, cloud drives, employee portals, monitoring, and AI." xml:space="preserve">
+    <value>Met Voxihost helpt Aiursoft bedrijven bij het hosten van e-mail, authenticatie, cloudopslag, medewerkersportalen, monitoring en AI.</value>
+  </data>
+
+</root>

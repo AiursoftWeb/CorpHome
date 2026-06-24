@@ -18,8 +18,14 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="A fast, free, open-source and offline-deployable enterprise office hub enhanced with agentic RAG — streamline HR, finance, and operations for your SMB." xml:space="preserve">
+      <data name="A custom Ubuntu-based Linux distribution with enterprise-grade endpoint management, zero-trust security, and seamless open-source integration." xml:space="preserve">
+    <value>Uma distribuição Linux personalizada baseada no Ubuntu, com gerenciamento de endpoints, segurança zero trust e integração de código aberto.</value>
+  </data>
+  <data name="A fast, free, open-source and offline-deployable enterprise office hub enhanced with agentic RAG — streamline HR, finance, and operations for your SMB." xml:space="preserve">
     <value>Um hub corporativo de escritório rápido, gratuito, de código aberto e implantável offline, aprimorado com RAG agêntico — simplifique RH, finanças e operações para sua PME.</value>
+  </data>
+  <data name="A lightweight, self-hosted Kanban workspace for planning boards, tracking cards, assigning work, and sharing progress across your team." xml:space="preserve">
+    <value>Um espaço de trabalho Kanban leve e hospedado localmente para quadros de planejamento, rastreamento de cartões, atribuição de tarefas e compartilhamento do progresso com sua equipe.</value>
   </data>
   <data name="A simple, real-time server monitoring system designed for local deployment. Keep an eye on your infrastructure with intuitive dashboards and detailed metrics." xml:space="preserve">
     <value>Um sistema de monitoramento de servidores em tempo real e simples, projetado para implantação local. Mantenha seu monitoramento da infraestrutura com dashboards intuitivos e métricas detalhadas.</value>
@@ -30,11 +36,23 @@
   <data name="AnduinOS" xml:space="preserve">
     <value>AnduinOS</value>
   </data>
+  <data name="AnduinOS Enterprise" xml:space="preserve">
+    <value>AnduinOS Enterprise</value>
+  </data>
   <data name="AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
     <value>AnduinOS é uma distribuição Linux personalizada baseada no Ubuntu que oferece uma experiência familiar e fácil de usar para qualquer pessoa que esteja migrando para o Linux.</value>
   </data>
+  <data name="Apkg" xml:space="preserve">
+    <value>Apkg</value>
+  </data>
   <data name="Community" xml:space="preserve">
     <value>Comunidade</value>
+  </data>
+  <data name="Company" xml:space="preserve">
+    <value>Empresa</value>
+  </data>
+  <data name="Declarative APT repository platform. Ship Debian packages, mirror upstream archives, and publish .apkg bundles — fully on-premise." xml:space="preserve">
+    <value>Plataforma de repositório APT declarativa. Distribua pacotes Debian, espelhe arquivos originais e publique pacotes .apkg — totalmente local.</value>
   </data>
   <data name="Discover the benefits of working with us." xml:space="preserve">
     <value>Descubra os benefícios de trabalhar conosco.</value>
@@ -48,11 +66,23 @@
   <data name="Enterprise business framework for the Open-source &amp; AI era." xml:space="preserve">
     <value>Framework empresarial para a era do código aberto e da IA.</value>
   </data>
+  <data name="Get to know us" xml:space="preserve">
+    <value>Conheça-nos</value>
+  </data>
   <data name="GitHub" xml:space="preserve">
     <value>GitHub</value>
   </data>
   <data name="Join our partner ecosystem." xml:space="preserve">
     <value>Junte-se ao nosso ecossistema de parceiros.</value>
+  </data>
+  <data name="Kanban" xml:space="preserve">
+    <value>Kanban</value>
+  </data>
+  <data name="Learn about the team, mission, and values behind Aiursoft." xml:space="preserve">
+    <value>Conheça a equipe, a missão e os valores por trás da Aiursoft.</value>
+  </data>
+  <data name="News" xml:space="preserve">
+    <value>Notícias</value>
   </data>
   <data name="Ollama Gateway" xml:space="preserve">
     <value>Gateway Ollama</value>
@@ -71,6 +101,9 @@
   </data>
   <data name="StatHub" xml:space="preserve">
     <value>StatHub</value>
+  </data>
+  <data name="Stay up to date with the latest announcements, product updates, and stories from the Aiursoft team." xml:space="preserve">
+    <value>Fique por dentro dos últimos anúncios, atualizações de produtos e histórias da equipe da Aiursoft.</value>
   </data>
   <data name="Substratum" xml:space="preserve">
     <value>Substratum</value>

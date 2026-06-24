@@ -57,8 +57,14 @@
   <data name="IT teams can monitor the health of all endpoints and perform basic remote management." xml:space="preserve">
     <value>IT 团队可以监控所有终端的健康状况并执行基本远程管理。</value>
   </data>
+  <data name="Learn about AnduinOS Enterprise" xml:space="preserve">
+    <value>了解 AnduinOS 企业版</value>
+  </data>
   <data name="Meet industry compliance requirements with auditable configurations and enterprise-grade controls." xml:space="preserve">
     <value>通过可审计的配置和企业级控制，满足行业合规要求。</value>
+  </data>
+  <data name="On-premises Package Repository" xml:space="preserve">
+    <value>本地包仓库</value>
   </data>
   <data name="Private Package Repository" xml:space="preserve">
     <value>私有软件包仓库</value>

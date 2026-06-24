@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name=".aosproj replaces a dozen arcane Debian files with a single declarative manifest. If you know .csproj, you know packaging." xml:space="preserve">
+    <value>.aosproj vervangt een handvol obscure Debian-bestanden door één declaratieve manifest. Als je .csproj kent, ken je pakketontwikkeling.</value>
+  </data>
+  <data name="10-Second Boot" xml:space="preserve">
+    <value>Opstarten in 10 seconden</value>
+  </data>
+  <data name="Add to Management Cloud and go live" xml:space="preserve">
+    <value>Toevoegen aan Management Cloud en van start gaan</value>
+  </data>
+  <data name="All the power of open-source, backed by enterprise-grade support, management tools, and customisation capabilities." xml:space="preserve">
+    <value>Al de kracht van open source, ondersteund door enterprise-grade support, beheertools en aanpassingsmogelijkheden.</value>
+  </data>
+  <data name="AnduinOS device" xml:space="preserve">
+    <value>AnduinOS-apparaat</value>
+  </data>
+  <data name="AnduinOS Enterprise" xml:space="preserve">
+    <value>AnduinOS Enterprise</value>
+  </data>
+  <data name="AnduinOS Enterprise is backed by our 7x24 on-call support team. From initial deployment to ongoing operations, we ensure your fleet stays secure, updated, and running smoothly." xml:space="preserve">
+    <value>AnduinOS Enterprise wordt ondersteund door ons 24/7-beschikbare supportteam. Van de initiële implementatie tot het dagelijkse beheer zorgen we ervoor dat uw vloot veilig, up-to-date en probleemloos blijft werken.</value>
+  </data>
+  <data name="AnduinOS Enterprise provides brand customisation, enabling you to replace the system logo with your own." xml:space="preserve">
+    <value>AnduinOS Enterprise biedt merkpersonalisatie, zodat u het systeemlogo kunt vervangen door uw eigen logo.</value>
+  </data>
+  <data name="AnduinOS fleet" xml:space="preserve">
+    <value>AnduinOS-vloot</value>
+  </data>
+  <data name="AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
+    <value>AnduinOS is een aangepaste Linux-distributie op basis van Ubuntu die voor iedereen die overstapt naar Linux een vertrouwd en gebruiksvriendelijk ervaring biedt.</value>
+  </data>
+  <data name="AnduinOS is an open-source project. Following the GPL-v3 license, you can view the source code, modify it, and redistribute it. It&apos;s free and will always be free." xml:space="preserve">
+    <value>AnduinOS is een open-sourceproject. Volgens de GPL-v3-licentie kunt u de broncode bekijken, wijzigen en herverdelen. Het is gratis en zal altijd gratis blijven.</value>
+  </data>
+  <data name="AnduinOS is based on Ubuntu&apos;s package base. It&apos;s compatible with most of the apt packages from Ubuntu. It&apos;s a perfect combination of experience and ecology." xml:space="preserve">
+    <value>AnduinOS is gebaseerd op de pakketbasis van Ubuntu. Het is compatibel met de meeste apt-pakketten van Ubuntu. Het is een perfecte combinatie van gebruikservaring en ecosysteem.</value>
+  </data>
+  <data name="AnduinOS Kiosk" xml:space="preserve">
+    <value>AnduinOS Kiosk</value>
+  </data>
+  <data name="AnduinOS Management Cloud" xml:space="preserve">
+    <value>AnduinOS Management Cloud</value>
+  </data>
+  <data name="AnduinOS wakes up almost as fast as you can blink. Wait time? What&apos;s that? Lightning-fast start-up on any hardware." xml:space="preserve">
+    <value>AnduinOS start bijna zo snel op als je kunt knipperen. Wachttijd? Wat is dat? Razendsnel opstarten op elke hardware.</value>
+  </data>
+  <data name="Apkg Dashboard Screenshot" xml:space="preserve">
+    <value>Apkg-dashboard screenshot</value>
+  </data>
+  <data name="Apkg is a declarative APT repository platform that lets you host signed Debian repositories, mirror upstream archives, and publish your own .apkg packages — all fully on-premise. Integrates seamlessly with AnduinOS for painless apt update &amp;&amp; apt install workflows across your entire fleet." xml:space="preserve">
+    <value>Apkg is een declaratief APT-repositoryplatform waarmee je gesigneerde Debian-repositories kunt hosten, upstream-archieven kunt spiegelen en je eigen .apkg-pakketten kunt publiceren — volledig on-premise. Naadloze integratie met AnduinOS voor moeiteloze apt update &amp;&amp; apt install-workflows over je volledige vloot.</value>
+  </data>
+  <data name="Atomic Snapshots" xml:space="preserve">
+    <value>Atomische Snapshot</value>
+  </data>
+  <data name="Auto Updates on Reboot" xml:space="preserve">
+    <value>Automatische updates bij opnieuw opstarten</value>
+  </data>
+  <data name="Boot &amp; Configure" xml:space="preserve">
+    <value>Opstarten &amp; Configureren</value>
+  </data>
+  <data name="Boot from USB and auto-configure" xml:space="preserve">
+    <value>Opstarten van USB en automatisch configureren</value>
+  </data>
+  <data name="Brand Customisation" xml:space="preserve">
+    <value>Merk aanpassing</value>
+  </data>
+  <data name="Built for business. Air-gapped by design." xml:space="preserve">
+    <value>Gebouwd voor bedrijven. Ontworpen voor netwerkdrijving.</value>
+  </data>
+  <data name="Built on the same infrastructure that powers AnduinOS package delivery. Push updates to your entire fleet with a single command." xml:space="preserve">
+    <value>Opgesteld op dezelfde infrastructuur die AnduinOS-pakketlevering ondersteunt. Stuur updates naar uw volledige vloot met één opdracht.</value>
+  </data>
+  <data name="Bulk operations across your entire fleet" xml:space="preserve">
+    <value>Bulkacties voor uw volledige vloot</value>
+  </data>
+  <data name="Community Site" xml:space="preserve">
+    <value>Communitywebsite</value>
+  </data>
+  <data name="Compliance-ready default configurations" xml:space="preserve">
+    <value>Standaardconfiguraties klaar voor compliance</value>
+  </data>
+  <data name="Contact Enterprise Sales" xml:space="preserve">
+    <value>Neem contact op met Enterprise Sales</value>
+  </data>
+  <data name="Containerized" xml:space="preserve">
+    <value>Gecontaineriseerd</value>
+  </data>
+  <data name="Control and configure thousands of devices and policies efficiently from a single dashboard." xml:space="preserve">
+    <value>Beheer en configureer duizenden apparaten en beleidsregels efficiënt vanuit één dashboard.</value>
+  </data>
+  <data name="Control, customize, and secure thousands of devices with enterprise tools built for scale." xml:space="preserve">
+    <value>Beheer, pas aan en beveilig duizenden apparaten met enterprise-tools die zijn ontworpen voor schaalbaarheid.</value>
+  </data>
+  <data name="Curated internal software catalog" xml:space="preserve">
+    <value>Gecureerde interne softwarecatalogus</value>
+  </data>
+  <data name="Custom default wallpaper and themes" xml:space="preserve">
+    <value>Aangepaste standaard achtergrondafbeeldingen en thema&apos;s</value>
+  </data>
+  <data name="Data stays on your servers. Authentication and authorization ensure only your team can access your metrics." xml:space="preserve">
+    <value>Data blijft op uw servers. Authenticatie en autorisatie zorgen ervoor dat alleen uw team toegang heeft tot uw metingen.</value>
+  </data>
+  <data name="Declarative Packaging" xml:space="preserve">
+    <value>Declaratieve pakketten</value>
+  </data>
+  <data name="Deploy at scale, manage centrally, enjoy the enterprise edition!" xml:space="preserve">
+    <value>Implementeer op grote schaal, beheer centraal, geniet van de enterprise-editie!</value>
+  </data>
+  <data name="Deploy interactive kiosks, information displays, and self-service terminals on standard PC hardware." xml:space="preserve">
+    <value>Implementeer interactieve kiosken, informatiebeelden en zelfbedieningsterminals op standaard pc-hardware.</value>
+  </data>
+  <data name="Deployment" xml:space="preserve">
+    <value>Implementatie</value>
+  </data>
+  <data name="digital signage and kiosk terminals" xml:space="preserve">
+    <value>digitale borden en kioskterminals</value>
+  </data>
+  <data name="Distribute your own software packages internally via standard apt protocol. Take control of your enterprise package ecosystem." xml:space="preserve">
+    <value>Distribueer uw eigen softwarepakketten intern via de standaard apt-protocol. Krijg de regie over uw enterprise-pakketecosysteem.</value>
+  </data>
+  <data name="Docs" xml:space="preserve">
+    <value>Documentatie</value>
+  </data>
+  <data name="Download" xml:space="preserve">
+    <value>Downloaden</value>
+  </data>
+  <data name="Download AnduinOS" xml:space="preserve">
+    <value>AnduinOS downloaden</value>
+  </data>
+  <data name="Ecological perfection" xml:space="preserve">
+    <value>Ecologische perfectie</value>
+  </data>
+  <data name="Enroll" xml:space="preserve">
+    <value>Registreren</value>
+  </data>
+  <data name="Enterprise Services" xml:space="preserve">
+    <value>Zakelijke diensten</value>
+  </data>
+  <data name="Enterprise-grade management for your fleet" xml:space="preserve">
+    <value>Enterprise-kwaliteitsbeheer voor uw vloot</value>
+  </data>
+  <data name="Explore Apkg" xml:space="preserve">
+    <value>Ontdek Apkg</value>
+  </data>
+  <data name="Explore StatHub" xml:space="preserve">
+    <value>Verken StatHub</value>
+  </data>
+  <data name="Flash" xml:space="preserve">
+    <value>Flitsen</value>
+  </data>
+  <data name="Free" xml:space="preserve">
+    <value>Gratis</value>
+  </data>
+  <data name="Friendly interface" xml:space="preserve">
+    <value>Gebruiksvriendelijke interface</value>
+  </data>
+  <data name="Fully On-Premise" xml:space="preserve">
+    <value>Volledig lokaal gehost</value>
+  </data>
+  <data name="Get the AnduinOS image from our site" xml:space="preserve">
+    <value>Download het AnduinOS-image van onze website</value>
+  </data>
+  <data name="Get up-to-the-second updates on every AnduinOS device&apos;s CPU, memory, disk, and network usage." xml:space="preserve">
+    <value>Ontvang real-time updates over CPU-, geheugen-, schijf- en netwerkgebruik van elk AnduinOS-apparaat.</value>
+  </data>
+  <data name="GPL-v3 License" xml:space="preserve">
+    <value>GPL-v3-licentie</value>
+  </data>
+  <data name="Graphical applications are installed via Flatpak, and keep themselves separate from the base system. They also allow for fine-grained control over their permissions." xml:space="preserve">
+    <value>Grafische toepassingen worden geïnstalleerd via Flatpak en blijven gescheiden van het basissysteem. Ze bieden ook fijnkorrelige controle over hun machtigingen.</value>
+  </data>
+  <data name="Internal package distribution via apt" xml:space="preserve">
+    <value>Interne pakketdistributie via apt</value>
+  </data>
+  <data name="Kiosk &amp; Digital Signage" xml:space="preserve">
+    <value>Kiosk &amp; digitale borden</value>
+  </data>
+  <data name="Kiosk mode prevents unauthorized access. Users can only interact with your approved application, keeping your deployment secure." xml:space="preserve">
+    <value>Kiosk-modus voorkomt onbevoegde toegang. Gebruikers kunnen alleen interageren met uw goedgekeurde applicatie, waardoor uw implementatie veilig blijft.</value>
+  </data>
+  <data name="Lightweight Agents" xml:space="preserve">
+    <value>Lichte Agents</value>
+  </data>
+  <data name="Locked-down &amp; tamper-proof" xml:space="preserve">
+    <value>Afgeschermd &amp; beschadigingsvrij</value>
+  </data>
+  <data name="Love AnduinOS?" xml:space="preserve">
+    <value>Houd je van AnduinOS?</value>
+  </data>
+  <data name="Low-overhead agents collect metrics without impacting your AnduinOS devices&apos; performance. Deploy in seconds with Docker." xml:space="preserve">
+    <value>Agents met lage overhead verzamelen metingen zonder invloed op de prestaties van uw AnduinOS-apparaten. Implementeer in seconden met Docker.</value>
+  </data>
+  <data name="Minimal maintenance. Maximum stability." xml:space="preserve">
+    <value>Minimaal onderhoud. Maximale stabiliteit.</value>
+  </data>
+  <data name="Monitor thousands of AnduinOS devices from a single centralized dashboard. Scale as your fleet grows." xml:space="preserve">
+    <value>Monitór duizenden AnduinOS-apparaten vanuit één gecentraliseerd dashboard. Schaal mee naarmate uw vloot groeit.</value>
+  </data>
+  <data name="Monitor your entire" xml:space="preserve">
+    <value>Monitor je volledige</value>
+  </data>
+  <data name="Monitoring" xml:space="preserve">
+    <value>Toezicht</value>
+  </data>
+  <data name="Multi-Node" xml:space="preserve">
+    <value>Meerdere knooppunten</value>
+  </data>
+  <data name="Offline repository mirrors for air-gapped networks" xml:space="preserve">
+    <value>Offline repository mirrors voor air-gapped netwerken</value>
+  </data>
+  <data name="On-premises Apkg" xml:space="preserve">
+    <value>Lokaal Apkg</value>
+  </data>
+  <data name="Open Source" xml:space="preserve">
+    <value>Broncodeopen</value>
+  </data>
+  <data name="Package Distribution" xml:space="preserve">
+    <value>Pakketdistributie</value>
+  </data>
+  <data name="Performance" xml:space="preserve">
+    <value>Prestatie</value>
+  </data>
+  <data name="Pre-install company software packages" xml:space="preserve">
+    <value>Vooraf installeren van bedrijfssoftwarepakketten</value>
+  </data>
+  <data name="Privacy is no longer optional. It&apos;s essential. AnduinOS is designed to gather nothing from you. We don&apos;t track you. We don&apos;t profile you. We don&apos;t target you. You remain anonymous to the system." xml:space="preserve">
+    <value>Privacy is niet langer optioneel. Het is essentieel. AnduinOS is zo ontworpen dat er niets van u wordt verzameld. Wij volgen u niet. Wij maken geen profielen van u. Wij richten ons niet op u. U blijft voor het systeem anoniem.</value>
+  </data>
+  <data name="Ready to use" xml:space="preserve">
+    <value>Klaar voor gebruik</value>
+  </data>
+  <data name="Real-time" xml:space="preserve">
+    <value>Realtime</value>
+  </data>
+  <data name="Real-time device health monitoring" xml:space="preserve">
+    <value>Realtime monitoring van apparaatstatus</value>
+  </data>
+  <data name="Reasons" xml:space="preserve">
+    <value>Redenen</value>
+  </data>
+  <data name="Remote configuration and policy enforcement" xml:space="preserve">
+    <value>Configuratie op afstand en handhaving van beleidsregels</value>
+  </data>
+  <data name="Remote content management" xml:space="preserve">
+    <value>Afstandsbediening van inhoud</value>
+  </data>
+  <data name="Replace system logo and boot screen" xml:space="preserve">
+    <value>Vervang systeemlogo en opstartscherm</value>
+  </data>
+  <data name="Resource Efficient" xml:space="preserve">
+    <value>Bronnefficiënt</value>
+  </data>
+  <data name="Role-based access control for IT teams" xml:space="preserve">
+    <value>Rolgebaseerde toegangscontrole voor IT-teams</value>
+  </data>
+  <data name="Root and privacy" xml:space="preserve">
+    <value>Root en privacy</value>
+  </data>
+  <data name="Run your own APT infrastructure behind the firewall. No external dependencies, no proprietary agents — just standard apt." xml:space="preserve">
+    <value>Uit uw eigen APT-infrastructuur achter de firewall. Geen externe afhankelijkheden, geen eigentijdse agenten — gewoon standaard apt.</value>
+  </data>
+  <data name="Runs smoothly on older devices. Extends hardware lifespan by being resource-efficient, so you don&apos;t need to buy new machines." xml:space="preserve">
+    <value>Werkt vloeiend op oudere apparaten. Verlengt de levensduur van hardware door bronnen efficiënt te gebruiken, zodat je geen nieuwe machines hoeft te kopen.</value>
+  </data>
+  <data name="Seamless AnduinOS Integration" xml:space="preserve">
+    <value>Naadloze AnduinOS-integratie</value>
+  </data>
+  <data name="Secure" xml:space="preserve">
+    <value>Veilig</value>
+  </data>
+  <data name="Set up your system in under 5 minutes" xml:space="preserve">
+    <value>Richt uw systeem in minder dan 5 minuten in</value>
+  </data>
+  <data name="Ship software to every" xml:space="preserve">
+    <value>Software uitrollen naar elke</value>
+  </data>
+  <data name="Simple, user-friendly. Broad compatibility with virtually all PC hardware." xml:space="preserve">
+    <value>Eenvoudig en gebruiksvriendelijk. Brede compatibiliteit met vrijwel al het pc-hardware.</value>
+  </data>
+  <data name="Smaller image, friendly interface, unbeatable performance, safe and secure." xml:space="preserve">
+    <value>Kleinere image, gebruiksvriendelijke interface, onverslaanbare prestaties, veilig en beveiligd.</value>
+  </data>
+  <data name="Source Code" xml:space="preserve">
+    <value>Broncode</value>
+  </data>
+  <data name="Speedy Makeover" xml:space="preserve">
+    <value>Snelle Makeover</value>
+  </data>
+  <data name="StatHub Dashboard Screenshot" xml:space="preserve">
+    <value>StatHub-dashboard-screenshot</value>
+  </data>
+  <data name="StatHub is a simple, real-time server monitoring system designed for local deployment. Keep an eye on your entire AnduinOS infrastructure with intuitive dashboards and detailed metrics — all from a single pane of glass." xml:space="preserve">
+    <value>StatHub is een eenvoudig, real-time servermonitoringsysteem dat is ontworpen voor lokale implementatie. Houd je complete AnduinOS-infrastructuur in de gaten met intuïtieve dashboards en gedetailleerde statistieken — allemaal vanuit één overzicht.</value>
+  </data>
+  <data name="Sync, sign, and promote atomically via rename(2). APT clients never see half-written metadata — only consistent, signed snapshots." xml:space="preserve">
+    <value>Synchroniseer, onderteken en promoveer atomaire via rename(2). APT-clients zien nooit gedeeltelijk geschreven metadata — alleen consistente, ondertekende momentopnamen.</value>
+  </data>
+  <data name="System updates apply automatically when you restart. Zero maintenance windows — just reboot, and you&apos;re on the latest version." xml:space="preserve">
+    <value>Systeemupdates worden automatisch toegepast wanneer u herstart. Geen onderhoudsvensters — herstart gewoon en u hebt de nieuwste versie.</value>
+  </data>
+  <data name="The GNOME-based desktop environment has beautiful interfaces and human-computer interactions that fit user habits, allowing you to quickly get started with AnduinOS without too much learning cost." xml:space="preserve">
+    <value>De op GNOME gebaseerde desktopomgeving heeft prachtige interfaces en mens-computer-interacties die passen bij de gebruiksgewoonten, zodat u snel aan de slag kunt met AnduinOS zonder te veel leercurve.</value>
+  </data>
+  <data name="The ideal solution for" xml:space="preserve">
+    <value>De ideale oplossing voor</value>
+  </data>
+  <data name="The ISO is just 2.4GB in size. Similar to Ubuntu, it is simple to install and can meet your daily needs without additional configuration or complicated operations." xml:space="preserve">
+    <value>De ISO is slechts 2,4 GB groot. Net als Ubuntu is het eenvoudig te installeren en voldoet het aan uw dagelijkse behoeften zonder extra configuratie of ingewikkelde handelingen.</value>
+  </data>
+  <data name="Tired of your sluggish OS slowing you down? Switch to AnduinOS for instant speed and seamless performance." xml:space="preserve">
+    <value>Voldoet je trage besturingssysteem niet meer aan je verwachtingen? Schakel over naar AnduinOS voor directe snelheid en naadloze prestaties.</value>
+  </data>
+  <data name="Transform any PC into a secure, managed kiosk. Our in-house kiosk content management suite is available now — try it today." xml:space="preserve">
+    <value>Maak elke pc om tot een veilige, beheerde kiosk. Onze eigen kiosk-inhoudsbeheersuite is nu beschikbaar — probeer het vandaag nog.</value>
+  </data>
+  <data name="Turn any screen into a kiosk" xml:space="preserve">
+    <value>Maak van elk scherm een kiosk</value>
+  </data>
+  <data name="Update content, push configurations, and monitor device health — all from the cloud. No need for on-site visits." xml:space="preserve">
+    <value>Update content, push configuraties en monitor de apparaatstatus - allemaal vanuit de cloud. Geen enkele behoefte aan bezoeken ter plaatse.</value>
+  </data>
+  <data name="Version pinning and controlled rollouts" xml:space="preserve">
+    <value>Vergrendelen van versies en gecontroleerde implementaties</value>
+  </data>
+  <data name="Visit Community Site" xml:space="preserve">
+    <value>Bezoek Community Site</value>
+  </data>
+  <data name="Why choose AnduinOS?" xml:space="preserve">
+    <value>Waarom kiezen voor AnduinOS?</value>
+  </data>
+  <data name="with Apkg" xml:space="preserve">
+    <value>met Apkg</value>
+  </data>
+  <data name="With just a few clicks, you can have AnduinOS running on any machine. Enjoy automatic updates, built-in security, and remote management from the cloud — so once deployed, it just works." xml:space="preserve">
+    <value>Met slechts een paar klikken kunt u AnduinOS draaien op elk apparaat. Profiteer van automatische updates, ingebouwde beveiliging en remote management vanuit de cloud – zodra het is geïmplementeerd, werkt het gewoon.</value>
+  </data>
+  <data name="with StatHub" xml:space="preserve">
+    <value>met StatHub</value>
+  </data>
+  <data name="Write the image to a USB drive" xml:space="preserve">
+    <value>Schrijf de image naar een USB-stick</value>
+  </data>
+
+</root>

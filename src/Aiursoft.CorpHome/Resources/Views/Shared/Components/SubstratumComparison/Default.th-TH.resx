@@ -162,6 +162,9 @@
   <data name="On-premise / Air-gapped Deployment" xml:space="preserve">
     <value>การติดตั้งในองค์กร / การติดตั้งแบบแยกขาด</value>
   </data>
+  <data name="On-premises APT Repository" xml:space="preserve">
+    <value>ที่เก็บ APT แบบ On-premises</value>
+  </data>
   <data name="Online Code Execution" xml:space="preserve">
     <value>การดำเนินการโค้ดออนไลน์</value>
   </data>

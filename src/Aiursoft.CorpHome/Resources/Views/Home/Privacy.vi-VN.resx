@@ -84,11 +84,17 @@
   <data name="For Cloud-Hosted Plans (e.g., Aiursoft Substrate S1 Core):" xml:space="preserve">
     <value>Đối với các gói dịch vụ được lưu trữ trên đám mây (ví dụ: Aiursoft Substrate S1 Core):</value>
   </data>
+  <data name="For Cloud-Hosted Plans (e.g., Aiursoft Substratum Core):" xml:space="preserve">
+    <value>Đối với các gói lưu trữ trên đám mây (ví dụ: Aiursoft Substratum Core):</value>
+  </data>
   <data name="For on-premise deployments, cancellation simply terminates our support and update services. Your data remains entirely intact on your own servers, under your complete control." xml:space="preserve">
     <value>Đối với các triển khai tại chỗ, việc hủy bỏ đơn giản là chấm dứt dịch vụ hỗ trợ và cập nhật của chúng tôi. Dữ liệu của bạn vẫn nguyên vẹn hoàn toàn trên các máy chủ của bạn, dưới sự kiểm soát hoàn toàn của bạn.</value>
   </data>
   <data name="For On-Premise Plans (e.g., Aiursoft Substrate S3 Startup &amp; S5 Enterprise):" xml:space="preserve">
     <value>Đối với các gói triển khai tại chỗ (ví dụ: Aiursoft Substrate S3 Startup &amp; S5 Enterprise):</value>
+  </data>
+  <data name="For On-Premise Plans (e.g., Aiursoft Substratum Startup &amp; Enterprise):" xml:space="preserve">
+    <value>Đối với các Gói triển khai nội bộ (ví dụ: Aiursoft Substratum Startup &amp; Enterprise):</value>
   </data>
   <data name="For provisioning the underlying high-performance cloud infrastructure that powers our official websites and Cloud-Hosted (S1 Core) client instances." xml:space="preserve">
     <value>Để triển khai hạ tầng đám mây hiệu năng cao nền tảng vận hành các trang web chính thức của chúng tôi và các phiên bản khách hàng được lưu trữ trên đám mây (S1 Core).</value>

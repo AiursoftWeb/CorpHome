@@ -96,7 +96,7 @@
         <div class="row">
             <div class="col-lg-12">
                 <p class="text-white-50 text-center mb-0">
-                    © @DateTime.Now.Year <a href="@Model.BrandHomeUrl" target="_blank">@Model.BrandName</a>
+                    © @DateTime.Now.Year <a href="@Model.BrandHomeUrl" target="_blank">@(!string.IsNullOrWhiteSpace(Model.CompanyNameZhCn) && System.Globalization.CultureInfo.CurrentCulture.Name == "zh-CN" ? Model.CompanyNameZhCn : Model.BrandName)</a>
                     @if (!string.IsNullOrWhiteSpace(Model.Icp) && System.Globalization.CultureInfo.CurrentCulture.Name == "zh-CN")
                     {
                         <span> | </span>

@@ -162,6 +162,9 @@
   <data name="On-premise / Air-gapped Deployment" xml:space="preserve">
     <value>本機部署 / 空閘部署</value>
   </data>
+  <data name="On-premises APT Repository" xml:space="preserve">
+    <value>本地 APT 軟件庫</value>
+  </data>
   <data name="Online Code Execution" xml:space="preserve">
     <value>線上程式碼執行</value>
   </data>

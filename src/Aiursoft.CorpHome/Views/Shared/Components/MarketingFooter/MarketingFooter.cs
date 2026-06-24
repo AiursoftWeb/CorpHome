@@ -15,6 +15,7 @@ public class MarketingFooter(
         model.BrandName = await globalSettingsService.GetSettingValueAsync(SettingsMap.BrandName);
         model.BrandHomeUrl = await globalSettingsService.GetSettingValueAsync(SettingsMap.BrandHomeUrl);
         model.Icp = await globalSettingsService.GetSettingValueAsync(SettingsMap.Icp);
+        model.CompanyNameZhCn = await globalSettingsService.GetSettingValueAsync(SettingsMap.CompanyNameZhCn);
         
         var logoPath = await globalSettingsService.GetSettingValueAsync(SettingsMap.ProjectLogo);
         if (!string.IsNullOrWhiteSpace(logoPath))

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="About Aiursoft" xml:space="preserve">
+    <value>Om Aiursoft</value>
+  </data>
+  <data name="Address" xml:space="preserve">
+    <value>Adress</value>
+  </data>
+  <data name="Aiursoft is built to last a century. We are just getting started. Every decision we make serves a blueprint measured in decades, not quarters. We resist the urge to chase short-term hype or fleeting trends. Our choices are deliberate, steady, and patient — because the work that truly matters takes time, and we intend to be here for all of it." xml:space="preserve">
+    <value>Aiursoft är byggd för att vara med i ett sekel. Vi har precis börjat. Varje beslut vi fattar följer en plan som mäts i decennier, inte kvartal. Vi motstår frestelsen att jaga kortvarig hetja eller övergående trender. Våra val är genomtänkta, stadga och tålmodiga – för arbetet som verkligen betyder något tar tid, och vi tänker vara med hela vägen.</value>
+  </data>
+  <data name="Aiursoft is dedicated to bringing the spirit of open-source and free software to every enterprise and individual." xml:space="preserve">
+    <value>Aiursoft är engagerad i att förmedla andan av öppen källkod och fri programvara till varje företag och individ.</value>
+  </data>
+  <data name="Aiursoft&apos;s story is closely linked to the communities that shape us, including the global community of open source contributors and enthusiasts who are part of our team. Since 2025, we have built an operating system called AnduinOS — designed to be clean, simple, and accessible to everyone." xml:space="preserve">
+    <value>Aiursofts historia är starkt förknippad med de samhällen som formar oss, inklusive det globala samhället av öppen källkods-bidragsgivare och entusiaster som är en del av vårt team. Sedan 2025 har vi byggt ett operativsystem som heter AnduinOS – designat för att vara rent, enkelt och tillgängligt för alla.</value>
+  </data>
+  <data name="Chapter 1" xml:space="preserve">
+    <value>Kapitel 1</value>
+  </data>
+  <data name="Contact" xml:space="preserve">
+    <value>Kontakt</value>
+  </data>
+  <data name="Contact us" xml:space="preserve">
+    <value>Kontakta oss</value>
+  </data>
+  <data name="Director" xml:space="preserve">
+    <value>Dиректор</value>
+  </data>
+  <data name="Entity Code" xml:space="preserve">
+    <value>Företagsnummer</value>
+  </data>
+  <data name="Follow us" xml:space="preserve">
+    <value>Följ oss</value>
+  </data>
+  <data name="For every team member, personal growth comes first — above profit, above deadlines. We design work so that it is accessible without deep prior familiarity: the best learning happens through hands-on exploration, not prerequisites. We value playfulness and genuine curiosity — the kind that makes you lose track of time. When our people grow, the company grows as a natural consequence, not the other way around." xml:space="preserve">
+    <value>För varje medarbetare kommer den personliga utvecklingen först — före vinst, före deadlines. Vi utformar arbetet så att det är tillgängligt utan omfattande tidigare kunskap: det bästa lärandet sker genom praktisk utforskning, inte förkrav. Vi värdesätter lekfullhet och genuin nyfikenhet — den typen som får en att tappa tidssinne. När våra medarbetare växer växer företaget som en naturlig följd, inte tvärtom.</value>
+  </data>
+  <data name="Freedom" xml:space="preserve">
+    <value>Frihet</value>
+  </data>
+  <data name="Growth" xml:space="preserve">
+    <value>Tillväxt</value>
+  </data>
+  <data name="Headquarters — Hong Kong" xml:space="preserve">
+    <value>Huvudkontor — Hongkong</value>
+  </data>
+  <data name="Legal Representative" xml:space="preserve">
+    <value>Laglig representant</value>
+  </data>
+  <data name="Long-term" xml:space="preserve">
+    <value>Långsiktigt</value>
+  </data>
+  <data name="Our Culture" xml:space="preserve">
+    <value>Vår kultur</value>
+  </data>
+  <data name="Registered Address" xml:space="preserve">
+    <value>Registrerad adress</value>
+  </data>
+  <data name="Tel" xml:space="preserve">
+    <value>Tel</value>
+  </data>
+  <data name="We open-source everything we build. We reject vendor lock-in and ecosystem entrapment. We respect open standards, champion offline-first operation, and believe every right to the code belongs to the customer and the device owner. We build nothing that stands between software users and their freedom to tinker — no barriers, no gatekeeping, no artificial constraints on what a hacker or user can do with the tools we create." xml:space="preserve">
+    <value>Vi källkodsgör allt vi bygger. Vi avvisar vendor lock-in och ekosystemfångenskap. Vi respekterar öppna standarder, förespråkar offline-first-drift och anser att alla rättigheter till koden tillhör kunden och enhetens ägare. Vi bygger ingenting som står i vägen för programanvändare och deras frihet att experimentera – inga barriärer, inga grindvakter, inga artificiella begränsningar för vad en hacker eller användare kan göra med de verktyg vi skapar.</value>
+  </data>
+  <data name="Where to find us" xml:space="preserve">
+    <value>Var hittar oss</value>
+  </data>
+
+</root>

@@ -60,6 +60,9 @@
   <data name="Meet industry compliance requirements with auditable configurations and enterprise-grade controls." xml:space="preserve">
     <value>Uppfyll branchkrav för efterlevnad med granskningsbara konfigurationer och kontroller av företagsklass.</value>
   </data>
+  <data name="On-premises Package Repository" xml:space="preserve">
+    <value>Lokalt pakkagespaket</value>
+  </data>
   <data name="Private Package Repository" xml:space="preserve">
     <value>Privat paketlager</value>
   </data>
