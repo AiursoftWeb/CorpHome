@@ -36,6 +36,9 @@
   <data name="AnduinOS Enterprise (Desktop OS)" xml:space="preserve">
     <value>AnduinOS Enterprise (Desktop OS)</value>
   </data>
+  <data name="Authentik uses an Open Core model. The Community Edition is licensed under the permissive MIT license, which allows commercial use, modification, and redistribution. We provide the Community Edition (MIT) as part of Substratum. The Enterprise Edition requires a separate commercial license from Authentik." xml:space="preserve">
+    <value>Authentik ใช้โมเดล Open Core รุ่น Community ได้รับการอนุญาตภายใต้ใบอนุญาต MIT ที่อนุเคราะห์ ซึ่งอนุญาตให้ใช้เพื่อการค้า แก้ไข และแจกจ่ายใหม่ เราให้บริการรุ่น Community (MIT) เป็นส่วนหนึ่งของ Substratum รุ่น Enterprise ต้องการใบอนุญาตเชิงพาณิชย์แยกต่างหากจาก Authentik</value>
+  </data>
   <data name="Business hours email support" xml:space="preserve">
     <value>การสนับสนุนทางอีเมลในช่วงเวลาทำการ</value>
   </data>
@@ -93,6 +96,12 @@
   <data name="Fleet device policy management" xml:space="preserve">
     <value>การจัดการนโยบายอุปกรณ์ fleets</value>
   </data>
+  <data name="GitLab is a trademark of GitLab Inc. Aiursoft provides deployment, hosting, and integration services for GitLab — we are not affiliated with or endorsed by GitLab Inc. The GitLab Community Edition (CE) is MIT-licensed and can be deployed freely. The GitLab Enterprise Edition (EE) requires a separate license purchased from GitLab Inc. We can assist you with procuring the appropriate GitLab EE license, or you may choose to remove this item from your plan." xml:space="preserve">
+    <value>GitLab เป็นเครื่องหมายการค้าของ GitLab Inc. Aiursoft ให้บริการการติดตั้ง การโฮสต์ และการผสานการทำงานสำหรับ GitLab — เราไม่มีความสัมพันธ์หรือได้รับการรับรองจาก GitLab Inc. GitLab Community Edition (CE) อนุญาตภายใต้ใบอนุญาต MIT และสามารถติดตั้งได้อย่างอิสระ GitLab Enterprise Edition (EE) ต้องการใบอนุญาตแยกต่างหากที่ซื้อจาก GitLab Inc. เราสามารถช่วยเหลือคุณในการจัดหาใบอนุญาต GitLab EE ที่เหมาะสม หรือคุณสามารถ选择不将此项目纳入您的计划。</value>
+  </data>
+  <data name="Hacker" xml:space="preserve">
+    <value>แฮกเกอร์</value>
+  </data>
   <data name="Hardware key enforcement" xml:space="preserve">
     <value>การบังคับใช้กุญแจฮาร์ดแวร์</value>
   </data>
@@ -114,6 +123,9 @@
   <data name="Local LLM API Gateway" xml:space="preserve">
     <value>เกตเวย์ API LLM ท้องถิ่น</value>
   </data>
+  <data name="Mailcow is open-source software (GPL-3.0). Aiursoft provides managed hosting, deployment, and integration services. Any custom modifications provided during your on-premise deployment are fully compliant with and distributed under the GPL-3.0 license." xml:space="preserve">
+    <value>Mailcow เป็นซอฟต์แวร์โอเพนซอร์ส (GPL-3.0) Aiursoft ให้บริการเช่าโฮสต์แบบบริหารจัดการ การติดตั้ง และบริการบูรณาการ ระบบปรับแต่งใดๆ ที่มอบให้ระหว่างกระบวนการติดตั้งบนเซิร์ฟเวอร์ของคุณนั้น จะสอดคล้องและเผยแพร่ภายใต้ใบอนุญาต GPL-3.0 อย่างสมบูรณ์</value>
+  </data>
   <data name="Managed endpoint OS" xml:space="preserve">
     <value>ระบบปฏิบัติการจุดปลายแบบจัดการ</value>
   </data>
@@ -134,6 +146,9 @@
   </data>
   <data name="Multi-site &amp; HA capable" xml:space="preserve">
     <value>รองรับหลายไซต์และมีความพร้อมใช้งานสูง</value>
+  </data>
+  <data name="Nextcloud is a trademark of Nextcloud GmbH. Aiursoft is an independent integration provider. To ensure enterprise-grade stability and strict adherence to the AGPL-3.0 license, we deploy the official, unmodified Nextcloud releases and seamlessly connect your stack via standard APIs, OIDC/SAML, and official plugins." xml:space="preserve">
+    <value>Nextcloud เป็นเครื่องหมายการค้าของ Nextcloud GmbH Aiursoft เป็นผู้ให้บริการอินทิเกรชันที่เป็นอิสระ เพื่อให้มั่นใจถึงความเสถียรระดับองค์กรและการปฏิบัติตามใบอนุญาต AGPL-3.0 อย่างเคร่งครัด เราจึงติดตั้งเวอร์ชันทางการของ Nextcloud ที่ไม่มีการแก้ไขใดๆ และเชื่อมต่อโครงสร้างงานของคุณอย่างราบรื่นผ่าน API มาตรฐาน, OIDC/SAML และปลั๊กอินทางการ</value>
   </data>
   <data name="Not included" xml:space="preserve">
     <value>ไม่รวม</value>
@@ -165,6 +180,9 @@
   <data name="Photo &amp; Video Management" xml:space="preserve">
     <value>การจัดการรูปภาพและวิดีโอ</value>
   </data>
+  <data name="Private APT Repository" xml:space="preserve">
+    <value>ที่เก็บโค้ด APT แบบส่วนตัว</value>
+  </data>
   <data name="Productivity &amp; Collaboration" xml:space="preserve">
     <value>ผลิตภาพและการร่วมมือ</value>
   </data>
@@ -176,6 +194,9 @@
   </data>
   <data name="Scale &amp; Support" xml:space="preserve">
     <value>การขยายขนาดและการสนับสนุน</value>
+  </data>
+  <data name="Self-hosted APT repository with .apkg publishing" xml:space="preserve">
+    <value>ที่เก็บ APT แบบโฮสต์เองพร้อมการเผยแพร่ .apkg</value>
   </data>
   <data name="Self-hosted LLM inference gateway" xml:space="preserve">
     <value>เกตเวย์การอนุมาน LLM แบบโฮสต์ด้วยตนเอง</value>
@@ -207,6 +228,9 @@
   <data name="Talk to an Architect" xml:space="preserve">
     <value>พูดคุยกับสถาปนิก</value>
   </data>
+  <data name="Team Blog" xml:space="preserve">
+    <value>บล็อกทีมงาน</value>
+  </data>
   <data name="Team Voting" xml:space="preserve">
     <value>การโหวตของทีม</value>
   </data>
@@ -221,6 +245,9 @@
   </data>
   <data name="What&apos;s Included" xml:space="preserve">
     <value>สิ่งที่มีในแพ็กเกจ</value>
+  </data>
+  <data name="Workspace Boards" xml:space="preserve">
+    <value>กระดานพื้นที่ทำงาน</value>
   </data>
   <data name="Zero Trust Yubikey Auth" xml:space="preserve">
     <value>การพิสูจน์ตัวตนด้วย Yubikey แบบ Zero Trust</value>

@@ -126,6 +126,9 @@
   <data name="Deploy AnduinOS with your Enterprise!" xml:space="preserve">
     <value>為您的企業部署 AnduinOS！</value>
   </data>
+  <data name="Deploy at scale, manage centrally, enjoy the enterprise edition!" xml:space="preserve">
+    <value>大規模部署、集中管理，暢享企業版！</value>
+  </data>
   <data name="Deploy interactive kiosks, information displays, and self-service terminals on standard PC hardware." xml:space="preserve">
     <value>在標準 PC 硬體上部署互動式自助服務終端機、資訊顯示螢幕及自助服務終端。</value>
   </data>

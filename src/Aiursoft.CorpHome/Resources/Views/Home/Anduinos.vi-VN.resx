@@ -126,6 +126,9 @@
   <data name="Deploy AnduinOS with your Enterprise!" xml:space="preserve">
     <value>Triển khai AnduinOS cho Doanh nghiệp của bạn!</value>
   </data>
+  <data name="Deploy at scale, manage centrally, enjoy the enterprise edition!" xml:space="preserve">
+    <value>Triển khai quy mô, quản lý tập trung, tận hưởng phiên bản doanh nghiệp!</value>
+  </data>
   <data name="Deploy interactive kiosks, information displays, and self-service terminals on standard PC hardware." xml:space="preserve">
     <value>Triển khai máy bán hàng tự động tương tác, màn hình thông tin và thiết bị tự phục vụ trên phần cứng PC tiêu chuẩn.</value>
   </data>

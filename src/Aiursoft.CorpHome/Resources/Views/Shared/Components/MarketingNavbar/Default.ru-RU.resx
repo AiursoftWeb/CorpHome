@@ -18,8 +18,14 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="A fast, free, open-source and offline-deployable enterprise office hub enhanced with agentic RAG — streamline HR, finance, and operations for your SMB." xml:space="preserve">
+      <data name="A custom Ubuntu-based Linux distribution with enterprise-grade endpoint management, zero-trust security, and seamless open-source integration." xml:space="preserve">
+    <value>Специальная дистрибуция Linux на базе Ubuntu с инструментами управления конечными точками уровня предприятия, безопасностью на базе концепции нулевого доверия и бесшовной интеграцией с решениями с открытым исходным кодом.</value>
+  </data>
+  <data name="A fast, free, open-source and offline-deployable enterprise office hub enhanced with agentic RAG — streamline HR, finance, and operations for your SMB." xml:space="preserve">
     <value>Быстрая, бесплатная, открытая и устанавливаемая автономно корпоративная платформа для офиса с поддержкой агентного RAG — упростите управление кадрами, финансами и операционной деятельностью для вашего малого и среднего бизнеса.</value>
+  </data>
+  <data name="A lightweight, self-hosted Kanban workspace for planning boards, tracking cards, assigning work, and sharing progress across your team." xml:space="preserve">
+    <value>Легкое рабочее пространство Kanban с самостоятельным размещением для планирования досок, отслеживания карточек, назначения задач и обмена информацией о прогрессе в вашей команде.</value>
   </data>
   <data name="A simple, real-time server monitoring system designed for local deployment. Keep an eye on your infrastructure with intuitive dashboards and detailed metrics." xml:space="preserve">
     <value>Простая система мониторинга серверов в реальном времени, предназначенная для локального развертывания. Следите за вашей инфраструктурой с помощью интуитивно понятных панелей управления и детальных метрик.</value>
@@ -30,11 +36,23 @@
   <data name="AnduinOS" xml:space="preserve">
     <value>AnduinOS</value>
   </data>
+  <data name="AnduinOS Enterprise" xml:space="preserve">
+    <value>AnduinOS Enterprise</value>
+  </data>
   <data name="AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
     <value>AnduinOS — это кастомная дистрибуция Linux на базе Ubuntu, предлагающая знакомый и простой в использовании опыт для всех, кто переходит на Linux.</value>
   </data>
+  <data name="Apkg" xml:space="preserve">
+    <value>Apkg</value>
+  </data>
   <data name="Community" xml:space="preserve">
     <value>Сообщество</value>
+  </data>
+  <data name="Company" xml:space="preserve">
+    <value>Компания</value>
+  </data>
+  <data name="Declarative APT repository platform. Ship Debian packages, mirror upstream archives, and publish .apkg bundles — fully on-premise." xml:space="preserve">
+    <value>Декларативная платформа репозиториев APT. Развертывайте пакеты Debian, зеркалируйте внешние архивы и публикуйте сборки .apkg — полностью на локальных серверах.</value>
   </data>
   <data name="Discover the benefits of working with us." xml:space="preserve">
     <value>Узнайте о преимуществах сотрудничества с нами.</value>
@@ -48,11 +66,23 @@
   <data name="Enterprise business framework for the Open-source &amp; AI era." xml:space="preserve">
     <value>Корпоративная бизнес-платформа для эпохи открытого исходного кода и ИИ.</value>
   </data>
+  <data name="Get to know us" xml:space="preserve">
+    <value>Познакомьтесь с нами</value>
+  </data>
   <data name="GitHub" xml:space="preserve">
     <value>GitHub</value>
   </data>
   <data name="Join our partner ecosystem." xml:space="preserve">
     <value>Присоединяйтесь к нашей партнерской экосистеме.</value>
+  </data>
+  <data name="Kanban" xml:space="preserve">
+    <value>Kanban</value>
+  </data>
+  <data name="Learn about the team, mission, and values behind Aiursoft." xml:space="preserve">
+    <value>Узнайте о команде, миссии и ценностях Aiursoft.</value>
+  </data>
+  <data name="News" xml:space="preserve">
+    <value>Новости</value>
   </data>
   <data name="Ollama Gateway" xml:space="preserve">
     <value>Шлюз Ollama</value>
@@ -71,6 +101,9 @@
   </data>
   <data name="StatHub" xml:space="preserve">
     <value>StatHub</value>
+  </data>
+  <data name="Stay up to date with the latest announcements, product updates, and stories from the Aiursoft team." xml:space="preserve">
+    <value>Будьте в курсе последних объявлений, обновлений продуктов и историй от команды Aiursoft.</value>
   </data>
   <data name="Substratum" xml:space="preserve">
     <value>Substratum</value>

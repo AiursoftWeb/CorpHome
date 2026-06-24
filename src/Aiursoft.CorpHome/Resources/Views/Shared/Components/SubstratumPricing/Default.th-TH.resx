@@ -30,6 +30,9 @@
   <data name="AiurDrive, StatHub, Nextcloud" xml:space="preserve">
     <value>AiurDrive, StatHub, Nextcloud</value>
   </data>
+  <data name="AiurDrive, StatHub, Nextcloud Deployment" xml:space="preserve">
+    <value>การติดตั้ง AiurDrive, StatHub, Nextcloud</value>
+  </data>
   <data name="Aiursoft Substratum Core" xml:space="preserve">
     <value>Aiursoft Substratum Core</value>
   </data>
@@ -44,6 +47,9 @@
   </data>
   <data name="Authentik" xml:space="preserve">
     <value>Authentik</value>
+  </data>
+  <data name="Blog, Kanban" xml:space="preserve">
+    <value>บล็อก, คานบัน</value>
   </data>
   <data name="Contact Sales" xml:space="preserve">
     <value>ติดต่อฝ่ายขาย</value>
@@ -87,6 +93,9 @@
   <data name="Includes everything in Startup" xml:space="preserve">
     <value>รวมทุกอย่างที่มีใน Startup</value>
   </data>
+  <data name="Kanban, Ollama Gateway" xml:space="preserve">
+    <value>ระบบคัมบัง, โอลามา เกตเวย์</value>
+  </data>
   <data name="Koel, Immich, Memos" xml:space="preserve">
     <value>Koel, Immich, Memos</value>
   </data>
@@ -101,6 +110,9 @@
   </data>
   <data name="MDM based device compliance" xml:space="preserve">
     <value>การปฏิบัติตามอุปกรณ์ตาม MDM</value>
+  </data>
+  <data name="On-premise AnduinOS Apkg" xml:space="preserve">
+    <value>AnduinOS Apkg แบบ On-premise</value>
   </data>
   <data name="On-premise offline deployment" xml:space="preserve">
     <value>การติดตั้งแบบออฟไลน์ในองค์กร</value>

@@ -126,6 +126,9 @@
   <data name="Deploy AnduinOS with your Enterprise!" xml:space="preserve">
     <value>엔터프라이즈에서 AnduinOS를 배포하세요!</value>
   </data>
+  <data name="Deploy at scale, manage centrally, enjoy the enterprise edition!" xml:space="preserve">
+    <value>대규모 배포, 중앙 집중식 관리, 엔터프라이즈 에디션의 편리함을 즐기세요!</value>
+  </data>
   <data name="Deploy interactive kiosks, information displays, and self-service terminals on standard PC hardware." xml:space="preserve">
     <value>표준 PC 하드웨어에 대화형 키오스크, 정보 디스플레이, 셀프 서비스 터미널을 배포하세요.</value>
   </data>

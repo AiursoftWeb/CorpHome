@@ -30,6 +30,9 @@
   <data name="AiurDrive, StatHub, Nextcloud" xml:space="preserve">
     <value>AiurDrive, StatHub, Nextcloud</value>
   </data>
+  <data name="AiurDrive, StatHub, Nextcloud Deployment" xml:space="preserve">
+    <value>Déploiement d&apos;AiurDrive, StatHub et Nextcloud</value>
+  </data>
   <data name="Aiursoft Substratum Core" xml:space="preserve">
     <value>Aiursoft Substratum Core</value>
   </data>
@@ -44,6 +47,9 @@
   </data>
   <data name="Authentik" xml:space="preserve">
     <value>Authentik</value>
+  </data>
+  <data name="Blog, Kanban" xml:space="preserve">
+    <value>Blog, Kanban</value>
   </data>
   <data name="Contact Sales" xml:space="preserve">
     <value>Contacter les ventes</value>
@@ -87,6 +93,9 @@
   <data name="Includes everything in Startup" xml:space="preserve">
     <value>Comprend tout ce qui est inclus dans Startup</value>
   </data>
+  <data name="Kanban, Ollama Gateway" xml:space="preserve">
+    <value>Kanban, passerelle Ollama</value>
+  </data>
   <data name="Koel, Immich, Memos" xml:space="preserve">
     <value>Koel, Immich, Memos</value>
   </data>
@@ -101,6 +110,9 @@
   </data>
   <data name="MDM based device compliance" xml:space="preserve">
     <value>Conformité des appareils basée sur la GMD</value>
+  </data>
+  <data name="On-premise AnduinOS Apkg" xml:space="preserve">
+    <value>Apkg AnduinOS sur site</value>
   </data>
   <data name="On-premise offline deployment" xml:space="preserve">
     <value>Déploiement hors ligne sur site</value>

@@ -21,11 +21,23 @@
       <data name="Aiursoft" xml:space="preserve">
     <value>Aiursoft</value>
   </data>
+  <data name="Aiursoft is dedicated to bringing the spirit of open-source and free software to every enterprise and individual." xml:space="preserve">
+    <value>Aiursoft стремится распространить дух открытого исходного кода и свободного программного обеспечения среди всех предприятий и частных пользователей.</value>
+  </data>
   <data name="Aiursoft Template - A modern, feature-rich, and highly extensible foundation for your next web application." xml:space="preserve">
     <value>Aiursoft Template — современная, многофункциональная и легко расширяемая основа для вашего следующего веб-приложения.</value>
   </data>
+  <data name="AnduinOS Enterprise" xml:space="preserve">
+    <value>AnduinOS Enterprise</value>
+  </data>
   <data name="Community" xml:space="preserve">
     <value>Сообщество</value>
+  </data>
+  <data name="Company" xml:space="preserve">
+    <value>Компания</value>
+  </data>
+  <data name="Contact" xml:space="preserve">
+    <value>Контакты</value>
   </data>
   <data name="Contributions" xml:space="preserve">
     <value>Вклад</value>
@@ -36,6 +48,9 @@
   <data name="Get Started" xml:space="preserve">
     <value>Начать</value>
   </data>
+  <data name="Get to know us" xml:space="preserve">
+    <value>Ознакомьтесь с нами</value>
+  </data>
   <data name="Github" xml:space="preserve">
     <value>GitHub</value>
   </data>
@@ -44,6 +59,9 @@
   </data>
   <data name="Licence" xml:space="preserve">
     <value>Лицензия</value>
+  </data>
+  <data name="News" xml:space="preserve">
+    <value>Новости</value>
   </data>
   <data name="Privacy Policy" xml:space="preserve">
     <value>Политика конфиденциальности</value>
@@ -60,8 +78,14 @@
   <data name="Social" xml:space="preserve">
     <value>Социальные сети</value>
   </data>
+  <data name="Solutions" xml:space="preserve">
+    <value>Решения</value>
+  </data>
   <data name="Source Code" xml:space="preserve">
     <value>Исходный код</value>
+  </data>
+  <data name="Substratum" xml:space="preserve">
+    <value>Substratum</value>
   </data>
   <data name="Terms of Service" xml:space="preserve">
     <value>Условия использования</value>

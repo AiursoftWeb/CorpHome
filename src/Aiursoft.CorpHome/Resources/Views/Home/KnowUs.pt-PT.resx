@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="About Aiursoft" xml:space="preserve">
+    <value>Sobre a Aiursoft</value>
+  </data>
+  <data name="Address" xml:space="preserve">
+    <value>Morada</value>
+  </data>
+  <data name="Aiursoft is built to last a century. We are just getting started. Every decision we make serves a blueprint measured in decades, not quarters. We resist the urge to chase short-term hype or fleeting trends. Our choices are deliberate, steady, and patient — because the work that truly matters takes time, and we intend to be here for all of it." xml:space="preserve">
+    <value>A Aiursoft foi construída para durar um século. Estamos apenas a começar. Cada decisão que tomamos serve a um plano medido em décadas, não em trimestres. Resistimos à vontade de correr atrás de modas passageiras ou tendências efémeras. As nossas escolhas são deliberadas, estáveis e pacientes — porque o trabalho que realmente importa leva tempo, e pretendemos estar aqui para tudo isso.</value>
+  </data>
+  <data name="Aiursoft is dedicated to bringing the spirit of open-source and free software to every enterprise and individual." xml:space="preserve">
+    <value>A Aiursoft dedica-se a trazer o espírito de código aberto e software livre a todas as empresas e indivíduos.</value>
+  </data>
+  <data name="Aiursoft&apos;s story is closely linked to the communities that shape us, including the global community of open source contributors and enthusiasts who are part of our team. Since 2025, we have built an operating system called AnduinOS — designed to be clean, simple, and accessible to everyone." xml:space="preserve">
+    <value>A história da Aiursoft está intimamente ligada às comunidades que nos moldam, incluindo a comunidade global de contribuintes e entusiastas do código aberto que fazem parte da nossa equipa. Desde 2025, desenvolvemos um sistema operativo chamado AnduinOS — concebido para ser limpo, simples e acessível a todos.</value>
+  </data>
+  <data name="Chapter 1" xml:space="preserve">
+    <value>Capítulo 1</value>
+  </data>
+  <data name="Contact" xml:space="preserve">
+    <value>Contacto</value>
+  </data>
+  <data name="Contact us" xml:space="preserve">
+    <value>Contacte-nos</value>
+  </data>
+  <data name="Director" xml:space="preserve">
+    <value>Diretor</value>
+  </data>
+  <data name="Entity Code" xml:space="preserve">
+    <value>Código da Entidade</value>
+  </data>
+  <data name="Follow us" xml:space="preserve">
+    <value>Siga-nos</value>
+  </data>
+  <data name="For every team member, personal growth comes first — above profit, above deadlines. We design work so that it is accessible without deep prior familiarity: the best learning happens through hands-on exploration, not prerequisites. We value playfulness and genuine curiosity — the kind that makes you lose track of time. When our people grow, the company grows as a natural consequence, not the other way around." xml:space="preserve">
+    <value>Para cada membro da equipa, o crescimento pessoal vem em primeiro lugar — acima do lucro, acima dos prazos. Desenhamos o trabalho para que seja acessível sem uma familiaridade prévia aprofundada: o melhor aprendizado acontece através da exploration prática, não de pré-requisitos. Valorizamos o espírito lúdico e a curiosidade genuína — a espécie que faz perder noção do tempo. Quando as nossas pessoas crescem, a empresa cresce como consequência natural, e não vice-versa.</value>
+  </data>
+  <data name="Freedom" xml:space="preserve">
+    <value>Liberdade</value>
+  </data>
+  <data name="Growth" xml:space="preserve">
+    <value>Crescimento</value>
+  </data>
+  <data name="Headquarters — Hong Kong" xml:space="preserve">
+    <value>Sede — Hong Kong</value>
+  </data>
+  <data name="Legal Representative" xml:space="preserve">
+    <value>Representante Legal</value>
+  </data>
+  <data name="Long-term" xml:space="preserve">
+    <value>A longo prazo</value>
+  </data>
+  <data name="Our Culture" xml:space="preserve">
+    <value>A Nossa Cultura</value>
+  </data>
+  <data name="Registered Address" xml:space="preserve">
+    <value>Morada Registada</value>
+  </data>
+  <data name="Tel" xml:space="preserve">
+    <value>Tel.</value>
+  </data>
+  <data name="We open-source everything we build. We reject vendor lock-in and ecosystem entrapment. We respect open standards, champion offline-first operation, and believe every right to the code belongs to the customer and the device owner. We build nothing that stands between software users and their freedom to tinker — no barriers, no gatekeeping, no artificial constraints on what a hacker or user can do with the tools we create." xml:space="preserve">
+    <value>Tornamos em código aberto tudo o que construímos. Rejeitamos o lock-in de fornecedores e o enclausuramento em ecossistemas. Respeitamos os padrões abertos, defendemos o funcionamento offline-first e acreditamos que todos os direitos sobre o código pertencem ao cliente e ao proprietário do dispositivo. Não construímos nada que se interponha entre os utilizadores de software e a sua liberdade de experimentar — sem barreiras, sem controlo excessivo, sem restrições artificiais ao que um hacker ou utilizador pode fazer com as ferramentas que criamos.</value>
+  </data>
+  <data name="Where to find us" xml:space="preserve">
+    <value>Onde nos encontrar</value>
+  </data>
+
+</root>

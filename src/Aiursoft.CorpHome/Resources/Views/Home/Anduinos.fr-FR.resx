@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name=".aosproj replaces a dozen arcane Debian files with a single declarative manifest. If you know .csproj, you know packaging." xml:space="preserve">
+    <value>.aosproj remplace une douzaine de fichiers Debian arcaniques par un seul manifeste déclaratif. Si vous connaissez .csproj, vous maîtrisez l&apos;empaquetage.</value>
+  </data>
+  <data name="10-Second Boot" xml:space="preserve">
+    <value>Démarrage en 10 secondes</value>
+  </data>
+  <data name="Add to Management Cloud and go live" xml:space="preserve">
+    <value>Ajouter au Cloud de gestion et démarrer</value>
+  </data>
+  <data name="All the power of open-source, backed by enterprise-grade support, management tools, and customisation capabilities." xml:space="preserve">
+    <value>Toute la puissance du open-source, renforcée par un support, des outils de gestion et des capacités de personnalisation de niveau entreprise.</value>
+  </data>
+  <data name="AnduinOS device" xml:space="preserve">
+    <value>appareil AnduinOS</value>
+  </data>
+  <data name="AnduinOS Enterprise" xml:space="preserve">
+    <value>AnduinOS Enterprise</value>
+  </data>
+  <data name="AnduinOS Enterprise is backed by our 7x24 on-call support team. From initial deployment to ongoing operations, we ensure your fleet stays secure, updated, and running smoothly." xml:space="preserve">
+    <value>AnduinOS Enterprise est soutenu par notre équipe de support disponible 24h/24 et 7j/7. De la déploiement initial aux opérations en cours, nous nous assurons que votre flotte reste sécurisée, à jour et fonctionne sans encombre.</value>
+  </data>
+  <data name="AnduinOS Enterprise provides brand customisation, enabling you to replace the system logo with your own." xml:space="preserve">
+    <value>AnduinOS Enterprise propose une personnalisation de la marque, vous permettant de remplacer le logo du système par le vôtre.</value>
+  </data>
+  <data name="AnduinOS fleet" xml:space="preserve">
+    <value>flotte AnduinOS</value>
+  </data>
+  <data name="AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
+    <value>AnduinOS est une distribution Linux personnalisée basée sur Ubuntu qui offre une expérience familière et facile à utiliser pour toute personne passant à Linux.</value>
+  </data>
+  <data name="AnduinOS is an open-source project. Following the GPL-v3 license, you can view the source code, modify it, and redistribute it. It&apos;s free and will always be free." xml:space="preserve">
+    <value>AnduinOS est un projet open source. Conformément à la licence GPL-v3, vous pouvez consulter, modifier et redistribuer le code source. Il est gratuit et le restera toujours.</value>
+  </data>
+  <data name="AnduinOS is based on Ubuntu&apos;s package base. It&apos;s compatible with most of the apt packages from Ubuntu. It&apos;s a perfect combination of experience and ecology." xml:space="preserve">
+    <value>AnduinOS est basé sur la base de packages d&apos;Ubuntu. Il est compatible avec la plupart des packages apt d&apos;Ubuntu. C&apos;est une combinaison parfaite d&apos;expérience et d&apos;écosystème.</value>
+  </data>
+  <data name="AnduinOS Kiosk" xml:space="preserve">
+    <value>AnduinOS Kiosque</value>
+  </data>
+  <data name="AnduinOS Management Cloud" xml:space="preserve">
+    <value>Cloud de gestion AnduinOS</value>
+  </data>
+  <data name="AnduinOS wakes up almost as fast as you can blink. Wait time? What&apos;s that? Lightning-fast start-up on any hardware." xml:space="preserve">
+    <value>AnduinOS démarre aussi vite qu’un clignement de yeux. Temps d’attente ? C’est quoi ce truc ? Un démarrage à la vitesse de l’éclair sur tout matériel.</value>
+  </data>
+  <data name="Apkg Dashboard Screenshot" xml:space="preserve">
+    <value>Capture d&apos;écran du tableau de bord Apkg</value>
+  </data>
+  <data name="Apkg is a declarative APT repository platform that lets you host signed Debian repositories, mirror upstream archives, and publish your own .apkg packages — all fully on-premise. Integrates seamlessly with AnduinOS for painless apt update &amp;&amp; apt install workflows across your entire fleet." xml:space="preserve">
+    <value>Apkg est une plateforme de référentiel APT déclarative qui vous permet d&apos;héberger des référentiels Debian signés, de miroir les archives en amont et de publier vos propres packages .apkg — le tout entièrement en interne. Il s&apos;intègre parfaitement avec AnduinOS pour des workflows apt update &amp;&amp; apt install sans effort sur l&apos;ensemble de votre flotte.</value>
+  </data>
+  <data name="Atomic Snapshots" xml:space="preserve">
+    <value>Instantanés atomiques</value>
+  </data>
+  <data name="Auto Updates on Reboot" xml:space="preserve">
+    <value>Mises à jour automatiques au redémarrage</value>
+  </data>
+  <data name="Boot &amp; Configure" xml:space="preserve">
+    <value>Démarrer et configurer</value>
+  </data>
+  <data name="Boot from USB and auto-configure" xml:space="preserve">
+    <value>Démarrer depuis la clé USB et configurer automatiquement</value>
+  </data>
+  <data name="Brand Customisation" xml:space="preserve">
+    <value>Personnalisation de la marque</value>
+  </data>
+  <data name="Built for business. Air-gapped by design." xml:space="preserve">
+    <value>Conçu pour les entreprises. Déconnecté par conception.</value>
+  </data>
+  <data name="Built on the same infrastructure that powers AnduinOS package delivery. Push updates to your entire fleet with a single command." xml:space="preserve">
+    <value>Construit sur la même infrastructure qui alimente la distribution de paquets d&apos;AnduinOS. Poussez les mises à jour vers toute votre flotte avec une seule commande.</value>
+  </data>
+  <data name="Bulk operations across your entire fleet" xml:space="preserve">
+    <value>Opérations par lots sur l&apos;ensemble de votre flotte</value>
+  </data>
+  <data name="Community Site" xml:space="preserve">
+    <value>Site Communautaire</value>
+  </data>
+  <data name="Compliance-ready default configurations" xml:space="preserve">
+    <value>Configurations par défaut conformes aux réglementations</value>
+  </data>
+  <data name="Contact Enterprise Sales" xml:space="preserve">
+    <value>Contacter le service commercial pour les entreprises</value>
+  </data>
+  <data name="Containerized" xml:space="preserve">
+    <value>Conteneurisé</value>
+  </data>
+  <data name="Control and configure thousands of devices and policies efficiently from a single dashboard." xml:space="preserve">
+    <value>Contrôlez et configurez efficacement des milliers d&apos;appareils et de stratégies à partir d&apos;un seul tableau de bord.</value>
+  </data>
+  <data name="Control, customize, and secure thousands of devices with enterprise tools built for scale." xml:space="preserve">
+    <value>Contrôlez, personnalisez et sécurisez des milliers d&apos;appareils grâce à des outils entreprise conçus pour l&apos;évolutivité.</value>
+  </data>
+  <data name="Curated internal software catalog" xml:space="preserve">
+    <value>Catalogue de logiciels internes soigneusement sélectionné</value>
+  </data>
+  <data name="Custom default wallpaper and themes" xml:space="preserve">
+    <value>Fond d’écran et thèmes par défaut personnalisés</value>
+  </data>
+  <data name="Data stays on your servers. Authentication and authorization ensure only your team can access your metrics." xml:space="preserve">
+    <value>Les données restent sur vos serveurs. L&apos;authentification et l&apos;autorisation garantissent que seul votre équipe peut accéder à vos métriques.</value>
+  </data>
+  <data name="Declarative Packaging" xml:space="preserve">
+    <value>Conditionnement déclaratif</value>
+  </data>
+  <data name="Deploy AnduinOS with your Enterprise!" xml:space="preserve">
+    <value>Déployez AnduinOS au sein de votre entreprise !</value>
+  </data>
+  <data name="Deploy at scale, manage centrally, enjoy the enterprise edition!" xml:space="preserve">
+    <value>Déployez à grande échelle, gérez de manière centralisée, profitez de l&apos;édition entreprise !</value>
+  </data>
+  <data name="Deploy interactive kiosks, information displays, and self-service terminals on standard PC hardware." xml:space="preserve">
+    <value>Déployez des bornes interactives, des écrans d’information et des terminaux d’autoservice sur du matériel informatique standard.</value>
+  </data>
+  <data name="Deployment" xml:space="preserve">
+    <value>Déploiement</value>
+  </data>
+  <data name="digital signage and kiosk terminals" xml:space="preserve">
+    <value>affichage numérique et bornes interactives</value>
+  </data>
+  <data name="Distribute your own software packages internally via standard apt protocol. Take control of your enterprise package ecosystem." xml:space="preserve">
+    <value>Distribuez vos propres packages logiciels en interne via le protocole apt standard. Prenez le contrôle de votre écosystème de packages d&apos;entreprise.</value>
+  </data>
+  <data name="Docs" xml:space="preserve">
+    <value>Documentation</value>
+  </data>
+  <data name="Download" xml:space="preserve">
+    <value>Télécharger</value>
+  </data>
+  <data name="Download AnduinOS" xml:space="preserve">
+    <value>Télécharger AnduinOS</value>
+  </data>
+  <data name="Ecological perfection" xml:space="preserve">
+    <value>Excellence de l&apos;écosystème</value>
+  </data>
+  <data name="Enroll" xml:space="preserve">
+    <value>Inscrire</value>
+  </data>
+  <data name="Enterprise Services" xml:space="preserve">
+    <value>Services Entreprise</value>
+  </data>
+  <data name="Enterprise-grade management for your fleet" xml:space="preserve">
+    <value>Gestion de flotte de niveau entreprise</value>
+  </data>
+  <data name="Explore Apkg" xml:space="preserve">
+    <value>Découvrir Apkg</value>
+  </data>
+  <data name="Explore StatHub" xml:space="preserve">
+    <value>Découvrir StatHub</value>
+  </data>
+  <data name="Flash" xml:space="preserve">
+    <value>Graver</value>
+  </data>
+  <data name="Free" xml:space="preserve">
+    <value>Gratuit</value>
+  </data>
+  <data name="Friendly interface" xml:space="preserve">
+    <value>Interface conviviale</value>
+  </data>
+  <data name="Fully On-Premise" xml:space="preserve">
+    <value>Entièrement sur site</value>
+  </data>
+  <data name="Get the AnduinOS image from our site" xml:space="preserve">
+    <value>Téléchargez l&apos;image AnduinOS depuis notre site</value>
+  </data>
+  <data name="Get up-to-the-second updates on every AnduinOS device&apos;s CPU, memory, disk, and network usage." xml:space="preserve">
+    <value>Recevez des mises à jour en temps réel sur l&apos;utilisation du CPU, de la mémoire, du disque et du réseau de chaque appareil AnduinOS.</value>
+  </data>
+  <data name="GPL-v3 License" xml:space="preserve">
+    <value>Licence GPL-v3</value>
+  </data>
+  <data name="Graphical applications are installed via Flatpak, and keep themselves separate from the base system. They also allow for fine-grained control over their permissions." xml:space="preserve">
+    <value>Les applications graphiques sont installées via Flatpak et restent isolées du système de base. Elles permettent également un contrôle fin de leurs autorisations.</value>
+  </data>
+  <data name="Internal package distribution via apt" xml:space="preserve">
+    <value>Distribution de paquets internes via apt</value>
+  </data>
+  <data name="Kiosk &amp; Digital Signage" xml:space="preserve">
+    <value>Kiosques et Affichage Numérique</value>
+  </data>
+  <data name="Kiosk mode prevents unauthorized access. Users can only interact with your approved application, keeping your deployment secure." xml:space="preserve">
+    <value>Le mode kiosque empêche l&apos;accès non autorisé. Les utilisateurs ne peuvent interagir qu&apos;avec votre application approuvée, garantissant la sécurité de votre déploiement.</value>
+  </data>
+  <data name="Lightweight Agents" xml:space="preserve">
+    <value>Agents légers</value>
+  </data>
+  <data name="Locked-down &amp; tamper-proof" xml:space="preserve">
+    <value>Verrouillé et incassable</value>
+  </data>
+  <data name="Love AnduinOS?" xml:space="preserve">
+    <value>Vous aimez AnduinOS ?</value>
+  </data>
+  <data name="Low-overhead agents collect metrics without impacting your AnduinOS devices&apos; performance. Deploy in seconds with Docker." xml:space="preserve">
+    <value>Les agents à faible empreinte collectent les métriques sans affecter les performances de vos appareils AnduinOS. Déployez en quelques secondes avec Docker.</value>
+  </data>
+  <data name="Minimal maintenance. Maximum stability." xml:space="preserve">
+    <value>Maintenance minimale. Stabilité maximale.</value>
+  </data>
+  <data name="Monitor thousands of AnduinOS devices from a single centralized dashboard. Scale as your fleet grows." xml:space="preserve">
+    <value>Surveillez des milliers d&apos;appareils AnduinOS à partir d&apos;un tableau de bord centralisé unique. Évitez les limites à mesure que votre flotte s&apos;agrandit.</value>
+  </data>
+  <data name="Monitor your entire" xml:space="preserve">
+    <value>Surveillez votre</value>
+  </data>
+  <data name="Monitoring" xml:space="preserve">
+    <value>Surveillance</value>
+  </data>
+  <data name="Multi-Node" xml:space="preserve">
+    <value>Multi-nœuds</value>
+  </data>
+  <data name="Offline repository mirrors for air-gapped networks" xml:space="preserve">
+    <value>Miroirs de référentiels hors ligne pour les réseaux isolés</value>
+  </data>
+  <data name="Open Source" xml:space="preserve">
+    <value>Code source</value>
+  </data>
+  <data name="Package Distribution" xml:space="preserve">
+    <value>Distribution de packages</value>
+  </data>
+  <data name="Performance" xml:space="preserve">
+    <value>Performance</value>
+  </data>
+  <data name="Pre-install company software packages" xml:space="preserve">
+    <value>Préinstallation des packages logiciels de l&apos;entreprise</value>
+  </data>
+  <data name="Privacy is no longer optional. It&apos;s essential. AnduinOS is designed to gather nothing from you. We don&apos;t track you. We don&apos;t profile you. We don&apos;t target you. You remain anonymous to the system." xml:space="preserve">
+    <value>La confidentialité n&apos;est plus une option. Elle est essentielle. AnduinOS est conçu pour ne rien collecter sur vous. Nous ne vous suivons pas. Nous ne créons pas de profil pour vous. Nous ne vous ciblons pas. Vous restez anonyme pour le système.</value>
+  </data>
+  <data name="Private Apkg" xml:space="preserve">
+    <value>Apkg privé</value>
+  </data>
+  <data name="Ready to use" xml:space="preserve">
+    <value>Prêt à l&apos;emploi</value>
+  </data>
+  <data name="Real-time" xml:space="preserve">
+    <value>Temps réel</value>
+  </data>
+  <data name="Real-time device health monitoring" xml:space="preserve">
+    <value>Surveillance en temps réel de l&apos;état des appareils</value>
+  </data>
+  <data name="Reasons" xml:space="preserve">
+    <value>Raisons</value>
+  </data>
+  <data name="Remote configuration and policy enforcement" xml:space="preserve">
+    <value>Configuration à distance et application des stratégies</value>
+  </data>
+  <data name="Remote content management" xml:space="preserve">
+    <value>Gestion de contenu à distance</value>
+  </data>
+  <data name="Replace system logo and boot screen" xml:space="preserve">
+    <value>Remplacer le logo du système et l&apos;écran de démarrage</value>
+  </data>
+  <data name="Resource Efficient" xml:space="preserve">
+    <value>Optimisation des ressources</value>
+  </data>
+  <data name="Role-based access control for IT teams" xml:space="preserve">
+    <value>Contrôle d&apos;accès basé sur les rôles pour les équipes informatiques</value>
+  </data>
+  <data name="Root and privacy" xml:space="preserve">
+    <value>Superutilisateurs et confidentialité</value>
+  </data>
+  <data name="Run your own APT infrastructure behind the firewall. No external dependencies, no proprietary agents — just standard apt." xml:space="preserve">
+    <value>Déployez votre propre infrastructure APT derrière le pare-feu. Aucune dépendance externe, aucun agent propriétaire — juste apt standard.</value>
+  </data>
+  <data name="Runs smoothly on older devices. Extends hardware lifespan by being resource-efficient, so you don&apos;t need to buy new machines." xml:space="preserve">
+    <value>Fonctionne fluidement sur les anciens appareils. Prolonge la durée de vie du matériel grâce à son faible encombrement, vous évitant ainsi d&apos;acheter de nouvelles machines.</value>
+  </data>
+  <data name="Seamless AnduinOS Integration" xml:space="preserve">
+    <value>Intégration transparente à AnduinOS</value>
+  </data>
+  <data name="Secure" xml:space="preserve">
+    <value>Sécurisé</value>
+  </data>
+  <data name="Set up your system in under 5 minutes" xml:space="preserve">
+    <value>Configurez votre système en moins de 5 minutes</value>
+  </data>
+  <data name="Ship software to every" xml:space="preserve">
+    <value>Déployez des logiciels sur chaque</value>
+  </data>
+  <data name="Simple, user-friendly. Broad compatibility with virtually all PC hardware." xml:space="preserve">
+    <value>Simple et intuitif. Compatibilité étendue avec pratiquement tout le matériel PC.</value>
+  </data>
+  <data name="Smaller image, friendly interface, unbeatable performance, safe and secure." xml:space="preserve">
+    <value>Image réduite, interface conviviale, performances inégalées, sécurité et fiabilité.</value>
+  </data>
+  <data name="Source Code" xml:space="preserve">
+    <value>Code source</value>
+  </data>
+  <data name="Speedy Makeover" xml:space="preserve">
+    <value>Transformation Rapide</value>
+  </data>
+  <data name="StatHub Dashboard Screenshot" xml:space="preserve">
+    <value>Capture d’écran du tableau de bord StatHub</value>
+  </data>
+  <data name="StatHub is a simple, real-time server monitoring system designed for local deployment. Keep an eye on your entire AnduinOS infrastructure with intuitive dashboards and detailed metrics — all from a single pane of glass." xml:space="preserve">
+    <value>StatHub est un système de surveillance de serveurs simple et en temps réel, conçu pour le déploiement local. Gardez un œil sur toute votre infrastructure AnduinOS grâce à des tableaux de bord intuitifs et à des métriques détaillées — le tout depuis une interface centralisée.</value>
+  </data>
+  <data name="Sync, sign, and promote atomically via rename(2). APT clients never see half-written metadata — only consistent, signed snapshots." xml:space="preserve">
+    <value>Synchronisez, signez et promouvez de manière atomique via rename(2). Les clients APT ne voient jamais de métadonnées partiellement écrites, mais uniquement des instantanés cohérents et signés.</value>
+  </data>
+  <data name="System updates apply automatically when you restart. Zero maintenance windows — just reboot, and you&apos;re on the latest version." xml:space="preserve">
+    <value>Les mises à jour système s’appliquent automatiquement au redémarrage. Zéro fenêtre de maintenance : redémarrez simplement, et vous disposez de la dernière version.</value>
+  </data>
+  <data name="The GNOME-based desktop environment has beautiful interfaces and human-computer interactions that fit user habits, allowing you to quickly get started with AnduinOS without too much learning cost." xml:space="preserve">
+    <value>L&apos;environnement de bureau basé sur GNOME offre des interfaces élégantes et des interactions homme-machine adaptées aux habitudes des utilisateurs, vous permettant de vous familiariser rapidement avec AnduinOS sans coût d&apos;apprentissage excessif.</value>
+  </data>
+  <data name="The ideal solution for" xml:space="preserve">
+    <value>La solution idéale pour</value>
+  </data>
+  <data name="The ISO is just 2.4GB in size. Similar to Ubuntu, it is simple to install and can meet your daily needs without additional configuration or complicated operations." xml:space="preserve">
+    <value>L&apos;ISO ne fait que 2,4 Go. Similaire à Ubuntu, il est facile à installer et peut répondre à vos besoins quotidiens sans configuration supplémentaire ni opérations complexes.</value>
+  </data>
+  <data name="Tired of your sluggish OS slowing you down? Switch to AnduinOS for instant speed and seamless performance." xml:space="preserve">
+    <value>Vous en avez assez de votre système d&apos;exploitation lent qui vous ralentit ? Passez à AnduinOS pour une vitesse instantanée et des performances fluides.</value>
+  </data>
+  <data name="Transform any PC into a secure, managed kiosk. Our in-house kiosk content management suite is available now — try it today." xml:space="preserve">
+    <value>Transformez n&apos;importe quel PC en borne kiosk sécurisée et gérée. Notre suite interne de gestion du contenu kiosk est disponible dès maintenant — essayez-la dès aujourd&apos;hui.</value>
+  </data>
+  <data name="Turn any screen into a kiosk" xml:space="preserve">
+    <value>Transformez n&apos;importe quel écran en borne d&apos;accès</value>
+  </data>
+  <data name="Update content, push configurations, and monitor device health — all from the cloud. No need for on-site visits." xml:space="preserve">
+    <value>Mettez à jour le contenu, diffusez les configurations et surveillez l’état des appareils, le tout depuis le cloud. Plus besoin de déplacements sur site.</value>
+  </data>
+  <data name="Version pinning and controlled rollouts" xml:space="preserve">
+    <value>Ancrage des versions et déploiements contrôlés</value>
+  </data>
+  <data name="Visit Community Site" xml:space="preserve">
+    <value>Visiter le site de la communauté</value>
+  </data>
+  <data name="Why choose AnduinOS?" xml:space="preserve">
+    <value>Pourquoi choisir AnduinOS ?</value>
+  </data>
+  <data name="with Apkg" xml:space="preserve">
+    <value>avec Apkg</value>
+  </data>
+  <data name="With just a few clicks, you can have AnduinOS running on any machine. Enjoy automatic updates, built-in security, and remote management from the cloud — so once deployed, it just works." xml:space="preserve">
+    <value>En quelques clics seulement, vous pouvez faire fonctionner AnduinOS sur n&apos;importe quelle machine. Profitez des mises à jour automatiques, de la sécurité intégrée et de la gestion à distance via le cloud — une fois déployé, il fonctionne tout seul.</value>
+  </data>
+  <data name="with StatHub" xml:space="preserve">
+    <value>avec StatHub</value>
+  </data>
+  <data name="Write the image to a USB drive" xml:space="preserve">
+    <value>Graver l&apos;image sur une clé USB</value>
+  </data>
+
+</root>
