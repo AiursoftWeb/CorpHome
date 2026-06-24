@@ -1,4 +1,9 @@
 @model Aiursoft.CorpHome.Models.HomeViewModels.KnowUsViewModel
+@* ReSharper disable once Razor.SectionNotResolved *@
+@section styles {
+    <link rel="stylesheet" href="~/styles/site.css" xmlns="http://www.w3.org/1999/html"/>
+    <link rel="stylesheet" href="~/styles/marketing.css" xmlns="http://www.w3.org/1999/html"/>
+}
 
 <vc:marketing-navbar></vc:marketing-navbar>
 
@@ -29,6 +34,44 @@
     </div>
 </section>
 
+@* Company Culture *@
+<section class="py-6 bg-white">
+    <div class="container">
+        <div class="text-center mb-5">
+            <h2 class="h1">@Localizer["Our Culture"]</h2>
+        </div>
+        <div class="row g-4">
+            <div class="col-lg-4">
+                <div class="text-center p-4">
+                    <div class="icon-box-lg bg-primary-subtle text-primary rounded-circle mx-auto mb-4">
+                        <i data-lucide="lock-open" style="width: 1.75rem; height: 1.75rem;"></i>
+                    </div>
+                    <h3 class="fw-bold">@Localizer["Freedom"]</h3>
+                    <p class="text-muted">@Localizer["We open-source everything we build. We reject vendor lock-in and ecosystem entrapment. We respect open standards, champion offline-first operation, and believe every right to the code belongs to the customer and the device owner. We build nothing that stands between software users and their freedom to tinker — no barriers, no gatekeeping, no artificial constraints on what a hacker or user can do with the tools we create."]</p>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="text-center p-4">
+                    <div class="icon-box-lg bg-success-subtle text-success rounded-circle mx-auto mb-4">
+                        <i data-lucide="sprout" style="width: 1.75rem; height: 1.75rem;"></i>
+                    </div>
+                    <h3 class="fw-bold">@Localizer["Growth"]</h3>
+                    <p class="text-muted">@Localizer["For every team member, personal growth comes first — above profit, above deadlines. We design work so that it is accessible without deep prior familiarity: the best learning happens through hands-on exploration, not prerequisites. We value playfulness and genuine curiosity — the kind that makes you lose track of time. When our people grow, the company grows as a natural consequence, not the other way around."]</p>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="text-center p-4">
+                    <div class="icon-box-lg bg-warning-subtle text-warning rounded-circle mx-auto mb-4">
+                        <i data-lucide="clock" style="width: 1.75rem; height: 1.75rem;"></i>
+                    </div>
+                    <h3 class="fw-bold">@Localizer["Long-term"]</h3>
+                    <p class="text-muted">@Localizer["Aiursoft is built to last a century. We are just getting started. Every decision we make serves a blueprint measured in decades, not quarters. We resist the urge to chase short-term hype or fleeting trends. Our choices are deliberate, steady, and patient — because the work that truly matters takes time, and we intend to be here for all of it."]</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 @* Where to find us *@
 <section class="py-6 bg-light">
     <div class="container">
@@ -47,8 +90,19 @@
                         <dl class="row mb-0 small">
                             <dt class="col-sm-4 text-muted fw-normal">@Localizer["Entity Code"]</dt>
                             <dd class="col-sm-8">79541265</dd>
-                            <dt class="col-sm-4 text-muted fw-normal">@Localizer["Director"]</dt>
-                            <dd class="col-sm-8">FENG XUE</dd>
+                            <dt class="col-sm-4 text-muted fw-normal align-self-center">@Localizer["Director"]</dt>
+                            <dd class="col-sm-8">
+                                <div class="d-flex align-items-center p-3 bg-light rounded-3 border">
+                                    <img src="~/images/team/anduin.jpg" alt="Anduin Xue" class="rounded-circle border border-2 border-white shadow-sm me-3 flex-shrink-0" style="width: 52px; height: 52px; object-fit: cover;" />
+                                    <div class="flex-grow-1">
+                                        <div class="fw-semibold">Anduin Xue</div>
+                                        <div class="text-muted small">@Localizer["Legal Representative"]</div>
+                                    </div>
+                                    <a href="https://hk.linkedin.com/in/anduin2017" target="_blank" class="btn btn-outline-primary btn-sm rounded-pill flex-shrink-0">
+                                        <i class="fa-brands fa-linkedin me-1"></i>@Localizer["Contact"]
+                                    </a>
+                                </div>
+                            </dd>
                             <dt class="col-sm-4 text-muted fw-normal">@Localizer["Registered Address"]</dt>
                             <dd class="col-sm-8">UNIT 2A, 17/F GLENEALY TOWER NO.1 GLENEALY CENTRAL HONG KONG</dd>
                             <dt class="col-sm-4 text-muted fw-normal">@Localizer["Contact"]</dt>
@@ -68,8 +122,19 @@
                         <dl class="row mb-0 small">
                             <dt class="col-sm-4 text-muted fw-normal">@Localizer["Entity Code"]</dt>
                             <dd class="col-sm-8">91320594MAEKJK0L03</dd>
-                            <dt class="col-sm-4 text-muted fw-normal">@Localizer["Director"]</dt>
-                            <dd class="col-sm-8">陈柏楠 / CHEN BAINAN</dd>
+                            <dt class="col-sm-4 text-muted fw-normal align-self-center">@Localizer["Director"]</dt>
+                            <dd class="col-sm-8">
+                                <div class="d-flex align-items-center p-3 bg-light rounded-3 border">
+                                    <img src="~/images/team/dvorak.jpg" alt="Dvorak Chen" class="rounded-circle border border-2 border-white shadow-sm me-3 flex-shrink-0" style="width: 52px; height: 52px; object-fit: cover;" />
+                                    <div class="flex-grow-1">
+                                        <div class="fw-semibold">陈柏楠</div>
+                                        <div class="text-muted small">CHEN BAINAN · @Localizer["Legal Representative"]</div>
+                                    </div>
+                                    <a href="https://cn.linkedin.com/in/dvorakchen" target="_blank" class="btn btn-outline-primary btn-sm rounded-pill flex-shrink-0">
+                                        <i class="fa-brands fa-linkedin me-1"></i>@Localizer["Contact"]
+                                    </a>
+                                </div>
+                            </dd>
                             <dt class="col-sm-4 text-muted fw-normal">@Localizer["Address"]</dt>
                             <dd class="col-sm-8">中国（江苏）自由贸易试验区苏州片区苏州工业园区东长路88号D1栋3层C区C02</dd>
                             <dt class="col-sm-4 text-muted fw-normal">@Localizer["Contact"]</dt>
@@ -84,4 +149,28 @@
     </div>
 </section>
 
+@* Social *@
+<section class="py-4 bg-white border-top">
+    <div class="container text-center">
+        <p class="text-muted small mb-3">@Localizer["Follow us"]</p>
+        <div class="d-flex justify-content-center gap-4 mb-4">
+            <a href="https://github.com/aiursoftweb" target="_blank" class="text-muted fs-4" title="GitHub">
+                <i class="fa-brands fa-github"></i>
+            </a>
+            <a href="https://www.linkedin.com/company/aiursoft-limited/" target="_blank" class="text-muted fs-4" title="LinkedIn">
+                <i class="fa-brands fa-linkedin"></i>
+            </a>
+        </div>
+        <a asp-controller="Home" asp-action="Contact" class="btn btn-primary btn-pill px-4">
+            <i class="align-middle me-2" data-lucide="mail"></i>@Localizer["Contact us"]
+        </a>
+    </div>
+</section>
+
 <vc:marketing-footer></vc:marketing-footer>
+
+@* ReSharper disable once Razor.SectionNotResolved *@
+@section scripts {
+    <script src="~/scripts/lucide.min.js"></script>
+    <script>lucide.createIcons();</script>
+}
