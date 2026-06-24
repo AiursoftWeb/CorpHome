@@ -36,6 +36,9 @@
   <data name="AnduinOS Enterprise (Desktop OS)" xml:space="preserve">
     <value>AnduinOS Enterprise (桌面作業系統)</value>
   </data>
+  <data name="Authentik uses an Open Core model. The Community Edition is licensed under the permissive MIT license, which allows commercial use, modification, and redistribution. We provide the Community Edition (MIT) as part of Substratum. The Enterprise Edition requires a separate commercial license from Authentik." xml:space="preserve">
+    <value>Authentik 採用開放核心（Open Core）模式。社區版採用寬鬆的 MIT 許可證，允許商業使用、修改及重新分發。我們作為 Substratum 的一部分提供社區版（MIT）。企業版需要向 Authentik 另行購買商業許可證。</value>
+  </data>
   <data name="Business hours email support" xml:space="preserve">
     <value>商務時間電郵支援</value>
   </data>
@@ -93,6 +96,12 @@
   <data name="Fleet device policy management" xml:space="preserve">
     <value>fleets 裝置策略管理</value>
   </data>
+  <data name="GitLab is a trademark of GitLab Inc. Aiursoft provides deployment, hosting, and integration services for GitLab — we are not affiliated with or endorsed by GitLab Inc. The GitLab Community Edition (CE) is MIT-licensed and can be deployed freely. The GitLab Enterprise Edition (EE) requires a separate license purchased from GitLab Inc. We can assist you with procuring the appropriate GitLab EE license, or you may choose to remove this item from your plan." xml:space="preserve">
+    <value>GitLab 係 GitLab Inc. 嘅商標。Aiursoft 為 GitLab 提供部署、託管同整合服務 — 我哋與 GitLab Inc. 冇任何從屬關係，亦未獲得佢哋嘅認可。GitLab 社區版（CE）採用 MIT 授權，可以自由部署。GitLab 企業版（EE）則需要另行向 GitLab Inc. 購買授權。我哋可以協助你採購適當嘅 GitLab EE 授權，或者你可以選擇將呢項服務從方案中移除。</value>
+  </data>
+  <data name="Hacker" xml:space="preserve">
+    <value>黑客</value>
+  </data>
   <data name="Hardware key enforcement" xml:space="preserve">
     <value>硬件金鑰強制執行</value>
   </data>
@@ -114,6 +123,9 @@
   <data name="Local LLM API Gateway" xml:space="preserve">
     <value>本地 LLM API 閘道</value>
   </data>
+  <data name="Mailcow is open-source software (GPL-3.0). Aiursoft provides managed hosting, deployment, and integration services. Any custom modifications provided during your on-premise deployment are fully compliant with and distributed under the GPL-3.0 license." xml:space="preserve">
+    <value>Mailcow 為開源軟件（GPL-3.0）。Aiursoft 提供託管、部署及集成服務。在本地部署期間提供的任何自訂修改均完全符合 GPL-3.0 許可證，並依據該許可證分發。</value>
+  </data>
   <data name="Managed endpoint OS" xml:space="preserve">
     <value>受管端作業系統</value>
   </data>
@@ -134,6 +146,9 @@
   </data>
   <data name="Multi-site &amp; HA capable" xml:space="preserve">
     <value>支援多站點及高可用性</value>
+  </data>
+  <data name="Nextcloud is a trademark of Nextcloud GmbH. Aiursoft is an independent integration provider. To ensure enterprise-grade stability and strict adherence to the AGPL-3.0 license, we deploy the official, unmodified Nextcloud releases and seamlessly connect your stack via standard APIs, OIDC/SAML, and official plugins." xml:space="preserve">
+    <value>Nextcloud 係 Nextcloud GmbH 嘅商標。Aiursoft 係獨立嘅整合服務供應商。為確保企業級嘅穩定性及嚴格遵守 AGPL-3.0 授權條款，我哋會部署官方未經修改嘅 Nextcloud 版本，並透過標準 API、OIDC/SAML 同官方插件，將你嘅系統無縫連接。</value>
   </data>
   <data name="Not included" xml:space="preserve">
     <value>不屬於此範圍</value>
@@ -165,6 +180,9 @@
   <data name="Photo &amp; Video Management" xml:space="preserve">
     <value>照片與影片管理</value>
   </data>
+  <data name="Private APT Repository" xml:space="preserve">
+    <value>私人 APT 儲存庫</value>
+  </data>
   <data name="Productivity &amp; Collaboration" xml:space="preserve">
     <value>生產力與協作</value>
   </data>
@@ -176,6 +194,9 @@
   </data>
   <data name="Scale &amp; Support" xml:space="preserve">
     <value>規模與支援</value>
+  </data>
+  <data name="Self-hosted APT repository with .apkg publishing" xml:space="preserve">
+    <value>支援 .apkg 發佈的自建 APT 儲存庫</value>
   </data>
   <data name="Self-hosted LLM inference gateway" xml:space="preserve">
     <value>自託管式 LLM 推理閘道</value>
@@ -207,6 +228,9 @@
   <data name="Talk to an Architect" xml:space="preserve">
     <value>與建築師洽談</value>
   </data>
+  <data name="Team Blog" xml:space="preserve">
+    <value>團隊部落格</value>
+  </data>
   <data name="Team Voting" xml:space="preserve">
     <value>團隊投票</value>
   </data>
@@ -221,6 +245,9 @@
   </data>
   <data name="What&apos;s Included" xml:space="preserve">
     <value>包含內容</value>
+  </data>
+  <data name="Workspace Boards" xml:space="preserve">
+    <value>工作區看板</value>
   </data>
   <data name="Zero Trust Yubikey Auth" xml:space="preserve">
     <value>零信任 Yubikey 身份驗證</value>

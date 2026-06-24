@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="About Aiursoft" xml:space="preserve">
+    <value>Aiursoft 소개</value>
+  </data>
+  <data name="Address" xml:space="preserve">
+    <value>주소</value>
+  </data>
+  <data name="Aiursoft is built to last a century. We are just getting started. Every decision we make serves a blueprint measured in decades, not quarters. We resist the urge to chase short-term hype or fleeting trends. Our choices are deliberate, steady, and patient — because the work that truly matters takes time, and we intend to be here for all of it." xml:space="preserve">
+    <value>Aiursoft는 100년을 지탱할 수 있도록 구축되었습니다. 우리는 이제 막 시작했을 뿐입니다. 우리가 내리는 모든 결정은 분기별 성과가 아닌 수십 년 단위의 청사진에 맞춰집니다. 우리는 단기적인 화제성이나 유행을 쫓고자 하는 충동을 억제합니다. 우리의 선택은 신중하고 차분하며 인내심이 있습니다. 왜냐하면 진정으로 중요한 일은 시간이 필요하며, 우리는 그 모든 과정을 함께할 의지를 가지고 있기 때문입니다.</value>
+  </data>
+  <data name="Aiursoft is dedicated to bringing the spirit of open-source and free software to every enterprise and individual." xml:space="preserve">
+    <value>Aiursoft는 모든 기업과 개인에게 오픈소스와 자유 소프트웨어의 정신을 전달하는 데 전념합니다.</value>
+  </data>
+  <data name="Aiursoft&apos;s story is closely linked to the communities that shape us, including the global community of open source contributors and enthusiasts who are part of our team. Since 2025, we have built an operating system called AnduinOS — designed to be clean, simple, and accessible to everyone." xml:space="preserve">
+    <value>아이우소프트(Aiursoft)의 이야기는 우리를 형성해 온 커뮤니티, 특히 팀의 일원으로 활동하는 글로벌 오픈소스 기여자와 열정적 사용자 커뮤니티와 밀접하게 연결되어 있습니다. 2025년부터 우리는 모든 사람이 깨끗하고, 간결하며, 누구나 쉽게 사용할 수 있도록 설계된 &apos;AnduinOS&apos;라는 운영 체제를 구축해 왔습니다.</value>
+  </data>
+  <data name="Chapter 1" xml:space="preserve">
+    <value>1장</value>
+  </data>
+  <data name="Contact" xml:space="preserve">
+    <value>연락처</value>
+  </data>
+  <data name="Contact us" xml:space="preserve">
+    <value>문의하기</value>
+  </data>
+  <data name="Director" xml:space="preserve">
+    <value>이사</value>
+  </data>
+  <data name="Entity Code" xml:space="preserve">
+    <value>법인 등록번호</value>
+  </data>
+  <data name="Follow us" xml:space="preserve">
+    <value>팔로우</value>
+  </data>
+  <data name="For every team member, personal growth comes first — above profit, above deadlines. We design work so that it is accessible without deep prior familiarity: the best learning happens through hands-on exploration, not prerequisites. We value playfulness and genuine curiosity — the kind that makes you lose track of time. When our people grow, the company grows as a natural consequence, not the other way around." xml:space="preserve">
+    <value>모든 팀원에게 개인의 성장은 가장 우선시됩니다. 이익도, 마감일도 앞설 수 없습니다. 우리는 깊은 사전 지식 없이도 접근할 수 있도록 업무를 설계합니다. 가장 효과적인 학습은 전제 조건이 아닌 직접적인 탐색을 통해 일어납니다. 우리는 시간 가는 줄 모르게 만드는 즐거움과 진정한 호기심을 소중히 여깁니다. 구성원이 성장하면 회사는 자연스럽게 그 결과로서 성장합니다. 반대 방향은 아닙니다.</value>
+  </data>
+  <data name="Freedom" xml:space="preserve">
+    <value>자유</value>
+  </data>
+  <data name="Growth" xml:space="preserve">
+    <value>성장</value>
+  </data>
+  <data name="Headquarters — Hong Kong" xml:space="preserve">
+    <value>본사 — 홍콩</value>
+  </data>
+  <data name="Legal Representative" xml:space="preserve">
+    <value>법정 대표자</value>
+  </data>
+  <data name="Long-term" xml:space="preserve">
+    <value>장기적 관점</value>
+  </data>
+  <data name="Our Culture" xml:space="preserve">
+    <value>우리의 문화</value>
+  </data>
+  <data name="Registered Address" xml:space="preserve">
+    <value>등록 주소</value>
+  </data>
+  <data name="Tel" xml:space="preserve">
+    <value>전화</value>
+  </data>
+  <data name="We open-source everything we build. We reject vendor lock-in and ecosystem entrapment. We respect open standards, champion offline-first operation, and believe every right to the code belongs to the customer and the device owner. We build nothing that stands between software users and their freedom to tinker — no barriers, no gatekeeping, no artificial constraints on what a hacker or user can do with the tools we create." xml:space="preserve">
+    <value>우리는 개발한 모든 것을 오픈 소스로 공개합니다. 벤더 락인(Vendor Lock-in)과 생태계 갇힘을 단호히 거부합니다. 오픈 표준을 존중하고, 오프라인 중심 운영을 지향하며, 코드에 대한 모든 권리는 고객과 기기의 소유자에게 있음을 믿습니다. 소프트웨어 사용자와 그들의 탐색 자유 사이에 선다 할 것은 절대 만들지 않습니다. 장벽도, 관문 통제도, 해커나 사용자가 우리 도구로 할 수 있는 것에 대한 인위적인 제약도 없습니다.</value>
+  </data>
+  <data name="Where to find us" xml:space="preserve">
+    <value>우리를 만나보세요</value>
+  </data>
+
+</root>

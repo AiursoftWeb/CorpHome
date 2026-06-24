@@ -18,8 +18,14 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="A fast, free, open-source and offline-deployable enterprise office hub enhanced with agentic RAG — streamline HR, finance, and operations for your SMB." xml:space="preserve">
+      <data name="A custom Ubuntu-based Linux distribution with enterprise-grade endpoint management, zero-trust security, and seamless open-source integration." xml:space="preserve">
+    <value>基於 Ubuntu 的客製化 Linux 發行版，具備企業級端點管理、零信任安全架構，以及無縫的開源整合能力。</value>
+  </data>
+  <data name="A fast, free, open-source and offline-deployable enterprise office hub enhanced with agentic RAG — streamline HR, finance, and operations for your SMB." xml:space="preserve">
     <value>一款快速、免費、開源且可離線部署的企業辦公中心，結合代理式 RAG 技術——為您的中小企業簡化人力資源、財務與營運流程。</value>
+  </data>
+  <data name="A lightweight, self-hosted Kanban workspace for planning boards, tracking cards, assigning work, and sharing progress across your team." xml:space="preserve">
+    <value>輕量級的自我託管 Kanban 工作區，用於規劃看板、追蹤卡片、指派任務以及與團隊共享進度。</value>
   </data>
   <data name="A simple, real-time server monitoring system designed for local deployment. Keep an eye on your infrastructure with intuitive dashboards and detailed metrics." xml:space="preserve">
     <value>簡易的即時伺服器監控系統，專為本地部署而設計。透過直覺儀表板和詳細指標，隨時掌握您的基礎設施。</value>
@@ -30,11 +36,23 @@
   <data name="AnduinOS" xml:space="preserve">
     <value>AnduinOS</value>
   </data>
+  <data name="AnduinOS Enterprise" xml:space="preserve">
+    <value>AnduinOS 企業版</value>
+  </data>
   <data name="AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
     <value>AnduinOS 是一款基於 Ubuntu 的自訂 Linux 發行版，為任何轉向 Linux 的使用者提供熟悉且易於使用的體驗。</value>
   </data>
+  <data name="Apkg" xml:space="preserve">
+    <value>Apkg</value>
+  </data>
   <data name="Community" xml:space="preserve">
     <value>社群</value>
+  </data>
+  <data name="Company" xml:space="preserve">
+    <value>關於我們</value>
+  </data>
+  <data name="Declarative APT repository platform. Ship Debian packages, mirror upstream archives, and publish .apkg bundles — fully on-premise." xml:space="preserve">
+    <value>宣告式 APT 套件庫平台。發布 Debian 套件、鏡像上游檔案庫，並發佈 .apkg 套件 — 支援完全本地部署。</value>
   </data>
   <data name="Discover the benefits of working with us." xml:space="preserve">
     <value>探索與我們合作的優勢。</value>
@@ -48,11 +66,23 @@
   <data name="Enterprise business framework for the Open-source &amp; AI era." xml:space="preserve">
     <value>開源與人工智慧時代的企業級業務框架</value>
   </data>
+  <data name="Get to know us" xml:space="preserve">
+    <value>認識我們</value>
+  </data>
   <data name="GitHub" xml:space="preserve">
     <value>GitHub</value>
   </data>
   <data name="Join our partner ecosystem." xml:space="preserve">
     <value>加入我們的合作夥伴生態系統。</value>
+  </data>
+  <data name="Kanban" xml:space="preserve">
+    <value>看版</value>
+  </data>
+  <data name="Learn about the team, mission, and values behind Aiursoft." xml:space="preserve">
+    <value>了解 Aiursoft 背後的團隊、使命與價值觀。</value>
+  </data>
+  <data name="News" xml:space="preserve">
+    <value>新聞</value>
   </data>
   <data name="Ollama Gateway" xml:space="preserve">
     <value>Ollama Gateway</value>
@@ -71,6 +101,9 @@
   </data>
   <data name="StatHub" xml:space="preserve">
     <value>StatHub</value>
+  </data>
+  <data name="Stay up to date with the latest announcements, product updates, and stories from the Aiursoft team." xml:space="preserve">
+    <value>即時掌握 Aiursoft 團隊的最新公告、產品更新與精彩故事。</value>
   </data>
   <data name="Substratum" xml:space="preserve">
     <value>Substratum</value>

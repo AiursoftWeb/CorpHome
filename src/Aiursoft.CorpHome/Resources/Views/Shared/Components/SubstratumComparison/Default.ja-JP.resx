@@ -36,6 +36,9 @@
   <data name="AnduinOS Enterprise (Desktop OS)" xml:space="preserve">
     <value>AnduinOS Enterprise (Desktop OS)</value>
   </data>
+  <data name="Authentik uses an Open Core model. The Community Edition is licensed under the permissive MIT license, which allows commercial use, modification, and redistribution. We provide the Community Edition (MIT) as part of Substratum. The Enterprise Edition requires a separate commercial license from Authentik." xml:space="preserve">
+    <value>Authentik はオープンコアモデルを採用しています。コミュニティ版は商用利用、改変、再配布を許容する寛容な MIT ライセンスの下で提供されています。当社は Substratum の一部としてコミュニティ版（MIT）を提供しています。エンタープライズ版は Authentik からの別途有料ライセンスが必要です。</value>
+  </data>
   <data name="Business hours email support" xml:space="preserve">
     <value>営業時間内のメールサポート</value>
   </data>
@@ -93,6 +96,12 @@
   <data name="Fleet device policy management" xml:space="preserve">
     <value>フリートデバイスポリシー管理</value>
   </data>
+  <data name="GitLab is a trademark of GitLab Inc. Aiursoft provides deployment, hosting, and integration services for GitLab — we are not affiliated with or endorsed by GitLab Inc. The GitLab Community Edition (CE) is MIT-licensed and can be deployed freely. The GitLab Enterprise Edition (EE) requires a separate license purchased from GitLab Inc. We can assist you with procuring the appropriate GitLab EE license, or you may choose to remove this item from your plan." xml:space="preserve">
+    <value>GitLab は GitLab Inc. の商標です。Aiursoft は GitLab のデプロイメント、ホスティング、統合サービスを提供しています — 私たちは GitLab Inc. と提携しておらず、承認もされていません。GitLab Community Edition (CE) は MIT ライセンスのもと、自由にデプロイできます。GitLab Enterprise Edition (EE) は、GitLab Inc. から別途購入するライセンスが必要です。適切な GitLab EE ライセンスの調達をご支援することもできますし、この項目をプランから削除することもできます。</value>
+  </data>
+  <data name="Hacker" xml:space="preserve">
+    <value>ハッカー</value>
+  </data>
   <data name="Hardware key enforcement" xml:space="preserve">
     <value>ハードウェアキーの強制</value>
   </data>
@@ -114,6 +123,9 @@
   <data name="Local LLM API Gateway" xml:space="preserve">
     <value>ローカル LLM API ゲートウェイ</value>
   </data>
+  <data name="Mailcow is open-source software (GPL-3.0). Aiursoft provides managed hosting, deployment, and integration services. Any custom modifications provided during your on-premise deployment are fully compliant with and distributed under the GPL-3.0 license." xml:space="preserve">
+    <value>Mailcowはオープンソースソフトウェア（GPL-3.0）です。Aiursoftは、管理ホスティング、デプロイ、および統合サービスを提供します。オンプレミスデプロイ時に行われるカスタム修正は、GPL-3.0ライセンスに完全に準拠し、同ライセンスの下で配布されます。</value>
+  </data>
   <data name="Managed endpoint OS" xml:space="preserve">
     <value>管理されたエンドポイント OS</value>
   </data>
@@ -134,6 +146,9 @@
   </data>
   <data name="Multi-site &amp; HA capable" xml:space="preserve">
     <value>マルチサイトおよび HA 対応</value>
+  </data>
+  <data name="Nextcloud is a trademark of Nextcloud GmbH. Aiursoft is an independent integration provider. To ensure enterprise-grade stability and strict adherence to the AGPL-3.0 license, we deploy the official, unmodified Nextcloud releases and seamlessly connect your stack via standard APIs, OIDC/SAML, and official plugins." xml:space="preserve">
+    <value>Nextcloud は Nextcloud GmbH の商標です。Aiursoft は独立したインテグレーションプロバイダーです。エンタープライズレベルの安定性と AGPL-3.0 ライセンスの厳格な遵守を確保するため、公式かつ改変されていない Nextcloud リリースを展開し、標準 API、OIDC/SAML、および公式プラグインを通じてお客様のスタックとシームレスに接続します。</value>
   </data>
   <data name="Not included" xml:space="preserve">
     <value>含まれていません</value>
@@ -165,6 +180,9 @@
   <data name="Photo &amp; Video Management" xml:space="preserve">
     <value>写真・動画管理</value>
   </data>
+  <data name="Private APT Repository" xml:space="preserve">
+    <value>プライベート APT リポジトリ</value>
+  </data>
   <data name="Productivity &amp; Collaboration" xml:space="preserve">
     <value>生産性とコラボレーション</value>
   </data>
@@ -176,6 +194,9 @@
   </data>
   <data name="Scale &amp; Support" xml:space="preserve">
     <value>スケーラビリティとサポート</value>
+  </data>
+  <data name="Self-hosted APT repository with .apkg publishing" xml:space="preserve">
+    <value>.apkg パブリッシング対応のセルフホスティング APT リポジトリ</value>
   </data>
   <data name="Self-hosted LLM inference gateway" xml:space="preserve">
     <value>セルフホスト型 LLM 推論ゲートウェイ</value>
@@ -207,6 +228,9 @@
   <data name="Talk to an Architect" xml:space="preserve">
     <value>アーキテクトに相談する</value>
   </data>
+  <data name="Team Blog" xml:space="preserve">
+    <value>チームブログ</value>
+  </data>
   <data name="Team Voting" xml:space="preserve">
     <value>チーム投票</value>
   </data>
@@ -221,6 +245,9 @@
   </data>
   <data name="What&apos;s Included" xml:space="preserve">
     <value>含まれるもの</value>
+  </data>
+  <data name="Workspace Boards" xml:space="preserve">
+    <value>ワークスペースボード</value>
   </data>
   <data name="Zero Trust Yubikey Auth" xml:space="preserve">
     <value>ゼロトラスト Yubikey 認証</value>

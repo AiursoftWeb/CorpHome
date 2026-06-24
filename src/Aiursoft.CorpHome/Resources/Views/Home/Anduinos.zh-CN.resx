@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name=".aosproj replaces a dozen arcane Debian files with a single declarative manifest. If you know .csproj, you know packaging." xml:space="preserve">
+    <value>.aosproj 用单个声明式清单替代了十余个晦涩的 Debian 文件。如果你了解 .csproj，那就懂得了打包。</value>
+  </data>
+  <data name="10-Second Boot" xml:space="preserve">
+    <value>10秒启动</value>
+  </data>
+  <data name="Add to Management Cloud and go live" xml:space="preserve">
+    <value>加入管理云并投入使用</value>
+  </data>
+  <data name="All the power of open-source, backed by enterprise-grade support, management tools, and customisation capabilities." xml:space="preserve">
+    <value>汇聚开源之力，辅以企业级支持、管理工具及定制功能。</value>
+  </data>
+  <data name="AnduinOS device" xml:space="preserve">
+    <value>AnduinOS 设备</value>
+  </data>
+  <data name="AnduinOS Enterprise" xml:space="preserve">
+    <value>AnduinOS 企业版</value>
+  </data>
+  <data name="AnduinOS Enterprise is backed by our 7x24 on-call support team. From initial deployment to ongoing operations, we ensure your fleet stays secure, updated, and running smoothly." xml:space="preserve">
+    <value>AnduinOS Enterprise 拥有我们 7x24 小时技术支持团队保驾护航。从初始部署到后续运维，我们确保您的设备集群安全、更新及时且运行平稳。</value>
+  </data>
+  <data name="AnduinOS Enterprise provides brand customisation, enabling you to replace the system logo with your own." xml:space="preserve">
+    <value>AnduinOS Enterprise 提供品牌定制功能，让您可以将系统徽标替换为您自己的徽标。</value>
+  </data>
+  <data name="AnduinOS fleet" xml:space="preserve">
+    <value>AnduinOS 设备集群</value>
+  </data>
+  <data name="AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
+    <value>AnduinOS 是一款基于 Ubuntu 的定制化 Linux 发行版，为所有转向 Linux 的用户提供熟悉且易于使用的体验。</value>
+  </data>
+  <data name="AnduinOS is an open-source project. Following the GPL-v3 license, you can view the source code, modify it, and redistribute it. It&apos;s free and will always be free." xml:space="preserve">
+    <value>AnduinOS 是一个开源项目。遵循 GPL-v3 许可协议，您可以查看源代码、修改代码以及重新分发。它是免费的，并且将永远免费。</value>
+  </data>
+  <data name="AnduinOS is based on Ubuntu&apos;s package base. It&apos;s compatible with most of the apt packages from Ubuntu. It&apos;s a perfect combination of experience and ecology." xml:space="preserve">
+    <value>AnduinOS 基于 Ubuntu 的软件包底座。它与 Ubuntu 的大部分 apt 软件包兼容。它是用户体验与软件生态的完美融合。</value>
+  </data>
+  <data name="AnduinOS Kiosk" xml:space="preserve">
+    <value>AnduinOS 信息亭模式</value>
+  </data>
+  <data name="AnduinOS Management Cloud" xml:space="preserve">
+    <value>AnduinOS 管理云</value>
+  </data>
+  <data name="AnduinOS wakes up almost as fast as you can blink. Wait time? What&apos;s that? Lightning-fast start-up on any hardware." xml:space="preserve">
+    <value>AnduinOS 的启动速度几乎与您眨眼相当。等待时间？那是什么？在任何硬件上都能实现闪电般的快速启动。</value>
+  </data>
+  <data name="Apkg Dashboard Screenshot" xml:space="preserve">
+    <value>Apkg 仪表板截图</value>
+  </data>
+  <data name="Apkg is a declarative APT repository platform that lets you host signed Debian repositories, mirror upstream archives, and publish your own .apkg packages — all fully on-premise. Integrates seamlessly with AnduinOS for painless apt update &amp;&amp; apt install workflows across your entire fleet." xml:space="preserve">
+    <value>Apkg 是一个声明式 APT 仓库平台，允许您托管经过签名的 Debian 仓库、镜像上游归档并发布自己的 .apkg 软件包——全部支持本地化部署。与 AnduinOS 无缝集成，在整个设备集群中实现无忧的 apt update &amp;&amp; apt install 工作流。</value>
+  </data>
+  <data name="Atomic Snapshots" xml:space="preserve">
+    <value>原子快照</value>
+  </data>
+  <data name="Auto Updates on Reboot" xml:space="preserve">
+    <value>重启自动更新</value>
+  </data>
+  <data name="Boot &amp; Configure" xml:space="preserve">
+    <value>启动并配置</value>
+  </data>
+  <data name="Boot from USB and auto-configure" xml:space="preserve">
+    <value>从 USB 启动并自动配置</value>
+  </data>
+  <data name="Brand Customisation" xml:space="preserve">
+    <value>品牌定制</value>
+  </data>
+  <data name="Built for business. Air-gapped by design." xml:space="preserve">
+    <value>专为企业打造。设计上实现物理隔离。</value>
+  </data>
+  <data name="Built on the same infrastructure that powers AnduinOS package delivery. Push updates to your entire fleet with a single command." xml:space="preserve">
+    <value>基于与 AnduinOS 软件包分发相同的基础架构。只需一条命令即可向整个机队推送更新。</value>
+  </data>
+  <data name="Bulk operations across your entire fleet" xml:space="preserve">
+    <value>对全体设备进行批量操作</value>
+  </data>
+  <data name="Community Site" xml:space="preserve">
+    <value>社区站点</value>
+  </data>
+  <data name="Compliance-ready default configurations" xml:space="preserve">
+    <value>符合合规要求的默认配置</value>
+  </data>
+  <data name="Contact Enterprise Sales" xml:space="preserve">
+    <value>联系企业销售</value>
+  </data>
+  <data name="Containerized" xml:space="preserve">
+    <value>容器化</value>
+  </data>
+  <data name="Control and configure thousands of devices and policies efficiently from a single dashboard." xml:space="preserve">
+    <value>通过单一控制台高效地管控和配置数千台设备与策略。</value>
+  </data>
+  <data name="Control, customize, and secure thousands of devices with enterprise tools built for scale." xml:space="preserve">
+    <value>使用专为规模化设计的企业级工具，管控、定制并保障成千上万台设备的安全。</value>
+  </data>
+  <data name="Curated internal software catalog" xml:space="preserve">
+    <value>精选内部软件目录</value>
+  </data>
+  <data name="Custom default wallpaper and themes" xml:space="preserve">
+    <value>自定义默认壁纸和主题</value>
+  </data>
+  <data name="Data stays on your servers. Authentication and authorization ensure only your team can access your metrics." xml:space="preserve">
+    <value>数据保留在您的服务器上。身份验证和授权确保只有您的团队可以访问您的指标。</value>
+  </data>
+  <data name="Declarative Packaging" xml:space="preserve">
+    <value>声明式打包</value>
+  </data>
+  <data name="Deploy AnduinOS with your Enterprise!" xml:space="preserve">
+    <value>让企业部署 AnduinOS！</value>
+  </data>
+  <data name="Deploy interactive kiosks, information displays, and self-service terminals on standard PC hardware." xml:space="preserve">
+    <value>在标准 PC 硬件上部署互动自助终端、信息显示屏和自助服务终端。</value>
+  </data>
+  <data name="Deployment" xml:space="preserve">
+    <value>部署</value>
+  </data>
+  <data name="digital signage and kiosk terminals" xml:space="preserve">
+    <value>数字标牌和自助终端</value>
+  </data>
+  <data name="Distribute your own software packages internally via standard apt protocol. Take control of your enterprise package ecosystem." xml:space="preserve">
+    <value>通过标准 apt 协议在企业内部分发自有软件包，全面掌控您的企业软件包生态。</value>
+  </data>
+  <data name="Docs" xml:space="preserve">
+    <value>文档</value>
+  </data>
+  <data name="Download" xml:space="preserve">
+    <value>下载</value>
+  </data>
+  <data name="Download AnduinOS" xml:space="preserve">
+    <value>下载 AnduinOS</value>
+  </data>
+  <data name="Ecological perfection" xml:space="preserve">
+    <value>生态完善</value>
+  </data>
+  <data name="Enroll" xml:space="preserve">
+    <value>注册</value>
+  </data>
+  <data name="Enterprise Services" xml:space="preserve">
+    <value>企业服务</value>
+  </data>
+  <data name="Enterprise-grade management for your fleet" xml:space="preserve">
+    <value>面向您设备集群的企业级管理</value>
+  </data>
+  <data name="Explore Apkg" xml:space="preserve">
+    <value>探索 Apkg</value>
+  </data>
+  <data name="Explore StatHub" xml:space="preserve">
+    <value>探索 StatHub</value>
+  </data>
+  <data name="Flash" xml:space="preserve">
+    <value>刷入</value>
+  </data>
+  <data name="Free" xml:space="preserve">
+    <value>免费</value>
+  </data>
+  <data name="Friendly interface" xml:space="preserve">
+    <value>友好的界面</value>
+  </data>
+  <data name="Fully On-Premise" xml:space="preserve">
+    <value>完全私有化部署</value>
+  </data>
+  <data name="Get the AnduinOS image from our site" xml:space="preserve">
+    <value>从我们的网站获取 AnduinOS 镜像</value>
+  </data>
+  <data name="Get up-to-the-second updates on every AnduinOS device&apos;s CPU, memory, disk, and network usage." xml:space="preserve">
+    <value>实时获取每台 AnduinOS 设备的 CPU、内存、磁盘和网络使用情况更新。</value>
+  </data>
+  <data name="GPL-v3 License" xml:space="preserve">
+    <value>GPL-v3 许可证</value>
+  </data>
+  <data name="Graphical applications are installed via Flatpak, and keep themselves separate from the base system. They also allow for fine-grained control over their permissions." xml:space="preserve">
+    <value>图形应用程序通过 Flatpak 安装，并与基础系统保持隔离。同时，它们也支持对权限进行细粒度控制。</value>
+  </data>
+  <data name="Internal package distribution via apt" xml:space="preserve">
+    <value>通过 apt 进行内部软件包分发</value>
+  </data>
+  <data name="Kiosk &amp; Digital Signage" xml:space="preserve">
+    <value>信息亭与数字标牌</value>
+  </data>
+  <data name="Kiosk mode prevents unauthorized access. Users can only interact with your approved application, keeping your deployment secure." xml:space="preserve">
+    <value>信息亭模式可防止未授权访问。用户只能与您批准的应用程序进行交互，从而确保部署安全。</value>
+  </data>
+  <data name="Lightweight Agents" xml:space="preserve">
+    <value>轻量级代理</value>
+  </data>
+  <data name="Locked-down &amp; tamper-proof" xml:space="preserve">
+    <value>封闭锁定，防篡改</value>
+  </data>
+  <data name="Love AnduinOS?" xml:space="preserve">
+    <value>喜欢 AnduinOS 吗？</value>
+  </data>
+  <data name="Low-overhead agents collect metrics without impacting your AnduinOS devices&apos; performance. Deploy in seconds with Docker." xml:space="preserve">
+    <value>轻量级代理在收集指标的同时不会影响您的 AnduinOS 设备性能，并通过 Docker 在数秒内完成部署。</value>
+  </data>
+  <data name="Minimal maintenance. Maximum stability." xml:space="preserve">
+    <value>维护省心，稳定无忧。</value>
+  </data>
+  <data name="Monitor thousands of AnduinOS devices from a single centralized dashboard. Scale as your fleet grows." xml:space="preserve">
+    <value>通过统一的集中式仪表板监控数千台 AnduinOS 设备。随着车队规模的扩大实现弹性扩展。</value>
+  </data>
+  <data name="Monitor your entire" xml:space="preserve">
+    <value>监控您所有的</value>
+  </data>
+  <data name="Monitoring" xml:space="preserve">
+    <value>监控</value>
+  </data>
+  <data name="Multi-Node" xml:space="preserve">
+    <value>多节点</value>
+  </data>
+  <data name="Offline repository mirrors for air-gapped networks" xml:space="preserve">
+    <value>适用于物理隔离网络的离线仓库镜像</value>
+  </data>
+  <data name="Open Source" xml:space="preserve">
+    <value>开源</value>
+  </data>
+  <data name="Package Distribution" xml:space="preserve">
+    <value>软件包分发</value>
+  </data>
+  <data name="Performance" xml:space="preserve">
+    <value>性能</value>
+  </data>
+  <data name="Pre-install company software packages" xml:space="preserve">
+    <value>预装公司软件包</value>
+  </data>
+  <data name="Privacy is no longer optional. It&apos;s essential. AnduinOS is designed to gather nothing from you. We don&apos;t track you. We don&apos;t profile you. We don&apos;t target you. You remain anonymous to the system." xml:space="preserve">
+    <value>隐私不再是可选项，而是必需品。AnduinOS 的设计原则是不收集您的任何信息。我们不追踪您，不给您建立画像，也不针对您进行定向服务。在系统中，您始终保持匿名。</value>
+  </data>
+  <data name="Private Apkg" xml:space="preserve">
+    <value>专用 Apkg</value>
+  </data>
+  <data name="Ready to use" xml:space="preserve">
+    <value>开箱即用</value>
+  </data>
+  <data name="Real-time" xml:space="preserve">
+    <value>实时</value>
+  </data>
+  <data name="Real-time device health monitoring" xml:space="preserve">
+    <value>实时设备健康监控</value>
+  </data>
+  <data name="Reasons" xml:space="preserve">
+    <value>选择理由</value>
+  </data>
+  <data name="Remote configuration and policy enforcement" xml:space="preserve">
+    <value>远程配置与策略执行</value>
+  </data>
+  <data name="Remote content management" xml:space="preserve">
+    <value>远程内容管理</value>
+  </data>
+  <data name="Replace system logo and boot screen" xml:space="preserve">
+    <value>替换系统徽标和启动画面</value>
+  </data>
+  <data name="Resource Efficient" xml:space="preserve">
+    <value>资源高效</value>
+  </data>
+  <data name="Role-based access control for IT teams" xml:space="preserve">
+    <value>面向IT团队的基于角色的访问控制</value>
+  </data>
+  <data name="Root and privacy" xml:space="preserve">
+    <value>Root 权限与隐私保护</value>
+  </data>
+  <data name="Run your own APT infrastructure behind the firewall. No external dependencies, no proprietary agents — just standard apt." xml:space="preserve">
+    <value>在防火墙后运行您自己的 APT 基础架构。无需外部依赖，无需专有代理——仅需标准 apt。</value>
+  </data>
+  <data name="Runs smoothly on older devices. Extends hardware lifespan by being resource-efficient, so you don&apos;t need to buy new machines." xml:space="preserve">
+    <value>在旧设备上流畅运行。通过高效利用资源延长硬件使用寿命，无需购买新设备。</value>
+  </data>
+  <data name="Seamless AnduinOS Integration" xml:space="preserve">
+    <value>无缝集成 AnduinOS</value>
+  </data>
+  <data name="Secure" xml:space="preserve">
+    <value>安全</value>
+  </data>
+  <data name="Set up your system in under 5 minutes" xml:space="preserve">
+    <value>5 分钟内完成系统设置</value>
+  </data>
+  <data name="Ship software to every" xml:space="preserve">
+    <value>将软件交付至每一台</value>
+  </data>
+  <data name="Simple, user-friendly. Broad compatibility with virtually all PC hardware." xml:space="preserve">
+    <value>简洁易用。广泛兼容几乎所有 PC 硬件。</value>
+  </data>
+  <data name="Smaller image, friendly interface, unbeatable performance, safe and secure." xml:space="preserve">
+    <value>镜像精简，界面友好，性能卓越，安全稳固。</value>
+  </data>
+  <data name="Source Code" xml:space="preserve">
+    <value>源代码</value>
+  </data>
+  <data name="Speedy Makeover" xml:space="preserve">
+    <value>极速焕新</value>
+  </data>
+  <data name="StatHub Dashboard Screenshot" xml:space="preserve">
+    <value>StatHub 仪表板截图</value>
+  </data>
+  <data name="StatHub is a simple, real-time server monitoring system designed for local deployment. Keep an eye on your entire AnduinOS infrastructure with intuitive dashboards and detailed metrics — all from a single pane of glass." xml:space="preserve">
+    <value>StatHub 是一款专为本地部署设计的简洁实时服务器监控系统。通过直观的仪表板和详尽的指标，您只需一个界面即可全面掌控整个 AnduinOS 基础设施。</value>
+  </data>
+  <data name="Sync, sign, and promote atomically via rename(2). APT clients never see half-written metadata — only consistent, signed snapshots." xml:space="preserve">
+    <value>通过 rename(2) 原子化同步、签名和发布元数据。APT 客户端永远不会看到半写入的元数据，只能看到一致且已签名的快照。</value>
+  </data>
+  <data name="System updates apply automatically when you restart. Zero maintenance windows — just reboot, and you&apos;re on the latest version." xml:space="preserve">
+    <value>系统更新会在重启时自动应用。无需维护窗口——只需重启，即可使用最新版本。</value>
+  </data>
+  <data name="The GNOME-based desktop environment has beautiful interfaces and human-computer interactions that fit user habits, allowing you to quickly get started with AnduinOS without too much learning cost." xml:space="preserve">
+    <value>基于 GNOME 的桌面环境拥有美观的界面和符合用户习惯的人机交互，让您无需过多学习即可快速上手 AnduinOS。</value>
+  </data>
+  <data name="The ideal solution for" xml:space="preserve">
+    <value>理想之选，专为</value>
+  </data>
+  <data name="The ISO is just 2.4GB in size. Similar to Ubuntu, it is simple to install and can meet your daily needs without additional configuration or complicated operations." xml:space="preserve">
+    <value>ISO 镜像仅有 2.4GB。与 Ubuntu 类似，它安装简便，无需额外配置或复杂操作即可满足您的日常需求。</value>
+  </data>
+  <data name="Tired of your sluggish OS slowing you down? Switch to AnduinOS for instant speed and seamless performance." xml:space="preserve">
+    <value>受够了卡顿的操作系统拖慢您的速度？切换至 AnduinOS，体验极速响应与流畅性能。</value>
+  </data>
+  <data name="Transform any PC into a secure, managed kiosk. Our in-house kiosk content management suite is available now — try it today." xml:space="preserve">
+    <value>将任何 PC 转变为安全、可管理的 kiosks 模式。我们自研的 Kiosk 内容管理套件现已推出——立即体验。</value>
+  </data>
+  <data name="Turn any screen into a kiosk" xml:space="preserve">
+    <value>将任意屏幕变为自助终端</value>
+  </data>
+  <data name="Update content, push configurations, and monitor device health — all from the cloud. No need for on-site visits." xml:space="preserve">
+    <value>更新内容、推送配置、监控设备状态——一切尽在云端。无需上门巡检。</value>
+  </data>
+  <data name="Version pinning and controlled rollouts" xml:space="preserve">
+    <value>版本锁定与受控发布</value>
+  </data>
+  <data name="Visit Community Site" xml:space="preserve">
+    <value>访问社区网站</value>
+  </data>
+  <data name="Why choose AnduinOS?" xml:space="preserve">
+    <value>为什么选择 AnduinOS？</value>
+  </data>
+  <data name="with Apkg" xml:space="preserve">
+    <value>通过 Apkg</value>
+  </data>
+  <data name="With just a few clicks, you can have AnduinOS running on any machine. Enjoy automatic updates, built-in security, and remote management from the cloud — so once deployed, it just works." xml:space="preserve">
+    <value>只需点击几次，即可在任何设备上运行 AnduinOS。享受自动更新、内置安全以及云端远程管理——部署完成后，一切自动运行。</value>
+  </data>
+  <data name="with StatHub" xml:space="preserve">
+    <value>使用 StatHub</value>
+  </data>
+  <data name="Write the image to a USB drive" xml:space="preserve">
+    <value>将镜像写入 USB 驱动器</value>
+  </data>
+
+</root>

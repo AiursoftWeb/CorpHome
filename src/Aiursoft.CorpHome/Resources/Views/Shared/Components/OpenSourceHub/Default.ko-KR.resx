@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="AnduinOS" xml:space="preserve">
+    <value>AnduinOS</value>
+  </data>
+  <data name="Authentik" xml:space="preserve">
+    <value>Authentik</value>
+  </data>
+  <data name="Combine Open-source tools on GitHub and Hugging Face — no enterprise licenses needed." xml:space="preserve">
+    <value>GitHub와 Hugging Face의 오픈소스 도구를 통합하세요. — 엔터프라이즈 라이선스 필요 없음.</value>
+  </data>
+  <data name="Discover AnduinOS" xml:space="preserve">
+    <value>AnduinOS 살펴보기</value>
+  </data>
+  <data name="Employee Center" xml:space="preserve">
+    <value>직원 센터</value>
+  </data>
+  <data name="Explore Our Projects" xml:space="preserve">
+    <value>우리의 프로젝트 살펴보기</value>
+  </data>
+  <data name="Kanban" xml:space="preserve">
+    <value>칸반</value>
+  </data>
+  <data name="Nextcloud" xml:space="preserve">
+    <value>Nextcloud</value>
+  </data>
+  <data name="Ollama Gateway" xml:space="preserve">
+    <value>올라마 게이트웨이</value>
+  </data>
+  <data name="Open-Source Solutions" xml:space="preserve">
+    <value>오픈소스 솔루션</value>
+  </data>
+  <data name="Polls" xml:space="preserve">
+    <value>투표</value>
+  </data>
+  <data name="StatHub" xml:space="preserve">
+    <value>StatHub</value>
+  </data>
+  <data name="The Open-source world already has the solutions you need." xml:space="preserve">
+    <value>오픈소스 세계에는 이미 필요한 해결책이 있습니다.</value>
+  </data>
+  <data name="You don&apos;t need to purchase expensive monopolistic services. A small $5/month server can rapidly power your business." xml:space="preserve">
+    <value>비싸고 독점적인 서비스를 구매할 필요가 없습니다. 월 5달러짜리 작은 서버도 비즈니스를 빠르게 구동할 수 있습니다.</value>
+  </data>
+  <data name="Zot" xml:space="preserve">
+    <value>Zot</value>
+  </data>
+
+</root>

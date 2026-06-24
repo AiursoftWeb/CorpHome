@@ -27,5 +27,8 @@
   <data name="Substratum unifies your entire software stack — from identity and source control to media, collaboration, and developer tools — on a single self-hosted server." xml:space="preserve">
     <value>Substratum 将您的整个软件栈统一在单个自托管服务器上——涵盖身份验证、源代码控制、媒体、协作和开发工具。</value>
   </data>
+  <data name="Unified Platform" xml:space="preserve">
+    <value>统一平台</value>
+  </data>
 
 </root>

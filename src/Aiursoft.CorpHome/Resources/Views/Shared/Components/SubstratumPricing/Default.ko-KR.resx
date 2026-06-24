@@ -30,6 +30,9 @@
   <data name="AiurDrive, StatHub, Nextcloud" xml:space="preserve">
     <value>AiurDrive, StatHub, Nextcloud</value>
   </data>
+  <data name="AiurDrive, StatHub, Nextcloud Deployment" xml:space="preserve">
+    <value>AiurDrive, StatHub, Nextcloud 배포</value>
+  </data>
   <data name="Aiursoft Substratum Core" xml:space="preserve">
     <value>Aiursoft Substratum Core</value>
   </data>
@@ -44,6 +47,9 @@
   </data>
   <data name="Authentik" xml:space="preserve">
     <value>Authentik</value>
+  </data>
+  <data name="Blog, Kanban" xml:space="preserve">
+    <value>블로그, 칸반</value>
   </data>
   <data name="Contact Sales" xml:space="preserve">
     <value>영업팀 문의</value>
@@ -87,6 +93,9 @@
   <data name="Includes everything in Startup" xml:space="preserve">
     <value>스타트업의 모든 기능이 포함됩니다</value>
   </data>
+  <data name="Kanban, Ollama Gateway" xml:space="preserve">
+    <value>칸반, 올라마 게이트웨이</value>
+  </data>
   <data name="Koel, Immich, Memos" xml:space="preserve">
     <value>Koel, Immich, Memos</value>
   </data>
@@ -101,6 +110,9 @@
   </data>
   <data name="MDM based device compliance" xml:space="preserve">
     <value>MDM 기반 디바이스 준수</value>
+  </data>
+  <data name="On-premise AnduinOS Apkg" xml:space="preserve">
+    <value>온프레미스 AnduinOS Apkg</value>
   </data>
   <data name="On-premise offline deployment" xml:space="preserve">
     <value>온프레미스 오프라인 배포</value>

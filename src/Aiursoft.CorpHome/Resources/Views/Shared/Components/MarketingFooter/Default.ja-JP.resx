@@ -21,11 +21,23 @@
       <data name="Aiursoft" xml:space="preserve">
     <value>Aiursoft</value>
   </data>
+  <data name="Aiursoft is dedicated to bringing the spirit of open-source and free software to every enterprise and individual." xml:space="preserve">
+    <value>Aiursoftは、すべての企業および個人にオープンソースおよびフリーソフトウェアの精神をもたらすことに尽力しています。</value>
+  </data>
   <data name="Aiursoft Template - A modern, feature-rich, and highly extensible foundation for your next web application." xml:space="preserve">
     <value>Aiursoft Template - モダンで機能豊富、そして高い拡張性を備えた、次世代のWebアプリケーションの基盤。</value>
   </data>
+  <data name="AnduinOS Enterprise" xml:space="preserve">
+    <value>AnduinOS エンタープライズ</value>
+  </data>
   <data name="Community" xml:space="preserve">
     <value>コミュニティ</value>
+  </data>
+  <data name="Company" xml:space="preserve">
+    <value>会社情報</value>
+  </data>
+  <data name="Contact" xml:space="preserve">
+    <value>お問い合わせ</value>
   </data>
   <data name="Contributions" xml:space="preserve">
     <value>貢献</value>
@@ -36,6 +48,9 @@
   <data name="Get Started" xml:space="preserve">
     <value>はじめに</value>
   </data>
+  <data name="Get to know us" xml:space="preserve">
+    <value>会社概要</value>
+  </data>
   <data name="Github" xml:space="preserve">
     <value>GitHub</value>
   </data>
@@ -44,6 +59,9 @@
   </data>
   <data name="Licence" xml:space="preserve">
     <value>ライセンス</value>
+  </data>
+  <data name="News" xml:space="preserve">
+    <value>ニュース</value>
   </data>
   <data name="Privacy Policy" xml:space="preserve">
     <value>プライバシーポリシー</value>
@@ -60,8 +78,14 @@
   <data name="Social" xml:space="preserve">
     <value>ソーシャル</value>
   </data>
+  <data name="Solutions" xml:space="preserve">
+    <value>ソリューション</value>
+  </data>
   <data name="Source Code" xml:space="preserve">
     <value>ソースコード</value>
+  </data>
+  <data name="Substratum" xml:space="preserve">
+    <value>Substratum</value>
   </data>
   <data name="Terms of Service" xml:space="preserve">
     <value>利用規約</value>

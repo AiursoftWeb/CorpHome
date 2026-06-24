@@ -18,8 +18,14 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="A fast, free, open-source and offline-deployable enterprise office hub enhanced with agentic RAG — streamline HR, finance, and operations for your SMB." xml:space="preserve">
+      <data name="A custom Ubuntu-based Linux distribution with enterprise-grade endpoint management, zero-trust security, and seamless open-source integration." xml:space="preserve">
+    <value>엔터프라이즈급 엔드포인트 관리, 제로 트러스트 보안, 원활한 오픈 소스 통합 기능을 갖춘 커스텀 Ubuntu 기반 Linux 배포판입니다.</value>
+  </data>
+  <data name="A fast, free, open-source and offline-deployable enterprise office hub enhanced with agentic RAG — streamline HR, finance, and operations for your SMB." xml:space="preserve">
     <value>빠르고 무료이며 오픈소스이고 오프라인 배포가 가능한 엔터프라이즈 오피스 허브로, 에이전트형 RAG를 통해 SMB의 인사, 재무, 운영을 간소화하세요.</value>
+  </data>
+  <data name="A lightweight, self-hosted Kanban workspace for planning boards, tracking cards, assigning work, and sharing progress across your team." xml:space="preserve">
+    <value>팀 전체를 위한 계획 보드, 카드 추적, 작업 할당 및 진행 상황 공유를 위한 가벼운 자체 호스팅 Kanban 작업 공간.</value>
   </data>
   <data name="A simple, real-time server monitoring system designed for local deployment. Keep an eye on your infrastructure with intuitive dashboards and detailed metrics." xml:space="preserve">
     <value>로컬 배포용으로 설계된 간단하고 실시간인 서버 모니터링 시스템. 직관적인 대시보드와 상세한 메트릭으로 인프라를 모니터링하세요.</value>
@@ -30,11 +36,23 @@
   <data name="AnduinOS" xml:space="preserve">
     <value>AnduinOS</value>
   </data>
+  <data name="AnduinOS Enterprise" xml:space="preserve">
+    <value>AnduinOS Enterprise</value>
+  </data>
   <data name="AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
     <value>AnduinOS는 리눅스로 전환하는 모든 사용자에게 친숙하고 사용하기 쉬운 경험을 제공하는 맞춤형 우분투스 기반 리눅스 배포판입니다.</value>
   </data>
+  <data name="Apkg" xml:space="preserve">
+    <value>Apkg</value>
+  </data>
   <data name="Community" xml:space="preserve">
     <value>커뮤니티</value>
+  </data>
+  <data name="Company" xml:space="preserve">
+    <value>회사</value>
+  </data>
+  <data name="Declarative APT repository platform. Ship Debian packages, mirror upstream archives, and publish .apkg bundles — fully on-premise." xml:space="preserve">
+    <value>선언형 APT 저장소 플랫폼. Debian 패키지를 배포하고, 상류 아카이브를 미러링하며, .apkg 번들을 게시하세요. 온프레미스 환경에서 완전히 가능합니다.</value>
   </data>
   <data name="Discover the benefits of working with us." xml:space="preserve">
     <value>우리와 협력함으로써 얻을 수 있는 혜택을 발견하세요.</value>
@@ -48,11 +66,23 @@
   <data name="Enterprise business framework for the Open-source &amp; AI era." xml:space="preserve">
     <value>오픈소스 및 AI 시대를 위한 엔터프라이즈 비즈니스 프레임워크</value>
   </data>
+  <data name="Get to know us" xml:space="preserve">
+    <value>우리를 알아보세요</value>
+  </data>
   <data name="GitHub" xml:space="preserve">
     <value>GitHub</value>
   </data>
   <data name="Join our partner ecosystem." xml:space="preserve">
     <value>파트너 생태계에 참여하세요.</value>
+  </data>
+  <data name="Kanban" xml:space="preserve">
+    <value>칸반</value>
+  </data>
+  <data name="Learn about the team, mission, and values behind Aiursoft." xml:space="preserve">
+    <value>Aiursoft 팀, 사명, 가치 알아보기</value>
+  </data>
+  <data name="News" xml:space="preserve">
+    <value>뉴스</value>
   </data>
   <data name="Ollama Gateway" xml:space="preserve">
     <value>올라마 게이트웨이</value>
@@ -71,6 +101,9 @@
   </data>
   <data name="StatHub" xml:space="preserve">
     <value>StatHub</value>
+  </data>
+  <data name="Stay up to date with the latest announcements, product updates, and stories from the Aiursoft team." xml:space="preserve">
+    <value>Aiursoft 팀의 최신 공지사항, 제품 업데이트, 그리고 스토리를 확인하세요.</value>
   </data>
   <data name="Substratum" xml:space="preserve">
     <value>Substratum</value>

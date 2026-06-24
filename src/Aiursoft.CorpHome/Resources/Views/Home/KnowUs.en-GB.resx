@@ -24,6 +24,9 @@
   <data name="Address" xml:space="preserve">
     <value>Address</value>
   </data>
+  <data name="Aiursoft is built to last a century. We are just getting started. Every decision we make serves a blueprint measured in decades, not quarters. We resist the urge to chase short-term hype or fleeting trends. Our choices are deliberate, steady, and patient — because the work that truly matters takes time, and we intend to be here for all of it." xml:space="preserve">
+    <value>Aiursoft is built to last a century. We are only just getting started. Every decision we make serves a blueprint measured in decades, not quarters. We resist the urge to chase short-lived hype or fleeting trends. Our choices are deliberate, steady, and patient — because the work that truly matters takes time, and we intend to be here for all of it.</value>
+  </data>
   <data name="Aiursoft is dedicated to bringing the spirit of open-source and free software to every enterprise and individual." xml:space="preserve">
     <value>Aiursoft is dedicated to bringing the spirit of open-source and free software to every enterprise and individual.</value>
   </data>
@@ -36,20 +39,47 @@
   <data name="Contact" xml:space="preserve">
     <value>Contact</value>
   </data>
+  <data name="Contact us" xml:space="preserve">
+    <value>Contact us</value>
+  </data>
   <data name="Director" xml:space="preserve">
     <value>Director</value>
   </data>
   <data name="Entity Code" xml:space="preserve">
     <value>Company Number</value>
   </data>
+  <data name="Follow us" xml:space="preserve">
+    <value>Follow us</value>
+  </data>
+  <data name="For every team member, personal growth comes first — above profit, above deadlines. We design work so that it is accessible without deep prior familiarity: the best learning happens through hands-on exploration, not prerequisites. We value playfulness and genuine curiosity — the kind that makes you lose track of time. When our people grow, the company grows as a natural consequence, not the other way around." xml:space="preserve">
+    <value>For every team member, personal growth takes precedence — above profit, above deadlines. We design work to be accessible without requiring deep prior familiarity: the best learning occurs through hands-on exploration, not prerequisites. We value playfulness and genuine curiosity — the kind that makes you lose track of time. When our people grow, the company grows as a natural consequence, not the other way around.</value>
+  </data>
+  <data name="Freedom" xml:space="preserve">
+    <value>Freedom</value>
+  </data>
+  <data name="Growth" xml:space="preserve">
+    <value>Growth</value>
+  </data>
   <data name="Headquarters — Hong Kong" xml:space="preserve">
     <value>Headquarters — Hong Kong</value>
+  </data>
+  <data name="Legal Representative" xml:space="preserve">
+    <value>Legal Representative</value>
+  </data>
+  <data name="Long-term" xml:space="preserve">
+    <value>Long-term</value>
+  </data>
+  <data name="Our Culture" xml:space="preserve">
+    <value>Our Culture</value>
   </data>
   <data name="Registered Address" xml:space="preserve">
     <value>Registered Address</value>
   </data>
   <data name="Tel" xml:space="preserve">
     <value>Tel</value>
+  </data>
+  <data name="We open-source everything we build. We reject vendor lock-in and ecosystem entrapment. We respect open standards, champion offline-first operation, and believe every right to the code belongs to the customer and the device owner. We build nothing that stands between software users and their freedom to tinker — no barriers, no gatekeeping, no artificial constraints on what a hacker or user can do with the tools we create." xml:space="preserve">
+    <value>We open-source everything we build. We reject vendor lock-in and ecosystem entrapment. We respect open standards, champion offline-first operation, and believe every right to the code belongs to the customer and the device owner. We build nothing that stands between software users and their freedom to tinker — no barriers, no gatekeeping, no artificial constraints on what a hacker or user can do with the tools we create.</value>
   </data>
   <data name="Where to find us" xml:space="preserve">
     <value>Where to find us</value>

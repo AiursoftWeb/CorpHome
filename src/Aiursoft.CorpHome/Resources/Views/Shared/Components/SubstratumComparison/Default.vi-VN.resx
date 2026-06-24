@@ -36,6 +36,9 @@
   <data name="AnduinOS Enterprise (Desktop OS)" xml:space="preserve">
     <value>AnduinOS Enterprise (Desktop OS)</value>
   </data>
+  <data name="Authentik uses an Open Core model. The Community Edition is licensed under the permissive MIT license, which allows commercial use, modification, and redistribution. We provide the Community Edition (MIT) as part of Substratum. The Enterprise Edition requires a separate commercial license from Authentik." xml:space="preserve">
+    <value>Authentik sử dụng mô hình Open Core. Bản Community được cấp phép theo giấy phép MIT tự do, cho phép sử dụng thương mại, chỉnh sửa và phân phối lại. Chúng tôi cung cấp Bản Community (MIT) như một phần của Substratum. Bản Enterprise yêu cầu giấy phép thương mại riêng biệt từ Authentik.</value>
+  </data>
   <data name="Business hours email support" xml:space="preserve">
     <value>Hỗ trợ qua email trong giờ hành chính</value>
   </data>
@@ -93,6 +96,12 @@
   <data name="Fleet device policy management" xml:space="preserve">
     <value>Quản lý chính sách thiết bị toàn bộ</value>
   </data>
+  <data name="GitLab is a trademark of GitLab Inc. Aiursoft provides deployment, hosting, and integration services for GitLab — we are not affiliated with or endorsed by GitLab Inc. The GitLab Community Edition (CE) is MIT-licensed and can be deployed freely. The GitLab Enterprise Edition (EE) requires a separate license purchased from GitLab Inc. We can assist you with procuring the appropriate GitLab EE license, or you may choose to remove this item from your plan." xml:space="preserve">
+    <value>GitLab là nhãn hiệu của GitLab Inc. Aiursoft cung cấp các dịch vụ triển khai, lưu trữ và tích hợp cho GitLab — chúng tôi không liên kết hoặc được bảo trợ bởi GitLab Inc. Phiên bản Cộng đồng (CE) của GitLab được cấp phép theo MIT và có thể được triển khai tự do. Phiên bản Enterprise (EE) của GitLab yêu cầu giấy phép riêng được mua từ GitLab Inc. Chúng tôi có thể hỗ trợ bạn trong việc mua giấy phép GitLab EE phù hợp, hoặc bạn có thể chọn loại bỏ mục này khỏi gói của mình.</value>
+  </data>
+  <data name="Hacker" xml:space="preserve">
+    <value>Hacker</value>
+  </data>
   <data name="Hardware key enforcement" xml:space="preserve">
     <value>Thực thi khóa phần cứng</value>
   </data>
@@ -114,6 +123,9 @@
   <data name="Local LLM API Gateway" xml:space="preserve">
     <value>Cổng API LLM Cục bộ</value>
   </data>
+  <data name="Mailcow is open-source software (GPL-3.0). Aiursoft provides managed hosting, deployment, and integration services. Any custom modifications provided during your on-premise deployment are fully compliant with and distributed under the GPL-3.0 license." xml:space="preserve">
+    <value>Mailcow là phần mềm mã nguồn mở (GPL-3.0). Aiursoft cung cấp các dịch vụ lưu trữ quản lý, triển khai và tích hợp. Mọi thay đổi tùy chỉnh được cung cấp trong quá trình triển khai tại chỗ của bạn đều tuân thủ hoàn toàn và được phân phối theo giấy phép GPL-3.0.</value>
+  </data>
   <data name="Managed endpoint OS" xml:space="preserve">
     <value>Hệ điều hành đầu cuối được quản lý</value>
   </data>
@@ -134,6 +146,9 @@
   </data>
   <data name="Multi-site &amp; HA capable" xml:space="preserve">
     <value>Hỗ trợ đa trang và khả năng HA</value>
+  </data>
+  <data name="Nextcloud is a trademark of Nextcloud GmbH. Aiursoft is an independent integration provider. To ensure enterprise-grade stability and strict adherence to the AGPL-3.0 license, we deploy the official, unmodified Nextcloud releases and seamlessly connect your stack via standard APIs, OIDC/SAML, and official plugins." xml:space="preserve">
+    <value>Nextcloud là nhãn hiệu của Nextcloud GmbH. Aiursoft là nhà cung cấp tích hợp độc lập. Để đảm bảo độ ổn định cấp doanh nghiệp và tuân thủ nghiêm ngặt giấy phép AGPL-3.0, chúng tôi triển khai các bản phát hành Nextcloud chính thức, không sửa đổi và kết nối liền mạch với hệ thống của bạn thông qua các API tiêu chuẩn, OIDC/SAML và các plugin chính thức.</value>
   </data>
   <data name="Not included" xml:space="preserve">
     <value>Không bao gồm</value>
@@ -165,6 +180,9 @@
   <data name="Photo &amp; Video Management" xml:space="preserve">
     <value>Quản lý Ảnh &amp; Video</value>
   </data>
+  <data name="Private APT Repository" xml:space="preserve">
+    <value>Kho APT Riêng Tư</value>
+  </data>
   <data name="Productivity &amp; Collaboration" xml:space="preserve">
     <value>Năng suất &amp; Hợp tác</value>
   </data>
@@ -176,6 +194,9 @@
   </data>
   <data name="Scale &amp; Support" xml:space="preserve">
     <value>Mở rộng &amp; Hỗ trợ</value>
+  </data>
+  <data name="Self-hosted APT repository with .apkg publishing" xml:space="preserve">
+    <value>Kho APT tự chủ với việc phát hành .apkg</value>
   </data>
   <data name="Self-hosted LLM inference gateway" xml:space="preserve">
     <value>Cổng suy luận LLM tự lưu trữ</value>
@@ -207,6 +228,9 @@
   <data name="Talk to an Architect" xml:space="preserve">
     <value>Nói chuyện với Kiến trúc sư</value>
   </data>
+  <data name="Team Blog" xml:space="preserve">
+    <value>Blog nhóm</value>
+  </data>
   <data name="Team Voting" xml:space="preserve">
     <value>Bỏ phiếu nhóm</value>
   </data>
@@ -221,6 +245,9 @@
   </data>
   <data name="What&apos;s Included" xml:space="preserve">
     <value>Những gì bao gồm</value>
+  </data>
+  <data name="Workspace Boards" xml:space="preserve">
+    <value>Bảng Làm Việc</value>
   </data>
   <data name="Zero Trust Yubikey Auth" xml:space="preserve">
     <value>Xác thực Yubikey Tin cậy Tối thiểu</value>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="About Aiursoft" xml:space="preserve">
+    <value>關於 Aiursoft</value>
+  </data>
+  <data name="Address" xml:space="preserve">
+    <value>地址</value>
+  </data>
+  <data name="Aiursoft is built to last a century. We are just getting started. Every decision we make serves a blueprint measured in decades, not quarters. We resist the urge to chase short-term hype or fleeting trends. Our choices are deliberate, steady, and patient — because the work that truly matters takes time, and we intend to be here for all of it." xml:space="preserve">
+    <value>Aiursoft 旨在經久不衰，傳承百年。我們才剛起步。我們的每個決定都服務於以十年為單位的藍圖，而非以季度為單位。我們抵制追隨短期熱潮或流行情緒的衝動。我們的選擇務實、穩健且從容——因為真正有意義的工作需要時間，而我們意圖全程參與。</value>
+  </data>
+  <data name="Aiursoft is dedicated to bringing the spirit of open-source and free software to every enterprise and individual." xml:space="preserve">
+    <value>Aiursoft 致力於將開源及自由軟件的精神帶給每一個企業和個人。</value>
+  </data>
+  <data name="Aiursoft&apos;s story is closely linked to the communities that shape us, including the global community of open source contributors and enthusiasts who are part of our team. Since 2025, we have built an operating system called AnduinOS — designed to be clean, simple, and accessible to everyone." xml:space="preserve">
+    <value>Aiursoft 的故事與塑造我們的社群息息相關，包括構成我們團隊一部分的全球開源貢獻者與愛好者社群。自 2025 年起，我們開發了一個名為 AnduinOS 的作業系統——旨在乾淨、簡潔，並讓所有人都能輕鬆使用。</value>
+  </data>
+  <data name="Chapter 1" xml:space="preserve">
+    <value>第1章</value>
+  </data>
+  <data name="Contact" xml:space="preserve">
+    <value>聯絡</value>
+  </data>
+  <data name="Contact us" xml:space="preserve">
+    <value>聯絡我們</value>
+  </data>
+  <data name="Director" xml:space="preserve">
+    <value>董事</value>
+  </data>
+  <data name="Entity Code" xml:space="preserve">
+    <value>實體編碼</value>
+  </data>
+  <data name="Follow us" xml:space="preserve">
+    <value>跟住我哋</value>
+  </data>
+  <data name="For every team member, personal growth comes first — above profit, above deadlines. We design work so that it is accessible without deep prior familiarity: the best learning happens through hands-on exploration, not prerequisites. We value playfulness and genuine curiosity — the kind that makes you lose track of time. When our people grow, the company grows as a natural consequence, not the other way around." xml:space="preserve">
+    <value>對於每位團隊成員，個人成長是首要任務——勝於利潤，勝於期限。我們設計的無需深厚前期知識即可上手：最好的學習來自實戰探索，而非先決條件。我們珍視趣味性和真摯的好奇心——那種讓你忘卻時間流逝的好奇心。當我們的員工成長時，公司自然隨之成長，而非相反。</value>
+  </data>
+  <data name="Freedom" xml:space="preserve">
+    <value>自由</value>
+  </data>
+  <data name="Growth" xml:space="preserve">
+    <value>成長</value>
+  </data>
+  <data name="Headquarters — Hong Kong" xml:space="preserve">
+    <value>總部 — 香港</value>
+  </data>
+  <data name="Legal Representative" xml:space="preserve">
+    <value>法定代表</value>
+  </data>
+  <data name="Long-term" xml:space="preserve">
+    <value>長遠發展</value>
+  </data>
+  <data name="Our Culture" xml:space="preserve">
+    <value>我哋嘅文化</value>
+  </data>
+  <data name="Registered Address" xml:space="preserve">
+    <value>註冊地址</value>
+  </data>
+  <data name="Tel" xml:space="preserve">
+    <value>電話</value>
+  </data>
+  <data name="We open-source everything we build. We reject vendor lock-in and ecosystem entrapment. We respect open standards, champion offline-first operation, and believe every right to the code belongs to the customer and the device owner. We build nothing that stands between software users and their freedom to tinker — no barriers, no gatekeeping, no artificial constraints on what a hacker or user can do with the tools we create." xml:space="preserve">
+    <value>我哋將所有開發嘅內容全部開源。我哋拒絕供應商綁定同生態圈束縛，尊重開放標準，倡導離線優先運作，同埋堅信代碼嘅所有權利屬於客戶同裝置擁有者。我哋唔會打造任何阻隔使用者探索自由嘅障礙——無壁壘、無門檻、亦唔會對黑客或使用者使用我哋所創造工具嘅行為設限。</value>
+  </data>
+  <data name="Where to find us" xml:space="preserve">
+    <value>尋找我們的位置</value>
+  </data>
+
+</root>

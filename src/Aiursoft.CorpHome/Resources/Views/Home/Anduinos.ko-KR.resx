@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name=".aosproj replaces a dozen arcane Debian files with a single declarative manifest. If you know .csproj, you know packaging." xml:space="preserve">
+    <value>.aosproj는 난해한 Debian 파일 열여섯 개를 하나의 선언적 매니페스트로 대체합니다. .csproj를 알고 있다면 패키징도 알고 있는 셈입니다.</value>
+  </data>
+  <data name="10-Second Boot" xml:space="preserve">
+    <value>10초 부팅</value>
+  </data>
+  <data name="Add to Management Cloud and go live" xml:space="preserve">
+    <value>Management Cloud에 추가하고 바로 사용</value>
+  </data>
+  <data name="All the power of open-source, backed by enterprise-grade support, management tools, and customisation capabilities." xml:space="preserve">
+    <value>엔터프라이즈급 지원, 관리 도구, 그리고 맞춤화 기능이 뒷받침된 오픈소스의 강력한 기능을 경험하세요.</value>
+  </data>
+  <data name="AnduinOS device" xml:space="preserve">
+    <value>AnduinOS 디바이스</value>
+  </data>
+  <data name="AnduinOS Enterprise" xml:space="preserve">
+    <value>AnduinOS Enterprise</value>
+  </data>
+  <data name="AnduinOS Enterprise is backed by our 7x24 on-call support team. From initial deployment to ongoing operations, we ensure your fleet stays secure, updated, and running smoothly." xml:space="preserve">
+    <value>AnduinOS Enterprise는 24시간 365일 대응 가능한 지원 팀의 지원을 받아야 합니다. 초기 배포부터 지속적인 운영에 이르기까지 귀사의 함대가 안전하게 유지되고 업데이트되며 원활하게 실행되도록 보장합니다.</value>
+  </data>
+  <data name="AnduinOS Enterprise provides brand customisation, enabling you to replace the system logo with your own." xml:space="preserve">
+    <value>AnduinOS Enterprise는 브랜드 커스터마이징을 제공하여 시스템 로고를 자체 로고로 교체할 수 있습니다.</value>
+  </data>
+  <data name="AnduinOS fleet" xml:space="preserve">
+    <value>AnduinOS 기지</value>
+  </data>
+  <data name="AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
+    <value>AnduinOS는 Ubuntu 기반의 커스텀 Linux 배포판으로, Linux로 전환하는 모든 사용자에게 익숙하고 사용하기 쉬운 환경을 제공합니다.</value>
+  </data>
+  <data name="AnduinOS is an open-source project. Following the GPL-v3 license, you can view the source code, modify it, and redistribute it. It&apos;s free and will always be free." xml:space="preserve">
+    <value>AnduinOS는 오픈 소스 프로젝트입니다. GPL-v3 라이선스를 따르므로 소스 코드를 확인하고 수정하며 재배포할 수 있습니다. 무료이며 영원히 무료입니다.</value>
+  </data>
+  <data name="AnduinOS is based on Ubuntu&apos;s package base. It&apos;s compatible with most of the apt packages from Ubuntu. It&apos;s a perfect combination of experience and ecology." xml:space="preserve">
+    <value>AnduinOS는 Ubuntu의 패키지 기반을 사용합니다. Ubuntu의 대부분의 apt 패키지와 호환됩니다. 사용자 경험과 생태계의 완벽한 결합입니다.</value>
+  </data>
+  <data name="AnduinOS Kiosk" xml:space="preserve">
+    <value>AnduinOS 키오스크</value>
+  </data>
+  <data name="AnduinOS Management Cloud" xml:space="preserve">
+    <value>AnduinOS 관리 클라우드</value>
+  </data>
+  <data name="AnduinOS wakes up almost as fast as you can blink. Wait time? What&apos;s that? Lightning-fast start-up on any hardware." xml:space="preserve">
+    <value>AnduinOS는 눈깜짝 할 사이에 거의 동시에 깨어납니다. 대기 시간? 그게 뭔가요? 어떤 하드웨어에서도 번개처럼 빠른 시작 경험을 제공합니다.</value>
+  </data>
+  <data name="Apkg Dashboard Screenshot" xml:space="preserve">
+    <value>Apkg 대시보드 스크린샷</value>
+  </data>
+  <data name="Apkg is a declarative APT repository platform that lets you host signed Debian repositories, mirror upstream archives, and publish your own .apkg packages — all fully on-premise. Integrates seamlessly with AnduinOS for painless apt update &amp;&amp; apt install workflows across your entire fleet." xml:space="preserve">
+    <value>Apkg는 서명된 Debian 저장소 호스팅, 외부 아카이브 미러링, 자체 .apkg 패키지 게시를 가능하게 하는 선언형 APT 저장소 플랫폼으로, 완전히 온프레미스에서 운영됩니다. AnduinOS와 원활하게 통합되어 전사적 기기 그룹에서 무난한 apt update &amp;&amp; apt install 워크플로우를 지원합니다.</value>
+  </data>
+  <data name="Atomic Snapshots" xml:space="preserve">
+    <value>원자적 스냅샷</value>
+  </data>
+  <data name="Auto Updates on Reboot" xml:space="preserve">
+    <value>재부팅 시 자동 업데이트</value>
+  </data>
+  <data name="Boot &amp; Configure" xml:space="preserve">
+    <value>부팅 및 구성</value>
+  </data>
+  <data name="Boot from USB and auto-configure" xml:space="preserve">
+    <value>USB에서 부팅하고 자동 구성</value>
+  </data>
+  <data name="Brand Customisation" xml:space="preserve">
+    <value>브랜드 커스터마이징</value>
+  </data>
+  <data name="Built for business. Air-gapped by design." xml:space="preserve">
+    <value>비즈니스를 위해 설계되었습니다. 설계부터 에어갭.</value>
+  </data>
+  <data name="Built on the same infrastructure that powers AnduinOS package delivery. Push updates to your entire fleet with a single command." xml:space="preserve">
+    <value>AnduinOS 패키지 배포를 구동하는 동일한 기반 시설을 기반으로 합니다. 하나의 명령으로 전체 장비에 업데이트를 푸시하세요.</value>
+  </data>
+  <data name="Bulk operations across your entire fleet" xml:space="preserve">
+    <value>전체 기기 대량 관리</value>
+  </data>
+  <data name="Community Site" xml:space="preserve">
+    <value>커뮤니티 사이트</value>
+  </data>
+  <data name="Compliance-ready default configurations" xml:space="preserve">
+    <value>규정 준수 가능한 기본 설정</value>
+  </data>
+  <data name="Contact Enterprise Sales" xml:space="preserve">
+    <value>엔터프라이즈 영업 팀 문의</value>
+  </data>
+  <data name="Containerized" xml:space="preserve">
+    <value>컨테이너 기반</value>
+  </data>
+  <data name="Control and configure thousands of devices and policies efficiently from a single dashboard." xml:space="preserve">
+    <value>단일 대시보드에서 수천 대의 장치 및 정책을 효율적으로 제어하고 구성하세요.</value>
+  </data>
+  <data name="Control, customize, and secure thousands of devices with enterprise tools built for scale." xml:space="preserve">
+    <value>규모에 맞게 설계된 엔터프라이즈 도구를 수천 대의 장치를 제어, 사용자 정의 및 보호하세요.</value>
+  </data>
+  <data name="Curated internal software catalog" xml:space="preserve">
+    <value>선별된 내부 소프트웨어 카탈로그</value>
+  </data>
+  <data name="Custom default wallpaper and themes" xml:space="preserve">
+    <value>기본 배경 화면 및 테마 사용자 정의</value>
+  </data>
+  <data name="Data stays on your servers. Authentication and authorization ensure only your team can access your metrics." xml:space="preserve">
+    <value>데이터는 당사 서버에 유지됩니다. 인증 및 인증을 통해 귀하의 팀만 측정 기준에 액세스할 수 있습니다.</value>
+  </data>
+  <data name="Declarative Packaging" xml:space="preserve">
+    <value>선언형 패키징</value>
+  </data>
+  <data name="Deploy AnduinOS with your Enterprise!" xml:space="preserve">
+    <value>엔터프라이즈에서 AnduinOS를 배포하세요!</value>
+  </data>
+  <data name="Deploy interactive kiosks, information displays, and self-service terminals on standard PC hardware." xml:space="preserve">
+    <value>표준 PC 하드웨어에 대화형 키오스크, 정보 디스플레이, 셀프 서비스 터미널을 배포하세요.</value>
+  </data>
+  <data name="Deployment" xml:space="preserve">
+    <value>배포</value>
+  </data>
+  <data name="digital signage and kiosk terminals" xml:space="preserve">
+    <value>디지털 사이니지 및 키오스크 단말기</value>
+  </data>
+  <data name="Distribute your own software packages internally via standard apt protocol. Take control of your enterprise package ecosystem." xml:space="preserve">
+    <value>표준 apt 프로토콜을 통해 자체 소프트웨어 패키지를 내부에 배포하세요. 기업의 패키지 생태계를 완전히 제어하세요.</value>
+  </data>
+  <data name="Docs" xml:space="preserve">
+    <value>문서</value>
+  </data>
+  <data name="Download" xml:space="preserve">
+    <value>다운로드</value>
+  </data>
+  <data name="Download AnduinOS" xml:space="preserve">
+    <value>AnduinOS 다운로드</value>
+  </data>
+  <data name="Ecological perfection" xml:space="preserve">
+    <value>생태계의 완성</value>
+  </data>
+  <data name="Enroll" xml:space="preserve">
+    <value>등록</value>
+  </data>
+  <data name="Enterprise Services" xml:space="preserve">
+    <value>엔터프라이즈 서비스</value>
+  </data>
+  <data name="Enterprise-grade management for your fleet" xml:space="preserve">
+    <value>플리트를 위한 기업급 관리</value>
+  </data>
+  <data name="Explore Apkg" xml:space="preserve">
+    <value>Apkg 탐색하기</value>
+  </data>
+  <data name="Explore StatHub" xml:space="preserve">
+    <value>StatHub 탐색하기</value>
+  </data>
+  <data name="Flash" xml:space="preserve">
+    <value>쓰기</value>
+  </data>
+  <data name="Free" xml:space="preserve">
+    <value>무료</value>
+  </data>
+  <data name="Friendly interface" xml:space="preserve">
+    <value>친절한 인터페이스</value>
+  </data>
+  <data name="Fully On-Premise" xml:space="preserve">
+    <value>완전 온프레미스</value>
+  </data>
+  <data name="Get the AnduinOS image from our site" xml:space="preserve">
+    <value>저희 사이트에서 AnduinOS 이미지를 다운로드하세요</value>
+  </data>
+  <data name="Get up-to-the-second updates on every AnduinOS device&apos;s CPU, memory, disk, and network usage." xml:space="preserve">
+    <value>각 AnduinOS 장치의 CPU, 메모리, 디스크 및 네트워크 사용량에 대한 초 단위 업데이트를 받아보세요.</value>
+  </data>
+  <data name="GPL-v3 License" xml:space="preserve">
+    <value>GPL-v3 라이선스</value>
+  </data>
+  <data name="Graphical applications are installed via Flatpak, and keep themselves separate from the base system. They also allow for fine-grained control over their permissions." xml:space="preserve">
+    <value>그래픽 애플리케이션은 Flatpak을 통해 설치되며, 기본 시스템과 격리되어 실행됩니다. 또한 권한 설정에 대해 세밀한 제어를 지원합니다.</value>
+  </data>
+  <data name="Internal package distribution via apt" xml:space="preserve">
+    <value>apt를 통한 내부 패키지 배포</value>
+  </data>
+  <data name="Kiosk &amp; Digital Signage" xml:space="preserve">
+    <value>키오스크 및 디지털 사이니지</value>
+  </data>
+  <data name="Kiosk mode prevents unauthorized access. Users can only interact with your approved application, keeping your deployment secure." xml:space="preserve">
+    <value>키오크 모드는 무단 접근을 방지합니다. 사용자는 승인된 애플리케이션과만 상호 작용할 수 있어 배포 환경의 보안이 유지됩니다.</value>
+  </data>
+  <data name="Lightweight Agents" xml:space="preserve">
+    <value>가벼운 에이전트</value>
+  </data>
+  <data name="Locked-down &amp; tamper-proof" xml:space="preserve">
+    <value>제한된 모드 및 조작 방지</value>
+  </data>
+  <data name="Love AnduinOS?" xml:space="preserve">
+    <value>AnduinOS가 마음에 드시나요?</value>
+  </data>
+  <data name="Low-overhead agents collect metrics without impacting your AnduinOS devices&apos; performance. Deploy in seconds with Docker." xml:space="preserve">
+    <value>경량 에이전트가 AnduinOS 디바이스의 성능에 영향을 주지 않고 지표를 수집합니다. Docker를 사용하여 몇 초 만에 배포하세요.</value>
+  </data>
+  <data name="Minimal maintenance. Maximum stability." xml:space="preserve">
+    <value>최소한의 유지보수. 최대한의 안정성.</value>
+  </data>
+  <data name="Monitor thousands of AnduinOS devices from a single centralized dashboard. Scale as your fleet grows." xml:space="preserve">
+    <value>중앙 집중식 대시보드 하나에서 수천 대의 AnduinOS 장치를 모니터링하세요. 기지 규모가 확장됨에 따라 유연하게 대응하세요.</value>
+  </data>
+  <data name="Monitor your entire" xml:space="preserve">
+    <value>전체를 모니터링하세요</value>
+  </data>
+  <data name="Monitoring" xml:space="preserve">
+    <value>모니터링</value>
+  </data>
+  <data name="Multi-Node" xml:space="preserve">
+    <value>멀티 노드</value>
+  </data>
+  <data name="Offline repository mirrors for air-gapped networks" xml:space="preserve">
+    <value>네트워크 격리 환경용 오프라인 저장소 미러</value>
+  </data>
+  <data name="Open Source" xml:space="preserve">
+    <value>오픈 소스</value>
+  </data>
+  <data name="Package Distribution" xml:space="preserve">
+    <value>패키지 배포</value>
+  </data>
+  <data name="Performance" xml:space="preserve">
+    <value>성능</value>
+  </data>
+  <data name="Pre-install company software packages" xml:space="preserve">
+    <value>회사 소프트웨어 패키지가 사전 설치됩니다.</value>
+  </data>
+  <data name="Privacy is no longer optional. It&apos;s essential. AnduinOS is designed to gather nothing from you. We don&apos;t track you. We don&apos;t profile you. We don&apos;t target you. You remain anonymous to the system." xml:space="preserve">
+    <value>프라이버시는 더 이상 선택 사항이 아닙니다. 필수 사항입니다. AnduinOS는 사용자로부터 어떤 정보도 수집하지 않도록 설계되었습니다. 우리는 사용자를 추적하지 않습니다. 프로파일링하지 않습니다. 대상화하지 않습니다. 시스템에서는 사용자의 익명성이 유지됩니다.</value>
+  </data>
+  <data name="Private Apkg" xml:space="preserve">
+    <value>사설 Apkg</value>
+  </data>
+  <data name="Ready to use" xml:space="preserve">
+    <value>바로 사용 가능</value>
+  </data>
+  <data name="Real-time" xml:space="preserve">
+    <value>실시간</value>
+  </data>
+  <data name="Real-time device health monitoring" xml:space="preserve">
+    <value>실시간 장치 상태 모니터링</value>
+  </data>
+  <data name="Reasons" xml:space="preserve">
+    <value>이유</value>
+  </data>
+  <data name="Remote configuration and policy enforcement" xml:space="preserve">
+    <value>원격 구성 및 정책 적용</value>
+  </data>
+  <data name="Remote content management" xml:space="preserve">
+    <value>원격 콘텐츠 관리</value>
+  </data>
+  <data name="Replace system logo and boot screen" xml:space="preserve">
+    <value>시스템 로고 및 부팅 화면 교체</value>
+  </data>
+  <data name="Resource Efficient" xml:space="preserve">
+    <value>리소스 효율적</value>
+  </data>
+  <data name="Role-based access control for IT teams" xml:space="preserve">
+    <value>IT 팀을 위한 역할 기반 액세스 제어</value>
+  </data>
+  <data name="Root and privacy" xml:space="preserve">
+    <value>루트 및 개인 정보 보호</value>
+  </data>
+  <data name="Run your own APT infrastructure behind the firewall. No external dependencies, no proprietary agents — just standard apt." xml:space="preserve">
+    <value>방화벽 뒤에서 자체 APT 인프라를 운영하십시오. 외부 의존성 및 전용 에이전트 없이, 표준 apt만 사용하면 됩니다.</value>
+  </data>
+  <data name="Runs smoothly on older devices. Extends hardware lifespan by being resource-efficient, so you don&apos;t need to buy new machines." xml:space="preserve">
+    <value>구형 장치에서도 원활하게 작동합니다. 리소스 효율성을 통해 하드웨어 수명을 연장하므로 새 기기를 구매할 필요가 없습니다.</value>
+  </data>
+  <data name="Seamless AnduinOS Integration" xml:space="preserve">
+    <value>원활한 AnduinOS 통합</value>
+  </data>
+  <data name="Secure" xml:space="preserve">
+    <value>보안</value>
+  </data>
+  <data name="Set up your system in under 5 minutes" xml:space="preserve">
+    <value>5분 만에 시스템을 설정하세요</value>
+  </data>
+  <data name="Ship software to every" xml:space="preserve">
+    <value>모든 기기에 소프트웨어 배포</value>
+  </data>
+  <data name="Simple, user-friendly. Broad compatibility with virtually all PC hardware." xml:space="preserve">
+    <value>간단하고 사용하기 편리합니다. 거의 모든 PC 하드웨어와 광범위하게 호환됩니다.</value>
+  </data>
+  <data name="Smaller image, friendly interface, unbeatable performance, safe and secure." xml:space="preserve">
+    <value>경량화된 이미지, 친숙한 인터페이스, 압도적인 성능, 안전하고 보안이 강화됨.</value>
+  </data>
+  <data name="Source Code" xml:space="preserve">
+    <value>소스 코드</value>
+  </data>
+  <data name="Speedy Makeover" xml:space="preserve">
+    <value>빠른 탈바꿈</value>
+  </data>
+  <data name="StatHub Dashboard Screenshot" xml:space="preserve">
+    <value>StatHub 대시보드 스크린샷</value>
+  </data>
+  <data name="StatHub is a simple, real-time server monitoring system designed for local deployment. Keep an eye on your entire AnduinOS infrastructure with intuitive dashboards and detailed metrics — all from a single pane of glass." xml:space="preserve">
+    <value>StatHub는 로컬 배포용으로 설계된 간단하고 실시간인 서버 모니터링 시스템입니다. 직관적인 대시보드와 상세한 메트릭스로 전체 AnduinOS 인프라를 하나의 화면에서 쉽게 관리하세요.</value>
+  </data>
+  <data name="Sync, sign, and promote atomically via rename(2). APT clients never see half-written metadata — only consistent, signed snapshots." xml:space="preserve">
+    <value>rename(2)를 통해 동기화, 서명 및 승인을 원자적으로 처리합니다. APT 클라이언트는 부분적으로 작성된 메타데이터를 결코 보지 않으며, 일관되고 서명된 스냅샷만 확인합니다.</value>
+  </data>
+  <data name="System updates apply automatically when you restart. Zero maintenance windows — just reboot, and you&apos;re on the latest version." xml:space="preserve">
+    <value>시스템 업데이트는 재부팅 시 자동으로 적용됩니다. 유지보수 시간 없이 — 재부팅하기만 하면 최신 버전으로 업데이트됩니다.</value>
+  </data>
+  <data name="The GNOME-based desktop environment has beautiful interfaces and human-computer interactions that fit user habits, allowing you to quickly get started with AnduinOS without too much learning cost." xml:space="preserve">
+    <value>GNOME 기반 데스크톱 환경은 아름다운 인터페이스와 사용자 습관에 맞는 인간-컴퓨터 상호작용을 제공하여, 학습 비용 없이 AnduinOS를 빠르게 시작할 수 있습니다.</value>
+  </data>
+  <data name="The ideal solution for" xml:space="preserve">
+    <value>디지털 사이니지 및 키오크 단말기를 위한 이상적인 솔루션</value>
+  </data>
+  <data name="The ISO is just 2.4GB in size. Similar to Ubuntu, it is simple to install and can meet your daily needs without additional configuration or complicated operations." xml:space="preserve">
+    <value>ISO 크기는 단 2.4GB입니다. Ubuntu와 마찬가지로 설치가 간단하여 추가 설정이나 복잡한 조작 없이 일상적인 필요를 충족할 수 있습니다.</value>
+  </data>
+  <data name="Tired of your sluggish OS slowing you down? Switch to AnduinOS for instant speed and seamless performance." xml:space="preserve">
+    <value>도무지 느려지는 OS에 지쳤나요? 즉각적인 속도와 원활한 성능을 위해 AnduinOS로 전환하세요.</value>
+  </data>
+  <data name="Transform any PC into a secure, managed kiosk. Our in-house kiosk content management suite is available now — try it today." xml:space="preserve">
+    <value>모든 PC를 안전하고 관리 가능한 키오스크로 전환하세요. 당사 자체 개발 키오스크 콘텐츠 관리 스위트가 지금 바로 이용 가능합니다 — 오늘 바로 사용해 보세요.</value>
+  </data>
+  <data name="Turn any screen into a kiosk" xml:space="preserve">
+    <value>모든 화면을 키오스로 전환하세요</value>
+  </data>
+  <data name="Update content, push configurations, and monitor device health — all from the cloud. No need for on-site visits." xml:space="preserve">
+    <value>콘텐츠 업데이트, 설정 적용, 디바이스 상태 모니터링 — 모든 것을 클라우드에서 관리하세요. 현장 방문 없이도 가능합니다.</value>
+  </data>
+  <data name="Version pinning and controlled rollouts" xml:space="preserve">
+    <value>버전 고정 및 제어된 릴리스</value>
+  </data>
+  <data name="Visit Community Site" xml:space="preserve">
+    <value>커뮤니티 사이트 방문하기</value>
+  </data>
+  <data name="Why choose AnduinOS?" xml:space="preserve">
+    <value>AnduinOS를 선택해야 하는 이유는 무엇인가요?</value>
+  </data>
+  <data name="with Apkg" xml:space="preserve">
+    <value>Apkg로</value>
+  </data>
+  <data name="With just a few clicks, you can have AnduinOS running on any machine. Enjoy automatic updates, built-in security, and remote management from the cloud — so once deployed, it just works." xml:space="preserve">
+    <value>클릭 몇 번만으로 어떤 기기에서나 AnduinOS를 실행할 수 있습니다. 클라우드에서 제공하는 자동 업데이트, 내장 보안, 원격 관리 기능을 즐기세요 — 한번 배포하면 별도의 설정 없이 바로 작동합니다.</value>
+  </data>
+  <data name="with StatHub" xml:space="preserve">
+    <value>StatHub와 함께</value>
+  </data>
+  <data name="Write the image to a USB drive" xml:space="preserve">
+    <value>USB 드라이브에 이미지 작성</value>
+  </data>
+
+</root>

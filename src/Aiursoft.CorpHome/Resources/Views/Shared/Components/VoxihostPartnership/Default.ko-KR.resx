@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="All Aiursoft servers are sourced from Voxihost. We help clients land on Voxihost infrastructure." xml:space="preserve">
+    <value>모든 Aiursoft 서버는 Voxihost에서 제공됩니다. 우리는 고객이 Voxihost 인프라를 구축할 수 있도록 돕습니다.</value>
+  </data>
+  <data name="Complete Business Hosting" xml:space="preserve">
+    <value>완벽한 비즈니스 호스팅</value>
+  </data>
+  <data name="Deep Collaboration" xml:space="preserve">
+    <value>깊은 협력</value>
+  </data>
+  <data name="Paving the Way for Your Business." xml:space="preserve">
+    <value>귀하의 비즈니스를 위한 길을 개척합니다.</value>
+  </data>
+  <data name="Strategic Partner" xml:space="preserve">
+    <value>전략적 파트너</value>
+  </data>
+  <data name="Transparent &amp; Affordable" xml:space="preserve">
+    <value>투명하고 합리적인 가격</value>
+  </data>
+  <data name="Voxihost" xml:space="preserve">
+    <value>Voxihost</value>
+  </data>
+  <data name="Voxihost Cloud Infrastructure" xml:space="preserve">
+    <value>Voxihost 클라우드 인프라</value>
+  </data>
+  <data name="Voxihost offers transparent, cost-effective cloud and generously sponsors Aiursoft&apos;s Open-source work." xml:space="preserve">
+    <value>Voxihost는 투명하고 비용 효율적인 클라우드 서비스를 제공하며, Aiursoft의 오픈소스 작업을 기꺼이 후원합니다.</value>
+  </data>
+  <data name="With reliable cloud infrastructure, your business can grow reliably alongside Aiursoft." xml:space="preserve">
+    <value>안정적인 클라우드 인프라로 Aiursoft와 함께 사업 성장을 보장합니다.</value>
+  </data>
+  <data name="With Voxihost, Aiursoft helps enterprises host Email, authentication, cloud drives, employee portals, monitoring, and AI." xml:space="preserve">
+    <value>Voxihost와 함께 Aiursoft는 기업들이 이메일, 인증, 클라우드 드라이브, 사원 포털, 모니터링 및 AI를 호스팅할 수 있도록 지원합니다.</value>
+  </data>
+
+</root>

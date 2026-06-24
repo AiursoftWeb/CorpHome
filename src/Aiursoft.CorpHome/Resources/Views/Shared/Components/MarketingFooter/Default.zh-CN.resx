@@ -21,11 +21,23 @@
       <data name="Aiursoft" xml:space="preserve">
     <value>Aiursoft</value>
   </data>
+  <data name="Aiursoft is dedicated to bringing the spirit of open-source and free software to every enterprise and individual." xml:space="preserve">
+    <value>Aiursoft 致力于将开源和自由软件的精神带给每一个企业和每个人。</value>
+  </data>
   <data name="Aiursoft Template - A modern, feature-rich, and highly extensible foundation for your next web application." xml:space="preserve">
     <value>Aiursoft Template - 一个现代化、功能丰富且高度可扩展的下一代 Web 应用程序基础框架。</value>
   </data>
+  <data name="AnduinOS Enterprise" xml:space="preserve">
+    <value>AnduinOS 企业版</value>
+  </data>
   <data name="Community" xml:space="preserve">
     <value>社区</value>
+  </data>
+  <data name="Company" xml:space="preserve">
+    <value>公司</value>
+  </data>
+  <data name="Contact" xml:space="preserve">
+    <value>联系我们</value>
   </data>
   <data name="Contributions" xml:space="preserve">
     <value>贡献</value>
@@ -36,6 +48,9 @@
   <data name="Get Started" xml:space="preserve">
     <value>开始使用</value>
   </data>
+  <data name="Get to know us" xml:space="preserve">
+    <value>关于我们</value>
+  </data>
   <data name="Github" xml:space="preserve">
     <value>GitHub</value>
   </data>
@@ -44,6 +59,9 @@
   </data>
   <data name="Licence" xml:space="preserve">
     <value>许可证</value>
+  </data>
+  <data name="News" xml:space="preserve">
+    <value>新闻</value>
   </data>
   <data name="Privacy Policy" xml:space="preserve">
     <value>隐私政策</value>
@@ -60,8 +78,14 @@
   <data name="Social" xml:space="preserve">
     <value>社交</value>
   </data>
+  <data name="Solutions" xml:space="preserve">
+    <value>解决方案</value>
+  </data>
   <data name="Source Code" xml:space="preserve">
     <value>源代码</value>
+  </data>
+  <data name="Substratum" xml:space="preserve">
+    <value>Substratum</value>
   </data>
   <data name="Terms of Service" xml:space="preserve">
     <value>服务条款</value>

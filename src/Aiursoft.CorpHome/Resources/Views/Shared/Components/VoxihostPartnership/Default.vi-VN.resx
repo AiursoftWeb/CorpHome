@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="All Aiursoft servers are sourced from Voxihost. We help clients land on Voxihost infrastructure." xml:space="preserve">
+    <value>Tất cả máy chủ của Aiursoft đều sử dụng dịch vụ từ Voxihost. Chúng tôi hỗ trợ khách hàng triển khai trên hạ tầng của Voxihost.</value>
+  </data>
+  <data name="Complete Business Hosting" xml:space="preserve">
+    <value>Dịch vụ lưu trữ doanh nghiệp toàn diện</value>
+  </data>
+  <data name="Deep Collaboration" xml:space="preserve">
+    <value>Hợp tác chặt chẽ</value>
+  </data>
+  <data name="Paving the Way for Your Business." xml:space="preserve">
+    <value>Mở đường cho doanh nghiệp của bạn.</value>
+  </data>
+  <data name="Strategic Partner" xml:space="preserve">
+    <value>Đối Tác Chiến Lược</value>
+  </data>
+  <data name="Transparent &amp; Affordable" xml:space="preserve">
+    <value>Minh bạch &amp; Chi phí hợp lý</value>
+  </data>
+  <data name="Voxihost" xml:space="preserve">
+    <value>Voxihost</value>
+  </data>
+  <data name="Voxihost Cloud Infrastructure" xml:space="preserve">
+    <value>Cấu trúc hạ tầng đám mây Voxihost</value>
+  </data>
+  <data name="Voxihost offers transparent, cost-effective cloud and generously sponsors Aiursoft&apos;s Open-source work." xml:space="preserve">
+    <value>Voxihost cung cấp dịch vụ đám mây minh bạch, hiệu quả về chi phí và tài trợ hào phóng cho các hoạt động mã nguồn mở của Aiursoft.</value>
+  </data>
+  <data name="With reliable cloud infrastructure, your business can grow reliably alongside Aiursoft." xml:space="preserve">
+    <value>Với cơ sở hạ tầng đám mây đáng tin cậy, doanh nghiệp của bạn có thể phát triển vững chắc cùng Aiursoft.</value>
+  </data>
+  <data name="With Voxihost, Aiursoft helps enterprises host Email, authentication, cloud drives, employee portals, monitoring, and AI." xml:space="preserve">
+    <value>Với Voxihost, Aiursoft hỗ trợ các doanh nghiệp triển khai Email, xác thực, ổ đĩa đám mây, cổng thông tin nhân viên, giám sát và AI.</value>
+  </data>
+
+</root>

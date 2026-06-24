@@ -18,8 +18,14 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="A fast, free, open-source and offline-deployable enterprise office hub enhanced with agentic RAG — streamline HR, finance, and operations for your SMB." xml:space="preserve">
+      <data name="A custom Ubuntu-based Linux distribution with enterprise-grade endpoint management, zero-trust security, and seamless open-source integration." xml:space="preserve">
+    <value>Một bản phân phối Linux tùy chỉnh dựa trên Ubuntu với khả năng quản lý điểm cuối cấp doanh nghiệp, bảo mật zero-trust và tích hợp mã nguồn mở liền mạch.</value>
+  </data>
+  <data name="A fast, free, open-source and offline-deployable enterprise office hub enhanced with agentic RAG — streamline HR, finance, and operations for your SMB." xml:space="preserve">
     <value>Một trung tâm văn phòng doanh nghiệp nhanh chóng, miễn phí, mã nguồn mở và có thể triển khai ngoại tuyến, được tăng cường với RAG tác nhân — tối ưu hóa nhân sự, tài chính và vận hành cho doanh nghiệp vừa và nhỏ của bạn.</value>
+  </data>
+  <data name="A lightweight, self-hosted Kanban workspace for planning boards, tracking cards, assigning work, and sharing progress across your team." xml:space="preserve">
+    <value>Một không gian làm việc Kanban nhẹ, tự lưu trữ cho việc lập kế hoạch bảng, theo dõi thẻ, phân công công việc và chia sẻ tiến độ với toàn bộ nhóm của bạn.</value>
   </data>
   <data name="A simple, real-time server monitoring system designed for local deployment. Keep an eye on your infrastructure with intuitive dashboards and detailed metrics." xml:space="preserve">
     <value>Một hệ thống giám sát máy chủ đơn giản, theo thời gian thực, được thiết kế để triển khai cục bộ. Theo dõi cơ sở hạ tầng của bạn với các bảng điều khiển trực quan và các chỉ số chi tiết.</value>
@@ -30,11 +36,23 @@
   <data name="AnduinOS" xml:space="preserve">
     <value>AnduinOS</value>
   </data>
+  <data name="AnduinOS Enterprise" xml:space="preserve">
+    <value>AnduinOS Enterprise</value>
+  </data>
   <data name="AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
     <value>AnduinOS là một bản phân phối Linux dựa trên Ubuntu tùy chỉnh, mang lại trải nghiệm quen thuộc và dễ sử dụng cho bất kỳ ai chuyển sang Linux.</value>
   </data>
+  <data name="Apkg" xml:space="preserve">
+    <value>Apkg</value>
+  </data>
   <data name="Community" xml:space="preserve">
     <value>Cộng đồng</value>
+  </data>
+  <data name="Company" xml:space="preserve">
+    <value>Công ty</value>
+  </data>
+  <data name="Declarative APT repository platform. Ship Debian packages, mirror upstream archives, and publish .apkg bundles — fully on-premise." xml:space="preserve">
+    <value>Nền tảng kho lưu trữ APT khai báo. Triển khai các gói Debian, đồng bộ hóa kho lưu trữ nguồn gốc và phát hành các gói .apkg — hoàn toàn cục bộ.</value>
   </data>
   <data name="Discover the benefits of working with us." xml:space="preserve">
     <value>Khám phá những lợi ích khi hợp tác với chúng tôi.</value>
@@ -48,11 +66,23 @@
   <data name="Enterprise business framework for the Open-source &amp; AI era." xml:space="preserve">
     <value>Khung kinh doanh doanh nghiệp cho kỷ nguyên Mã nguồn mở &amp; AI.</value>
   </data>
+  <data name="Get to know us" xml:space="preserve">
+    <value>Tìm hiểu về chúng tôi</value>
+  </data>
   <data name="GitHub" xml:space="preserve">
     <value>GitHub</value>
   </data>
   <data name="Join our partner ecosystem." xml:space="preserve">
     <value>Tham gia hệ sinh thái đối tác của chúng tôi.</value>
+  </data>
+  <data name="Kanban" xml:space="preserve">
+    <value>Kanban</value>
+  </data>
+  <data name="Learn about the team, mission, and values behind Aiursoft." xml:space="preserve">
+    <value>Tìm hiểu về đội ngũ, sứ mệnh và giá trị cốt lõi của Aiursoft.</value>
+  </data>
+  <data name="News" xml:space="preserve">
+    <value>Tin tức</value>
   </data>
   <data name="Ollama Gateway" xml:space="preserve">
     <value>Cổng Ollama</value>
@@ -71,6 +101,9 @@
   </data>
   <data name="StatHub" xml:space="preserve">
     <value>StatHub</value>
+  </data>
+  <data name="Stay up to date with the latest announcements, product updates, and stories from the Aiursoft team." xml:space="preserve">
+    <value>Luôn cập nhật thông tin mới nhất về các thông báo, bản cập nhật sản phẩm và câu chuyện từ đội ngũ Aiursoft.</value>
   </data>
   <data name="Substratum" xml:space="preserve">
     <value>Substratum</value>

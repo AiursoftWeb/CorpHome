@@ -30,6 +30,9 @@
   <data name="AiurDrive, StatHub, Nextcloud" xml:space="preserve">
     <value>AiurDrive、StatHub、Nextcloud</value>
   </data>
+  <data name="AiurDrive, StatHub, Nextcloud Deployment" xml:space="preserve">
+    <value>AiurDrive、StatHub、Nextcloud 部署</value>
+  </data>
   <data name="Aiursoft Substratum Core" xml:space="preserve">
     <value>Aiursoft Substratum Core</value>
   </data>
@@ -44,6 +47,9 @@
   </data>
   <data name="Authentik" xml:space="preserve">
     <value>Authentik</value>
+  </data>
+  <data name="Blog, Kanban" xml:space="preserve">
+    <value>博客，看板</value>
   </data>
   <data name="Contact Sales" xml:space="preserve">
     <value>联系销售</value>
@@ -87,6 +93,9 @@
   <data name="Includes everything in Startup" xml:space="preserve">
     <value>包含 Startup 的所有内容</value>
   </data>
+  <data name="Kanban, Ollama Gateway" xml:space="preserve">
+    <value>看板式管理，Ollama 网关</value>
+  </data>
   <data name="Koel, Immich, Memos" xml:space="preserve">
     <value>Koel, Immich, Memos</value>
   </data>
@@ -101,6 +110,9 @@
   </data>
   <data name="MDM based device compliance" xml:space="preserve">
     <value>基于 MDM 的设备合规性</value>
+  </data>
+  <data name="On-premise AnduinOS Apkg" xml:space="preserve">
+    <value>本地部署的 AnduinOS Apkg</value>
   </data>
   <data name="On-premise offline deployment" xml:space="preserve">
     <value>本地离线部署</value>

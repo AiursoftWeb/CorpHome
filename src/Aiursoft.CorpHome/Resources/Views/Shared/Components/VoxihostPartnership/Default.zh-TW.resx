@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="All Aiursoft servers are sourced from Voxihost. We help clients land on Voxihost infrastructure." xml:space="preserve">
+    <value>所有 Aiursoft 伺服器均由 Voxihost 提供。我們協助客戶將服務部署至 Voxihost 基礎設施。</value>
+  </data>
+  <data name="Complete Business Hosting" xml:space="preserve">
+    <value>完整的企業級主機服務</value>
+  </data>
+  <data name="Deep Collaboration" xml:space="preserve">
+    <value>深度合作</value>
+  </data>
+  <data name="Paving the Way for Your Business." xml:space="preserve">
+    <value>為您企業鋪路。</value>
+  </data>
+  <data name="Strategic Partner" xml:space="preserve">
+    <value>戰略合作夥伴</value>
+  </data>
+  <data name="Transparent &amp; Affordable" xml:space="preserve">
+    <value>透明且具競爭力</value>
+  </data>
+  <data name="Voxihost" xml:space="preserve">
+    <value>Voxihost</value>
+  </data>
+  <data name="Voxihost Cloud Infrastructure" xml:space="preserve">
+    <value>Voxihost 雲端基礎設施</value>
+  </data>
+  <data name="Voxihost offers transparent, cost-effective cloud and generously sponsors Aiursoft&apos;s Open-source work." xml:space="preserve">
+    <value>Voxihost 提供透明且具成本效益的雲端服務，並慷慨贊助 Aiursoft 的開源工作。</value>
+  </data>
+  <data name="With reliable cloud infrastructure, your business can grow reliably alongside Aiursoft." xml:space="preserve">
+    <value>憑藉可靠的雲端基礎設施，您的業務可與 Aiursoft 攜手穩健發展。</value>
+  </data>
+  <data name="With Voxihost, Aiursoft helps enterprises host Email, authentication, cloud drives, employee portals, monitoring, and AI." xml:space="preserve">
+    <value>憑藉 Voxihost，Aiursoft 協助企業託管電子郵件、身分驗證、雲端硬碟、員工門戶、監控服務與 AI。</value>
+  </data>
+
+</root>
