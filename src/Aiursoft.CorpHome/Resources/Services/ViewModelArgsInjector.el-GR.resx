@@ -30,6 +30,9 @@
   <data name="Aiursoft Template" xml:space="preserve">
     <value>Aiursoft Πρότυπο</value>
   </data>
+  <data name="AnduinOS" xml:space="preserve">
+    <value>AnduinOS</value>
+  </data>
   <data name="Anonymous" xml:space="preserve">
     <value>Ανώνυμος</value>
   </data>
@@ -89,6 +92,9 @@
   </data>
   <data name="Features" xml:space="preserve">
     <value>Λειτουργίες</value>
+  </data>
+  <data name="Get to know us" xml:space="preserve">
+    <value>Γνώριτέ μας</value>
   </data>
   <data name="Global Settings" xml:space="preserve">
     <value>Καθολικές Ρυθμίσεις</value>
