@@ -36,6 +36,9 @@
   <data name="AnduinOS Enterprise (Desktop OS)" xml:space="preserve">
     <value>AnduinOS Enterprise (Desktop OS)</value>
   </data>
+  <data name="Authentik uses an Open Core model. The Community Edition is licensed under the permissive MIT license, which allows commercial use, modification, and redistribution. We provide the Community Edition (MIT) as part of Substratum. The Enterprise Edition requires a separate commercial license from Authentik." xml:space="preserve">
+    <value>Authentik використовує модель Open Core. Версія Community ліцензується за ліберальною ліцензією MIT, яка дозволяє комерційне використання, модифікацію та redistributію. Ми надаємо версію Community (MIT) як частину Substratum. Для версії Enterprise потрібна окрема комерційна ліцензія від Authentik.</value>
+  </data>
   <data name="Business hours email support" xml:space="preserve">
     <value>електронна підтримка в робочий час</value>
   </data>
@@ -93,6 +96,12 @@
   <data name="Fleet device policy management" xml:space="preserve">
     <value>Управління політикою пристроїв флоту</value>
   </data>
+  <data name="GitLab is a trademark of GitLab Inc. Aiursoft provides deployment, hosting, and integration services for GitLab — we are not affiliated with or endorsed by GitLab Inc. The GitLab Community Edition (CE) is MIT-licensed and can be deployed freely. The GitLab Enterprise Edition (EE) requires a separate license purchased from GitLab Inc. We can assist you with procuring the appropriate GitLab EE license, or you may choose to remove this item from your plan." xml:space="preserve">
+    <value>GitLab є торговельною маркою GitLab Inc. Aiursoft надає послуги розгортання, розміщення та інтеграції для GitLab — ми не маємо жодного стосунку до GitLab Inc. і не отримуємо від неї підтримки. GitLab Community Edition (CE) має ліцензію MIT і може бути вільно розгорнутий. Для GitLab Enterprise Edition (EE) потрібна окрема ліцензія, придбана у GitLab Inc. Ми можемо допомогти вам придбати відповідну ліцензію GitLab EE, або ви можете вирішити виключити цей елемент зі свого тарифного плану.</value>
+  </data>
+  <data name="Hacker" xml:space="preserve">
+    <value>Хакер</value>
+  </data>
   <data name="Hardware key enforcement" xml:space="preserve">
     <value>Примусове використання апаратних ключів</value>
   </data>
@@ -113,6 +122,9 @@
   </data>
   <data name="Local LLM API Gateway" xml:space="preserve">
     <value>Локальний шлюз API LLM</value>
+  </data>
+  <data name="Mailcow is open-source software (GPL-3.0). Aiursoft provides managed hosting, deployment, and integration services. Any custom modifications provided during your on-premise deployment are fully compliant with and distributed under the GPL-3.0 license." xml:space="preserve">
+    <value>Mailcow — це програмне забезпечення з відкритим вихідним кодом (GPL-3.0). Aiursoft надає послуги з управління хостингом, розгортанням та інтеграцією. Будь-які користувацькі зміни, надані під час локального розгортання, повністю відповідають ліцензії GPL-3.0 та поширюються на її умовах.</value>
   </data>
   <data name="Managed endpoint OS" xml:space="preserve">
     <value>Керована кінцева ОС</value>
@@ -135,6 +147,9 @@
   <data name="Multi-site &amp; HA capable" xml:space="preserve">
     <value>Багатосайтовість та здатність до HA</value>
   </data>
+  <data name="Nextcloud is a trademark of Nextcloud GmbH. Aiursoft is an independent integration provider. To ensure enterprise-grade stability and strict adherence to the AGPL-3.0 license, we deploy the official, unmodified Nextcloud releases and seamlessly connect your stack via standard APIs, OIDC/SAML, and official plugins." xml:space="preserve">
+    <value>Nextcloud є торговельною маркою Nextcloud GmbH. Aiursoft є незалежним провайдером інтеграції. Для забезпечення стабільності на рівні корпоративних рішень та суворого дотримання ліцензії AGPL-3.0 ми впроваджуємо офіційні, не змінені релізи Nextcloud та безшовно інтегруємо вашу технологічну базу за допомогою стандартних API, OIDC/SAML та офіційних плагінів.</value>
+  </data>
   <data name="Not included" xml:space="preserve">
     <value>Не входить</value>
   </data>
@@ -146,6 +161,9 @@
   </data>
   <data name="On-premise / Air-gapped Deployment" xml:space="preserve">
     <value>Власне розгортання / Розгортання в ізольованому середовищі</value>
+  </data>
+  <data name="On-premises APT Repository" xml:space="preserve">
+    <value>Локальний репозиторій APT</value>
   </data>
   <data name="Online Code Execution" xml:space="preserve">
     <value>Виконання коду в режимі онлайн</value>
@@ -177,6 +195,9 @@
   <data name="Scale &amp; Support" xml:space="preserve">
     <value>Масштабування та підтримка</value>
   </data>
+  <data name="Self-hosted APT repository with .apkg publishing" xml:space="preserve">
+    <value>Самостійний репозиторій APT з публікацією пакетів .apkg</value>
+  </data>
   <data name="Self-hosted LLM inference gateway" xml:space="preserve">
     <value>Шлюз інференції LLM із самостійним розміщенням</value>
   </data>
@@ -207,6 +228,9 @@
   <data name="Talk to an Architect" xml:space="preserve">
     <value>Поговорити з архітектором</value>
   </data>
+  <data name="Team Blog" xml:space="preserve">
+    <value>Командний блог</value>
+  </data>
   <data name="Team Voting" xml:space="preserve">
     <value>Голосування команди</value>
   </data>
@@ -221,6 +245,9 @@
   </data>
   <data name="What&apos;s Included" xml:space="preserve">
     <value>Що входить до складу</value>
+  </data>
+  <data name="Workspace Boards" xml:space="preserve">
+    <value>Дошки робочого простору</value>
   </data>
   <data name="Zero Trust Yubikey Auth" xml:space="preserve">
     <value>Аутентифікація Zero Trust через Yubikey</value>

@@ -57,8 +57,14 @@
   <data name="IT teams can monitor the health of all endpoints and perform basic remote management." xml:space="preserve">
     <value>IT-teams kan overvåge helbredet på alle slutpunkter og udføre grundlægende fjernstyring.</value>
   </data>
+  <data name="Learn about AnduinOS Enterprise" xml:space="preserve">
+    <value>Læs om AnduinOS Enterprise</value>
+  </data>
   <data name="Meet industry compliance requirements with auditable configurations and enterprise-grade controls." xml:space="preserve">
     <value>Opfyld branchekrav til overholdelse med auditable konfigurationer og kontrol på virksomhedsniveau.</value>
+  </data>
+  <data name="On-premises Package Repository" xml:space="preserve">
+    <value>On-premises pakkeopbevaring</value>
   </data>
   <data name="Private Package Repository" xml:space="preserve">
     <value>Privat pakkeopbevaringssted</value>
