@@ -18,8 +18,14 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="A fast, free, open-source and offline-deployable enterprise office hub enhanced with agentic RAG — streamline HR, finance, and operations for your SMB." xml:space="preserve">
+      <data name="A custom Ubuntu-based Linux distribution with enterprise-grade endpoint management, zero-trust security, and seamless open-source integration." xml:space="preserve">
+    <value>O distribuție Linux personalizată bazată pe Ubuntu, cu gestionare avansată a punctelor de extremă la nivel de întreprindere, securitate bazată pe zero-trust și integrare perfectă cu software-ul open-source.</value>
+  </data>
+  <data name="A fast, free, open-source and offline-deployable enterprise office hub enhanced with agentic RAG — streamline HR, finance, and operations for your SMB." xml:space="preserve">
     <value>Un hub de birou de afaceri rapid, gratuit, open-source și deployabil offline, îmbunătățit cu RAG agentic — simplifică HR-ul, finanțele și operațiunile pentru IMM-ul tău.</value>
+  </data>
+  <data name="A lightweight, self-hosted Kanban workspace for planning boards, tracking cards, assigning work, and sharing progress across your team." xml:space="preserve">
+    <value>Un spațiu de lucru Kanban ușor, găzduit local, pentru planificarea tabelelor, urmărirea cardurilor, asignarea sarcinilor și partajarea progresului în echipa ta.</value>
   </data>
   <data name="A simple, real-time server monitoring system designed for local deployment. Keep an eye on your infrastructure with intuitive dashboards and detailed metrics." xml:space="preserve">
     <value>Un sistem simplu de monitorizare a serverelor în timp real, conceput pentru implementare locală. Țineți sub control infrastructura cu panouri intuitive și metrici detaliate.</value>
@@ -30,11 +36,23 @@
   <data name="AnduinOS" xml:space="preserve">
     <value>AnduinOS</value>
   </data>
+  <data name="AnduinOS Enterprise" xml:space="preserve">
+    <value>AnduinOS Enterprise</value>
+  </data>
   <data name="AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
     <value>AnduinOS este o distribuție Linux personalizată, bazată pe Ubuntu, care oferă o experiență familiară și ușor de utilizat pentru oricine trece la Linux.</value>
   </data>
+  <data name="Apkg" xml:space="preserve">
+    <value>Apkg</value>
+  </data>
   <data name="Community" xml:space="preserve">
     <value>Comunitate</value>
+  </data>
+  <data name="Company" xml:space="preserve">
+    <value>Companie</value>
+  </data>
+  <data name="Declarative APT repository platform. Ship Debian packages, mirror upstream archives, and publish .apkg bundles — fully on-premise." xml:space="preserve">
+    <value>Platformă declarativă de depozit APT. Distribuie pachete Debian, oglindește arhivele upstream și publică pachete .apkg — complet on-premise.</value>
   </data>
   <data name="Discover the benefits of working with us." xml:space="preserve">
     <value>Descoperiți beneficiile colaborării cu noi.</value>
@@ -48,11 +66,23 @@
   <data name="Enterprise business framework for the Open-source &amp; AI era." xml:space="preserve">
     <value>Cadrul de afaceri enterprise pentru era open-source și AI.</value>
   </data>
+  <data name="Get to know us" xml:space="preserve">
+    <value>Cine suntem noi</value>
+  </data>
   <data name="GitHub" xml:space="preserve">
     <value>GitHub</value>
   </data>
   <data name="Join our partner ecosystem." xml:space="preserve">
     <value>Alătură-te ecosistemului nostru de parteneri.</value>
+  </data>
+  <data name="Kanban" xml:space="preserve">
+    <value>Kanban</value>
+  </data>
+  <data name="Learn about the team, mission, and values behind Aiursoft." xml:space="preserve">
+    <value>Aflați mai multe despre echipa, misiunea și valorile din spatele Aiursoft.</value>
+  </data>
+  <data name="News" xml:space="preserve">
+    <value>Știri</value>
   </data>
   <data name="Ollama Gateway" xml:space="preserve">
     <value>Ollama Gateway</value>
@@ -71,6 +101,9 @@
   </data>
   <data name="StatHub" xml:space="preserve">
     <value>StatHub</value>
+  </data>
+  <data name="Stay up to date with the latest announcements, product updates, and stories from the Aiursoft team." xml:space="preserve">
+    <value>Rămâneți la curent cu cele mai recente anunțuri, actualizări de produs și povești de la echipa Aiursoft.</value>
   </data>
   <data name="Substratum" xml:space="preserve">
     <value>Substratum</value>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="All Aiursoft servers are sourced from Voxihost. We help clients land on Voxihost infrastructure." xml:space="preserve">
+    <value>Toate serverele Aiursoft sunt adăugate din Voxihost. Ajutăm clienții să se integreze în infrastructura Voxihost.</value>
+  </data>
+  <data name="Complete Business Hosting" xml:space="preserve">
+    <value>Găzduire Completă pentru Afaceri</value>
+  </data>
+  <data name="Deep Collaboration" xml:space="preserve">
+    <value>Colaborare Strânsă</value>
+  </data>
+  <data name="Paving the Way for Your Business." xml:space="preserve">
+    <value>Pregătind terenul pentru afacerea dumneavoastră.</value>
+  </data>
+  <data name="Strategic Partner" xml:space="preserve">
+    <value>Partener Strategic</value>
+  </data>
+  <data name="Transparent &amp; Affordable" xml:space="preserve">
+    <value>Transparent și Accesibil</value>
+  </data>
+  <data name="Voxihost" xml:space="preserve">
+    <value>Voxihost</value>
+  </data>
+  <data name="Voxihost Cloud Infrastructure" xml:space="preserve">
+    <value>Infrastructură Cloud Voxihost</value>
+  </data>
+  <data name="Voxihost offers transparent, cost-effective cloud and generously sponsors Aiursoft&apos;s Open-source work." xml:space="preserve">
+    <value>Voxihost oferă cloud transparent și eficient din punct de vedere al costurilor, susținând în mod generos activitatea de surse deschise (open-source) a Aiursoft.</value>
+  </data>
+  <data name="With reliable cloud infrastructure, your business can grow reliably alongside Aiursoft." xml:space="preserve">
+    <value>Cu o infrastructură cloud fiabilă, afacerea dumneavoastră se poate dezvolta în siguranță alături de Aiursoft.</value>
+  </data>
+  <data name="With Voxihost, Aiursoft helps enterprises host Email, authentication, cloud drives, employee portals, monitoring, and AI." xml:space="preserve">
+    <value>Cu Voxihost, Aiursoft ajută întreprinderile să găzduiască Email, autentificare, discuri cloud, portaluri pentru angajați, monitorizare și AI.</value>
+  </data>
+
+</root>

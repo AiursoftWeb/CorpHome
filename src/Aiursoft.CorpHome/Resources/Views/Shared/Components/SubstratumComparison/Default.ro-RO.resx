@@ -36,6 +36,9 @@
   <data name="AnduinOS Enterprise (Desktop OS)" xml:space="preserve">
     <value>AnduinOS Enterprise (Sistem de operare de desktop)</value>
   </data>
+  <data name="Authentik uses an Open Core model. The Community Edition is licensed under the permissive MIT license, which allows commercial use, modification, and redistribution. We provide the Community Edition (MIT) as part of Substratum. The Enterprise Edition requires a separate commercial license from Authentik." xml:space="preserve">
+    <value>Authentik utilizează un model Open Core. Ediția Community este licențiată sub licența permisivă MIT, care permite utilizarea comercială, modificarea și redistribuirea. Oferim Ediția Community (MIT) ca parte din Substratum. Ediția Enterprise necesită o licență comercială separată de la Authentik.</value>
+  </data>
   <data name="Business hours email support" xml:space="preserve">
     <value>Suport prin e-mail în timpul programului de lucru</value>
   </data>
@@ -93,6 +96,12 @@
   <data name="Fleet device policy management" xml:space="preserve">
     <value>Gestionarea politicilor de dispozitive din flotă</value>
   </data>
+  <data name="GitLab is a trademark of GitLab Inc. Aiursoft provides deployment, hosting, and integration services for GitLab — we are not affiliated with or endorsed by GitLab Inc. The GitLab Community Edition (CE) is MIT-licensed and can be deployed freely. The GitLab Enterprise Edition (EE) requires a separate license purchased from GitLab Inc. We can assist you with procuring the appropriate GitLab EE license, or you may choose to remove this item from your plan." xml:space="preserve">
+    <value>GitLab este o marcă înregistrată a GitLab Inc. Aiursoft oferă servicii de implementare, găzduire și integrare pentru GitLab — nu suntem afiliați sau recomandați de GitLab Inc. Ediția Community (CE) a GitLab este licențiată sub MIT și poate fi implementată liber. Ediția Enterprise (EE) a GitLab necesită o licență separată achiziționată de la GitLab Inc. Vă putem asista în obținerea licenței GitLab EE adecvate, sau puteți alege să eliminați acest element din planul dumneavoastră.</value>
+  </data>
+  <data name="Hacker" xml:space="preserve">
+    <value>Hacker</value>
+  </data>
   <data name="Hardware key enforcement" xml:space="preserve">
     <value>Aplicarea cheii hardware</value>
   </data>
@@ -113,6 +122,9 @@
   </data>
   <data name="Local LLM API Gateway" xml:space="preserve">
     <value>Gateway API LLM local</value>
+  </data>
+  <data name="Mailcow is open-source software (GPL-3.0). Aiursoft provides managed hosting, deployment, and integration services. Any custom modifications provided during your on-premise deployment are fully compliant with and distributed under the GPL-3.0 license." xml:space="preserve">
+    <value>Mailcow este un software open-source (GPL-3.0). Aiursoft oferă servicii de hosting gestionat, implementare și integrare. Orice modificări personalizate furnizate în cadrul implementării on-premise sunt pe deplin conforme cu licența GPL-3.0 și sunt distribuite sub această licență.</value>
   </data>
   <data name="Managed endpoint OS" xml:space="preserve">
     <value>Sistem de operare pentru endpoint gestionat</value>
@@ -135,6 +147,9 @@
   <data name="Multi-site &amp; HA capable" xml:space="preserve">
     <value>Multi-site și HA-capabilă</value>
   </data>
+  <data name="Nextcloud is a trademark of Nextcloud GmbH. Aiursoft is an independent integration provider. To ensure enterprise-grade stability and strict adherence to the AGPL-3.0 license, we deploy the official, unmodified Nextcloud releases and seamlessly connect your stack via standard APIs, OIDC/SAML, and official plugins." xml:space="preserve">
+    <value>Nextcloud este un semn comercial al Nextcloud GmbH. Aiursoft este un furnizor independent de integrare. Pentru a asigura stabilitate de nivel enterprise și conformitate strictă cu licența AGPL-3.0, instalăm versiunile oficiale, nemodificate, ale Nextcloud și conectăm fluid infrastructura dvs. prin API-uri standard, OIDC/SAML și plugin-uri oficiale.</value>
+  </data>
   <data name="Not included" xml:space="preserve">
     <value>Nu este inclus</value>
   </data>
@@ -146,6 +161,9 @@
   </data>
   <data name="On-premise / Air-gapped Deployment" xml:space="preserve">
     <value>Implementare On-premise / Air-gapped</value>
+  </data>
+  <data name="On-premises APT Repository" xml:space="preserve">
+    <value>Depozit APT on-premise</value>
   </data>
   <data name="Online Code Execution" xml:space="preserve">
     <value>Executare cod online</value>
@@ -177,6 +195,9 @@
   <data name="Scale &amp; Support" xml:space="preserve">
     <value>Scalare și Suport</value>
   </data>
+  <data name="Self-hosted APT repository with .apkg publishing" xml:space="preserve">
+    <value>Depozit APT găzduit local cu publicare de fișiere .apkg</value>
+  </data>
   <data name="Self-hosted LLM inference gateway" xml:space="preserve">
     <value>Pod gazdă de inferență LLM</value>
   </data>
@@ -207,6 +228,9 @@
   <data name="Talk to an Architect" xml:space="preserve">
     <value>Vorbiți cu un arhitect</value>
   </data>
+  <data name="Team Blog" xml:space="preserve">
+    <value>Blogul Echipei</value>
+  </data>
   <data name="Team Voting" xml:space="preserve">
     <value>Votarea echipei</value>
   </data>
@@ -221,6 +245,9 @@
   </data>
   <data name="What&apos;s Included" xml:space="preserve">
     <value>Ce este inclus</value>
+  </data>
+  <data name="Workspace Boards" xml:space="preserve">
+    <value>Tablouri de lucru</value>
   </data>
   <data name="Zero Trust Yubikey Auth" xml:space="preserve">
     <value>Autentificare Zero Trust cu Yubikey</value>

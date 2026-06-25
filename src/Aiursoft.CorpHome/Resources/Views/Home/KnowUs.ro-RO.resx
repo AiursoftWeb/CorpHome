@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="About Aiursoft" xml:space="preserve">
+    <value>Despre Aiursoft</value>
+  </data>
+  <data name="Address" xml:space="preserve">
+    <value>Adresa</value>
+  </data>
+  <data name="Aiursoft is built to last a century. We are just getting started. Every decision we make serves a blueprint measured in decades, not quarters. We resist the urge to chase short-term hype or fleeting trends. Our choices are deliberate, steady, and patient — because the work that truly matters takes time, and we intend to be here for all of it." xml:space="preserve">
+    <value>Aiursoft este construită pentru a dura un secol. Abia acum începem. Fiecare decizie pe care o luăm servește unui plan pe termen lung, măsurat în decenii, nu în trimestre. Resistăm tentației de a urma modele pe termen scurt sau tendințele fugace. Alegerile noastre sunt conștiente, echilibrate și răbdătoare – pentru că lucrul care contează cu adevărat necesită timp, iar noi intendăm să fim aici pentru toate etapele.</value>
+  </data>
+  <data name="Aiursoft is dedicated to bringing the spirit of open-source and free software to every enterprise and individual." xml:space="preserve">
+    <value>Aiursoft își dedică eforturile pentru a aduce spiritul software-ului open-source și liber la fiecare întreprindere și individ.</value>
+  </data>
+  <data name="Aiursoft&apos;s story is closely linked to the communities that shape us, including the global community of open source contributors and enthusiasts who are part of our team. Since 2025, we have built an operating system called AnduinOS — designed to be clean, simple, and accessible to everyone." xml:space="preserve">
+    <value>Istoria Aiursoft este strâns legată de comunitățile care ne modelează, inclusiv comunitatea globală de contribuitori și entuziaști open source care fac parte din echipa noastră. Începând cu 2025, am dezvoltat un sistem de operare numit AnduinOS — creat pentru a fi curat, simplu și accesibil tuturor.</value>
+  </data>
+  <data name="Chapter 1" xml:space="preserve">
+    <value>Capitolul 1</value>
+  </data>
+  <data name="Contact" xml:space="preserve">
+    <value>Contact</value>
+  </data>
+  <data name="Contact us" xml:space="preserve">
+    <value>Contactați-ne</value>
+  </data>
+  <data name="Director" xml:space="preserve">
+    <value>Director</value>
+  </data>
+  <data name="Entity Code" xml:space="preserve">
+    <value>Cod entitate</value>
+  </data>
+  <data name="Follow us" xml:space="preserve">
+    <value>Urmărește-ne</value>
+  </data>
+  <data name="For every team member, personal growth comes first — above profit, above deadlines. We design work so that it is accessible without deep prior familiarity: the best learning happens through hands-on exploration, not prerequisites. We value playfulness and genuine curiosity — the kind that makes you lose track of time. When our people grow, the company grows as a natural consequence, not the other way around." xml:space="preserve">
+    <value>Pentru fiecare membru al echipei, dezvoltarea personală este pe primul loc – înainte de profit, înainte de termene limită. Organizăm munca astfel încât să fie accesibilă fără o familiarizare anterioară profundă: cel mai bun învățământ are loc prin explorare practică, nu prin precondiții. Valorificăm spiritul de joacă și curiozitatea autentică – cea care te face să pierdi noțiunea timpului. Când oamenii noștri cresc, compania crește ca o consecință naturală, nu invers.</value>
+  </data>
+  <data name="Freedom" xml:space="preserve">
+    <value>Libertate</value>
+  </data>
+  <data name="Growth" xml:space="preserve">
+    <value>Creștere</value>
+  </data>
+  <data name="Headquarters — Hong Kong" xml:space="preserve">
+    <value>Sediu — Hong Kong</value>
+  </data>
+  <data name="Legal Representative" xml:space="preserve">
+    <value>Reprezentant legal</value>
+  </data>
+  <data name="Long-term" xml:space="preserve">
+    <value>Pe termen lung</value>
+  </data>
+  <data name="Our Culture" xml:space="preserve">
+    <value>Cultura noastră</value>
+  </data>
+  <data name="Registered Address" xml:space="preserve">
+    <value>Adresa înregistrată</value>
+  </data>
+  <data name="Tel" xml:space="preserve">
+    <value>Tel</value>
+  </data>
+  <data name="We open-source everything we build. We reject vendor lock-in and ecosystem entrapment. We respect open standards, champion offline-first operation, and believe every right to the code belongs to the customer and the device owner. We build nothing that stands between software users and their freedom to tinker — no barriers, no gatekeeping, no artificial constraints on what a hacker or user can do with the tools we create." xml:space="preserve">
+    <value>Facem open-source tot ce construim. Ne opunem împotriva dependenței față de furnizor și a prăbușirii în ecosisteme închise. Respectăm standardele deschise, promovăm funcționarea offline-first și credem că drepturile asupra codului aparțin clientului și proprietarului dispozitivului. Nu construim nimic care să se interpună între utilizatorii de software și libertatea lor de a experimenta – fără bariere, fără restricții artificiale impuse de gatekeepers, fără limitări artificiale ale a ceea ce un hacker sau un utilizator poate face cu instrumentele pe care le creăm.</value>
+  </data>
+  <data name="Where to find us" xml:space="preserve">
+    <value>Unde ne găsiți</value>
+  </data>
+
+</root>
