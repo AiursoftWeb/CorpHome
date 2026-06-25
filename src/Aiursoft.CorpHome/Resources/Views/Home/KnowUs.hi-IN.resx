@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="About Aiursoft" xml:space="preserve">
+    <value>एआइयर्सॉफ्ट के बारे में</value>
+  </data>
+  <data name="Address" xml:space="preserve">
+    <value>पता</value>
+  </data>
+  <data name="Aiursoft is built to last a century. We are just getting started. Every decision we make serves a blueprint measured in decades, not quarters. We resist the urge to chase short-term hype or fleeting trends. Our choices are deliberate, steady, and patient — because the work that truly matters takes time, and we intend to be here for all of it." xml:space="preserve">
+    <value>Aiursoft एक शताब्दी तक चलने के लिए बनाया गया है। हम अभी शुरू कर रहे हैं। हमारा हर निर्णय दशकों में मापी जाने वाली नींव की सेवा करता है, न कि तिमाहियों में। हम अल्पकालीन शोर या क्षणभंगुर प्रवृत्तियों का पीछा करने के आग्रह का विरोध करते हैं। हमारे निर्णय सोच-समझकर, स्थिर और धैर्यपूर्ण हैं — क्योंकि सच्चे महत्वपूर्ण कार्य में समय लगता है, और हम इसका हर पल साथ देने का इरादा रखते हैं।</value>
+  </data>
+  <data name="Aiursoft is dedicated to bringing the spirit of open-source and free software to every enterprise and individual." xml:space="preserve">
+    <value>आइरसॉफ्ट प्रत्येक उद्यम और व्यक्ति तक ओपन-सोर्स और मुफ़्त सॉफ्टवेयर की भावना पहुँचाने के लिए समर्पित है।</value>
+  </data>
+  <data name="Aiursoft&apos;s story is closely linked to the communities that shape us, including the global community of open source contributors and enthusiasts who are part of our team. Since 2025, we have built an operating system called AnduinOS — designed to be clean, simple, and accessible to everyone." xml:space="preserve">
+    <value>Aiursoft की कहानी उन समुदायों से गहराई से जुड़ी हुई है जो हमारे आकार को परिभाषित करते हैं, जिसमें ओपन सोर्स योगदानकर्ताओं और उत्साही लोगों का वैश्विक समुदाय शामिल है जो हमारी टीम का हिस्सा हैं। 2025 से, हमने AnduinOS नाम का एक ऑपरेटिंग सिस्टम विकसित किया है — जिसे स्वच्छ, सरल और सभी के लिए सुलभ बनाने के लिए डिज़ाइन किया गया है।</value>
+  </data>
+  <data name="Chapter 1" xml:space="preserve">
+    <value>अध्याय 1</value>
+  </data>
+  <data name="Contact" xml:space="preserve">
+    <value>संपर्क</value>
+  </data>
+  <data name="Contact us" xml:space="preserve">
+    <value>हमसे संपर्क करें</value>
+  </data>
+  <data name="Director" xml:space="preserve">
+    <value>निदेशक</value>
+  </data>
+  <data name="Entity Code" xml:space="preserve">
+    <value>संस्था कोड</value>
+  </data>
+  <data name="Follow us" xml:space="preserve">
+    <value>हमें फॉलो करें</value>
+  </data>
+  <data name="For every team member, personal growth comes first — above profit, above deadlines. We design work so that it is accessible without deep prior familiarity: the best learning happens through hands-on exploration, not prerequisites. We value playfulness and genuine curiosity — the kind that makes you lose track of time. When our people grow, the company grows as a natural consequence, not the other way around." xml:space="preserve">
+    <value>हर टीम सदस्य के लिए, व्यक्तिगत विकास सबसे पहले आता है — लाभ से ऊपर, समय सीमाओं से ऊपर। हम काम को इस तरह डिज़ाइन करते हैं कि गहरी पूर्व परिचितता के बिना भी इसे समझा जा सके: सबसे अच्छी सीख व्यावहारिक अन्वेषण के माध्यम से होती है, न कि पूर्वशर्तों से। हम खेलकूद और प्रामाणिक जिज्ञासा की सराहना करते हैं — वह प्रकार जो आपको समय का अहसास खोने पर मजबूर कर दे। जब हमारे लोग बढ़ते हैं, तो कंपनी एक स्वाभाविक परिणाम के रूप में बढ़ती है, न कि इसके विपरीत।</value>
+  </data>
+  <data name="Freedom" xml:space="preserve">
+    <value>स्वतंत्रता</value>
+  </data>
+  <data name="Growth" xml:space="preserve">
+    <value>विकास</value>
+  </data>
+  <data name="Headquarters — Hong Kong" xml:space="preserve">
+    <value>मुख्यालय — हॉन्गकांग</value>
+  </data>
+  <data name="Legal Representative" xml:space="preserve">
+    <value>कानूनी प्रतिनिधि</value>
+  </data>
+  <data name="Long-term" xml:space="preserve">
+    <value>लंबी अवधि</value>
+  </data>
+  <data name="Our Culture" xml:space="preserve">
+    <value>हमारी संस्कृति</value>
+  </data>
+  <data name="Registered Address" xml:space="preserve">
+    <value>पंजीकृत पता</value>
+  </data>
+  <data name="Tel" xml:space="preserve">
+    <value>फोन</value>
+  </data>
+  <data name="We open-source everything we build. We reject vendor lock-in and ecosystem entrapment. We respect open standards, champion offline-first operation, and believe every right to the code belongs to the customer and the device owner. We build nothing that stands between software users and their freedom to tinker — no barriers, no gatekeeping, no artificial constraints on what a hacker or user can do with the tools we create." xml:space="preserve">
+    <value>हम अपने द्वारा बनाई गई हर चीज़ को ओपन-सोर्स करते हैं। हम वेंडर लॉक-इन और पारिस्थितिकी तंत्र में फंसने का विरोध करते हैं। हम खुले मानकों का सम्मान करते हैं, ऑफ़लाइन-फर्स्ट संचालन की वकालत करते हैं, और मानते हैं कि कोड का हर अधिकार ग्राहक और डिवाइस मालिक का है। हम सॉफ्टवेयर उपयोगकर्ताओं और उनके टिंकर करने की स्वतंत्रता के बीच कोई भी अवरोध नहीं बनाते — कोई बाधाएं नहीं, कोई गेटकीपिंग नहीं, और न ही किसी हैकर या उपयोगकर्ता पर हमारे द्वारा बनाए गए उपकरणों के साथ करने की स्वतंत्रता पर कृत्रिम प्रतिबंध हैं।</value>
+  </data>
+  <data name="Where to find us" xml:space="preserve">
+    <value>हमें कहाँ खोजें</value>
+  </data>
+
+</root>

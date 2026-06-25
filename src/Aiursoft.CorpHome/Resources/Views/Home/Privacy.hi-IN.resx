@@ -84,11 +84,17 @@
   <data name="For Cloud-Hosted Plans (e.g., Aiursoft Substrate S1 Core):" xml:space="preserve">
     <value>क्लाउड-होस्टेड योजनाओं के लिए (उदाहरण के लिए, Aiursoft Substrate S1 Core):</value>
   </data>
+  <data name="For Cloud-Hosted Plans (e.g., Aiursoft Substratum Core):" xml:space="preserve">
+    <value>क्लाउड-होस्टेड योजनाओं के लिए (जैसे, Aiursoft Substratum Core):</value>
+  </data>
   <data name="For on-premise deployments, cancellation simply terminates our support and update services. Your data remains entirely intact on your own servers, under your complete control." xml:space="preserve">
     <value>ऑन-प्रेमिस डिप्लॉयमेंट के लिए, रद्दीकरण केवल हमारी सहायता और अपडेट सेवाओं को समाप्त करता है। आपका डेटा आपके अपने सर्वर पर पूरी तरह से सुरक्षित रहता है, आपकी पूर्ण नियंत्रण में।</value>
   </data>
   <data name="For On-Premise Plans (e.g., Aiursoft Substrate S3 Startup &amp; S5 Enterprise):" xml:space="preserve">
     <value>ऑन-प्रेमिस योजनाओं के लिए (उदाहरण के लिए, Aiursoft Substrate S3 Startup &amp; S5 Enterprise):</value>
+  </data>
+  <data name="For On-Premise Plans (e.g., Aiursoft Substratum Startup &amp; Enterprise):" xml:space="preserve">
+    <value>ऑन-प्रेमिस प्लान्स (जैसे, Aiursoft Substratum Startup &amp; Enterprise) के लिए:</value>
   </data>
   <data name="For provisioning the underlying high-performance cloud infrastructure that powers our official websites and Cloud-Hosted (S1 Core) client instances." xml:space="preserve">
     <value>हमारी आधिकारिक वेबसाइटों और क्लाउड-होस्टेड (S1 Core) क्लाइंट इंस्टेंस को संचालित करने वाली अंतर्निहित उच्च-प्रदर्शन क्लाउड बुनियादी ढांचे की आपूर्ति के लिए।</value>

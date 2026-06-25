@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="All Aiursoft servers are sourced from Voxihost. We help clients land on Voxihost infrastructure." xml:space="preserve">
+    <value>Kaikki Aiursoftin palvelimet sijaitsevat Voxihostin palvelimilla. Autamme asiakkaita käyttämään Voxihostin infrastruktuuria.</value>
+  </data>
+  <data name="Complete Business Hosting" xml:space="preserve">
+    <value>Kattava yritysverkkotila</value>
+  </data>
+  <data name="Deep Collaboration" xml:space="preserve">
+    <value>Syvällinen yhteistyö</value>
+  </data>
+  <data name="Paving the Way for Your Business." xml:space="preserve">
+    <value>Varoittelen tietä liiketoiminnallesi.</value>
+  </data>
+  <data name="Strategic Partner" xml:space="preserve">
+    <value>Strateginen kumppani</value>
+  </data>
+  <data name="Transparent &amp; Affordable" xml:space="preserve">
+    <value>Läpinäkyvä ja edullinen</value>
+  </data>
+  <data name="Voxihost" xml:space="preserve">
+    <value>Voxihost</value>
+  </data>
+  <data name="Voxihost Cloud Infrastructure" xml:space="preserve">
+    <value>Voxihost-pilvinfrastruktuuri</value>
+  </data>
+  <data name="Voxihost offers transparent, cost-effective cloud and generously sponsors Aiursoft&apos;s Open-source work." xml:space="preserve">
+    <value>Voxihost tarjoaa läpinäkyvää ja kustannustehokasta pilvipalvelua sekä tukee avoimesti Aiursoftin avoimen lähdekoodin kehitystä.</value>
+  </data>
+  <data name="With reliable cloud infrastructure, your business can grow reliably alongside Aiursoft." xml:space="preserve">
+    <value>Luotettavan pilvipohjarakenteen ansiosta yrityksesi voi kasvaa luotettavasti Aiursoftin rinnalla.</value>
+  </data>
+  <data name="With Voxihost, Aiursoft helps enterprises host Email, authentication, cloud drives, employee portals, monitoring, and AI." xml:space="preserve">
+    <value>Voxihostin avulla Aiursoft auttaa yrityksiä isännöimään sähköposteja, kirjautumistoiminnon, pilvipalveluita, henkilökunnan porttia, valvontaa ja tekoälyä.</value>
+  </data>
+
+</root>

@@ -84,11 +84,17 @@
   <data name="For Cloud-Hosted Plans (e.g., Aiursoft Substrate S1 Core):" xml:space="preserve">
     <value>Για Σχεδιασμούς Φιλοξενίας στο Cloud (π.χ., Aiursoft Substrate S1 Core):</value>
   </data>
+  <data name="For Cloud-Hosted Plans (e.g., Aiursoft Substratum Core):" xml:space="preserve">
+    <value>Για Σχέδια Cloud-Hosted (π.χ., Aiursoft Substratum Core):</value>
+  </data>
   <data name="For on-premise deployments, cancellation simply terminates our support and update services. Your data remains entirely intact on your own servers, under your complete control." xml:space="preserve">
     <value>Για τις τοπικές εγκαταστάσεις (on-premise), η ακύρωση απλώς τερματίζει τις υπηρεσίες υποστήριξης και ενημέρωσής μας. Τα δεδομένα σας παραμένουν πλήρως άθικτα στους δικούς σας διακομιστές, υπό την πλήρη έλεγχό σας.</value>
   </data>
   <data name="For On-Premise Plans (e.g., Aiursoft Substrate S3 Startup &amp; S5 Enterprise):" xml:space="preserve">
     <value>Για τα Σχέδια On-Premise (π.χ., Aiursoft Substrate S3 Startup &amp; S5 Enterprise):</value>
+  </data>
+  <data name="For On-Premise Plans (e.g., Aiursoft Substratum Startup &amp; Enterprise):" xml:space="preserve">
+    <value>Για Σχέδια Τοπικής Εγκατάστασης (π.χ., Aiursoft Substratum Startup &amp; Enterprise):</value>
   </data>
   <data name="For provisioning the underlying high-performance cloud infrastructure that powers our official websites and Cloud-Hosted (S1 Core) client instances." xml:space="preserve">
     <value>Για τη διαχείριση της υποκείμενης υποδομής cloud υψηλών επιδόσεων που τροφοδοτεί τις επίσημες ιστοσελίδες μας και τις πελατικές στιγμιότυπα Cloud-Hosted (S1 Core).</value>

@@ -36,6 +36,9 @@
   <data name="AnduinOS Enterprise (Desktop OS)" xml:space="preserve">
     <value>AnduinOS Enterprise (डेस्कटॉप OS)</value>
   </data>
+  <data name="Authentik uses an Open Core model. The Community Edition is licensed under the permissive MIT license, which allows commercial use, modification, and redistribution. We provide the Community Edition (MIT) as part of Substratum. The Enterprise Edition requires a separate commercial license from Authentik." xml:space="preserve">
+    <value>Authentik एक ओपन कोर मॉडल का उपयोग करता है। कम्युनिटी एडिशन अनुमतिप्रद MIT लाइसेंस के तहत लाइसेंसित है, जिससे वाणिज्यिक उपयोग, संशोधन और पुनर्वितरण की अनुमति होती है। हम सबस्ट्रेटम का एक हिस्सा के रूप में कम्युनिटी एडिशन (MIT) प्रदान करते हैं। एंटरप्राइज़ एडिशन के लिए Authentik से अलग वाणिज्यिक लाइसेंस की आवश्यकता होती है।</value>
+  </data>
   <data name="Business hours email support" xml:space="preserve">
     <value>व्यावसायिक घंटों के दौरान ईमेल सहायता</value>
   </data>
@@ -93,6 +96,12 @@
   <data name="Fleet device policy management" xml:space="preserve">
     <value>फ्लीट उपकरण नीति प्रबंधन</value>
   </data>
+  <data name="GitLab is a trademark of GitLab Inc. Aiursoft provides deployment, hosting, and integration services for GitLab — we are not affiliated with or endorsed by GitLab Inc. The GitLab Community Edition (CE) is MIT-licensed and can be deployed freely. The GitLab Enterprise Edition (EE) requires a separate license purchased from GitLab Inc. We can assist you with procuring the appropriate GitLab EE license, or you may choose to remove this item from your plan." xml:space="preserve">
+    <value>GitLab, GitLab Inc. का एक परंपरागत नाम है। Aiursoft GitLab के लिए पृष्ठाघात, होस्टिंग और एकीकरण सेवाएँ प्रदान करता है — हम GitLab Inc. से संबद्ध नहीं हैं, न ही हमें GitLab Inc. द्वारा संप्रमाणित किया गया है। GitLab Community Edition (CE) की MIT लाइसेंस है, जिसे मुक्त रूप से स्थापित किया जा सकता है। GitLab Enterprise Edition (EE) के लिए GitLab Inc. से खरीदे गए अलग-थलग लाइसेंस की आवश्यकता होती है। हम GitLab EE लाइसेंस प्राप्त करने में आपकी सहायता कर सकते हैं, या आप अपने योजना से इस आइटम को हटाने का विकल्प चुन सकते हैं।</value>
+  </data>
+  <data name="Hacker" xml:space="preserve">
+    <value>हैकर</value>
+  </data>
   <data name="Hardware key enforcement" xml:space="preserve">
     <value>हार्डवेयर कुंजी प्रवर्तन</value>
   </data>
@@ -113,6 +122,9 @@
   </data>
   <data name="Local LLM API Gateway" xml:space="preserve">
     <value>स्थानीय LLM API गेटवे</value>
+  </data>
+  <data name="Mailcow is open-source software (GPL-3.0). Aiursoft provides managed hosting, deployment, and integration services. Any custom modifications provided during your on-premise deployment are fully compliant with and distributed under the GPL-3.0 license." xml:space="preserve">
+    <value>Mailcow एक ओपन-सोर्स सॉफ्टवेयर (GPL-3.0) है। Aiursoft प्रबंधित होस्टिंग, डिप्लॉयमेंट, और इंटीग्रेशन सेवाएं प्रदान करता है। आपकी ऑन-प्रिमाइज़ डिप्लॉयमेंट के दौरान प्रदान की गई कोई भी कस्टम संशोधन GPL-3.0 लाइसेंस के तहत पूरी तरह से अनुपालन में और वितरित किए जाते हैं।</value>
   </data>
   <data name="Managed endpoint OS" xml:space="preserve">
     <value>प्रबंधित एंडपॉइंट OS</value>
@@ -135,6 +147,9 @@
   <data name="Multi-site &amp; HA capable" xml:space="preserve">
     <value>बहु-साइट और एचए सक्षम</value>
   </data>
+  <data name="Nextcloud is a trademark of Nextcloud GmbH. Aiursoft is an independent integration provider. To ensure enterprise-grade stability and strict adherence to the AGPL-3.0 license, we deploy the official, unmodified Nextcloud releases and seamlessly connect your stack via standard APIs, OIDC/SAML, and official plugins." xml:space="preserve">
+    <value>Nextcloud, Nextcloud GmbH का ट्रेडमार्क है। Aiursoft एक स्वतंत्र एकीकरण प्रदाता है। उद्यम-स्तरीय स्थिरता और AGPL-3.0 लाइसेंस का सख्ती से पालन सुनिश्चित करने के लिए, हम आधिकारिक, अक्षुण्ण Nextcloud रिलीज़ की तैनाती करते हैं और मानक API, OIDC/SAML, और आधिकारिक प्लगइन्स के माध्यम से आपके स्टैक को सहजता से जोड़ते हैं।</value>
+  </data>
   <data name="Not included" xml:space="preserve">
     <value>समावेशित नहीं है</value>
   </data>
@@ -146,6 +161,9 @@
   </data>
   <data name="On-premise / Air-gapped Deployment" xml:space="preserve">
     <value>स्थानीय / एयर-गैप्ड डिप्लॉयमेंट</value>
+  </data>
+  <data name="On-premises APT Repository" xml:space="preserve">
+    <value>ऑन-प्रीमिसेस एपीटी रिपॉज़िटरी</value>
   </data>
   <data name="Online Code Execution" xml:space="preserve">
     <value>ऑनलाइन कोड एक्जीक्यूशन</value>
@@ -177,6 +195,9 @@
   <data name="Scale &amp; Support" xml:space="preserve">
     <value>स्केल और समर्थन</value>
   </data>
+  <data name="Self-hosted APT repository with .apkg publishing" xml:space="preserve">
+    <value>.apkg प्रकाशन के साथ सेल्फ-होस्टेड APT रेपॉजिटरी</value>
+  </data>
   <data name="Self-hosted LLM inference gateway" xml:space="preserve">
     <value>स्व-आधारित एलएलएम इनफरेंस गेटवे</value>
   </data>
@@ -207,6 +228,9 @@
   <data name="Talk to an Architect" xml:space="preserve">
     <value>एक आर्किटेक्ट से बात करें</value>
   </data>
+  <data name="Team Blog" xml:space="preserve">
+    <value>टीम ब्लॉग</value>
+  </data>
   <data name="Team Voting" xml:space="preserve">
     <value>टीम वोटिंग</value>
   </data>
@@ -221,6 +245,9 @@
   </data>
   <data name="What&apos;s Included" xml:space="preserve">
     <value>क्या शामिल है</value>
+  </data>
+  <data name="Workspace Boards" xml:space="preserve">
+    <value>कार्यस्थान बोर्ड</value>
   </data>
   <data name="Zero Trust Yubikey Auth" xml:space="preserve">
     <value>ज़ीरो ट्रस्ट युबिकी प्रमाण</value>

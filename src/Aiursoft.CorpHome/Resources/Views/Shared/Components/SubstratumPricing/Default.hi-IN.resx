@@ -30,6 +30,9 @@
   <data name="AiurDrive, StatHub, Nextcloud" xml:space="preserve">
     <value>AiurDrive, StatHub, Nextcloud</value>
   </data>
+  <data name="AiurDrive, StatHub, Nextcloud Deployment" xml:space="preserve">
+    <value>AiurDrive, StatHub, Nextcloud निर्माण</value>
+  </data>
   <data name="Aiursoft Substratum Core" xml:space="preserve">
     <value>Aiursoft Substratum Core</value>
   </data>
@@ -44,6 +47,9 @@
   </data>
   <data name="Authentik" xml:space="preserve">
     <value>Authentik</value>
+  </data>
+  <data name="Blog, Kanban" xml:space="preserve">
+    <value>ब्लॉग, कनबन</value>
   </data>
   <data name="Contact Sales" xml:space="preserve">
     <value>बिक्री से संपर्क करें</value>
@@ -87,6 +93,9 @@
   <data name="Includes everything in Startup" xml:space="preserve">
     <value>स्टार्टअप में शामिल सभी चीज़ें</value>
   </data>
+  <data name="Kanban, Ollama Gateway" xml:space="preserve">
+    <value>कनबान, ओलामा गेटवे</value>
+  </data>
   <data name="Koel, Immich, Memos" xml:space="preserve">
     <value>Koel, Immich, Memos</value>
   </data>
@@ -101,6 +110,9 @@
   </data>
   <data name="MDM based device compliance" xml:space="preserve">
     <value>MDM आधारित उपकरण अनुपालन</value>
+  </data>
+  <data name="On-premise AnduinOS Apkg" xml:space="preserve">
+    <value>ऑन-प्रेमिस AnduinOS Apkg</value>
   </data>
   <data name="On-premise offline deployment" xml:space="preserve">
     <value>ऑन-प्रेमिस ऑफलाइन डिप्लॉयमेंट</value>
