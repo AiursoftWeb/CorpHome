@@ -105,6 +105,9 @@
   <data name="Community Site" xml:space="preserve">
     <value>コミュニティサイト</value>
   </data>
+  <data name="Compatible with most x86 PCs manufactured in the last decade." xml:space="preserve">
+    <value>過去10年間で製造されたほとんどのx86 PCと互換性があります。</value>
+  </data>
   <data name="Compatible with virtually any PC hardware manufactured in the last decade." xml:space="preserve">
     <value>過去10年間に製造されたほぼ全てのPCハードウェアと互換性があります。</value>
   </data>
@@ -296,6 +299,9 @@
   </data>
   <data name="Multi-Node" xml:space="preserve">
     <value>マルチノード</value>
+  </data>
+  <data name="NVIDIA Graphics Support" xml:space="preserve">
+    <value>NVIDIAグラフィックスサポート</value>
   </data>
   <data name="NVIDIA Tested" xml:space="preserve">
     <value>NVIDIAテスト済み</value>

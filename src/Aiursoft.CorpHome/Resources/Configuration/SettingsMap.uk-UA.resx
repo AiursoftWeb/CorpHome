@@ -39,6 +39,9 @@
   <data name="Brand Name" xml:space="preserve">
     <value>Назва бренду</value>
   </data>
+  <data name="Company Name (Simplified Chinese)" xml:space="preserve">
+    <value>Назва компанії (спрощена китайська)</value>
+  </data>
   <data name="Dummy Choice" xml:space="preserve">
     <value>Спростована вибірка</value>
   </data>
@@ -98,6 +101,9 @@
   </data>
   <data name="The brand name displayed in the footer." xml:space="preserve">
     <value>Назва бренду, що відображається в підвалі.</value>
+  </data>
+  <data name="The company name displayed when the page language is Simplified Chinese. Leave empty to use the default brand name." xml:space="preserve">
+    <value>Назва компанії, що відображається, коли мовою сторінки є спрощена китайська. Залиште порожнім, щоб використовувати назву за замовчуванням.</value>
   </data>
   <data name="The ICP license number for China mainland users. Leave empty to hide." xml:space="preserve">
     <value>Номер ліцензії ICP для користувачів материкового Китаю. Залиште порожнім, щоб приховати.</value>

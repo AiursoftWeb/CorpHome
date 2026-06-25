@@ -57,6 +57,9 @@
   <data name="IT teams can monitor the health of all endpoints and perform basic remote management." xml:space="preserve">
     <value>Команды ИТ-специалистов могут отслеживать состояние всех конечных точек и выполнять базовое удаленное управление.</value>
   </data>
+  <data name="Learn about AnduinOS Enterprise" xml:space="preserve">
+    <value>Узнайте об AnduinOS Enterprise</value>
+  </data>
   <data name="Meet industry compliance requirements with auditable configurations and enterprise-grade controls." xml:space="preserve">
     <value>Соответствуйте отраслевым требованиям к соответствию с помощью конфигураций, подлежащих аудиту, и средств защиты корпоративного уровня.</value>
   </data>

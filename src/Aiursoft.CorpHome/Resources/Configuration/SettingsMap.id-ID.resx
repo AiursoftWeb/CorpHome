@@ -39,6 +39,9 @@
   <data name="Brand Name" xml:space="preserve">
     <value>Nama Merek</value>
   </data>
+  <data name="Company Name (Simplified Chinese)" xml:space="preserve">
+    <value>Nama Perusahaan (Tionghoa Sederhana)</value>
+  </data>
   <data name="Dummy Choice" xml:space="preserve">
     <value>Pilihan Contoh</value>
   </data>
@@ -98,6 +101,9 @@
   </data>
   <data name="The brand name displayed in the footer." xml:space="preserve">
     <value>Nama merek yang ditampilkan di bagian footer.</value>
+  </data>
+  <data name="The company name displayed when the page language is Simplified Chinese. Leave empty to use the default brand name." xml:space="preserve">
+    <value>Nama perusahaan yang ditampilkan ketika bahasa halaman adalah Mandarin Sederhana. Biarkan kosong untuk menggunakan nama merek bawaan.</value>
   </data>
   <data name="The ICP license number for China mainland users. Leave empty to hide." xml:space="preserve">
     <value>Nomor izin ICP untuk pengguna daratan Tiongkok. Biarkan kosong untuk menyembunyikan.</value>

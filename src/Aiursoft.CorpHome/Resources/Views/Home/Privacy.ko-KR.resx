@@ -84,11 +84,17 @@
   <data name="For Cloud-Hosted Plans (e.g., Aiursoft Substrate S1 Core):" xml:space="preserve">
     <value>클라우드 호스팅 계획용 (예: Aiursoft Substrate S1 Core):</value>
   </data>
+  <data name="For Cloud-Hosted Plans (e.g., Aiursoft Substratum Core):" xml:space="preserve">
+    <value>클라우드 호스팅 플랜 사용 시 (예: Aiursoft Substratum Core):</value>
+  </data>
   <data name="For on-premise deployments, cancellation simply terminates our support and update services. Your data remains entirely intact on your own servers, under your complete control." xml:space="preserve">
     <value>온프레미스 배포의 경우, 해지 시 단순히 지원 및 업데이트 서비스가 종료됩니다. 귀하의 데이터는 귀하의 서버에 완전히 그대로 보존되며, 귀하의 완전한 통제 하에 있습니다.</value>
   </data>
   <data name="For On-Premise Plans (e.g., Aiursoft Substrate S3 Startup &amp; S5 Enterprise):" xml:space="preserve">
     <value>온프레미스 계획용 (예: Aiursoft Substrate S3 Startup &amp; S5 Enterprise):</value>
+  </data>
+  <data name="For On-Premise Plans (e.g., Aiursoft Substratum Startup &amp; Enterprise):" xml:space="preserve">
+    <value>온프레미스 플랜(예: Aiursoft Substratum Startup &amp; Enterprise)의 경우:</value>
   </data>
   <data name="For provisioning the underlying high-performance cloud infrastructure that powers our official websites and Cloud-Hosted (S1 Core) client instances." xml:space="preserve">
     <value>클라우드 호스팅(S1 코어) 클라이언트 인스턴스 및 공식 웹사이트를 구동하는 기반 고성능 클라우드 인프라를 제공하기 위해</value>
