@@ -21,11 +21,23 @@
       <data name="Aiursoft" xml:space="preserve">
     <value>Aiursoft</value>
   </data>
+  <data name="Aiursoft is dedicated to bringing the spirit of open-source and free software to every enterprise and individual." xml:space="preserve">
+    <value>Aiursoft on sitoutunut tuomaan avoimen lähdekoodin ja vapaan ohjelmiston henki jokaiseen yritykseen ja yksittäiseen käyttäjään.</value>
+  </data>
   <data name="Aiursoft Template - A modern, feature-rich, and highly extensible foundation for your next web application." xml:space="preserve">
     <value>Aiursoft Template - moderni, ominaisuuksiltaan monipuolinen ja erittäin laajennettava perusta seuraavalle verkkosovelluksellesi.</value>
   </data>
+  <data name="AnduinOS Enterprise" xml:space="preserve">
+    <value>AnduinOS Enterprise</value>
+  </data>
   <data name="Community" xml:space="preserve">
     <value>Yhteisö</value>
+  </data>
+  <data name="Company" xml:space="preserve">
+    <value>Yritys</value>
+  </data>
+  <data name="Contact" xml:space="preserve">
+    <value>Ota yhteyttä</value>
   </data>
   <data name="Contributions" xml:space="preserve">
     <value>Avustukset</value>
@@ -36,6 +48,9 @@
   <data name="Get Started" xml:space="preserve">
     <value>Aloita</value>
   </data>
+  <data name="Get to know us" xml:space="preserve">
+    <value>Perehdy meihin</value>
+  </data>
   <data name="Github" xml:space="preserve">
     <value>GitHub</value>
   </data>
@@ -44,6 +59,9 @@
   </data>
   <data name="Licence" xml:space="preserve">
     <value>Lisenssi</value>
+  </data>
+  <data name="News" xml:space="preserve">
+    <value>Uutiset</value>
   </data>
   <data name="Privacy Policy" xml:space="preserve">
     <value>Tietosuojaseloste</value>
@@ -60,8 +78,14 @@
   <data name="Social" xml:space="preserve">
     <value>Sosiaaliset</value>
   </data>
+  <data name="Solutions" xml:space="preserve">
+    <value>Ratkaisut</value>
+  </data>
   <data name="Source Code" xml:space="preserve">
     <value>Lähdekoodi</value>
+  </data>
+  <data name="Substratum" xml:space="preserve">
+    <value>Substratum</value>
   </data>
   <data name="Terms of Service" xml:space="preserve">
     <value>Käyttöehdot</value>

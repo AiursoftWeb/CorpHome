@@ -36,6 +36,9 @@
   <data name="AnduinOS Enterprise (Desktop OS)" xml:space="preserve">
     <value>AnduinOS Enterprise (Desktop OS)</value>
   </data>
+  <data name="Authentik uses an Open Core model. The Community Edition is licensed under the permissive MIT license, which allows commercial use, modification, and redistribution. We provide the Community Edition (MIT) as part of Substratum. The Enterprise Edition requires a separate commercial license from Authentik." xml:space="preserve">
+    <value>Authentik menggunakan model Open Core. Community Edition dilisensikan di bawah lisensi MIT yang permissif, yang mengizinkan penggunaan komersial, modifikasi, dan distribusi ulang. Kami menyediakan Community Edition (MIT) sebagai bagian dari Substratum. Enterprise Edition memerlukan lisensi komersial terpisah dari Authentik.</value>
+  </data>
   <data name="Business hours email support" xml:space="preserve">
     <value>dukungan email selama jam kerja</value>
   </data>
@@ -93,6 +96,12 @@
   <data name="Fleet device policy management" xml:space="preserve">
     <value>Pengelolaan kebijakan perangkat armada</value>
   </data>
+  <data name="GitLab is a trademark of GitLab Inc. Aiursoft provides deployment, hosting, and integration services for GitLab — we are not affiliated with or endorsed by GitLab Inc. The GitLab Community Edition (CE) is MIT-licensed and can be deployed freely. The GitLab Enterprise Edition (EE) requires a separate license purchased from GitLab Inc. We can assist you with procuring the appropriate GitLab EE license, or you may choose to remove this item from your plan." xml:space="preserve">
+    <value>GitLab adalah merek dagang dari GitLab Inc. Aiursoft menyediakan layanan penempatan, hosting, dan integrasi untuk GitLab — kami tidak berafiliasi dengan atau mendapat dukungan dari GitLab Inc. Edisi Komunitas GitLab (CE) berlisensi MIT dan dapat ditempatkan secara bebas. Edisi Perusahaan GitLab (EE) memerlukan lisensi terpisah yang dibeli dari GitLab Inc. Kami dapat membantu Anda memperoleh lisensi GitLab EE yang sesuai, atau Anda dapat memilih untuk menghapus item ini dari paket Anda.</value>
+  </data>
+  <data name="Hacker" xml:space="preserve">
+    <value>Perorangan</value>
+  </data>
   <data name="Hardware key enforcement" xml:space="preserve">
     <value>Penegakan kunci perangkat keras</value>
   </data>
@@ -113,6 +122,9 @@
   </data>
   <data name="Local LLM API Gateway" xml:space="preserve">
     <value>Gerbang API LLM Lokal</value>
+  </data>
+  <data name="Mailcow is open-source software (GPL-3.0). Aiursoft provides managed hosting, deployment, and integration services. Any custom modifications provided during your on-premise deployment are fully compliant with and distributed under the GPL-3.0 license." xml:space="preserve">
+    <value>Mailcow adalah perangkat lunak sumber terbuka (GPL-3.0). Aiursoft menyediakan layanan hosting terkelola, penyebaran, dan integrasi. Setiap modifikasi kustom yang diberikan selama penyebaran di lingkungan Anda sepenuhnya sesuai dengan dan didistribusikan di bawah lisensi GPL-3.0.</value>
   </data>
   <data name="Managed endpoint OS" xml:space="preserve">
     <value>OS endpoint terkelola</value>
@@ -135,6 +147,9 @@
   <data name="Multi-site &amp; HA capable" xml:space="preserve">
     <value>Multi-site &amp; HA capable</value>
   </data>
+  <data name="Nextcloud is a trademark of Nextcloud GmbH. Aiursoft is an independent integration provider. To ensure enterprise-grade stability and strict adherence to the AGPL-3.0 license, we deploy the official, unmodified Nextcloud releases and seamlessly connect your stack via standard APIs, OIDC/SAML, and official plugins." xml:space="preserve">
+    <value>Nextcloud adalah merek dagang dari Nextcloud GmbH. Aiursoft adalah penyedia integrasi independen. Untuk memastikan stabilitas tingkat perusahaan dan kepatuhan ketat terhadap lisensi AGPL-3.0, kami menyebarkan rilis resmi Nextcloud yang tidak dimodifikasi dan menghubungkan tumpukan Anda secara mulus melalui API standar, OIDC/SAML, serta plugin resmi.</value>
+  </data>
   <data name="Not included" xml:space="preserve">
     <value>Tidak disertakan</value>
   </data>
@@ -146,6 +161,9 @@
   </data>
   <data name="On-premise / Air-gapped Deployment" xml:space="preserve">
     <value>Deploy On-premise / Air-gapped</value>
+  </data>
+  <data name="On-premises APT Repository" xml:space="preserve">
+    <value>Repo APT On-premises</value>
   </data>
   <data name="Online Code Execution" xml:space="preserve">
     <value>Eksekusi Kode Online</value>
@@ -177,6 +195,9 @@
   <data name="Scale &amp; Support" xml:space="preserve">
     <value>Skala &amp; Dukungan</value>
   </data>
+  <data name="Self-hosted APT repository with .apkg publishing" xml:space="preserve">
+    <value>Repositori APT mandiri dengan penerbitan .apkg</value>
+  </data>
   <data name="Self-hosted LLM inference gateway" xml:space="preserve">
     <value>Gerbang inferensi LLM yang di-host sendiri</value>
   </data>
@@ -207,6 +228,9 @@
   <data name="Talk to an Architect" xml:space="preserve">
     <value>Bicara dengan Arsitek</value>
   </data>
+  <data name="Team Blog" xml:space="preserve">
+    <value>Blog Tim</value>
+  </data>
   <data name="Team Voting" xml:space="preserve">
     <value>Pemungutan Suara Tim</value>
   </data>
@@ -221,6 +245,9 @@
   </data>
   <data name="What&apos;s Included" xml:space="preserve">
     <value>Apa yang Termasuk</value>
+  </data>
+  <data name="Workspace Boards" xml:space="preserve">
+    <value>Papan Ruang Kerja</value>
   </data>
   <data name="Zero Trust Yubikey Auth" xml:space="preserve">
     <value>Autentikasi Yubikey Zero Trust</value>
