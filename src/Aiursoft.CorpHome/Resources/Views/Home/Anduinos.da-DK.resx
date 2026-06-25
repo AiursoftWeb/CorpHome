@@ -19,469 +19,463 @@
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
       <data name=".aosproj replaces a dozen arcane Debian files with a single declarative manifest. If you know .csproj, you know packaging." xml:space="preserve">
-    <value>.aosproj, gizemli onlarca Debian dosyasını tek bir açıklayıcı manifest ile değiştirir. .csproj&apos;i biliyorsanız paketleme işini de biliyorsunuz.</value>
+    <value>.aosproj erstatter et dusin obskure Debian-filer med en enkelt deklarativ manifest. Hvis du kender .csproj, kender du pakker.</value>
   </data>
   <data name="Add to Management Cloud and go live" xml:space="preserve">
-    <value>Yönetim Bulutuna Ekle ve Hayata Geçir</value>
+    <value>Tilføj til Management Cloud og gå i produktion</value>
   </data>
   <data name="Advanced" xml:space="preserve">
-    <value>Gelişmiş</value>
+    <value>Avanceret</value>
   </data>
   <data name="All the power of open-source, backed by enterprise-grade support, management tools, and customisation capabilities." xml:space="preserve">
-    <value>Açık kaynağın tüm gücü, kurumsal düzeyde destek, yönetim araçları ve özelleştirme yetenekleriyle destekleniyor.</value>
+    <value>Alles kraft fra open source, understøttet af enterprise-grade support, værktøjer til håndtering og tilpasningsmuligheder.</value>
   </data>
   <data name="AnduinOS device" xml:space="preserve">
-    <value>AnduinOS cihazı</value>
+    <value>AnduinOS-enhed</value>
   </data>
   <data name="AnduinOS Enterprise" xml:space="preserve">
-    <value>AnduinOS Kurumsal</value>
+    <value>AnduinOS Enterprise</value>
   </data>
   <data name="AnduinOS Enterprise is backed by our 7x24 on-call support team. From initial deployment to ongoing operations, we ensure your fleet stays secure, updated, and running smoothly." xml:space="preserve">
-    <value>AnduinOS Enterprise, 7x24 hizmet veren destek ekibimiz tarafından desteklenmektedir. İlk dağıtımdan devam eden operasyonlara kadar, filonuzun güvenli, güncel ve sorunsuz çalışmasını sağlıyoruz.</value>
+    <value>AnduinOS Enterprise understøttes af vores 24/7 supportteam. Fra den oprindelige implementering til den løbende drift sikrer vi, at din flåde forbliver sikker, opdateret og kører problemfrit.</value>
   </data>
   <data name="AnduinOS Enterprise provides brand customisation, enabling you to replace the system logo with your own." xml:space="preserve">
-    <value>AnduinOS Enterprise, sistem logosunu kendi logonuzla değiştirmenize olanak tanıyan marka özelleştirme özelliği sunar.</value>
+    <value>AnduinOS Enterprise giver brandtilpasning, så du kan erstatte systemlogoet med dit eget.</value>
   </data>
   <data name="AnduinOS fleet" xml:space="preserve">
-    <value>AnduinOS filonuzu</value>
+    <value>AnduinOS-flåde</value>
   </data>
   <data name="AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
-    <value>AnduinOS, Linux&apos;e geçiş yapan herkes için tanıdık ve kolay kullanılabilir bir deneyim sunan, özel olarak hazırlanmış Ubuntu tabanlı bir Linux dağıtımıdır.</value>
+    <value>AnduinOS er en tilpasset Linux-distribution baseret på Ubuntu, der tilbyder en bekendt og brugervenlig oplevelse for alle, der skifter til Linux.</value>
   </data>
   <data name="AnduinOS is an open-source project. Following the GPL-v3 license, you can view the source code, modify it, and redistribute it. It&apos;s free and will always be free." xml:space="preserve">
-    <value>AnduinOS açık kaynaklı bir projedir. GPL-v3 lisansına uygun olarak kaynak kodunu görüntüleyebilir, değiştirebilir ve yeniden dağıtabilirsiniz. Ücretsizdir ve her zaman ücretsiz kalacaktır.</value>
+    <value>AnduinOS er et open-source-projekt. I henhold til GPL-v3-licensen kan du se kildekoden, ændre den og videreforsbrede den. Den er gratis og vil altid være gratis.</value>
   </data>
   <data name="AnduinOS is based on Ubuntu&apos;s package base. It&apos;s compatible with most of the apt packages from Ubuntu. It&apos;s a perfect combination of experience and ecology." xml:space="preserve">
-    <value>AnduinOS, Ubuntu&apos;nun paket tabanı üzerine kuruludur. Ubuntu&apos;daki çoğu apt paketiyle uyumludur. Deneyim ve ekolojik zenginliğin mükemmel birleşimidir.</value>
+    <value>AnduinOS er baseret på Ubuntu&apos;s pakkebase. Det er kompatibel med de fleste af Ubuntus apt-pakker. Det er en perfekt kombination af oplevelse og økosystem.</value>
   </data>
   <data name="AnduinOS Kiosk" xml:space="preserve">
     <value>AnduinOS Kiosk</value>
   </data>
   <data name="AnduinOS Management Cloud" xml:space="preserve">
-    <value>AnduinOS Yönetim Bulutu</value>
+    <value>AnduinOS Cloud Administration</value>
   </data>
   <data name="Apkg Dashboard Screenshot" xml:space="preserve">
-    <value>Apkg Gösterge Paneli Ekran Görüntüsü</value>
+    <value>Apkg dashboard-skærmbillede</value>
   </data>
   <data name="Apkg is a declarative APT repository platform that lets you host signed Debian repositories, mirror upstream archives, and publish your own .apkg packages — all fully on-premise. Integrates seamlessly with AnduinOS for painless apt update &amp;&amp; apt install workflows across your entire fleet." xml:space="preserve">
-    <value>Apkg, imzalı Debian depolarını barındırmanıza, kaynak arşivleri aynalamanıza ve kendi .apkg paketlerinizi yayınlamanıza olanak tanıyan beyan temelli bir APT depo platformudur; tümü tamamen yerel kurulumda çalışır. AnduinOS ile sorunsuz entegre olup, tüm donanım envanterinizde zahmetsiz apt update &amp;&amp; apt install iş akışlarını sağlar.</value>
+    <value>Apkg er en deklarativ APT-lagringsplatform, der gør det muligt for dig at hoste signerede Debian-lagre, spejle upstream-arkiver og udgive dine egne .apkg-pakker – alt fuldt ud on-premise. Integreres sømløst med AnduinOS for smertefrie apt update &amp;&amp; apt install-arbejdsflow på tværs af din flåde.</value>
   </data>
   <data name="Architecture" xml:space="preserve">
-    <value>Mimari</value>
+    <value>Arkitektur</value>
   </data>
   <data name="Atomic Snapshots" xml:space="preserve">
-    <value>Atomik Anlık Görüntüler</value>
+    <value>Atomiske snapshotter</value>
   </data>
   <data name="Auto Updates on Reboot" xml:space="preserve">
-    <value>Yeniden Başlatmada Otomatik Güncellemeler</value>
+    <value>Automatiske opdateringer ved genstart</value>
   </data>
   <data name="Boot &amp; Configure" xml:space="preserve">
-    <value>Önyükle ve Yapılandır</value>
+    <value>Boot &amp; Konfigurer</value>
   </data>
   <data name="Boot from USB and auto-configure" xml:space="preserve">
-    <value>USB&apos;den önyükleme ve otomatik yapılandırma</value>
+    <value>Start fra USB og konfigurer automatisk</value>
   </data>
   <data name="Brand Customisation" xml:space="preserve">
-    <value>Marka Özelleştirme</value>
+    <value>Brandtilpasning</value>
   </data>
   <data name="Built for business. Air-gapped by design." xml:space="preserve">
-    <value>İşler için tasarlandı. Tasarım gereği hava boşluğunda.</value>
+    <value>Bygget til virksomheder. Luftspaltet ved design.</value>
   </data>
   <data name="Built on a rock-solid foundation. Designed for the enterprise." xml:space="preserve">
-    <value>Sağlam bir temele inşa edildi. Kurumsal kullanım için tasarlandı.</value>
+    <value>Bygger på et solidt fundament. Designet til enterprise.</value>
   </data>
   <data name="Built on the same infrastructure that powers AnduinOS package delivery. Push updates to your entire fleet with a single command." xml:space="preserve">
-    <value>AnduinOS paket dağıtımını sağlayan aynı altyapı üzerine inşa edilmiştir. Tek bir komutla tüm filo düzeninize güncellemeleri dağıtın.</value>
+    <value>Bygger på den samme infrastruktur, der driver AnduinOS-pakkeudlevering. Push opdateringer til hele din flåde med et enkelt kommando.</value>
   </data>
   <data name="Bulk operations across your entire fleet" xml:space="preserve">
-    <value>Tüm filonuz için toplu işlemler</value>
+    <value>Bulkoperationer på tværs af din entire flåde</value>
   </data>
   <data name="Community Site" xml:space="preserve">
-    <value>Topluluk Sitesi</value>
+    <value>Community Site</value>
   </data>
   <data name="Compatible with most x86 PCs manufactured in the last decade." xml:space="preserve">
-    <value>Son on yılda üretilen çoğu x86 bilgisayarıyla uyumludur.</value>
-  </data>
-  <data name="Compatible with virtually any PC hardware manufactured in the last decade." xml:space="preserve">
-    <value>Son on yılda üretilen neredeyse tüm PC donanımlarıyla uyumludur.</value>
+    <value>Kompatibel med de fleste x86-pc&apos;er produceret i det sidste årti.</value>
   </data>
   <data name="Compliance-ready default configurations" xml:space="preserve">
-    <value>Uyumluluk hazır varsayılan yapılandırmalar</value>
+    <value>Standardkonfigurationer klar til overholdelse af kravene</value>
   </data>
   <data name="Contact Enterprise Sales" xml:space="preserve">
-    <value>Kurumsal Satış ile İletişime Geçin</value>
+    <value>Kontakt enterprisesalgsteamet</value>
   </data>
   <data name="Contact Sales" xml:space="preserve">
-    <value>Satın Alma ile İletişime Geçin</value>
+    <value>Kontakt salg</value>
   </data>
   <data name="Containerized" xml:space="preserve">
-    <value>Konteynerleştirilmiş</value>
+    <value>Containeriseret</value>
   </data>
   <data name="Control and configure thousands of devices and policies efficiently from a single dashboard." xml:space="preserve">
-    <value>Tek bir panelden binlerce cihazı ve ilkeyi verimli bir şekilde kontrol edin ve yapılandırın.</value>
+    <value>Styr og konfigurer tusindvis af enheder og politikker effektivt fra et enkelt dashboard.</value>
   </data>
   <data name="Control, customize, and secure thousands of devices with enterprise tools built for scale." xml:space="preserve">
-    <value>Kurumsal ölçek için tasarlanan araçlarla binlerce cihazı yönetin, özelleştirin ve güvence altına alın.</value>
+    <value>Kontroller, tilpas og sikkerhedsstyr tusindvis af enheder med enterprise-værktøjer designet til skalering.</value>
   </data>
   <data name="Curated internal software catalog" xml:space="preserve">
-    <value>Özenle hazırlanmış iç yazılım kataloğu</value>
+    <value>Curateret intern softwarekatalog</value>
   </data>
   <data name="Custom default wallpaper and themes" xml:space="preserve">
-    <value>Özel varsayılan duvar kağıdı ve temalar</value>
+    <value>Tilpassede standardbaggrunde og temaer</value>
   </data>
   <data name="Data stays on your servers. Authentication and authorization ensure only your team can access your metrics." xml:space="preserve">
-    <value>Veriler sunucularınızda kalır. Kimlik doğrulama ve yetkilendirme, yalnızca ekibinizin metriklerinize erişmesini sağlar.</value>
+    <value>Data remains on your servers. Authentication and authorization ensure only your team can access your metrics.</value>
   </data>
   <data name="Declarative Packaging" xml:space="preserve">
-    <value>Bildirimci Paketleme</value>
+    <value>Deklarativ pakkeopbygning</value>
   </data>
   <data name="Default Browser" xml:space="preserve">
-    <value>Varsayılan Tarayıcı</value>
+    <value>Standardbrowser</value>
   </data>
   <data name="Default Filesystem" xml:space="preserve">
-    <value>Varsayılan Dosya Sistemi</value>
+    <value>Standard filsystem</value>
   </data>
   <data name="Deploy at scale, manage centrally, enjoy the enterprise edition!" xml:space="preserve">
-    <value>Genel ölçekte dağıtın, merkezden yönetin, enterprise sürümünün tadını çıkarın!</value>
+    <value>Udrul i stor skala, styr centralt, og nyd enterprise-udgaven!</value>
   </data>
   <data name="Deploy interactive kiosks, information displays, and self-service terminals on standard PC hardware." xml:space="preserve">
-    <value>Standart PC donanımına etkileşimli bilgi terminalleri, bilgi ekranları ve kendine hizmet terminali dağıtın.</value>
+    <value>Implementer interaktive kiosker, informationsdisplays og selvbetjenings terminaler på standard PC-hardware.</value>
   </data>
   <data name="Deployment" xml:space="preserve">
-    <value>Dağıtım</value>
+    <value>Udrulning</value>
   </data>
   <data name="Desktop Environment" xml:space="preserve">
-    <value>Masaüstü Ortamı</value>
+    <value>Skrivebordsmiljø</value>
   </data>
   <data name="digital signage and kiosk terminals" xml:space="preserve">
-    <value>dijital bilgi panoları ve kiosksa terminali</value>
+    <value>digital signage og kioskterminaler</value>
   </data>
   <data name="Disk Space" xml:space="preserve">
-    <value>Disk Alanı</value>
+    <value>Diskplads</value>
   </data>
   <data name="Display Server" xml:space="preserve">
-    <value>Görüntü Sunucusu</value>
+    <value>Visserver</value>
   </data>
   <data name="Distribute your own software packages internally via standard apt protocol. Take control of your enterprise package ecosystem." xml:space="preserve">
-    <value>Standart apt protokolü aracılığıyla kendi yazılım paketlerinizi iç ağ üzerinden dağıtın. Kurumsal paket ekosisteminiz üzerinde kontrolü ele alın.</value>
+    <value>Fordel dine egne softwarepakker internt via standard apt-protokol. Tag kontrol over din virksomheds pakkeøkosystem.</value>
   </data>
   <data name="Docs" xml:space="preserve">
-    <value>Dokümanlar</value>
+    <value>Dokumentation</value>
   </data>
   <data name="Download" xml:space="preserve">
-    <value>İndir</value>
+    <value>Download</value>
   </data>
   <data name="Download AnduinOS" xml:space="preserve">
-    <value>AnduinOS&apos;u İndir</value>
+    <value>Download AnduinOS</value>
   </data>
   <data name="Ecological perfection" xml:space="preserve">
-    <value>Ekosistem Mükemmelliği</value>
+    <value>Økologisk perfektion</value>
   </data>
   <data name="End of Support" xml:space="preserve">
-    <value>Destek Sonu</value>
+    <value>Udgang for support</value>
   </data>
   <data name="Enroll" xml:space="preserve">
-    <value>Kaydet</value>
+    <value>Tilmeld</value>
   </data>
   <data name="Enterprise" xml:space="preserve">
-    <value>Kurumsal</value>
+    <value>Virksomhed</value>
   </data>
   <data name="Enterprise Services" xml:space="preserve">
-    <value>Kurumsal Hizmetler</value>
+    <value>Virksomhedsservices</value>
   </data>
   <data name="Enterprise-grade" xml:space="preserve">
-    <value>Kurumsal düzeyde</value>
+    <value>Til enterprise-kunder</value>
   </data>
   <data name="Explore Apkg" xml:space="preserve">
-    <value>Apkg&apos;yi Keşfet</value>
+    <value>Udforsk Apkg</value>
   </data>
   <data name="Explore StatHub" xml:space="preserve">
-    <value>StatHub&apos;ı Keşfet</value>
+    <value>Udforsk StatHub</value>
   </data>
   <data name="Familiar UX" xml:space="preserve">
-    <value>Araşınmış UX</value>
+    <value>Velkendt brugergrænseflade</value>
   </data>
   <data name="Firmware" xml:space="preserve">
-    <value>Güncelleme Yazılımı</value>
+    <value>Firmware</value>
   </data>
   <data name="Flash" xml:space="preserve">
-    <value>Flash&apos;la Yaz</value>
+    <value>Brænd ind</value>
   </data>
   <data name="Free" xml:space="preserve">
-    <value>Ücretsiz</value>
+    <value>Gratis</value>
   </data>
   <data name="Free Software" xml:space="preserve">
-    <value>Özgür Yazılım</value>
+    <value>Fri software</value>
   </data>
   <data name="Friendly interface" xml:space="preserve">
-    <value>Kullanıcı dostu arayüz</value>
+    <value>Venligt interface</value>
   </data>
   <data name="Fully On-Premise" xml:space="preserve">
-    <value>Tamamen Yerel</value>
+    <value>Fuldt on-premise</value>
   </data>
   <data name="Get the AnduinOS image from our site" xml:space="preserve">
-    <value>AnduinOS görüntüsünü sitemizden indirin</value>
+    <value>Hent AnduinOS-billedet fra vores hjemmeside</value>
   </data>
   <data name="Get up-to-the-second updates on every AnduinOS device&apos;s CPU, memory, disk, and network usage." xml:space="preserve">
-    <value>AnduinOS cihazlarının CPU, bellek, disk ve ağ kullanımına dair saniyelik güncellemeler alın.</value>
+    <value>Få opdateringer i sekundet på CPU-, hukommelses-, disk- og netværksforbrug for alle AnduinOS-enheder.</value>
   </data>
   <data name="GPL-v3 License" xml:space="preserve">
-    <value>GPL-v3 Lisansı</value>
+    <value>GPL-v3-licens</value>
   </data>
   <data name="Graphical applications are installed via Flatpak, and keep themselves separate from the base system. They also allow for fine-grained control over their permissions." xml:space="preserve">
-    <value>Grafik uygulamalar Flatpak aracılığıyla yüklenir ve temel sistemden bağımsız çalışır. Bu sayede, yetkilere ilişkin detaylı denetim imkânı da sunarlar.</value>
+    <value>Grafiske programmer installeres via Flatpak og forbliver adskilt fra basesystemet. De giver også mulighed for finjusteret kontrol af tilladelserne.</value>
   </data>
   <data name="HDR Support" xml:space="preserve">
-    <value>HDR Desteği</value>
+    <value>HDR-understøttelse</value>
   </data>
   <data name="Image Size" xml:space="preserve">
-    <value>Görsel Boyutu</value>
+    <value>Billedstørrelse</value>
   </data>
   <data name="Init System" xml:space="preserve">
-    <value>Başlatma Sistemi</value>
+    <value>Initialiseringssystem</value>
   </data>
   <data name="Internal package distribution via apt" xml:space="preserve">
-    <value>apt aracılığıyla dahili paket dağıtımı</value>
+    <value>Indern distribueren af pakker via apt</value>
   </data>
   <data name="Kiosk &amp; Digital Signage" xml:space="preserve">
-    <value>Kiosk ve Dijital Bilgisayar</value>
+    <value>Kiosk &amp; digital signage</value>
   </data>
   <data name="Kiosk mode prevents unauthorized access. Users can only interact with your approved application, keeping your deployment secure." xml:space="preserve">
-    <value>Kiosk modu yetkisiz erişimi engeller. Kullanıcılar yalnızca onayladığınız uygulama ile etkileşimde bulunabilir, bu sayede dağıtımınız güvenli kalır.</value>
+    <value>Kiosk-tilstand forhindrer uautoriseret adgang. Brugere kan kun interagere med dit godkendte program, hvilket holder din implementering sikker.</value>
   </data>
   <data name="Lightweight Agents" xml:space="preserve">
-    <value>Hafif Ajanlar</value>
+    <value>Lette agenter</value>
   </data>
   <data name="Linux Kernel" xml:space="preserve">
-    <value>Linux Çekirdeği</value>
+    <value>Linux-kernen</value>
   </data>
   <data name="Live Boot" xml:space="preserve">
-    <value>Canlı Başlatma</value>
+    <value>Live Boot</value>
   </data>
   <data name="Locked-down &amp; tamper-proof" xml:space="preserve">
-    <value>Kilitli ve bozulmaz</value>
+    <value>Låst ned og manipulationsbeskyttet</value>
   </data>
   <data name="Love AnduinOS?" xml:space="preserve">
-    <value>AnduinOS&apos;u sevin mi?</value>
+    <value>Elsker du AnduinOS?</value>
   </data>
   <data name="Low-overhead agents collect metrics without impacting your AnduinOS devices&apos; performance. Deploy in seconds with Docker." xml:space="preserve">
-    <value>Düşük kaynak tüketimli ajanlar, AnduinOS cihazlarınızın performansını etkilemeden metrikleri toplar. Docker ile saniyeler içinde dağıtın.</value>
+    <value>Letvægtsgivne agenter indsamler målepunkter uden at påvirke din AnduinOS-enheds ydeevne. Udrul på sekunder med Docker.</value>
   </data>
   <data name="LTS Support" xml:space="preserve">
-    <value>LTS Desteği</value>
+    <value>LTS-support</value>
   </data>
   <data name="management for your fleet" xml:space="preserve">
-    <value>filonuz için yönetim</value>
+    <value>håndtering af din flåde</value>
   </data>
   <data name="Minimal maintenance. Maximum stability." xml:space="preserve">
-    <value>Minimum bakım. Maksimum istikrar.</value>
+    <value>Minimal vedligeholdelse. Maksimal stabilitet.</value>
   </data>
   <data name="Monitor thousands of AnduinOS devices from a single centralized dashboard. Scale as your fleet grows." xml:space="preserve">
-    <value>Tek bir merkezileştirilmiş panelden binlerce AnduinOS cihazını izleyin. Filonuz büyüdükçe ölçeklendirin.</value>
+    <value>Overvåg tusindvis af AnduinOS-enheder fra et enkelt centraliseret dashboard. Skaler efterhånden som din flåde vokser.</value>
   </data>
   <data name="Monitor your entire" xml:space="preserve">
-    <value>Tümünü izleyin</value>
+    <value>Overvåg din samlede</value>
   </data>
   <data name="Monitoring" xml:space="preserve">
-    <value>İzleme</value>
+    <value>Overvågning</value>
   </data>
   <data name="Multi-Node" xml:space="preserve">
-    <value>Çoklu Düğüm</value>
+    <value>Multi-Node</value>
   </data>
   <data name="NVIDIA Graphics Support" xml:space="preserve">
-    <value>NVIDIA Grafik Desteği</value>
-  </data>
-  <data name="NVIDIA Tested" xml:space="preserve">
-    <value>NVIDIA Tarafından Test Edildi</value>
+    <value>NVIDIA grafiksupport</value>
   </data>
   <data name="Offline repository mirrors for air-gapped networks" xml:space="preserve">
-    <value>Ağdan izole networklar için çevrimdışı depo aynaları</value>
+    <value>Offline spejlinger af lager for netværk uden internetadgang</value>
   </data>
   <data name="On-premises Apkg" xml:space="preserve">
-    <value>Mekansal Apkg</value>
+    <value>On-premises Apkg</value>
   </data>
   <data name="Open Source" xml:space="preserve">
-    <value>Açık Kaynak</value>
+    <value>Åben kildekode</value>
   </data>
   <data name="or" xml:space="preserve">
-    <value>veya</value>
+    <value>eller</value>
   </data>
   <data name="Package Distribution" xml:space="preserve">
-    <value>Paket Dağıtımı</value>
+    <value>Pakkefordeling</value>
   </data>
   <data name="Package Format" xml:space="preserve">
-    <value>Paket Formatı</value>
+    <value>Pakkeformat</value>
   </data>
   <data name="Package Manager" xml:space="preserve">
-    <value>Paket Yöneticisi</value>
+    <value>Pakkehåndterer</value>
   </data>
   <data name="Performance" xml:space="preserve">
-    <value>Performans</value>
+    <value>Ydeevne</value>
   </data>
   <data name="Ports" xml:space="preserve">
-    <value>Girişimler</value>
+    <value>Porte</value>
   </data>
   <data name="Pre-install company software packages" xml:space="preserve">
-    <value>Kurumsal yazılım paketlerini önceden yükle</value>
+    <value>Forinstaller virksomhedens softwarepakker</value>
   </data>
   <data name="Pricing" xml:space="preserve">
-    <value>Fiyatlandırma</value>
+    <value>Priser</value>
   </data>
   <data name="Privacy is no longer optional. It&apos;s essential. AnduinOS is designed to gather nothing from you. We don&apos;t track you. We don&apos;t profile you. We don&apos;t target you. You remain anonymous to the system." xml:space="preserve">
-    <value>Gizlilik artık bir seçenek değil. Bir zorunluluk. AnduinOS, sizden hiçbir bilgi toplaması tasarlanmıştır. Sizizi izlemiyoruz. Profil oluşturmuyoruz. Size yönelik hedeflemiyoruz. Sisteme karşı anonim kalırsınız.</value>
+    <value>Privatliv er ikke længere valgfrit. Det er essentielt. AnduinOS er designet til slet ikke at indsamle noget fra dig. Vi sporer ikke dig. Vi profilerer ikke dig. Vi retter ikke mål mod dig. Du forbliver anonym over for systemet.</value>
   </data>
   <data name="Processor" xml:space="preserve">
-    <value>İşlemci</value>
+    <value>Processor</value>
   </data>
   <data name="RAM" xml:space="preserve">
     <value>RAM</value>
   </data>
   <data name="Ready to use" xml:space="preserve">
-    <value>Kullanıma hazır</value>
+    <value>Klar til brug</value>
   </data>
   <data name="Real-time" xml:space="preserve">
-    <value>Gerçek zamanlı</value>
+    <value>Realtids-</value>
   </data>
   <data name="Real-time device health monitoring" xml:space="preserve">
-    <value>Gerçek zamanlı cihaz sağlığı izleme</value>
+    <value>Overvågning af enhedens status i realtid</value>
   </data>
   <data name="Reasons" xml:space="preserve">
-    <value>Nedenler</value>
+    <value>Grunde</value>
   </data>
   <data name="Release Date" xml:space="preserve">
-    <value>Yayın Tarihi</value>
+    <value>Udgivelsesdato</value>
   </data>
   <data name="Remote configuration and policy enforcement" xml:space="preserve">
-    <value>Uzaktan yapılandırma ve ilke uygulanması</value>
+    <value>Fjernkonfiguration og håndhævelse af politikker</value>
   </data>
   <data name="Remote content management" xml:space="preserve">
-    <value>Uzaktan içerik yönetimi</value>
+    <value>Fjernindholdsstyring</value>
   </data>
   <data name="Replace system logo and boot screen" xml:space="preserve">
-    <value>Sistem logosunu ve açılış ekranını değiştirin</value>
+    <value>Erstat systemlogo og opstartsskærm</value>
   </data>
   <data name="Resource Efficient" xml:space="preserve">
-    <value>Kaynak Verimli</value>
+    <value>Resursegavningsfuld</value>
   </data>
   <data name="Role-based access control for IT teams" xml:space="preserve">
-    <value>Bilgi işlem ekipleri için rol tabanlı erişim denetimi</value>
+    <value>Rollebaseret adgangskontrol for IT-hold</value>
   </data>
   <data name="Root and privacy" xml:space="preserve">
-    <value>Yönetici ve gizlilik</value>
+    <value>Rod og privatliv</value>
   </data>
   <data name="Run your own APT infrastructure behind the firewall. No external dependencies, no proprietary agents — just standard apt." xml:space="preserve">
-    <value>Kendi APT altyapınızı güvenlik duvarının arkasında çalıştırın. Harici bağımlılıklar yok, tescilli ajanlar yok — sadece standart apt.</value>
+    <value>Kør din egen APT-infrastruktur bag firewallen. Ingen eksterne afhængigheder, ingen proprietære agenter – kun standard apt.</value>
   </data>
   <data name="Runs smoothly on older devices. Extends hardware lifespan by being resource-efficient, so you don&apos;t need to buy new machines." xml:space="preserve">
-    <value>Eski cihazlarda sorunsuz çalışır. Kaynakları verimli kullanması donanımın ömrünü uzatır, böylece yeni cihaz satın almanıza gerek kalmaz.</value>
+    <value>Kører fejlfrit på ældre enheder. Forlænger hardwarens levetid gennem ressourceeffektivitet, så du ikke behøver at købe nye maskiner.</value>
   </data>
   <data name="Screen" xml:space="preserve">
-    <value>Ekran</value>
+    <value>Skærm</value>
   </data>
   <data name="Seamless AnduinOS Integration" xml:space="preserve">
-    <value>Sorunsuz AnduinOS Entegrasyonu</value>
+    <value>Problemfri AnduinOS-integration</value>
   </data>
   <data name="Secure" xml:space="preserve">
-    <value>Güvenli</value>
+    <value>Sikker</value>
   </data>
   <data name="Secure Boot" xml:space="preserve">
-    <value>Güvenli Önyükleme</value>
+    <value>Sikker opstart</value>
   </data>
   <data name="Set up your system in under 5 minutes" xml:space="preserve">
-    <value>Sisteminizi 5 dakikadan kısa sürede kurun</value>
+    <value>Sæt din system op på under 5 minutter</value>
   </data>
   <data name="Ship software to every" xml:space="preserve">
-    <value>Yazılımı her ...&apos;e gönderin</value>
+    <value>Udlever software til enhver</value>
   </data>
   <data name="Simple, user-friendly. Broad compatibility with virtually all PC hardware." xml:space="preserve">
-    <value>Basit, kullanıcı dostu. Neredeyse tüm PC donanımlarıyla geniş uyumluluk.</value>
+    <value>Enkel og brugervenlig. Bred kompatibilitet med næsten alt PC-hardware.</value>
   </data>
   <data name="Smaller image, friendly interface, unbeatable performance, safe and secure." xml:space="preserve">
-    <value>Daha küçük boyut, kullanıcı dostu arayüz, eşi benzeri olmayan performans, güvenli ve güvende.</value>
+    <value>Mindre billedstørrelse, brugervenligt interface, uovertruffen ydeevne, sikkert og beskyttet.</value>
   </data>
   <data name="Source Code" xml:space="preserve">
-    <value>Kaynak Kodu</value>
+    <value>Kildekode</value>
   </data>
   <data name="Speedy Makeover" xml:space="preserve">
-    <value>Hızlı Dönüşüm</value>
+    <value>Hurtig Omstilling</value>
   </data>
   <data name="Stable &amp; Modern" xml:space="preserve">
-    <value>Kararlı ve Modern</value>
+    <value>Stabil &amp; moderne</value>
   </data>
   <data name="StatHub Dashboard Screenshot" xml:space="preserve">
-    <value>StatHub Gösterge Paneli Ekran Görüntüsü</value>
+    <value>StatHub-dashboard-skærmbillede</value>
   </data>
   <data name="StatHub is a simple, real-time server monitoring system designed for local deployment. Keep an eye on your entire AnduinOS infrastructure with intuitive dashboards and detailed metrics — all from a single pane of glass." xml:space="preserve">
-    <value>StatHub, yerel dağıtım için tasarlanmış basit, gerçek zamanlı bir sunucu izleme sistemidir. Sezgisel paneller ve ayrıntılı metrikler sayesinde tüm AnduinOS altyapınızı tek bir ekrandan takip edin.</value>
+    <value>StatHub er et simpelt, sanntids-baseret system til serverovervågning, designet til lokal implementering. Hold øje med hele din AnduinOS-infrastruktur ved hjælp af intuitive dashboards og detaljerede metrikker — alt fra et samlet overblik.</value>
   </data>
   <data name="Sync, sign, and promote atomically via rename(2). APT clients never see half-written metadata — only consistent, signed snapshots." xml:space="preserve">
-    <value>rename(2) aracılığıyla eşitleme, imzalama ve yayınlama işlemlerini atomik olarak gerçekleştirin. APT istemcileri asla yarım yazılmış meta verileri görmez; yalnızca tutarlı, imzalı anlık görüntülerle karşılaşır.</value>
+    <value>Synkroniser, underskriv og distribuer atomisk via rename(2). APT-klienter ser aldrig delvist skrevet metadata — kun konsistente, underskrevne snapshots.</value>
   </data>
   <data name="System Requirements" xml:space="preserve">
-    <value>Sistem Gereksinimleri</value>
+    <value>Systemkrav</value>
   </data>
   <data name="System updates apply automatically when you restart. Zero maintenance windows — just reboot, and you&apos;re on the latest version." xml:space="preserve">
-    <value>Sistem güncellemeleri yeniden başladığınızda otomatik olarak uygulanır. Sıfır bakım penceresi — yeniden başlatın, en güncel sürümde olursunuz.</value>
+    <value>Systemopdateringer installeres automatisk, når du genstarter. Nul vedligeholdelsesvinduer — genstart bare, og du har den nyeste version.</value>
   </data>
   <data name="Technical Specifications" xml:space="preserve">
-    <value>Teknik Özellikler</value>
+    <value>Tekniske specifikationer</value>
   </data>
   <data name="The GNOME-based desktop environment has beautiful interfaces and human-computer interactions that fit user habits, allowing you to quickly get started with AnduinOS without too much learning cost." xml:space="preserve">
-    <value>GNOME tabanlı masaüstü ortamı, güzel arayüzler ve kullanıcı alışkanlıklarına uygun insan-bilgisayar etkileşimleri sunar; böylece AnduinOS ile minimum öğrenme maliyetiyle hızlıca başlayabilirsiniz.</value>
+    <value>GNOME-baserede desktopmiljø har smukke grænseflader og menneske-computer-interaktioner, der passer sig til brugerens vaner, hvilket gør det muligt for dig hurtigt at komme i gang med AnduinOS uden for stor læringsomkostning.</value>
   </data>
   <data name="The ideal solution for" xml:space="preserve">
-    <value>için ideal çözüm</value>
+    <value>Den ideelle løsning til</value>
   </data>
   <data name="The ISO is just 2.4GB in size. Similar to Ubuntu, it is simple to install and can meet your daily needs without additional configuration or complicated operations." xml:space="preserve">
-    <value>ISO boyutu yalnızca 2,4 GB. Ubuntu&apos;ya benzer şekilde kurulması kolaydır ve ek yapılandırma veya karmaşık işlemler gerektirmeden günlük ihtiyaçlarınızı karşılayabilir.</value>
+    <value>ISO-filen er på kun 2,4 GB. Ligesom Ubuntu er den nem at installere og kan dække dine daglige behov uden yderligere konfiguration eller komplicerede operationer.</value>
   </data>
   <data name="The operating system your enterprise needs — familiar, beautiful, stable, mature, and easy to manage. AnduinOS Enterprise is built on Linux 7.0, GNOME 50, and Ubuntu 26.04, keeping your team in a comfortable, productive environment." xml:space="preserve">
-    <value>İşletiminizin ihtiyacı olan işletim sistemi — tanıdık, güzel, kararlı, olgun ve yönetimi kolay. AnduinOS Enterprise, Linux 7.0, GNOME 50 ve Ubuntu 26.04 üzerine inşa edilmiştir; ekibinizi rahat ve verimli bir ortamda tutar.</value>
+    <value>Det operativsystem, din virksomhed har brug for — velkendt, smukt, stabilt, modent og let at administrere. AnduinOS Enterprise er bygget på Linux 7.0, GNOME 50 og Ubuntu 26.04 og sikrer dit team et komfortabelt og produktivt arbejdsmiljø.</value>
   </data>
   <data name="Tired of your sluggish OS slowing you down? Switch to AnduinOS for instant speed and seamless performance." xml:space="preserve">
-    <value>Yavaş işleyen işletim sisteminizden yoruldunuz mu? Anında hız ve kusursuz performans için AnduinOS&apos;a geçin.</value>
+    <value>Træt af, at dit treg operativsystem bremser dig? Skift til AnduinOS for øjeblikkelig hastighed og fejlfri ydeevne.</value>
   </data>
   <data name="Transform any PC into a secure, managed kiosk. Our in-house kiosk content management suite is available now — try it today." xml:space="preserve">
-    <value>Herhangi bir PC&apos;yi güvenli, yönetilen bir bilgilendirme ekranına dönüştürün. Firma içi bilgilendirme ekranı içerik yönetim araç setimiz şu anda kullanıma hazır — bugün deneyin.</value>
+    <value>Omdan enhver PC til en sikker, styret kiosk. Vores eget kiosk indholdsstyrsæt er tilgængeligt nu — prøv det i dag.</value>
   </data>
   <data name="Turn any screen into a kiosk" xml:space="preserve">
-    <value>Herhangi bir ekranı bir kioska dönüştürün</value>
+    <value>Omdan enhver skærm til en kiosk</value>
   </data>
   <data name="Ubuntu Base" xml:space="preserve">
-    <value>Ubuntu Temeli</value>
+    <value>Ubuntu-baseret</value>
   </data>
   <data name="UI Toolkit" xml:space="preserve">
-    <value>Arayüz Araç Seti</value>
+    <value>Grænsefladedel</value>
   </data>
   <data name="Update content, push configurations, and monitor device health — all from the cloud. No need for on-site visits." xml:space="preserve">
-    <value>İçerikleri güncelleyin, yapılandırmaları uygulayın ve cihaz sağlığını izleyin — hepsi buluttan. Yerinde ziyaret yapmanıza gerek yok.</value>
+    <value>Opdater indhold, distribuer konfigurationer og overvåg enhedens sundhed — alt fra skyen. Der er ikke behov for besøg på stedet.</value>
   </data>
   <data name="Version pinning and controlled rollouts" xml:space="preserve">
-    <value>Sürüm sabitleme ve kontrollü dağıtımlar</value>
+    <value>Versionslåsing og kontrollerede udgivelser</value>
   </data>
   <data name="Visit Community Site" xml:space="preserve">
-    <value>Topluluk Sitesini Ziyaret Et</value>
+    <value>Besøg Community Site</value>
   </data>
   <data name="Wayland Ready" xml:space="preserve">
-    <value>Wayland Hazır</value>
+    <value>Klar til Wayland</value>
   </data>
   <data name="Why choose AnduinOS?" xml:space="preserve">
-    <value>Neden AnduinOS&apos;u seçmelisiniz?</value>
+    <value>Hvorfor vælge AnduinOS?</value>
   </data>
   <data name="with Apkg" xml:space="preserve">
-    <value>Apkg ile</value>
+    <value>med Apkg</value>
   </data>
   <data name="With just a few clicks, you can have AnduinOS running on any machine. Enjoy automatic updates, built-in security, and remote management from the cloud — so once deployed, it just works." xml:space="preserve">
-    <value>Sadece birkaç tıklama ile AnduinOS&apos;u herhangi bir makinede çalıştırabilirsiniz. Buluttan otomatik güncellemelerin, yerleşik güvenliğin ve uzaktan yönetimin keyfini çıkarın — böylece bir kez dağıtıldıktan sonra sorunsuz çalışır.</value>
+    <value>Med blot få klik kan du få AnduinOS til at køre på enhver maskine. Nyd automatiske opdateringer, indbygget sikkerhed og fjernstyring fra skyen — så når det først er udrullet, virker det bare.</value>
   </data>
   <data name="with StatHub" xml:space="preserve">
-    <value>StatHub ile</value>
+    <value>med StatHub</value>
   </data>
   <data name="Without Snap" xml:space="preserve">
-    <value>Snap Yok</value>
+    <value>Uden Snap</value>
   </data>
   <data name="Write the image to a USB drive" xml:space="preserve">
-    <value>Görseli bir USB sürücüye yazın</value>
+    <value>Skriv billedet til en USB-drev</value>
   </data>
 
 </root>

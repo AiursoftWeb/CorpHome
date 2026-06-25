@@ -84,11 +84,17 @@
   <data name="For Cloud-Hosted Plans (e.g., Aiursoft Substrate S1 Core):" xml:space="preserve">
     <value>Bulut Barındırma Planları İçin (örneğin, Aiursoft Substrate S1 Core):</value>
   </data>
+  <data name="For Cloud-Hosted Plans (e.g., Aiursoft Substratum Core):" xml:space="preserve">
+    <value>Bulut Tabanlı Planlar için (ör. Aiursoft Substratum Core):</value>
+  </data>
   <data name="For on-premise deployments, cancellation simply terminates our support and update services. Your data remains entirely intact on your own servers, under your complete control." xml:space="preserve">
     <value>Kurumsal sunuculara kurulumlar için, iptal işlemi yalnızca destek ve güncelleme hizmetlerimizi sonlandırır. Verileriniz, tamamen kontrolünüz altında, kendi sunucularınızda tamamen korumalı kalır.</value>
   </data>
   <data name="For On-Premise Plans (e.g., Aiursoft Substrate S3 Startup &amp; S5 Enterprise):" xml:space="preserve">
     <value>Kurumsal Planlar İçin (örn. Aiursoft Substrate S3 Startup &amp; S5 Enterprise):</value>
+  </data>
+  <data name="For On-Premise Plans (e.g., Aiursoft Substratum Startup &amp; Enterprise):" xml:space="preserve">
+    <value>Yerel Kurulum Planları (örneğin, Aiursoft Substratum Startup &amp; Enterprise) İçin:</value>
   </data>
   <data name="For provisioning the underlying high-performance cloud infrastructure that powers our official websites and Cloud-Hosted (S1 Core) client instances." xml:space="preserve">
     <value>Resmi web sitelerimizi ve Bulut Barındırılan (S1 Core) istemci örneklerini destekleyen altta yatan yüksek performanslı bulut altyapısının sağlanması için.</value>
