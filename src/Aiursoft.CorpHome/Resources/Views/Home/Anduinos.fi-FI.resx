@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name=".aosproj replaces a dozen arcane Debian files with a single declarative manifest. If you know .csproj, you know packaging." xml:space="preserve">
+    <value>.aosproj korvaa kymmenen salaperäisen Debian-tiedoston yhdellä deklaratiivisella manifesilla. Jos tunnet .csproj-tiedostot, ymmärrät pakkaamisen.</value>
+  </data>
+  <data name="Add to Management Cloud and go live" xml:space="preserve">
+    <value>Lisää Management Cloudiin ja aloita käyttö</value>
+  </data>
+  <data name="Advanced" xml:space="preserve">
+    <value>Lisää</value>
+  </data>
+  <data name="All the power of open-source, backed by enterprise-grade support, management tools, and customisation capabilities." xml:space="preserve">
+    <value>Kaikki avoimen lähdekoodin voima, jota tukevat yritystason tuki, hallintatyökalut ja mukauttamismahdollisuudet.</value>
+  </data>
+  <data name="AnduinOS device" xml:space="preserve">
+    <value>AnduinOS-laite</value>
+  </data>
+  <data name="AnduinOS Enterprise" xml:space="preserve">
+    <value>AnduinOS Enterprise</value>
+  </data>
+  <data name="AnduinOS Enterprise is backed by our 7x24 on-call support team. From initial deployment to ongoing operations, we ensure your fleet stays secure, updated, and running smoothly." xml:space="preserve">
+    <value>AnduinOS Enterprise -tuotteemme tukena on 24/7 tavoitettavissa oleva tukitiimimme. Alun asennuksesta jatkuvien toimintoihin asti varmistamme, että laitekannasi pysyy turvallisena, ajan tasalla ja toimii moitteetta.</value>
+  </data>
+  <data name="AnduinOS Enterprise provides brand customisation, enabling you to replace the system logo with your own." xml:space="preserve">
+    <value>AnduinOS Enterprise mahdollistaa brändin mukauttamisen, jolloin voit korvata järjestelmän logon omallasi.</value>
+  </data>
+  <data name="AnduinOS fleet" xml:space="preserve">
+    <value>AnduinOS -laivasto</value>
+  </data>
+  <data name="AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
+    <value>AnduinOS on mukautettu Ubuntun pohjainen Linux-jakelu, joka tarjoaa tutun ja helppokäyttöisen käyttökokemuksen kaikille Linuxiin siirtyville.</value>
+  </data>
+  <data name="AnduinOS is an open-source project. Following the GPL-v3 license, you can view the source code, modify it, and redistribute it. It&apos;s free and will always be free." xml:space="preserve">
+    <value>AnduinOS on avoimen lähdekoodin projekti. GPL-v3-lisenssin mukaisesti voit tarkastella lähdekoodia, muokata sitä ja levittää sitä edelleen. Se on ilmainen ja pysyy aina ilmaisena.</value>
+  </data>
+  <data name="AnduinOS is based on Ubuntu&apos;s package base. It&apos;s compatible with most of the apt packages from Ubuntu. It&apos;s a perfect combination of experience and ecology." xml:space="preserve">
+    <value>AnduinOS perustuu Ubuntun paketipohjaan. Se on yhteensopiva suurimman osan Ubuntun apt-paketeista. Se on täydellinen yhdistelmä kokemusta ja ekosysteemiä.</value>
+  </data>
+  <data name="AnduinOS Kiosk" xml:space="preserve">
+    <value>AnduinOS -kioski</value>
+  </data>
+  <data name="AnduinOS Management Cloud" xml:space="preserve">
+    <value>AnduinOS-hallintapilvi</value>
+  </data>
+  <data name="Apkg Dashboard Screenshot" xml:space="preserve">
+    <value>Apkg-ohjauspaneelin kuvakaappaus</value>
+  </data>
+  <data name="Apkg is a declarative APT repository platform that lets you host signed Debian repositories, mirror upstream archives, and publish your own .apkg packages — all fully on-premise. Integrates seamlessly with AnduinOS for painless apt update &amp;&amp; apt install workflows across your entire fleet." xml:space="preserve">
+    <value>Apkg on deklariivinen APT-varastoalusta, jonka avulla voit isännöidä allekirjoitettuja Debian-varastoja, peilata ylävirtaan suuntautuvia arkistoja ja julkaista omia .apkg-paketteja — kaikki täysin paikan päällä. Integraatio AnduinOS:ään on saumaton, jolloin apt update &amp;&amp; apt install -työvirrat onnistuvat vaivattomasti koko kalustossasi.</value>
+  </data>
+  <data name="Architecture" xml:space="preserve">
+    <value>Arkkitehtuuri</value>
+  </data>
+  <data name="Atomic Snapshots" xml:space="preserve">
+    <value>Atomaariset tilanteet</value>
+  </data>
+  <data name="Auto Updates on Reboot" xml:space="preserve">
+    <value>Automaattiset päivityt käynnistyksen yhteydessä</value>
+  </data>
+  <data name="Boot &amp; Configure" xml:space="preserve">
+    <value>Käynnistä ja määritä</value>
+  </data>
+  <data name="Boot from USB and auto-configure" xml:space="preserve">
+    <value>Käynnistä USB-tikuista ja määritä automaattisesti</value>
+  </data>
+  <data name="Brand Customisation" xml:space="preserve">
+    <value>Brändimukauttaminen</value>
+  </data>
+  <data name="Built for business. Air-gapped by design." xml:space="preserve">
+    <value>Rakennettu liiketoimintaa varten. Ilmavälin eristys suunnittelusta lähtien.</value>
+  </data>
+  <data name="Built on a rock-solid foundation. Designed for the enterprise." xml:space="preserve">
+    <value>Luotu vankalle pohjalle. Suunniteltu yrityskäyttöön.</value>
+  </data>
+  <data name="Built on the same infrastructure that powers AnduinOS package delivery. Push updates to your entire fleet with a single command." xml:space="preserve">
+    <value>Perustuu samaan infrastruktuuriin, jota käytetään AnduinOS-pakettien jakelussa. Jakaa päivitykset koko laitteistolle yhdellä komennolla.</value>
+  </data>
+  <data name="Bulk operations across your entire fleet" xml:space="preserve">
+    <value>Joukkotoiminnot koko kaluston osalta</value>
+  </data>
+  <data name="Community Site" xml:space="preserve">
+    <value>Yhteisön sivusto</value>
+  </data>
+  <data name="Compatible with most x86 PCs manufactured in the last decade." xml:space="preserve">
+    <value>Yhteensopiva useimpien viimeisen kymmenen vuoden aikana valmistettujen x86-pc:t kanssa.</value>
+  </data>
+  <data name="Compliance-ready default configurations" xml:space="preserve">
+    <value>Noudattavuutta tukevat oletusasetukset</value>
+  </data>
+  <data name="Contact Enterprise Sales" xml:space="preserve">
+    <value>Ota yhteyttä yritysmyyntiin</value>
+  </data>
+  <data name="Contact Sales" xml:space="preserve">
+    <value>Ota yhteyttä myyntiin</value>
+  </data>
+  <data name="Containerized" xml:space="preserve">
+    <value>Säilöteinen</value>
+  </data>
+  <data name="Control and configure thousands of devices and policies efficiently from a single dashboard." xml:space="preserve">
+    <value>Hallitse ja määritä tuhansia laitteita ja sääntöjä tehokkaasti yhdestä ohjauspaneelista.</value>
+  </data>
+  <data name="Control, customize, and secure thousands of devices with enterprise tools built for scale." xml:space="preserve">
+    <value>Halla, mukauta ja suojaa tuhansia laitteita mittakaavaa varten suunnitelluilla yritystasoisten työkaluilla.</value>
+  </data>
+  <data name="Curated internal software catalog" xml:space="preserve">
+    <value>Kuratoitu sisäinen ohjelmistokatalogi</value>
+  </data>
+  <data name="Custom default wallpaper and themes" xml:space="preserve">
+    <value>Mukautetut oletustehtäväpohjat ja teemat</value>
+  </data>
+  <data name="Data stays on your servers. Authentication and authorization ensure only your team can access your metrics." xml:space="preserve">
+    <value>Tiedot pysyvät palvelimillasi. Todennus ja valtuutus takaavat, että vain tiimisi voi käyttää tilastojasi.</value>
+  </data>
+  <data name="Declarative Packaging" xml:space="preserve">
+    <value>Deklaratiivinen paketointi</value>
+  </data>
+  <data name="Default Browser" xml:space="preserve">
+    <value>Oletusselain</value>
+  </data>
+  <data name="Default Filesystem" xml:space="preserve">
+    <value>Oletustiedostojärjestelmä</value>
+  </data>
+  <data name="Deploy at scale, manage centrally, enjoy the enterprise edition!" xml:space="preserve">
+    <value>Näytä mittakaava, hallitse keskitetysti, nauti enterprise-painoksesta!</value>
+  </data>
+  <data name="Deploy interactive kiosks, information displays, and self-service terminals on standard PC hardware." xml:space="preserve">
+    <value>Asenna interaktiivisia kioskeja, tietopaneelia ja itsepalvelupäätteitä tavalliselle tietokonelaitteistolle.</value>
+  </data>
+  <data name="Deployment" xml:space="preserve">
+    <value>Asennus</value>
+  </data>
+  <data name="Desktop Environment" xml:space="preserve">
+    <value>Työpöytäympäristö</value>
+  </data>
+  <data name="digital signage and kiosk terminals" xml:space="preserve">
+    <value>digitaalinen ilmoittaminen ja kioskipäätteet</value>
+  </data>
+  <data name="Disk Space" xml:space="preserve">
+    <value>Levytila</value>
+  </data>
+  <data name="Display Server" xml:space="preserve">
+    <value>Näyttöpalvelin</value>
+  </data>
+  <data name="Distribute your own software packages internally via standard apt protocol. Take control of your enterprise package ecosystem." xml:space="preserve">
+    <value>Jakelkaa omat ohjelmistopakettejanne sisäisesti käyttämällä vakiointia apt-protokollaa. Otake valta yritystason paketin ekosysteemistä.</value>
+  </data>
+  <data name="Docs" xml:space="preserve">
+    <value>Dokumentaatio</value>
+  </data>
+  <data name="Download" xml:space="preserve">
+    <value>Lataa</value>
+  </data>
+  <data name="Download AnduinOS" xml:space="preserve">
+    <value>Lataa AnduinOS</value>
+  </data>
+  <data name="Ecological perfection" xml:space="preserve">
+    <value>Ekologinen täydellisyys</value>
+  </data>
+  <data name="End of Support" xml:space="preserve">
+    <value>Tuen päättymisaika</value>
+  </data>
+  <data name="Enroll" xml:space="preserve">
+    <value>Ilmoittaudu</value>
+  </data>
+  <data name="Enterprise" xml:space="preserve">
+    <value>Yritys</value>
+  </data>
+  <data name="Enterprise Services" xml:space="preserve">
+    <value>Yrityspalvelut</value>
+  </data>
+  <data name="Enterprise-grade" xml:space="preserve">
+    <value>Yritystason</value>
+  </data>
+  <data name="Explore Apkg" xml:space="preserve">
+    <value>Tutustu Apkg-palveluun</value>
+  </data>
+  <data name="Explore StatHub" xml:space="preserve">
+    <value>Tutustu StatHubiin</value>
+  </data>
+  <data name="Familiar UX" xml:space="preserve">
+    <value>Tuttu käyttöliittymä</value>
+  </data>
+  <data name="Firmware" xml:space="preserve">
+    <value>Mikrokoodi</value>
+  </data>
+  <data name="Flash" xml:space="preserve">
+    <value>Tallenna</value>
+  </data>
+  <data name="Free" xml:space="preserve">
+    <value>Ilmainen</value>
+  </data>
+  <data name="Free Software" xml:space="preserve">
+    <value>Vapaa ohjelmisto</value>
+  </data>
+  <data name="Friendly interface" xml:space="preserve">
+    <value>Ystävällinen käyttöliittymä</value>
+  </data>
+  <data name="Fully On-Premise" xml:space="preserve">
+    <value>Täysin on-premise</value>
+  </data>
+  <data name="Get the AnduinOS image from our site" xml:space="preserve">
+    <value>Lataa AnduinOS-kohdekuvia sivustoltamme</value>
+  </data>
+  <data name="Get up-to-the-second updates on every AnduinOS device&apos;s CPU, memory, disk, and network usage." xml:space="preserve">
+    <value>Saat sekuntitasoisia päivityksiä jokaisen AnduinOS-laitteen CPU-, muisti-, levy- ja verkkoresurssien käytöstä.</value>
+  </data>
+  <data name="GPL-v3 License" xml:space="preserve">
+    <value>GPL-v3-lisenssi</value>
+  </data>
+  <data name="Graphical applications are installed via Flatpak, and keep themselves separate from the base system. They also allow for fine-grained control over their permissions." xml:space="preserve">
+    <value>Graafiset sovellukset asennetaan Flatpakilla, ja ne pysyvät erillään perusjärjestelmästä. Ne mahdollistavat myös hienojakoisen hallinnan käyttöoikeuksien suhteen.</value>
+  </data>
+  <data name="HDR Support" xml:space="preserve">
+    <value>HDR-tuki</value>
+  </data>
+  <data name="Image Size" xml:space="preserve">
+    <value>Kuvan koko</value>
+  </data>
+  <data name="Init System" xml:space="preserve">
+    <value>Init-järjestelmä</value>
+  </data>
+  <data name="Internal package distribution via apt" xml:space="preserve">
+    <value>Sisäinen pakettijakelu apt:n kautta</value>
+  </data>
+  <data name="Kiosk &amp; Digital Signage" xml:space="preserve">
+    <value>Kiosk &amp; digitaaliset mainostaulut</value>
+  </data>
+  <data name="Kiosk mode prevents unauthorized access. Users can only interact with your approved application, keeping your deployment secure." xml:space="preserve">
+    <value>Kiosk-tila estää luvattoman pääsyn. Käyttäjät voivat vuorovaikuttaa vain hyväksymäsi sovelluksen kanssa, mikä pitää käyttöönottonsi turvallisena.</value>
+  </data>
+  <data name="Lightweight Agents" xml:space="preserve">
+    <value>Kevyet agentit</value>
+  </data>
+  <data name="Linux Kernel" xml:space="preserve">
+    <value>Linux-ytimen</value>
+  </data>
+  <data name="Live Boot" xml:space="preserve">
+    <value>Suora käynnistys</value>
+  </data>
+  <data name="Locked-down &amp; tamper-proof" xml:space="preserve">
+    <value>Rajoitettu ja virheetön</value>
+  </data>
+  <data name="Love AnduinOS?" xml:space="preserve">
+    <value>Pidätkö AnduinOS:stä?</value>
+  </data>
+  <data name="Low-overhead agents collect metrics without impacting your AnduinOS devices&apos; performance. Deploy in seconds with Docker." xml:space="preserve">
+    <value>Matalan ylläpitokustannuksen agentit keräävät mittareita vaikuttamatta AnduinOS-laitteidenne suorituskykyyn. Käyttöönotto kestää sekunteja Dockerin avulla.</value>
+  </data>
+  <data name="LTS Support" xml:space="preserve">
+    <value>LTS-tuki</value>
+  </data>
+  <data name="management for your fleet" xml:space="preserve">
+    <value>hallinta laitteistoalustallesi</value>
+  </data>
+  <data name="Minimal maintenance. Maximum stability." xml:space="preserve">
+    <value>Minimaalinen ylläpito. Maksimaalinen vakaus.</value>
+  </data>
+  <data name="Monitor thousands of AnduinOS devices from a single centralized dashboard. Scale as your fleet grows." xml:space="preserve">
+    <value>Seuraa tuhansia AnduinOS-laitteita yhdestä keskitetystä dashboardista. Laajenna skaalautuvasti laajenevan kaluston myötä.</value>
+  </data>
+  <data name="Monitor your entire" xml:space="preserve">
+    <value>Seuraa koko</value>
+  </data>
+  <data name="Monitoring" xml:space="preserve">
+    <value>Seuranta</value>
+  </data>
+  <data name="Multi-Node" xml:space="preserve">
+    <value>Monipuolinen solukausi</value>
+  </data>
+  <data name="NVIDIA Graphics Support" xml:space="preserve">
+    <value>NVIDIA-grafiikkatuki</value>
+  </data>
+  <data name="Offline repository mirrors for air-gapped networks" xml:space="preserve">
+    <value>Offline-varasto peilit eristetyille verkoille</value>
+  </data>
+  <data name="On-premises Apkg" xml:space="preserve">
+    <value>Paikallinen Apkg</value>
+  </data>
+  <data name="Open Source" xml:space="preserve">
+    <value>Avoin lähdekoodi</value>
+  </data>
+  <data name="or" xml:space="preserve">
+    <value>tai</value>
+  </data>
+  <data name="Package Distribution" xml:space="preserve">
+    <value>Paketin jakelu</value>
+  </data>
+  <data name="Package Format" xml:space="preserve">
+    <value>Paketti muoto</value>
+  </data>
+  <data name="Package Manager" xml:space="preserve">
+    <value>Pakettienhallinta</value>
+  </data>
+  <data name="Performance" xml:space="preserve">
+    <value>Suorituskyky</value>
+  </data>
+  <data name="Ports" xml:space="preserve">
+    <value>Portit</value>
+  </data>
+  <data name="Pre-install company software packages" xml:space="preserve">
+    <value>Yrityksen ohjelmistopakettien esiasennus</value>
+  </data>
+  <data name="Pricing" xml:space="preserve">
+    <value>Hinnoittelu</value>
+  </data>
+  <data name="Privacy is no longer optional. It&apos;s essential. AnduinOS is designed to gather nothing from you. We don&apos;t track you. We don&apos;t profile you. We don&apos;t target you. You remain anonymous to the system." xml:space="preserve">
+    <value>Yksityisyys ei ole enää valinnaista. Se on välttämätöntä. AnduinOS on suunniteltu keräämään mitään tietoa sinusta. Emme seuraa sinua. Emme luoda profiileja sinusta. Emme suuntaa mainontaa sinulle. Pidät anonymiteettisi järjestelmän suhteen.</value>
+  </data>
+  <data name="Processor" xml:space="preserve">
+    <value>Suoritin</value>
+  </data>
+  <data name="RAM" xml:space="preserve">
+    <value>RAM</value>
+  </data>
+  <data name="Ready to use" xml:space="preserve">
+    <value>Valmis käyttöön</value>
+  </data>
+  <data name="Real-time" xml:space="preserve">
+    <value>Reaaliaikainen</value>
+  </data>
+  <data name="Real-time device health monitoring" xml:space="preserve">
+    <value>Laitetilan reaaliaikainen seuranta</value>
+  </data>
+  <data name="Reasons" xml:space="preserve">
+    <value>Syitä</value>
+  </data>
+  <data name="Release Date" xml:space="preserve">
+    <value>Julkaisupäivä</value>
+  </data>
+  <data name="Remote configuration and policy enforcement" xml:space="preserve">
+    <value>Etäkäyttöön otto ja käytännön noudattamisen valvonta</value>
+  </data>
+  <data name="Remote content management" xml:space="preserve">
+    <value>Etäsisältöjen hallinta</value>
+  </data>
+  <data name="Replace system logo and boot screen" xml:space="preserve">
+    <value>Vaihda järjestelmän logo ja käynnistysnäyttö</value>
+  </data>
+  <data name="Resource Efficient" xml:space="preserve">
+    <value>Resurssitehokas</value>
+  </data>
+  <data name="Role-based access control for IT teams" xml:space="preserve">
+    <value>Roolien perusteella tapahtuva pääsyn hallinta IT-tiimeille</value>
+  </data>
+  <data name="Root and privacy" xml:space="preserve">
+    <value>Juuri- ja tietosuoja</value>
+  </data>
+  <data name="Run your own APT infrastructure behind the firewall. No external dependencies, no proprietary agents — just standard apt." xml:space="preserve">
+    <value>Hallinnoi omaa APT-infrastruktuuria palomuurin takana. Ei ulkoisia riippuvuuksia, ei omaisuusoikeudellisia agenteja — vain vakioitu apt.</value>
+  </data>
+  <data name="Runs smoothly on older devices. Extends hardware lifespan by being resource-efficient, so you don&apos;t need to buy new machines." xml:space="preserve">
+    <value>Toimii sujuvasti vanhemmilla laitteilla. Pidentää laitteiston käyttöikää tehokkaan resurssikäytön ansiosta, joten sinun ei tarvitse ostaa uusia koneita.</value>
+  </data>
+  <data name="Screen" xml:space="preserve">
+    <value>Kuvakaappaus</value>
+  </data>
+  <data name="Seamless AnduinOS Integration" xml:space="preserve">
+    <value>Saumaton AnduinOS-integraatio</value>
+  </data>
+  <data name="Secure" xml:space="preserve">
+    <value>Turvallinen</value>
+  </data>
+  <data name="Secure Boot" xml:space="preserve">
+    <value>Turvallinen käynnistys</value>
+  </data>
+  <data name="Set up your system in under 5 minutes" xml:space="preserve">
+    <value>Aseta järjestelmäsi alle 5 minuutissa</value>
+  </data>
+  <data name="Ship software to every" xml:space="preserve">
+    <value>Julkaise ohjelmisto jokaiseen</value>
+  </data>
+  <data name="Simple, user-friendly. Broad compatibility with virtually all PC hardware." xml:space="preserve">
+    <value>Yksinkertainen ja käyttäjäystävällinen. Laaja yhteensopivuus lähes kaiken PC-laitoston kanssa.</value>
+  </data>
+  <data name="Smaller image, friendly interface, unbeatable performance, safe and secure." xml:space="preserve">
+    <value>Kompakti levykoko, ystävällinen käyttöliittymä, ylivoimainen suorituskyky, turvallinen ja luotettava.</value>
+  </data>
+  <data name="Source Code" xml:space="preserve">
+    <value>Lähdekoodi</value>
+  </data>
+  <data name="Speedy Makeover" xml:space="preserve">
+    <value>Nopea muutos</value>
+  </data>
+  <data name="Stable &amp; Modern" xml:space="preserve">
+    <value>Vakaa ja moderni</value>
+  </data>
+  <data name="StatHub Dashboard Screenshot" xml:space="preserve">
+    <value>StatHub-ohjauspaneelin ruutukaappaus</value>
+  </data>
+  <data name="StatHub is a simple, real-time server monitoring system designed for local deployment. Keep an eye on your entire AnduinOS infrastructure with intuitive dashboards and detailed metrics — all from a single pane of glass." xml:space="preserve">
+    <value>StatHub on yksinkertainen, reaaliaikainen palvelinvalvontajärjestelmä, joka on suunniteltu paikalliseen käyttöön. Seuraa koko AnduinOS-infrastruktuuria intuitiivisten näkymien ja yksityiskohtaisten mittareiden avulla — kaikki yhdellä silmäyksellä.</value>
+  </data>
+  <data name="Sync, sign, and promote atomically via rename(2). APT clients never see half-written metadata — only consistent, signed snapshots." xml:space="preserve">
+    <value>Synkronoi, signeera ja julkaise atomisesti rename(2)-kutsulla. APT-asiakkaat eivät koskaan näe puolivalmiita metatietoja — vain johdonmukaisia, signeerattuja hetkikuvia.</value>
+  </data>
+  <data name="System Requirements" xml:space="preserve">
+    <value>Järjestelmävaatimukset</value>
+  </data>
+  <data name="System updates apply automatically when you restart. Zero maintenance windows — just reboot, and you&apos;re on the latest version." xml:space="preserve">
+    <value>Järjestelm päivitykset asennetaan automaattisesti käynnistyksen yhteydessä. Ei huoltovälejä – vain uudelleenkäynnistys, ja olet uusimmassa versiossa.</value>
+  </data>
+  <data name="Technical Specifications" xml:space="preserve">
+    <value>Tekniset tiedot</value>
+  </data>
+  <data name="The GNOME-based desktop environment has beautiful interfaces and human-computer interactions that fit user habits, allowing you to quickly get started with AnduinOS without too much learning cost." xml:space="preserve">
+    <value>GNOME-pohjainen työpöytäympäristö tarjoaa kauniit käyttöliittymät ja ihmisen ja tietokoneen välisen vuorovaikutuksen, joka sopii käyttäjien tottumuksiin, joten pääset alkuun AnduinOS:n kanssa nopeasti ilman suurta oppimiskynnystä.</value>
+  </data>
+  <data name="The ideal solution for" xml:space="preserve">
+    <value>Ihanteellinen ratkaisu</value>
+  </data>
+  <data name="The ISO is just 2.4GB in size. Similar to Ubuntu, it is simple to install and can meet your daily needs without additional configuration or complicated operations." xml:space="preserve">
+    <value>ISO-tiedosto on vain 2,4 gigatavua. Kuten Ubuntu, se on helppo asentaa ja täyttää päivittäiset tarpeet ilman lisäasetuksia tai monimutkaisia toimintoja.</value>
+  </data>
+  <data name="The operating system your enterprise needs — familiar, beautiful, stable, mature, and easy to manage. AnduinOS Enterprise is built on Linux 7.0, GNOME 50, and Ubuntu 26.04, keeping your team in a comfortable, productive environment." xml:space="preserve">
+    <value>Käyttöjärjestelmä, jota yrityksesi tarvitsee – tuttu, kaunis, vakaa, kypsä ja helppohoitoinen. AnduinOS Enterprise perustuu Linux 7.0:een, GNOME 50:een ja Ubuntu 26.04:ään ja pitää tiimisi mukavassa ja tuottavassa ympäristössä.</value>
+  </data>
+  <data name="Tired of your sluggish OS slowing you down? Switch to AnduinOS for instant speed and seamless performance." xml:space="preserve">
+    <value>Uuratko hitaasta käyttöjärjestelmästäsi, joka hidastaa työtään? Siirry AnduinOS:iin saadaksesi välitöntä nopeutta ja saumattoman suorituskyvyn.</value>
+  </data>
+  <data name="Transform any PC into a secure, managed kiosk. Our in-house kiosk content management suite is available now — try it today." xml:space="preserve">
+    <value>Muunna mikä tahansa PC turvalliseksi, hallittavaksi kioskiksi. Sisäisen kioskipiisisällönhallintapakkauksemme on saatavilla nyt – kokeile sitä tänään.</value>
+  </data>
+  <data name="Turn any screen into a kiosk" xml:space="preserve">
+    <value>Muuta mikä tahansa näyttö kioskiksi</value>
+  </data>
+  <data name="Ubuntu Base" xml:space="preserve">
+    <value>Ubuntu-pohjainen</value>
+  </data>
+  <data name="UI Toolkit" xml:space="preserve">
+    <value>Käyttöliittymäkirjasto</value>
+  </data>
+  <data name="Update content, push configurations, and monitor device health — all from the cloud. No need for on-site visits." xml:space="preserve">
+    <value>Päivitä sisältöä, lähetä asetuksia ja seuraa laitteiden kuntoa – kaikki pilvestä. Ei tarvetta paikanpäällä käyville.</value>
+  </data>
+  <data name="Version pinning and controlled rollouts" xml:space="preserve">
+    <value>Versionlukitus ja hallitut julkaisut</value>
+  </data>
+  <data name="Visit Community Site" xml:space="preserve">
+    <value>Mene yhteisönsivustolle</value>
+  </data>
+  <data name="Wayland Ready" xml:space="preserve">
+    <value>Wayland-valmis</value>
+  </data>
+  <data name="Why choose AnduinOS?" xml:space="preserve">
+    <value>Miksi valita AnduinOS?</value>
+  </data>
+  <data name="with Apkg" xml:space="preserve">
+    <value>Apkg:n avulla</value>
+  </data>
+  <data name="With just a few clicks, you can have AnduinOS running on any machine. Enjoy automatic updates, built-in security, and remote management from the cloud — so once deployed, it just works." xml:space="preserve">
+    <value>Muutamalla napsautuksella voit asettaa AnduinOS:n toimimaan mihin tah koneeseen. Hyödynnä automaattisia päivityksiä, sisäänrakennettua tietoturvaa ja pilvipohjaista etähallintaa – kun järjestelmä on otettu käyttöön, se toimii vain ja pelkästään.</value>
+  </data>
+  <data name="with StatHub" xml:space="preserve">
+    <value>StatHubin avulla</value>
+  </data>
+  <data name="Without Snap" xml:space="preserve">
+    <value>Ei Snap-paketteja</value>
+  </data>
+  <data name="Write the image to a USB drive" xml:space="preserve">
+    <value>Kirjoita kuva USB-tikuun</value>
+  </data>
+
+</root>

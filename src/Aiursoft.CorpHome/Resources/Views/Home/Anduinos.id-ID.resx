@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name=".aosproj replaces a dozen arcane Debian files with a single declarative manifest. If you know .csproj, you know packaging." xml:space="preserve">
+    <value>.aosproj menggantikan selusin file Debian yang rumit dengan satu manifest deklaratif tunggal. Jika Anda mengenal .csproj, Anda sudah memahami pengemasan.</value>
+  </data>
+  <data name="Add to Management Cloud and go live" xml:space="preserve">
+    <value>Tambahkan ke Management Cloud dan mulai gunakan</value>
+  </data>
+  <data name="Advanced" xml:space="preserve">
+    <value>Lanjutan</value>
+  </data>
+  <data name="All the power of open-source, backed by enterprise-grade support, management tools, and customisation capabilities." xml:space="preserve">
+    <value>Seluruh kekuatan open-source, didukung oleh dukungan kelas enterprise, alat manajemen, dan kemampuan kustomisasi.</value>
+  </data>
+  <data name="AnduinOS device" xml:space="preserve">
+    <value>perangkat AnduinOS</value>
+  </data>
+  <data name="AnduinOS Enterprise" xml:space="preserve">
+    <value>AnduinOS Enterprise</value>
+  </data>
+  <data name="AnduinOS Enterprise is backed by our 7x24 on-call support team. From initial deployment to ongoing operations, we ensure your fleet stays secure, updated, and running smoothly." xml:space="preserve">
+    <value>AnduinOS Enterprise didukung oleh tim dukungan panggilan kami 24/7. Mulai dari penempatan awal hingga operasi berkelanjutan, kami memastikan armada Anda tetap aman, terkini, dan berjalan lancar.</value>
+  </data>
+  <data name="AnduinOS Enterprise provides brand customisation, enabling you to replace the system logo with your own." xml:space="preserve">
+    <value>AnduinOS Enterprise menyediakan kustomisasi merek, memungkinkan Anda mengganti logo sistem dengan logo Anda sendiri.</value>
+  </data>
+  <data name="AnduinOS fleet" xml:space="preserve">
+    <value>armada AnduinOS</value>
+  </data>
+  <data name="AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
+    <value>AnduinOS adalah distribusi Linux berbasis Ubuntu yang disesuaikan, menawarkan pengalaman yang familiar dan mudah digunakan bagi siapa pun yang beralih ke Linux.</value>
+  </data>
+  <data name="AnduinOS is an open-source project. Following the GPL-v3 license, you can view the source code, modify it, and redistribute it. It&apos;s free and will always be free." xml:space="preserve">
+    <value>AnduinOS adalah proyek sumber terbuka. Dengan lisensi GPL-v3, Anda dapat melihat kode sumbernya, memodifikasinya, dan mendistribusikannya kembali. Ini gratis dan akan selalu gratis.</value>
+  </data>
+  <data name="AnduinOS is based on Ubuntu&apos;s package base. It&apos;s compatible with most of the apt packages from Ubuntu. It&apos;s a perfect combination of experience and ecology." xml:space="preserve">
+    <value>AnduinOS didasarkan pada basis paket Ubuntu. Sistem ini kompatibel dengan sebagian besar paket apt dari Ubuntu. Ini merupakan kombinasi sempurna antara pengalaman pengguna dan ekosistem.</value>
+  </data>
+  <data name="AnduinOS Kiosk" xml:space="preserve">
+    <value>AnduinOS Kiosk</value>
+  </data>
+  <data name="AnduinOS Management Cloud" xml:space="preserve">
+    <value>Cloud Manajemen AnduinOS</value>
+  </data>
+  <data name="Apkg Dashboard Screenshot" xml:space="preserve">
+    <value>Tangkapan Layar Dasbor Apkg</value>
+  </data>
+  <data name="Apkg is a declarative APT repository platform that lets you host signed Debian repositories, mirror upstream archives, and publish your own .apkg packages — all fully on-premise. Integrates seamlessly with AnduinOS for painless apt update &amp;&amp; apt install workflows across your entire fleet." xml:space="preserve">
+    <value>Apkg adalah platform repositori APT deklaratif yang memungkinkan Anda meng-hosting repositori Debian yang ditandatangani, mencerminkan arsip hulu, dan memublikasikan paket .apkg Anda sendiri — semuanya sepenuhnya on-premise. Terintegrasi secara mulus dengan AnduinOS untuk alur kerja apt update &amp;&amp; apt install yang bebas repot di seluruh armada perangkat Anda.</value>
+  </data>
+  <data name="Architecture" xml:space="preserve">
+    <value>Arsitektur</value>
+  </data>
+  <data name="Atomic Snapshots" xml:space="preserve">
+    <value>Snapshot Atomik</value>
+  </data>
+  <data name="Auto Updates on Reboot" xml:space="preserve">
+    <value>Pembaruan Otomatis saat Reboot</value>
+  </data>
+  <data name="Boot &amp; Configure" xml:space="preserve">
+    <value>Mulai &amp; Konfigurasi</value>
+  </data>
+  <data name="Boot from USB and auto-configure" xml:space="preserve">
+    <value>Mulai dari USB dan konfigurasi otomatis</value>
+  </data>
+  <data name="Brand Customisation" xml:space="preserve">
+    <value>Kustomisasi Merek</value>
+  </data>
+  <data name="Built for business. Air-gapped by design." xml:space="preserve">
+    <value>Dirancang untuk bisnis. Terisolasi secara fisik dari awal.</value>
+  </data>
+  <data name="Built on a rock-solid foundation. Designed for the enterprise." xml:space="preserve">
+    <value>Dibangun di atas fondasi yang kokoh. Dirancang untuk perusahaan.</value>
+  </data>
+  <data name="Built on the same infrastructure that powers AnduinOS package delivery. Push updates to your entire fleet with a single command." xml:space="preserve">
+    <value>Dibangun di atas infrastruktur yang sama yang menggerakkan pengiriman paket AnduinOS. Kirim pembaruan ke seluruh armada Anda dengan satu perintah.</value>
+  </data>
+  <data name="Bulk operations across your entire fleet" xml:space="preserve">
+    <value>Operasi massal di seluruh armada perangkat Anda</value>
+  </data>
+  <data name="Community Site" xml:space="preserve">
+    <value>Situs Komunitas</value>
+  </data>
+  <data name="Compatible with most x86 PCs manufactured in the last decade." xml:space="preserve">
+    <value>Kompatibel dengan sebagian besar PC x86 yang diproduksi dalam satu dekade terakhir.</value>
+  </data>
+  <data name="Compliance-ready default configurations" xml:space="preserve">
+    <value>Konfigurasi bawaan yang memenuhi kepatuhan</value>
+  </data>
+  <data name="Contact Enterprise Sales" xml:space="preserve">
+    <value>Hubungi Tim Penjualan Korporat</value>
+  </data>
+  <data name="Contact Sales" xml:space="preserve">
+    <value>Hubungi Penjualan</value>
+  </data>
+  <data name="Containerized" xml:space="preserve">
+    <value>Berkontainer</value>
+  </data>
+  <data name="Control and configure thousands of devices and policies efficiently from a single dashboard." xml:space="preserve">
+    <value>Kendalikan dan konfigurasikan ribuan perangkat serta kebijakan secara efisien dari satu dasbor.</value>
+  </data>
+  <data name="Control, customize, and secure thousands of devices with enterprise tools built for scale." xml:space="preserve">
+    <value>Kendalikan, sesuaikan, dan amankan ribuan perangkat dengan alat perusahaan yang dirancang untuk skala besar.</value>
+  </data>
+  <data name="Curated internal software catalog" xml:space="preserve">
+    <value>Katalog perangkat lunak internal yang dikurasi</value>
+  </data>
+  <data name="Custom default wallpaper and themes" xml:space="preserve">
+    <value>Layar belakang dan tema default kustom</value>
+  </data>
+  <data name="Data stays on your servers. Authentication and authorization ensure only your team can access your metrics." xml:space="preserve">
+    <value>Data tetap di server Anda. Autentikasi dan otorisasi memastikan hanya tim Anda yang dapat mengakses metrik Anda.</value>
+  </data>
+  <data name="Declarative Packaging" xml:space="preserve">
+    <value>Pembungkusan Deklaratif</value>
+  </data>
+  <data name="Default Browser" xml:space="preserve">
+    <value>Browser Bawaan</value>
+  </data>
+  <data name="Default Filesystem" xml:space="preserve">
+    <value>Sistem File Default</value>
+  </data>
+  <data name="Deploy at scale, manage centrally, enjoy the enterprise edition!" xml:space="preserve">
+    <value>Terapkan secara luas, kelola secara terpusat, nikmati edisi perusahaan!</value>
+  </data>
+  <data name="Deploy interactive kiosks, information displays, and self-service terminals on standard PC hardware." xml:space="preserve">
+    <value>Luncurkan kios interaktif, tampilan informasi, dan terminal layanan mandiri pada perangkat keras PC standar.</value>
+  </data>
+  <data name="Deployment" xml:space="preserve">
+    <value>Penerapan</value>
+  </data>
+  <data name="Desktop Environment" xml:space="preserve">
+    <value>Lingkungan Desktop</value>
+  </data>
+  <data name="digital signage and kiosk terminals" xml:space="preserve">
+    <value>layar informasi digital dan terminal kios</value>
+  </data>
+  <data name="Disk Space" xml:space="preserve">
+    <value>Ruang Disk</value>
+  </data>
+  <data name="Display Server" xml:space="preserve">
+    <value>Server Tampilan</value>
+  </data>
+  <data name="Distribute your own software packages internally via standard apt protocol. Take control of your enterprise package ecosystem." xml:space="preserve">
+    <value>Distribusikan paket perangkat lunak Anda secara internal melalui protokol apt standar. Kuasai ekosistem paket perusahaan Anda.</value>
+  </data>
+  <data name="Docs" xml:space="preserve">
+    <value>Dokumentasi</value>
+  </data>
+  <data name="Download" xml:space="preserve">
+    <value>Unduh</value>
+  </data>
+  <data name="Download AnduinOS" xml:space="preserve">
+    <value>Unduh AnduinOS</value>
+  </data>
+  <data name="Ecological perfection" xml:space="preserve">
+    <value>Ekosistem yang Sempurna</value>
+  </data>
+  <data name="End of Support" xml:space="preserve">
+    <value>Batas Akhir Dukungan</value>
+  </data>
+  <data name="Enroll" xml:space="preserve">
+    <value>Daftar</value>
+  </data>
+  <data name="Enterprise" xml:space="preserve">
+    <value>Perusahaan</value>
+  </data>
+  <data name="Enterprise Services" xml:space="preserve">
+    <value>Layanan Perusahaan</value>
+  </data>
+  <data name="Enterprise-grade" xml:space="preserve">
+    <value>Kelas Perusahaan</value>
+  </data>
+  <data name="Explore Apkg" xml:space="preserve">
+    <value>Jelajahi Apkg</value>
+  </data>
+  <data name="Explore StatHub" xml:space="preserve">
+    <value>Jelajahi StatHub</value>
+  </data>
+  <data name="Familiar UX" xml:space="preserve">
+    <value>UX yang familiar</value>
+  </data>
+  <data name="Firmware" xml:space="preserve">
+    <value>Perangkat Lunak</value>
+  </data>
+  <data name="Flash" xml:space="preserve">
+    <value>Flash</value>
+  </data>
+  <data name="Free" xml:space="preserve">
+    <value>Gratis</value>
+  </data>
+  <data name="Free Software" xml:space="preserve">
+    <value>Perangkat Lunak Bebas</value>
+  </data>
+  <data name="Friendly interface" xml:space="preserve">
+    <value>Antarmuka Ramah</value>
+  </data>
+  <data name="Fully On-Premise" xml:space="preserve">
+    <value>Sepenuhnya On-Premise</value>
+  </data>
+  <data name="Get the AnduinOS image from our site" xml:space="preserve">
+    <value>Unduh gambar AnduinOS dari situs kami</value>
+  </data>
+  <data name="Get up-to-the-second updates on every AnduinOS device&apos;s CPU, memory, disk, and network usage." xml:space="preserve">
+    <value>Dapatkan pembaruan real-time detik demi detik untuk penggunaan CPU, memori, disk, dan jaringan setiap perangkat AnduinOS.</value>
+  </data>
+  <data name="GPL-v3 License" xml:space="preserve">
+    <value>Lisensi GPL-v3</value>
+  </data>
+  <data name="Graphical applications are installed via Flatpak, and keep themselves separate from the base system. They also allow for fine-grained control over their permissions." xml:space="preserve">
+    <value>Aplikasi grafis dipasang melalui Flatpak, dan tetap terpisah dari sistem dasar. Mereka juga mengizinkan kontrol yang lebih spesifik terhadap izin-izin mereka.</value>
+  </data>
+  <data name="HDR Support" xml:space="preserve">
+    <value>Dukungan HDR</value>
+  </data>
+  <data name="Image Size" xml:space="preserve">
+    <value>Ukuran Image</value>
+  </data>
+  <data name="Init System" xml:space="preserve">
+    <value>Sistem Inisialisasi</value>
+  </data>
+  <data name="Internal package distribution via apt" xml:space="preserve">
+    <value>Distribusi paket internal melalui apt</value>
+  </data>
+  <data name="Kiosk &amp; Digital Signage" xml:space="preserve">
+    <value>Kios &amp; Papan Tulis Digital</value>
+  </data>
+  <data name="Kiosk mode prevents unauthorized access. Users can only interact with your approved application, keeping your deployment secure." xml:space="preserve">
+    <value>Mode kios mencegah akses tidak sah. Pengguna hanya dapat berinteraksi dengan aplikasi yang Anda setujui, menjaga keamanan penyebaran Anda.</value>
+  </data>
+  <data name="Lightweight Agents" xml:space="preserve">
+    <value>Agen Ringan</value>
+  </data>
+  <data name="Linux Kernel" xml:space="preserve">
+    <value>Kernel Linux</value>
+  </data>
+  <data name="Live Boot" xml:space="preserve">
+    <value>Boot Langsung</value>
+  </data>
+  <data name="Locked-down &amp; tamper-proof" xml:space="preserve">
+    <value>Dikunci &amp; tahan banting</value>
+  </data>
+  <data name="Love AnduinOS?" xml:space="preserve">
+    <value>Suka AnduinOS?</value>
+  </data>
+  <data name="Low-overhead agents collect metrics without impacting your AnduinOS devices&apos; performance. Deploy in seconds with Docker." xml:space="preserve">
+    <value>Agen ringan mengumpulkan metrik tanpa memengaruhi kinerja perangkat AnduinOS Anda. Deploy dalam hitungan detik dengan Docker.</value>
+  </data>
+  <data name="LTS Support" xml:space="preserve">
+    <value>Dukungan LTS</value>
+  </data>
+  <data name="management for your fleet" xml:space="preserve">
+    <value>pengelolaan untuk armada Anda</value>
+  </data>
+  <data name="Minimal maintenance. Maximum stability." xml:space="preserve">
+    <value>Pemeliharaan minimal. Stabilitas maksimal.</value>
+  </data>
+  <data name="Monitor thousands of AnduinOS devices from a single centralized dashboard. Scale as your fleet grows." xml:space="preserve">
+    <value>Pantau ribuan perangkat AnduinOS dari satu dasbor terpusat. Sesuaikan kapasitas seiring pertumbuhan armada Anda.</value>
+  </data>
+  <data name="Monitor your entire" xml:space="preserve">
+    <value>Pantau seluruh</value>
+  </data>
+  <data name="Monitoring" xml:space="preserve">
+    <value>Pemantauan</value>
+  </data>
+  <data name="Multi-Node" xml:space="preserve">
+    <value>Multi-Node</value>
+  </data>
+  <data name="NVIDIA Graphics Support" xml:space="preserve">
+    <value>Dukungan Grafis NVIDIA</value>
+  </data>
+  <data name="Offline repository mirrors for air-gapped networks" xml:space="preserve">
+    <value>Cipatan repositori offline untuk jaringan yang terisolasi</value>
+  </data>
+  <data name="On-premises Apkg" xml:space="preserve">
+    <value>Apkg On-Premises</value>
+  </data>
+  <data name="Open Source" xml:space="preserve">
+    <value>Sumber Terbuka</value>
+  </data>
+  <data name="or" xml:space="preserve">
+    <value>atau</value>
+  </data>
+  <data name="Package Distribution" xml:space="preserve">
+    <value>Distribusi Paket</value>
+  </data>
+  <data name="Package Format" xml:space="preserve">
+    <value>Format Paket</value>
+  </data>
+  <data name="Package Manager" xml:space="preserve">
+    <value>Pengelola Paket</value>
+  </data>
+  <data name="Performance" xml:space="preserve">
+    <value>Kinerja</value>
+  </data>
+  <data name="Ports" xml:space="preserve">
+    <value>Port</value>
+  </data>
+  <data name="Pre-install company software packages" xml:space="preserve">
+    <value>Pra-install paket perangkat lunak perusahaan</value>
+  </data>
+  <data name="Pricing" xml:space="preserve">
+    <value>Harga</value>
+  </data>
+  <data name="Privacy is no longer optional. It&apos;s essential. AnduinOS is designed to gather nothing from you. We don&apos;t track you. We don&apos;t profile you. We don&apos;t target you. You remain anonymous to the system." xml:space="preserve">
+    <value>Privasi bukan lagi pilihan. Itu esensial. AnduinOS dirancang untuk tidak mengambil apa pun dari Anda. Kami tidak melacak Anda. Kami tidak membuat profil Anda. Kami tidak menargetkan Anda. Anda tetap anonim bagi sistem.</value>
+  </data>
+  <data name="Processor" xml:space="preserve">
+    <value>Prosesor</value>
+  </data>
+  <data name="RAM" xml:space="preserve">
+    <value>RAM</value>
+  </data>
+  <data name="Ready to use" xml:space="preserve">
+    <value>Siap digunakan</value>
+  </data>
+  <data name="Real-time" xml:space="preserve">
+    <value>Waktu Nyata</value>
+  </data>
+  <data name="Real-time device health monitoring" xml:space="preserve">
+    <value>Pemantauan kesehatan perangkat secara real-time</value>
+  </data>
+  <data name="Reasons" xml:space="preserve">
+    <value>Alasan</value>
+  </data>
+  <data name="Release Date" xml:space="preserve">
+    <value>Tanggal Rilis</value>
+  </data>
+  <data name="Remote configuration and policy enforcement" xml:space="preserve">
+    <value>Konfigurasi jarak jauh dan penerapan kebijakan</value>
+  </data>
+  <data name="Remote content management" xml:space="preserve">
+    <value>Manajemen konten jarak jauh</value>
+  </data>
+  <data name="Replace system logo and boot screen" xml:space="preserve">
+    <value>Ganti logo sistem dan layar boot</value>
+  </data>
+  <data name="Resource Efficient" xml:space="preserve">
+    <value>Efisien Sumber Daya</value>
+  </data>
+  <data name="Role-based access control for IT teams" xml:space="preserve">
+    <value>Kontrol akses berbasis peran untuk tim TI</value>
+  </data>
+  <data name="Root and privacy" xml:space="preserve">
+    <value>Root dan Privasi</value>
+  </data>
+  <data name="Run your own APT infrastructure behind the firewall. No external dependencies, no proprietary agents — just standard apt." xml:space="preserve">
+    <value>Jalankan infrastruktur APT Anda sendiri di balik firewall. Tanpa dependensi eksternal, tanpa agen proprietary — hanya apt standar.</value>
+  </data>
+  <data name="Runs smoothly on older devices. Extends hardware lifespan by being resource-efficient, so you don&apos;t need to buy new machines." xml:space="preserve">
+    <value>Berkelancar pada perangkat lama. Memperpanjang masa pakai perangkat keras dengan efisiensi sumber daya, sehingga Anda tidak perlu membeli mesin baru.</value>
+  </data>
+  <data name="Screen" xml:space="preserve">
+    <value>Layar</value>
+  </data>
+  <data name="Seamless AnduinOS Integration" xml:space="preserve">
+    <value>Integrasi AnduinOS Tanpa Kendala</value>
+  </data>
+  <data name="Secure" xml:space="preserve">
+    <value>Aman</value>
+  </data>
+  <data name="Secure Boot" xml:space="preserve">
+    <value>Boot Aman</value>
+  </data>
+  <data name="Set up your system in under 5 minutes" xml:space="preserve">
+    <value>Siapkan sistem Anda dalam waktu kurang dari 5 menit</value>
+  </data>
+  <data name="Ship software to every" xml:space="preserve">
+    <value>Kirim perangkat lunak ke setiap</value>
+  </data>
+  <data name="Simple, user-friendly. Broad compatibility with virtually all PC hardware." xml:space="preserve">
+    <value>Sederhana, mudah digunakan. Kompatibilitas luas dengan hampir semua perangkat keras PC.</value>
+  </data>
+  <data name="Smaller image, friendly interface, unbeatable performance, safe and secure." xml:space="preserve">
+    <value>Citra lebih kecil, antarmuka ramah, performa tak tertandingi, aman dan terjamin.</value>
+  </data>
+  <data name="Source Code" xml:space="preserve">
+    <value>Kode Sumber</value>
+  </data>
+  <data name="Speedy Makeover" xml:space="preserve">
+    <value>Perombakan Cepat</value>
+  </data>
+  <data name="Stable &amp; Modern" xml:space="preserve">
+    <value>Stabil &amp; Modern</value>
+  </data>
+  <data name="StatHub Dashboard Screenshot" xml:space="preserve">
+    <value>Tangkapan Layar Dasbor StatHub</value>
+  </data>
+  <data name="StatHub is a simple, real-time server monitoring system designed for local deployment. Keep an eye on your entire AnduinOS infrastructure with intuitive dashboards and detailed metrics — all from a single pane of glass." xml:space="preserve">
+    <value>StatHub adalah sistem pemantauan server real-time yang sederhana dan dirancang untuk penyebaran lokal. Pantau seluruh infrastruktur AnduinOS Anda dengan dasbor yang intuitif dan metrik yang terperinci — semuanya dari satu tampilan terpadu.</value>
+  </data>
+  <data name="Sync, sign, and promote atomically via rename(2). APT clients never see half-written metadata — only consistent, signed snapshots." xml:space="preserve">
+    <value>Sinkronisasi, tanda tangani, dan promosikan secara atomik melalui rename(2). Klien APT tidak pernah melihat metadata yang setengah ditulis — hanya snapshot yang konsisten dan ditandatangani.</value>
+  </data>
+  <data name="System Requirements" xml:space="preserve">
+    <value>Persyaratan Sistem</value>
+  </data>
+  <data name="System updates apply automatically when you restart. Zero maintenance windows — just reboot, and you&apos;re on the latest version." xml:space="preserve">
+    <value>Pembaruan sistem diterapkan secara otomatis saat Anda memulai ulang. Jendela perawatan nol—cukup mulai ulang, dan Anda telah menggunakan versi terbaru.</value>
+  </data>
+  <data name="Technical Specifications" xml:space="preserve">
+    <value>Spesifikasi Teknis</value>
+  </data>
+  <data name="The GNOME-based desktop environment has beautiful interfaces and human-computer interactions that fit user habits, allowing you to quickly get started with AnduinOS without too much learning cost." xml:space="preserve">
+    <value>Lingkungan desktop berbasis GNOME memiliki antarmuka yang indah dan interaksi manusia-komputer yang sesuai dengan kebiasaan pengguna, memungkinkan Anda memulai menggunakan AnduinOS dengan cepat tanpa biaya pembelajaran yang berlebihan.</value>
+  </data>
+  <data name="The ideal solution for" xml:space="preserve">
+    <value>Solusi ideal untuk</value>
+  </data>
+  <data name="The ISO is just 2.4GB in size. Similar to Ubuntu, it is simple to install and can meet your daily needs without additional configuration or complicated operations." xml:space="preserve">
+    <value>Ukuran ISO hanya 2,4GB. Sama seperti Ubuntu, instalasinya sederhana dan dapat memenuhi kebutuhan harian Anda tanpa konfigurasi tambahan atau operasi yang rumit.</value>
+  </data>
+  <data name="The operating system your enterprise needs — familiar, beautiful, stable, mature, and easy to manage. AnduinOS Enterprise is built on Linux 7.0, GNOME 50, and Ubuntu 26.04, keeping your team in a comfortable, productive environment." xml:space="preserve">
+    <value>Sistem operasi yang dibutuhkan perusahaan Anda — familiar, indah, stabil, matang, dan mudah dikelola. AnduinOS Enterprise dibangun di atas Linux 7.0, GNOME 50, dan Ubuntu 26.04, menjaga tim Anda tetap berada dalam lingkungan yang nyaman dan produktif.</value>
+  </data>
+  <data name="Tired of your sluggish OS slowing you down? Switch to AnduinOS for instant speed and seamless performance." xml:space="preserve">
+    <value>Bosan dengan sistem operasi yang lamban dan menghambat produktivitas Anda? Beralihlah ke AnduinOS untuk kecepatan instan dan kinerja yang mulus.</value>
+  </data>
+  <data name="Transform any PC into a secure, managed kiosk. Our in-house kiosk content management suite is available now — try it today." xml:space="preserve">
+    <value>Ubah PC apa pun menjadi kios yang aman dan dikelola. Suite manajemen konten kios internal kami sudah tersedia sekarang — cobalah hari ini.</value>
+  </data>
+  <data name="Turn any screen into a kiosk" xml:space="preserve">
+    <value>Ubah layar apa pun menjadi kios</value>
+  </data>
+  <data name="Ubuntu Base" xml:space="preserve">
+    <value>Basis Ubuntu</value>
+  </data>
+  <data name="UI Toolkit" xml:space="preserve">
+    <value>Peralatan UI</value>
+  </data>
+  <data name="Update content, push configurations, and monitor device health — all from the cloud. No need for on-site visits." xml:space="preserve">
+    <value>Perbarui konten, terapkan konfigurasi, dan pantau kesehatan perangkat — semuanya dari cloud. Tidak perlu kunjungan ke lokasi.</value>
+  </data>
+  <data name="Version pinning and controlled rollouts" xml:space="preserve">
+    <value>Pemetaan versi dan peluncuran terkendali</value>
+  </data>
+  <data name="Visit Community Site" xml:space="preserve">
+    <value>Kunjungi Situs Komunitas</value>
+  </data>
+  <data name="Wayland Ready" xml:space="preserve">
+    <value>Mendukung Wayland</value>
+  </data>
+  <data name="Why choose AnduinOS?" xml:space="preserve">
+    <value>Mengapa memilih AnduinOS?</value>
+  </data>
+  <data name="with Apkg" xml:space="preserve">
+    <value>dengan Apkg</value>
+  </data>
+  <data name="With just a few clicks, you can have AnduinOS running on any machine. Enjoy automatic updates, built-in security, and remote management from the cloud — so once deployed, it just works." xml:space="preserve">
+    <value>Dengan hanya beberapa klik, Anda dapat menjalankan AnduinOS di perangkat apa pun. Nikmati pembaruan otomatis, keamanan bawaan, dan manajemen jarak jauh dari awan — sehingga setelah diterapkan, semuanya berjalan lancar.</value>
+  </data>
+  <data name="with StatHub" xml:space="preserve">
+    <value>dengan StatHub</value>
+  </data>
+  <data name="Without Snap" xml:space="preserve">
+    <value>Tanpa Snap</value>
+  </data>
+  <data name="Write the image to a USB drive" xml:space="preserve">
+    <value>Tulis gambar ke drive USB</value>
+  </data>
+
+</root>
