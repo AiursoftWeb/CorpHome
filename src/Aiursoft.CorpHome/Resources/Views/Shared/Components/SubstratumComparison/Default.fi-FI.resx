@@ -36,6 +36,9 @@
   <data name="AnduinOS Enterprise (Desktop OS)" xml:space="preserve">
     <value>AnduinOS Enterprise (työpöytäkäyttöjärjestelmä)</value>
   </data>
+  <data name="Authentik uses an Open Core model. The Community Edition is licensed under the permissive MIT license, which allows commercial use, modification, and redistribution. We provide the Community Edition (MIT) as part of Substratum. The Enterprise Edition requires a separate commercial license from Authentik." xml:space="preserve">
+    <value>Authentik käyttää Open Core -mallia. Community Edition -versio on lisensoitu sallivalla MIT-lisenssillä, joka sallii kaupallisen käytön, muokkaamisen ja uudelleenjakamisen. Tarjoamme Community Edition -version (MIT) Substratum-palvelun osana. Enterprise Edition -versio edellyttää erillistä kaupallista lisenssiä Authentikilta.</value>
+  </data>
   <data name="Business hours email support" xml:space="preserve">
     <value>Liiketoiminnan aikainen sähköpostituki</value>
   </data>
@@ -93,6 +96,12 @@
   <data name="Fleet device policy management" xml:space="preserve">
     <value>Laajamittainen laitepolitiikan hallinta</value>
   </data>
+  <data name="GitLab is a trademark of GitLab Inc. Aiursoft provides deployment, hosting, and integration services for GitLab — we are not affiliated with or endorsed by GitLab Inc. The GitLab Community Edition (CE) is MIT-licensed and can be deployed freely. The GitLab Enterprise Edition (EE) requires a separate license purchased from GitLab Inc. We can assist you with procuring the appropriate GitLab EE license, or you may choose to remove this item from your plan." xml:space="preserve">
+    <value>GitLab on GitLab Inc.:n tavaramerkki. Aiursoft tarjoaa GitLabille asennus-, isännöinti- ja integraatiopalveluja – emme ole yhteydessä GitLab Inc.:ään tai sen suorittama. GitLab Community Edition (CE) on MIT-lisensoitu ja sitä voidaan asentaa vapaasti. GitLab Enterprise Edition (EE) vaatii erillisen lisensointia, joka on ostettava GitLab Inc.:ltä. Voimme auttaa sopivan GitLab EE -lisenssin hankinnassa, tai voit valita tämän kohteen poiston suunnitelmastasi.</value>
+  </data>
+  <data name="Hacker" xml:space="preserve">
+    <value>Hacker</value>
+  </data>
   <data name="Hardware key enforcement" xml:space="preserve">
     <value>Laitteellinen avainvalvonta</value>
   </data>
@@ -113,6 +122,9 @@
   </data>
   <data name="Local LLM API Gateway" xml:space="preserve">
     <value>Paikallinen LLM-API-portti</value>
+  </data>
+  <data name="Mailcow is open-source software (GPL-3.0). Aiursoft provides managed hosting, deployment, and integration services. Any custom modifications provided during your on-premise deployment are fully compliant with and distributed under the GPL-3.0 license." xml:space="preserve">
+    <value>Mailcow on avoimen lähdekoodin ohjelmisto (GPL-3.0). Aiursoft tarjoaa hallittuja isännöinti-, käyttöönotto- ja integraatiopalveluja. Kaikki tilaajakohtaiset on-premise-käyttöönoton yhteydessä toteutetut mukautukset noudattavat täysin GPL-3.0-lisenssiä ja levitetään sen nojalla.</value>
   </data>
   <data name="Managed endpoint OS" xml:space="preserve">
     <value>Hallittu päätepisteen käyttöjärjestelmä</value>
@@ -135,6 +147,9 @@
   <data name="Multi-site &amp; HA capable" xml:space="preserve">
     <value>Monipaikkainen ja HA-yhteensopiva</value>
   </data>
+  <data name="Nextcloud is a trademark of Nextcloud GmbH. Aiursoft is an independent integration provider. To ensure enterprise-grade stability and strict adherence to the AGPL-3.0 license, we deploy the official, unmodified Nextcloud releases and seamlessly connect your stack via standard APIs, OIDC/SAML, and official plugins." xml:space="preserve">
+    <value>Nextcloud on Nextcloud GmbH:n tavaramerkki. Aiursoft on itsenäinen integraatiopalveluntarjoaja. Yritystason vakauden ja AGPL-3.0-lisenssin noudattamisen varmistamiseksi käytämme virallisia, muokkaamattomia Nextcloud-julkaisuja ja yhdistämme ekosysteemisi saumattomasti vakioidun API:n, OIDC/SAML-yhteensopivuuden ja virallisten liitännäisten kautta.</value>
+  </data>
   <data name="Not included" xml:space="preserve">
     <value>Ei sisälly</value>
   </data>
@@ -146,6 +161,9 @@
   </data>
   <data name="On-premise / Air-gapped Deployment" xml:space="preserve">
     <value>Paikallinen asennus / Ilmaistettu asennus</value>
+  </data>
+  <data name="On-premises APT Repository" xml:space="preserve">
+    <value>Paikallinen APT-varasto</value>
   </data>
   <data name="Online Code Execution" xml:space="preserve">
     <value>Online-koodin suoritus</value>
@@ -177,6 +195,9 @@
   <data name="Scale &amp; Support" xml:space="preserve">
     <value>Mittakaava ja tuki</value>
   </data>
+  <data name="Self-hosted APT repository with .apkg publishing" xml:space="preserve">
+    <value>Itse isännöity APT-varasto, jossa .apkg-julkaisu</value>
+  </data>
   <data name="Self-hosted LLM inference gateway" xml:space="preserve">
     <value>Itse isännöity LLM-inferenssiportti</value>
   </data>
@@ -207,6 +228,9 @@
   <data name="Talk to an Architect" xml:space="preserve">
     <value>Ota yhteyttä arkkitehtiin</value>
   </data>
+  <data name="Team Blog" xml:space="preserve">
+    <value>Tiimin blogi</value>
+  </data>
   <data name="Team Voting" xml:space="preserve">
     <value>Tiimipalaute</value>
   </data>
@@ -221,6 +245,9 @@
   </data>
   <data name="What&apos;s Included" xml:space="preserve">
     <value>Mitä sisältyy</value>
+  </data>
+  <data name="Workspace Boards" xml:space="preserve">
+    <value>Työtilan taulut</value>
   </data>
   <data name="Zero Trust Yubikey Auth" xml:space="preserve">
     <value>Zero Trust - Yubikey-todennus</value>

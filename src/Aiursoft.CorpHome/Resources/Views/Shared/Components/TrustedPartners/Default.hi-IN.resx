@@ -18,17 +18,14 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="App Ecosystem" xml:space="preserve">
-    <value>Sovellusekosysteemi</value>
+      <data name="Collaborating with innovative companies to deliver the best enterprise solutions." xml:space="preserve">
+    <value>उत्कृष्ट उद्यम समाधान प्रदान करने के लिए नवोन्मेषी कंपनियों के साथ सहयोग।</value>
   </data>
-  <data name="One platform. Every tool your team needs." xml:space="preserve">
-    <value>Yksi alusta. Jokainen työkalu, jonka tiimisi tarvitsee.</value>
+  <data name="Our Partners" xml:space="preserve">
+    <value>हमारे भागीदार</value>
   </data>
-  <data name="Substratum unifies your entire software stack — from identity and source control to media, collaboration, and developer tools — on a single self-hosted server." xml:space="preserve">
-    <value>Substratum yhdistää koko ohjelmistostakkisi — identiteetistä ja versionhallinnasta median, yhteistyökaluihin ja kehitystyökaluihin — yhdellä omalla palvelimella.</value>
-  </data>
-  <data name="Unified Platform" xml:space="preserve">
-    <value>Yhtenäinen alusta</value>
+  <data name="Trusted by Industry Leaders" xml:space="preserve">
+    <value>उद्योग नेताओं द्वारा भरोसेमंद</value>
   </data>
 
 </root>
