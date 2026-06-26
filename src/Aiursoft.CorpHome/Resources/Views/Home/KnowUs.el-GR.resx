@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="About Aiursoft" xml:space="preserve">
+    <value>Σχετικά με την Aiursoft</value>
+  </data>
+  <data name="Address" xml:space="preserve">
+    <value>Διεύθυνση</value>
+  </data>
+  <data name="Aiursoft is built to last a century. We are just getting started. Every decision we make serves a blueprint measured in decades, not quarters. We resist the urge to chase short-term hype or fleeting trends. Our choices are deliberate, steady, and patient — because the work that truly matters takes time, and we intend to be here for all of it." xml:space="preserve">
+    <value>Το Aiursoft είναι σχεδιασμένο να διαρκέσει έναν αιώνα. Τώρα μόλις ξεκινάμε. Κάθε απόφαση που παίρνουμε εξυπηρετεί έναν σχεδιασμό που μετριέται σε δεκαετίες, όχι σε τρίμηνα. Αντιδρούμε στο κίνητρο να κυνηγάμε τη βραχυπρόθεσμη ενθουσιασμό ή τις παροδικές τάσεις. Οι επιλογές μας είναι σκέψιμες, σταθερές και υπομονετικές — επειδή η εργασία που πραγματικά μετράει χρειάζεται χρόνο, και έχουμε τη πρόθεση να είμαστε εδώ για όλη αυτή τη διάρκεια.</value>
+  </data>
+  <data name="Aiursoft is dedicated to bringing the spirit of open-source and free software to every enterprise and individual." xml:space="preserve">
+    <value>Η Aiursoft αφιερώνεται στο να φέρει το πνεύμα του λογισμικού ανοιχτού κώδικα και του δωρεάν λογισμικού σε κάθε επιχείρηση και άτομο.</value>
+  </data>
+  <data name="Aiursoft&apos;s story is closely linked to the communities that shape us, including the global community of open source contributors and enthusiasts who are part of our team. Since 2025, we have built an operating system called AnduinOS — designed to be clean, simple, and accessible to everyone." xml:space="preserve">
+    <value>Το ταξίδι της Aiursoft συνδέεται άμεσα με τις κοινότητες που μας διαμορφώνουν, συμπεριλαμβανομένης της παγκόσμιας κοινότητας συμβалевόντων και λάτρων του λογισμικού ανοιχτού κώδικα που αποτελούν μέρος της ομάδας μας. Από το 2025, έχουμε αναπτύξει ένα λειτουργικό σύστημα με την ονομασία AnduinOS, σχεδιασμένο να είναι καθαρό, απλό και προσβάσιμο σε όλους.</value>
+  </data>
+  <data name="Chapter 1" xml:space="preserve">
+    <value>Κεφάλαιο 1</value>
+  </data>
+  <data name="Contact" xml:space="preserve">
+    <value>Επικοινωνία</value>
+  </data>
+  <data name="Contact us" xml:space="preserve">
+    <value>Επικοινωνήστε μαζί μας</value>
+  </data>
+  <data name="Director" xml:space="preserve">
+    <value>Διευθυντής</value>
+  </data>
+  <data name="Entity Code" xml:space="preserve">
+    <value>Κωδικός Νομικού Προσώπου</value>
+  </data>
+  <data name="Follow us" xml:space="preserve">
+    <value>Ακολουθήστε μας</value>
+  </data>
+  <data name="For every team member, personal growth comes first — above profit, above deadlines. We design work so that it is accessible without deep prior familiarity: the best learning happens through hands-on exploration, not prerequisites. We value playfulness and genuine curiosity — the kind that makes you lose track of time. When our people grow, the company grows as a natural consequence, not the other way around." xml:space="preserve">
+    <value>Για κάθε μέλος της ομάδας, η προσωπική ανάπτυξη έρχεται πρώτα — πάνω από το κέρδος, πάνω από τις προθεσμίες. Σχεδιάζουμε τη δουλειά ώστε να είναι προσβάσιμη χωρίς βαθιά προηγούμενη εξοικείωση: η καλύτερη μάθηση συμβαίνει μέσω του πρακτικού πειραματισμού, όχι μέσω προϋποθέσεων. Αξιοποιούμε το παιχνίδι και την πραγματική περιέργεια — αυτό το είδος που σε κάνει να ξεχνάς τον χρόνο. Όταν οι άνθρωποί μας αναπτύσσονται, η εταιρεία αναπτύσσεται ως φυσική συνέπεια, όχι το αντίστροφο.</value>
+  </data>
+  <data name="Freedom" xml:space="preserve">
+    <value>Ελευθερία</value>
+  </data>
+  <data name="Growth" xml:space="preserve">
+    <value>Ανάπτυξη</value>
+  </data>
+  <data name="Headquarters — Hong Kong" xml:space="preserve">
+    <value>Κύριο Γραφείο — Χονγκ Κονγκ</value>
+  </data>
+  <data name="Legal Representative" xml:space="preserve">
+    <value>Νόμιμος Εκπρόσωπος</value>
+  </data>
+  <data name="Long-term" xml:space="preserve">
+    <value>Μακροπρόθεσμα</value>
+  </data>
+  <data name="Our Culture" xml:space="preserve">
+    <value>Ο Πολιτισμός μας</value>
+  </data>
+  <data name="Registered Address" xml:space="preserve">
+    <value>Διεύθυνση Εγγραφής</value>
+  </data>
+  <data name="Tel" xml:space="preserve">
+    <value>Τηλ.</value>
+  </data>
+  <data name="We open-source everything we build. We reject vendor lock-in and ecosystem entrapment. We respect open standards, champion offline-first operation, and believe every right to the code belongs to the customer and the device owner. We build nothing that stands between software users and their freedom to tinker — no barriers, no gatekeeping, no artificial constraints on what a hacker or user can do with the tools we create." xml:space="preserve">
+    <value>Διαθέτουμε ανοιχτά το κώδικα (open-source) για κάθε προϊόν που αναπτύσσουμε. Απορρίπτουμε την εξάρτηση από συγκεκριμένους προμηθευτές (vendor lock-in) και τη φυλάκιση σε κλειστά οικοσυστήματα. Σέβονται τα ανοιχτά πρότυπα, υποστηρίζουμε τη λειτουργία «offline-first» και πιστεύουμε ότι κάθε δικαίωμα επί του κώδικα ανήκει στον πελάτη και στον κάτοχο της συσκευής. Δεν δημιουργούμε τίποτα που να παρεμβαίνει μεταξύ των χρηστών λογισμικού και της ελευθερίας τους να πειραματίζονται — χωρίς εμπόδια, χωρίς έλεγχο πύλης (gatekeeping) και χωρίς τεχνητούς περιορισμούς στο τι μπορεί να κάνει ένας hacker ή χρήστης με τα εργαλεία που δημιουργούμε.</value>
+  </data>
+  <data name="Where to find us" xml:space="preserve">
+    <value>Πού θα μας βρείτε</value>
+  </data>
+
+</root>

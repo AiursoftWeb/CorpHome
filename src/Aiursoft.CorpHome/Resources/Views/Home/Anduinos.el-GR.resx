@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name=".aosproj replaces a dozen arcane Debian files with a single declarative manifest. If you know .csproj, you know packaging." xml:space="preserve">
+    <value>Το .aosproj αντικαθιστά μια δέσμη αινιγματικών αρχείων Debian με μια ενιαία δηλωτική ενδεικτική λίστα. Αν γνωρίζετε το .csproj, γνωρίζετε τη συσκευασία.</value>
+  </data>
+  <data name="Add to Management Cloud and go live" xml:space="preserve">
+    <value>Προσθήκη στο Management Cloud και ενεργοποίηση</value>
+  </data>
+  <data name="Advanced" xml:space="preserve">
+    <value>Για προχωρημένους</value>
+  </data>
+  <data name="All the power of open-source, backed by enterprise-grade support, management tools, and customisation capabilities." xml:space="preserve">
+    <value>Όλη η ισχύς του ανοιχτού κώδικα, υποστηριζόμενη από υποστήριξη, εργαλεία διαχείρισης και δυνατότητες προσαρμογής επιπέδου enterprise.</value>
+  </data>
+  <data name="AnduinOS device" xml:space="preserve">
+    <value>συσκευή AnduinOS</value>
+  </data>
+  <data name="AnduinOS Enterprise" xml:space="preserve">
+    <value>AnduinOS Enterprise</value>
+  </data>
+  <data name="AnduinOS Enterprise is backed by our 7x24 on-call support team. From initial deployment to ongoing operations, we ensure your fleet stays secure, updated, and running smoothly." xml:space="preserve">
+    <value>Το AnduinOS Enterprise στηρίζεται από την ομάδα τεχνικής υποστήριξης μας, διαθέσιμη 24 ώρες το 24ωρο, 7 ημέρες την εβδομάδα. Από την αρχική εγκατάσταση μέχρι τις συνεχείς λειτουργίες, διασφαλίζουμε ότι η δέσμη συσκευών σας παραμένει ασφαλής, ενημερωμένη και λειτουργεί άψογα.</value>
+  </data>
+  <data name="AnduinOS Enterprise provides brand customisation, enabling you to replace the system logo with your own." xml:space="preserve">
+    <value>Το AnduinOS Enterprise παρέχει προσαρμογή εμπορικής επωνυμίας, επιτρέποντάς σας να αντικαταστήσετε το λογότυπο του συστήματος με το δικό σας.</value>
+  </data>
+  <data name="AnduinOS fleet" xml:space="preserve">
+    <value>ο στόλος AnduinOS</value>
+  </data>
+  <data name="AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
+    <value>Το AnduinOS είναι μια προσαρμοσμένη διανομή Linux βασισμένη στο Ubuntu, η οποία προσφέρει μια οικεία και εύχρηστη εμπειρία σε όσους μεταβαίνουν στο Linux.</value>
+  </data>
+  <data name="AnduinOS is an open-source project. Following the GPL-v3 license, you can view the source code, modify it, and redistribute it. It&apos;s free and will always be free." xml:space="preserve">
+    <value>Το AnduinOS είναι ένα έργο ανοιχτού κώδικα. Σύμφωνα με την άδεια GPL-v3, μπορείτε να δείτε τον πηγαίο κώδικα, να τον τροποποιήσετε και να τον αναδιανείμετε. Είναι δωρεάν και θα παραμείνει δωρεάν.</value>
+  </data>
+  <data name="AnduinOS is based on Ubuntu&apos;s package base. It&apos;s compatible with most of the apt packages from Ubuntu. It&apos;s a perfect combination of experience and ecology." xml:space="preserve">
+    <value>Το AnduinOS βασίζεται στη βάση πακέτων του Ubuntu. Είναι συμβατό με τα περισσότερα πακέτα apt από το Ubuntu. Είναι ο τέλειος συνδυασμός εμπειρίας και οικολογικού συστήματος.</value>
+  </data>
+  <data name="AnduinOS Kiosk" xml:space="preserve">
+    <value>AnduinOS Kiosk</value>
+  </data>
+  <data name="AnduinOS Management Cloud" xml:space="preserve">
+    <value>AnduinOS Management Cloud</value>
+  </data>
+  <data name="Apkg Dashboard Screenshot" xml:space="preserve">
+    <value>Εικόνα οθόνης πίνακα ελέγχου Apkg</value>
+  </data>
+  <data name="Apkg is a declarative APT repository platform that lets you host signed Debian repositories, mirror upstream archives, and publish your own .apkg packages — all fully on-premise. Integrates seamlessly with AnduinOS for painless apt update &amp;&amp; apt install workflows across your entire fleet." xml:space="preserve">
+    <value>Το Apkg είναι μια δηλωτική πλατφόρμα αποθετηρίων APT που σας επιτρέπει να φιλοξενείτε υπογεγραμμένα αποθετήρια Debian, να καθρεπτίζετε αρχεία προέλευσης και να δημοσιεύετε τις δικές σας πακέτα .apkg — όλα εξ ολοκλήρου on-premise. Ολοκληρώνεται αβίαστα με το AnduinOS για άνετες ροές εργασιών apt update &amp;&amp; apt install σε ολόκληρο το σύνολο συσκευών σας.</value>
+  </data>
+  <data name="Architecture" xml:space="preserve">
+    <value>Αρχιτεκτονική</value>
+  </data>
+  <data name="Atomic Snapshots" xml:space="preserve">
+    <value>Ατομικά στιγμιότυπα</value>
+  </data>
+  <data name="Auto Updates on Reboot" xml:space="preserve">
+    <value>Αυτόματες Ενημερώσεις κατά την Επανεκκίνηση</value>
+  </data>
+  <data name="Boot &amp; Configure" xml:space="preserve">
+    <value>Εκκίνηση &amp; Ρύθμιση</value>
+  </data>
+  <data name="Boot from USB and auto-configure" xml:space="preserve">
+    <value>Έναρξη από USB και αυτοματοποιημένη ρύθμιση</value>
+  </data>
+  <data name="Brand Customisation" xml:space="preserve">
+    <value>Εξατομίκευση Εμπορικού Σήματος</value>
+  </data>
+  <data name="Built for business. Air-gapped by design." xml:space="preserve">
+    <value>Σχεδιασμένο για επιχειρήσεις. Απομονωμένο από τον κώδικα.</value>
+  </data>
+  <data name="Built on a rock-solid foundation. Designed for the enterprise." xml:space="preserve">
+    <value>Δημιουργημένο πάνω σε μια αξεπέραστη βάση. Σχεδιασμένο για τις επιχειρήσεις.</value>
+  </data>
+  <data name="Built on the same infrastructure that powers AnduinOS package delivery. Push updates to your entire fleet with a single command." xml:space="preserve">
+    <value>Δημιουργημένο στη ίδια υποδομή που υποστηρίζει την παράδοση πακέτων του AnduinOS. Αναπτύξτε ενημερώσεις σε όλο το στόλο σας με μία εντολή.</value>
+  </data>
+  <data name="Bulk operations across your entire fleet" xml:space="preserve">
+    <value>Μαζικές λειτουργίες σε όλο το σύγγραμμα συσκευών σας</value>
+  </data>
+  <data name="Community Site" xml:space="preserve">
+    <value>Ιστοσελίδα Κοινότητας</value>
+  </data>
+  <data name="Compatible with most x86 PCs manufactured in the last decade." xml:space="preserve">
+    <value>Συμβατό με τα περισσότερα PC x86 που κατασκευάστηκαν την τελευταία δεκαετία.</value>
+  </data>
+  <data name="Compliance-ready default configurations" xml:space="preserve">
+    <value>Προεπιλεγμένες ρυθμίσεις έτοιμες για συμμόρφωση</value>
+  </data>
+  <data name="Contact Enterprise Sales" xml:space="preserve">
+    <value>Επικοινωνία με το τμήμα πωλήσεων για επιχειρήσεις</value>
+  </data>
+  <data name="Contact Sales" xml:space="preserve">
+    <value>Επικοινωνήστε με τις Πωλήσεις</value>
+  </data>
+  <data name="Containerized" xml:space="preserve">
+    <value>Συμβατικοποιημένο</value>
+  </data>
+  <data name="Control and configure thousands of devices and policies efficiently from a single dashboard." xml:space="preserve">
+    <value>Ελέγξτε και διαμορφώστε χιλιάδες συσκευές και πολιτικές αποτελεσματικά από έναν ενιαίο πίνακα ελέγχου.</value>
+  </data>
+  <data name="Control, customize, and secure thousands of devices with enterprise tools built for scale." xml:space="preserve">
+    <value>Διαχειριστείτε, προσαρμόστε και ασφαλίστε χιλιάδες συσκευές με εργαλεία επιχειρήσεων που έχουν δημιουργηθεί για κλιμάκωση.</value>
+  </data>
+  <data name="Curated internal software catalog" xml:space="preserve">
+    <value>Καθορισμένος εσωτερικός καταλόγος λογισμικού</value>
+  </data>
+  <data name="Custom default wallpaper and themes" xml:space="preserve">
+    <value>Εξατομικευμένα προεπιλεγμένα φόντα οθόνης και θέματα</value>
+  </data>
+  <data name="Data stays on your servers. Authentication and authorization ensure only your team can access your metrics." xml:space="preserve">
+    <value>Τα δεδομένα παραμένουν στους διακομιστές σας. Η πιστοποίηση και η εξουσιοδότηση διασφαλίζουν ότι μόνο η ομάδα σας μπορεί να αποκτήσει πρόσβαση στα μετρήσεις σας.</value>
+  </data>
+  <data name="Declarative Packaging" xml:space="preserve">
+    <value>Δηλωτική Συσκευασία</value>
+  </data>
+  <data name="Default Browser" xml:space="preserve">
+    <value>Προεπιλεγμένος περιηγητής</value>
+  </data>
+  <data name="Default Filesystem" xml:space="preserve">
+    <value>Προεπιλεγμένο Σύστημα Αρχείων</value>
+  </data>
+  <data name="Deploy at scale, manage centrally, enjoy the enterprise edition!" xml:space="preserve">
+    <value>Επιployment σε μεγάλη κλίμακα, κεντρική διαχείριση, απολαύστε την έκδοση enterprise!</value>
+  </data>
+  <data name="Deploy interactive kiosks, information displays, and self-service terminals on standard PC hardware." xml:space="preserve">
+    <value>Εγκαταστήστε διαδραστικούς περίπτερα, οθόνες πληροφοριών και τερματικά αυτο εξυπηρέτησης σε στάνταρ υλικό PC.</value>
+  </data>
+  <data name="Deployment" xml:space="preserve">
+    <value>Εγκατάσταση</value>
+  </data>
+  <data name="Desktop Environment" xml:space="preserve">
+    <value>Περιβάλλον Εργασίας</value>
+  </data>
+  <data name="digital signage and kiosk terminals" xml:space="preserve">
+    <value>ηλεκτρονικά σημεία προβολής και τερματικά kiosk</value>
+  </data>
+  <data name="Disk Space" xml:space="preserve">
+    <value>Χώρος δίσκου</value>
+  </data>
+  <data name="Display Server" xml:space="preserve">
+    <value>Διακομιστής Προβολής</value>
+  </data>
+  <data name="Distribute your own software packages internally via standard apt protocol. Take control of your enterprise package ecosystem." xml:space="preserve">
+    <value>Διανέμετε τα δικά σας πακέτα λογισμικού εσωτερικά μέσω του τυπικού πρωτοκόλλου apt. Παρτε τον έλεγχο του οικοσυστήματος πακέτων της επιχείρησής σας.</value>
+  </data>
+  <data name="Docs" xml:space="preserve">
+    <value>Τεκμηρίωση</value>
+  </data>
+  <data name="Download" xml:space="preserve">
+    <value>Λήψη</value>
+  </data>
+  <data name="Download AnduinOS" xml:space="preserve">
+    <value>Λήψη του AnduinOS</value>
+  </data>
+  <data name="Ecological perfection" xml:space="preserve">
+    <value>Οικολογική τελειότητα</value>
+  </data>
+  <data name="End of Support" xml:space="preserve">
+    <value>Λήξη υποστήριξης</value>
+  </data>
+  <data name="Enroll" xml:space="preserve">
+    <value>Εγγραφή</value>
+  </data>
+  <data name="Enterprise" xml:space="preserve">
+    <value>Επιχειρήσεων</value>
+  </data>
+  <data name="Enterprise Services" xml:space="preserve">
+    <value>Επιχειρησιακές Υπηρεσίες</value>
+  </data>
+  <data name="Enterprise-grade" xml:space="preserve">
+    <value>Επιχειρησιακού επιπέδου</value>
+  </data>
+  <data name="Explore Apkg" xml:space="preserve">
+    <value>Εξερευνήστε το Apkg</value>
+  </data>
+  <data name="Explore StatHub" xml:space="preserve">
+    <value>Εξερευνήστε το StatHub</value>
+  </data>
+  <data name="Familiar UX" xml:space="preserve">
+    <value>Ξεκάθαρο περιβάλλον χρήστη</value>
+  </data>
+  <data name="Firmware" xml:space="preserve">
+    <value>Λογισμικό firmaware</value>
+  </data>
+  <data name="Flash" xml:space="preserve">
+    <value>Εγγραφή</value>
+  </data>
+  <data name="Free" xml:space="preserve">
+    <value>Δωρεάν</value>
+  </data>
+  <data name="Free Software" xml:space="preserve">
+    <value>Δωρεάν Λογισμικό</value>
+  </data>
+  <data name="Friendly interface" xml:space="preserve">
+    <value>Φιλικό περιβάλλον</value>
+  </data>
+  <data name="Fully On-Premise" xml:space="preserve">
+    <value>Πλήρως On-Premise</value>
+  </data>
+  <data name="Get the AnduinOS image from our site" xml:space="preserve">
+    <value>Λήψη της εικόνας AnduinOS από την ιστοσελίδα μας</value>
+  </data>
+  <data name="Get up-to-the-second updates on every AnduinOS device&apos;s CPU, memory, disk, and network usage." xml:space="preserve">
+    <value>Λάβετε ενημερώσεις σε πραγματικό χρόνο για τη χρήση CPU, μνήμης, δίσκου και δικτύου κάθε συσκευής AnduinOS.</value>
+  </data>
+  <data name="GPL-v3 License" xml:space="preserve">
+    <value>Άδεια GPL-v3</value>
+  </data>
+  <data name="Graphical applications are installed via Flatpak, and keep themselves separate from the base system. They also allow for fine-grained control over their permissions." xml:space="preserve">
+    <value>Τα γραφικά προγράμματα εγκαθίστανται μέσω Flatpak και παραμένουν απομονωμένα από το βασικό σύστημα. Επιπλέον, επιτρέπουν λεπτομερή έλεγχο των δικαιωμάτων τους.</value>
+  </data>
+  <data name="HDR Support" xml:space="preserve">
+    <value>Υποστήριξη HDR</value>
+  </data>
+  <data name="Image Size" xml:space="preserve">
+    <value>Μέγεθος εικόνας</value>
+  </data>
+  <data name="Init System" xml:space="preserve">
+    <value>Σύστημα Εκκίνησης</value>
+  </data>
+  <data name="Internal package distribution via apt" xml:space="preserve">
+    <value>Εσωτερική διανομή πακέτων μέσω apt</value>
+  </data>
+  <data name="Kiosk &amp; Digital Signage" xml:space="preserve">
+    <value>Kiosk &amp; Ψηφιακή Σήμανση</value>
+  </data>
+  <data name="Kiosk mode prevents unauthorized access. Users can only interact with your approved application, keeping your deployment secure." xml:space="preserve">
+    <value>Η λειτουργία Kiosk αποτρέπει την μη εξουσιοδοτημένη πρόσβαση. Οι χρήστες μπορούν να αλληλεπιδράσουν μόνο με την έγκριτη εφαρμογή σας, διατηρώντας ασφαλή την εγκατάστασή σας.</value>
+  </data>
+  <data name="Lightweight Agents" xml:space="preserve">
+    <value>Ελαφριοί Πράκτορες</value>
+  </data>
+  <data name="Linux Kernel" xml:space="preserve">
+    <value>Πυρήνας Linux</value>
+  </data>
+  <data name="Live Boot" xml:space="preserve">
+    <value>Άμεση Εκκίνηση</value>
+  </data>
+  <data name="Locked-down &amp; tamper-proof" xml:space="preserve">
+    <value>Ασφαλής και ανθεκτική</value>
+  </data>
+  <data name="Love AnduinOS?" xml:space="preserve">
+    <value>Αγαπάτε το AnduinOS;</value>
+  </data>
+  <data name="Low-overhead agents collect metrics without impacting your AnduinOS devices&apos; performance. Deploy in seconds with Docker." xml:space="preserve">
+    <value>Οι πράκτορες χαμηλού κόστους συλλέγουν μετρικές χωρίς να επηρεάζουν την απόδοση των συσκευών AnduinOS σας. Εγκαταστήστε σε δευτερόλεπτα με Docker.</value>
+  </data>
+  <data name="LTS Support" xml:space="preserve">
+    <value>Υποστήριξη LTS</value>
+  </data>
+  <data name="management for your fleet" xml:space="preserve">
+    <value>διαχείριση για το στόλο σας</value>
+  </data>
+  <data name="Minimal maintenance. Maximum stability." xml:space="preserve">
+    <value>Ελάχιστη συντήρηση. Μέγιστη σταθερότητα.</value>
+  </data>
+  <data name="Monitor thousands of AnduinOS devices from a single centralized dashboard. Scale as your fleet grows." xml:space="preserve">
+    <value>Παρακολουθήστε χιλιάδες συσκευές AnduinOS από ένα ενιαίο κεντρικό πίνακα ελέγχου. Κλιμακωθείτε καθώς η ομάδα συσκευών σας μεγαλώνει.</value>
+  </data>
+  <data name="Monitor your entire" xml:space="preserve">
+    <value>Εποπτεία ολόκληρου του</value>
+  </data>
+  <data name="Monitoring" xml:space="preserve">
+    <value>Παρακολούθηση</value>
+  </data>
+  <data name="Multi-Node" xml:space="preserve">
+    <value>Πολυ-κόμβος</value>
+  </data>
+  <data name="NVIDIA Graphics Support" xml:space="preserve">
+    <value>Υποστήριξη γραφικών NVIDIA</value>
+  </data>
+  <data name="Offline repository mirrors for air-gapped networks" xml:space="preserve">
+    <value>Εκτός σύνδεσης καθρέφτες αποθετηρίων για δίκτυα air-gapped</value>
+  </data>
+  <data name="On-premises Apkg" xml:space="preserve">
+    <value>Τοπικό Apkg</value>
+  </data>
+  <data name="Open Source" xml:space="preserve">
+    <value>Ανοικτού Κώδικα</value>
+  </data>
+  <data name="or" xml:space="preserve">
+    <value>ή</value>
+  </data>
+  <data name="Package Distribution" xml:space="preserve">
+    <value>Κατανομή Πακέτων</value>
+  </data>
+  <data name="Package Format" xml:space="preserve">
+    <value>Μορφή Πακέτου</value>
+  </data>
+  <data name="Package Manager" xml:space="preserve">
+    <value>Διαχειριστής Πακέτων</value>
+  </data>
+  <data name="Performance" xml:space="preserve">
+    <value>Επιδόσεις</value>
+  </data>
+  <data name="Ports" xml:space="preserve">
+    <value>Θύρες</value>
+  </data>
+  <data name="Pre-install company software packages" xml:space="preserve">
+    <value>Προεγκατάσταση πακέτων λογισμικού της εταιρείας</value>
+  </data>
+  <data name="Pricing" xml:space="preserve">
+    <value>Τιμολόγηση</value>
+  </data>
+  <data name="Privacy is no longer optional. It&apos;s essential. AnduinOS is designed to gather nothing from you. We don&apos;t track you. We don&apos;t profile you. We don&apos;t target you. You remain anonymous to the system." xml:space="preserve">
+    <value>Η ιδιωτικότητα δεν είναι πλέον επιλογή. Είναι απαραίτητη. Το AnduinOS έχει σχεδιαστεί να μην συλλέγει τίποτα από εσάς. Δεν σας παρακολουθούμε. Δεν δημιουργούμε προφίλ για εσάς. Δεν στοχεύουμε εσάς. Παραμένετε ανώνυμοι για το σύστημα.</value>
+  </data>
+  <data name="Processor" xml:space="preserve">
+    <value>Επεξεργαστής</value>
+  </data>
+  <data name="RAM" xml:space="preserve">
+    <value>Μνήμη RAM</value>
+  </data>
+  <data name="Ready to use" xml:space="preserve">
+    <value>Έτοιμο για χρήση</value>
+  </data>
+  <data name="Real-time" xml:space="preserve">
+    <value>Ενός λεπτού</value>
+  </data>
+  <data name="Real-time device health monitoring" xml:space="preserve">
+    <value>Παρακολούθηση υγείας συσκευών σε πραγματικό χρόνο</value>
+  </data>
+  <data name="Reasons" xml:space="preserve">
+    <value>Λόγοι</value>
+  </data>
+  <data name="Release Date" xml:space="preserve">
+    <value>Ημερομηνία Αποστολής</value>
+  </data>
+  <data name="Remote configuration and policy enforcement" xml:space="preserve">
+    <value>Απομακρυσμένη διαμόρφωση και επιβολή πολιτικών</value>
+  </data>
+  <data name="Remote content management" xml:space="preserve">
+    <value>Απομακρυσμένη διαχείριση περιεχομένου</value>
+  </data>
+  <data name="Replace system logo and boot screen" xml:space="preserve">
+    <value>Αντικατάσταση λογότυπου συστήματος και οθόνης εκκίνησης</value>
+  </data>
+  <data name="Resource Efficient" xml:space="preserve">
+    <value>Απόδοση Πόρων</value>
+  </data>
+  <data name="Role-based access control for IT teams" xml:space="preserve">
+    <value>Έλεγχος πρόσβασης βάσει ρόλων για ομάδες Πληροφορικής</value>
+  </data>
+  <data name="Root and privacy" xml:space="preserve">
+    <value>Root και απορρήτου</value>
+  </data>
+  <data name="Run your own APT infrastructure behind the firewall. No external dependencies, no proprietary agents — just standard apt." xml:space="preserve">
+    <value>Διαχειριστείτε τη δική σας υποδομή APT πίσω από το firewall. Χωρίς εξωτερικές εξαρτήσεις, χωρίς προπληρωμένους πράκτορες — μόνο το τυπικό apt.</value>
+  </data>
+  <data name="Runs smoothly on older devices. Extends hardware lifespan by being resource-efficient, so you don&apos;t need to buy new machines." xml:space="preserve">
+    <value>Λειτουργεί ομαλά σε παλαιότερες συσκευές. Αποδίδει μεγαλύτερη διάρκεια ζωής στο υλικό, καθώς είναι αποδοτικό ως προς τους πόρους, ώστε να μην χρειάζεται να αγοράσετε καινούργιες μηχανές.</value>
+  </data>
+  <data name="Screen" xml:space="preserve">
+    <value>Οθόνη</value>
+  </data>
+  <data name="Seamless AnduinOS Integration" xml:space="preserve">
+    <value>Απρόσκοπτη Ένταξη με το AnduinOS</value>
+  </data>
+  <data name="Secure" xml:space="preserve">
+    <value>Ασφαλές</value>
+  </data>
+  <data name="Secure Boot" xml:space="preserve">
+    <value>Ασφαλής Εκκίνηση</value>
+  </data>
+  <data name="Set up your system in under 5 minutes" xml:space="preserve">
+    <value>Ρυθμίστε το σύστημά σας σε λιγότερο από 5 λεπτά</value>
+  </data>
+  <data name="Ship software to every" xml:space="preserve">
+    <value>Διανέμεις λογισμικό σε κάθε</value>
+  </data>
+  <data name="Simple, user-friendly. Broad compatibility with virtually all PC hardware." xml:space="preserve">
+    <value>Απλό, φιλικό προς τον χρήστη. Ευρεία συμβατότητα με σχεδόν όλα τα υλικολογισμικά PC.</value>
+  </data>
+  <data name="Smaller image, friendly interface, unbeatable performance, safe and secure." xml:space="preserve">
+    <value>Μικρότερη εικόνα, φιλικό περιβάλλον, απαράμιλλη απόδοση, ασφαλές και αξιόπιστο.</value>
+  </data>
+  <data name="Source Code" xml:space="preserve">
+    <value>Πηγαίος Κώδικας</value>
+  </data>
+  <data name="Speedy Makeover" xml:space="preserve">
+    <value>Αυτοσυμπληρωμένο Επανασχεδιασμός</value>
+  </data>
+  <data name="Stable &amp; Modern" xml:space="preserve">
+    <value>Σταθερό &amp; Σύγχρονο</value>
+  </data>
+  <data name="StatHub Dashboard Screenshot" xml:space="preserve">
+    <value>Εικόνα οθόνης πίνακα ελέγχου StatHub</value>
+  </data>
+  <data name="StatHub is a simple, real-time server monitoring system designed for local deployment. Keep an eye on your entire AnduinOS infrastructure with intuitive dashboards and detailed metrics — all from a single pane of glass." xml:space="preserve">
+    <value>Το StatHub είναι ένα απλό σύστημα παρακολούθησης διακομιστών σε πραγματικό χρόνο, σχεδιασμένο για τοπική εγκατάσταση. Παρακολουθείτε ολόκληρη την υποδομή AnduinOS σας με διαισθητικά πίνακες ελέγχου και αναλυτικές μετρικές — όλα από ένα ενιαίο σημείο ελέγχου.</value>
+  </data>
+  <data name="Sync, sign, and promote atomically via rename(2). APT clients never see half-written metadata — only consistent, signed snapshots." xml:space="preserve">
+    <value>Συγχρονισμός, υπογραφή και προαγωγή ατομικά μέσω rename(2). Οι πελάτες APT δεν βλέπουν ποτέ μισογραφημένα metadata — μόνο σταθερά, υπογεγραμμένα στιγμιότυπα.</value>
+  </data>
+  <data name="System Requirements" xml:space="preserve">
+    <value>Απαιτήσεις Συστήματος</value>
+  </data>
+  <data name="System updates apply automatically when you restart. Zero maintenance windows — just reboot, and you&apos;re on the latest version." xml:space="preserve">
+    <value>Τα αναβαθμίσεις συστήματος εφαρμόζονται αυτόματα όταν επανεκκινείτε. Μηδενικά παράθυρα συντήρησης — απλώς επανεκκινήστε και θα είστε στην τελευταία έκδοση.</value>
+  </data>
+  <data name="Technical Specifications" xml:space="preserve">
+    <value>Τεχνικά Χαρακτηριστικά</value>
+  </data>
+  <data name="The GNOME-based desktop environment has beautiful interfaces and human-computer interactions that fit user habits, allowing you to quickly get started with AnduinOS without too much learning cost." xml:space="preserve">
+    <value>Το περιβάλλον εργασίας βασισμένο στο GNOME διαθέτει όμορφες διεπαφές και αλληλεπιδράσεις ανθρώπου-η υπολογιστή που ταιριάζουν στις συνήθειες των χρηστών, επιτρέποντάς σας να ξεκινήσετε γρήγορα με το AnduinOS χωρίς μεγάλο κόστος εκμάθησης.</value>
+  </data>
+  <data name="The ideal solution for" xml:space="preserve">
+    <value>Η ιδανική λύση για</value>
+  </data>
+  <data name="The ISO is just 2.4GB in size. Similar to Ubuntu, it is simple to install and can meet your daily needs without additional configuration or complicated operations." xml:space="preserve">
+    <value>Το ISO έχει μέγεθος μόνο 2,4 GB. Όπως και το Ubuntu, είναι απλό στην εγκατάσταση και μπορεί να καλύψει τις καθημερινές σας ανάγκες χωρίς επιπλέον διαμόρφωση ή περίπλοκες διαδικασίες.</value>
+  </data>
+  <data name="The operating system your enterprise needs — familiar, beautiful, stable, mature, and easy to manage. AnduinOS Enterprise is built on Linux 7.0, GNOME 50, and Ubuntu 26.04, keeping your team in a comfortable, productive environment." xml:space="preserve">
+    <value>Το λειτουργικό σύστημα που χρειάζεται η επιχείρησή σας — οικείο, όμορφο, σταθερό, ώριμο και εύκολο στη διαχείριση. Το AnduinOS Enterprise βασίζεται στο Linux 7.0, το GNOME 50 και το Ubuntu 26.04, διατηρώντας την ομάδα σας σε ένα άνετο και παραγωγικό περιβάλλον.</value>
+  </data>
+  <data name="Tired of your sluggish OS slowing you down? Switch to AnduinOS for instant speed and seamless performance." xml:space="preserve">
+    <value>Κοπιώσατε από το αργό λειτουργικό σας σύστημα που σας φρενάρει; Περνάτε στο AnduinOS για άμεση ταχύτητα και αβίαστη απόδοση.</value>
+  </data>
+  <data name="Transform any PC into a secure, managed kiosk. Our in-house kiosk content management suite is available now — try it today." xml:space="preserve">
+    <value>Μετατρέψτε οποιοδήποτε PC σε ένα ασφαλές, διαχειριζόμενο kiosk. Η ιδία σουίτα διαχείρισης περιεχομένου kiosk είναι διαθέσιμη τώρα — δοκιμάστε την σήμερα.</value>
+  </data>
+  <data name="Turn any screen into a kiosk" xml:space="preserve">
+    <value>Μετατρέψτε οποιαδήποτε οθόνη σε κέντρο εξυπηρέτησης</value>
+  </data>
+  <data name="Ubuntu Base" xml:space="preserve">
+    <value>Βάση Ubuntu</value>
+  </data>
+  <data name="UI Toolkit" xml:space="preserve">
+    <value>Σύνολο εργαλείων διεπαφής χρήστη</value>
+  </data>
+  <data name="Update content, push configurations, and monitor device health — all from the cloud. No need for on-site visits." xml:space="preserve">
+    <value>Ενημερώστε περιεχόμενο, αποστείλετε ρυθμίσεις και παρακολουθήστε την κατάσταση της συσκευής — όλα από το cloud. Χωρίς ανάγκη για επίσκεψη στο εξωτερικό χώρο.</value>
+  </data>
+  <data name="Version pinning and controlled rollouts" xml:space="preserve">
+    <value>Καθορισμός έκδοσης και ελεγχόμενες αναλήψεις</value>
+  </data>
+  <data name="Visit Community Site" xml:space="preserve">
+    <value>Επισκεφθείτε την Ιστοσελίδα της Κοινότητας</value>
+  </data>
+  <data name="Wayland Ready" xml:space="preserve">
+    <value>Έτοιμο για Wayland</value>
+  </data>
+  <data name="Why choose AnduinOS?" xml:space="preserve">
+    <value>Γιατί να επιλέξετε το AnduinOS;</value>
+  </data>
+  <data name="with Apkg" xml:space="preserve">
+    <value>με το Apkg</value>
+  </data>
+  <data name="With just a few clicks, you can have AnduinOS running on any machine. Enjoy automatic updates, built-in security, and remote management from the cloud — so once deployed, it just works." xml:space="preserve">
+    <value>Με μερικές μόνο κλικ, μπορείτε να τρέξετε το AnduinOS σε οποιονδήποτε υπολογιστή. Απολαύστε αυτόματες ενημερώσεις, ενσωματωμένη ασφάλεια και απομακρυσμένη διαχείριση από το cloud – οπότε μόλις τεθεί σε λειτουργία, απλώς δουλεύει.</value>
+  </data>
+  <data name="with StatHub" xml:space="preserve">
+    <value>με το StatHub</value>
+  </data>
+  <data name="Without Snap" xml:space="preserve">
+    <value>Χωρίς Snap</value>
+  </data>
+  <data name="Write the image to a USB drive" xml:space="preserve">
+    <value>Αποθηκεύστε την εικόνα σε μια μονάδα USB</value>
+  </data>
+
+</root>

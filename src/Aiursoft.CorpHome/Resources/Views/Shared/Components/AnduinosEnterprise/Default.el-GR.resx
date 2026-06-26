@@ -57,8 +57,14 @@
   <data name="IT teams can monitor the health of all endpoints and perform basic remote management." xml:space="preserve">
     <value>Οι ομάδες IT μπορούν να παρακολουθούν την υγεία όλων των τερματικών και να εκτελούν βασική απομακρυσμένη διαχείριση.</value>
   </data>
+  <data name="Learn about AnduinOS Enterprise" xml:space="preserve">
+    <value>Μάθετε περισσότερα για το AnduinOS Enterprise</value>
+  </data>
   <data name="Meet industry compliance requirements with auditable configurations and enterprise-grade controls." xml:space="preserve">
     <value>Πληρώστε τις απαιτήσεις συμμόρφωσης του κλάδου με ρυθμίσεις που μπορούν να ελεγχθούν και με έλεγχο επιπέδου επιχειρήσεων.</value>
+  </data>
+  <data name="On-premises Package Repository" xml:space="preserve">
+    <value>Αποθήκη Πακέτων Εγκατεστημένων επί Τόπου</value>
   </data>
   <data name="Private Package Repository" xml:space="preserve">
     <value>Ιδιωτικό Αποθετήριο Πακέτων</value>
