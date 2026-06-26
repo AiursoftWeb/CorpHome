@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="All Aiursoft servers are sourced from Voxihost. We help clients land on Voxihost infrastructure." xml:space="preserve">
+    <value>Όλοι οι διακομιστές της Aiursoft προέρχονται από τη Voxihost. Βοηθάμε τους πελάτες να εγκατασταθούν στην υποδομή της Voxihost.</value>
+  </data>
+  <data name="Complete Business Hosting" xml:space="preserve">
+    <value>Πλήρης Φιλοξενία Επιχειρήσεων</value>
+  </data>
+  <data name="Deep Collaboration" xml:space="preserve">
+    <value>Βαθιά Συνεργασία</value>
+  </data>
+  <data name="Paving the Way for Your Business." xml:space="preserve">
+    <value>Σχεδιάζοντας το δρόμο για την επιχείρησή σας.</value>
+  </data>
+  <data name="Strategic Partner" xml:space="preserve">
+    <value>Στρατηγικός Εταίρος</value>
+  </data>
+  <data name="Transparent &amp; Affordable" xml:space="preserve">
+    <value>Διαφανής &amp; Εύλογη Τιμολόγηση</value>
+  </data>
+  <data name="Voxihost" xml:space="preserve">
+    <value>Voxihost</value>
+  </data>
+  <data name="Voxihost Cloud Infrastructure" xml:space="preserve">
+    <value>Υποδομή Cloud της Voxihost</value>
+  </data>
+  <data name="Voxihost offers transparent, cost-effective cloud and generously sponsors Aiursoft&apos;s Open-source work." xml:space="preserve">
+    <value>Η Voxihost προσφέρει διαφανή και οικονομικά αποτελεσματικό cloud και υποστηρίζει γενναιόδωρα την ανάπτυξη έργων ανοιχτού λογισμικού της Aiursoft.</value>
+  </data>
+  <data name="With reliable cloud infrastructure, your business can grow reliably alongside Aiursoft." xml:space="preserve">
+    <value>Με αξιόπιστη υποδομή cloud, η επιχείρησή σας μπορεί να αναπτυχθεί αξιόπιστα μαζί με την Aiursoft.</value>
+  </data>
+  <data name="With Voxihost, Aiursoft helps enterprises host Email, authentication, cloud drives, employee portals, monitoring, and AI." xml:space="preserve">
+    <value>Με τη Voxihost, η Aiursoft βοηθά τις επιχειρήσεις να φιλοξενούν Email, πιστοποίηση, cloud drives, portals υπαλλήλων, παρακολούθηση και AI.</value>
+  </data>
+
+</root>

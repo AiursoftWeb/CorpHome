@@ -36,6 +36,9 @@
   <data name="AnduinOS Enterprise (Desktop OS)" xml:space="preserve">
     <value>AnduinOS Enterprise (Επιτραπέζιο Λειτουργικό Σύστημα)</value>
   </data>
+  <data name="Authentik uses an Open Core model. The Community Edition is licensed under the permissive MIT license, which allows commercial use, modification, and redistribution. We provide the Community Edition (MIT) as part of Substratum. The Enterprise Edition requires a separate commercial license from Authentik." xml:space="preserve">
+    <value>Το Authentik χρησιμοποιεί το μοντέλο Open Core. Η Community Edition διανέμεται υπό την ελεύθερη άδεια MIT, η οποία επιτρέπει εμπορική χρήση, τροποποίηση και αναδιανομή. Παρέχουμε την Community Edition (MIT) ως μέρος του Substratum. Η Enterprise Edition απαιτεί ξεχωριστή εμπορική άδεια από την Authentik.</value>
+  </data>
   <data name="Business hours email support" xml:space="preserve">
     <value>Υποστήριξη μέσω email κατά τις ώρες εργασίας</value>
   </data>
@@ -93,6 +96,12 @@
   <data name="Fleet device policy management" xml:space="preserve">
     <value>Διαχείριση πολιτικών συσκευών στόλου</value>
   </data>
+  <data name="GitLab is a trademark of GitLab Inc. Aiursoft provides deployment, hosting, and integration services for GitLab — we are not affiliated with or endorsed by GitLab Inc. The GitLab Community Edition (CE) is MIT-licensed and can be deployed freely. The GitLab Enterprise Edition (EE) requires a separate license purchased from GitLab Inc. We can assist you with procuring the appropriate GitLab EE license, or you may choose to remove this item from your plan." xml:space="preserve">
+    <value>Το GitLab είναι εμπορικό σήμα της GitLab Inc. Η Aiursoft παρέχει υπηρεσίες ενοποίησης, φιλοξενίας και ενσωμάτωσης για το GitLab — δεν συνδέουμε με ή δεν υποστηρίζεται από την GitLab Inc. Η κοινότητα έκδοση (CE) του GitLab είναι άδειας MIT και μπορεί να ενοποιηθεί ελεύθερα. Η GitLab Enterprise Edition (EE) απαιτεί μια ξεχωριστή άδεια αγοράς από την GitLab Inc. Μπορούμε να σας βοηθήσουμε με την προμήθεια της κατάλληλης άδειας GitLab EE, ή μπορείτε να διαγράψετε αυτό το στοιχείο από το πρόγραμμά σας.</value>
+  </data>
+  <data name="Hacker" xml:space="preserve">
+    <value>Hacker</value>
+  </data>
   <data name="Hardware key enforcement" xml:space="preserve">
     <value>Επιβολή κλειδιού υλικού</value>
   </data>
@@ -113,6 +122,9 @@
   </data>
   <data name="Local LLM API Gateway" xml:space="preserve">
     <value>Πύλη API Τοπικού LLM</value>
+  </data>
+  <data name="Mailcow is open-source software (GPL-3.0). Aiursoft provides managed hosting, deployment, and integration services. Any custom modifications provided during your on-premise deployment are fully compliant with and distributed under the GPL-3.0 license." xml:space="preserve">
+    <value>Το Mailcow είναι λογισμικό ανοιχτού κώδικα (GPL-3.0). Η Aiursoft παρέχει υπηρεσίες διαχειριζόμενου φιλοξενίας, ανάπτυξης και ενσωμάτωσης. Οποιαδήποτε προσαρμογή παρέχεται κατά την τοπική σας εγκατάσταση είναι πλήρως συμβατή και διανέμεται υπό την άδεια GPL-3.0.</value>
   </data>
   <data name="Managed endpoint OS" xml:space="preserve">
     <value>Διαχειριζόμενο λειτουργικό σύστημα τερματικού</value>
@@ -135,6 +147,9 @@
   <data name="Multi-site &amp; HA capable" xml:space="preserve">
     <value>Πολλαπλών τοποθεσιών &amp; ικανό για HA</value>
   </data>
+  <data name="Nextcloud is a trademark of Nextcloud GmbH. Aiursoft is an independent integration provider. To ensure enterprise-grade stability and strict adherence to the AGPL-3.0 license, we deploy the official, unmodified Nextcloud releases and seamlessly connect your stack via standard APIs, OIDC/SAML, and official plugins." xml:space="preserve">
+    <value>Το Nextcloud είναι εμπορικό σήμα της Nextcloud GmbH. Η Aiursoft είναι ανεξάρτητος πάροχος ολοκλήρωσης. Για να εξασφαλίσουμε σταθερότητα επιπέδου επιχειρήσεων και αυστηρή συμμόρφωση με την άδεια AGPL-3.0, εγκαθιστούμε τις επίσημες, αμετάβλητες εκδόσεις Nextcloud και συνδέουμε αβίαστα το περιβάλλον σας μέσω τυπικών APIs, OIDC/SAML και επίσημων πρόσθετων.</value>
+  </data>
   <data name="Not included" xml:space="preserve">
     <value>Δεν περιλαμβάνεται</value>
   </data>
@@ -146,6 +161,9 @@
   </data>
   <data name="On-premise / Air-gapped Deployment" xml:space="preserve">
     <value>Εγκατάσταση τοπικά / Εγκατάσταση σε περιβάλλον χωρίς σύνδεση</value>
+  </data>
+  <data name="On-premises APT Repository" xml:space="preserve">
+    <value>Τοπικό Αποθετήριο APT</value>
   </data>
   <data name="Online Code Execution" xml:space="preserve">
     <value>Προγραμματισμός Κώδικα στο Διαδίκτυο</value>
@@ -177,6 +195,9 @@
   <data name="Scale &amp; Support" xml:space="preserve">
     <value>Κλιμάκωση &amp; Υποστήριξη</value>
   </data>
+  <data name="Self-hosted APT repository with .apkg publishing" xml:space="preserve">
+    <value>Αποθήκη APT self-hosted με δημοσίευση .apkg</value>
+  </data>
   <data name="Self-hosted LLM inference gateway" xml:space="preserve">
     <value>Πύλη εγγενούς εκτέλεσης LLM</value>
   </data>
@@ -207,6 +228,9 @@
   <data name="Talk to an Architect" xml:space="preserve">
     <value>Μιλήστε με έναν Αρχιτέκτονα</value>
   </data>
+  <data name="Team Blog" xml:space="preserve">
+    <value>Ιστολόγιο Ομάδας</value>
+  </data>
   <data name="Team Voting" xml:space="preserve">
     <value>Ψηφοφορία Ομάδας</value>
   </data>
@@ -221,6 +245,9 @@
   </data>
   <data name="What&apos;s Included" xml:space="preserve">
     <value>Τι περιλαμβάνεται</value>
+  </data>
+  <data name="Workspace Boards" xml:space="preserve">
+    <value>Πίνακες Χώρου Εργασίας</value>
   </data>
   <data name="Zero Trust Yubikey Auth" xml:space="preserve">
     <value>Zero Trust Yubikey Auth</value>
