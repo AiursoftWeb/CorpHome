@@ -51,6 +51,9 @@
   <data name="AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
     <value>AnduinOS là bản phân phối Linux tùy chỉnh dựa trên Ubuntu, mang đến trải nghiệm quen thuộc và dễ sử dụng cho bất kỳ ai chuyển sang Linux.</value>
   </data>
+  <data name="AnduinOS is an open-source project under the GPL-v3 license — you can view, modify, and redistribute the source code freely. The Enterprise Edition charges only for services and licensing, never restricting your access to the source." xml:space="preserve">
+    <value>AnduinOS là một dự án mã nguồn mở theo giấy phép GPL-v3 — bạn có thể xem, sửa đổi và phân phối lại mã nguồn một cách tự do. Bản Enterprise Edition chỉ tính phí cho dịch vụ và giấy phép, không bao giờ hạn chế quyền truy cập mã nguồn của bạn.</value>
+  </data>
   <data name="AnduinOS is an open-source project. Following the GPL-v3 license, you can view the source code, modify it, and redistribute it. It&apos;s free and will always be free." xml:space="preserve">
     <value>AnduinOS là một dự án nguồn mở. Tuân theo giấy phép GPL-v3, bạn có thể xem mã nguồn, sửa đổi và phân phối lại nó. Nó miễn phí và sẽ luôn miễn phí.</value>
   </data>
@@ -74,6 +77,9 @@
   </data>
   <data name="Architecture" xml:space="preserve">
     <value>Kiến trúc</value>
+  </data>
+  <data name="At just 2.4 GB, the ISO is lightweight and fast to deploy across your fleet. The live environment lets your IT team quickly boot, repair, and diagnose systems without installing." xml:space="preserve">
+    <value>Với dung lượng chỉ 2,4 GB, file ISO nhẹ nhàng và triển khai nhanh chóng trên toàn bộ đội máy tính của bạn. Môi trường Live cho phép đội IT của bạn khởi động, sửa chữa và chẩn đoán hệ thống một cách nhanh chóng mà không cần cài đặt.</value>
   </data>
   <data name="Atomic Snapshots" xml:space="preserve">
     <value>Tức thì Chụp Ảnh</value>
@@ -192,6 +198,9 @@
   <data name="Enterprise" xml:space="preserve">
     <value>Doanh nghiệp</value>
   </data>
+  <data name="Enterprise Package Control" xml:space="preserve">
+    <value>Kiểm soát Gói Doanh nghiệp</value>
+  </data>
   <data name="Enterprise Services" xml:space="preserve">
     <value>Dịch vụ Doanh nghiệp</value>
   </data>
@@ -242,6 +251,9 @@
   </data>
   <data name="HDR Support" xml:space="preserve">
     <value>Hỗ trợ HDR</value>
+  </data>
+  <data name="Host your own internal Apkg repository behind your firewall. Selectively push updates, enforce compliance policies, and distribute custom in-house software — all while keeping every device consistently up to date, fully offline." xml:space="preserve">
+    <value>Tự xây dựng kho Apkg nội bộ của bạn sau tường lửa. Đẩy cập nhật có chọn lọc, áp dụng chính sách tuân thủ và phân phối phần mềm nội bộ tùy chỉnh — tất cả trong khi giữ cho mọi thiết bị luôn được cập nhật nhất quán, hoàn toàn ngoại tuyến.</value>
   </data>
   <data name="Image Size" xml:space="preserve">
     <value>Kích thước镜像</value>
@@ -473,6 +485,9 @@
   </data>
   <data name="Wayland Ready" xml:space="preserve">
     <value>Sẵn sàng Wayland</value>
+  </data>
+  <data name="Why choose AnduinOS Enterprise Edition?" xml:space="preserve">
+    <value>Tại sao chọn AnduinOS Enterprise Edition?</value>
   </data>
   <data name="Why choose AnduinOS?" xml:space="preserve">
     <value>Tại sao chọn AnduinOS?</value>

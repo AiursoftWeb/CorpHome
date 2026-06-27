@@ -51,6 +51,9 @@
   <data name="AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
     <value>AnduinOS est une distribution Linux personnalisée basée sur Ubuntu qui offre une expérience familière et facile à utiliser pour toute personne passant à Linux.</value>
   </data>
+  <data name="AnduinOS is an open-source project under the GPL-v3 license — you can view, modify, and redistribute the source code freely. The Enterprise Edition charges only for services and licensing, never restricting your access to the source." xml:space="preserve">
+    <value>AnduinOS est un projet open source sous licence GPL-v3 : vous pouvez consulter, modifier et redistribuer le code source librement. L’Édition Entreprise facture uniquement les services et les licences, sans jamais restreindre votre accès au code source.</value>
+  </data>
   <data name="AnduinOS is an open-source project. Following the GPL-v3 license, you can view the source code, modify it, and redistribute it. It&apos;s free and will always be free." xml:space="preserve">
     <value>AnduinOS est un projet open source. Conformément à la licence GPL-v3, vous pouvez consulter, modifier et redistribuer le code source. Il est gratuit et le restera toujours.</value>
   </data>
@@ -74,6 +77,9 @@
   </data>
   <data name="Architecture" xml:space="preserve">
     <value>Architecture</value>
+  </data>
+  <data name="At just 2.4 GB, the ISO is lightweight and fast to deploy across your fleet. The live environment lets your IT team quickly boot, repair, and diagnose systems without installing." xml:space="preserve">
+    <value>Ne faisant que 2,4 Go, l&apos;image ISO est légère et se déploie rapidement sur l&apos;ensemble de votre parc informatique. L&apos;environnement live permet à votre équipe informatique de démarrer, réparer et diagnostiquer les systèmes rapidement, sans installation.</value>
   </data>
   <data name="Atomic Snapshots" xml:space="preserve">
     <value>Instantanés atomiques</value>
@@ -192,6 +198,9 @@
   <data name="Enterprise" xml:space="preserve">
     <value>Entreprise</value>
   </data>
+  <data name="Enterprise Package Control" xml:space="preserve">
+    <value>Gestion des paquets entreprise</value>
+  </data>
   <data name="Enterprise Services" xml:space="preserve">
     <value>Services Entreprise</value>
   </data>
@@ -242,6 +251,9 @@
   </data>
   <data name="HDR Support" xml:space="preserve">
     <value>Prise en charge du HDR</value>
+  </data>
+  <data name="Host your own internal Apkg repository behind your firewall. Selectively push updates, enforce compliance policies, and distribute custom in-house software — all while keeping every device consistently up to date, fully offline." xml:space="preserve">
+    <value>Hébergez votre propre dépôt Apkg interne derrière votre pare-feu. Pouvez les mises à jour de manière sélective, appliquez des politiques de conformité et distribuez des logiciels personnalisés internes, tout en maintenant tous les appareils régulièrement à jour, en mode entièrement hors ligne.</value>
   </data>
   <data name="Image Size" xml:space="preserve">
     <value>Taille de l&apos;image</value>
@@ -473,6 +485,9 @@
   </data>
   <data name="Wayland Ready" xml:space="preserve">
     <value>Prêt pour Wayland</value>
+  </data>
+  <data name="Why choose AnduinOS Enterprise Edition?" xml:space="preserve">
+    <value>Pourquoi choisir AnduinOS Enterprise Edition ?</value>
   </data>
   <data name="Why choose AnduinOS?" xml:space="preserve">
     <value>Pourquoi choisir AnduinOS ?</value>

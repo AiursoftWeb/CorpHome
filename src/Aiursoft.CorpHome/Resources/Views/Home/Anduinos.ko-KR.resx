@@ -51,6 +51,9 @@
   <data name="AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
     <value>AnduinOS는 Ubuntu 기반의 커스텀 Linux 배포판으로, Linux로 전환하는 모든 사용자에게 익숙하고 사용하기 쉬운 환경을 제공합니다.</value>
   </data>
+  <data name="AnduinOS is an open-source project under the GPL-v3 license — you can view, modify, and redistribute the source code freely. The Enterprise Edition charges only for services and licensing, never restricting your access to the source." xml:space="preserve">
+    <value>AnduinOS는 GPL-v3 라이선스에 따른 오픈 소스 프로젝트로, 소스 코드를 자유롭게 조회, 수정 및 재배포할 수 있습니다. 엔터프라이즈 에디션은 서비스 및 라이선싱에만 대한 비용을 청구하며, 소스에 대한 접근을 결코 제한하지 않습니다.</value>
+  </data>
   <data name="AnduinOS is an open-source project. Following the GPL-v3 license, you can view the source code, modify it, and redistribute it. It&apos;s free and will always be free." xml:space="preserve">
     <value>AnduinOS는 오픈 소스 프로젝트입니다. GPL-v3 라이선스를 따르므로 소스 코드를 확인하고 수정하며 재배포할 수 있습니다. 무료이며 영원히 무료입니다.</value>
   </data>
@@ -74,6 +77,9 @@
   </data>
   <data name="Architecture" xml:space="preserve">
     <value>아키텍처</value>
+  </data>
+  <data name="At just 2.4 GB, the ISO is lightweight and fast to deploy across your fleet. The live environment lets your IT team quickly boot, repair, and diagnose systems without installing." xml:space="preserve">
+    <value>mere 2.4GB의 ISO는 경량이며 그룹 전체에 빠르게 배포할 수 있습니다. 라이브 환경은 IT팀이 설치 없이 시스템을 빠르게 부팅하고 복구 및 진단할 수 있게 해줍니다.</value>
   </data>
   <data name="Atomic Snapshots" xml:space="preserve">
     <value>원자적 스냅샷</value>
@@ -195,6 +201,9 @@
   <data name="Enterprise" xml:space="preserve">
     <value>기업용</value>
   </data>
+  <data name="Enterprise Package Control" xml:space="preserve">
+    <value>엔터프라이즈 패키지 제어</value>
+  </data>
   <data name="Enterprise Services" xml:space="preserve">
     <value>엔터프라이즈 서비스</value>
   </data>
@@ -245,6 +254,9 @@
   </data>
   <data name="HDR Support" xml:space="preserve">
     <value>HDR 지원</value>
+  </data>
+  <data name="Host your own internal Apkg repository behind your firewall. Selectively push updates, enforce compliance policies, and distribute custom in-house software — all while keeping every device consistently up to date, fully offline." xml:space="preserve">
+    <value>방화벽 뒤에 자체 내부 Apkg 저장소를 구축하세요. 업데이트를 선택적으로 푸시하고, 규정 준수 정책을 강제 적용하며, 맞춤형 사내 소프트웨어를 배포하되 모든 장치를 완전한 오프라인 환경에서도 일관되게 최신 상태로 유지하세요.</value>
   </data>
   <data name="Image Size" xml:space="preserve">
     <value>이미지 크기</value>
@@ -479,6 +491,9 @@
   </data>
   <data name="Wayland Ready" xml:space="preserve">
     <value>Wayland 준비 완료</value>
+  </data>
+  <data name="Why choose AnduinOS Enterprise Edition?" xml:space="preserve">
+    <value>왜 AnduinOS Enterprise Edition을 선택해야 할까요?</value>
   </data>
   <data name="Why choose AnduinOS?" xml:space="preserve">
     <value>AnduinOS를 선택해야 하는 이유는 무엇인가요?</value>
