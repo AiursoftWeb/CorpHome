@@ -24,6 +24,9 @@
   <data name="Address" xml:space="preserve">
     <value>地址</value>
   </data>
+  <data name="Branch" xml:space="preserve">
+    <value>分公司</value>
+  </data>
   <data name="Aiursoft is built to last a century. We are just getting started. Every decision we make serves a blueprint measured in decades, not quarters. We resist the urge to chase short-term hype or fleeting trends. Our choices are deliberate, steady, and patient — because the work that truly matters takes time, and we intend to be here for all of it." xml:space="preserve">
     <value>Aiursoft 旨在經久不衰，傳承百年。我們才剛起步。我們的每個決定都服務於以十年為單位的藍圖，而非以季度為單位。我們抵制追隨短期熱潮或流行情緒的衝動。我們的選擇務實、穩健且從容——因為真正有意義的工作需要時間，而我們意圖全程參與。</value>
   </data>
