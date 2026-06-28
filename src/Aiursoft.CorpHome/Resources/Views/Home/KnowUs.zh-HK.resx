@@ -24,9 +24,6 @@
   <data name="Address" xml:space="preserve">
     <value>地址</value>
   </data>
-  <data name="Branch" xml:space="preserve">
-    <value>分公司</value>
-  </data>
   <data name="Aiursoft is built to last a century. We are just getting started. Every decision we make serves a blueprint measured in decades, not quarters. We resist the urge to chase short-term hype or fleeting trends. Our choices are deliberate, steady, and patient — because the work that truly matters takes time, and we intend to be here for all of it." xml:space="preserve">
     <value>Aiursoft 旨在經久不衰，傳承百年。我們才剛起步。我們的每個決定都服務於以十年為單位的藍圖，而非以季度為單位。我們抵制追隨短期熱潮或流行情緒的衝動。我們的選擇務實、穩健且從容——因為真正有意義的工作需要時間，而我們意圖全程參與。</value>
   </data>
@@ -35,6 +32,9 @@
   </data>
   <data name="Aiursoft&apos;s story is closely linked to the communities that shape us, including the global community of open source contributors and enthusiasts who are part of our team. Since 2025, we have built an operating system called AnduinOS — designed to be clean, simple, and accessible to everyone." xml:space="preserve">
     <value>Aiursoft 的故事與塑造我們的社群息息相關，包括構成我們團隊一部分的全球開源貢獻者與愛好者社群。自 2025 年起，我們開發了一個名為 AnduinOS 的作業系統——旨在乾淨、簡潔，並讓所有人都能輕鬆使用。</value>
+  </data>
+  <data name="Branch" xml:space="preserve">
+    <value>分公司</value>
   </data>
   <data name="Chapter 1" xml:space="preserve">
     <value>第1章</value>
@@ -86,6 +86,9 @@
   </data>
   <data name="Where to find us" xml:space="preserve">
     <value>尋找我們的位置</value>
+  </data>
+  <data name="苏州艾软科技有限公司" xml:space="preserve">
+    <value>蘇州艾軟科技有限公司</value>
   </data>
 
 </root>
