@@ -48,6 +48,9 @@
   <data name="AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
     <value>AnduinOS, Linux&apos;e geçiş yapan herkes için tanıdık ve kolay kullanılabilir bir deneyim sunan, özel olarak hazırlanmış Ubuntu tabanlı bir Linux dağıtımıdır.</value>
   </data>
+  <data name="AnduinOS is an open-source project under the GPL-v3 license — you can view, modify, and redistribute the source code freely. The Enterprise Edition charges only for services and licensing, never restricting your access to the source." xml:space="preserve">
+    <value>AnduinOS, GPL-v3 lisansı altında açık kaynaklı bir projedir; kaynak kodu serbestçe görüntüleyebilir, değiştirebilir ve yeniden dağıtabilirsiniz. Kurumsal Sürüm yalnızca hizmetler ve lisanslama için ücret alır, asla kaynak koduna erişiminizi kısıtlamaz.</value>
+  </data>
   <data name="AnduinOS is an open-source project. Following the GPL-v3 license, you can view the source code, modify it, and redistribute it. It&apos;s free and will always be free." xml:space="preserve">
     <value>AnduinOS açık kaynaklı bir projedir. GPL-v3 lisansına uygun olarak kaynak kodunu görüntüleyebilir, değiştirebilir ve yeniden dağıtabilirsiniz. Ücretsizdir ve her zaman ücretsiz kalacaktır.</value>
   </data>
@@ -68,6 +71,9 @@
   </data>
   <data name="Architecture" xml:space="preserve">
     <value>Mimari</value>
+  </data>
+  <data name="At just 2.4 GB, the ISO is lightweight and fast to deploy across your fleet. The live environment lets your IT team quickly boot, repair, and diagnose systems without installing." xml:space="preserve">
+    <value>Sadece 2,4 GB ile ISO hafiftir ve donanım envanterinizde hızlıca dağıtılabilir. Canlı ortam, BT ekibinizin sistemleri yüklemeden hızlı şekilde açmasını, tamir etmesini ve teşhisini yapmasını sağlar.</value>
   </data>
   <data name="Atomic Snapshots" xml:space="preserve">
     <value>Atomik Anlık Görüntüler</value>
@@ -186,6 +192,9 @@
   <data name="Enterprise" xml:space="preserve">
     <value>Kurumsal</value>
   </data>
+  <data name="Enterprise Package Control" xml:space="preserve">
+    <value>Kurumsal Paket Yönetimi</value>
+  </data>
   <data name="Enterprise Services" xml:space="preserve">
     <value>Kurumsal Hizmetler</value>
   </data>
@@ -233,6 +242,9 @@
   </data>
   <data name="HDR Support" xml:space="preserve">
     <value>HDR Desteği</value>
+  </data>
+  <data name="Host your own internal Apkg repository behind your firewall. Selectively push updates, enforce compliance policies, and distribute custom in-house software — all while keeping every device consistently up to date, fully offline." xml:space="preserve">
+    <value>Güvenlik duvarınızın arkasında kendi dahili Apkg paket depolamanızı barındırın. Güncellemeleri seçici şekilde dağıtın, uyumluluk politikalarını uygulayın ve özel iç yazılımları dağıtın; tüm bunları, her cihazı tamamen çevrimdışıyken bile sürekli güncel tutarak yapın.</value>
   </data>
   <data name="Image Size" xml:space="preserve">
     <value>Görsel Boyutu</value>
@@ -464,6 +476,9 @@
   </data>
   <data name="Wayland Ready" xml:space="preserve">
     <value>Wayland Hazır</value>
+  </data>
+  <data name="Why choose AnduinOS Enterprise Edition?" xml:space="preserve">
+    <value>Neden AnduinOS Enterprise Edition?</value>
   </data>
   <data name="Why choose AnduinOS?" xml:space="preserve">
     <value>Neden AnduinOS&apos;u seçmelisiniz?</value>

@@ -48,6 +48,9 @@
   <data name="AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
     <value>AnduinOS adalah distribusi Linux berbasis Ubuntu yang disesuaikan, menawarkan pengalaman yang familiar dan mudah digunakan bagi siapa pun yang beralih ke Linux.</value>
   </data>
+  <data name="AnduinOS is an open-source project under the GPL-v3 license — you can view, modify, and redistribute the source code freely. The Enterprise Edition charges only for services and licensing, never restricting your access to the source." xml:space="preserve">
+    <value>AnduinOS adalah proyek open-source di bawah lisensi GPL-v3 — Anda dapat melihat, memodifikasi, dan mendistribusikan kembali kode sumber secara bebas. Edisi Enterprise hanya membebankan biaya untuk layanan dan lisensi, tidak pernah membatasi akses Anda ke sumbernya.</value>
+  </data>
   <data name="AnduinOS is an open-source project. Following the GPL-v3 license, you can view the source code, modify it, and redistribute it. It&apos;s free and will always be free." xml:space="preserve">
     <value>AnduinOS adalah proyek sumber terbuka. Dengan lisensi GPL-v3, Anda dapat melihat kode sumbernya, memodifikasinya, dan mendistribusikannya kembali. Ini gratis dan akan selalu gratis.</value>
   </data>
@@ -68,6 +71,9 @@
   </data>
   <data name="Architecture" xml:space="preserve">
     <value>Arsitektur</value>
+  </data>
+  <data name="At just 2.4 GB, the ISO is lightweight and fast to deploy across your fleet. The live environment lets your IT team quickly boot, repair, and diagnose systems without installing." xml:space="preserve">
+    <value>Dengan ukuran hanya 2,4 GB, ISO ini ringan dan cepat untuk diterapkan di seluruh armada perangkat Anda. Lingkungan live memungkinkan tim IT Anda dengan cepat melakukan boot, perbaikan, dan diagnosis sistem tanpa perlu instalasi.</value>
   </data>
   <data name="Atomic Snapshots" xml:space="preserve">
     <value>Snapshot Atomik</value>
@@ -183,6 +189,9 @@
   <data name="Enterprise" xml:space="preserve">
     <value>Perusahaan</value>
   </data>
+  <data name="Enterprise Package Control" xml:space="preserve">
+    <value>Kendali Paket Perusahaan</value>
+  </data>
   <data name="Enterprise Services" xml:space="preserve">
     <value>Layanan Perusahaan</value>
   </data>
@@ -230,6 +239,9 @@
   </data>
   <data name="HDR Support" xml:space="preserve">
     <value>Dukungan HDR</value>
+  </data>
+  <data name="Host your own internal Apkg repository behind your firewall. Selectively push updates, enforce compliance policies, and distribute custom in-house software — all while keeping every device consistently up to date, fully offline." xml:space="preserve">
+    <value>Inangkan repositori Apkg internal Anda sendiri di balik firewall. Dorong pembaruan secara selektif, terapkan kebijakan kepatuhan, dan distribusikan perangkat lunak khusus internal — semua sambil menjaga setiap perangkat tetap terkini secara konsisten, sepenuhnya offline.</value>
   </data>
   <data name="Image Size" xml:space="preserve">
     <value>Ukuran Image</value>
@@ -458,6 +470,9 @@
   </data>
   <data name="Wayland Ready" xml:space="preserve">
     <value>Mendukung Wayland</value>
+  </data>
+  <data name="Why choose AnduinOS Enterprise Edition?" xml:space="preserve">
+    <value>Mengapa memilih AnduinOS Enterprise Edition?</value>
   </data>
   <data name="Why choose AnduinOS?" xml:space="preserve">
     <value>Mengapa memilih AnduinOS?</value>

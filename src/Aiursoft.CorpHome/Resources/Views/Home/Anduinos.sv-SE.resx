@@ -48,6 +48,9 @@
   <data name="AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
     <value>AnduinOS är en anpassad Linux-distribution baserad på Ubuntu som erbjuder en bekant och lättanvänd upplevelse för alla som byter till Linux.</value>
   </data>
+  <data name="AnduinOS is an open-source project under the GPL-v3 license — you can view, modify, and redistribute the source code freely. The Enterprise Edition charges only for services and licensing, never restricting your access to the source." xml:space="preserve">
+    <value>AnduinOS är ett projekt med öppen källkod som omfattas av licensen GPL-v3 – du kan fritt granska, modifiera och distribuera källkoden. Enterprise Edition tar endast betalt för tjänster och licenser, och begränsar aldrig din åtkomst till källkoden.</value>
+  </data>
   <data name="AnduinOS is an open-source project. Following the GPL-v3 license, you can view the source code, modify it, and redistribute it. It&apos;s free and will always be free." xml:space="preserve">
     <value>AnduinOS är ett projekt med öppen källkod. Enligt GPL-v3-licensen kan du granska källkoden, modifiera den och sprida den vidare. Det är gratis och kommer alltid att vara gratis.</value>
   </data>
@@ -68,6 +71,9 @@
   </data>
   <data name="Architecture" xml:space="preserve">
     <value>Arkitektur</value>
+  </data>
+  <data name="At just 2.4 GB, the ISO is lightweight and fast to deploy across your fleet. The live environment lets your IT team quickly boot, repair, and diagnose systems without installing." xml:space="preserve">
+    <value>Med endast 2,4 GB är ISO-filen lättviktig och snabb att distribuera över hela din enhetsflotta. Den live-miljö som erbjuds gör det möjligt för ditt IT-team att snabbt starta, reparerar och diagnostisera system utan installation.</value>
   </data>
   <data name="Atomic Snapshots" xml:space="preserve">
     <value>Atomiska ögonblicksbilder</value>
@@ -183,6 +189,9 @@
   <data name="Enterprise" xml:space="preserve">
     <value>Företag</value>
   </data>
+  <data name="Enterprise Package Control" xml:space="preserve">
+    <value>Företagspaketstyrning</value>
+  </data>
   <data name="Enterprise Services" xml:space="preserve">
     <value>Företagstjänster</value>
   </data>
@@ -233,6 +242,9 @@
   </data>
   <data name="HDR Support" xml:space="preserve">
     <value>HDR-stöd</value>
+  </data>
+  <data name="Host your own internal Apkg repository behind your firewall. Selectively push updates, enforce compliance policies, and distribute custom in-house software — all while keeping every device consistently up to date, fully offline." xml:space="preserve">
+    <value>Värd ditt eget interna Apkg-repo bakom din brandvägg. Pusha uppdateringar selektivt, genomför efterlevnadspolicyer och distribuera anpassad intern programvara – allt samtidigt som du håller varje enhet konsekvent uppdaterad, helt offline.</value>
   </data>
   <data name="Image Size" xml:space="preserve">
     <value>Bildstorlek</value>
@@ -461,6 +473,9 @@
   </data>
   <data name="Wayland Ready" xml:space="preserve">
     <value>Wayland-kompatibel</value>
+  </data>
+  <data name="Why choose AnduinOS Enterprise Edition?" xml:space="preserve">
+    <value>Varför välja AnduinOS Enterprise Edition?</value>
   </data>
   <data name="Why choose AnduinOS?" xml:space="preserve">
     <value>Varför välja AnduinOS?</value>

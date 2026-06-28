@@ -51,6 +51,9 @@
   <data name="AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
     <value>AnduinOS 是一個基於 Ubuntu 的定制 Linux 發行版，為任何轉向 Linux 的用戶提供熟悉且易用的體驗。</value>
   </data>
+  <data name="AnduinOS is an open-source project under the GPL-v3 license — you can view, modify, and redistribute the source code freely. The Enterprise Edition charges only for services and licensing, never restricting your access to the source." xml:space="preserve">
+    <value>AnduinOS 係一個基於 GPL-v3 授權嘅開源項目——你可以自由瀏覽、修改同重新分發源碼。企業版僅就服務同授權收費，絕不限制你存取源碼。</value>
+  </data>
   <data name="AnduinOS is an open-source project. Following the GPL-v3 license, you can view the source code, modify it, and redistribute it. It&apos;s free and will always be free." xml:space="preserve">
     <value>AnduinOS 是一個開源項目。遵循 GPL-v3 授權協議，您可以查看、修改並重新分發源代碼。它完全免費，且將永遠保持免費。</value>
   </data>
@@ -74,6 +77,9 @@
   </data>
   <data name="Architecture" xml:space="preserve">
     <value>架構</value>
+  </data>
+  <data name="At just 2.4 GB, the ISO is lightweight and fast to deploy across your fleet. The live environment lets your IT team quickly boot, repair, and diagnose systems without installing." xml:space="preserve">
+    <value>ISO 僅 2.4 GB，輕量簡便，能快速部署於整個機隊。即時環境讓您的 IT 團隊無需安裝即可快速啟動、修復及診斷系統。</value>
   </data>
   <data name="Atomic Snapshots" xml:space="preserve">
     <value>原子快照</value>
@@ -195,6 +201,9 @@
   <data name="Enterprise" xml:space="preserve">
     <value>企業</value>
   </data>
+  <data name="Enterprise Package Control" xml:space="preserve">
+    <value>企業套件控制</value>
+  </data>
   <data name="Enterprise Services" xml:space="preserve">
     <value>企業服務</value>
   </data>
@@ -245,6 +254,9 @@
   </data>
   <data name="HDR Support" xml:space="preserve">
     <value>HDR 支援</value>
+  </data>
+  <data name="Host your own internal Apkg repository behind your firewall. Selectively push updates, enforce compliance policies, and distribute custom in-house software — all while keeping every device consistently up to date, fully offline." xml:space="preserve">
+    <value>在防火牆後方託管您自己的內部 Apkg 儲存庫。選擇性地推送更新、執行合規政策，並分發自定義的內部軟件——同時保持所有設備在完全離線的狀態下始終保持最新。</value>
   </data>
   <data name="Image Size" xml:space="preserve">
     <value>映像大小</value>
@@ -479,6 +491,9 @@
   </data>
   <data name="Wayland Ready" xml:space="preserve">
     <value>支援 Wayland</value>
+  </data>
+  <data name="Why choose AnduinOS Enterprise Edition?" xml:space="preserve">
+    <value>點解要揀 AnduinOS 企業版？</value>
   </data>
   <data name="Why choose AnduinOS?" xml:space="preserve">
     <value>點解要揀 AnduinOS？</value>
