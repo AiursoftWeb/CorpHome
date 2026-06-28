@@ -33,6 +33,9 @@
   <data name="Aiursoft&apos;s story is closely linked to the communities that shape us, including the global community of open source contributors and enthusiasts who are part of our team. Since 2025, we have built an operating system called AnduinOS — designed to be clean, simple, and accessible to everyone." xml:space="preserve">
     <value>Istoria Aiursoft este strâns legată de comunitățile care ne modelează, inclusiv comunitatea globală de contribuitori și entuziaști open source care fac parte din echipa noastră. Începând cu 2025, am dezvoltat un sistem de operare numit AnduinOS — creat pentru a fi curat, simplu și accesibil tuturor.</value>
   </data>
+  <data name="Branch" xml:space="preserve">
+    <value>Succursală</value>
+  </data>
   <data name="Chapter 1" xml:space="preserve">
     <value>Capitolul 1</value>
   </data>
@@ -83,6 +86,9 @@
   </data>
   <data name="Where to find us" xml:space="preserve">
     <value>Unde ne găsiți</value>
+  </data>
+  <data name="苏州艾软科技有限公司" xml:space="preserve">
+    <value>Suzhou Aiursoft Technology Co., Ltd.</value>
   </data>
 
 </root>

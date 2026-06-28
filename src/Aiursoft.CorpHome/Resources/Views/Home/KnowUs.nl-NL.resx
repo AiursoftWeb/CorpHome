@@ -33,6 +33,9 @@
   <data name="Aiursoft&apos;s story is closely linked to the communities that shape us, including the global community of open source contributors and enthusiasts who are part of our team. Since 2025, we have built an operating system called AnduinOS — designed to be clean, simple, and accessible to everyone." xml:space="preserve">
     <value>Het verhaal van Aiursoft is nauw verbonden met de gemeenschappen die ons vormgeven, waaronder de wereldwijde gemeenschap van open-source bijdragers en enthousiastelingen die deel uitmaken van ons team. Sinds 2025 hebben we een besturingssysteem gebouwd genaamd AnduinOS – ontworpen om schoon, simpel en toegankelijk te zijn voor iedereen.</value>
   </data>
+  <data name="Branch" xml:space="preserve">
+    <value>Vestiging</value>
+  </data>
   <data name="Chapter 1" xml:space="preserve">
     <value>Hoofdstuk 1</value>
   </data>
@@ -83,6 +86,9 @@
   </data>
   <data name="Where to find us" xml:space="preserve">
     <value>Waar te vinden</value>
+  </data>
+  <data name="苏州艾软科技有限公司" xml:space="preserve">
+    <value>Suzhou Aiursoft Technology Co., Ltd.</value>
   </data>
 
 </root>
