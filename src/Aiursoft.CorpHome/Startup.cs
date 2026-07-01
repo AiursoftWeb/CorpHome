@@ -17,6 +17,7 @@ using System.Diagnostics.CodeAnalysis;
 using Aiursoft.Canon.TaskQueue;
 using Aiursoft.Canon.BackgroundJobs;
 using Aiursoft.Canon.ScheduledTasks;
+using Edi.Captcha;
 
 namespace Aiursoft.CorpHome;
 
@@ -53,6 +54,9 @@ public class Startup : IWebStartup
         services.AddHttpClient();
         services.AddAssemblyDependencies(typeof(Startup).Assembly);
         services.AddSingleton<NavigationState<Startup>>();
+
+        // Captcha
+        services.AddStatelessCaptcha();
 
         // Background job queue
         services.AddTaskQueueEngine();

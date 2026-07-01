@@ -1,9 +1,10 @@
 using System.ComponentModel.DataAnnotations;
 using Aiursoft.UiStack.Layout;
+using Edi.Captcha;
 
 namespace Aiursoft.CorpHome.Models.HomeViewModels;
 
-public class ContactViewModel : UiStackLayoutViewModel
+public class ContactViewModel : UiStackLayoutViewModel, ICaptchableWithToken
 {
     public ContactViewModel()
     {
@@ -42,6 +43,13 @@ public class ContactViewModel : UiStackLayoutViewModel
     [EmailAddress(ErrorMessage = "The {0} is not a valid email address.")]
     [Display(Name = "Email")]
     public string Email { get; set; } = string.Empty;
+
+    [Required(ErrorMessage = "The verification code is required.")]
+    [StringLength(4, MinimumLength = 4, ErrorMessage = "The verification code must be 4 characters.")]
+    [Display(Name = "Verification Code")]
+    public string CaptchaCode { get; set; } = string.Empty;
+
+    public string CaptchaToken { get; set; } = string.Empty;
 
     [Required(ErrorMessage = "The {0} is required.")]
     [Display(Name = "I agree to receive information about Aiursoft's products and services.")]

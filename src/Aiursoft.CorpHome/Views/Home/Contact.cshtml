@@ -70,6 +70,19 @@
                                     <span asp-validation-for="ServicesProvided" class="text-danger"></span>
                                 </div>
 
+                                <div class="col-12">
+                                    <label asp-for="CaptchaCode" class="form-label"></label>
+                                    <div class="input-group">
+                                        <img id="img-captcha" src="" alt="Captcha" class="border rounded-start" style="height: 38px;" />
+                                        <button type="button" class="btn btn-outline-secondary" onclick="refreshCaptcha()" title="Refresh captcha">
+                                            <i class="fas fa-sync-alt"></i>
+                                        </button>
+                                        <input asp-for="CaptchaCode" class="form-control" placeholder="Enter code" autocomplete="off" maxlength="4" />
+                                    </div>
+                                    <span asp-validation-for="CaptchaCode" class="text-danger"></span>
+                                    <input type="hidden" asp-for="CaptchaToken" id="captcha-token" />
+                                </div>
+
                                 <div class="col-12 mt-4">
                                     <div class="form-check">
                                         <input asp-for="AgreeToInformation" class="form-check-input" />
@@ -93,5 +106,23 @@
         </div>
     </div>
 </section>
+
+<script>
+    async function refreshCaptcha() {
+        try {
+            const response = await fetch('/get-captcha-image');
+            const data = await response.json();
+            document.getElementById('captcha-token').value = data.token;
+            document.getElementById('img-captcha').src = `data:image/png;base64,${data.imageBase64}`;
+            document.getElementById('CaptchaCode').value = '';
+        } catch (error) {
+            console.error('Error refreshing captcha:', error);
+        }
+    }
+
+    document.addEventListener('DOMContentLoaded', function () {
+        refreshCaptcha();
+    });
+</script>
 
 <vc:marketing-footer></vc:marketing-footer>
