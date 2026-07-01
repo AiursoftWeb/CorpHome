@@ -54,6 +54,15 @@
   <data name="The {0} is required." xml:space="preserve">
     <value>Kenttä {0} on pakollinen.</value>
   </data>
+  <data name="The verification code is required." xml:space="preserve">
+    <value>Vahvistuskoodi on pakollinen.</value>
+  </data>
+  <data name="The verification code must be 4 characters." xml:space="preserve">
+    <value>Vahvistuskoodin on oltava 4 merkkiä pitkä.</value>
+  </data>
+  <data name="Verification Code" xml:space="preserve">
+    <value>Vahvistuskoodi</value>
+  </data>
   <data name="What services do you provide?" xml:space="preserve">
     <value>Mitä palveluita tarjoatte?</value>
   </data>

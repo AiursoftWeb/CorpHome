@@ -54,6 +54,15 @@
   <data name="The {0} is required." xml:space="preserve">
     <value>{0} เป็นข้อบังคับ</value>
   </data>
+  <data name="The verification code is required." xml:space="preserve">
+    <value>จำเป็นต้องกรอหัสยืนยัน</value>
+  </data>
+  <data name="The verification code must be 4 characters." xml:space="preserve">
+    <value>รหัสยืนยันต้องมีความยาว 4 ตัวอักษร</value>
+  </data>
+  <data name="Verification Code" xml:space="preserve">
+    <value>รหัสยืนยันตัวตน</value>
+  </data>
   <data name="What services do you provide?" xml:space="preserve">
     <value>บริการอะไรที่คุณให้บริการบ้าง?</value>
   </data>

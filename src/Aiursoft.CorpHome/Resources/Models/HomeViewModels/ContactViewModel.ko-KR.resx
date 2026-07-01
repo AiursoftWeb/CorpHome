@@ -54,6 +54,15 @@
   <data name="The {0} is required." xml:space="preserve">
     <value>{0}(이)가 필요합니다.</value>
   </data>
+  <data name="The verification code is required." xml:space="preserve">
+    <value>인증 코드를 입력해야 합니다.</value>
+  </data>
+  <data name="The verification code must be 4 characters." xml:space="preserve">
+    <value>인증 코드는 4자여야 합니다.</value>
+  </data>
+  <data name="Verification Code" xml:space="preserve">
+    <value>확인 코드</value>
+  </data>
   <data name="What services do you provide?" xml:space="preserve">
     <value>어떤 서비스를 제공하시나요?</value>
   </data>

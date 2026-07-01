@@ -54,6 +54,15 @@
   <data name="The {0} is required." xml:space="preserve">
     <value>{0} krävs.</value>
   </data>
+  <data name="The verification code is required." xml:space="preserve">
+    <value>Bekräftelseskoden är obligatorisk.</value>
+  </data>
+  <data name="The verification code must be 4 characters." xml:space="preserve">
+    <value>Verifieringskoden måste vara 4 tecken lång.</value>
+  </data>
+  <data name="Verification Code" xml:space="preserve">
+    <value>Bekräftelsekod</value>
+  </data>
   <data name="What services do you provide?" xml:space="preserve">
     <value>Vilka tjänster erbjuder ni?</value>
   </data>
