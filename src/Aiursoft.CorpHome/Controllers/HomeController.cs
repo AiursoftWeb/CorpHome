@@ -2,12 +2,13 @@ using Aiursoft.CorpHome.Entities;
 using Aiursoft.CorpHome.Models.HomeViewModels;
 using Aiursoft.CorpHome.Services;
 using Aiursoft.WebTools.Attributes;
+using Edi.Captcha;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Aiursoft.CorpHome.Controllers;
 
 [LimitPerMin]
-public class HomeController(TemplateDbContext dbContext) : Controller
+public class HomeController(TemplateDbContext dbContext, IStatelessCaptcha captcha) : Controller
 {
     public IActionResult Index()
     {
@@ -52,10 +53,26 @@ public class HomeController(TemplateDbContext dbContext) : Controller
         return this.SimpleView(new ContactViewModel());
     }
 
+    [Route("get-captcha-image")]
+    public IActionResult GetCaptchaImage()
+    {
+        var result = captcha.GenerateCaptcha(100, 36);
+        return Json(new
+        {
+            token = result.Token,
+            imageBase64 = Convert.ToBase64String(result.ImageBytes)
+        });
+    }
+
     [HttpPost]
     [ValidateAntiForgeryToken]
     public async Task<IActionResult> Contact(ContactViewModel model)
     {
+        if (!captcha.Validate(model.CaptchaCode, model.CaptchaToken))
+        {
+            ModelState.AddModelError(nameof(model.CaptchaCode), "The verification code is incorrect. Please try again.");
+        }
+
         if (!model.AgreeToPrivacy)
         {
             ModelState.AddModelError(nameof(model.AgreeToPrivacy), "You must agree to the Terms of Service and Privacy Policy to submit this form.");
