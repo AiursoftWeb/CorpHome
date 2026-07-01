@@ -56,7 +56,7 @@ public class HomeController(TemplateDbContext dbContext, IStatelessCaptcha captc
     [Route("get-captcha-image")]
     public IActionResult GetCaptchaImage()
     {
-        var result = captcha.GenerateCaptcha(100, 36);
+        var result = captcha.GenerateCaptcha();
         return Json(new
         {
             token = result.Token,
