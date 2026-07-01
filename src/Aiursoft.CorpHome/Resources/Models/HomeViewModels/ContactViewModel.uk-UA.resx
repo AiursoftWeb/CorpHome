@@ -54,6 +54,15 @@
   <data name="The {0} is required." xml:space="preserve">
     <value>Поле {0} є обов&apos;язковим.</value>
   </data>
+  <data name="The verification code is required." xml:space="preserve">
+    <value>Код підтвердження є обов&apos;язковим.</value>
+  </data>
+  <data name="The verification code must be 4 characters." xml:space="preserve">
+    <value>Код верифікації має містити 4 символи.</value>
+  </data>
+  <data name="Verification Code" xml:space="preserve">
+    <value>Код перевірки</value>
+  </data>
   <data name="What services do you provide?" xml:space="preserve">
     <value>Які послуги ви надаєте?</value>
   </data>

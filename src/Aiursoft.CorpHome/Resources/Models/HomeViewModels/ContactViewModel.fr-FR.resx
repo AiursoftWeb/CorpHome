@@ -54,6 +54,15 @@
   <data name="The {0} is required." xml:space="preserve">
     <value>Le champ {0} est obligatoire.</value>
   </data>
+  <data name="The verification code is required." xml:space="preserve">
+    <value>Le code de vérification est obligatoire.</value>
+  </data>
+  <data name="The verification code must be 4 characters." xml:space="preserve">
+    <value>Le code de vérification doit comporter 4 caractères.</value>
+  </data>
+  <data name="Verification Code" xml:space="preserve">
+    <value>Code de vérification</value>
+  </data>
   <data name="What services do you provide?" xml:space="preserve">
     <value>Quels services proposez-vous ?</value>
   </data>
