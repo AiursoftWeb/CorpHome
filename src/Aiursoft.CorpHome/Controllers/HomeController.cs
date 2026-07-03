@@ -1,4 +1,3 @@
-using System.Text.RegularExpressions;
 using Aiursoft.CorpHome.Configuration;
 using Aiursoft.CorpHome.Entities;
 using Aiursoft.CorpHome.Models.HomeViewModels;
