@@ -9,5 +9,5 @@ public class IndexViewModel : UiStackLayoutViewModel
         PageTitle = "Home";
     }
 
-    public string? Metas { get; set; }
+    public string? BaiduKey { get; set; }
 }

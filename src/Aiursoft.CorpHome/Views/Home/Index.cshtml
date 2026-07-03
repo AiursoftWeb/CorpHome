@@ -2,9 +2,9 @@
 @section styles {
     <link rel="stylesheet" href="~/styles/site.css" xmlns="http://www.w3.org/1999/html"/>
     <link rel="stylesheet" href="~/styles/marketing.css" xmlns="http://www.w3.org/1999/html"/>
-    @if (!string.IsNullOrWhiteSpace(Model.Metas))
+    @if (!string.IsNullOrWhiteSpace(Model.BaiduKey))
     {
-        @Html.Raw(Model.Metas)
+        <meta name="baidu-site-verification" content="@Model.BaiduKey" />
     }
 }
 

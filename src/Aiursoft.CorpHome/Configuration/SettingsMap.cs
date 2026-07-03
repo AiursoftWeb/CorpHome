@@ -18,7 +18,7 @@ public class SettingsMap
     public const string ShowPartnerChopinsight = "ShowPartnerChopinsight";
     public const string ShowPartnerEgret = "ShowPartnerEgret";
     public const string ShowPartnerAoji = "ShowPartnerAoji";
-    public const string CustomMetaTags = "CustomMetaTags";
+    public const string BaiduKey = "BaiduKey";
 
     public class FakeLocalizer
     {
@@ -146,9 +146,9 @@ public class SettingsMap
         },
         new GlobalSettingDefinition
         {
-            Key = CustomMetaTags,
-            Name = Localizer["Custom Meta Tags"],
-            Description = Localizer["Custom <meta> elements added to the <head> of every page. One <meta> tag per line. Example:\n<meta name=\"description\" content=\"Aiursoft Corporation\" />\n<meta property=\"og:title\" content=\"Aiursoft\" />"],
+            Key = BaiduKey,
+            Name = Localizer["Baidu Verification Key"],
+            Description = Localizer["The verification key for Baidu site verification. Will be added as <meta name=\"baidu-site-verification\" content=\"...\" /> in the page head."],
             Type = SettingType.Text,
             DefaultValue = ""
         }
