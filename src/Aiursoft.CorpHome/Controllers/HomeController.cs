@@ -1,3 +1,5 @@
+using System.Text.RegularExpressions;
+using Aiursoft.CorpHome.Configuration;
 using Aiursoft.CorpHome.Entities;
 using Aiursoft.CorpHome.Models.HomeViewModels;
 using Aiursoft.CorpHome.Services;
@@ -8,12 +10,63 @@ using Microsoft.AspNetCore.Mvc;
 namespace Aiursoft.CorpHome.Controllers;
 
 [LimitPerMin]
-public class HomeController(TemplateDbContext dbContext, IStatelessCaptcha captcha) : Controller
+public partial class HomeController(TemplateDbContext dbContext, IStatelessCaptcha captcha, GlobalSettingsService globalSettings) : Controller
 {
-    public IActionResult Index()
+    public async Task<IActionResult> Index()
     {
-        return this.SimpleView(new IndexViewModel());
+        var rawMetas = await globalSettings.GetSettingValueAsync(SettingsMap.CustomMetaTags);
+        var model = new IndexViewModel
+        {
+            Metas = SanitizeMetaTags(rawMetas)
+        };
+        return this.SimpleView(model);
     }
+
+    private static string? SanitizeMetaTags(string? raw)
+    {
+        if (string.IsNullOrWhiteSpace(raw)) return null;
+
+        var safeTags = new List<string>();
+        foreach (Match match in MetaTagRegex.Matches(raw))
+        {
+            var sanitized = SanitizeSingleMeta(match.Value);
+            if (sanitized != null)
+                safeTags.Add(sanitized);
+        }
+        return safeTags.Count > 0 ? string.Join("\n", safeTags) : null;
+    }
+
+    private static readonly HashSet<string> AllowedMetaAttributes =
+        ["name", "property", "content", "charset", "http-equiv"];
+
+    private static readonly HashSet<string> DangerousProtocols =
+        ["javascript:", "data:text/html", "vbscript:"];
+
+    private static string? SanitizeSingleMeta(string tag)
+    {
+        var attrs = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase);
+        foreach (Match attr in AttributeRegex.Matches(tag))
+        {
+            var key = attr.Groups[1].Value.ToLowerInvariant();
+            var value = attr.Groups[2].Value;
+
+            if (!AllowedMetaAttributes.Contains(key)) return null;
+            if (DangerousProtocols.Any(p => value.ToLowerInvariant().Contains(p))) return null;
+
+            attrs[key] = value;
+        }
+
+        if (!attrs.ContainsKey("content") && !attrs.ContainsKey("charset")) return null;
+
+        var parts = attrs.Select(kv => $"{kv.Key}=\"{System.Net.WebUtility.HtmlEncode(kv.Value)}\"");
+        return $"<meta {string.Join(" ", parts)} />";
+    }
+
+    private static readonly Regex MetaTagRegex =
+        new(@"<meta\b[^>]*/>", RegexOptions.IgnoreCase | RegexOptions.Singleline | RegexOptions.Compiled);
+
+    private static readonly Regex AttributeRegex =
+        new(@"(\w[\w-]*)\s*=\s*""([^""]*)""", RegexOptions.IgnoreCase | RegexOptions.Compiled);
 
     public IActionResult Substratum()
     {

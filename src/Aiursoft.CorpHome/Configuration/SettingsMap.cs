@@ -18,6 +18,7 @@ public class SettingsMap
     public const string ShowPartnerChopinsight = "ShowPartnerChopinsight";
     public const string ShowPartnerEgret = "ShowPartnerEgret";
     public const string ShowPartnerAoji = "ShowPartnerAoji";
+    public const string CustomMetaTags = "CustomMetaTags";
 
     public class FakeLocalizer
     {
@@ -142,6 +143,14 @@ public class SettingsMap
             Description = Localizer["Show Aoji Airlines in the trusted partners section."],
             Type = SettingType.Bool,
             DefaultValue = "False"
+        },
+        new GlobalSettingDefinition
+        {
+            Key = CustomMetaTags,
+            Name = Localizer["Custom Meta Tags"],
+            Description = Localizer["Custom <meta> elements added to the <head> of every page. One <meta> tag per line. Example:\n<meta name=\"description\" content=\"Aiursoft Corporation\" />\n<meta property=\"og:title\" content=\"Aiursoft\" />"],
+            Type = SettingType.Text,
+            DefaultValue = ""
         }
     };
 }
