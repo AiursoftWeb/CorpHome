@@ -10,7 +10,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace Aiursoft.CorpHome.Controllers;
 
 [LimitPerMin]
-public partial class HomeController(TemplateDbContext dbContext, IStatelessCaptcha captcha, GlobalSettingsService globalSettings) : Controller
+public class HomeController(TemplateDbContext dbContext, IStatelessCaptcha captcha, GlobalSettingsService globalSettings) : Controller
 {
     public async Task<IActionResult> Index()
     {
