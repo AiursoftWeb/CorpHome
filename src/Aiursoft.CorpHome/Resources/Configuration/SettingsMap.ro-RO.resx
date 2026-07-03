@@ -33,6 +33,9 @@
   <data name="Allow users to adjust their nickname in the profile management page." xml:space="preserve">
     <value>Permite utilizatorilor să-și ajusteze nickname-ul în pagina de gestionare a profilului.</value>
   </data>
+  <data name="Baidu Verification Key" xml:space="preserve">
+    <value>Cheia de verificare Baidu</value>
+  </data>
   <data name="Brand Home URL" xml:space="preserve">
     <value>URL pagină principală marcă</value>
   </data>
@@ -113,6 +116,9 @@
   </data>
   <data name="The name of the project displayed in the frontend." xml:space="preserve">
     <value>Numele proiectului afișat în interfața frontend</value>
+  </data>
+  <data name="The verification key for Baidu site verification. Will be added as &lt;meta name=\&quot;baidu-site-verification\&quot; content=\&quot;...\&quot; /&gt; in the page head." xml:space="preserve">
+    <value>Cheia de verificare pentru verificarea site-ului Baidu. Va fi adăugată ca &lt;meta name=&quot;baidu-site-verification&quot; content=&quot;...&quot; /&gt; în antetul paginii.</value>
   </data>
 
 </root>
