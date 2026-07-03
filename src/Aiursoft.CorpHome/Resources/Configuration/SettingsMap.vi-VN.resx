@@ -33,6 +33,9 @@
   <data name="Allow users to adjust their nickname in the profile management page." xml:space="preserve">
     <value>Cho phép người dùng điều chỉnh biệt danh của họ trên trang quản lý hồ sơ.</value>
   </data>
+  <data name="Baidu Verification Key" xml:space="preserve">
+    <value>Khóa xác thực Baidu</value>
+  </data>
   <data name="Brand Home URL" xml:space="preserve">
     <value>URL trang chủ thương hiệu</value>
   </data>
@@ -113,6 +116,9 @@
   </data>
   <data name="The name of the project displayed in the frontend." xml:space="preserve">
     <value>Tên dự án được hiển thị trên giao diện người dùng</value>
+  </data>
+  <data name="The verification key for Baidu site verification. Will be added as &lt;meta name=\&quot;baidu-site-verification\&quot; content=\&quot;...\&quot; /&gt; in the page head." xml:space="preserve">
+    <value>Khóa xác minh cho việc xác minh trang web Baidu. Sẽ được thêm vào phần head của trang dưới dạng &lt;meta name=\&quot;baidu-site-verification\&quot; content=\&quot;...\&quot; /&gt;.</value>
   </data>
 
 </root>

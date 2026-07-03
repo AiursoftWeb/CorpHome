@@ -33,6 +33,9 @@
   <data name="Allow users to adjust their nickname in the profile management page." xml:space="preserve">
     <value>프로필 관리 페이지에서 사용자가 닉네임을 수정할 수 있도록 허용합니다.</value>
   </data>
+  <data name="Baidu Verification Key" xml:space="preserve">
+    <value>Baidu 인증 키</value>
+  </data>
   <data name="Brand Home URL" xml:space="preserve">
     <value>브랜드 홈 URL</value>
   </data>
@@ -113,6 +116,9 @@
   </data>
   <data name="The name of the project displayed in the frontend." xml:space="preserve">
     <value>프론트엔드에 표시되는 프로젝트 이름</value>
+  </data>
+  <data name="The verification key for Baidu site verification. Will be added as &lt;meta name=\&quot;baidu-site-verification\&quot; content=\&quot;...\&quot; /&gt; in the page head." xml:space="preserve">
+    <value>Baidu 사이트 인증을 위한 인증 키입니다. 페이지 헤더에 &lt;meta name=\&quot;baidu-site-verification\&quot; content=\&quot;...\&quot; /&gt; 태그로 추가됩니다.</value>
   </data>
 
 </root>

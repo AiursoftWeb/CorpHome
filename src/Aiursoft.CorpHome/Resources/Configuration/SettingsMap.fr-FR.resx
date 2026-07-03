@@ -33,6 +33,9 @@
   <data name="Allow users to adjust their nickname in the profile management page." xml:space="preserve">
     <value>Autoriser les utilisateurs à modifier leur surnom sur la page de gestion du profil.</value>
   </data>
+  <data name="Baidu Verification Key" xml:space="preserve">
+    <value>Clé de vérification Baidu</value>
+  </data>
   <data name="Brand Home URL" xml:space="preserve">
     <value>URL de la page d&apos;accueil de la marque</value>
   </data>
@@ -113,6 +116,9 @@
   </data>
   <data name="The name of the project displayed in the frontend." xml:space="preserve">
     <value>Le nom du projet affiché dans l&apos;interface utilisateur.</value>
+  </data>
+  <data name="The verification key for Baidu site verification. Will be added as &lt;meta name=\&quot;baidu-site-verification\&quot; content=\&quot;...\&quot; /&gt; in the page head." xml:space="preserve">
+    <value>La clé de vérification pour la vérification du site Baidu. Sera ajoutée en tant que &lt;meta name=\&quot;baidu-site-verification\&quot; content=\&quot;...\&quot; /&gt; dans l&apos;en-tête de la page.</value>
   </data>
 
 </root>

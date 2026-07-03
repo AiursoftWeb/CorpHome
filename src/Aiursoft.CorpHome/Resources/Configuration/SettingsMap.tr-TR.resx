@@ -33,6 +33,9 @@
   <data name="Allow users to adjust their nickname in the profile management page." xml:space="preserve">
     <value>Kullanıcıların profil yönetimi sayfasında takma isimlerini ayarlamasına izin ver.</value>
   </data>
+  <data name="Baidu Verification Key" xml:space="preserve">
+    <value>Baidu Doğrulama Anahtarı</value>
+  </data>
   <data name="Brand Home URL" xml:space="preserve">
     <value>Marka Ana Sayfa URL&apos;si</value>
   </data>
@@ -113,6 +116,9 @@
   </data>
   <data name="The name of the project displayed in the frontend." xml:space="preserve">
     <value>Frontende görüntülenen proje adı.</value>
+  </data>
+  <data name="The verification key for Baidu site verification. Will be added as &lt;meta name=\&quot;baidu-site-verification\&quot; content=\&quot;...\&quot; /&gt; in the page head." xml:space="preserve">
+    <value>Baidu site doğrulaması için doğrulama anahtarı. Sayfa başlığına &lt;meta name=\&quot;baidu-site-verification\&quot; content=\&quot;...\&quot; /&gt; olarak eklenecektir.</value>
   </data>
 
 </root>

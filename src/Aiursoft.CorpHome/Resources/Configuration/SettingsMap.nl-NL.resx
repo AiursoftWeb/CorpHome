@@ -33,6 +33,9 @@
   <data name="Allow users to adjust their nickname in the profile management page." xml:space="preserve">
     <value>Gebruikers toestaan om hun bijnaam aan te passen op de pagina voor profielbeheer.</value>
   </data>
+  <data name="Baidu Verification Key" xml:space="preserve">
+    <value>Baidu-verificatiecode</value>
+  </data>
   <data name="Brand Home URL" xml:space="preserve">
     <value>Brand Home URL</value>
   </data>
@@ -113,6 +116,9 @@
   </data>
   <data name="The name of the project displayed in the frontend." xml:space="preserve">
     <value>De naam van het project dat wordt weergegeven in de frontend.</value>
+  </data>
+  <data name="The verification key for Baidu site verification. Will be added as &lt;meta name=\&quot;baidu-site-verification\&quot; content=\&quot;...\&quot; /&gt; in the page head." xml:space="preserve">
+    <value>De verificatiesleutel voor Baidu-siteverificatie. Wordt toegevoegd als &lt;meta name=&quot;baidu-site-verification&quot; content=&quot;...&quot; /&gt; in de paginahoofdtekst.</value>
   </data>
 
 </root>

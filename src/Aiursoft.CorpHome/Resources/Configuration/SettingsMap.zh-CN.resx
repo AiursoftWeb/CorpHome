@@ -33,6 +33,9 @@
   <data name="Allow users to adjust their nickname in the profile management page." xml:space="preserve">
     <value>允许用户在个人资料管理页面调整其昵称。</value>
   </data>
+  <data name="Baidu Verification Key" xml:space="preserve">
+    <value>百度验证密钥</value>
+  </data>
   <data name="Brand Home URL" xml:space="preserve">
     <value>品牌主页链接</value>
   </data>
@@ -113,6 +116,9 @@
   </data>
   <data name="The name of the project displayed in the frontend." xml:space="preserve">
     <value>项目在前端显示的名称。</value>
+  </data>
+  <data name="The verification key for Baidu site verification. Will be added as &lt;meta name=\&quot;baidu-site-verification\&quot; content=\&quot;...\&quot; /&gt; in the page head." xml:space="preserve">
+    <value>百度站点验证的验证密钥。将作为 &lt;meta name=\&quot;baidu-site-verification\&quot; content=\&quot;...\&quot; /&gt; 添加到页面头部。</value>
   </data>
 
 </root>
