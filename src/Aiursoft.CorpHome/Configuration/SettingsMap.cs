@@ -18,6 +18,7 @@ public class SettingsMap
     public const string ShowPartnerChopinsight = "ShowPartnerChopinsight";
     public const string ShowPartnerEgret = "ShowPartnerEgret";
     public const string ShowPartnerAoji = "ShowPartnerAoji";
+    public const string BaiduKey = "BaiduKey";
 
     public class FakeLocalizer
     {
@@ -142,6 +143,14 @@ public class SettingsMap
             Description = Localizer["Show Aoji Airlines in the trusted partners section."],
             Type = SettingType.Bool,
             DefaultValue = "False"
+        },
+        new GlobalSettingDefinition
+        {
+            Key = BaiduKey,
+            Name = Localizer["Baidu Verification Key"],
+            Description = Localizer["The verification key for Baidu site verification. Will be added as <meta name=\"baidu-site-verification\" content=\"...\" /> in the page head."],
+            Type = SettingType.Text,
+            DefaultValue = ""
         }
     };
 }

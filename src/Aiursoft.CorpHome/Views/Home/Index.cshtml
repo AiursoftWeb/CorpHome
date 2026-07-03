@@ -2,6 +2,10 @@
 @section styles {
     <link rel="stylesheet" href="~/styles/site.css" xmlns="http://www.w3.org/1999/html"/>
     <link rel="stylesheet" href="~/styles/marketing.css" xmlns="http://www.w3.org/1999/html"/>
+    @if (!string.IsNullOrWhiteSpace(Model.BaiduKey))
+    {
+        <meta name="baidu-site-verification" content="@Model.BaiduKey" />
+    }
 }
 
 <vc:marketing-navbar></vc:marketing-navbar>

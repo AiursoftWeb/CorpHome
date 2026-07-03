@@ -8,4 +8,6 @@ public class IndexViewModel : UiStackLayoutViewModel
     {
         PageTitle = "Home";
     }
+
+    public string? BaiduKey { get; set; }
 }

@@ -1,3 +1,4 @@
+using Aiursoft.CorpHome.Configuration;
 using Aiursoft.CorpHome.Entities;
 using Aiursoft.CorpHome.Models.HomeViewModels;
 using Aiursoft.CorpHome.Services;
@@ -8,11 +9,16 @@ using Microsoft.AspNetCore.Mvc;
 namespace Aiursoft.CorpHome.Controllers;
 
 [LimitPerMin]
-public class HomeController(TemplateDbContext dbContext, IStatelessCaptcha captcha) : Controller
+public class HomeController(TemplateDbContext dbContext, IStatelessCaptcha captcha, GlobalSettingsService globalSettings) : Controller
 {
-    public IActionResult Index()
+    public async Task<IActionResult> Index()
     {
-        return this.SimpleView(new IndexViewModel());
+        var baiduKey = await globalSettings.GetSettingValueAsync(SettingsMap.BaiduKey);
+        var model = new IndexViewModel
+        {
+            BaiduKey= baiduKey
+        };
+        return this.SimpleView(model);
     }
 
     public IActionResult Substratum()
