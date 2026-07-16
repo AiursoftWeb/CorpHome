@@ -91,4 +91,29 @@
     <value>شركة سوخو أيرسوفت للتكنولوجيا المحدودة</value>
   </data>
 
+  <data name="What We Expect from Our People" xml:space="preserve">
+    <value>What We Expect from Our People</value>
+  </data>
+  <data name="We look for teammates who share our commitment to craftsmanship and continuous improvement." xml:space="preserve">
+    <value>We look for teammates who share our commitment to craftsmanship and continuous improvement.</value>
+  </data>
+  <data name="Never Stop Learning" xml:space="preserve">
+    <value>Never Stop Learning</value>
+  </data>
+  <data name="Learning is at the core of everything we do. Technology evolves rapidly, and we expect every team member to stay curious, explore new ideas, and grow alongside the tools we build. We invest in your growth because your growth is our growth." xml:space="preserve">
+    <value>Learning is at the core of everything we do. Technology evolves rapidly, and we expect every team member to stay curious, explore new ideas, and grow alongside the tools we build. We invest in your growth because your growth is our growth.</value>
+  </data>
+  <data name="Document Your Work and Achievements" xml:space="preserve">
+    <value>Document Your Work and Achievements</value>
+  </data>
+  <data name="Clear documentation and thoughtful records are how great teams scale. We expect everyone to capture their decisions, share their learnings, and make their work visible. Good documentation compounds over time into institutional knowledge that benefits the entire team." xml:space="preserve">
+    <value>Clear documentation and thoughtful records are how great teams scale. We expect everyone to capture their decisions, share their learnings, and make their work visible. Good documentation compounds over time into institutional knowledge that benefits the entire team.</value>
+  </data>
+  <data name="Focus on Impact, Not Just Effort" xml:space="preserve">
+    <value>Focus on Impact, Not Just Effort</value>
+  </data>
+  <data name="Being busy is not the same as creating value. We expect our people to think strategically about what moves the needle — for our users, for the open-source community, and for the team. Prioritization is a skill we value as much as technical ability." xml:space="preserve">
+    <value>Being busy is not the same as creating value. We expect our people to think strategically about what moves the needle — for our users, for the open-source community, and for the team. Prioritization is a skill we value as much as technical ability.</value>
+  </data>
+
 </root>
