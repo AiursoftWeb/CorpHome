@@ -91,4 +91,29 @@
     <value>苏州艾软科技有限公司</value>
   </data>
 
+  <data name="What We Expect from Our People" xml:space="preserve">
+    <value>我们对员工的期望</value>
+  </data>
+  <data name="We look for teammates who share our commitment to craftsmanship and continuous improvement." xml:space="preserve">
+    <value>我们寻找那些与我们一样追求工匠精神和持续改进的伙伴。</value>
+  </data>
+  <data name="Never Stop Learning" xml:space="preserve">
+    <value>永不停止学习</value>
+  </data>
+  <data name="Learning is at the core of everything we do. Technology evolves rapidly, and we expect every team member to stay curious, explore new ideas, and grow alongside the tools we build. We invest in your growth because your growth is our growth." xml:space="preserve">
+    <value>学习是我们所做一切的核心。技术日新月异，我们期望每一位团队成员都保持好奇心、探索新想法，并与我们构建的工具一同成长。我们投资于你的成长，因为你的成长就是我们的成长。</value>
+  </data>
+  <data name="Document Your Work and Achievements" xml:space="preserve">
+    <value>记录你的工作与成就</value>
+  </data>
+  <data name="Clear documentation and thoughtful records are how great teams scale. We expect everyone to capture their decisions, share their learnings, and make their work visible. Good documentation compounds over time into institutional knowledge that benefits the entire team." xml:space="preserve">
+    <value>清晰的文档和深思熟虑的记录是优秀团队规模化运作的基石。我们期望每个人都记录自己的决策、分享经验教训，让工作可见。好的文档会随时间沉淀为惠及整个团队的机构知识。</value>
+  </data>
+  <data name="Focus on Impact, Not Just Effort" xml:space="preserve">
+    <value>关注影响力，而非仅仅是付出</value>
+  </data>
+  <data name="Being busy is not the same as creating value. We expect our people to think strategically about what moves the needle — for our users, for the open-source community, and for the team. Prioritization is a skill we value as much as technical ability." xml:space="preserve">
+    <value>忙碌不等于创造价值。我们期望团队成员能够战略性地思考什么才是真正推动进展的关键——对用户、对开源社区、对团队而言皆是如此。优先级判断是我们与技术水平同等看重的技能。</value>
+  </data>
+
 </root>
