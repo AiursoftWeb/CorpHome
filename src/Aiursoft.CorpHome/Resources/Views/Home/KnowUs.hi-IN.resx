@@ -33,11 +33,17 @@
   <data name="Aiursoft&apos;s story is closely linked to the communities that shape us, including the global community of open source contributors and enthusiasts who are part of our team. Since 2025, we have built an operating system called AnduinOS — designed to be clean, simple, and accessible to everyone." xml:space="preserve">
     <value>Aiursoft की कहानी उन समुदायों से गहराई से जुड़ी हुई है जो हमारे आकार को परिभाषित करते हैं, जिसमें ओपन सोर्स योगदानकर्ताओं और उत्साही लोगों का वैश्विक समुदाय शामिल है जो हमारी टीम का हिस्सा हैं। 2025 से, हमने AnduinOS नाम का एक ऑपरेटिंग सिस्टम विकसित किया है — जिसे स्वच्छ, सरल और सभी के लिए सुलभ बनाने के लिए डिज़ाइन किया गया है।</value>
   </data>
+  <data name="Being busy is not the same as creating value. We expect our people to think strategically about what moves the needle — for our users, for the open-source community, and for the team. Prioritization is a skill we value as much as technical ability." xml:space="preserve">
+    <value>Being busy is not the same as creating value. We expect our people to think strategically about what moves the needle — for our users, for the open-source community, and for the team. Prioritization is a skill we value as much as technical ability.</value>
+  </data>
   <data name="Branch" xml:space="preserve">
     <value>शाखा</value>
   </data>
   <data name="Chapter 1" xml:space="preserve">
     <value>अध्याय 1</value>
+  </data>
+  <data name="Clear documentation and thoughtful records are how great teams scale. We expect everyone to capture their decisions, share their learnings, and make their work visible. Good documentation compounds over time into institutional knowledge that benefits the entire team." xml:space="preserve">
+    <value>Clear documentation and thoughtful records are how great teams scale. We expect everyone to capture their decisions, share their learnings, and make their work visible. Good documentation compounds over time into institutional knowledge that benefits the entire team.</value>
   </data>
   <data name="Contact" xml:space="preserve">
     <value>संपर्क</value>
@@ -48,8 +54,14 @@
   <data name="Director" xml:space="preserve">
     <value>निदेशक</value>
   </data>
+  <data name="Document Your Work and Achievements" xml:space="preserve">
+    <value>Document Your Work and Achievements</value>
+  </data>
   <data name="Entity Code" xml:space="preserve">
     <value>संस्था कोड</value>
+  </data>
+  <data name="Focus on Impact, Not Just Effort" xml:space="preserve">
+    <value>Focus on Impact, Not Just Effort</value>
   </data>
   <data name="Follow us" xml:space="preserve">
     <value>हमें फॉलो करें</value>
@@ -66,11 +78,17 @@
   <data name="Headquarters — Hong Kong" xml:space="preserve">
     <value>मुख्यालय — हॉन्गकांग</value>
   </data>
+  <data name="Learning is at the core of everything we do. Technology evolves rapidly, and we expect every team member to stay curious, explore new ideas, and grow alongside the tools we build. We invest in your growth because your growth is our growth." xml:space="preserve">
+    <value>Learning is at the core of everything we do. Technology evolves rapidly, and we expect every team member to stay curious, explore new ideas, and grow alongside the tools we build. We invest in your growth because your growth is our growth.</value>
+  </data>
   <data name="Legal Representative" xml:space="preserve">
     <value>कानूनी प्रतिनिधि</value>
   </data>
   <data name="Long-term" xml:space="preserve">
     <value>लंबी अवधि</value>
+  </data>
+  <data name="Never Stop Learning" xml:space="preserve">
+    <value>Never Stop Learning</value>
   </data>
   <data name="Our Culture" xml:space="preserve">
     <value>हमारी संस्कृति</value>
@@ -81,39 +99,20 @@
   <data name="Tel" xml:space="preserve">
     <value>फोन</value>
   </data>
+  <data name="We look for teammates who share our commitment to craftsmanship and continuous improvement." xml:space="preserve">
+    <value>We look for teammates who share our commitment to craftsmanship and continuous improvement.</value>
+  </data>
   <data name="We open-source everything we build. We reject vendor lock-in and ecosystem entrapment. We respect open standards, champion offline-first operation, and believe every right to the code belongs to the customer and the device owner. We build nothing that stands between software users and their freedom to tinker — no barriers, no gatekeeping, no artificial constraints on what a hacker or user can do with the tools we create." xml:space="preserve">
     <value>हम अपने द्वारा बनाई गई हर चीज़ को ओपन-सोर्स करते हैं। हम वेंडर लॉक-इन और पारिस्थितिकी तंत्र में फंसने का विरोध करते हैं। हम खुले मानकों का सम्मान करते हैं, ऑफ़लाइन-फर्स्ट संचालन की वकालत करते हैं, और मानते हैं कि कोड का हर अधिकार ग्राहक और डिवाइस मालिक का है। हम सॉफ्टवेयर उपयोगकर्ताओं और उनके टिंकर करने की स्वतंत्रता के बीच कोई भी अवरोध नहीं बनाते — कोई बाधाएं नहीं, कोई गेटकीपिंग नहीं, और न ही किसी हैकर या उपयोगकर्ता पर हमारे द्वारा बनाए गए उपकरणों के साथ करने की स्वतंत्रता पर कृत्रिम प्रतिबंध हैं।</value>
+  </data>
+  <data name="What We Expect from Our People" xml:space="preserve">
+    <value>What We Expect from Our People</value>
   </data>
   <data name="Where to find us" xml:space="preserve">
     <value>हमें कहाँ खोजें</value>
   </data>
   <data name="苏州艾软科技有限公司" xml:space="preserve">
     <value>सूझो आयरसॉफ्ट टेक्नोलॉजी को लिमिटेड</value>
-  </data>
-
-  <data name="What We Expect from Our People" xml:space="preserve">
-    <value>What We Expect from Our People</value>
-  </data>
-  <data name="We look for teammates who share our commitment to craftsmanship and continuous improvement." xml:space="preserve">
-    <value>We look for teammates who share our commitment to craftsmanship and continuous improvement.</value>
-  </data>
-  <data name="Never Stop Learning" xml:space="preserve">
-    <value>Never Stop Learning</value>
-  </data>
-  <data name="Learning is at the core of everything we do. Technology evolves rapidly, and we expect every team member to stay curious, explore new ideas, and grow alongside the tools we build. We invest in your growth because your growth is our growth." xml:space="preserve">
-    <value>Learning is at the core of everything we do. Technology evolves rapidly, and we expect every team member to stay curious, explore new ideas, and grow alongside the tools we build. We invest in your growth because your growth is our growth.</value>
-  </data>
-  <data name="Document Your Work and Achievements" xml:space="preserve">
-    <value>Document Your Work and Achievements</value>
-  </data>
-  <data name="Clear documentation and thoughtful records are how great teams scale. We expect everyone to capture their decisions, share their learnings, and make their work visible. Good documentation compounds over time into institutional knowledge that benefits the entire team." xml:space="preserve">
-    <value>Clear documentation and thoughtful records are how great teams scale. We expect everyone to capture their decisions, share their learnings, and make their work visible. Good documentation compounds over time into institutional knowledge that benefits the entire team.</value>
-  </data>
-  <data name="Focus on Impact, Not Just Effort" xml:space="preserve">
-    <value>Focus on Impact, Not Just Effort</value>
-  </data>
-  <data name="Being busy is not the same as creating value. We expect our people to think strategically about what moves the needle — for our users, for the open-source community, and for the team. Prioritization is a skill we value as much as technical ability." xml:space="preserve">
-    <value>Being busy is not the same as creating value. We expect our people to think strategically about what moves the needle — for our users, for the open-source community, and for the team. Prioritization is a skill we value as much as technical ability.</value>
   </data>
 
 </root>
