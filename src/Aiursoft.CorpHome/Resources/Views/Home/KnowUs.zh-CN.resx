@@ -33,11 +33,17 @@
   <data name="Aiursoft&apos;s story is closely linked to the communities that shape us, including the global community of open source contributors and enthusiasts who are part of our team. Since 2025, we have built an operating system called AnduinOS — designed to be clean, simple, and accessible to everyone." xml:space="preserve">
     <value>Aiursoft 的故事与我们赖以塑造的社区紧密相连，其中包括由团队成员构成的全球开源贡献者和爱好者社区。自 2025 年以来，我们构建了一个名为 AnduinOS 的操作系统——旨在做到简洁、易用，让所有人都能轻松上手。</value>
   </data>
+  <data name="Being busy is not the same as creating value. We expect our people to think strategically about what moves the needle — for our users, for the open-source community, and for the team. Prioritization is a skill we value as much as technical ability." xml:space="preserve">
+    <value>忙碌不等于创造价值。我们期望团队成员能够战略性地思考什么才是真正推动进展的关键——对用户、对开源社区、对团队而言皆是如此。优先级判断是我们与技术水平同等看重的技能。</value>
+  </data>
   <data name="Branch" xml:space="preserve">
     <value>分公司</value>
   </data>
   <data name="Chapter 1" xml:space="preserve">
     <value>第1章</value>
+  </data>
+  <data name="Clear documentation and thoughtful records are how great teams scale. We expect everyone to capture their decisions, share their learnings, and make their work visible. Good documentation compounds over time into institutional knowledge that benefits the entire team." xml:space="preserve">
+    <value>清晰的文档和深思熟虑的记录是优秀团队规模化运作的基石。我们期望每个人都记录自己的决策、分享经验教训，让工作可见。好的文档会随时间沉淀为惠及整个团队的机构知识。</value>
   </data>
   <data name="Contact" xml:space="preserve">
     <value>联系</value>
@@ -48,8 +54,14 @@
   <data name="Director" xml:space="preserve">
     <value>董事</value>
   </data>
+  <data name="Document Your Work and Achievements" xml:space="preserve">
+    <value>记录你的工作与成就</value>
+  </data>
   <data name="Entity Code" xml:space="preserve">
     <value>实体代码</value>
+  </data>
+  <data name="Focus on Impact, Not Just Effort" xml:space="preserve">
+    <value>关注影响力，而非仅仅是付出</value>
   </data>
   <data name="Follow us" xml:space="preserve">
     <value>关注我们</value>
@@ -66,11 +78,17 @@
   <data name="Headquarters — Hong Kong" xml:space="preserve">
     <value>总部 — 香港</value>
   </data>
+  <data name="Learning is at the core of everything we do. Technology evolves rapidly, and we expect every team member to stay curious, explore new ideas, and grow alongside the tools we build. We invest in your growth because your growth is our growth." xml:space="preserve">
+    <value>学习是我们所做一切的核心。技术日新月异，我们期望每一位团队成员都保持好奇心、探索新想法，并与我们构建的工具一同成长。我们投资于你的成长，因为你的成长就是我们的成长。</value>
+  </data>
   <data name="Legal Representative" xml:space="preserve">
     <value>法定代表人</value>
   </data>
   <data name="Long-term" xml:space="preserve">
     <value>长期主义</value>
+  </data>
+  <data name="Never Stop Learning" xml:space="preserve">
+    <value>永不停止学习</value>
   </data>
   <data name="Our Culture" xml:space="preserve">
     <value>我们的文化</value>
@@ -81,39 +99,20 @@
   <data name="Tel" xml:space="preserve">
     <value>电话</value>
   </data>
+  <data name="We look for teammates who share our commitment to craftsmanship and continuous improvement." xml:space="preserve">
+    <value>我们寻找那些与我们一样追求工匠精神和持续改进的伙伴。</value>
+  </data>
   <data name="We open-source everything we build. We reject vendor lock-in and ecosystem entrapment. We respect open standards, champion offline-first operation, and believe every right to the code belongs to the customer and the device owner. We build nothing that stands between software users and their freedom to tinker — no barriers, no gatekeeping, no artificial constraints on what a hacker or user can do with the tools we create." xml:space="preserve">
     <value>我们开源所有构建的产品。我们拒绝供应商锁定和生态系统捆绑。我们尊重开放标准，倡导离线优先的运行模式，并坚信代码的所有权利归属于客户及设备所有者。我们不会构建任何阻碍软件用户自由探索的事物——不设壁垒，不把守门槛，不人为限制黑客或用户对我们所创工具的使用方式。</value>
+  </data>
+  <data name="What We Expect from Our People" xml:space="preserve">
+    <value>我们对员工的期望</value>
   </data>
   <data name="Where to find us" xml:space="preserve">
     <value>我们的联系方式</value>
   </data>
   <data name="苏州艾软科技有限公司" xml:space="preserve">
     <value>苏州艾软科技有限公司</value>
-  </data>
-
-  <data name="What We Expect from Our People" xml:space="preserve">
-    <value>我们对员工的期望</value>
-  </data>
-  <data name="We look for teammates who share our commitment to craftsmanship and continuous improvement." xml:space="preserve">
-    <value>我们寻找那些与我们一样追求工匠精神和持续改进的伙伴。</value>
-  </data>
-  <data name="Never Stop Learning" xml:space="preserve">
-    <value>永不停止学习</value>
-  </data>
-  <data name="Learning is at the core of everything we do. Technology evolves rapidly, and we expect every team member to stay curious, explore new ideas, and grow alongside the tools we build. We invest in your growth because your growth is our growth." xml:space="preserve">
-    <value>学习是我们所做一切的核心。技术日新月异，我们期望每一位团队成员都保持好奇心、探索新想法，并与我们构建的工具一同成长。我们投资于你的成长，因为你的成长就是我们的成长。</value>
-  </data>
-  <data name="Document Your Work and Achievements" xml:space="preserve">
-    <value>记录你的工作与成就</value>
-  </data>
-  <data name="Clear documentation and thoughtful records are how great teams scale. We expect everyone to capture their decisions, share their learnings, and make their work visible. Good documentation compounds over time into institutional knowledge that benefits the entire team." xml:space="preserve">
-    <value>清晰的文档和深思熟虑的记录是优秀团队规模化运作的基石。我们期望每个人都记录自己的决策、分享经验教训，让工作可见。好的文档会随时间沉淀为惠及整个团队的机构知识。</value>
-  </data>
-  <data name="Focus on Impact, Not Just Effort" xml:space="preserve">
-    <value>关注影响力，而非仅仅是付出</value>
-  </data>
-  <data name="Being busy is not the same as creating value. We expect our people to think strategically about what moves the needle — for our users, for the open-source community, and for the team. Prioritization is a skill we value as much as technical ability." xml:space="preserve">
-    <value>忙碌不等于创造价值。我们期望团队成员能够战略性地思考什么才是真正推动进展的关键——对用户、对开源社区、对团队而言皆是如此。优先级判断是我们与技术水平同等看重的技能。</value>
   </data>
 
 </root>
