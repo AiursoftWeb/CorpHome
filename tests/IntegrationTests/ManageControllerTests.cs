@@ -4,7 +4,6 @@ using Aiursoft.CorpHome.Services.FileStorage;
 
 using Aiursoft.CorpHome.Entities;
 using Microsoft.AspNetCore.Identity;
-using Microsoft.Extensions.DependencyInjection;
 namespace Aiursoft.CorpHome.Tests.IntegrationTests;
 
 [TestClass]
