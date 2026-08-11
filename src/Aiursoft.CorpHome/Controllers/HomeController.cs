@@ -33,6 +33,13 @@ public class HomeController(TemplateDbContext dbContext, IStatelessCaptcha captc
         return this.SimpleView(new KnowUsViewModel());
     }
 
+    [Route("/case-study/chopinsight")]
+    [Route("/case-study/chopinsight.html")]
+    public IActionResult ChopInsight()
+    {
+        return this.SimpleView(new ChopInsightViewModel());
+    }
+
     [Route("/anduinos")]
     [Route("/anduinos.html")]
     public IActionResult Anduinos()

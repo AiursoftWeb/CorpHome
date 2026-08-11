@@ -1,0 +1,272 @@
+@model Aiursoft.CorpHome.Models.HomeViewModels.ChopInsightViewModel
+@* ReSharper disable once Razor.SectionNotResolved *@
+@section styles {
+    <link rel="stylesheet" href="~/styles/site.css" />
+    <link rel="stylesheet" href="~/styles/marketing.css" />
+    <link rel="stylesheet" href="~/styles/case-study.css" />
+}
+
+<vc:marketing-navbar></vc:marketing-navbar>
+
+<main class="case-study">
+    <header class="case-study-hero">
+        <div class="container">
+            <nav class="case-study-breadcrumb" aria-label="@Localizer["Breadcrumb"]">
+                <span>@Localizer["Customer story"]</span>
+                <span aria-hidden="true">/</span>
+                <span>ChopInsight</span>
+            </nav>
+
+            <div class="row case-study-hero-grid">
+                <div class="col-lg-3">
+                    <a href="https://www.chopinsight.cn/" target="_blank" rel="noopener noreferrer" class="case-study-customer-mark" aria-label="@Localizer["Visit ChopInsight"]">
+                        <img src="~/images/partners/chopinsight.svg" alt="ChopInsight" />
+                    </a>
+                    <dl class="case-study-meta">
+                        <div>
+                            <dt>@Localizer["Industry"]</dt>
+                            <dd>@Localizer["Investment research"]</dd>
+                        </div>
+                        <div>
+                            <dt>@Localizer["Focus"]</dt>
+                            <dd>@Localizer["Real estate finance and alternative investments"]</dd>
+                        </div>
+                        <div>
+                            <dt>@Localizer["Engagement"]</dt>
+                            <dd>@Localizer["Infrastructure, AI and application delivery"]</dd>
+                        </div>
+                    </dl>
+                </div>
+                <div class="col-lg-8 offset-lg-1">
+                    <p class="case-study-kicker">@Localizer["Infrastructure for applied AI"]</p>
+                    <h1>@Localizer["ChopInsight builds an AI-ready research platform"]</h1>
+                    <p class="case-study-deck">@Localizer["Aiursoft brought ChopInsight’s existing infrastructure, emerging AI requirements and business applications into one stable, scalable platform—protecting earlier investments while preparing the business for continued AI adoption."]</p>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <section class="case-study-about" aria-labelledby="about-chopinsight">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-4">
+                    <div class="case-study-section-rule">
+                        <p class="case-study-section-label">@Localizer["The organisation"]</p>
+                        <h2 id="about-chopinsight">@Localizer["About ChopInsight"]</h2>
+                    </div>
+                    <p class="case-study-lead">@Localizer["Shanghai ChopInsight Intelligent Technology Co., Ltd. specialises in real estate finance and alternative investments. It provides integrated primary- and secondary-market research services for participants across REITs, private real estate funds, Pre-REITs, holding-type ABS, public REIT issuance and asset management, insurance and insurance asset management."]</p>
+                    <p>@Localizer["Its competitive advantage comes from a deep understanding of the business models behind underlying assets, combined with expertise in fundamental research, data science, quantitative finance and large language models. Rather than simply delivering information, ChopInsight is building a new research framework around long-term value, deeper insight and a durable technology advantage."]</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="case-study-highlights" aria-labelledby="highlights-title">
+        <div class="container">
+            <p class="case-study-section-label" id="highlights-title">@Localizer["Highlights"]</p>
+            <div class="row g-0">
+                <div class="col-md-6 col-xl-3">
+                    <article class="case-study-highlight">
+                        <span class="case-study-highlight-number">01</span>
+                        <h3>@Localizer["One shared platform"]</h3>
+                        <p>@Localizer["Fragmented computing resources and business systems became a unified, manageable and scalable environment."]</p>
+                    </article>
+                </div>
+                <div class="col-md-6 col-xl-3">
+                    <article class="case-study-highlight">
+                        <span class="case-study-highlight-number">02</span>
+                        <h3>@Localizer["Investment protected"]</h3>
+                        <p>@Localizer["Existing equipment was reused while cost-effective resources were selected and adapted for emerging AI workloads."]</p>
+                    </article>
+                </div>
+                <div class="col-md-6 col-xl-3">
+                    <article class="case-study-highlight">
+                        <span class="case-study-highlight-number">03</span>
+                        <h3>@Localizer["Operations standardised"]</h3>
+                        <p>@Localizer["Identity, application delivery and operational visibility no longer depend on disconnected manual processes."]</p>
+                    </article>
+                </div>
+                <div class="col-md-6 col-xl-3">
+                    <article class="case-study-highlight">
+                        <span class="case-study-highlight-number">04</span>
+                        <h3>@Localizer["AI access governed"]</h3>
+                        <p>@Localizer["Applications can use local and compatible external model resources through a consistent enterprise capability."]</p>
+                    </article>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <div class="case-study-body container">
+        <div class="row">
+            <aside class="col-lg-3" aria-label="@Localizer["On this page"]">
+                <nav class="case-study-toc">
+                    <p class="case-study-section-label">@Localizer["On this page"]</p>
+                    <a href="#challenge">@Localizer["The challenge"]</a>
+                    <a href="#solution">@Localizer["The solution"]</a>
+                    <a href="#results">@Localizer["The results"]</a>
+                </nav>
+            </aside>
+
+            <div class="col-lg-8 offset-lg-1">
+                <section class="case-study-chapter" id="challenge" aria-labelledby="challenge-title">
+                    <div class="case-study-chapter-heading">
+                        <span>01</span>
+                        <div>
+                            <p class="case-study-section-label">@Localizer["The challenge"]</p>
+                            <h2 id="challenge-title">@Localizer["Moving into an AI-enabled future, one server at a time"]</h2>
+                        </div>
+                    </div>
+
+                    <p class="case-study-lead">@Localizer["As ChopInsight expanded, it introduced knowledge bases, data analytics, AI-assisted question answering, research tools, collaboration services and a growing number of business applications. Each system addressed a real need, but the infrastructure beneath them had not evolved at the same pace."]</p>
+
+                    <p>@Localizer["Several traditional rack servers operated alongside public cloud and externally hosted resources. Acquired at different times, from different sources and for different purposes, they had never been designed or managed as a single environment."]</p>
+
+                    <p>@Localizer["Applications were typically deployed and maintained by their respective software suppliers. That approach worked while the estate was small, but became difficult to sustain as applications accumulated different runtime environments, deployment methods and operational practices. Accounts and permissions were managed separately, dependencies were difficult to understand, and operational information was scattered across multiple systems."]</p>
+
+                    <p>@Localizer["This fragmentation affected day-to-day work. Diagnosing a problem depended heavily on individual experience. Upgrades and migrations often required the original supplier. Some environments became harder to maintain over time, and expanding capacity could mean purchasing more equipment and repeating the same deployment work. When external operations staff changed, valuable knowledge could leave with them."]</p>
+
+                    <aside class="case-study-pullquote">
+                        <p>@Localizer["ChopInsight needed a platform, not another isolated server."]</p>
+                        <span>@Localizer["A foundation designed to evolve with the business."]</span>
+                    </aside>
+
+                    <p>@Localizer["AI introduced a second, closely related challenge. Suitable computing resources could be expensive and complex to specify. ChopInsight needed to avoid hardware that might later prove unsuitable for its software or operational requirements, while simply replacing equipment would have ignored the value of its existing servers."]</p>
+
+                    <p>@Localizer["A software-only delivery would not solve the problem either. Even a well-designed platform cannot provide the expected performance or reliability when its underlying hardware is unsuitable or poorly integrated. ChopInsight needed a coordinated approach that could preserve existing investments, add computing capacity where necessary, and support conventional applications and AI workloads through a common management model."]</p>
+                </section>
+
+                <section class="case-study-chapter" id="solution" aria-labelledby="solution-title">
+                    <div class="case-study-chapter-heading">
+                        <span>02</span>
+                        <div>
+                            <p class="case-study-section-label">@Localizer["The solution"]</p>
+                            <h2 id="solution-title">@Localizer["Hardware and software designed as one system"]</h2>
+                        </div>
+                    </div>
+
+                    <p class="case-study-lead">@Localizer["Aiursoft assessed ChopInsight’s physical equipment, computing resources, application requirements and future AI plans together. Performance, stability, cost and future expansion informed a single design, making hardware selection and adaptation part of the service rather than a separate procurement exercise."]</p>
+
+                    <div class="case-study-architecture" aria-label="@Localizer["Platform architecture overview"]">
+                        <div>
+                            <span>@Localizer["Inputs"]</span>
+                            <strong>@Localizer["Existing servers"]<br />@Localizer["New AI compute"]<br />@Localizer["Cloud resources"]</strong>
+                        </div>
+                        <i data-lucide="arrow-right" aria-hidden="true"></i>
+                        <div class="case-study-architecture-core">
+                            <span>@Localizer["Shared foundation"]</span>
+                            <strong>@Localizer["Aiursoft managed platform"]</strong>
+                        </div>
+                        <i data-lucide="arrow-right" aria-hidden="true"></i>
+                        <div>
+                            <span>@Localizer["Capabilities"]</span>
+                            <strong>@Localizer["Identity"] · @Localizer["AI access"]<br />@Localizer["Delivery"] · @Localizer["Operations"]</strong>
+                        </div>
+                    </div>
+
+                    <article class="case-study-solution-block">
+                        <span class="case-study-solution-index">A</span>
+                        <div>
+                            <h3>@Localizer["A consistent infrastructure foundation"]</h3>
+                            <p>@Localizer["Previously, one server would often be associated with one application. Under the new model, servers became computing resources within a shared platform while applications were managed independently of individual machines. Existing capacity could be reused more effectively, workloads could share resources with appropriate separation, and validated new hardware could join the same management model."]</p>
+                            <p>@Localizer["This separation gave ChopInsight a more flexible foundation. New services no longer had to begin with a standalone environment. Runtime status and upgrades could be managed centrally, and replacing one machine no longer had to become an application-specific infrastructure project."]</p>
+                        </div>
+                    </article>
+
+                    <article class="case-study-solution-block">
+                        <span class="case-study-solution-index">B</span>
+                        <div>
+                            <h3>@Localizer["Unified identity and access"]</h3>
+                            <p>@Localizer["Aiursoft introduced a unified identity layer and connected relevant internal services to it. Users, organisational relationships and access policies could be managed through a common framework, reducing duplicate accounts while establishing a foundation for consistent access governance, service auditing and secure use of internal applications."]</p>
+                        </div>
+                    </article>
+
+                    <article class="case-study-solution-block">
+                        <span class="case-study-solution-index">C</span>
+                        <div>
+                            <h3>@Localizer["AI as a governed enterprise capability"]</h3>
+                            <p>@Localizer["With suitably adapted local computing resources in place, Aiursoft established a unified entry point for AI services. Users and applications could access model capabilities through consistent rules, while permissions, credentials, usage and service health could be managed centrally."]</p>
+                            <p>@Localizer["ChopInsight can now balance performance, availability and cost without forcing every application to implement those decisions independently. The technology underneath can change without requiring every consuming application to be redesigned."]</p>
+                        </div>
+                    </article>
+
+                    <article class="case-study-solution-block">
+                        <span class="case-study-solution-index">D</span>
+                        <div>
+                            <h3>@Localizer["Research collaboration on the same foundation"]</h3>
+                            <p>@Localizer["Internal files, research materials, project documents and team collaboration were aligned with the same identity and permission model. For a research organisation with a growing body of specialist material, this simplified everyday collaboration and created a more reliable base for knowledge reuse and AI-assisted research."]</p>
+                        </div>
+                    </article>
+
+                    <article class="case-study-solution-block">
+                        <span class="case-study-solution-index">E</span>
+                        <div>
+                            <h3>@Localizer["Repeatable delivery and operational visibility"]</h3>
+                            <p>@Localizer["Source code, version management and delivery workflows moved into a common platform. Development, validation, release and rollback now follow a repeatable process, while configuration and change history are retained. Developers and AI agents can contribute without making production delivery depend on a sequence known only to one person."]</p>
+                            <p>@Localizer["Essential service status and operational records can also be viewed from a common perspective. Teams can investigate across services, understand critical system use, retain records for long-term auditing and build toward future alerting and operational analysis—without exposing the customer’s detailed internal architecture."]</p>
+                        </div>
+                    </article>
+                </section>
+
+                <section class="case-study-chapter" id="results" aria-labelledby="results-title">
+                    <div class="case-study-chapter-heading">
+                        <span>03</span>
+                        <div>
+                            <p class="case-study-section-label">@Localizer["The results"]</p>
+                            <h2 id="results-title">@Localizer["A capability the company can increasingly control for itself"]</h2>
+                        </div>
+                    </div>
+
+                    <p class="case-study-lead">@Localizer["The project was more than a server migration. It changed how ChopInsight builds, operates and expands its business systems."]</p>
+
+                    <div class="case-study-results-grid">
+                        <article>
+                            <h3>@Localizer["Infrastructure became a platform"]</h3>
+                            <p>@Localizer["New services can use shared deployment, management and operational practices rather than introducing another environment and maintenance owner."]</p>
+                        </article>
+                        <article>
+                            <h3>@Localizer["Earlier investment keeps working"]</h3>
+                            <p>@Localizer["Resource planning, hardware adaptation and software delivery now form one solution, balancing AI performance with stability and cost."]</p>
+                        </article>
+                        <article>
+                            <h3>@Localizer["Knowledge stays with the organisation"]</h3>
+                            <p>@Localizer["Code, configuration and release processes are standardised and versioned instead of living in temporary commands or individual experience."]</p>
+                        </article>
+                        <article>
+                            <h3>@Localizer["Identity and AI are shared capabilities"]</h3>
+                            <p>@Localizer["Applications can use a unified access model and governed model resources without repeating account administration or AI integration work."]</p>
+                        </article>
+                    </div>
+
+                    <p>@Localizer["Operations are easier to understand. Service status and essential records are managed from a unified perspective, supporting faster diagnosis, security auditing and future analysis. Rather than contacting several suppliers to identify where a problem belongs, ChopInsight has a clearer view of the environment it operates."]</p>
+
+                    <p>@Localizer["Most importantly, technology is less likely to limit the speed of the business. Testing, building and release can proceed through a standardised delivery model, while AI agents can assist with code changes and problem analysis inside an established governance framework."]</p>
+
+                    <div class="case-study-conclusion">
+                        <p>@Localizer["ChopInsight now has a technology platform that can grow with its research business."]</p>
+                        <strong>@Localizer["Unified. Stable. Scalable. Governable."]</strong>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+
+    <section class="case-study-cta">
+        <div class="container">
+            <div class="row align-items-end">
+                <div class="col-lg-8">
+                    <p class="case-study-section-label">@Localizer["Build what comes next"]</p>
+                    <h2>@Localizer["Turn fragmented infrastructure into a foundation for growth."]</h2>
+                </div>
+                <div class="col-lg-4 text-lg-end mt-4 mt-lg-0">
+                    <a asp-controller="Home" asp-action="Contact" class="case-study-cta-link">
+                        @Localizer["Talk to Aiursoft"]
+                        <i data-lucide="arrow-up-right" aria-hidden="true"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+</main>
+
+<vc:marketing-footer></vc:marketing-footer>

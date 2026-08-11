@@ -94,6 +94,7 @@ public class ViewModelArgsInjector(
     
         _ = localizer["AnduinOS"];
         _ = localizer["Get to know us"];
+        _ = localizer["ChopInsight builds an AI-ready research platform with Aiursoft"];
     
         _ = localizer["Delete Account"];
     }
