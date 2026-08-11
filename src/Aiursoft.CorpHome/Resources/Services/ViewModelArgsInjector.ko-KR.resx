@@ -54,6 +54,9 @@
   <data name="Change Profile" xml:space="preserve">
     <value>프로필 변경</value>
   </data>
+  <data name="ChopInsight builds an AI-ready research platform with Aiursoft" xml:space="preserve">
+    <value>ChopInsight는 Aiursoft와 함께 AI 기반 연구 플랫폼을 구축합니다</value>
+  </data>
   <data name="Click to login" xml:space="preserve">
     <value>로그인하려면 클릭</value>
   </data>
