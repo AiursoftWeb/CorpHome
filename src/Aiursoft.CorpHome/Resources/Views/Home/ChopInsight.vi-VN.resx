@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="A capability the company can increasingly control for itself" xml:space="preserve">
+    <value>Năng lực mà công ty có thể ngày càng kiểm soát được cho riêng mình</value>
+  </data>
+  <data name="A consistent infrastructure foundation" xml:space="preserve">
+    <value>Nền tảng hạ tầng đồng nhất</value>
+  </data>
+  <data name="A foundation designed to evolve with the business." xml:space="preserve">
+    <value>Nền tảng được thiết kế để phát triển cùng doanh nghiệp.</value>
+  </data>
+  <data name="A software-only delivery would not solve the problem either. Even a well-designed platform cannot provide the expected performance or reliability when its underlying hardware is unsuitable or poorly integrated. ChopInsight needed a coordinated approach that could preserve existing investments, add computing capacity where necessary, and support conventional applications and AI workloads through a common management model." xml:space="preserve">
+    <value>Giải pháp chỉ dựa trên phần mềm cũng không thể giải quyết được vấn đề. Ngay cả một nền tảng được thiết kế tốt cũng không thể đảm bảo hiệu suất hoặc độ tin cậy như mong đợi khi phần cứng nền tảng không phù hợp hoặc tích hợp kém. ChopInsight cần một phương pháp tiếp cận đồng bộ để bảo tồn các khoản đầu tư hiện có, bổ sung công suất tính toán khi cần thiết và hỗ trợ cả ứng dụng truyền thống lẫn khối lượng công việc AI thông qua một mô hình quản lý chung.</value>
+  </data>
+  <data name="About ChopInsight" xml:space="preserve">
+    <value>Giới thiệu về ChopInsight</value>
+  </data>
+  <data name="AI access" xml:space="preserve">
+    <value>Truy cập AI</value>
+  </data>
+  <data name="AI access governed" xml:space="preserve">
+    <value>Truy cập AI được kiểm soát</value>
+  </data>
+  <data name="AI as a governed enterprise capability" xml:space="preserve">
+    <value>AI như một năng lực doanh nghiệp được quản trị</value>
+  </data>
+  <data name="AI introduced a second, closely related challenge. Suitable computing resources could be expensive and complex to specify. ChopInsight needed to avoid hardware that might later prove unsuitable for its software or operational requirements, while simply replacing equipment would have ignored the value of its existing servers." xml:space="preserve">
+    <value>AI đã đưa ra một thách thức thứ hai có liên quan chặt chẽ. Các tài nguyên tính toán phù hợp có thể đắt đỏ và phức tạp để xác định. ChopInsight cần tránh phần cứng có thể không phù hợp với yêu cầu phần mềm hoặc vận hành của mình sau này, trong khi việc chỉ thay thế thiết bị sẽ bỏ qua giá trị của các máy chủ hiện có.</value>
+  </data>
+  <data name="Aiursoft assessed ChopInsight’s physical equipment, computing resources, application requirements and future AI plans together. Performance, stability, cost and future expansion informed a single design, making hardware selection and adaptation part of the service rather than a separate procurement exercise." xml:space="preserve">
+    <value>Aiursoft đã đánh giá đồng bộ thiết bị vật lý, tài nguyên tính toán, yêu cầu ứng dụng và kế hoạch AI trong tương lai của ChopInsight. Hiệu năng, độ ổn định, chi phí và khả năng mở rộng trong tương lai đã định hướng một thiết kế thống nhất, giúp việc lựa chọn và thích ứng phần cứng trở thành một phần của dịch vụ thay vì là quy trình mua sắm riêng biệt.</value>
+  </data>
+  <data name="Aiursoft brought ChopInsight’s existing infrastructure, emerging AI requirements and business applications into one stable, scalable platform—protecting earlier investments while preparing the business for continued AI adoption." xml:space="preserve">
+    <value>Aiursoft đã tích hợp hạ tầng hiện có, các yêu cầu AI mới nổi và ứng dụng kinh doanh của ChopInsight vào một nền tảng ổn định, có khả năng mở rộng — bảo vệ các khoản đầu tư trước đó đồng thời chuẩn bị cho doanh nghiệp tiếp tục áp dụng AI.</value>
+  </data>
+  <data name="Aiursoft introduced a unified identity layer and connected relevant internal services to it. Users, organisational relationships and access policies could be managed through a common framework, reducing duplicate accounts while establishing a foundation for consistent access governance, service auditing and secure use of internal applications." xml:space="preserve">
+    <value>Aiursoft đã giới thiệu một lớp danh tính thống nhất và kết nối các dịch vụ nội bộ liên quan với nó. Người dùng, mối quan hệ tổ chức và chính sách truy cập có thể được quản lý thông qua một khung công tác chung, giảm thiểu tài khoản trùng lặp đồng thời thiết lập nền tảng cho việc quản trị truy cập nhất quán, kiểm toán dịch vụ và sử dụng an toàn các ứng dụng nội bộ.</value>
+  </data>
+  <data name="Aiursoft managed platform" xml:space="preserve">
+    <value>Nền tảng do Aiursoft quản lý</value>
+  </data>
+  <data name="Applications can use a unified access model and governed model resources without repeating account administration or AI integration work." xml:space="preserve">
+    <value>Các ứng dụng có thể sử dụng mô hình truy cập thống nhất và các tài nguyên mô hình được quản trị mà không cần lặp lại công tác quản lý tài khoản hoặc tích hợp AI.</value>
+  </data>
+  <data name="Applications can use local and compatible external model resources through a consistent enterprise capability." xml:space="preserve">
+    <value>Các ứng dụng có thể sử dụng tài nguyên mô hình nội bộ và bên ngoài tương thích thông qua khả năng doanh nghiệp đồng nhất.</value>
+  </data>
+  <data name="Applications were typically deployed and maintained by their respective software suppliers. That approach worked while the estate was small, but became difficult to sustain as applications accumulated different runtime environments, deployment methods and operational practices. Accounts and permissions were managed separately, dependencies were difficult to understand, and operational information was scattered across multiple systems." xml:space="preserve">
+    <value>Các ứng dụng thường được triển khai và duy trì bởi các nhà cung cấp phần mềm tương ứng. Cách tiếp cận đó hoạt động hiệu quả khi quy mô hệ thống còn nhỏ, nhưng ngày càng khó duy trì khi các ứng dụng tích lũy nhiều môi trường runtime, phương pháp triển khai và quy trình vận hành khác nhau. Tài khoản và quyền truy cập được quản lý riêng biệt, các phụ thuộc giữa chúng khó nắm bắt, và thông tin vận hành bị phân tán trên nhiều hệ thống.</value>
+  </data>
+  <data name="As ChopInsight expanded, it introduced knowledge bases, data analytics, AI-assisted question answering, research tools, collaboration services and a growing number of business applications. Each system addressed a real need, but the infrastructure beneath them had not evolved at the same pace." xml:space="preserve">
+    <value>Khi ChopInsight mở rộng, công ty đã giới thiệu các cơ sở tri thức, phân tích dữ liệu, trợ lý trả lời câu hỏi bằng AI, công cụ nghiên cứu, dịch vụ cộng tác và ngày càng nhiều ứng dụng doanh nghiệp. Mỗi hệ thống đều giải quyết một nhu cầu thực tế, nhưng hạ tầng bên dưới chúng không phát triển nhanh kịp.</value>
+  </data>
+  <data name="Breadcrumb" xml:space="preserve">
+    <value>Breadcrumbs</value>
+  </data>
+  <data name="Build what comes next" xml:space="preserve">
+    <value>Xây dựng những điều tiếp theo</value>
+  </data>
+  <data name="Capabilities" xml:space="preserve">
+    <value>Khả năng</value>
+  </data>
+  <data name="ChopInsight builds an AI-ready research platform" xml:space="preserve">
+    <value>ChopInsight xây dựng nền tảng nghiên cứu sẵn sàng cho AI</value>
+  </data>
+  <data name="ChopInsight can now balance performance, availability and cost without forcing every application to implement those decisions independently. The technology underneath can change without requiring every consuming application to be redesigned." xml:space="preserve">
+    <value>ChopInsight hiện có thể cân bằng giữa hiệu suất, tính sẵn sàng và chi phí mà không cần bắt buộc mỗi ứng dụng phải tự đưa ra những quyết định đó. Công nghệ nền tảng có thể thay đổi mà không yêu cầu thiết kế lại từng ứng dụng sử dụng dịch vụ.</value>
+  </data>
+  <data name="ChopInsight needed a platform, not another isolated server." xml:space="preserve">
+    <value>ChopInsight cần một nền tảng, chứ không phải một máy chủ cô lập khác.</value>
+  </data>
+  <data name="ChopInsight now has a technology platform that can grow with its research business." xml:space="preserve">
+    <value>ChopInsight hiện sở hữu nền tảng công nghệ có thể phát triển cùng với hoạt động nghiên cứu của mình.</value>
+  </data>
+  <data name="Cloud resources" xml:space="preserve">
+    <value>Tài nguyên đám mây</value>
+  </data>
+  <data name="Code, configuration and release processes are standardised and versioned instead of living in temporary commands or individual experience." xml:space="preserve">
+    <value>Mã nguồn, cấu hình và quy trình phát hành được chuẩn hóa và quản lý phiên bản thay vì tồn tại dưới dạng các lệnh tạm thời hoặc kinh nghiệm cá nhân.</value>
+  </data>
+  <data name="Customer story" xml:space="preserve">
+    <value>Câu chuyện khách hàng</value>
+  </data>
+  <data name="Delivery" xml:space="preserve">
+    <value>Cung cấp</value>
+  </data>
+  <data name="Earlier investment keeps working" xml:space="preserve">
+    <value>Đầu tư sớm tiếp tục phát huy hiệu quả</value>
+  </data>
+  <data name="Engagement" xml:space="preserve">
+    <value>Phạm vi hợp tác</value>
+  </data>
+  <data name="Essential service status and operational records can also be viewed from a common perspective. Teams can investigate across services, understand critical system use, retain records for long-term auditing and build toward future alerting and operational analysis—without exposing the customer’s detailed internal architecture." xml:space="preserve">
+    <value>Trạng thái dịch vụ thiết yếu và nhật ký hoạt động cũng có thể được xem từ một góc nhìn thống nhất. Các nhóm có thể điều tra xuyên suốt các dịch vụ, hiểu rõ cách sử dụng hệ thống quan trọng, lưu giữ nhật ký để kiểm toán dài hạn và xây dựng nền tảng cho việc cảnh báo và phân tích hoạt động trong tương lai — mà không làm lộ kiến trúc nội bộ chi tiết của khách hàng.</value>
+  </data>
+  <data name="Existing equipment was reused while cost-effective resources were selected and adapted for emerging AI workloads." xml:space="preserve">
+    <value>Thiết bị hiện có được tái sử dụng trong khi các nguồn lực tiết kiệm chi phí được lựa chọn và thích ứng cho các khối lượng công việc AI mới nổi.</value>
+  </data>
+  <data name="Existing servers" xml:space="preserve">
+    <value>Máy chủ hiện có</value>
+  </data>
+  <data name="Focus" xml:space="preserve">
+    <value>Trọng tâm</value>
+  </data>
+  <data name="Fragmented computing resources and business systems became a unified, manageable and scalable environment." xml:space="preserve">
+    <value>Các nguồn lực tính toán và hệ thống kinh doanh bị phân mảnh đã trở thành một môi trường thống nhất, dễ quản lý và có khả năng mở rộng.</value>
+  </data>
+  <data name="Hardware and software designed as one system" xml:space="preserve">
+    <value>Phần cứng và phần mềm được thiết kế như một hệ thống duy nhất</value>
+  </data>
+  <data name="Highlights" xml:space="preserve">
+    <value>Điểm nổi bật</value>
+  </data>
+  <data name="Identity" xml:space="preserve">
+    <value>Bản sắc</value>
+  </data>
+  <data name="Identity and AI are shared capabilities" xml:space="preserve">
+    <value>Identity và AI là các khả năng được chia sẻ</value>
+  </data>
+  <data name="Identity, application delivery and operational visibility no longer depend on disconnected manual processes." xml:space="preserve">
+    <value>Xác thực, phân phối ứng dụng và khả năng hiển thị hoạt động không còn phụ thuộc vào các quy trình thủ công rời rạc.</value>
+  </data>
+  <data name="Industry" xml:space="preserve">
+    <value>Ngành công nghiệp</value>
+  </data>
+  <data name="Infrastructure became a platform" xml:space="preserve">
+    <value>Hạ tầng trở thành nền tảng</value>
+  </data>
+  <data name="Infrastructure for applied AI" xml:space="preserve">
+    <value>Hạ tầng cho AI ứng dụng</value>
+  </data>
+  <data name="Infrastructure, AI and application delivery" xml:space="preserve">
+    <value>Hạ tầng, AI và triển khai ứng dụng</value>
+  </data>
+  <data name="Inputs" xml:space="preserve">
+    <value>Đầu vào</value>
+  </data>
+  <data name="Internal files, research materials, project documents and team collaboration were aligned with the same identity and permission model. For a research organisation with a growing body of specialist material, this simplified everyday collaboration and created a more reliable base for knowledge reuse and AI-assisted research." xml:space="preserve">
+    <value>Các tệp nội bộ, tài liệu nghiên cứu, tài liệu dự án và cộng tác nhóm đều được tích hợp với cùng một mô hình danh tính và quyền hạn. Đối với một tổ chức nghiên cứu có nguồn tài liệu chuyên môn ngày càng tăng, điều này đã đơn giản hóa công việc cộng tác hàng ngày và tạo nền tảng đáng tin cậy hơn cho việc tái sử dụng tri thức cũng như nghiên cứu hỗ trợ bởi AI.</value>
+  </data>
+  <data name="Investment protected" xml:space="preserve">
+    <value>Bảo vệ khoản đầu tư</value>
+  </data>
+  <data name="Investment research" xml:space="preserve">
+    <value>Nghiên cứu đầu tư</value>
+  </data>
+  <data name="Its competitive advantage comes from a deep understanding of the business models behind underlying assets, combined with expertise in fundamental research, data science, quantitative finance and large language models. Rather than simply delivering information, ChopInsight is building a new research framework around long-term value, deeper insight and a durable technology advantage." xml:space="preserve">
+    <value>Lợi thế cạnh tranh của ChopInsight bắt nguồn từ sự hiểu biết sâu sắc về các mô hình kinh doanh đằng sau các tài sản cơ sở, kết hợp với chuyên môn trong nghiên cứu nền tảng, khoa học dữ liệu, tài chính định lượng và các mô hình ngôn ngữ lớn. Thay vì chỉ đơn thuần cung cấp thông tin, ChopInsight đang xây dựng một khung nghiên cứu mới xoay quanh giá trị dài hạn, tầm nhìn sâu sắc hơn và lợi thế công nghệ bền vững.</value>
+  </data>
+  <data name="Knowledge stays with the organisation" xml:space="preserve">
+    <value>Kiến thức được lưu giữ trong tổ chức</value>
+  </data>
+  <data name="Most importantly, technology is less likely to limit the speed of the business. Testing, building and release can proceed through a standardised delivery model, while AI agents can assist with code changes and problem analysis inside an established governance framework." xml:space="preserve">
+    <value>Quan trọng nhất, công nghệ ít có khả năng làm hạn chế tốc độ phát triển của doanh nghiệp. Các quy trình kiểm thử, xây dựng và phát hành có thể được thực hiện thông qua một mô hình giao hàng chuẩn hóa, trong khi các tác nhân AI có thể hỗ trợ thay đổi mã nguồn và phân tích vấn đề bên trong khuôn khổ quản trị đã thiết lập.</value>
+  </data>
+  <data name="Moving into an AI-enabled future, one server at a time" xml:space="preserve">
+    <value>Bước vào tương lai được AI hỗ trợ, từng máy chủ một lần</value>
+  </data>
+  <data name="New AI compute" xml:space="preserve">
+    <value>Năng lực tính toán AI mới</value>
+  </data>
+  <data name="New services can use shared deployment, management and operational practices rather than introducing another environment and maintenance owner." xml:space="preserve">
+    <value>Các dịch vụ mới có thể sử dụng các quy trình triển khai, quản lý và vận hành chung thay vì giới thiệu thêm một môi trường và chủ sở hữu bảo trì khác.</value>
+  </data>
+  <data name="On this page" xml:space="preserve">
+    <value>Trên trang này</value>
+  </data>
+  <data name="One shared platform" xml:space="preserve">
+    <value>Một nền tảng chia sẻ duy nhất</value>
+  </data>
+  <data name="Operations" xml:space="preserve">
+    <value>Vận hành</value>
+  </data>
+  <data name="Operations are easier to understand. Service status and essential records are managed from a unified perspective, supporting faster diagnosis, security auditing and future analysis. Rather than contacting several suppliers to identify where a problem belongs, ChopInsight has a clearer view of the environment it operates." xml:space="preserve">
+    <value>Các hoạt động vận hành dễ hiểu hơn. Trạng thái dịch vụ và các bản ghi quan trọng được quản lý từ một góc nhìn thống nhất, hỗ trợ chẩn đoán nhanh hơn, kiểm toán bảo mật và phân tích trong tương lai. Thay vì liên hệ với nhiều nhà cung cấp để xác định vấn đề thuộc về đâu, ChopInsight có cái nhìn rõ ràng hơn về môi trường mà nó vận hành.</value>
+  </data>
+  <data name="Operations standardised" xml:space="preserve">
+    <value>Vận hành được chuẩn hóa</value>
+  </data>
+  <data name="Platform architecture overview" xml:space="preserve">
+    <value>Tổng quan kiến trúc nền tảng</value>
+  </data>
+  <data name="Previously, one server would often be associated with one application. Under the new model, servers became computing resources within a shared platform while applications were managed independently of individual machines. Existing capacity could be reused more effectively, workloads could share resources with appropriate separation, and validated new hardware could join the same management model." xml:space="preserve">
+    <value>Trước đây, một máy chủ thường được gắn liền với một ứng dụng. Theo mô hình mới, các máy chủ trở thành tài nguyên tính toán trong một nền tảng chia sẻ, trong khi các ứng dụng được quản lý độc lập với từng máy riêng lẻ. Dung lượng hiện có có thể được tái sử dụng hiệu quả hơn, các khối tải công việc có thể chia sẻ tài nguyên với sự tách biệt phù hợp, và phần cứng mới đã được kiểm chứng có thể tham gia vào mô hình quản lý chung này.</value>
+  </data>
+  <data name="Real estate finance and alternative investments" xml:space="preserve">
+    <value>Tài chính bất động sản và các khoản đầu tư thay thế</value>
+  </data>
+  <data name="Repeatable delivery and operational visibility" xml:space="preserve">
+    <value>Quy trình triển khai có thể tái lập và khả năng quan sát hoạt động</value>
+  </data>
+  <data name="Research collaboration on the same foundation" xml:space="preserve">
+    <value>Hợp tác nghiên cứu trên cùng nền tảng</value>
+  </data>
+  <data name="Resource planning, hardware adaptation and software delivery now form one solution, balancing AI performance with stability and cost." xml:space="preserve">
+    <value>Hoạch định tài nguyên, thích ứng phần cứng và cung cấp phần mềm giờ đây tạo thành một giải pháp thống nhất, cân bằng giữa hiệu suất AI với độ ổn định và chi phí.</value>
+  </data>
+  <data name="Several traditional rack servers operated alongside public cloud and externally hosted resources. Acquired at different times, from different sources and for different purposes, they had never been designed or managed as a single environment." xml:space="preserve">
+    <value>Một số máy chủ rack truyền thống vận hành cùng với đám mây công cộng và các tài nguyên được lưu trữ bên ngoài. Được mua vào những thời điểm khác nhau, từ nhiều nguồn khác nhau và cho những mục đích khác nhau, chúng chưa bao giờ được thiết kế hoặc quản lý như một môi trường thống nhất.</value>
+  </data>
+  <data name="Shanghai ChopInsight Intelligent Technology Co., Ltd. specialises in real estate finance and alternative investments. It provides integrated primary- and secondary-market research services for participants across REITs, private real estate funds, Pre-REITs, holding-type ABS, public REIT issuance and asset management, insurance and insurance asset management." xml:space="preserve">
+    <value>Công ty TNHH Công nghệ Thông minh ChopInsight Thượng Hải chuyên về tài chính bất động sản và các khoản đầu tư thay thế. Công ty cung cấp dịch vụ nghiên cứu thị trường sơ cấp và thứ cấp tích hợp cho các bên tham gia trong lĩnh vực REITs, quỹ bất động sản tư nhân, Pre-REITs, ABS kiểu nắm giữ, phát hành REIT công khai và quản lý tài sản, bảo hiểm và quản lý tài sản bảo hiểm.</value>
+  </data>
+  <data name="Shared foundation" xml:space="preserve">
+    <value>Nền tảng chung</value>
+  </data>
+  <data name="Source code, version management and delivery workflows moved into a common platform. Development, validation, release and rollback now follow a repeatable process, while configuration and change history are retained. Developers and AI agents can contribute without making production delivery depend on a sequence known only to one person." xml:space="preserve">
+    <value>Mã nguồn, quản lý phiên bản và quy trình phân phối được chuyển sang một nền tảng chung. Các hoạt động phát triển, xác thực, phát hành và hoàn tác giờ đây tuân theo một quy trình có thể lặp lại, trong khi các cấu hình và lịch sử thay đổi được lưu giữ. Nhà phát triển và các tác nhân AI có thể đóng góp mà không làm cho việc phân phối môi trường sản xuất phụ thuộc vào một chuỗi thao tác chỉ có một người biết.</value>
+  </data>
+  <data name="Talk to Aiursoft" xml:space="preserve">
+    <value>Liên hệ với Aiursoft</value>
+  </data>
+  <data name="The challenge" xml:space="preserve">
+    <value>Thách thức</value>
+  </data>
+  <data name="The organisation" xml:space="preserve">
+    <value>Tổ chức</value>
+  </data>
+  <data name="The project was more than a server migration. It changed how ChopInsight builds, operates and expands its business systems." xml:space="preserve">
+    <value>Dự án không chỉ đơn thuần là việc di chuyển máy chủ. Nó đã thay đổi cách ChopInsight xây dựng, vận hành và mở rộng hệ thống kinh doanh của mình.</value>
+  </data>
+  <data name="The results" xml:space="preserve">
+    <value>Kết quả</value>
+  </data>
+  <data name="The solution" xml:space="preserve">
+    <value>Giải pháp</value>
+  </data>
+  <data name="This fragmentation affected day-to-day work. Diagnosing a problem depended heavily on individual experience. Upgrades and migrations often required the original supplier. Some environments became harder to maintain over time, and expanding capacity could mean purchasing more equipment and repeating the same deployment work. When external operations staff changed, valuable knowledge could leave with them." xml:space="preserve">
+    <value>Sự phân mảnh này ảnh hưởng đến công việc hàng ngày. Việc chẩn đoán sự cố phụ thuộc rất nhiều vào kinh nghiệm cá nhân. Các lần nâng cấp và di chuyển thường đòi hỏi nhà cung cấp ban đầu. Một số môi trường trở nên khó bảo trì hơn theo thời gian, và việc mở rộng dung lượng có thể đồng nghĩa với việc mua thêm thiết bị và lặp lại cùng một công việc triển khai. Khi nhân viên vận hành bên ngoài thay đổi, những kiến thức quý giá có thể mất đi cùng họ.</value>
+  </data>
+  <data name="This separation gave ChopInsight a more flexible foundation. New services no longer had to begin with a standalone environment. Runtime status and upgrades could be managed centrally, and replacing one machine no longer had to become an application-specific infrastructure project." xml:space="preserve">
+    <value>Sự tách biệt này mang lại cho ChopInsight một nền tảng linh hoạt hơn. Các dịch vụ mới không còn phải bắt đầu với một môi trường độc lập. Trạng thái thời gian chạy và nâng cấp có thể được quản lý tập trung, và việc thay thế một máy chủ không còn phải trở thành một dự án hạ tầng dành riêng cho ứng dụng.</value>
+  </data>
+  <data name="Turn fragmented infrastructure into a foundation for growth." xml:space="preserve">
+    <value>Biến cơ sở hạ tầng phân mảnh thành nền tảng cho sự phát triển.</value>
+  </data>
+  <data name="Unified identity and access" xml:space="preserve">
+    <value>Đồng bộ danh tính và quyền truy cập</value>
+  </data>
+  <data name="Unified. Stable. Scalable. Governable." xml:space="preserve">
+    <value>Thống nhất. Ổn định. Có khả năng mở rộng. Có thể quản trị.</value>
+  </data>
+  <data name="Visit ChopInsight" xml:space="preserve">
+    <value>Truy cập ChopInsight</value>
+  </data>
+  <data name="With suitably adapted local computing resources in place, Aiursoft established a unified entry point for AI services. Users and applications could access model capabilities through consistent rules, while permissions, credentials, usage and service health could be managed centrally." xml:space="preserve">
+    <value>Với nguồn lực tính toán cục bộ đã được điều chỉnh phù hợp, Aiursoft đã thiết lập một điểm truy cập thống nhất cho các dịch vụ AI. Người dùng và ứng dụng có thể truy cập khả năng của mô hình thông qua các quy tắc nhất quán, trong khi quyền hạn, thông tin xác thực, mức sử dụng và tình trạng dịch vụ có thể được quản lý tập trung.</value>
+  </data>
+
+</root>
