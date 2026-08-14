@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="A capability the company can increasingly control for itself" xml:space="preserve">
+    <value>Возможность, которую компания может всё больше контролировать самостоятельно</value>
+  </data>
+  <data name="A consistent infrastructure foundation" xml:space="preserve">
+    <value>Единая основа инфраструктуры</value>
+  </data>
+  <data name="A foundation designed to evolve with the business." xml:space="preserve">
+    <value>Фундамент, созданный для развития вместе с бизнесом.</value>
+  </data>
+  <data name="A software-only delivery would not solve the problem either. Even a well-designed platform cannot provide the expected performance or reliability when its underlying hardware is unsuitable or poorly integrated. ChopInsight needed a coordinated approach that could preserve existing investments, add computing capacity where necessary, and support conventional applications and AI workloads through a common management model." xml:space="preserve">
+    <value>Только программное обеспечение также не решило бы проблему. Даже хорошо спроектированная платформа не может обеспечить ожидаемую производительность или надежность, если ее базовое оборудование не подходит или плохо интегрировано. ChopInsight требовался скоординированный подход, который позволил бы сохранить существующие инвестиции, добавить вычислительные мощности там, где это необходимо, и поддерживать традиционные приложения и рабочие нагрузки ИИ с помощью единой модели управления.</value>
+  </data>
+  <data name="About ChopInsight" xml:space="preserve">
+    <value>О компании ChopInsight</value>
+  </data>
+  <data name="AI access" xml:space="preserve">
+    <value>Управление доступом к ИИ</value>
+  </data>
+  <data name="AI access governed" xml:space="preserve">
+    <value>Контроль доступа к ИИ</value>
+  </data>
+  <data name="AI as a governed enterprise capability" xml:space="preserve">
+    <value>ИИ как управляемая корпоративная возможность</value>
+  </data>
+  <data name="AI introduced a second, closely related challenge. Suitable computing resources could be expensive and complex to specify. ChopInsight needed to avoid hardware that might later prove unsuitable for its software or operational requirements, while simply replacing equipment would have ignored the value of its existing servers." xml:space="preserve">
+    <value>Искусственный интеллект добавил вторую, тесно связанную с этим проблему. Подходящие вычислительные ресурсы могли быть дорогими и сложными в подборе. ChopInsight необходимо было избежать использования оборудования, которое в дальнейшем могло оказаться непригодным для ее программного обеспечения или операционных требований, в то время как простая замена техники привела бы к игнорированию ценности уже имеющихся серверов.</value>
+  </data>
+  <data name="Aiursoft assessed ChopInsight’s physical equipment, computing resources, application requirements and future AI plans together. Performance, stability, cost and future expansion informed a single design, making hardware selection and adaptation part of the service rather than a separate procurement exercise." xml:space="preserve">
+    <value>Aiursoft комплексно оценила физическое оборудование ChopInsight, вычислительные ресурсы, требования к приложениям и планы по внедрению ИИ. Производительность, стабильность, стоимость и возможности будущего расширения легли в основу единого проекта, благодаря чему выбор и адаптация оборудования стали частью услуги, а не отдельной процедурой закупок.</value>
+  </data>
+  <data name="Aiursoft brought ChopInsight’s existing infrastructure, emerging AI requirements and business applications into one stable, scalable platform—protecting earlier investments while preparing the business for continued AI adoption." xml:space="preserve">
+    <value>Aiursoft объединила существующую инфраструктуру ChopInsight, новые требования к ИИ и бизнес-приложения в единую стабильную и масштабируемую платформу — сохранив предыдущие инвестиции и подготовив компанию к дальнейшему внедрению искусственного интеллекта.</value>
+  </data>
+  <data name="Aiursoft introduced a unified identity layer and connected relevant internal services to it. Users, organisational relationships and access policies could be managed through a common framework, reducing duplicate accounts while establishing a foundation for consistent access governance, service auditing and secure use of internal applications." xml:space="preserve">
+    <value>Aiursoft внедрил единый уровень идентификации и подключил к нему соответствующие внутренние сервисы. Пользователями, организационными связями и политиками доступа можно было управлять в рамках общей платформы, что сократило количество дублирующихся учетных записей и заложило основу для последовательного управления доступом, аудита сервисов и безопасного использования внутренних приложений.</value>
+  </data>
+  <data name="Aiursoft managed platform" xml:space="preserve">
+    <value>платформа Aiursoft с поддержкой сервиса</value>
+  </data>
+  <data name="Applications can use a unified access model and governed model resources without repeating account administration or AI integration work." xml:space="preserve">
+    <value>Приложения могут использовать единую модель доступа и контролируемые ресурсы моделей, не дублируя работу по управлению учетными записями или интеграции ИИ.</value>
+  </data>
+  <data name="Applications can use local and compatible external model resources through a consistent enterprise capability." xml:space="preserve">
+    <value>Приложения могут использовать локальные и совместимые внешние ресурсы моделей с помощью единой корпоративной возможности.</value>
+  </data>
+  <data name="Applications were typically deployed and maintained by their respective software suppliers. That approach worked while the estate was small, but became difficult to sustain as applications accumulated different runtime environments, deployment methods and operational practices. Accounts and permissions were managed separately, dependencies were difficult to understand, and operational information was scattered across multiple systems." xml:space="preserve">
+    <value>Приложения обычно развертывались и поддерживались соответствующими поставщиками программного обеспечения. Такой подход работал, пока инфраструктура была небольшой, но стал трудновыполнимым по мере того, как приложения накапливали различные среды выполнения, методы развертывания и операционные практики. Учетные записи и разрешения управлялись раздельно, зависимости было трудно понять, а оперативная информация была разбросана по множеству систем.</value>
+  </data>
+  <data name="As ChopInsight expanded, it introduced knowledge bases, data analytics, AI-assisted question answering, research tools, collaboration services and a growing number of business applications. Each system addressed a real need, but the infrastructure beneath them had not evolved at the same pace." xml:space="preserve">
+    <value>По мере расширения ChopInsight компания внедряла базы знаний, инструменты анализа данных, системы ответов на вопросы с помощью ИИ, исследовательские инструменты, сервисы для совместной работы и всё большее количество бизнес-приложений. Каждая система решала реальную задачу, но инфраструктура, лежащая в их основе, не развивалась такими же темпами.</value>
+  </data>
+  <data name="Breadcrumb" xml:space="preserve">
+    <value>Навигационная цепочка</value>
+  </data>
+  <data name="Build what comes next" xml:space="preserve">
+    <value>Создавайте будущее</value>
+  </data>
+  <data name="Capabilities" xml:space="preserve">
+    <value>Возможности</value>
+  </data>
+  <data name="ChopInsight builds an AI-ready research platform" xml:space="preserve">
+    <value>ChopInsight создает аналитическую платформу, готовую к внедрению ИИ</value>
+  </data>
+  <data name="ChopInsight can now balance performance, availability and cost without forcing every application to implement those decisions independently. The technology underneath can change without requiring every consuming application to be redesigned." xml:space="preserve">
+    <value>Теперь ChopInsight может балансировать между производительностью, доступностью и стоимостью, не заставляя каждое приложение принимать эти решения самостоятельно. Базовые технологии могут меняться без необходимости переделки каждого приложения, использующего их.</value>
+  </data>
+  <data name="ChopInsight needed a platform, not another isolated server." xml:space="preserve">
+    <value>ChopInsight нужна была платформа, а не ещё один изолированный сервер.</value>
+  </data>
+  <data name="ChopInsight now has a technology platform that can grow with its research business." xml:space="preserve">
+    <value>У ChopInsight теперь есть технологическая платформа, способная масштабироваться вместе с исследовательским бизнесом компании.</value>
+  </data>
+  <data name="Cloud resources" xml:space="preserve">
+    <value>Облачные ресурсы</value>
+  </data>
+  <data name="Code, configuration and release processes are standardised and versioned instead of living in temporary commands or individual experience." xml:space="preserve">
+    <value>Код, конфигурации и процессы выпуска стандартизированы и версионируются, а не существуют в виде временных команд или личных знаний отдельных сотрудников.</value>
+  </data>
+  <data name="Customer story" xml:space="preserve">
+    <value>Кейс клиента</value>
+  </data>
+  <data name="Delivery" xml:space="preserve">
+    <value>Доставка</value>
+  </data>
+  <data name="Earlier investment keeps working" xml:space="preserve">
+    <value>Ранее вложенные средства продолжают работать</value>
+  </data>
+  <data name="Engagement" xml:space="preserve">
+    <value>Направление деятельности</value>
+  </data>
+  <data name="Essential service status and operational records can also be viewed from a common perspective. Teams can investigate across services, understand critical system use, retain records for long-term auditing and build toward future alerting and operational analysis—without exposing the customer’s detailed internal architecture." xml:space="preserve">
+    <value>Состояние ключевых сервисов и операционные журналы также можно просматривать в едином окне. Команды могут проводить расследования, охватывающие несколько сервисов, анализировать использование критически важных систем, хранить журналы для долгосрочного аудита и создавать базу для будущих оповещений и операционного анализа — без раскрытия подробной внутренней архитектуры клиента.</value>
+  </data>
+  <data name="Existing equipment was reused while cost-effective resources were selected and adapted for emerging AI workloads." xml:space="preserve">
+    <value>Существующее оборудование было повторно использовано, а также были выбраны и адаптированы экономически эффективные ресурсы для новых рабочих нагрузок ИИ.</value>
+  </data>
+  <data name="Existing servers" xml:space="preserve">
+    <value>Существующие серверы</value>
+  </data>
+  <data name="Focus" xml:space="preserve">
+    <value>Специализация</value>
+  </data>
+  <data name="Fragmented computing resources and business systems became a unified, manageable and scalable environment." xml:space="preserve">
+    <value>Разрозненные вычислительные ресурсы и бизнес-системы превратились в единую, управляемую и масштабируемую среду.</value>
+  </data>
+  <data name="Hardware and software designed as one system" xml:space="preserve">
+    <value>Аппаратное и программное обеспечение, спроектированные как единая система</value>
+  </data>
+  <data name="Highlights" xml:space="preserve">
+    <value>Ключевые моменты</value>
+  </data>
+  <data name="Identity" xml:space="preserve">
+    <value>Идентичность</value>
+  </data>
+  <data name="Identity and AI are shared capabilities" xml:space="preserve">
+    <value>Управление идентификацией и ИИ — это общие возможности</value>
+  </data>
+  <data name="Identity, application delivery and operational visibility no longer depend on disconnected manual processes." xml:space="preserve">
+    <value>Управление идентификацией, развертывание приложений и наглядность рабочих процессов больше не зависят от разрозненных ручных процедур.</value>
+  </data>
+  <data name="Industry" xml:space="preserve">
+    <value>Отрасль</value>
+  </data>
+  <data name="Infrastructure became a platform" xml:space="preserve">
+    <value>Инфраструктура стала платформой</value>
+  </data>
+  <data name="Infrastructure for applied AI" xml:space="preserve">
+    <value>Инфраструктура для прикладного ИИ</value>
+  </data>
+  <data name="Infrastructure, AI and application delivery" xml:space="preserve">
+    <value>Инфраструктура, ИИ и доставка приложений</value>
+  </data>
+  <data name="Inputs" xml:space="preserve">
+    <value>Входные данные</value>
+  </data>
+  <data name="Internal files, research materials, project documents and team collaboration were aligned with the same identity and permission model. For a research organisation with a growing body of specialist material, this simplified everyday collaboration and created a more reliable base for knowledge reuse and AI-assisted research." xml:space="preserve">
+    <value>Внутренние файлы, исследовательские материалы, проектная документация и командное взаимодействие были приведены в соответствие с единой моделью идентификации и разрешений. Для исследовательской организации с постоянно растущим массивом специализированных материалов это упростило повседневное сотрудничество и создало более надежную основу для повторного использования знаний и исследований при поддержке ИИ.</value>
+  </data>
+  <data name="Investment protected" xml:space="preserve">
+    <value>Инвестиции защищены</value>
+  </data>
+  <data name="Investment research" xml:space="preserve">
+    <value>Инвестиционные исследования</value>
+  </data>
+  <data name="Its competitive advantage comes from a deep understanding of the business models behind underlying assets, combined with expertise in fundamental research, data science, quantitative finance and large language models. Rather than simply delivering information, ChopInsight is building a new research framework around long-term value, deeper insight and a durable technology advantage." xml:space="preserve">
+    <value>Его конкурентное преимущество обусловлено глубоким пониманием бизнес-моделей базовых активов в сочетании с экспертизой в фундаментальных исследованиях, науке о данных, количественных финансах и больших языковых моделях. Вместо того чтобы просто предоставлять информацию, ChopInsight создает новую исследовательскую платформу, ориентированную на долгосрочную ценность, более глубокие инсайты и устойчивое технологическое преимущество.</value>
+  </data>
+  <data name="Knowledge stays with the organisation" xml:space="preserve">
+    <value>Знания остаются в организации</value>
+  </data>
+  <data name="Most importantly, technology is less likely to limit the speed of the business. Testing, building and release can proceed through a standardised delivery model, while AI agents can assist with code changes and problem analysis inside an established governance framework." xml:space="preserve">
+    <value>Что наиболее важно, технологии с меньшей вероятностью будут ограничивать темпы развития бизнеса. Тестирование, сборка и выпуск могут осуществляться в рамках стандартизированной модели доставки, в то время как агенты ИИ могут помогать с изменением кода и анализом проблем внутри установленной системы управления.</value>
+  </data>
+  <data name="Moving into an AI-enabled future, one server at a time" xml:space="preserve">
+    <value>Переход к будущему с ИИ по одному серверу за раз</value>
+  </data>
+  <data name="New AI compute" xml:space="preserve">
+    <value>Новые вычислительные мощности ИИ</value>
+  </data>
+  <data name="New services can use shared deployment, management and operational practices rather than introducing another environment and maintenance owner." xml:space="preserve">
+    <value>Новые сервисы могут использовать общие практики развертывания, управления и эксплуатации, а не создавать новую среду и назначать отдельного ответственного за поддержку.</value>
+  </data>
+  <data name="On this page" xml:space="preserve">
+    <value>На этой странице</value>
+  </data>
+  <data name="One shared platform" xml:space="preserve">
+    <value>Единая общая платформа</value>
+  </data>
+  <data name="Operations" xml:space="preserve">
+    <value>Операции</value>
+  </data>
+  <data name="Operations are easier to understand. Service status and essential records are managed from a unified perspective, supporting faster diagnosis, security auditing and future analysis. Rather than contacting several suppliers to identify where a problem belongs, ChopInsight has a clearer view of the environment it operates." xml:space="preserve">
+    <value>Процессы стали проще для понимания. Состояние сервисов и ключевые записи управляются с единой точки зрения, что способствует более быстрой диагностике, аудиту безопасности и будущему анализу. Вместо того чтобы обращаться к нескольким поставщикам, чтобы выяснить, к кому относится проблема, ChopInsight имеет более ясное представление об окружающей среде, в которой работает.</value>
+  </data>
+  <data name="Operations standardised" xml:space="preserve">
+    <value>Стандартизация операций</value>
+  </data>
+  <data name="Platform architecture overview" xml:space="preserve">
+    <value>Обзор архитектуры платформы</value>
+  </data>
+  <data name="Previously, one server would often be associated with one application. Under the new model, servers became computing resources within a shared platform while applications were managed independently of individual machines. Existing capacity could be reused more effectively, workloads could share resources with appropriate separation, and validated new hardware could join the same management model." xml:space="preserve">
+    <value>Ранее один сервер часто был привязан к одному приложению. В новой модели серверы стали вычислительными ресурсами в рамках общей платформы, а приложения управлялись независимо от отдельных машин. Существующие мощности можно было использовать более эффективно, рабочие нагрузки могли делить ресурсы с надлежащей изоляцией, а проверенное новое оборудование могло быть интегрировано в ту же модель управления.</value>
+  </data>
+  <data name="Real estate finance and alternative investments" xml:space="preserve">
+    <value>Финансы недвижимости и альтернативные инвестиции</value>
+  </data>
+  <data name="Repeatable delivery and operational visibility" xml:space="preserve">
+    <value>Повторяемая доставка и операционная прозрачность</value>
+  </data>
+  <data name="Research collaboration on the same foundation" xml:space="preserve">
+    <value>Исследовательское сотрудничество на единой платформе</value>
+  </data>
+  <data name="Resource planning, hardware adaptation and software delivery now form one solution, balancing AI performance with stability and cost." xml:space="preserve">
+    <value>Планирование ресурсов, адаптация оборудования и доставка программного обеспечения теперь образуют единое решение, балансирующее между производительностью ИИ, стабильностью и стоимостью.</value>
+  </data>
+  <data name="Several traditional rack servers operated alongside public cloud and externally hosted resources. Acquired at different times, from different sources and for different purposes, they had never been designed or managed as a single environment." xml:space="preserve">
+    <value>Несколько традиционных стоечных серверов работали наряду с ресурсами публичного облака и внешними хостинг-сервисами. Приобретенные в разное время, из разных источников и для различных целей, они никогда не проектировались и не управлялись как единая среда.</value>
+  </data>
+  <data name="Shanghai ChopInsight Intelligent Technology Co., Ltd. specialises in real estate finance and alternative investments. It provides integrated primary- and secondary-market research services for participants across REITs, private real estate funds, Pre-REITs, holding-type ABS, public REIT issuance and asset management, insurance and insurance asset management." xml:space="preserve">
+    <value>Компания Shanghai ChopInsight Intelligent Technology Co., Ltd. специализируется на финансировании недвижимости и альтернативных инвестициях. Она предоставляет интегрированные аналитические услуги по первичному и вторичному рынкам для участников REITs, частных фондов недвижимости, Pre-REITs, ABS холдингового типа, публичного выпуска REITs и управления активами, страхования и управления страховыми активами.</value>
+  </data>
+  <data name="Shared foundation" xml:space="preserve">
+    <value>Общая основа</value>
+  </data>
+  <data name="Source code, version management and delivery workflows moved into a common platform. Development, validation, release and rollback now follow a repeatable process, while configuration and change history are retained. Developers and AI agents can contribute without making production delivery depend on a sequence known only to one person." xml:space="preserve">
+    <value>Исходный код, управление версиями и рабочие процессы развертывания были перенесены на единую платформу. Разработка, проверка, релиз и откат теперь следуют повторяемому процессу, при этом сохраняются конфигурация и история изменений. Разработчики и ИИ-агенты могут вносить свой вклад, не создавая зависимости поставки в производственную среду от последовательности действий, известной лишь одному человеку.</value>
+  </data>
+  <data name="Talk to Aiursoft" xml:space="preserve">
+    <value>Свяжитесь с Aiursoft</value>
+  </data>
+  <data name="The challenge" xml:space="preserve">
+    <value>Вызовы</value>
+  </data>
+  <data name="The organisation" xml:space="preserve">
+    <value>Организация</value>
+  </data>
+  <data name="The project was more than a server migration. It changed how ChopInsight builds, operates and expands its business systems." xml:space="preserve">
+    <value>Этот проект был больше, чем просто миграция серверов. Он изменил подход ChopInsight к созданию, эксплуатации и расширению своих бизнес-систем.</value>
+  </data>
+  <data name="The results" xml:space="preserve">
+    <value>Результаты</value>
+  </data>
+  <data name="The solution" xml:space="preserve">
+    <value>Решение</value>
+  </data>
+  <data name="This fragmentation affected day-to-day work. Diagnosing a problem depended heavily on individual experience. Upgrades and migrations often required the original supplier. Some environments became harder to maintain over time, and expanding capacity could mean purchasing more equipment and repeating the same deployment work. When external operations staff changed, valuable knowledge could leave with them." xml:space="preserve">
+    <value>Такая фрагментация влияла на повседневную работу. Диагностика проблем в значительной степени зависела от личного опыта сотрудников. Обновления и миграции часто требовали участия первоначального поставщика. Со временем поддержка некоторых сред становилась сложнее, а расширение мощностей могло означать покупку нового оборудования и повторение тех же работ по развертыванию. При смене внешних специалистов по эксплуатации ценные знания могли уходить вместе с ними.</value>
+  </data>
+  <data name="This separation gave ChopInsight a more flexible foundation. New services no longer had to begin with a standalone environment. Runtime status and upgrades could be managed centrally, and replacing one machine no longer had to become an application-specific infrastructure project." xml:space="preserve">
+    <value>Такая изоляция обеспечила ChopInsight более гибкую основу. Новым сервисам больше не требовалось начинаться с выделенной среды. Состояние выполнения и обновления можно было управлять централизованно, а замена одной машины перестала превращаться в инфраструктурный проект, специфичный для конкретного приложения.</value>
+  </data>
+  <data name="Turn fragmented infrastructure into a foundation for growth." xml:space="preserve">
+    <value>Превратите разрозненную инфраструктуру в основу для роста.</value>
+  </data>
+  <data name="Unified identity and access" xml:space="preserve">
+    <value>Единая система идентификации и доступа</value>
+  </data>
+  <data name="Unified. Stable. Scalable. Governable." xml:space="preserve">
+    <value>Единая. Стабильная. Масштабируемая. Контролируемая.</value>
+  </data>
+  <data name="Visit ChopInsight" xml:space="preserve">
+    <value>Перейти на сайт ChopInsight</value>
+  </data>
+  <data name="With suitably adapted local computing resources in place, Aiursoft established a unified entry point for AI services. Users and applications could access model capabilities through consistent rules, while permissions, credentials, usage and service health could be managed centrally." xml:space="preserve">
+    <value>На базе соответствующим образом адаптированных локальных вычислительных ресурсов Aiursoft создала единую точку входа для ИИ-сервисов. Пользователи и приложения могли получать доступ к возможностям моделей по единым правилам, в то время как права доступа, учетные данные, использование и состояние сервисов управлялись централизованно.</value>
+  </data>
+
+</root>
