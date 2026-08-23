@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="A capability the company can increasingly control for itself" xml:space="preserve">
+    <value>Μια ικανότητα που η εταιρεία μπορεί να ελέγχει ολοένα και περισσότερο για τον εαυτό της</value>
+  </data>
+  <data name="A consistent infrastructure foundation" xml:space="preserve">
+    <value>Μια συνεπής θεμελίωση υποδομής</value>
+  </data>
+  <data name="A foundation designed to evolve with the business." xml:space="preserve">
+    <value>Μια βάση σχεδιασμένη να εξελίσσεται μαζί με την επιχείρηση.</value>
+  </data>
+  <data name="A software-only delivery would not solve the problem either. Even a well-designed platform cannot provide the expected performance or reliability when its underlying hardware is unsuitable or poorly integrated. ChopInsight needed a coordinated approach that could preserve existing investments, add computing capacity where necessary, and support conventional applications and AI workloads through a common management model." xml:space="preserve">
+    <value>Μια παράδοση μόνο λογισμικού δεν θα λύσει το πρόβλημα. Ακόμα και μια καλά σχεδιασμένη πλατφόρμα δεν μπορεί να προσφέρει την αναμενόμενη απόδοση ή αξιοπιστία όταν ο υποκείμενος υλικός εξοπλισμός δεν είναι κατάλληλος ή έχει ενσωματωθεί ελλιπώς. Η ChopInsight χρειαζόταν μια συντονισμένη προσέγγιση που θα διασφάλιζε τις υπάρχουσες επενδύσεις, θα πρόσθετε υπολογιστική ικανότητα όπου απαιτείται και θα υποστήριζε τόσο συμβατικές εφαρμογές όσο και φορτία εργασίας Τεχνητής Νοημοσύνης μέσω ενός κοινού μοντέλου διαχείρισης.</value>
+  </data>
+  <data name="About ChopInsight" xml:space="preserve">
+    <value>Σχετικά με το ChopInsight</value>
+  </data>
+  <data name="AI access" xml:space="preserve">
+    <value>Πρόσβαση AI</value>
+  </data>
+  <data name="AI access governed" xml:space="preserve">
+    <value>Κυβερνών η πρόσβαση σε Τεχνητή Νοημοσύνη</value>
+  </data>
+  <data name="AI as a governed enterprise capability" xml:space="preserve">
+    <value>Τεχνητή Νοημοσύνη ως διαχειριζόμενη επιχειρηματική ικανότητα</value>
+  </data>
+  <data name="AI introduced a second, closely related challenge. Suitable computing resources could be expensive and complex to specify. ChopInsight needed to avoid hardware that might later prove unsuitable for its software or operational requirements, while simply replacing equipment would have ignored the value of its existing servers." xml:space="preserve">
+    <value>Η Τεχνητή Νοημοσύνη εισήγαγε έναν δεύτερο, στενά συνδεδεμένο προκλήσεις. Κατάλληλοι υπολογιστικοί πόροι θα μπορούσαν να είναι ακριβοί και πολύπλοκοι σε σχέση με τις προδιαγραφές τους. Η ChopInsight έπρεπε να αποφύγει υλικό που ενδέχεται να αποδειχθεί αργότερα μη κατάλληλο για το λογισμικό ή τις λειτουργικές της απαιτήσεις, ενώ η απλή αντικατάσταση του εξοπλισμού θα αγνοούσε την αξία των υφιστάμενων διακομιστών της.</value>
+  </data>
+  <data name="Aiursoft assessed ChopInsight’s physical equipment, computing resources, application requirements and future AI plans together. Performance, stability, cost and future expansion informed a single design, making hardware selection and adaptation part of the service rather than a separate procurement exercise." xml:space="preserve">
+    <value>Η Aiursoft αξιολόγησε ενιαία τον φυσικό εξοπλισμό, τους υπολογιστικούς πόρους, τις απαιτήσεις εφαρμογών και τα μελλοντικά σχέδια για Τεχνητή Νοημοσύνη της ChopInsight. Απόδοση, σταθερότητα, κόστος και μελλοντική επέκταση καθόρισαν ένα ενιαίο σχεδιασμό, κάνοντας την επιλογή και προσαρμογή του υλικού μέρος της υπηρεσίας και όχι μια ξεχωριστή διαδικασία προμήθειας.</value>
+  </data>
+  <data name="Aiursoft brought ChopInsight’s existing infrastructure, emerging AI requirements and business applications into one stable, scalable platform—protecting earlier investments while preparing the business for continued AI adoption." xml:space="preserve">
+    <value>Η Aiursoft ενέταξε την υπάρχουσα υποδομή της ChopInsight, τις αναδυόμενες απαιτήσεις τεχνητής νοημοσύνης και τις επιχειρηματικές εφαρμογές σε μία σταθερή και κλιμακούμενη πλατφόρμα—προσθέτοντας προστασία στις προηγούμενες επενδύσεις και προετοιμάζοντας την επιχείρηση για τη συνεχή υιοθέτηση της τεχνητής νοημοσύνης.</value>
+  </data>
+  <data name="Aiursoft introduced a unified identity layer and connected relevant internal services to it. Users, organisational relationships and access policies could be managed through a common framework, reducing duplicate accounts while establishing a foundation for consistent access governance, service auditing and secure use of internal applications." xml:space="preserve">
+    <value>Η Aiursoft εισήγαγε ένα ενιαίο επίπεδο ταυτότητας και συνδέσε τα σχετικά εσωτερικά υπηρεσίες σε αυτό. Οι χρήστες, οι οργανωτικές σχέσεις και οι πολιτικές πρόσβασης μπορούσαν να διαχειριστούν μέσω ενός κοινού πλαισίου, μειώνοντας τα διπλολογισμικά λογαριασμών και δημιουργώντας μια βάση για συνεπή διακυβέρνηση πρόσβασης, έλεγχο υπηρεσιών και ασφαλή χρήση εσωτερικών εφαρμογών.</value>
+  </data>
+  <data name="Aiursoft managed platform" xml:space="preserve">
+    <value>Πλατφόρμα διαχείρισης Aiursoft</value>
+  </data>
+  <data name="Applications can use a unified access model and governed model resources without repeating account administration or AI integration work." xml:space="preserve">
+    <value>Οι εφαρμογές μπορούν να χρησιμοποιούν ένα ενιαίο μοντέλο πρόσβασης και διαχειριζόμενους πόρους μοντέλων χωρίς να επαναλαμβάνουν εργασίες διαχείρισης λογαριασμών ή ενσωμάτωσης Τεχνητής Νοημοσύνης.</value>
+  </data>
+  <data name="Applications can use local and compatible external model resources through a consistent enterprise capability." xml:space="preserve">
+    <value>Οι εφαρμογές μπορούν να χρησιμοποιούν τοπικούς και συμβατούς εξωτερικούς πόρους μοντέλων μέσω μιας συνεπής επιχείρησης ικανότητας.</value>
+  </data>
+  <data name="Applications were typically deployed and maintained by their respective software suppliers. That approach worked while the estate was small, but became difficult to sustain as applications accumulated different runtime environments, deployment methods and operational practices. Accounts and permissions were managed separately, dependencies were difficult to understand, and operational information was scattered across multiple systems." xml:space="preserve">
+    <value>Οι εφαρμογές έκαναν συνήθως την ανάπτυξη και τη συντήρησή τους από τους αντίστοιχους προμηθευτές λογισμικού. Αυτή η προσέγγιση λειτουργούσε ενώ η υποδομή ήταν μικρή, αλλά έγινε δύσκολο να διατηρηθεί καθώς οι εφαρμογές συσσώρευαν διαφορετικά περιβάλλοντα εκτέλεσης, μεθόδους ανάπτυξης και πρακτικές λειτουργίας. Οι λογαριασμοί και οι άδειες διαχείριζονταν ξεχωριστά, οι εξαρτήσεις ήταν δύσκολο να κατανοηθούν και οι πληροφορίες λειτουργίας ήταν διασκορπισμένες σε πολλαπλά συστήματα.</value>
+  </data>
+  <data name="As ChopInsight expanded, it introduced knowledge bases, data analytics, AI-assisted question answering, research tools, collaboration services and a growing number of business applications. Each system addressed a real need, but the infrastructure beneath them had not evolved at the same pace." xml:space="preserve">
+    <value>Καθώς η ChopInsight μεγάλωνε, εισήγαγε βάσεις γνώσης, ανάλυση δεδομένων, απαντήσεις σε ερωτήματα με υποστήριξη Τεχνητής Νοημοσύνης, εργαλεία έρευνας, υπηρεσίες συνεργασίας και έναν αυξανόμενο αριθμό εφαρμογών επιχείρησης. Κάθε σύστημα εξυπηρετούσε μια πραγματική ανάγκη, αλλά η υποδομή που τα υποστούσε δεν είχε εξελιχθεί με τον ίδιο ρυθμό.</value>
+  </data>
+  <data name="Breadcrumb" xml:space="preserve">
+    <value>Προβολή ιεραρχίας</value>
+  </data>
+  <data name="Build what comes next" xml:space="preserve">
+    <value>Δημιουργήστε το επόμενο</value>
+  </data>
+  <data name="Capabilities" xml:space="preserve">
+    <value>Δυνατότητες</value>
+  </data>
+  <data name="ChopInsight builds an AI-ready research platform" xml:space="preserve">
+    <value>Η ChopInsight αναπτύσσει μια πλατφόρμα έρευνας έτοιμη για Τέχνημη Νοημοσύνη</value>
+  </data>
+  <data name="ChopInsight can now balance performance, availability and cost without forcing every application to implement those decisions independently. The technology underneath can change without requiring every consuming application to be redesigned." xml:space="preserve">
+    <value>Το ChopInsight μπορεί πλέον να ισορροπεί απόδοση, διαθεσιμότητα και κόστος, χωρίς να αναγκάζει κάθε εφαρμογή να υλοποιεί αυτές τις αποφάσεις ανεξάρτητα. Η τεχνολογία που βρίσκεται πίσω από αυτό μπορεί να αλλάξει χωρίς να απαιτείται η επανασχεδίαση κάθε εφαρμογής που το χρησιμοποιεί.</value>
+  </data>
+  <data name="ChopInsight needed a platform, not another isolated server." xml:space="preserve">
+    <value>Η ChopInsight χρειαζόταν μια πλατφόρμα, όχι έναν άλλον απομονωμένο διακομιστή.</value>
+  </data>
+  <data name="ChopInsight now has a technology platform that can grow with its research business." xml:space="preserve">
+    <value>Η ChopInsight διαθέτει πλέον μια τεχνολογική πλατφόρμα που μπορεί να αναπτυχθεί μαζί με την ερευνητική της δραστηριότητα.</value>
+  </data>
+  <data name="Cloud resources" xml:space="preserve">
+    <value>Πόροι υπολογιστικού νέφους</value>
+  </data>
+  <data name="Code, configuration and release processes are standardised and versioned instead of living in temporary commands or individual experience." xml:space="preserve">
+    <value>Ο κώδικας, η διαμόρφωση και οι διαδικασίες έκδοσης είναι τυποποιημένες και διαχειρίζονται με ελέγχους εκδόσεων, αντί να βασίζονται σε προσωρινές εντολές ή στην ατομική εμπειρία.</value>
+  </data>
+  <data name="Customer story" xml:space="preserve">
+    <value>Ιστορία πελάτη</value>
+  </data>
+  <data name="Delivery" xml:space="preserve">
+    <value>Παράδοση</value>
+  </data>
+  <data name="Earlier investment keeps working" xml:space="preserve">
+    <value>Ο πρώιμος επενδυτικός όγκος συνεχίζει να αποδίδει</value>
+  </data>
+  <data name="Engagement" xml:space="preserve">
+    <value>Συμμετοχή</value>
+  </data>
+  <data name="Essential service status and operational records can also be viewed from a common perspective. Teams can investigate across services, understand critical system use, retain records for long-term auditing and build toward future alerting and operational analysis—without exposing the customer’s detailed internal architecture." xml:space="preserve">
+    <value>Η κατάσταση των βασικών υπηρεσιών και τα καταχωρήματα λειτουργίας μπορούν επίσης να παρακολουθούνται από μια κοινή οπτική γωνία. Οι ομάδες μπορούν να διερευνούν διαμέσους των υπηρεσιών, να κατανοούν τη χρήση των κρίσιμων συστημάτων, να διατηρούν αρχεία για μακροχρόνιο έλεγχο και να ετοιμάζουν το έδαφος για μελλοντική προειδοποίηση και ανάλυση λειτουργίας—χωρίς να αποκαλύπτεται η λεπτομερής εσωτερική αρχιτεκτονική του πελάτη.</value>
+  </data>
+  <data name="Existing equipment was reused while cost-effective resources were selected and adapted for emerging AI workloads." xml:space="preserve">
+    <value>Το υπάρχον εξοπλισμό επαναχρησιμοποιήθηκε, ενώ επιλέχθηκαν και προσαρμόστηκαν οικονομικά αποδοτικοί πόροι για τις αναδυόμενες εργασίες Τεχνητής Νοημοσύνης.</value>
+  </data>
+  <data name="Existing servers" xml:space="preserve">
+    <value>Υπάρχοντες διακομιστές</value>
+  </data>
+  <data name="Focus" xml:space="preserve">
+    <value>Εστίαση</value>
+  </data>
+  <data name="Fragmented computing resources and business systems became a unified, manageable and scalable environment." xml:space="preserve">
+    <value>Οι διασπασμένοι υπολογιστικοί πόροι και τα επιχειρηματικά συστήματα έγιναν ένα ενιαίο, διαχειρίσιμο και κλιμακούμενο περιβάλλον.</value>
+  </data>
+  <data name="Hardware and software designed as one system" xml:space="preserve">
+    <value>Υπηρεσίες υλικού και λογισμικού σχεδιασμένες ως ένα ενιαίο σύστημα</value>
+  </data>
+  <data name="Highlights" xml:space="preserve">
+    <value>Σημαντικά σημεία</value>
+  </data>
+  <data name="Identity" xml:space="preserve">
+    <value>Ταυτότητα</value>
+  </data>
+  <data name="Identity and AI are shared capabilities" xml:space="preserve">
+    <value>Η ταυτότητα και η Τεχνητή Νοημοσύνη είναι κοινές ικανότητες</value>
+  </data>
+  <data name="Identity, application delivery and operational visibility no longer depend on disconnected manual processes." xml:space="preserve">
+    <value>Η ταυτότητα, η παράδοση εφαρμογών και η λειτουργική ορατότητα δεν εξαρτώνται πλέον από διακοπές χειροκίνητες διαδικασίες.</value>
+  </data>
+  <data name="Industry" xml:space="preserve">
+    <value>Κλάδος</value>
+  </data>
+  <data name="Infrastructure became a platform" xml:space="preserve">
+    <value>Η υποδομή έγινε μια πλατφόρμα</value>
+  </data>
+  <data name="Infrastructure for applied AI" xml:space="preserve">
+    <value>Υποδομή για εφάρμοστεμη Τεχνητή Νοημοσύνη</value>
+  </data>
+  <data name="Infrastructure, AI and application delivery" xml:space="preserve">
+    <value>Υποδομή, AI και παράδοση εφαρμογών</value>
+  </data>
+  <data name="Inputs" xml:space="preserve">
+    <value>Εισόδους</value>
+  </data>
+  <data name="Internal files, research materials, project documents and team collaboration were aligned with the same identity and permission model. For a research organisation with a growing body of specialist material, this simplified everyday collaboration and created a more reliable base for knowledge reuse and AI-assisted research." xml:space="preserve">
+    <value>Οι εσωτερικοί αρχείοι, το ερευνητικό υλικό, τα έγγραφα έργων και η συνεργασία της ομάδας ευθυγραμμίστηκαν με το ίδιο μοντέλο ταυτότητας και δικαιωμάτων. Για έναν ερευνητικό οργανισμό με συνεχώς αυξανόμενο υλικό εξειδικευμένου περιεχομένου, αυτό απλοποίησε την καθημερινή συνεργασία και δημιούργησε μια πιο αξιόπιστη βάση για την επαναχρησιμοποίηση γνώσης και την έρευνα με υποστήριξη τεχνητής νοημοσύνης.</value>
+  </data>
+  <data name="Investment protected" xml:space="preserve">
+    <value>Προστασία επένδυσης</value>
+  </data>
+  <data name="Investment research" xml:space="preserve">
+    <value>Ερευνητική δραστηριότητα επενδύσεων</value>
+  </data>
+  <data name="Its competitive advantage comes from a deep understanding of the business models behind underlying assets, combined with expertise in fundamental research, data science, quantitative finance and large language models. Rather than simply delivering information, ChopInsight is building a new research framework around long-term value, deeper insight and a durable technology advantage." xml:space="preserve">
+    <value>Το ανταγωνιστικό της πλεονέκτημα προκύπτει από μια εμβάθυνση στις επιχειρηματικές μοντέλα πίσω από τα βασικά περιουσιακά στοιχεία, σε συνδυασμό με εξειδίκευση στη θεμελιώδη έρευνα, την επιστήμη των δεδομένων, την ποσοτική χρηματοοικονομική και τα μεγάλα γλωσσικά μοντέλα. Αντί να παρέχει απλώς πληροφορίες, η ChopInsight κατασκευάζει ένα νέο πλαίσιο έρευνας γύρω από τη μακροπρόθεσμη αξία, την εμβάθυνση και ένα ανθεκτικό τεχνολογικό πλεονέκτημα.</value>
+  </data>
+  <data name="Knowledge stays with the organisation" xml:space="preserve">
+    <value>Η γνώση παραμένει στην οργάνωση</value>
+  </data>
+  <data name="Most importantly, technology is less likely to limit the speed of the business. Testing, building and release can proceed through a standardised delivery model, while AI agents can assist with code changes and problem analysis inside an established governance framework." xml:space="preserve">
+    <value>Το πιο σημαντικό είναι ότι η τεχνολογία είναι λιγότερο πιθανό να περιορίσει την ταχύτητα της επιχείρησης. Οι δοκιμές, η ανάπτυξη και η κυκλοφορία μπορούν να προχωρήσουν μέσω ενός τυποποιημένου μοντέλου παράδοσης, ενώ οι πράκτορες Τεχνητής Νοημοσύνης μπορούν να βοηθήσουν με αλλαγές κώδικα και ανάλυση προβλημάτων εντός ενός καθιερωμένου πλαισίου διακυβέρνησης.</value>
+  </data>
+  <data name="Moving into an AI-enabled future, one server at a time" xml:space="preserve">
+    <value>Μεταβαίνοντας σε ένα μέλλον που στηρίζεται στη Τεχνητή Νοημοσύνη, ένας διακομιστής κάθε φορά</value>
+  </data>
+  <data name="New AI compute" xml:space="preserve">
+    <value>Νέο υπολογιστικό έμψυχο AI</value>
+  </data>
+  <data name="New services can use shared deployment, management and operational practices rather than introducing another environment and maintenance owner." xml:space="preserve">
+    <value>Οι νέες υπηρεσίες μπορούν να χρησιμοποιούν κοινές πρακτικές ανάπτυξης, διαχείρισης και λειτουργίας αντί να εισάγουν ένα άλλο περιβάλλον και έναν άλλον υπεύθυνο συντήρησης.</value>
+  </data>
+  <data name="On this page" xml:space="preserve">
+    <value>Σε αυτή τη σελίδα</value>
+  </data>
+  <data name="One shared platform" xml:space="preserve">
+    <value>Μία κοινή πλατφόρμα</value>
+  </data>
+  <data name="Operations" xml:space="preserve">
+    <value>Λειτουργίες</value>
+  </data>
+  <data name="Operations are easier to understand. Service status and essential records are managed from a unified perspective, supporting faster diagnosis, security auditing and future analysis. Rather than contacting several suppliers to identify where a problem belongs, ChopInsight has a clearer view of the environment it operates." xml:space="preserve">
+    <value>Οι λειτουργίες είναι ευκολότερες στην κατανόηση. Η κατάσταση των υπηρεσιών και τα βασικά αρχεία διαχειρίζονται από μια ενιαία οπτική γωνία, υποστηρίζοντας ταχύτερη διάγνωση, έλεγχο ασφαλείας και μελλοντική ανάλυση. Αντί να επικοινωνούν με πολλούς προμηθευτές για να προσδιορίσουν σε ποια υπηρεσία ανήκει ένα πρόβλημα, η ChopInsight διαθέτει μια σαφέστερη εικόνα του περιβάλλοντος στο οποίο λειτουργεί.</value>
+  </data>
+  <data name="Operations standardised" xml:space="preserve">
+    <value>Προτυποποίηση λειτουργιών</value>
+  </data>
+  <data name="Platform architecture overview" xml:space="preserve">
+    <value>Επισκόπηση αρχιτεκτονικής πλατφόρμας</value>
+  </data>
+  <data name="Previously, one server would often be associated with one application. Under the new model, servers became computing resources within a shared platform while applications were managed independently of individual machines. Existing capacity could be reused more effectively, workloads could share resources with appropriate separation, and validated new hardware could join the same management model." xml:space="preserve">
+    <value>Παλαιότερα, ένας διακομιστής συχνά συσχετιζόταν με μία εφαρμογή. Στο νέο μοντέλο, οι διακομιστές έγιναν υπολογιστικοί πόροι εντός μιας κοινής πλατφόρμας, ενώ οι εφαρμογές διαχειρίζονταν ανεξάρτητα από τις μεμονωμένες συσκευές. Η υπάρχουσα ικανότητα μπορούσε να επαναχρησιμοποιηθεί πιο αποτελεσματικά, οι φορτίο εργασίας μπορούσαν να μοιραστούν πόρους με κατάλληλο διαχωρισμό και ο νέος επαληθευμένος υλικός εξοπλισμός μπορούσε να ενταχθεί στο ίδιο μοντέλο διαχείρισης.</value>
+  </data>
+  <data name="Real estate finance and alternative investments" xml:space="preserve">
+    <value>Χρηματοδότηση ακινήτων και εναλλακτικές επενδύσεις</value>
+  </data>
+  <data name="Repeatable delivery and operational visibility" xml:space="preserve">
+    <value>Επαναλαμβανόμενη παράδοση και λειτουργική ορατότητα</value>
+  </data>
+  <data name="Research collaboration on the same foundation" xml:space="preserve">
+    <value>Ερευνητική συνεργασία σε κοινό θεμέλιο</value>
+  </data>
+  <data name="Resource planning, hardware adaptation and software delivery now form one solution, balancing AI performance with stability and cost." xml:space="preserve">
+    <value>Το σχεδιασμός πόρων, η προσαρμογή υλικού και η παράδοση λογισμικού αποτελούν πλέον μία ενιαία λύση, εξισορροπώντας την απόδοση της τεχνητής νοημοσύνης με τη σταθερότητα και το κόστος.</value>
+  </data>
+  <data name="Several traditional rack servers operated alongside public cloud and externally hosted resources. Acquired at different times, from different sources and for different purposes, they had never been designed or managed as a single environment." xml:space="preserve">
+    <value>Πολλαπλοί παραδοσιακοί διακομιστές ράφης λειτουργούσαν παράλληλα με δημόσιο cloud και εξωτερικά φιλοξενούμενα πόδια. Αποκτηθέντες σε διαφορετικές χρονικές στιγμές, από διαφορετικές πηγές και για διαφορετικούς σκοπούς, δεν είχαν ποτέ σχεδιαστεί ή διαχειριστεί ως ενιαίο περιβάλλον.</value>
+  </data>
+  <data name="Shanghai ChopInsight Intelligent Technology Co., Ltd. specialises in real estate finance and alternative investments. It provides integrated primary- and secondary-market research services for participants across REITs, private real estate funds, Pre-REITs, holding-type ABS, public REIT issuance and asset management, insurance and insurance asset management." xml:space="preserve">
+    <value>Η Shanghai ChopInsight Intelligent Technology Co., Ltd. εξειδικεύεται στη χρηματοδότηση ακινήτων και στις εναλλακτικές επενδύσεις. Παρέχει ενσωματωμένες υπηρεσίες έρευνας πρωτογενών και δευτερογενών αγορών για συμμετέχοντες στους τομείς των REITs, των ιδιωτικών κεφαλαίων ακινήτων, των Pre-REITs, των ABS τύπου κράτησης, της έκδοσης δημόσιων REIT και της διαχείρισης περιουσιακών στοιχείων, καθώς και στις ασφαλιστικές υπηρεσίες και τη διαχείριση ασφαλιστικών περιουσιακών στοιχείων.</value>
+  </data>
+  <data name="Shared foundation" xml:space="preserve">
+    <value>Κοινό θεμέλιο</value>
+  </data>
+  <data name="Source code, version management and delivery workflows moved into a common platform. Development, validation, release and rollback now follow a repeatable process, while configuration and change history are retained. Developers and AI agents can contribute without making production delivery depend on a sequence known only to one person." xml:space="preserve">
+    <value>Ο κώδικας πηγής, η διαχείριση εκδόσεων και οι ροές παραγωγής μεταφέρθηκαν σε μια κοινή πλατφόρμα. Η ανάπτυξη, η επιβεβαίωση, η κυκλοφορία και η επαναφορά ακολουθούν πλέον μια επαναλαμβανόμενη διαδικασία, ενώ διατηρούνται η διαμόρφωση και το ιστορικό αλλαγών. Οι προγραμματιστές και οι πράκτορες Τεχνητής Νοημοσύνης μπορούν να συνεισφέρουν χωρίς να καθιστούν την παραγωγή σε περιβάλλον παραγωγής εξαρτώμενη από μια ακολουθία γνωστή μόνο σε ένα άτομο.</value>
+  </data>
+  <data name="Talk to Aiursoft" xml:space="preserve">
+    <value>Επικοινωνήστε με την Aiursoft</value>
+  </data>
+  <data name="The challenge" xml:space="preserve">
+    <value>Η πρόκληση</value>
+  </data>
+  <data name="The organisation" xml:space="preserve">
+    <value>Ο οργανισμός</value>
+  </data>
+  <data name="The project was more than a server migration. It changed how ChopInsight builds, operates and expands its business systems." xml:space="preserve">
+    <value>Το πρόγραμμα ήταν κάτι περισσότερο από μια μετανάστευση server. Αλλάξτε τον τρόπο με τον οποίο η ChopInsight δημιουργεί, λειτουργεί και επεκτείνει τα επιχειρηματικά της συστήματα.</value>
+  </data>
+  <data name="The results" xml:space="preserve">
+    <value>Τα αποτελέσματα</value>
+  </data>
+  <data name="The solution" xml:space="preserve">
+    <value>Η λύση</value>
+  </data>
+  <data name="This fragmentation affected day-to-day work. Diagnosing a problem depended heavily on individual experience. Upgrades and migrations often required the original supplier. Some environments became harder to maintain over time, and expanding capacity could mean purchasing more equipment and repeating the same deployment work. When external operations staff changed, valuable knowledge could leave with them." xml:space="preserve">
+    <value>Αυτή η κατακερματισμός επηρέασε την καθημερινή εργασία. Η διάγνωση ενός προβλήματος εξαρτιόταν σε μεγάλο βαθμό από την ατομική εμπειρία. Οι αναβαθμίσεις και οι μεταφορές συχνά απαιτούσαν την παρέμβαση του αρχικού προμηθευτή. Ορισμένα περιβάλλοντα έγιναν δυσκολότερα στη συντήρηση με τον χρόνο, και η επέκταση της χωρητικότητας μπορούσε να σημαίνει την αγορά περισσότερου εξοπλισμού και την επανάληψη της ίδιας εργασίας διαμόρφωσης. Όταν το εξωτερικό προσωπικό λειτουργιών άλλαζε, πολύτιμη γνώση μπορούσε να φύγει μαζί με αυτό.</value>
+  </data>
+  <data name="This separation gave ChopInsight a more flexible foundation. New services no longer had to begin with a standalone environment. Runtime status and upgrades could be managed centrally, and replacing one machine no longer had to become an application-specific infrastructure project." xml:space="preserve">
+    <value>Αυτή η διαχωριστική γραμμή προσέδωσε στη ChopInsight μια πιο ευέλικτη βάση. Τα νέα υπηρεσιακά μοντέλα δεν χρειάζονταν πλέον να ξεκινήσουν με ένα αυτόνομο περιβάλλον. Η κατάσταση εκτέλεσης και οι αναβαθμίσεις μπορούσαν να διαχειρίζονται κεντρικά, και η αντικατάσταση ενός μηχανήματος δεν χρειαζόταν πλέον να γίνει ένα ειδικό για κάθε εφαρμογή έργο υποδομής.</value>
+  </data>
+  <data name="Turn fragmented infrastructure into a foundation for growth." xml:space="preserve">
+    <value>Μετατρέψτε την κατακερματισμένη υποδομή σε θεμέλιο για την ανάπτυξη.</value>
+  </data>
+  <data name="Unified identity and access" xml:space="preserve">
+    <value>Ενσωματωμένη ταυτότητα και πρόσβαση</value>
+  </data>
+  <data name="Unified. Stable. Scalable. Governable." xml:space="preserve">
+    <value>Ενωμένο. Σταθερό. Κλιμακώσιμο. Διαχειρίσιμο.</value>
+  </data>
+  <data name="Visit ChopInsight" xml:space="preserve">
+    <value>Επίσκεψη στο ChopInsight</value>
+  </data>
+  <data name="With suitably adapted local computing resources in place, Aiursoft established a unified entry point for AI services. Users and applications could access model capabilities through consistent rules, while permissions, credentials, usage and service health could be managed centrally." xml:space="preserve">
+    <value>Με κατάλληλα προσαρμοσμένους τοπικούς πόρους υπολογιστικής ισχύος σε θέση, η Aiursoft καθιέρωσε ένα ενιαίο σημείο εισόδου για τις υπηρεσίες Τεχνητής Νοημοσύνης. Οι χρήστες και οι εφαρμογές μπορούσαν να έχουν πρόσβαση στις δυνατότητες των μοντέλων μέσω συνεπών κανόνων, ενώ οι εξουσιοδοτήσεις, τα διαπιστευτήρια, η χρήση και η υγεία της υπηρεσίας μπορούσαν να διαχειρίζονται κεντρικά.</value>
+  </data>
+
+</root>
