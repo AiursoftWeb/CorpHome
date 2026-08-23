@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="A capability the company can increasingly control for itself" xml:space="preserve">
+    <value>O capabilitate pe care compania o poate controla din ce în ce mai mult în mod autonom</value>
+  </data>
+  <data name="A consistent infrastructure foundation" xml:space="preserve">
+    <value>O fundament de infrastructură coerent</value>
+  </data>
+  <data name="A foundation designed to evolve with the business." xml:space="preserve">
+    <value>O fundament conceput pentru a evolua odată cu afacerea.</value>
+  </data>
+  <data name="A software-only delivery would not solve the problem either. Even a well-designed platform cannot provide the expected performance or reliability when its underlying hardware is unsuitable or poorly integrated. ChopInsight needed a coordinated approach that could preserve existing investments, add computing capacity where necessary, and support conventional applications and AI workloads through a common management model." xml:space="preserve">
+    <value>O livrare bazată exclusiv pe software nu ar rezolva nici ea problema. Chiar și o platformă bine proiectată nu poate oferi performanța sau fiabilitatea așteptate atunci când hardware-ul de bază este inadecvat sau integrat deficient. ChopInsight avea nevoie de o abordare coordonată care să poată păstra investițiile existente, să adauge capacitate de calcul acolo unde este necesar și să suporte aplicațiile convenționale și sarcinile de lucru AI printr-un model comun de gestionare.</value>
+  </data>
+  <data name="About ChopInsight" xml:space="preserve">
+    <value>Despre ChopInsight</value>
+  </data>
+  <data name="AI access" xml:space="preserve">
+    <value>Acces la AI</value>
+  </data>
+  <data name="AI access governed" xml:space="preserve">
+    <value>Accesul la AI guvernat</value>
+  </data>
+  <data name="AI as a governed enterprise capability" xml:space="preserve">
+    <value>IA ca capacitate de nivel întreprindere, cu guvernanță</value>
+  </data>
+  <data name="AI introduced a second, closely related challenge. Suitable computing resources could be expensive and complex to specify. ChopInsight needed to avoid hardware that might later prove unsuitable for its software or operational requirements, while simply replacing equipment would have ignored the value of its existing servers." xml:space="preserve">
+    <value>IA a introdus o a doua provocare, strâns legată de prima. Resursele de calcul adecvate puteau fi costisitoare și complexe de specificat. ChopInsight trebuia să evite hardware-ul care ar fi putut dovedi ulterior că nu este potrivit pentru cerințele sale de software sau operaționale, în timp ce o simplă înlocuire a echipamentului ar fi ignorat valoarea serverelor sale existente.</value>
+  </data>
+  <data name="Aiursoft assessed ChopInsight’s physical equipment, computing resources, application requirements and future AI plans together. Performance, stability, cost and future expansion informed a single design, making hardware selection and adaptation part of the service rather than a separate procurement exercise." xml:space="preserve">
+    <value>Aiursoft a evaluat împreună echipamentul fizic, resursele de calcul, cerințele aplicațiilor și planurile viitoare în materie de inteligență artificială ale ChopInsight. Performanța, stabilitatea, costurile și posibilitățile de extindere viitoare au fundamentat o singură soluție de proiectare, făcând ca selecția și adaptarea hardware-ului să devină parte integrantă a serviciului, nu un proces separat de achiziție.</value>
+  </data>
+  <data name="Aiursoft brought ChopInsight’s existing infrastructure, emerging AI requirements and business applications into one stable, scalable platform—protecting earlier investments while preparing the business for continued AI adoption." xml:space="preserve">
+    <value>Aiursoft a integrat infrastructura existentă a ChopInsight, cerințele emergente privind IA și aplicațiile de afaceri într-o platformă unică, stabilă și scalabilă, protejând investițiile anterioare, în timp ce pregătește afacerea pentru o adoptare continuă a IA.</value>
+  </data>
+  <data name="Aiursoft introduced a unified identity layer and connected relevant internal services to it. Users, organisational relationships and access policies could be managed through a common framework, reducing duplicate accounts while establishing a foundation for consistent access governance, service auditing and secure use of internal applications." xml:space="preserve">
+    <value>Aiursoft a introdus un strat unificat de identitate și a conectat la acesta serviciile interne relevante. Utilizatorii, relațiile organizaționale și politicile de acces au putut fi gestionate printr-un cadru comun, reducând conturile duplicate și stabilind o bază pentru o guvernanță coerentă a accesului, auditul serviciilor și utilizarea în siguranță a aplicațiilor interne.</value>
+  </data>
+  <data name="Aiursoft managed platform" xml:space="preserve">
+    <value>Platformă gestionată de Aiursoft</value>
+  </data>
+  <data name="Applications can use a unified access model and governed model resources without repeating account administration or AI integration work." xml:space="preserve">
+    <value>Aplicațiile pot utiliza un model de acces unitar și resurse de modele guvernate, fără a repeta administrarea conturilor sau integrarea AI.</value>
+  </data>
+  <data name="Applications can use local and compatible external model resources through a consistent enterprise capability." xml:space="preserve">
+    <value>Aplicațiile pot utiliza resurse locale și resurse externe compatibile de modele printr-o capacitate de întreprindere coerentă.</value>
+  </data>
+  <data name="Applications were typically deployed and maintained by their respective software suppliers. That approach worked while the estate was small, but became difficult to sustain as applications accumulated different runtime environments, deployment methods and operational practices. Accounts and permissions were managed separately, dependencies were difficult to understand, and operational information was scattered across multiple systems." xml:space="preserve">
+    <value>Aplicațiile erau, de obicei, implementate și întreținute de furnizorii lor respectivi de software. Acesta a fost un abordare funcțională pe măsură ce parcul aplicațiilor era mic, dar a devenit dificil de susținut pe măsură ce aplicațiile au acumulat medii de execuție diferite, metode de implementare și practici operaționale distincte. Conturile și permisiunile erau gestionate separat, dependențele erau greu de înțeles, iar informațiile operaționale erau dispersate pe mai multe sisteme.</value>
+  </data>
+  <data name="As ChopInsight expanded, it introduced knowledge bases, data analytics, AI-assisted question answering, research tools, collaboration services and a growing number of business applications. Each system addressed a real need, but the infrastructure beneath them had not evolved at the same pace." xml:space="preserve">
+    <value>Pe măsură ce ChopInsight s-a extins, a introdus baze de cunoștințe, analiză de date, răspunsuri la întrebări asistate de IA, instrumente de cercetare, servicii de colaborare și un număr tot mai mare de aplicații de afaceri. Fiecare sistem a răspuns unei nevoi reale, dar infrastructura de sub ele nu s-a evoluat în același ritm.</value>
+  </data>
+  <data name="Breadcrumb" xml:space="preserve">
+    <value>Navigație</value>
+  </data>
+  <data name="Build what comes next" xml:space="preserve">
+    <value>Construie ce urmează</value>
+  </data>
+  <data name="Capabilities" xml:space="preserve">
+    <value>Capacități</value>
+  </data>
+  <data name="ChopInsight builds an AI-ready research platform" xml:space="preserve">
+    <value>ChopInsight construiește o platformă de cercetare pregătită pentru AI</value>
+  </data>
+  <data name="ChopInsight can now balance performance, availability and cost without forcing every application to implement those decisions independently. The technology underneath can change without requiring every consuming application to be redesigned." xml:space="preserve">
+    <value>ChopInsight poate acum să echilibreze performanța, disponibilitatea și costurile fără a forța fiecare aplicație să implementeze aceste decizii independent. Tehnologia din spate se poate schimba fără a necesita redesenarea fiecărei aplicații care o utilizează.</value>
+  </data>
+  <data name="ChopInsight needed a platform, not another isolated server." xml:space="preserve">
+    <value>ChopInsight avea nevoie de o platformă, nu de un alt server izolat.</value>
+  </data>
+  <data name="ChopInsight now has a technology platform that can grow with its research business." xml:space="preserve">
+    <value>ChopInsight are acum o platformă tehnologică care poate crește odată cu activitatea sa de cercetare.</value>
+  </data>
+  <data name="Cloud resources" xml:space="preserve">
+    <value>Resurse cloud</value>
+  </data>
+  <data name="Code, configuration and release processes are standardised and versioned instead of living in temporary commands or individual experience." xml:space="preserve">
+    <value>Codul, configurația și procesele de livrare sunt standardizate și versionate, în loc să rezide în comenzi temporare sau în experiența individuală.</value>
+  </data>
+  <data name="Customer story" xml:space="preserve">
+    <value>Studiu de caz</value>
+  </data>
+  <data name="Delivery" xml:space="preserve">
+    <value>Livrare</value>
+  </data>
+  <data name="Earlier investment keeps working" xml:space="preserve">
+    <value>Investițiile anterioare continuă să funcționeze</value>
+  </data>
+  <data name="Engagement" xml:space="preserve">
+    <value>Implicare</value>
+  </data>
+  <data name="Essential service status and operational records can also be viewed from a common perspective. Teams can investigate across services, understand critical system use, retain records for long-term auditing and build toward future alerting and operational analysis—without exposing the customer’s detailed internal architecture." xml:space="preserve">
+    <value>Starea serviciilor esențiale și înregistrările operaționale pot fi, de asemenea, vizualizate dintr-o perspectivă comună. Echipele pot investiga între servicii, pot înțelege utilizarea sistemelor critice, pot păstra înregistrări pentru audit pe termen lung și pot pregăti alerta și analiza operațională viitoare — fără a expune arhitectura internă detaliată a clientului.</value>
+  </data>
+  <data name="Existing equipment was reused while cost-effective resources were selected and adapted for emerging AI workloads." xml:space="preserve">
+    <value>Echipamentul existent a fost reutilizat, în timp ce au fost selectate și adaptate resurse eficiente din punct de vedere al costurilor pentru sarcinile emergente de AI.</value>
+  </data>
+  <data name="Existing servers" xml:space="preserve">
+    <value>Servere existente</value>
+  </data>
+  <data name="Focus" xml:space="preserve">
+    <value>Aria de acțiune</value>
+  </data>
+  <data name="Fragmented computing resources and business systems became a unified, manageable and scalable environment." xml:space="preserve">
+    <value>Resursele de calcul fragmentate și sistemele de afaceri au devenit un mediu unitar, ușor de administrat și scalabil.</value>
+  </data>
+  <data name="Hardware and software designed as one system" xml:space="preserve">
+    <value>Hardware și software concepute ca un singur sistem</value>
+  </data>
+  <data name="Highlights" xml:space="preserve">
+    <value>Puncte cheie</value>
+  </data>
+  <data name="Identity" xml:space="preserve">
+    <value>Identitate</value>
+  </data>
+  <data name="Identity and AI are shared capabilities" xml:space="preserve">
+    <value>Identitatea și IA sunt capacități partajate</value>
+  </data>
+  <data name="Identity, application delivery and operational visibility no longer depend on disconnected manual processes." xml:space="preserve">
+    <value>Identitatea, livrarea aplicațiilor și vizibilitatea operațională nu mai depind de procese manuale fragmentate.</value>
+  </data>
+  <data name="Industry" xml:space="preserve">
+    <value>Industrie</value>
+  </data>
+  <data name="Infrastructure became a platform" xml:space="preserve">
+    <value>Infrastructura a devenit o platformă</value>
+  </data>
+  <data name="Infrastructure for applied AI" xml:space="preserve">
+    <value>Infrastructură pentru AI aplicată</value>
+  </data>
+  <data name="Infrastructure, AI and application delivery" xml:space="preserve">
+    <value>Infrastructură, AI și livrarea aplicațiilor</value>
+  </data>
+  <data name="Inputs" xml:space="preserve">
+    <value>Intrări</value>
+  </data>
+  <data name="Internal files, research materials, project documents and team collaboration were aligned with the same identity and permission model. For a research organisation with a growing body of specialist material, this simplified everyday collaboration and created a more reliable base for knowledge reuse and AI-assisted research." xml:space="preserve">
+    <value>Fișierele interne, materialele de cercetare, documentele de proiect și colaborarea echipei au fost aliniate cu același model de identitate și permisiuni. Pentru o organizație de cercetare cu un volum în creștere de materiale specializate, acest lucru a simplificat colaborarea zilnică și a creat o bază mai fiabilă pentru reutilizarea cunoștințelor și cercetarea asistată de IA.</value>
+  </data>
+  <data name="Investment protected" xml:space="preserve">
+    <value>Investiție protejată</value>
+  </data>
+  <data name="Investment research" xml:space="preserve">
+    <value>Cercetări în domeniul investițiilor</value>
+  </data>
+  <data name="Its competitive advantage comes from a deep understanding of the business models behind underlying assets, combined with expertise in fundamental research, data science, quantitative finance and large language models. Rather than simply delivering information, ChopInsight is building a new research framework around long-term value, deeper insight and a durable technology advantage." xml:space="preserve">
+    <value>Avantajul său competitiv provine dintr-o înțelegere profundă a modelelor de afaceri din spatele activelor de bază, combinată cu expertiză în cercetare fundamentală, știința datelor, finanțele cantitative și modelele de limbaj de scară mare. În loc să furnizeze pur și simplu informații, ChopInsight construiește un nou cadru de cercetare centrat pe valoarea pe termen lung, o înțelegere mai profundă și un avantaj tehnologic durabil.</value>
+  </data>
+  <data name="Knowledge stays with the organisation" xml:space="preserve">
+    <value>Cunoaștințele rămân în organizație</value>
+  </data>
+  <data name="Most importantly, technology is less likely to limit the speed of the business. Testing, building and release can proceed through a standardised delivery model, while AI agents can assist with code changes and problem analysis inside an established governance framework." xml:space="preserve">
+    <value>Cea mai importantă este că tehnologia este mai puțin probabil să limiteze viteza afacerii. Testarea, construcția și publicarea pot decurge printr-un model standardizat de livrare, în timp ce agenții AI pot asista la modificarea codului și la analiza problemelor în cadrul unui cadru de guvernanță stabilit.</value>
+  </data>
+  <data name="Moving into an AI-enabled future, one server at a time" xml:space="preserve">
+    <value>Migrația spre un viitor cu inteligență artificială, un server de o parte</value>
+  </data>
+  <data name="New AI compute" xml:space="preserve">
+    <value>Calculare nouă AI</value>
+  </data>
+  <data name="New services can use shared deployment, management and operational practices rather than introducing another environment and maintenance owner." xml:space="preserve">
+    <value>Noile servicii pot utiliza practici comune de implementare, gestionare și operare, în loc să introducă un alt mediu și un alt responsabil de mentenanță.</value>
+  </data>
+  <data name="On this page" xml:space="preserve">
+    <value>Pe această pagină</value>
+  </data>
+  <data name="One shared platform" xml:space="preserve">
+    <value>O singur platformă comună</value>
+  </data>
+  <data name="Operations" xml:space="preserve">
+    <value>Operațiuni</value>
+  </data>
+  <data name="Operations are easier to understand. Service status and essential records are managed from a unified perspective, supporting faster diagnosis, security auditing and future analysis. Rather than contacting several suppliers to identify where a problem belongs, ChopInsight has a clearer view of the environment it operates." xml:space="preserve">
+    <value>Operațiunile sunt mai ușor de înțeles. Starea serviciilor și înregistrările esențiale sunt gestionate dintr-o perspectivă unificată, susținând o diagnosticare mai rapidă, auditul de securitate și analiza viitoare. În loc să contacteze mai mulți furnizori pentru a identifica la care aparține o problemă, ChopInsight are o vizualizare mai clară a mediului în care operează.</value>
+  </data>
+  <data name="Operations standardised" xml:space="preserve">
+    <value>Operaționalizare standardizată</value>
+  </data>
+  <data name="Platform architecture overview" xml:space="preserve">
+    <value>Prezentare de ansamblu a arhitecturii platformei</value>
+  </data>
+  <data name="Previously, one server would often be associated with one application. Under the new model, servers became computing resources within a shared platform while applications were managed independently of individual machines. Existing capacity could be reused more effectively, workloads could share resources with appropriate separation, and validated new hardware could join the same management model." xml:space="preserve">
+    <value>Până acum, un server era adesea asociat cu o singură aplicație. În noul model, serverele au devenit resurse de calcul într-o platformă partajată, în timp ce aplicațiile erau administrate independent de mașinile individuale. Capacitatea existentă putea fi reutilizată mai eficient, sarcinile de lucru puteau partaja resurse cu o separare adecvată, iar noua hardware validat putea integra același model de gestionare.</value>
+  </data>
+  <data name="Real estate finance and alternative investments" xml:space="preserve">
+    <value>Finanțare imobiliară și investiții alternative</value>
+  </data>
+  <data name="Repeatable delivery and operational visibility" xml:space="preserve">
+    <value>Livrare repetabilă și vizibilitate operațională</value>
+  </data>
+  <data name="Research collaboration on the same foundation" xml:space="preserve">
+    <value>Colaborare în cercetare pe aceeași bază</value>
+  </data>
+  <data name="Resource planning, hardware adaptation and software delivery now form one solution, balancing AI performance with stability and cost." xml:space="preserve">
+    <value>Planificarea resurselor, adaptarea hardware-ului și livrarea software-ului formează acum o singură soluție, echilibrând performanța AI cu stabilitatea și costurile.</value>
+  </data>
+  <data name="Several traditional rack servers operated alongside public cloud and externally hosted resources. Acquired at different times, from different sources and for different purposes, they had never been designed or managed as a single environment." xml:space="preserve">
+    <value>Câțiva servere rack tradiționale funcționau alături de resurse din cloud public și resurse găzduite extern. Achiziționate în momente diferite, din surse diferite și pentru scopuri diferite, ele nu au fost niciodată proiectate sau administrate ca un mediu unitar.</value>
+  </data>
+  <data name="Shanghai ChopInsight Intelligent Technology Co., Ltd. specialises in real estate finance and alternative investments. It provides integrated primary- and secondary-market research services for participants across REITs, private real estate funds, Pre-REITs, holding-type ABS, public REIT issuance and asset management, insurance and insurance asset management." xml:space="preserve">
+    <value>Shanghai ChopInsight Intelligent Technology Co., Ltd. se specializează în finanțele imobiliare și investițiile alternative. Oferă servicii integrate de cercetare pentru piețele primară și secundară, destinate participanților din sectorul REITs, fondurilor private imobiliare, Pre-REITs, ABS de tip holding, emisiunii publice de REITs și gestiunii activelor, asigurărilor și gestiunii activelor de asigurare.</value>
+  </data>
+  <data name="Shared foundation" xml:space="preserve">
+    <value>Bază comună</value>
+  </data>
+  <data name="Source code, version management and delivery workflows moved into a common platform. Development, validation, release and rollback now follow a repeatable process, while configuration and change history are retained. Developers and AI agents can contribute without making production delivery depend on a sequence known only to one person." xml:space="preserve">
+    <value>Codul sursă, gestionarea versiunilor și fluxurile de livrare au fost transferate pe o platformă comună. Dezvoltarea, validarea, lansarea și revenirea la versiunea anterioară urmează acum un proces repetabil, în timp ce configurația și istoricul modificărilor sunt păstrate. Dezvoltatorii și agenții AI pot contribui fără ca livrarea în producție să depindă de o secvență cunoscută doar de o singură persoană.</value>
+  </data>
+  <data name="Talk to Aiursoft" xml:space="preserve">
+    <value>Vorbește cu Aiursoft</value>
+  </data>
+  <data name="The challenge" xml:space="preserve">
+    <value>Provocarea</value>
+  </data>
+  <data name="The organisation" xml:space="preserve">
+    <value>Organizația</value>
+  </data>
+  <data name="The project was more than a server migration. It changed how ChopInsight builds, operates and expands its business systems." xml:space="preserve">
+    <value>Proiectul a fost mult mai mult decât o migrare de servere. A schimbat modul în care ChopInsight construiește, operează și extinde sistemele sale de afaceri.</value>
+  </data>
+  <data name="The results" xml:space="preserve">
+    <value>Rezultatele</value>
+  </data>
+  <data name="The solution" xml:space="preserve">
+    <value>Soluția</value>
+  </data>
+  <data name="This fragmentation affected day-to-day work. Diagnosing a problem depended heavily on individual experience. Upgrades and migrations often required the original supplier. Some environments became harder to maintain over time, and expanding capacity could mean purchasing more equipment and repeating the same deployment work. When external operations staff changed, valuable knowledge could leave with them." xml:space="preserve">
+    <value>Această fragmentare a afectat activitatea zilnică. Diagnosticarea unei probleme depindea în mare măsură de experiența individuală. Actualizările și migrațiile necesitau adesea implicarea furnizorului original. Unele medii deveneau din ce în ce mai dificil de întreținut în timp, iar extinderea capacității putea însemna achiziționarea de echipamente suplimentare și repetarea aceluiași proces de implementare. Când personalul extern de operațiuni se schimba, cunoștințele valoroase puteau pleca odată cu ei.</value>
+  </data>
+  <data name="This separation gave ChopInsight a more flexible foundation. New services no longer had to begin with a standalone environment. Runtime status and upgrades could be managed centrally, and replacing one machine no longer had to become an application-specific infrastructure project." xml:space="preserve">
+    <value>Această separare a oferit ChopInsight o bază mai flexibilă. Serviciile noi nu mai trebuiau să înceapă cu un mediu autonom. Starea de execuție și actualizările puteau fi gestionate centralizat, iar înlocuirea unui singur echipament nu mai trebuia să devină un proiect de infrastructură specific aplicației.</value>
+  </data>
+  <data name="Turn fragmented infrastructure into a foundation for growth." xml:space="preserve">
+    <value>Transforma infrastructura fragmentată într-o bază pentru creștere.</value>
+  </data>
+  <data name="Unified identity and access" xml:space="preserve">
+    <value>Identitate și acces unificate</value>
+  </data>
+  <data name="Unified. Stable. Scalable. Governable." xml:space="preserve">
+    <value>Unificat. Stabil. Scalabil. Guvernabil.</value>
+  </data>
+  <data name="Visit ChopInsight" xml:space="preserve">
+    <value>Vizitează ChopInsight</value>
+  </data>
+  <data name="With suitably adapted local computing resources in place, Aiursoft established a unified entry point for AI services. Users and applications could access model capabilities through consistent rules, while permissions, credentials, usage and service health could be managed centrally." xml:space="preserve">
+    <value>Cu resursele de calcul locale adecvat adaptate la dispoziție, Aiursoft a stabilit un punct de intrare unitar pentru serviciile de AI. Utilizatorii și aplicațiile puteau accesa capacitățile modelelor prin reguli coerente, în timp ce permisiunile, acreditările, utilizarea și sănătatea serviciului puteau fi gestionate centralizat.</value>
+  </data>
+
+</root>

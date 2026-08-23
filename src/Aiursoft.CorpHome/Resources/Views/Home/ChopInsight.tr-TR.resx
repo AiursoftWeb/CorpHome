@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="A capability the company can increasingly control for itself" xml:space="preserve">
+    <value>Şirketin giderek daha fazla kendi kontrolünde tutabileceği bir yetkinlik</value>
+  </data>
+  <data name="A consistent infrastructure foundation" xml:space="preserve">
+    <value>Tutarlı bir altyapı temeli</value>
+  </data>
+  <data name="A foundation designed to evolve with the business." xml:space="preserve">
+    <value>İşletmeyle birlikte gelişmek üzere tasarlanmış bir altyapı.</value>
+  </data>
+  <data name="A software-only delivery would not solve the problem either. Even a well-designed platform cannot provide the expected performance or reliability when its underlying hardware is unsuitable or poorly integrated. ChopInsight needed a coordinated approach that could preserve existing investments, add computing capacity where necessary, and support conventional applications and AI workloads through a common management model." xml:space="preserve">
+    <value>Yalnızca yazılım tabanlı bir teslimat da sorunu çözmeyecekti. Altta yatan donanım uygun değilse veya kötü entegre edilmişse, iyi tasarlanmış bir platform bile beklenen performansı veya güvenilirliği sağlayamaz. ChopInsight, mevcut yatırımları koruyabilen, gerekli yerlerde hesaplama kapasitesini artırabilen ve geleneksel uygulamalar ile yapay zekâ iş yüklerini ortak bir yönetim modeli üzerinden destekleyebilen koordineli bir yaklaşıma ihtiyaç duyuyordu.</value>
+  </data>
+  <data name="About ChopInsight" xml:space="preserve">
+    <value>ChopInsight Hakkında</value>
+  </data>
+  <data name="AI access" xml:space="preserve">
+    <value>Yapay zekâ erişimi</value>
+  </data>
+  <data name="AI access governed" xml:space="preserve">
+    <value>Yapay zekâ erişimi yönetiliyor</value>
+  </data>
+  <data name="AI as a governed enterprise capability" xml:space="preserve">
+    <value>Yönetilen bir kurumsal yetenek olarak Yapay Zeka</value>
+  </data>
+  <data name="AI introduced a second, closely related challenge. Suitable computing resources could be expensive and complex to specify. ChopInsight needed to avoid hardware that might later prove unsuitable for its software or operational requirements, while simply replacing equipment would have ignored the value of its existing servers." xml:space="preserve">
+    <value>Yapay zeka, yakından ilişkili ikinci bir zorluğu da beraberinde getirdi. Uygun hesaplama kaynakları pahalı olabilir ve bunları belirlemek karmaşık bir süreç olabilirdi. ChopInsight, yazılım veya operasyonel gereksinimleri için daha sonra uygun olmadığı ortaya çıkabilecek donanımdan kaçınmak zorundaydı; ancak ekipmanı basitçe değiştirmek, mevcut sunucularının değerini göz ardı etmek anlamına gelirdi.</value>
+  </data>
+  <data name="Aiursoft assessed ChopInsight’s physical equipment, computing resources, application requirements and future AI plans together. Performance, stability, cost and future expansion informed a single design, making hardware selection and adaptation part of the service rather than a separate procurement exercise." xml:space="preserve">
+    <value>Aiursoft, ChopInsight&apos;in fiziksel ekipmanını, hesaplama kaynaklarını, uygulama gereksinimlerini ve gelecekteki yapay zeka planlarını birlikte değerlendirdi. Performans, kararlılık, maliyet ve gelecekteki genişleme tek bir tasarımı şekillendirdi; böylece donanım seçimi ve uyarlaması ayrı bir tedarik süreci olmak yerine hizmetin bir parçası haline geldi.</value>
+  </data>
+  <data name="Aiursoft brought ChopInsight’s existing infrastructure, emerging AI requirements and business applications into one stable, scalable platform—protecting earlier investments while preparing the business for continued AI adoption." xml:space="preserve">
+    <value>Aiursoft, ChopInsight’ın mevcut altyapısını, ortaya çıkan yapay zekâ gereksinimlerini ve iş uygulamalarını tek bir kararlı ve ölçeklenebilir platformda bir araya getirdi; önceki yatırımları korurken işletmeyi devam eden yapay zekâ benimsemesine hazırladı.</value>
+  </data>
+  <data name="Aiursoft introduced a unified identity layer and connected relevant internal services to it. Users, organisational relationships and access policies could be managed through a common framework, reducing duplicate accounts while establishing a foundation for consistent access governance, service auditing and secure use of internal applications." xml:space="preserve">
+    <value>Aiursoft, birleşik bir kimlik katmanı tanıttı ve ilgili iç servisleri bu katmana bağladı. Kullanıcılar, organizasyonel ilişkiler ve erişim politikaları ortak bir çerçeve üzerinden yönetilebildi; bu sayede mükerrer hesaplar azaltılırken tutarlı erişim yönetişimi, servis denetimi ve iç uygulamaların güvenli kullanımı için bir temel oluşturuldu.</value>
+  </data>
+  <data name="Aiursoft managed platform" xml:space="preserve">
+    <value>Aiursoft Yönetilen Platform</value>
+  </data>
+  <data name="Applications can use a unified access model and governed model resources without repeating account administration or AI integration work." xml:space="preserve">
+    <value>Uygulamalar, hesap yönetimi veya yapay zeka entegrasyonu işlemlerini tekrarlamak zorunda kalmadan birleşik bir erişim modeli ve yönetilen model kaynaklarını kullanabilir.</value>
+  </data>
+  <data name="Applications can use local and compatible external model resources through a consistent enterprise capability." xml:space="preserve">
+    <value>Uygulamalar, tutarlı bir kurumsal yetenek üzerinden yerel ve uyumlu dış model kaynaklarını kullanabilir.</value>
+  </data>
+  <data name="Applications were typically deployed and maintained by their respective software suppliers. That approach worked while the estate was small, but became difficult to sustain as applications accumulated different runtime environments, deployment methods and operational practices. Accounts and permissions were managed separately, dependencies were difficult to understand, and operational information was scattered across multiple systems." xml:space="preserve">
+    <value>Uygulamalar genellikle ilgili yazılım tedarikçileri tarafından dağıtılır ve sürdürülürdü. Altyapı küçükken bu yaklaşım işe yarıyordu, ancak uygulamalar farklı çalışma zamanı ortamları, dağıtım yöntemleri ve işletim uygulamaları biriktirdikçe sürdürülebilir hale gelmesi güçleşti. Hesaplar ve izinler ayrı ayrı yönetiliyor, bağımlılıklar zor anlaşılıyordu ve işletim bilgileri birden fazla sistem arasında dağılmış haldeydi.</value>
+  </data>
+  <data name="As ChopInsight expanded, it introduced knowledge bases, data analytics, AI-assisted question answering, research tools, collaboration services and a growing number of business applications. Each system addressed a real need, but the infrastructure beneath them had not evolved at the same pace." xml:space="preserve">
+    <value>ChopInsight büyüdükçe bilgi tabanları, veri analitiği, yapay zekâ destekli soru-cevap, araştırma araçları, iş birliği hizmetleri ve giderek artan sayıda iş uygulaması tanıttı. Her sistem gerçek bir ihtiyacı karşılıyordu, ancak bunların altındaki altyapı aynı hızda gelişmemişti.</value>
+  </data>
+  <data name="Breadcrumb" xml:space="preserve">
+    <value>Kırıntı</value>
+  </data>
+  <data name="Build what comes next" xml:space="preserve">
+    <value>Sonraki neyi inşa edin</value>
+  </data>
+  <data name="Capabilities" xml:space="preserve">
+    <value>Yetenekler</value>
+  </data>
+  <data name="ChopInsight builds an AI-ready research platform" xml:space="preserve">
+    <value>ChopInsight yapay zekaya hazır bir araştırma platformu geliştiriyor</value>
+  </data>
+  <data name="ChopInsight can now balance performance, availability and cost without forcing every application to implement those decisions independently. The technology underneath can change without requiring every consuming application to be redesigned." xml:space="preserve">
+    <value>ChopInsight artık her uygulamanın bu kararları bağımsız olarak uygulamasını zorlamadan performans, erişilebilirlik ve maliyet dengesini sağlayabilir. Altta yatan teknoloji, kullanan her uygulamanın yeniden tasarlanmasını gerektirmeden değiştirilebilir.</value>
+  </data>
+  <data name="ChopInsight needed a platform, not another isolated server." xml:space="preserve">
+    <value>ChopInsight&apos;e bir sunucu değil, bir platform gerekiyordu.</value>
+  </data>
+  <data name="ChopInsight now has a technology platform that can grow with its research business." xml:space="preserve">
+    <value>ChopInsight artık araştırma işiyle birlikte büyüyebilecek bir teknoloji platformuna sahip.</value>
+  </data>
+  <data name="Cloud resources" xml:space="preserve">
+    <value>Bulut kaynakları</value>
+  </data>
+  <data name="Code, configuration and release processes are standardised and versioned instead of living in temporary commands or individual experience." xml:space="preserve">
+    <value>Kod, yapılandırma ve sürüm süreçleri, geçici komutlarda veya bireysel deneyimde kalmak yerine standartlaştırılmış ve sürüm kontrolü altına alınmıştır.</value>
+  </data>
+  <data name="Customer story" xml:space="preserve">
+    <value>Müşteri hikayesi</value>
+  </data>
+  <data name="Delivery" xml:space="preserve">
+    <value>Dağıtım</value>
+  </data>
+  <data name="Earlier investment keeps working" xml:space="preserve">
+    <value>Erken yapılan yatırımlar işlevini sürdürmeye devam ediyor</value>
+  </data>
+  <data name="Engagement" xml:space="preserve">
+    <value>Çalışma Kapsamı</value>
+  </data>
+  <data name="Essential service status and operational records can also be viewed from a common perspective. Teams can investigate across services, understand critical system use, retain records for long-term auditing and build toward future alerting and operational analysis—without exposing the customer’s detailed internal architecture." xml:space="preserve">
+    <value>Temel hizmet durumu ve operasyonel kayıtlar da ortak bir bakış açısıyla görüntülenebilir. Ekibler, hizmetler arası inceleme yapabilir, kritik sistem kullanımını anlayabilir, uzun vadeli denetim için kayıtları saklayabilir ve gelecekteki uyarı ile operasyonel analize doğru ilerleyebilir—bunun için müşterinin ayrıntılı iç mimarisini ifşa etmeden.</value>
+  </data>
+  <data name="Existing equipment was reused while cost-effective resources were selected and adapted for emerging AI workloads." xml:space="preserve">
+    <value>Mevcut ekipman yeniden kullanılırken, ortaya çıkan yapay zekâ iş yükleri için maliyet-etkin kaynaklar seçildi ve uyarlandı.</value>
+  </data>
+  <data name="Existing servers" xml:space="preserve">
+    <value>Mevcut sunucular</value>
+  </data>
+  <data name="Focus" xml:space="preserve">
+    <value>Odak</value>
+  </data>
+  <data name="Fragmented computing resources and business systems became a unified, manageable and scalable environment." xml:space="preserve">
+    <value>Parçalı hesaplama kaynakları ve iş sistemleri, birleşik, yönetilebilir ve ölçeklenebilir bir ortama dönüştü.</value>
+  </data>
+  <data name="Hardware and software designed as one system" xml:space="preserve">
+    <value>Tek bir sistem olarak tasarlanmış donanım ve yazılım</value>
+  </data>
+  <data name="Highlights" xml:space="preserve">
+    <value>Öne Çıkanlar</value>
+  </data>
+  <data name="Identity" xml:space="preserve">
+    <value>Kimlik</value>
+  </data>
+  <data name="Identity and AI are shared capabilities" xml:space="preserve">
+    <value>Kimlik ve yapay zekâ paylaşılan yeteneklerdir</value>
+  </data>
+  <data name="Identity, application delivery and operational visibility no longer depend on disconnected manual processes." xml:space="preserve">
+    <value>Kimlik, uygulama dağıtımı ve operasyonel görünürlük artık kopuk manuel süreçlere bağlı değildir.</value>
+  </data>
+  <data name="Industry" xml:space="preserve">
+    <value>Sektör</value>
+  </data>
+  <data name="Infrastructure became a platform" xml:space="preserve">
+    <value>Altyapı bir platforma dönüştü</value>
+  </data>
+  <data name="Infrastructure for applied AI" xml:space="preserve">
+    <value>Uygulamalı Yapay Zekâ Altyapısı</value>
+  </data>
+  <data name="Infrastructure, AI and application delivery" xml:space="preserve">
+    <value>Altyapı, yapay zekâ ve uygulama dağıtımı</value>
+  </data>
+  <data name="Inputs" xml:space="preserve">
+    <value>Girdiler</value>
+  </data>
+  <data name="Internal files, research materials, project documents and team collaboration were aligned with the same identity and permission model. For a research organisation with a growing body of specialist material, this simplified everyday collaboration and created a more reliable base for knowledge reuse and AI-assisted research." xml:space="preserve">
+    <value>Dış dosyalar, araştırma materyalleri, proje belgeleri ve ekip iş birliği aynı kimlik ve izin modeliyle hizalandı. Uzman materyal arşivi sürekli büyüyen bir araştırma kuruluşu için bu durum, günlük iş birliğini kolaylaştırdı ve bilgi yeniden kullanımının yanı sıra yapay zekâ destekli araştırmalar için daha güvenilir bir temel oluşturdu.</value>
+  </data>
+  <data name="Investment protected" xml:space="preserve">
+    <value>Yatırım korundu</value>
+  </data>
+  <data name="Investment research" xml:space="preserve">
+    <value>Yatırım Araştırması</value>
+  </data>
+  <data name="Its competitive advantage comes from a deep understanding of the business models behind underlying assets, combined with expertise in fundamental research, data science, quantitative finance and large language models. Rather than simply delivering information, ChopInsight is building a new research framework around long-term value, deeper insight and a durable technology advantage." xml:space="preserve">
+    <value>Rekabet avantajı, temeldeki varlıkların arkasındaki iş modellerine ilişkin derin anlayışından; temel araştırma, veri bilimi, kantitatif finans ve büyük dil modelleri alanlarındaki uzmanlığından kaynaklanmaktadır. ChopInsight, yalnızca bilgi sunmakla yetinmeyerek uzun vadeli değer, daha derin içgörü ve sürdürülebilir teknolojik avantaja dayalı yeni bir araştırma çerçevesi inşa etmektedir.</value>
+  </data>
+  <data name="Knowledge stays with the organisation" xml:space="preserve">
+    <value>Bilgi kuruluşta kalır</value>
+  </data>
+  <data name="Most importantly, technology is less likely to limit the speed of the business. Testing, building and release can proceed through a standardised delivery model, while AI agents can assist with code changes and problem analysis inside an established governance framework." xml:space="preserve">
+    <value>En önemlisi, teknolojinin işin hızını sınırlama olasılığı daha düşük. Test, derleme ve yayın süreçleri standartlaştırılmış bir teslim modeli aracılığıyla ilerlerken, yapay zeka ajanları, kurulu bir yönetişim çerçevesi içinde kod değişikliklerine ve sorun analizine yardımcı olabilir.</value>
+  </data>
+  <data name="Moving into an AI-enabled future, one server at a time" xml:space="preserve">
+    <value>Sunucu sunucu olarak yapay zekâ destekli bir geleceğe doğru ilerliyoruz</value>
+  </data>
+  <data name="New AI compute" xml:space="preserve">
+    <value>Yeni Yapay Zekâ Hesaplama</value>
+  </data>
+  <data name="New services can use shared deployment, management and operational practices rather than introducing another environment and maintenance owner." xml:space="preserve">
+    <value>Yeni hizmetler, başka bir ortam ve bakım sahibi tanıtmak yerine ortak dağıtım, yönetim ve operasyonel uygulamalardan yararlanabilir.</value>
+  </data>
+  <data name="On this page" xml:space="preserve">
+    <value>Bu sayfada</value>
+  </data>
+  <data name="One shared platform" xml:space="preserve">
+    <value>Tek paylaşılan platform</value>
+  </data>
+  <data name="Operations" xml:space="preserve">
+    <value>Operasyonlar</value>
+  </data>
+  <data name="Operations are easier to understand. Service status and essential records are managed from a unified perspective, supporting faster diagnosis, security auditing and future analysis. Rather than contacting several suppliers to identify where a problem belongs, ChopInsight has a clearer view of the environment it operates." xml:space="preserve">
+    <value>Operasyonlar daha kolay anlaşılır hale gelir. Hizmet durumu ve temel kayıtlar, daha hızlı teşhis, güvenlik denetimi ve gelecekteki analizleri destekleyen birleşik bir bakış açısıyla yönetilir. Bir sorunun hangi tedarikçiye ait olduğunu belirlemek için birden fazla tedarikçiyle iletişime geçmek yerine, ChopInsight, çalıştığı ortamın daha net bir görünümüne sahiptir.</value>
+  </data>
+  <data name="Operations standardised" xml:space="preserve">
+    <value>İşlemler Standartlaştırıldı</value>
+  </data>
+  <data name="Platform architecture overview" xml:space="preserve">
+    <value>Platform mimari genel bakış</value>
+  </data>
+  <data name="Previously, one server would often be associated with one application. Under the new model, servers became computing resources within a shared platform while applications were managed independently of individual machines. Existing capacity could be reused more effectively, workloads could share resources with appropriate separation, and validated new hardware could join the same management model." xml:space="preserve">
+    <value>Daha önce, tek bir sunucu genellikle tek bir uygulamayla ilişkilendirilirdi. Yeni modelde sunucular, paylaşılan bir platform içinde hesaplama kaynaklarına dönüşürken uygulamalar, bireysel makinelerden bağımsız olarak yönetildi. Mevcut kapasite daha etkili bir şekilde yeniden kullanılabilir, iş yükleri uygun bir ayrım ile kaynakları paylaşabilir ve doğrulanmış yeni donanımlar aynı yönetim modeline katılabilir.</value>
+  </data>
+  <data name="Real estate finance and alternative investments" xml:space="preserve">
+    <value>Gayrimenkul finansmanı ve alternatif yatırımlar</value>
+  </data>
+  <data name="Repeatable delivery and operational visibility" xml:space="preserve">
+    <value>Tekrarlanabilir teslimat ve operasyonel görünürlük</value>
+  </data>
+  <data name="Research collaboration on the same foundation" xml:space="preserve">
+    <value>Aynı altyapı üzerinde araştırma iş birliği</value>
+  </data>
+  <data name="Resource planning, hardware adaptation and software delivery now form one solution, balancing AI performance with stability and cost." xml:space="preserve">
+    <value>Kaynak planlama, donanım uyarlama ve yazılım teslimatı artık tek bir çözüm oluşturarak yapay zeka performansını, kararlılığı ve maliyeti dengeliyor.</value>
+  </data>
+  <data name="Several traditional rack servers operated alongside public cloud and externally hosted resources. Acquired at different times, from different sources and for different purposes, they had never been designed or managed as a single environment." xml:space="preserve">
+    <value>Birkaç geleneksel raf sunucusu, herkese açık bulut ve harici olarak barındırılan kaynaklarla birlikte çalışıyordu. Farklı zamanlarda, farklı kaynaklardan ve farklı amaçlarla edinilen bu sunucular, hiç birleşik bir ortam olarak tasarlanmamış veya yönetilmemişti.</value>
+  </data>
+  <data name="Shanghai ChopInsight Intelligent Technology Co., Ltd. specialises in real estate finance and alternative investments. It provides integrated primary- and secondary-market research services for participants across REITs, private real estate funds, Pre-REITs, holding-type ABS, public REIT issuance and asset management, insurance and insurance asset management." xml:space="preserve">
+    <value>Shanghai ChopInsight Intelligent Technology Co., Ltd. gayrimenkul finansmanı ve alternatif yatırımlar alanında uzmanlaşmıştır. REIT&apos;ler, özel gayrimenkul fonları, Pre-REIT&apos;ler, varlık sahipliğine dayalı ABS, halka açık REIT ihracı ve varlık yönetimi, sigorta ve sigorta varlık yönetimi dahil olmak üzere birincil ve ikincil piyasa katılımcıları için entegre araştırma hizmetleri sunmaktadır.</value>
+  </data>
+  <data name="Shared foundation" xml:space="preserve">
+    <value>Ortak altyapı</value>
+  </data>
+  <data name="Source code, version management and delivery workflows moved into a common platform. Development, validation, release and rollback now follow a repeatable process, while configuration and change history are retained. Developers and AI agents can contribute without making production delivery depend on a sequence known only to one person." xml:space="preserve">
+    <value>Kaynak kod, sürüm yönetimi ve dağıtım iş akışları ortak bir platforma taşındı. Geliştirme, doğrulama, yayınlama ve geri alma artık tekrarlanabilir bir sürece tabidir; yapılandırma ve değişiklik geçmişi ise korunmaktadır. Geliştiriciler ve yapay zekâ ajanları, üretim dağıtımının yalnızca bir kişi tarafından bilinen bir sıralamaya bağımlı hale gelmesine neden olmadan katkıda bulunabilir.</value>
+  </data>
+  <data name="Talk to Aiursoft" xml:space="preserve">
+    <value>Aiursoft ile konuşun</value>
+  </data>
+  <data name="The challenge" xml:space="preserve">
+    <value>Mesele</value>
+  </data>
+  <data name="The organisation" xml:space="preserve">
+    <value>Kuruluş</value>
+  </data>
+  <data name="The project was more than a server migration. It changed how ChopInsight builds, operates and expands its business systems." xml:space="preserve">
+    <value>Proje yalnızca bir sunucu taşınması değildi. ChopInsight&apos;ın iş sistemlerini nasıl oluşturduğunu, işlettiğini ve genişlettiğini değiştirdi.</value>
+  </data>
+  <data name="The results" xml:space="preserve">
+    <value>Sonuçlar</value>
+  </data>
+  <data name="The solution" xml:space="preserve">
+    <value>Çözüm</value>
+  </data>
+  <data name="This fragmentation affected day-to-day work. Diagnosing a problem depended heavily on individual experience. Upgrades and migrations often required the original supplier. Some environments became harder to maintain over time, and expanding capacity could mean purchasing more equipment and repeating the same deployment work. When external operations staff changed, valuable knowledge could leave with them." xml:space="preserve">
+    <value>Bu parçalanma, günlük işleri etkiledi. Bir sorunu teşhis koymak büyük ölçüde bireysel deneyime bağlıydı. Yükseltmeler ve geçişler genellikle orijinal tedarikçinin müdahalesini gerektiriyordu. Bazı ortamlar zamanla bakımı daha da zor hale geldi ve kapasiteyi genişletmek, daha fazla ekipman satın almayı ve aynı dağıtım işlemlerini tekrarlamayı gerektirebiliyordu. Dış operasyon personeli değiştiğinde, değerli bilgi birikimi de onlarla birlikte gidebiliyordu.</value>
+  </data>
+  <data name="This separation gave ChopInsight a more flexible foundation. New services no longer had to begin with a standalone environment. Runtime status and upgrades could be managed centrally, and replacing one machine no longer had to become an application-specific infrastructure project." xml:space="preserve">
+    <value>Bu ayrım, ChopInsight&apos;a daha esnek bir altyapı sağladı. Yeni hizmetler artık bağımsız bir ortamla başlamaya mecbur değildi. Çalışma zamanı durumu ve yükseltmeler merkezî olarak yönetilebilir hale geldi ve tek bir makinenin değiştirilmesi artık uygulama özelinde bir altyapı projesine dönüşmek zorunda değildi.</value>
+  </data>
+  <data name="Turn fragmented infrastructure into a foundation for growth." xml:space="preserve">
+    <value>Parçalı altyapıyı büyümenin temeline dönüştürün.</value>
+  </data>
+  <data name="Unified identity and access" xml:space="preserve">
+    <value>Bütünleşik kimlik ve erişim</value>
+  </data>
+  <data name="Unified. Stable. Scalable. Governable." xml:space="preserve">
+    <value>Bütünleşik. Kararlı. Ölçeklenebilir. Yönetilebilir.</value>
+  </data>
+  <data name="Visit ChopInsight" xml:space="preserve">
+    <value>ChopInsight&apos;i Ziyaret Et</value>
+  </data>
+  <data name="With suitably adapted local computing resources in place, Aiursoft established a unified entry point for AI services. Users and applications could access model capabilities through consistent rules, while permissions, credentials, usage and service health could be managed centrally." xml:space="preserve">
+    <value>Uygun şekilde uyarlanmış yerel hesaplama kaynakları hazırlandıktan sonra Aiursoft, yapay zeka hizmetleri için birleşik bir giriş noktası oluşturdu. Kullanıcılar ve uygulamalar, model yeteneklerine tutarlı kurallar aracılığıyla erişebilirken yetkiler, kimlik bilgileri, kullanım ve hizmet sağlığı merkezi olarak yönetilebiliyordu.</value>
+  </data>
+
+</root>
