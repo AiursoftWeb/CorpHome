@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="A capability the company can increasingly control for itself" xml:space="preserve">
+    <value>Kemampuan yang dapat semakin dikendalikan sendiri oleh perusahaan</value>
+  </data>
+  <data name="A consistent infrastructure foundation" xml:space="preserve">
+    <value>Dasar infrastruktur yang konsisten</value>
+  </data>
+  <data name="A foundation designed to evolve with the business." xml:space="preserve">
+    <value>Fondasi yang dirancang untuk berkembang seiring dengan bisnis.</value>
+  </data>
+  <data name="A software-only delivery would not solve the problem either. Even a well-designed platform cannot provide the expected performance or reliability when its underlying hardware is unsuitable or poorly integrated. ChopInsight needed a coordinated approach that could preserve existing investments, add computing capacity where necessary, and support conventional applications and AI workloads through a common management model." xml:space="preserve">
+    <value>Penyediaan hanya perangkat lunak pun tidak akan menyelesaikan masalah. Bahkan platform yang dirancang dengan baik tidak dapat memberikan kinerja atau keandalan yang diharapkan ketika perangkat keras dasarnya tidak sesuai atau terintegrasi dengan buruk. ChopInsight membutuhkan pendekatan yang terkoordinasi yang dapat mempertahankan investasi yang sudah ada, menambah kapasitas komputasi di mana diperlukan, dan mendukung aplikasi konvensional serta beban kerja AI melalui model manajemen yang umum.</value>
+  </data>
+  <data name="About ChopInsight" xml:space="preserve">
+    <value>Tentang ChopInsight</value>
+  </data>
+  <data name="AI access" xml:space="preserve">
+    <value>Akses AI</value>
+  </data>
+  <data name="AI access governed" xml:space="preserve">
+    <value>Akses AI diatur</value>
+  </data>
+  <data name="AI as a governed enterprise capability" xml:space="preserve">
+    <value>AI sebagai kemampuan perusahaan yang dikelola</value>
+  </data>
+  <data name="AI introduced a second, closely related challenge. Suitable computing resources could be expensive and complex to specify. ChopInsight needed to avoid hardware that might later prove unsuitable for its software or operational requirements, while simply replacing equipment would have ignored the value of its existing servers." xml:space="preserve">
+    <value>AI memperkenalkan tantangan kedua yang sangat terkait. Sumber daya komputasi yang sesuai bisa menjadi mahal dan kompleks untuk ditentukan. ChopInsight perlu menghindari perangkat keras yang mungkin kemudian terbukti tidak sesuai untuk persyaratan perangkat lunak atau operasionalnya, sementara sekadar mengganti peralatan akan mengabaikan nilai server yang sudah ada.</value>
+  </data>
+  <data name="Aiursoft assessed ChopInsight’s physical equipment, computing resources, application requirements and future AI plans together. Performance, stability, cost and future expansion informed a single design, making hardware selection and adaptation part of the service rather than a separate procurement exercise." xml:space="preserve">
+    <value>Aiursoft menilai peralatan fisik, sumber daya komputasi, persyaratan aplikasi, dan rencana AI masa depan ChopInsight secara bersama-sama. Kinerja, stabilitas, biaya, dan ekspansi masa depan menjadi dasar satu desain terpadu, sehingga pemilihan dan penyesuaian perangkat keras menjadi bagian dari layanan, bukan proses pengadaan terpisah.</value>
+  </data>
+  <data name="Aiursoft brought ChopInsight’s existing infrastructure, emerging AI requirements and business applications into one stable, scalable platform—protecting earlier investments while preparing the business for continued AI adoption." xml:space="preserve">
+    <value>Aiursoft mengintegrasikan infrastruktur yang sudah ada, kebutuhan AI yang berkembang, dan aplikasi bisnis ChopInsight ke dalam satu platform yang stabil dan dapat diskalakan—melindungi investasi sebelumnya sambil mempersiapkan bisnis untuk adopsi AI yang berkelanjutan.</value>
+  </data>
+  <data name="Aiursoft introduced a unified identity layer and connected relevant internal services to it. Users, organisational relationships and access policies could be managed through a common framework, reducing duplicate accounts while establishing a foundation for consistent access governance, service auditing and secure use of internal applications." xml:space="preserve">
+    <value>Aiursoft memperkenalkan lapisan identitas terpadu dan menghubungkan layanan internal yang relevan ke lapisan tersebut. Pengguna, hubungan organisasional, dan kebijakan akses dapat dikelola melalui kerangka kerja yang umum, mengurangi akun duplikat sekaligus membangun fondasi untuk tata kelola akses yang konsisten, audit layanan, dan penggunaan aplikasi internal yang aman.</value>
+  </data>
+  <data name="Aiursoft managed platform" xml:space="preserve">
+    <value>Platform yang dikelola Aiursoft</value>
+  </data>
+  <data name="Applications can use a unified access model and governed model resources without repeating account administration or AI integration work." xml:space="preserve">
+    <value>Aplikasi dapat menggunakan model akses terpadu dan sumber daya model yang dikelola tanpa mengulangi pekerjaan administrasi akun atau integrasi AI.</value>
+  </data>
+  <data name="Applications can use local and compatible external model resources through a consistent enterprise capability." xml:space="preserve">
+    <value>Aplikasi dapat menggunakan sumber daya model lokal dan eksternal yang kompatibel melalui kemampuan perusahaan yang konsisten.</value>
+  </data>
+  <data name="Applications were typically deployed and maintained by their respective software suppliers. That approach worked while the estate was small, but became difficult to sustain as applications accumulated different runtime environments, deployment methods and operational practices. Accounts and permissions were managed separately, dependencies were difficult to understand, and operational information was scattered across multiple systems." xml:space="preserve">
+    <value>Aplikasi biasanya di-deploy dan dipelihara oleh pemasok perangkat lunaknya masing-masing. Pendekatan tersebut berhasil selama lingkungan masih kecil, tetapi menjadi sulit dipertahankan seiring akumulasi lingkungan runtime, metode deployment, dan praktik operasional yang berbeda-beda. Akun dan izin dikelola secara terpisah, dependensi sulit dipahami, dan informasi operasional tersebar di berbagai sistem.</value>
+  </data>
+  <data name="As ChopInsight expanded, it introduced knowledge bases, data analytics, AI-assisted question answering, research tools, collaboration services and a growing number of business applications. Each system addressed a real need, but the infrastructure beneath them had not evolved at the same pace." xml:space="preserve">
+    <value>Seiring berkembangnya ChopInsight, perusahaan tersebut memperkenalkan basis pengetahuan, analitik data, jawaban pertanyaan dengan bantuan AI, alat penelitian, layanan kolaborasi, dan sejumlah aplikasi bisnis yang terus bertambah. Setiap sistem memenuhi kebutuhan nyata, tetapi infrastruktur di baliknya belum berkembang dengan kecepatan yang sama.</value>
+  </data>
+  <data name="Breadcrumb" xml:space="preserve">
+    <value>Jejak navigasi</value>
+  </data>
+  <data name="Build what comes next" xml:space="preserve">
+    <value>Bangun apa yang akan datang</value>
+  </data>
+  <data name="Capabilities" xml:space="preserve">
+    <value>Kemampuan</value>
+  </data>
+  <data name="ChopInsight builds an AI-ready research platform" xml:space="preserve">
+    <value>ChopInsight membangun platform riset yang siap untuk AI</value>
+  </data>
+  <data name="ChopInsight can now balance performance, availability and cost without forcing every application to implement those decisions independently. The technology underneath can change without requiring every consuming application to be redesigned." xml:space="preserve">
+    <value>ChopInsight kini dapat menyeimbangkan kinerja, ketersediaan, dan biaya tanpa memaksa setiap aplikasi untuk mengimplementasikan keputusan tersebut secara independen. Teknologi di baliknya dapat berubah tanpa memerlukan perancangan ulang setiap aplikasi yang mengonsumsinya.</value>
+  </data>
+  <data name="ChopInsight needed a platform, not another isolated server." xml:space="preserve">
+    <value>ChopInsight membutuhkan platform, bukan server terisolasi lagi.</value>
+  </data>
+  <data name="ChopInsight now has a technology platform that can grow with its research business." xml:space="preserve">
+    <value>ChopInsight kini memiliki platform teknologi yang dapat tumbuh bersama bisnis risetnya.</value>
+  </data>
+  <data name="Cloud resources" xml:space="preserve">
+    <value>Sumber daya cloud</value>
+  </data>
+  <data name="Code, configuration and release processes are standardised and versioned instead of living in temporary commands or individual experience." xml:space="preserve">
+    <value>Kode, konfigurasi, dan proses rilis distandardisasi dan diberi versi, bukan lagi bergantung pada perintah sementara atau pengalaman individu.</value>
+  </data>
+  <data name="Customer story" xml:space="preserve">
+    <value>Kisah Pelanggan</value>
+  </data>
+  <data name="Delivery" xml:space="preserve">
+    <value>Pengiriman</value>
+  </data>
+  <data name="Earlier investment keeps working" xml:space="preserve">
+    <value>Investasi sebelumnya terus memberikan manfaat</value>
+  </data>
+  <data name="Engagement" xml:space="preserve">
+    <value>Keterlibatan</value>
+  </data>
+  <data name="Essential service status and operational records can also be viewed from a common perspective. Teams can investigate across services, understand critical system use, retain records for long-term auditing and build toward future alerting and operational analysis—without exposing the customer’s detailed internal architecture." xml:space="preserve">
+    <value>Status layanan esensial dan catatan operasional juga dapat dilihat dari perspektif yang umum. Tim dapat menyelidiki lintas layanan, memahami penggunaan sistem kritis, menyimpan catatan untuk audit jangka panjang, dan membangun landasan untuk peringatan serta analisis operasional di masa mendatang—tanpa mengungkapkan arsitektur internal terperinci pelanggan.</value>
+  </data>
+  <data name="Existing equipment was reused while cost-effective resources were selected and adapted for emerging AI workloads." xml:space="preserve">
+    <value>Peralatan yang ada digunakan kembali, sementara sumber daya yang hemat biaya dipilih dan diadaptasi untuk beban kerja AI yang berkembang.</value>
+  </data>
+  <data name="Existing servers" xml:space="preserve">
+    <value>Server yang sudah ada</value>
+  </data>
+  <data name="Focus" xml:space="preserve">
+    <value>Fokus</value>
+  </data>
+  <data name="Fragmented computing resources and business systems became a unified, manageable and scalable environment." xml:space="preserve">
+    <value>Sumber daya komputasi dan sistem bisnis yang terfragmentasi kini menjadi lingkungan yang terpadu, mudah dikelola, dan dapat diskalakan.</value>
+  </data>
+  <data name="Hardware and software designed as one system" xml:space="preserve">
+    <value>Perangkat keras dan perangkat lunak yang dirancang sebagai satu sistem</value>
+  </data>
+  <data name="Highlights" xml:space="preserve">
+    <value>Sorotan</value>
+  </data>
+  <data name="Identity" xml:space="preserve">
+    <value>Identitas</value>
+  </data>
+  <data name="Identity and AI are shared capabilities" xml:space="preserve">
+    <value>Identitas dan AI adalah kemampuan bersama</value>
+  </data>
+  <data name="Identity, application delivery and operational visibility no longer depend on disconnected manual processes." xml:space="preserve">
+    <value>Identitas, pengiriman aplikasi, dan visibilitas operasional tidak lagi bergantung pada proses manual yang terfragmentasi.</value>
+  </data>
+  <data name="Industry" xml:space="preserve">
+    <value>Industri</value>
+  </data>
+  <data name="Infrastructure became a platform" xml:space="preserve">
+    <value>Infrastruktur menjadi sebuah platform</value>
+  </data>
+  <data name="Infrastructure for applied AI" xml:space="preserve">
+    <value>Infrastruktur untuk AI terapan</value>
+  </data>
+  <data name="Infrastructure, AI and application delivery" xml:space="preserve">
+    <value>Infrastruktur, AI, dan pengiriman aplikasi</value>
+  </data>
+  <data name="Inputs" xml:space="preserve">
+    <value>Input</value>
+  </data>
+  <data name="Internal files, research materials, project documents and team collaboration were aligned with the same identity and permission model. For a research organisation with a growing body of specialist material, this simplified everyday collaboration and created a more reliable base for knowledge reuse and AI-assisted research." xml:space="preserve">
+    <value>File internal, materi riset, dokumen proyek, dan kolaborasi tim diselaraskan dengan model identitas dan izin yang sama. Bagi organisasi riset dengan kumpulan materi spesialisasi yang terus berkembang, hal ini menyederhanakan kolaborasi sehari-hari dan menciptakan landasan yang lebih andal untuk pemanfaatan ulang pengetahuan serta riset yang dibantu AI.</value>
+  </data>
+  <data name="Investment protected" xml:space="preserve">
+    <value>Investasi terlindungi</value>
+  </data>
+  <data name="Investment research" xml:space="preserve">
+    <value>Riset Investasi</value>
+  </data>
+  <data name="Its competitive advantage comes from a deep understanding of the business models behind underlying assets, combined with expertise in fundamental research, data science, quantitative finance and large language models. Rather than simply delivering information, ChopInsight is building a new research framework around long-term value, deeper insight and a durable technology advantage." xml:space="preserve">
+    <value>Keunggulan kompetitifnya berasal dari pemahaman mendalam tentang model bisnis di balik aset mendasar, dikombinasikan dengan keahlian dalam riset fundamental, ilmu data, keuangan kuantitatif, dan model bahasa besar. Alih-alih sekadar menyampaikan informasi, ChopInsight sedang membangun kerangka riset baru yang berfokus pada nilai jangka panjang, wawasan yang lebih dalam, dan keunggulan teknologi yang berkelanjutan.</value>
+  </data>
+  <data name="Knowledge stays with the organisation" xml:space="preserve">
+    <value>Pengetahuan tetap berada di organisasi</value>
+  </data>
+  <data name="Most importantly, technology is less likely to limit the speed of the business. Testing, building and release can proceed through a standardised delivery model, while AI agents can assist with code changes and problem analysis inside an established governance framework." xml:space="preserve">
+    <value>Yang paling penting, teknologi cenderung tidak lagi membatasi kecepatan bisnis. Pengujian, pembangunan, dan rilis dapat dilakukan melalui model pengiriman yang distandarisasi, sementara agen AI dapat membantu dalam perubahan kode dan analisis masalah di dalam kerangka tata kelola yang telah ditetapkan.</value>
+  </data>
+  <data name="Moving into an AI-enabled future, one server at a time" xml:space="preserve">
+    <value>Melangkah ke masa depan yang didukung AI, satu per satu server</value>
+  </data>
+  <data name="New AI compute" xml:space="preserve">
+    <value>Kapasitas komputasi AI baru</value>
+  </data>
+  <data name="New services can use shared deployment, management and operational practices rather than introducing another environment and maintenance owner." xml:space="preserve">
+    <value>Layanan baru dapat menggunakan praktik penerapan, manajemen, dan operasional yang bersama alih-alih memperkenalkan lingkungan dan pemilik pemeliharaan lainnya.</value>
+  </data>
+  <data name="On this page" xml:space="preserve">
+    <value>Di halaman ini</value>
+  </data>
+  <data name="One shared platform" xml:space="preserve">
+    <value>Satu platform bersama</value>
+  </data>
+  <data name="Operations" xml:space="preserve">
+    <value>Operasi</value>
+  </data>
+  <data name="Operations are easier to understand. Service status and essential records are managed from a unified perspective, supporting faster diagnosis, security auditing and future analysis. Rather than contacting several suppliers to identify where a problem belongs, ChopInsight has a clearer view of the environment it operates." xml:space="preserve">
+    <value>Operasi menjadi lebih mudah dipahami. Status layanan dan catatan penting dikelola dari perspektif yang terpadu, mendukung diagnosis yang lebih cepat, audit keamanan, dan analisis masa depan. Alih-alih menghubungi beberapa pemasok untuk mengidentifikasi di mana masalah tersebut berasal, ChopInsight memiliki pandangan yang lebih jelas tentang lingkungan tempat mereka beroperasi.</value>
+  </data>
+  <data name="Operations standardised" xml:space="preserve">
+    <value>Operasi distandardisasi</value>
+  </data>
+  <data name="Platform architecture overview" xml:space="preserve">
+    <value>Gambaran umum arsitektur platform</value>
+  </data>
+  <data name="Previously, one server would often be associated with one application. Under the new model, servers became computing resources within a shared platform while applications were managed independently of individual machines. Existing capacity could be reused more effectively, workloads could share resources with appropriate separation, and validated new hardware could join the same management model." xml:space="preserve">
+    <value>Sebelumnya, satu server sering kali dikaitkan dengan satu aplikasi. Di bawah model baru, server menjadi sumber daya komputasi di dalam platform bersama, sementara aplikasi dikelola secara independen dari mesin individual. Kapasitas yang ada dapat digunakan kembali secara lebih efektif, beban kerja dapat berbagi sumber daya dengan pemisahan yang tepat, dan perangkat keras baru yang telah divalidasi dapat bergabung ke dalam model manajemen yang sama.</value>
+  </data>
+  <data name="Real estate finance and alternative investments" xml:space="preserve">
+    <value>Keuangan real estat dan investasi alternatif</value>
+  </data>
+  <data name="Repeatable delivery and operational visibility" xml:space="preserve">
+    <value>Pengiriman yang dapat diulang dan visibilitas operasional</value>
+  </data>
+  <data name="Research collaboration on the same foundation" xml:space="preserve">
+    <value>Kolaborasi riset di atas fondasi yang sama</value>
+  </data>
+  <data name="Resource planning, hardware adaptation and software delivery now form one solution, balancing AI performance with stability and cost." xml:space="preserve">
+    <value>Perencanaan sumber daya, adaptasi perangkat keras, dan penyampaian perangkat lunak kini membentuk satu solusi, menyeimbangkan kinerja AI dengan stabilitas dan biaya.</value>
+  </data>
+  <data name="Several traditional rack servers operated alongside public cloud and externally hosted resources. Acquired at different times, from different sources and for different purposes, they had never been designed or managed as a single environment." xml:space="preserve">
+    <value>Beberapa server rak tradisional beroperasi bersama sumber daya cloud publik dan sumber daya yang dihosting secara eksternal. Diperoleh pada waktu yang berbeda, dari sumber yang berbeda, dan untuk tujuan yang berbeda, mereka tidak pernah dirancang atau dikelola sebagai satu lingkungan yang terpadu.</value>
+  </data>
+  <data name="Shanghai ChopInsight Intelligent Technology Co., Ltd. specialises in real estate finance and alternative investments. It provides integrated primary- and secondary-market research services for participants across REITs, private real estate funds, Pre-REITs, holding-type ABS, public REIT issuance and asset management, insurance and insurance asset management." xml:space="preserve">
+    <value>Shanghai ChopInsight Intelligent Technology Co., Ltd. berspesialisasi dalam pembiayaan properti dan investasi alternatif. Perusahaan ini menyediakan layanan riset pasar primer dan sekunder yang terintegrasi bagi para pelaku di sektor REITs, dana properti swasta, Pre-REITs, ABS berbasis holding, penerbitan REIT publik dan manajemen aset, asuransi, serta manajemen aset asuransi.</value>
+  </data>
+  <data name="Shared foundation" xml:space="preserve">
+    <value>Dasar bersama</value>
+  </data>
+  <data name="Source code, version management and delivery workflows moved into a common platform. Development, validation, release and rollback now follow a repeatable process, while configuration and change history are retained. Developers and AI agents can contribute without making production delivery depend on a sequence known only to one person." xml:space="preserve">
+    <value>Kode sumber, manajemen versi, dan alur kerja pengiriman dipindahkan ke platform bersama. Pengembangan, validasi, rilis, dan rollback kini mengikuti proses yang dapat diulang, sementara konfigurasi dan riwayat perubahan tetap dipertahankan. Developer dan agen AI dapat berkontribusi tanpa membuat pengiriman produksi bergantung pada urutan yang hanya diketahui oleh satu orang.</value>
+  </data>
+  <data name="Talk to Aiursoft" xml:space="preserve">
+    <value>Hubungi Aiursoft</value>
+  </data>
+  <data name="The challenge" xml:space="preserve">
+    <value>Tantangan</value>
+  </data>
+  <data name="The organisation" xml:space="preserve">
+    <value>Organisasi</value>
+  </data>
+  <data name="The project was more than a server migration. It changed how ChopInsight builds, operates and expands its business systems." xml:space="preserve">
+    <value>Proyek ini lebih dari sekadar migrasi server. Proyek ini mengubah cara ChopInsight membangun, mengoperasikan, dan mengembangkan sistem bisnisnya.</value>
+  </data>
+  <data name="The results" xml:space="preserve">
+    <value>Hasilnya</value>
+  </data>
+  <data name="The solution" xml:space="preserve">
+    <value>Solusi</value>
+  </data>
+  <data name="This fragmentation affected day-to-day work. Diagnosing a problem depended heavily on individual experience. Upgrades and migrations often required the original supplier. Some environments became harder to maintain over time, and expanding capacity could mean purchasing more equipment and repeating the same deployment work. When external operations staff changed, valuable knowledge could leave with them." xml:space="preserve">
+    <value>Fragmentasi ini memengaruhi pekerjaan sehari-hari. Mendiagnosis masalah sangat bergantung pada pengalaman individu. Pembaruan dan migrasi sering kali memerlukan pemasok asli. Beberapa lingkungan menjadi lebih sulit dipelihara seiring waktu, dan perluasan kapasitas bisa berarti membeli lebih banyak peralatan dan mengulangi pekerjaan penempatan yang sama. Ketika staf operasi eksternal berganti, pengetahuan berharga bisa pergi bersama mereka.</value>
+  </data>
+  <data name="This separation gave ChopInsight a more flexible foundation. New services no longer had to begin with a standalone environment. Runtime status and upgrades could be managed centrally, and replacing one machine no longer had to become an application-specific infrastructure project." xml:space="preserve">
+    <value>Pemisahan ini memberikan ChopInsight fondasi yang lebih fleksibel. Layanan baru tidak lagi harus dimulai dengan lingkungan mandiri. Status runtime dan pembaruan dapat dikelola secara terpusat, dan penggantian satu mesin tidak lagi harus menjadi proyek infrastruktur yang spesifik untuk aplikasi tertentu.</value>
+  </data>
+  <data name="Turn fragmented infrastructure into a foundation for growth." xml:space="preserve">
+    <value>Ubah infrastruktur yang terfragmentasi menjadi fondasi untuk pertumbuhan.</value>
+  </data>
+  <data name="Unified identity and access" xml:space="preserve">
+    <value>Identitas dan akses terpadu</value>
+  </data>
+  <data name="Unified. Stable. Scalable. Governable." xml:space="preserve">
+    <value>Terpadu. Stabil. Skalabel. Dapat Dikendalikan.</value>
+  </data>
+  <data name="Visit ChopInsight" xml:space="preserve">
+    <value>Kunjungi ChopInsight</value>
+  </data>
+  <data name="With suitably adapted local computing resources in place, Aiursoft established a unified entry point for AI services. Users and applications could access model capabilities through consistent rules, while permissions, credentials, usage and service health could be managed centrally." xml:space="preserve">
+    <value>Dengan sumber daya komputasi lokal yang telah diadaptasi dengan tepat, Aiursoft telah membangun titik masuk terpadu untuk layanan AI. Pengguna dan aplikasi dapat mengakses kemampuan model melalui aturan yang konsisten, sementara izin, kredensial, penggunaan, dan kesehatan layanan dapat dikelola secara terpusat.</value>
+  </data>
+
+</root>
