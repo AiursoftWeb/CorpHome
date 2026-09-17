@@ -24,6 +24,9 @@
   <data name="10-Second Boot" xml:space="preserve">
     <value>10초 부팅</value>
   </data>
+  <data name="27 inch" xml:space="preserve">
+    <value>27인치</value>
+  </data>
   <data name="Add to Management Cloud and go live" xml:space="preserve">
     <value>Management Cloud에 추가하고 바로 사용</value>
   </data>
@@ -78,6 +81,9 @@
   <data name="Architecture" xml:space="preserve">
     <value>아키텍처</value>
   </data>
+  <data name="ARM64 Support" xml:space="preserve">
+    <value>ARM64 지원</value>
+  </data>
   <data name="At just 2.54 GB, the ISO is lightweight and fast to deploy across your fleet. The live environment lets your IT team quickly boot, repair, and diagnose systems without installing." xml:space="preserve">
     <value>mere 2.4GB의 ISO는 경량이며 그룹 전체에 빠르게 배포할 수 있습니다. 라이브 환경은 IT팀이 설치 없이 시스템을 빠르게 부팅하고 복구 및 진단할 수 있게 해줍니다.</value>
   </data>
@@ -111,6 +117,9 @@
   <data name="Community Site" xml:space="preserve">
     <value>커뮤니티 사이트</value>
   </data>
+  <data name="Compatible with most x86 PCs and ARM64 UEFI devices." xml:space="preserve">
+    <value>대부분의 x86 PC 및 ARM64 UEFI 장치와 호환됩니다.</value>
+  </data>
   <data name="Compatible with most x86 PCs manufactured in the last decade." xml:space="preserve">
     <value>과거 10년 이내에 출시된 대부분의 x86 PC와 호환됩니다.</value>
   </data>
@@ -143,6 +152,9 @@
   </data>
   <data name="Data stays on your servers. Authentication and authorization ensure only your team can access your metrics." xml:space="preserve">
     <value>데이터는 당사 서버에 유지됩니다. 인증 및 인증을 통해 귀하의 팀만 측정 기준에 액세스할 수 있습니다.</value>
+  </data>
+  <data name="Declarative Built" xml:space="preserve">
+    <value>선언적 빌드</value>
   </data>
   <data name="Declarative Packaging" xml:space="preserve">
     <value>선언형 패키징</value>
@@ -192,6 +204,9 @@
   <data name="Ecological perfection" xml:space="preserve">
     <value>생태계의 완성</value>
   </data>
+  <data name="Edge AI" xml:space="preserve">
+    <value>엣지 AI</value>
+  </data>
   <data name="End of Support" xml:space="preserve">
     <value>지원 종료</value>
   </data>
@@ -218,6 +233,9 @@
   </data>
   <data name="Explore StatHub" xml:space="preserve">
     <value>StatHub 탐색하기</value>
+  </data>
+  <data name="ext4 optional" xml:space="preserve">
+    <value>ext4 선택 가능</value>
   </data>
   <data name="Familiar UX" xml:space="preserve">
     <value>익숙한 UX</value>
@@ -267,6 +285,12 @@
   <data name="Internal package distribution via apt" xml:space="preserve">
     <value>apt를 통한 내부 패키지 배포</value>
   </data>
+  <data name="Internet" xml:space="preserve">
+    <value>인터넷</value>
+  </data>
+  <data name="Internet access" xml:space="preserve">
+    <value>인터넷 연결</value>
+  </data>
   <data name="Kiosk &amp; Digital Signage" xml:space="preserve">
     <value>키오스크 및 디지털 사이니지</value>
   </data>
@@ -297,8 +321,14 @@
   <data name="management for your fleet" xml:space="preserve">
     <value>플릿 관리</value>
   </data>
+  <data name="Memory Compression" xml:space="preserve">
+    <value>메모리 압축</value>
+  </data>
   <data name="Minimal maintenance. Maximum stability." xml:space="preserve">
     <value>최소한의 유지보수. 최대한의 안정성.</value>
+  </data>
+  <data name="Minimum" xml:space="preserve">
+    <value>최소</value>
   </data>
   <data name="Monitor thousands of AnduinOS devices from a single centralized dashboard. Scale as your fleet grows." xml:space="preserve">
     <value>중앙 집중식 대시보드 하나에서 수천 대의 AnduinOS 장치를 모니터링하세요. 기지 규모가 확장됨에 따라 유연하게 대응하세요.</value>
@@ -360,6 +390,9 @@
   <data name="Processor" xml:space="preserve">
     <value>프로세서</value>
   </data>
+  <data name="quad-core" xml:space="preserve">
+    <value>quad-core</value>
+  </data>
   <data name="RAM" xml:space="preserve">
     <value>RAM</value>
   </data>
@@ -374,6 +407,9 @@
   </data>
   <data name="Reasons" xml:space="preserve">
     <value>이유</value>
+  </data>
+  <data name="Recommended" xml:space="preserve">
+    <value>추천</value>
   </data>
   <data name="Release Date" xml:space="preserve">
     <value>릴리스 날짜</value>
@@ -504,6 +540,9 @@
   <data name="With just a few clicks, you can have AnduinOS running on any machine. Enjoy automatic updates, built-in security, and remote management from the cloud — so once deployed, it just works." xml:space="preserve">
     <value>클릭 몇 번만으로 어떤 기기에서나 AnduinOS를 실행할 수 있습니다. 클라우드에서 제공하는 자동 업데이트, 내장 보안, 원격 관리 기능을 즐기세요 — 한번 배포하면 별도의 설정 없이 바로 작동합니다.</value>
   </data>
+  <data name="with Secure Boot" xml:space="preserve">
+    <value>Secure Boot 지원</value>
+  </data>
   <data name="with StatHub" xml:space="preserve">
     <value>StatHub와 함께</value>
   </data>
@@ -512,58 +551,6 @@
   </data>
   <data name="Write the image to a USB drive" xml:space="preserve">
     <value>USB 드라이브에 이미지 작성</value>
-  </data>
-
-  <data name="ARM64 Support" xml:space="preserve">
-    <value>ARM64 지원</value>
-  </data>
-
-  <data name="Edge AI" xml:space="preserve">
-    <value>엣지 AI</value>
-  </data>
-
-  <data name="Declarative Built" xml:space="preserve">
-    <value>선언적 빌드</value>
-  </data>
-
-  <data name="ext4 optional" xml:space="preserve">
-    <value>ext4 선택 가능</value>
-  </data>
-
-  <data name="Memory Compression" xml:space="preserve">
-    <value>메모리 압축</value>
-  </data>
-
-  <data name="Minimum" xml:space="preserve">
-    <value>최소</value>
-  </data>
-
-  <data name="Recommended" xml:space="preserve">
-    <value>추천</value>
-  </data>
-
-  <data name="with Secure Boot" xml:space="preserve">
-    <value>Secure Boot 지원</value>
-  </data>
-
-  <data name="quad-core" xml:space="preserve">
-    <value>quad-core</value>
-  </data>
-
-  <data name="27 inch" xml:space="preserve">
-    <value>27인치</value>
-  </data>
-
-  <data name="Internet" xml:space="preserve">
-    <value>인터넷</value>
-  </data>
-
-  <data name="Internet access" xml:space="preserve">
-    <value>인터넷 연결</value>
-  </data>
-
-  <data name="Compatible with most x86 PCs and ARM64 UEFI devices." xml:space="preserve">
-    <value>대부분의 x86 PC 및 ARM64 UEFI 장치와 호환됩니다.</value>
   </data>
 
 </root>

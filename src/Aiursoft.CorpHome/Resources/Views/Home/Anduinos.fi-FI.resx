@@ -21,6 +21,9 @@
       <data name=".aosproj replaces a dozen arcane Debian files with a single declarative manifest. If you know .csproj, you know packaging." xml:space="preserve">
     <value>.aosproj korvaa kymmenen salaperäisen Debian-tiedoston yhdellä deklaratiivisella manifesilla. Jos tunnet .csproj-tiedostot, ymmärrät pakkaamisen.</value>
   </data>
+  <data name="27 inch" xml:space="preserve">
+    <value>27 tuumaa</value>
+  </data>
   <data name="Add to Management Cloud and go live" xml:space="preserve">
     <value>Lisää Management Cloudiin ja aloita käyttö</value>
   </data>
@@ -72,6 +75,9 @@
   <data name="Architecture" xml:space="preserve">
     <value>Arkkitehtuuri</value>
   </data>
+  <data name="ARM64 Support" xml:space="preserve">
+    <value>ARM64-tuki</value>
+  </data>
   <data name="At just 2.54 GB, the ISO is lightweight and fast to deploy across your fleet. The live environment lets your IT team quickly boot, repair, and diagnose systems without installing." xml:space="preserve">
     <value>Vain 2,4 GB:n kokoinen ISO-tiedosto on kevyt ja sen käyttöönotto laitteistossasi on nopeaa. Live-ympäristö mahdollistaa IT-tiimillesi järjestelmien nopean käynnistyksen, korjauksen ja diagnostoinnin ilman asennusta.</value>
   </data>
@@ -105,6 +111,9 @@
   <data name="Community Site" xml:space="preserve">
     <value>Yhteisön sivusto</value>
   </data>
+  <data name="Compatible with most x86 PCs and ARM64 UEFI devices." xml:space="preserve">
+    <value>Yhteensopiva useimpien x86-koneiden ja ARM64 UEFI-laitteiden kanssa.</value>
+  </data>
   <data name="Compatible with most x86 PCs manufactured in the last decade." xml:space="preserve">
     <value>Yhteensopiva useimpien viimeisen kymmenen vuoden aikana valmistettujen x86-pc:t kanssa.</value>
   </data>
@@ -134,6 +143,9 @@
   </data>
   <data name="Data stays on your servers. Authentication and authorization ensure only your team can access your metrics." xml:space="preserve">
     <value>Tiedot pysyvät palvelimillasi. Todennus ja valtuutus takaavat, että vain tiimisi voi käyttää tilastojasi.</value>
+  </data>
+  <data name="Declarative Built" xml:space="preserve">
+    <value>Deklaratiivinen rakenne</value>
   </data>
   <data name="Declarative Packaging" xml:space="preserve">
     <value>Deklaratiivinen paketointi</value>
@@ -180,6 +192,9 @@
   <data name="Ecological perfection" xml:space="preserve">
     <value>Ekologinen täydellisyys</value>
   </data>
+  <data name="Edge AI" xml:space="preserve">
+    <value>Laitetason tekoäly</value>
+  </data>
   <data name="End of Support" xml:space="preserve">
     <value>Tuen päättymisaika</value>
   </data>
@@ -203,6 +218,9 @@
   </data>
   <data name="Explore StatHub" xml:space="preserve">
     <value>Tutustu StatHubiin</value>
+  </data>
+  <data name="ext4 optional" xml:space="preserve">
+    <value>ext4 valinnainen</value>
   </data>
   <data name="Familiar UX" xml:space="preserve">
     <value>Tuttu käyttöliittymä</value>
@@ -252,6 +270,12 @@
   <data name="Internal package distribution via apt" xml:space="preserve">
     <value>Sisäinen pakettijakelu apt:n kautta</value>
   </data>
+  <data name="Internet" xml:space="preserve">
+    <value>Internet</value>
+  </data>
+  <data name="Internet access" xml:space="preserve">
+    <value>Internet-yhteys</value>
+  </data>
   <data name="Kiosk &amp; Digital Signage" xml:space="preserve">
     <value>Kiosk &amp; digitaaliset mainostaulut</value>
   </data>
@@ -282,8 +306,14 @@
   <data name="management for your fleet" xml:space="preserve">
     <value>hallinta laitteistoalustallesi</value>
   </data>
+  <data name="Memory Compression" xml:space="preserve">
+    <value>Muistin pakkaus</value>
+  </data>
   <data name="Minimal maintenance. Maximum stability." xml:space="preserve">
     <value>Minimaalinen ylläpito. Maksimaalinen vakaus.</value>
+  </data>
+  <data name="Minimum" xml:space="preserve">
+    <value>Vähimmäisvaatimukset</value>
   </data>
   <data name="Monitor thousands of AnduinOS devices from a single centralized dashboard. Scale as your fleet grows." xml:space="preserve">
     <value>Seuraa tuhansia AnduinOS-laitteita yhdestä keskitetystä dashboardista. Laajenna skaalautuvasti laajenevan kaluston myötä.</value>
@@ -339,6 +369,9 @@
   <data name="Processor" xml:space="preserve">
     <value>Suoritin</value>
   </data>
+  <data name="quad-core" xml:space="preserve">
+    <value>neliydinydin</value>
+  </data>
   <data name="RAM" xml:space="preserve">
     <value>RAM</value>
   </data>
@@ -353,6 +386,9 @@
   </data>
   <data name="Reasons" xml:space="preserve">
     <value>Syitä</value>
+  </data>
+  <data name="Recommended" xml:space="preserve">
+    <value>Suositeltu</value>
   </data>
   <data name="Release Date" xml:space="preserve">
     <value>Julkaisupäivä</value>
@@ -483,6 +519,9 @@
   <data name="With just a few clicks, you can have AnduinOS running on any machine. Enjoy automatic updates, built-in security, and remote management from the cloud — so once deployed, it just works." xml:space="preserve">
     <value>Muutamalla napsautuksella voit asettaa AnduinOS:n toimimaan mihin tah koneeseen. Hyödynnä automaattisia päivityksiä, sisäänrakennettua tietoturvaa ja pilvipohjaista etähallintaa – kun järjestelmä on otettu käyttöön, se toimii vain ja pelkästään.</value>
   </data>
+  <data name="with Secure Boot" xml:space="preserve">
+    <value>Secure Boot -toiminnolla</value>
+  </data>
   <data name="with StatHub" xml:space="preserve">
     <value>StatHubin avulla</value>
   </data>
@@ -491,58 +530,6 @@
   </data>
   <data name="Write the image to a USB drive" xml:space="preserve">
     <value>Kirjoita kuva USB-tikuun</value>
-  </data>
-
-  <data name="ARM64 Support" xml:space="preserve">
-    <value>ARM64-tuki</value>
-  </data>
-
-  <data name="Edge AI" xml:space="preserve">
-    <value>Laitetason tekoäly</value>
-  </data>
-
-  <data name="Declarative Built" xml:space="preserve">
-    <value>Deklaratiivinen rakenne</value>
-  </data>
-
-  <data name="ext4 optional" xml:space="preserve">
-    <value>ext4 valinnainen</value>
-  </data>
-
-  <data name="Memory Compression" xml:space="preserve">
-    <value>Muistin pakkaus</value>
-  </data>
-
-  <data name="Minimum" xml:space="preserve">
-    <value>Vähimmäisvaatimukset</value>
-  </data>
-
-  <data name="Recommended" xml:space="preserve">
-    <value>Suositeltu</value>
-  </data>
-
-  <data name="with Secure Boot" xml:space="preserve">
-    <value>Secure Boot -toiminnolla</value>
-  </data>
-
-  <data name="quad-core" xml:space="preserve">
-    <value>neliydinydin</value>
-  </data>
-
-  <data name="27 inch" xml:space="preserve">
-    <value>27 tuumaa</value>
-  </data>
-
-  <data name="Internet" xml:space="preserve">
-    <value>Internet</value>
-  </data>
-
-  <data name="Internet access" xml:space="preserve">
-    <value>Internet-yhteys</value>
-  </data>
-
-  <data name="Compatible with most x86 PCs and ARM64 UEFI devices." xml:space="preserve">
-    <value>Yhteensopiva useimpien x86-koneiden ja ARM64 UEFI-laitteiden kanssa.</value>
   </data>
 
 </root>

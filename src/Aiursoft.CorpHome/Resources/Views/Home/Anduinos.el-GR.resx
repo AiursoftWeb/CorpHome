@@ -21,6 +21,9 @@
       <data name=".aosproj replaces a dozen arcane Debian files with a single declarative manifest. If you know .csproj, you know packaging." xml:space="preserve">
     <value>Το .aosproj αντικαθιστά μια δέσμη αινιγματικών αρχείων Debian με μια ενιαία δηλωτική ενδεικτική λίστα. Αν γνωρίζετε το .csproj, γνωρίζετε τη συσκευασία.</value>
   </data>
+  <data name="27 inch" xml:space="preserve">
+    <value>27 ίντσες</value>
+  </data>
   <data name="Add to Management Cloud and go live" xml:space="preserve">
     <value>Προσθήκη στο Management Cloud και ενεργοποίηση</value>
   </data>
@@ -72,6 +75,9 @@
   <data name="Architecture" xml:space="preserve">
     <value>Αρχιτεκτονική</value>
   </data>
+  <data name="ARM64 Support" xml:space="preserve">
+    <value>Υποστήριξη ARM64</value>
+  </data>
   <data name="At just 2.54 GB, the ISO is lightweight and fast to deploy across your fleet. The live environment lets your IT team quickly boot, repair, and diagnose systems without installing." xml:space="preserve">
     <value>Με μέγεθος μόλις 2,4 GB, το ISO είναι ελαφρύ και γρήγορο στην εξυπηρέτηση σε όλο το δίκτυο συστημάτων. Το περιβάλλον ζωντανής εκτέλεσης επιτρέπει στην ομάδα IT σας να εκκινεί, να επισκευάζει και να διαγιγνώσκει συστήματα γρήγορα, χωρίς εγκατάσταση.</value>
   </data>
@@ -105,6 +111,9 @@
   <data name="Community Site" xml:space="preserve">
     <value>Ιστοσελίδα Κοινότητας</value>
   </data>
+  <data name="Compatible with most x86 PCs and ARM64 UEFI devices." xml:space="preserve">
+    <value>Συμβατό με τους περισσότερους υπολογιστές x86 και συσκευές ARM64 UEFI.</value>
+  </data>
   <data name="Compatible with most x86 PCs manufactured in the last decade." xml:space="preserve">
     <value>Συμβατό με τα περισσότερα PC x86 που κατασκευάστηκαν την τελευταία δεκαετία.</value>
   </data>
@@ -134,6 +143,9 @@
   </data>
   <data name="Data stays on your servers. Authentication and authorization ensure only your team can access your metrics." xml:space="preserve">
     <value>Τα δεδομένα παραμένουν στους διακομιστές σας. Η πιστοποίηση και η εξουσιοδότηση διασφαλίζουν ότι μόνο η ομάδα σας μπορεί να αποκτήσει πρόσβαση στα μετρήσεις σας.</value>
+  </data>
+  <data name="Declarative Built" xml:space="preserve">
+    <value>Δηλωτική Κατασκευή</value>
   </data>
   <data name="Declarative Packaging" xml:space="preserve">
     <value>Δηλωτική Συσκευασία</value>
@@ -180,6 +192,9 @@
   <data name="Ecological perfection" xml:space="preserve">
     <value>Οικολογική τελειότητα</value>
   </data>
+  <data name="Edge AI" xml:space="preserve">
+    <value>Τεχνητή Νοημοσύνη στην Περιφέρεια</value>
+  </data>
   <data name="End of Support" xml:space="preserve">
     <value>Λήξη υποστήριξης</value>
   </data>
@@ -203,6 +218,9 @@
   </data>
   <data name="Explore StatHub" xml:space="preserve">
     <value>Εξερευνήστε το StatHub</value>
+  </data>
+  <data name="ext4 optional" xml:space="preserve">
+    <value>προαιρετικό ext4</value>
   </data>
   <data name="Familiar UX" xml:space="preserve">
     <value>Ξεκάθαρο περιβάλλον χρήστη</value>
@@ -252,6 +270,12 @@
   <data name="Internal package distribution via apt" xml:space="preserve">
     <value>Εσωτερική διανομή πακέτων μέσω apt</value>
   </data>
+  <data name="Internet" xml:space="preserve">
+    <value>Διαδίκτυο</value>
+  </data>
+  <data name="Internet access" xml:space="preserve">
+    <value>Πρόσβαση στο Διαδίκτυο</value>
+  </data>
   <data name="Kiosk &amp; Digital Signage" xml:space="preserve">
     <value>Kiosk &amp; Ψηφιακή Σήμανση</value>
   </data>
@@ -282,8 +306,14 @@
   <data name="management for your fleet" xml:space="preserve">
     <value>διαχείριση για το στόλο σας</value>
   </data>
+  <data name="Memory Compression" xml:space="preserve">
+    <value>Συμπίεση Μνήμης</value>
+  </data>
   <data name="Minimal maintenance. Maximum stability." xml:space="preserve">
     <value>Ελάχιστη συντήρηση. Μέγιστη σταθερότητα.</value>
+  </data>
+  <data name="Minimum" xml:space="preserve">
+    <value>Ελάχιστα</value>
   </data>
   <data name="Monitor thousands of AnduinOS devices from a single centralized dashboard. Scale as your fleet grows." xml:space="preserve">
     <value>Παρακολουθήστε χιλιάδες συσκευές AnduinOS από ένα ενιαίο κεντρικό πίνακα ελέγχου. Κλιμακωθείτε καθώς η ομάδα συσκευών σας μεγαλώνει.</value>
@@ -339,6 +369,9 @@
   <data name="Processor" xml:space="preserve">
     <value>Επεξεργαστής</value>
   </data>
+  <data name="quad-core" xml:space="preserve">
+    <value>τετραπύρηνος</value>
+  </data>
   <data name="RAM" xml:space="preserve">
     <value>Μνήμη RAM</value>
   </data>
@@ -353,6 +386,9 @@
   </data>
   <data name="Reasons" xml:space="preserve">
     <value>Λόγοι</value>
+  </data>
+  <data name="Recommended" xml:space="preserve">
+    <value>Συνιστάται</value>
   </data>
   <data name="Release Date" xml:space="preserve">
     <value>Ημερομηνία Αποστολής</value>
@@ -483,6 +519,9 @@
   <data name="With just a few clicks, you can have AnduinOS running on any machine. Enjoy automatic updates, built-in security, and remote management from the cloud — so once deployed, it just works." xml:space="preserve">
     <value>Με μερικές μόνο κλικ, μπορείτε να τρέξετε το AnduinOS σε οποιονδήποτε υπολογιστή. Απολαύστε αυτόματες ενημερώσεις, ενσωματωμένη ασφάλεια και απομακρυσμένη διαχείριση από το cloud – οπότε μόλις τεθεί σε λειτουργία, απλώς δουλεύει.</value>
   </data>
+  <data name="with Secure Boot" xml:space="preserve">
+    <value>με Secure Boot</value>
+  </data>
   <data name="with StatHub" xml:space="preserve">
     <value>με το StatHub</value>
   </data>
@@ -491,58 +530,6 @@
   </data>
   <data name="Write the image to a USB drive" xml:space="preserve">
     <value>Αποθηκεύστε την εικόνα σε μια μονάδα USB</value>
-  </data>
-
-  <data name="ARM64 Support" xml:space="preserve">
-    <value>Υποστήριξη ARM64</value>
-  </data>
-
-  <data name="Edge AI" xml:space="preserve">
-    <value>Τεχνητή Νοημοσύνη στην Περιφέρεια</value>
-  </data>
-
-  <data name="Declarative Built" xml:space="preserve">
-    <value>Δηλωτική Κατασκευή</value>
-  </data>
-
-  <data name="ext4 optional" xml:space="preserve">
-    <value>προαιρετικό ext4</value>
-  </data>
-
-  <data name="Memory Compression" xml:space="preserve">
-    <value>Συμπίεση Μνήμης</value>
-  </data>
-
-  <data name="Minimum" xml:space="preserve">
-    <value>Ελάχιστα</value>
-  </data>
-
-  <data name="Recommended" xml:space="preserve">
-    <value>Συνιστάται</value>
-  </data>
-
-  <data name="with Secure Boot" xml:space="preserve">
-    <value>με Secure Boot</value>
-  </data>
-
-  <data name="quad-core" xml:space="preserve">
-    <value>τετραπύρηνος</value>
-  </data>
-
-  <data name="27 inch" xml:space="preserve">
-    <value>27 ίντσες</value>
-  </data>
-
-  <data name="Internet" xml:space="preserve">
-    <value>Διαδίκτυο</value>
-  </data>
-
-  <data name="Internet access" xml:space="preserve">
-    <value>Πρόσβαση στο Διαδίκτυο</value>
-  </data>
-
-  <data name="Compatible with most x86 PCs and ARM64 UEFI devices." xml:space="preserve">
-    <value>Συμβατό με τους περισσότερους υπολογιστές x86 και συσκευές ARM64 UEFI.</value>
   </data>
 
 </root>

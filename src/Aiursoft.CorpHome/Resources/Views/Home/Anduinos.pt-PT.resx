@@ -24,6 +24,9 @@
   <data name="10-Second Boot" xml:space="preserve">
     <value>Arranque em 10 segundos</value>
   </data>
+  <data name="27 inch" xml:space="preserve">
+    <value>27 polegadas</value>
+  </data>
   <data name="Add to Management Cloud and go live" xml:space="preserve">
     <value>Adicionar à Management Cloud e começar a utilizar</value>
   </data>
@@ -78,6 +81,9 @@
   <data name="Architecture" xml:space="preserve">
     <value>Arquitetura</value>
   </data>
+  <data name="ARM64 Support" xml:space="preserve">
+    <value>Suporte ARM64</value>
+  </data>
   <data name="At just 2.54 GB, the ISO is lightweight and fast to deploy across your fleet. The live environment lets your IT team quickly boot, repair, and diagnose systems without installing." xml:space="preserve">
     <value>Com apenas 2,4 GB, a ISO é leve e rápida de implementar em toda a sua frota. O ambiente live permite à sua equipa de TI inicializar, reparar e diagnosticar sistemas rapidamente, sem necessidade de instalação.</value>
   </data>
@@ -111,6 +117,9 @@
   <data name="Community Site" xml:space="preserve">
     <value>Sítio da Comunidade</value>
   </data>
+  <data name="Compatible with most x86 PCs and ARM64 UEFI devices." xml:space="preserve">
+    <value>Compatível com a maioria dos PCs x86 e dispositivos UEFI ARM64.</value>
+  </data>
   <data name="Compatible with most x86 PCs manufactured in the last decade." xml:space="preserve">
     <value>Compatível com a maioria dos PCs x86 fabricados na última década.</value>
   </data>
@@ -140,6 +149,9 @@
   </data>
   <data name="Data stays on your servers. Authentication and authorization ensure only your team can access your metrics." xml:space="preserve">
     <value>Os dados ficam nos seus servidores. A autenticação e a autorização garantem que apenas a sua equipa aceda às suas métricas.</value>
+  </data>
+  <data name="Declarative Built" xml:space="preserve">
+    <value>Construção Declarativa</value>
   </data>
   <data name="Declarative Packaging" xml:space="preserve">
     <value>Empacotamento Declarativo</value>
@@ -189,6 +201,9 @@
   <data name="Ecological perfection" xml:space="preserve">
     <value>Excelência ecológica</value>
   </data>
+  <data name="Edge AI" xml:space="preserve">
+    <value>IA na Borda</value>
+  </data>
   <data name="End of Support" xml:space="preserve">
     <value>Fim do Suporte</value>
   </data>
@@ -215,6 +230,9 @@
   </data>
   <data name="Explore StatHub" xml:space="preserve">
     <value>Explorar StatHub</value>
+  </data>
+  <data name="ext4 optional" xml:space="preserve">
+    <value>ext4 opcional</value>
   </data>
   <data name="Familiar UX" xml:space="preserve">
     <value>IUX familiar</value>
@@ -264,6 +282,12 @@
   <data name="Internal package distribution via apt" xml:space="preserve">
     <value>Distribuição interna de pacotes via apt</value>
   </data>
+  <data name="Internet" xml:space="preserve">
+    <value>Internet</value>
+  </data>
+  <data name="Internet access" xml:space="preserve">
+    <value>Acesso à Internet</value>
+  </data>
   <data name="Kiosk &amp; Digital Signage" xml:space="preserve">
     <value>Quiosques e Painéis Publicitários Digitais</value>
   </data>
@@ -294,8 +318,14 @@
   <data name="management for your fleet" xml:space="preserve">
     <value>gestão da sua frota</value>
   </data>
+  <data name="Memory Compression" xml:space="preserve">
+    <value>Compressão de Memória</value>
+  </data>
   <data name="Minimal maintenance. Maximum stability." xml:space="preserve">
     <value>Manutenção mínima. Estabilidade máxima.</value>
+  </data>
+  <data name="Minimum" xml:space="preserve">
+    <value>Mínimo</value>
   </data>
   <data name="Monitor thousands of AnduinOS devices from a single centralized dashboard. Scale as your fleet grows." xml:space="preserve">
     <value>Monitore milhares de dispositivos AnduinOS a partir de um único painel centralizado. Escalone à medida que a sua frota cresce.</value>
@@ -354,6 +384,9 @@
   <data name="Processor" xml:space="preserve">
     <value>Processador</value>
   </data>
+  <data name="quad-core" xml:space="preserve">
+    <value>quad-core</value>
+  </data>
   <data name="RAM" xml:space="preserve">
     <value>Memória RAM</value>
   </data>
@@ -368,6 +401,9 @@
   </data>
   <data name="Reasons" xml:space="preserve">
     <value>Motivos</value>
+  </data>
+  <data name="Recommended" xml:space="preserve">
+    <value>Recomendado</value>
   </data>
   <data name="Release Date" xml:space="preserve">
     <value>Data de lançamento</value>
@@ -498,6 +534,9 @@
   <data name="With just a few clicks, you can have AnduinOS running on any machine. Enjoy automatic updates, built-in security, and remote management from the cloud — so once deployed, it just works." xml:space="preserve">
     <value>Com apenas alguns cliques, pode ter o AnduinOS a funcionar em qualquer máquina. Aproveite as atualizações automáticas, a segurança integrada e a gestão remota a partir da nuvem — assim, depois de implementado, simplesmente funciona.</value>
   </data>
+  <data name="with Secure Boot" xml:space="preserve">
+    <value>com Secure Boot</value>
+  </data>
   <data name="with StatHub" xml:space="preserve">
     <value>com o StatHub</value>
   </data>
@@ -506,58 +545,6 @@
   </data>
   <data name="Write the image to a USB drive" xml:space="preserve">
     <value>Escreva a imagem numa unidade USB</value>
-  </data>
-
-  <data name="ARM64 Support" xml:space="preserve">
-    <value>Suporte ARM64</value>
-  </data>
-
-  <data name="Edge AI" xml:space="preserve">
-    <value>IA na Borda</value>
-  </data>
-
-  <data name="Declarative Built" xml:space="preserve">
-    <value>Construção Declarativa</value>
-  </data>
-
-  <data name="ext4 optional" xml:space="preserve">
-    <value>ext4 opcional</value>
-  </data>
-
-  <data name="Memory Compression" xml:space="preserve">
-    <value>Compressão de Memória</value>
-  </data>
-
-  <data name="Minimum" xml:space="preserve">
-    <value>Mínimo</value>
-  </data>
-
-  <data name="Recommended" xml:space="preserve">
-    <value>Recomendado</value>
-  </data>
-
-  <data name="with Secure Boot" xml:space="preserve">
-    <value>com Secure Boot</value>
-  </data>
-
-  <data name="quad-core" xml:space="preserve">
-    <value>quad-core</value>
-  </data>
-
-  <data name="27 inch" xml:space="preserve">
-    <value>27 polegadas</value>
-  </data>
-
-  <data name="Internet" xml:space="preserve">
-    <value>Internet</value>
-  </data>
-
-  <data name="Internet access" xml:space="preserve">
-    <value>Acesso à Internet</value>
-  </data>
-
-  <data name="Compatible with most x86 PCs and ARM64 UEFI devices." xml:space="preserve">
-    <value>Compatível com a maioria dos PCs x86 e dispositivos UEFI ARM64.</value>
   </data>
 
 </root>

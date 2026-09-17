@@ -24,6 +24,9 @@
   <data name="10-Second Boot" xml:space="preserve">
     <value>Khởi động trong 10 giây</value>
   </data>
+  <data name="27 inch" xml:space="preserve">
+    <value>27 inch</value>
+  </data>
   <data name="Add to Management Cloud and go live" xml:space="preserve">
     <value>Thêm vào Management Cloud và bắt đầu sử dụng</value>
   </data>
@@ -78,6 +81,9 @@
   <data name="Architecture" xml:space="preserve">
     <value>Kiến trúc</value>
   </data>
+  <data name="ARM64 Support" xml:space="preserve">
+    <value>Hỗ trợ ARM64</value>
+  </data>
   <data name="At just 2.54 GB, the ISO is lightweight and fast to deploy across your fleet. The live environment lets your IT team quickly boot, repair, and diagnose systems without installing." xml:space="preserve">
     <value>Với dung lượng chỉ 2,4 GB, file ISO nhẹ nhàng và triển khai nhanh chóng trên toàn bộ đội máy tính của bạn. Môi trường Live cho phép đội IT của bạn khởi động, sửa chữa và chẩn đoán hệ thống một cách nhanh chóng mà không cần cài đặt.</value>
   </data>
@@ -111,6 +117,9 @@
   <data name="Community Site" xml:space="preserve">
     <value>Trang web Cộng đồng</value>
   </data>
+  <data name="Compatible with most x86 PCs and ARM64 UEFI devices." xml:space="preserve">
+    <value>Tương thích với hầu hết các PC x86 và thiết bị UEFI ARM64.</value>
+  </data>
   <data name="Compatible with most x86 PCs manufactured in the last decade." xml:space="preserve">
     <value>Tương thích với hầu hết các PC x86 được sản xuất trong thập kỷ qua.</value>
   </data>
@@ -140,6 +149,9 @@
   </data>
   <data name="Data stays on your servers. Authentication and authorization ensure only your team can access your metrics." xml:space="preserve">
     <value>Dữ liệu vẫn nằm trên máy chủ của bạn. Xác thực và ủy quyền đảm bảo chỉ có đội của bạn mới có thể truy cập các chỉ số của mình.</value>
+  </data>
+  <data name="Declarative Built" xml:space="preserve">
+    <value>Xây dựng khai báo</value>
   </data>
   <data name="Declarative Packaging" xml:space="preserve">
     <value>Đóng gói khai báo</value>
@@ -189,6 +201,9 @@
   <data name="Ecological perfection" xml:space="preserve">
     <value>Hệ sinh thái hoàn thiện</value>
   </data>
+  <data name="Edge AI" xml:space="preserve">
+    <value>AI biên</value>
+  </data>
   <data name="End of Support" xml:space="preserve">
     <value>Hết hạn hỗ trợ</value>
   </data>
@@ -215,6 +230,9 @@
   </data>
   <data name="Explore StatHub" xml:space="preserve">
     <value>Khám phá StatHub</value>
+  </data>
+  <data name="ext4 optional" xml:space="preserve">
+    <value>tùy chọn ext4</value>
   </data>
   <data name="Familiar UX" xml:space="preserve">
     <value>Giao diện quen thuộc</value>
@@ -264,6 +282,12 @@
   <data name="Internal package distribution via apt" xml:space="preserve">
     <value>Phân phối gói phần mềm nội bộ qua apt</value>
   </data>
+  <data name="Internet" xml:space="preserve">
+    <value>Internet</value>
+  </data>
+  <data name="Internet access" xml:space="preserve">
+    <value>Truy cập Internet</value>
+  </data>
   <data name="Kiosk &amp; Digital Signage" xml:space="preserve">
     <value>Điểm Kiosk &amp; Biển Hiệu Kỹ Thuật Số</value>
   </data>
@@ -294,8 +318,14 @@
   <data name="management for your fleet" xml:space="preserve">
     <value>quản lý cho đội thiết bị của bạn</value>
   </data>
+  <data name="Memory Compression" xml:space="preserve">
+    <value>Nén bộ nhớ</value>
+  </data>
   <data name="Minimal maintenance. Maximum stability." xml:space="preserve">
     <value>Bảo trì tối thiểu. Ổn định tối đa.</value>
+  </data>
+  <data name="Minimum" xml:space="preserve">
+    <value>Tối thiểu</value>
   </data>
   <data name="Monitor thousands of AnduinOS devices from a single centralized dashboard. Scale as your fleet grows." xml:space="preserve">
     <value>Giám sát hàng nghìn thiết bị AnduinOS từ một bảng điều khiển trung tâm duy nhất. Mở rộng quy mô theo sự phát triển của đội thiết bị của bạn.</value>
@@ -354,6 +384,9 @@
   <data name="Processor" xml:space="preserve">
     <value>Bộ xử lý</value>
   </data>
+  <data name="quad-core" xml:space="preserve">
+    <value>bốn nhân</value>
+  </data>
   <data name="RAM" xml:space="preserve">
     <value>RAM</value>
   </data>
@@ -368,6 +401,9 @@
   </data>
   <data name="Reasons" xml:space="preserve">
     <value>Lý do</value>
+  </data>
+  <data name="Recommended" xml:space="preserve">
+    <value>Được đề xuất</value>
   </data>
   <data name="Release Date" xml:space="preserve">
     <value>Ngày phát hành</value>
@@ -498,6 +534,9 @@
   <data name="With just a few clicks, you can have AnduinOS running on any machine. Enjoy automatic updates, built-in security, and remote management from the cloud — so once deployed, it just works." xml:space="preserve">
     <value>Chỉ với vài cú nhấp chuột, bạn có thể chạy AnduinOS trên bất kỳ máy nào. Tận hưởng các bản cập nhật tự động, bảo mật tích hợp và quản lý từ xa qua đám mây — nên một khi triển khai xong, mọi thứ sẽ hoạt động ngay lập tức.</value>
   </data>
+  <data name="with Secure Boot" xml:space="preserve">
+    <value>với Secure Boot</value>
+  </data>
   <data name="with StatHub" xml:space="preserve">
     <value>với StatHub</value>
   </data>
@@ -506,58 +545,6 @@
   </data>
   <data name="Write the image to a USB drive" xml:space="preserve">
     <value>Đặt hình ảnh vào một ổ USB</value>
-  </data>
-
-  <data name="ARM64 Support" xml:space="preserve">
-    <value>Hỗ trợ ARM64</value>
-  </data>
-
-  <data name="Edge AI" xml:space="preserve">
-    <value>AI biên</value>
-  </data>
-
-  <data name="Declarative Built" xml:space="preserve">
-    <value>Xây dựng khai báo</value>
-  </data>
-
-  <data name="ext4 optional" xml:space="preserve">
-    <value>tùy chọn ext4</value>
-  </data>
-
-  <data name="Memory Compression" xml:space="preserve">
-    <value>Nén bộ nhớ</value>
-  </data>
-
-  <data name="Minimum" xml:space="preserve">
-    <value>Tối thiểu</value>
-  </data>
-
-  <data name="Recommended" xml:space="preserve">
-    <value>Được đề xuất</value>
-  </data>
-
-  <data name="with Secure Boot" xml:space="preserve">
-    <value>với Secure Boot</value>
-  </data>
-
-  <data name="quad-core" xml:space="preserve">
-    <value>bốn nhân</value>
-  </data>
-
-  <data name="27 inch" xml:space="preserve">
-    <value>27 inch</value>
-  </data>
-
-  <data name="Internet" xml:space="preserve">
-    <value>Internet</value>
-  </data>
-
-  <data name="Internet access" xml:space="preserve">
-    <value>Truy cập Internet</value>
-  </data>
-
-  <data name="Compatible with most x86 PCs and ARM64 UEFI devices." xml:space="preserve">
-    <value>Tương thích với hầu hết các PC x86 và thiết bị UEFI ARM64.</value>
   </data>
 
 </root>
