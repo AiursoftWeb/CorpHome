@@ -31,7 +31,7 @@
     <value>4. Hoe wij uw gegevens gebruiken</value>
   </data>
   <data name="5. Data Sharing and Third-Party Sub-Processors" xml:space="preserve">
-    <value>5. Gegevensdeling en derden subverwerkers</value>
+    <value>5. Gegevensdeling en externe subverwerkers</value>
   </data>
   <data name="6. Data Retention and Deletion" xml:space="preserve">
     <value>6. Bewaring en Verwijdering van Gegevens</value>
@@ -49,10 +49,10 @@
     <value>AIURSOFT LIMITED</value>
   </data>
   <data name="Aiursoft Privacy Policy" xml:space="preserve">
-    <value>Aiursoft Privacy Policy</value>
+    <value>Privacybeleid van Aiursoft</value>
   </data>
   <data name="At Aiursoft, our foundational mission is to bring the spirit of open-source and free software to every enterprise and individual. This commitment to freedom inherently extends to your privacy and data sovereignty. We believe that your data belongs exclusively to you." xml:space="preserve">
-    <value>Bij Aiursoft is onze fundamentele missie om de geest van open-source en vrije software te brengen naar elk bedrijf en elke individu. Deze toewijding aan vrijheid strekt zich onvermijdelijk uit tot uw privacy en datasovereiniteit. Wij geloven dat uw data uitsluitend aan u toebehoort.</value>
+    <value>Bij Aiursoft is het onze fundamentele missie om de geest van open source en vrije software naar elk bedrijf en ieder individu te brengen. Deze toewijding aan vrijheid omvat vanzelfsprekend ook uw privacy en datasoevereiniteit. Wij geloven dat uw gegevens uitsluitend aan u toebehoren.</value>
   </data>
   <data name="Beyond these essential operational partners, Aiursoft will never disclose your data to any third party, including government entities, unless legally compelled to do so by a valid, binding court order or subpoena originating from a competent jurisdiction." xml:space="preserve">
     <value>Naast deze essentiële operationele partners zal Aiursoft uw gegevens nooit aan derden, inclusief overheidsinstanties, vrijgeven, tenzij wettelijk verplicht tot het doen van zodanig handelen op grond van een geldige, verbindende vonnis of aanklacht afkomstig uit een bevoegde rechtspraak.</value>
@@ -67,7 +67,7 @@
     <value>Bedrijf entiteit:</value>
   </data>
   <data name="Company Entity: AIURSOFT LIMITED (Hong Kong)" xml:space="preserve">
-    <value>Bedrijf entity: AIURSOFT LIMITED (Hongkong)</value>
+    <value>Rechtspersoon: AIURSOFT LIMITED (Hongkong)</value>
   </data>
   <data name="Crucially, AIURSOFT LIMITED does not collect, process, or store your full credit card numbers or sensitive financial instruments on our servers. All payment transactions are securely handled by our PCI-DSS compliant third-party payment processor, Stripe, Inc. We only receive and retain non-sensitive billing information from Stripe, such as your billing address, subscription status, and the last four digits of your payment card, strictly for the purposes of issuing invoices, managing your active subscriptions, and complying with financial record-keeping laws." xml:space="preserve">
     <value>Cruciaal, AIURSOFT LIMITED verzamelt, verwerkt of bewaart uw volledige creditcardnummers of gevoelige financiële instrumenten niet op onze servers. Alle betalingstransacties worden veilig afgehandeld door onze PCI-DSS-compliant derde-partij betalingsprocessor, Stripe, Inc. Wij ontvangen en bewaren alleen niet-gevoelige factuurinformatie van Stripe, zoals uw factuuradres, abonnementsstatus en de laatste vier cijfers van uw betaalkaart, uitsluitend voor de doeleinden van het uitgeven van facturen, het beheren van uw actieve abonnementen en het voldoen aan wetgeving inzake financiële boekhouding.</value>
@@ -133,7 +133,7 @@
     <value>Recht op rectificatie:</value>
   </data>
   <data name="Service Provisioning:" xml:space="preserve">
-    <value>Service Provisioning:</value>
+    <value>Dienstverlening:</value>
   </data>
   <data name="Strict Prohibition on AI Training:" xml:space="preserve">
     <value>Streng verbod op AI-training:</value>
@@ -181,13 +181,13 @@
     <value>Wij zijn onomstotelijk toegewijd aan de volgende principes:</value>
   </data>
   <data name="We categorically state that your private data, documents, and communications are never used to train our AI models or any third-party Large Language Models (LLMs). Our AI solutions, particularly in the Custom Enterprise tier, are designed to run locally and train exclusively on data you explicitly provide within your secure environment." xml:space="preserve">
-    <value>Wij stellen categorisch vast dat uw persoonlijke gegevens, documenten en communicatie nooit worden gebruikt om onze AI-modellen of enige derde partij Large Language Models (LLMs) te trainen. Onze AI-oplossingen, met name in de Custom Enterprise-tier, zijn ontworpen om lokaal te draaien en uitsluitend op gegevens te trainen die u expliciet binnen uw beveiligde omgeving verstrekt.</value>
+    <value>Wij verklaren uitdrukkelijk dat uw privégegevens, documenten en communicatie nooit worden gebruikt om onze AI-modellen of grote taalmodellen (LLM&apos;s) van derden te trainen. Onze AI-oplossingen, met name in het Custom Enterprise-abonnement, zijn ontworpen om lokaal te draaien en uitsluitend te worden getraind met gegevens die u uitdrukkelijk in uw beveiligde omgeving verstrekt.</value>
   </data>
   <data name="We collect only the absolute minimum data necessary to provide you with secure, reliable, and functional services." xml:space="preserve">
     <value>Wij verzamelen alleen de absoluut minimale hoeveelheid gegevens die nodig is om u veilige, betrouwbare en functionele diensten te bieden.</value>
   </data>
   <data name="We do not share your personal information with external parties except where absolutely necessary to deliver our services. To operate effectively, we utilize the following trusted third-party sub-processors:" xml:space="preserve">
-    <value>Wij delen uw persoonlijke informatie niet met externe partijen, behalve wanneer dit absoluut noodzakelijk is om onze diensten te leveren. Om effectief te kunnen opereren, maken we gebruik van de volgende vertrouwde derde-partij sub-processor:</value>
+    <value>Wij delen uw persoonsgegevens alleen met externe partijen wanneer dit strikt noodzakelijk is om onze diensten te leveren. Hiervoor maken wij gebruik van de volgende vertrouwde subverwerkers:</value>
   </data>
   <data name="We do not, and will never, sell, rent, or lease your personal or business data to third parties." xml:space="preserve">
     <value>Wij verkopen, verhuren of huren uw persoonlijke of zakelijke gegevens nooit aan derden.</value>

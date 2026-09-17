@@ -78,7 +78,7 @@
   <data name="Architecture" xml:space="preserve">
     <value>Kiến trúc</value>
   </data>
-  <data name="At just 2.4 GB, the ISO is lightweight and fast to deploy across your fleet. The live environment lets your IT team quickly boot, repair, and diagnose systems without installing." xml:space="preserve">
+  <data name="At just 2.54 GB, the ISO is lightweight and fast to deploy across your fleet. The live environment lets your IT team quickly boot, repair, and diagnose systems without installing." xml:space="preserve">
     <value>Với dung lượng chỉ 2,4 GB, file ISO nhẹ nhàng và triển khai nhanh chóng trên toàn bộ đội máy tính của bạn. Môi trường Live cho phép đội IT của bạn khởi động, sửa chữa và chẩn đoán hệ thống một cách nhanh chóng mà không cần cài đặt.</value>
   </data>
   <data name="Atomic Snapshots" xml:space="preserve">
@@ -506,6 +506,58 @@
   </data>
   <data name="Write the image to a USB drive" xml:space="preserve">
     <value>Đặt hình ảnh vào một ổ USB</value>
+  </data>
+
+  <data name="ARM64 Support" xml:space="preserve">
+    <value>Hỗ trợ ARM64</value>
+  </data>
+
+  <data name="Edge AI" xml:space="preserve">
+    <value>AI biên</value>
+  </data>
+
+  <data name="Declarative Built" xml:space="preserve">
+    <value>Xây dựng khai báo</value>
+  </data>
+
+  <data name="ext4 optional" xml:space="preserve">
+    <value>tùy chọn ext4</value>
+  </data>
+
+  <data name="Memory Compression" xml:space="preserve">
+    <value>Nén bộ nhớ</value>
+  </data>
+
+  <data name="Minimum" xml:space="preserve">
+    <value>Tối thiểu</value>
+  </data>
+
+  <data name="Recommended" xml:space="preserve">
+    <value>Được đề xuất</value>
+  </data>
+
+  <data name="with Secure Boot" xml:space="preserve">
+    <value>với Secure Boot</value>
+  </data>
+
+  <data name="quad-core" xml:space="preserve">
+    <value>bốn nhân</value>
+  </data>
+
+  <data name="27 inch" xml:space="preserve">
+    <value>27 inch</value>
+  </data>
+
+  <data name="Internet" xml:space="preserve">
+    <value>Internet</value>
+  </data>
+
+  <data name="Internet access" xml:space="preserve">
+    <value>Truy cập Internet</value>
+  </data>
+
+  <data name="Compatible with most x86 PCs and ARM64 UEFI devices." xml:space="preserve">
+    <value>Tương thích với hầu hết các PC x86 và thiết bị UEFI ARM64.</value>
   </data>
 
 </root>

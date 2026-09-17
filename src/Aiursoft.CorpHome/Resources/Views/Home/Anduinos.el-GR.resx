@@ -72,7 +72,7 @@
   <data name="Architecture" xml:space="preserve">
     <value>Αρχιτεκτονική</value>
   </data>
-  <data name="At just 2.4 GB, the ISO is lightweight and fast to deploy across your fleet. The live environment lets your IT team quickly boot, repair, and diagnose systems without installing." xml:space="preserve">
+  <data name="At just 2.54 GB, the ISO is lightweight and fast to deploy across your fleet. The live environment lets your IT team quickly boot, repair, and diagnose systems without installing." xml:space="preserve">
     <value>Με μέγεθος μόλις 2,4 GB, το ISO είναι ελαφρύ και γρήγορο στην εξυπηρέτηση σε όλο το δίκτυο συστημάτων. Το περιβάλλον ζωντανής εκτέλεσης επιτρέπει στην ομάδα IT σας να εκκινεί, να επισκευάζει και να διαγιγνώσκει συστήματα γρήγορα, χωρίς εγκατάσταση.</value>
   </data>
   <data name="Atomic Snapshots" xml:space="preserve">
@@ -491,6 +491,58 @@
   </data>
   <data name="Write the image to a USB drive" xml:space="preserve">
     <value>Αποθηκεύστε την εικόνα σε μια μονάδα USB</value>
+  </data>
+
+  <data name="ARM64 Support" xml:space="preserve">
+    <value>Υποστήριξη ARM64</value>
+  </data>
+
+  <data name="Edge AI" xml:space="preserve">
+    <value>Τεχνητή Νοημοσύνη στην Περιφέρεια</value>
+  </data>
+
+  <data name="Declarative Built" xml:space="preserve">
+    <value>Δηλωτική Κατασκευή</value>
+  </data>
+
+  <data name="ext4 optional" xml:space="preserve">
+    <value>προαιρετικό ext4</value>
+  </data>
+
+  <data name="Memory Compression" xml:space="preserve">
+    <value>Συμπίεση Μνήμης</value>
+  </data>
+
+  <data name="Minimum" xml:space="preserve">
+    <value>Ελάχιστα</value>
+  </data>
+
+  <data name="Recommended" xml:space="preserve">
+    <value>Συνιστάται</value>
+  </data>
+
+  <data name="with Secure Boot" xml:space="preserve">
+    <value>με Secure Boot</value>
+  </data>
+
+  <data name="quad-core" xml:space="preserve">
+    <value>τετραπύρηνος</value>
+  </data>
+
+  <data name="27 inch" xml:space="preserve">
+    <value>27 ίντσες</value>
+  </data>
+
+  <data name="Internet" xml:space="preserve">
+    <value>Διαδίκτυο</value>
+  </data>
+
+  <data name="Internet access" xml:space="preserve">
+    <value>Πρόσβαση στο Διαδίκτυο</value>
+  </data>
+
+  <data name="Compatible with most x86 PCs and ARM64 UEFI devices." xml:space="preserve">
+    <value>Συμβατό με τους περισσότερους υπολογιστές x86 και συσκευές ARM64 UEFI.</value>
   </data>
 
 </root>

@@ -67,7 +67,7 @@
     <value>Юридическое лицо компании:</value>
   </data>
   <data name="Company Entity: AIURSOFT LIMITED (Hong Kong)" xml:space="preserve">
-    <value>Company Entity: AIURSOFT LIMITED (Hong Kong)</value>
+    <value>Юридическое лицо: AIURSOFT LIMITED (Гонконг)</value>
   </data>
   <data name="Crucially, AIURSOFT LIMITED does not collect, process, or store your full credit card numbers or sensitive financial instruments on our servers. All payment transactions are securely handled by our PCI-DSS compliant third-party payment processor, Stripe, Inc. We only receive and retain non-sensitive billing information from Stripe, such as your billing address, subscription status, and the last four digits of your payment card, strictly for the purposes of issuing invoices, managing your active subscriptions, and complying with financial record-keeping laws." xml:space="preserve">
     <value>Критически важно, что AIURSOFT LIMITED не собирает, не обрабатывает и не хранит ваши полные номера кредитных карт или чувствительные финансовые инструменты на наших серверах. Все платежные операции безопасно обрабатываются нашим третьим сторонним процессором платежей, соответствующим стандарту PCI-DSS, Stripe, Inc. Мы получаем и храним только нечувствительную информацию о счетах от Stripe, такую как ваш адрес для выставления счетов, статус подписки и последние четыре цифры вашей платежной карты, исключительно для целей выставления счетов, управления вашими активными подписками и соблюдения законодательства о ведении финансовых записей.</value>
@@ -76,7 +76,7 @@
     <value>Во время активной подписки:</value>
   </data>
   <data name="Email:" xml:space="preserve">
-    <value>Email:</value>
+    <value>Электронная почта:</value>
   </data>
   <data name="Exclusively for secure payment processing and subscription management." xml:space="preserve">
     <value>Исключительно для безопасной обработки платежей и управления подписками.</value>
@@ -181,7 +181,7 @@
     <value>Мы безоговорочно привержены следующим принципам:</value>
   </data>
   <data name="We categorically state that your private data, documents, and communications are never used to train our AI models or any third-party Large Language Models (LLMs). Our AI solutions, particularly in the Custom Enterprise tier, are designed to run locally and train exclusively on data you explicitly provide within your secure environment." xml:space="preserve">
-    <value>Мы категорически заявляем, что ваши личные данные, документы и коммуникации никогда не используются для обучения наших моделей ИИ или любых сторонних моделей крупных языковых моделей (LLM). Наши решения на основе ИИ, особенно в тарифе Custom Enterprise, разработаны для локального выполнения и обучения исключительно на данных, которые вы явно предоставляете в вашей защищённой среде.</value>
+    <value>Мы прямо заявляем, что ваши личные данные, документы и сообщения никогда не используются для обучения наших моделей ИИ или сторонних больших языковых моделей (LLM). Наши решения на основе ИИ, особенно в тарифе Custom Enterprise, предназначены для локальной работы и обучаются исключительно на данных, которые вы явно предоставляете в своей защищённой среде.</value>
   </data>
   <data name="We collect only the absolute minimum data necessary to provide you with secure, reliable, and functional services." xml:space="preserve">
     <value>Мы собираем только абсолютный минимум данных, необходимых для обеспечения безопасных, надежных и функциональных услуг.</value>

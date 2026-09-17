@@ -19,7 +19,7 @@
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
       <data name="1. The Aiursoft Privacy Philosophy" xml:space="preserve">
-    <value>1. 아이어소프트 개인정보 보호 철학</value>
+    <value>1. Aiursoft의 개인정보 보호 철학</value>
   </data>
   <data name="2. Core Distinction: Data Controller vs. Data Processor" xml:space="preserve">
     <value>2. 핵심 구분: 데이터 컨트롤러 vs. 데이터 처리자</value>

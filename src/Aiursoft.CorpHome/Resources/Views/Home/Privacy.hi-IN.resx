@@ -19,7 +19,7 @@
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
       <data name="1. The Aiursoft Privacy Philosophy" xml:space="preserve">
-    <value>1. एयूरसॉफ्ट गोपनीयता दर्शन</value>
+    <value>1. Aiursoft का गोपनीयता दर्शन</value>
   </data>
   <data name="2. Core Distinction: Data Controller vs. Data Processor" xml:space="preserve">
     <value>2. मुख्य भेद: डेटा नियंत्रक बनाम डेटा प्रोसेसर</value>
@@ -52,7 +52,7 @@
     <value>Aiursoft गोपनीयता नीति</value>
   </data>
   <data name="At Aiursoft, our foundational mission is to bring the spirit of open-source and free software to every enterprise and individual. This commitment to freedom inherently extends to your privacy and data sovereignty. We believe that your data belongs exclusively to you." xml:space="preserve">
-    <value>एयरसॉफ्ट में, हमारी मौलिक मिशन हर उद्यम और व्यक्ति को ओपन-सोर्स और फ्री सॉफ्टवेयर के भावना को लाने की है। स्वतंत्रता के प्रति यह प्रतिबद्धता स्वाभाविक रूप से आपकी गोपनीयता और डेटा संप्रभुता तक विस्तारित होती है। हम मानते हैं कि आपका डेटा केवल और केवल आपका ही है।</value>
+    <value>Aiursoft में, हमारा मूल उद्देश्य ओपन-सोर्स और मुक्त सॉफ़्टवेयर की भावना को प्रत्येक उद्यम और व्यक्ति तक पहुँचाना है। स्वतंत्रता के प्रति यह प्रतिबद्धता स्वाभाविक रूप से आपकी गोपनीयता और डेटा संप्रभुता तक भी विस्तृत होती है। हमारा मानना है कि आपका डेटा केवल आपका है।</value>
   </data>
   <data name="Beyond these essential operational partners, Aiursoft will never disclose your data to any third party, including government entities, unless legally compelled to do so by a valid, binding court order or subpoena originating from a competent jurisdiction." xml:space="preserve">
     <value>इन आवश्यक संचालन साझेदारों के अलावा, Aiursoft कभी भी आपका डेटा किसी तीसरे पक्ष को, जिसमें सरकारी संस्थाएं भी शामिल हैं, प्रकट नहीं करेगा, जब तक कि एक मान्य, बाध्यकारी अदालत के आदेश या समन द्वारा कानूनी रूप से ऐसा करने के लिए बाध्य न किया जाए जो एक योग्य क्षेत्राधिकार से उत्पन्न हो।</value>

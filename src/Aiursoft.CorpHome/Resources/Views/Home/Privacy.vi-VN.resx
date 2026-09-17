@@ -31,7 +31,7 @@
     <value>4. Chúng Tôi Sử Dụng Dữ Liệu Của Bạn Như Thế Nào</value>
   </data>
   <data name="5. Data Sharing and Third-Party Sub-Processors" xml:space="preserve">
-    <value>5. Chia sẻ Dữ liệu và Các Nhà Chế biến Phụ Trợ Bên Thứ Ba</value>
+    <value>5. Chia sẻ dữ liệu và bên xử lý phụ thứ ba</value>
   </data>
   <data name="6. Data Retention and Deletion" xml:space="preserve">
     <value>6. Lưu giữ và Xóa dữ liệu</value>
@@ -67,7 +67,7 @@
     <value>Cơ quan công ty:</value>
   </data>
   <data name="Company Entity: AIURSOFT LIMITED (Hong Kong)" xml:space="preserve">
-    <value>Công ty thực thể: AIURSOFT LIMITED (Hồng Kông)</value>
+    <value>Pháp nhân: AIURSOFT LIMITED (Hồng Kông)</value>
   </data>
   <data name="Crucially, AIURSOFT LIMITED does not collect, process, or store your full credit card numbers or sensitive financial instruments on our servers. All payment transactions are securely handled by our PCI-DSS compliant third-party payment processor, Stripe, Inc. We only receive and retain non-sensitive billing information from Stripe, such as your billing address, subscription status, and the last four digits of your payment card, strictly for the purposes of issuing invoices, managing your active subscriptions, and complying with financial record-keeping laws." xml:space="preserve">
     <value>Một cách quan trọng, AIURSOFT LIMITED không thu thập, xử lý hoặc lưu trữ số thẻ tín dụng đầy đủ hoặc các công cụ tài chính nhạy cảm của bạn trên máy chủ của chúng tôi. Tất cả các giao dịch thanh toán được xử lý an toàn bởi nhà cung cấp thanh toán bên thứ ba tuân thủ PCI-DSS, Stripe, Inc. Chúng tôi chỉ nhận và lưu giữ thông tin hóa đơn không nhạy cảm từ Stripe, chẳng hạn như địa chỉ hóa đơn, trạng thái đăng ký và bốn chữ số cuối cùng của thẻ thanh toán của bạn, chỉ nhằm mục đích phát hành hóa đơn, quản lý các đăng ký đang hoạt động và tuân thủ các luật lệ ghi chép tài chính.</value>
@@ -76,7 +76,7 @@
     <value>Trong thời gian đăng ký đang hoạt động:</value>
   </data>
   <data name="Email:" xml:space="preserve">
-    <value>Email:</value>
+    <value>Thư điện tử:</value>
   </data>
   <data name="Exclusively for secure payment processing and subscription management." xml:space="preserve">
     <value>Chỉ dùng cho xử lý thanh toán an toàn và quản lý đăng ký.</value>

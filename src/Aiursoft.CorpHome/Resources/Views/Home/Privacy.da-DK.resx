@@ -31,7 +31,7 @@
     <value>4. Hvordan vi bruger dine data</value>
   </data>
   <data name="5. Data Sharing and Third-Party Sub-Processors" xml:space="preserve">
-    <value>5. Deltagelse af data og tredjeparts underbehandlere</value>
+    <value>5. Datadeling og tredjepartsdatabehandlere</value>
   </data>
   <data name="6. Data Retention and Deletion" xml:space="preserve">
     <value>6. Dataopbevaring og sletning</value>
@@ -52,7 +52,7 @@
     <value>Aiursoft Privatlivspolitik</value>
   </data>
   <data name="At Aiursoft, our foundational mission is to bring the spirit of open-source and free software to every enterprise and individual. This commitment to freedom inherently extends to your privacy and data sovereignty. We believe that your data belongs exclusively to you." xml:space="preserve">
-    <value>På Aiursoft er vores grundlæggende mission at bringe ånden af open-source og fri software til hvert eneste foretagende og hver enkelt person. Dette engagement for frihed udstrækker sig naturligt til din privatliv og din data-suverænitet. Vi mener, at dine data udelukkende tilhører dig.</value>
+    <value>Hos Aiursoft er vores grundlæggende mission at bringe ånden fra open source og fri software ud til alle virksomheder og enkeltpersoner. Denne forpligtelse til frihed omfatter naturligt også dit privatliv og din datasuverænitet. Vi mener, at dine data udelukkende tilhører dig.</value>
   </data>
   <data name="Beyond these essential operational partners, Aiursoft will never disclose your data to any third party, including government entities, unless legally compelled to do so by a valid, binding court order or subpoena originating from a competent jurisdiction." xml:space="preserve">
     <value>Ud over disse essentielle driftspartnere vil Aiursoft aldrig afsløre dine data til tredjeparter, herunder myndigheder, medmindre det er påkrævet ved lov gennem en gyldig, bindende domstolskendelse eller en underkendelse udstedt af en kompetent jurisdiktion.</value>
@@ -85,10 +85,10 @@
     <value>For Cloud-Hosted Plans (e.g., Aiursoft Substrate S1 Core):</value>
   </data>
   <data name="For Cloud-Hosted Plans (e.g., Aiursoft Substratum Core):" xml:space="preserve">
-    <value>For Cloud-Hosted Plans (e.g., Aiursoft Substratum Core):</value>
+    <value>For cloud-hostede abonnementer (f.eks. Aiursoft Substratum Core):</value>
   </data>
   <data name="For on-premise deployments, cancellation simply terminates our support and update services. Your data remains entirely intact on your own servers, under your complete control." xml:space="preserve">
-    <value>For on-premise deployments, cancellation simply terminates our support and update services. Your data remains entirely intact on your own servers, under your complete control.</value>
+    <value>Ved lokale installationer betyder opsigelse blot, at vores support- og opdateringstjenester ophører. Dine data forbliver intakte på dine egne servere og under din fulde kontrol.</value>
   </data>
   <data name="For On-Premise Plans (e.g., Aiursoft Substrate S3 Startup &amp; S5 Enterprise):" xml:space="preserve">
     <value>For On-Premise Plans (f.eks. Aiursoft Substrate S3 Startup &amp; S5 Enterprise):</value>
@@ -181,13 +181,13 @@
     <value>Vi er ubetinget forpligtet til følgende principper:</value>
   </data>
   <data name="We categorically state that your private data, documents, and communications are never used to train our AI models or any third-party Large Language Models (LLMs). Our AI solutions, particularly in the Custom Enterprise tier, are designed to run locally and train exclusively on data you explicitly provide within your secure environment." xml:space="preserve">
-    <value>Vi erklærer kategorisk, at dine private data, dokumenter og kommunikation aldrig bruges til at træne vores AI-modeller eller tredjeparts Large Language Models (LLMs). Vores AI-løsninger, især i Custom Enterprise-niveauet, er designet til at køre lokalt og trænes udelukkende på data, du eksplicit leverer inden for dit sikre miljø.</value>
+    <value>Vi erklærer udtrykkeligt, at dine private data, dokumenter og meddelelser aldrig bruges til at træne vores AI-modeller eller tredjeparters store sprogmodeller. Vores AI-løsninger, især på Custom Enterprise-niveauet, er designet til at køre lokalt og udelukkende blive trænet med data, som du udtrykkeligt stiller til rådighed i dit sikre miljø.</value>
   </data>
   <data name="We collect only the absolute minimum data necessary to provide you with secure, reliable, and functional services." xml:space="preserve">
     <value>Vi indsamler kun det absolutte minimum af data, der er nødvendigt for at levere sikre, pålidelige og funktionelle tjenester til dig.</value>
   </data>
   <data name="We do not share your personal information with external parties except where absolutely necessary to deliver our services. To operate effectively, we utilize the following trusted third-party sub-processors:" xml:space="preserve">
-    <value>Vi deler ikke dine personoplysninger med eksterne parter, medmindre det er absolut nødvendigt for at levere vores tjenester. For at fungere effektivt bruger vi følgende betroede tredjeparts underforarbejdere:</value>
+    <value>Vi deler ikke dine personoplysninger med eksterne parter, medmindre det er strengt nødvendigt for at levere vores tjenester. Vi benytter følgende betroede tredjepartsdatabehandlere:</value>
   </data>
   <data name="We do not, and will never, sell, rent, or lease your personal or business data to third parties." xml:space="preserve">
     <value>Vi sælger, lejer ud eller udlejer aldrig dine personlige eller erhvervsdata til tredjeparter, og det vil vi heller aldrig gøre.</value>

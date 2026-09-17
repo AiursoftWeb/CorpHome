@@ -17,12 +17,13 @@
                 <span class="badge badge-subtle-primary p-1">@Localizer["Open Source"]</span>
                 <span class="badge badge-subtle-primary p-1">@Localizer["Free"]</span>
                 <span class="badge badge-subtle-primary p-1">@Localizer["GPL-v3 License"]</span>
+                <span class="badge badge-subtle-primary p-1">x86_64 + ARM64</span>
                 <h1 id="main-slogan" class="my-4 text-white" style="font-size: 3rem;">
                     @Localizer["Love AnduinOS?"] <span class='text-primary'>@Localizer["Deploy at scale, manage centrally, enjoy the enterprise edition!"]</span>
                 </h1>
                 <p class="text-lg text-white-50">@Localizer["AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux."]</p>
                 <div class="my-4">
-                    <span class="badge badge-subtle-primary p-1">v2.0.0</span>
+                    <span class="badge badge-subtle-primary p-1">v2.0.2</span>
                 </div>
                 <div class="my-4">
                     <a class="btn btn-primary btn-lg btn-pill" href="https://www.anduinos.com/#download-links" target="_blank">
@@ -68,7 +69,7 @@
                     </div>
                     <div class="flex-grow-1">
                         <h4 class="mt-0">@Localizer["Ready to use"]</h4>
-                        <p class="fs-lg">@Localizer["At just 2.4 GB, the ISO is lightweight and fast to deploy across your fleet. The live environment lets your IT team quickly boot, repair, and diagnose systems without installing."]</p>
+                        <p class="fs-lg">@Localizer["At just 2.54 GB, the ISO is lightweight and fast to deploy across your fleet. The live environment lets your IT team quickly boot, repair, and diagnose systems without installing."]</p>
                     </div>
                 </div>
             </div>
@@ -125,6 +126,17 @@
                         <h4 class="mt-0">@Localizer["Containerized"]</h4>
                         <p class="fs-lg">@Localizer["Graphical applications are installed via Flatpak, and keep themselves separate from the base system. They also allow for fine-grained control over their permissions."]</p>
                     </div>
+                </div>
+            </div>
+        </div>
+        <div class="card border-primary bg-primary-subtle mt-4">
+            <div class="card-body d-flex flex-column flex-md-row align-items-md-center gap-3 p-4">
+                <div class="landing-feature flex-shrink-0 mb-0">
+                    <i data-lucide="cpu"></i>
+                </div>
+                <div>
+                    <h4 class="mt-0 mb-1">@Localizer["ARM64 Support"]</h4>
+                    <p class="fs-lg mb-0">@Localizer["Compatible with most x86 PCs and ARM64 UEFI devices."]</p>
                 </div>
             </div>
         </div>
@@ -288,7 +300,7 @@
         @* Feature Badges *@
         <div class="d-flex flex-wrap justify-content-center gap-2 mb-5">
             <span class="badge bg-dark-glass border-white-10 text-gray-300 px-3 py-2 rounded-pill">@Localizer["Familiar UX"]</span>
-            <span class="badge bg-dark-glass border-white-10 text-gray-300 px-3 py-2 rounded-pill">2.53 GB</span>
+            <span class="badge bg-dark-glass border-white-10 text-gray-300 px-3 py-2 rounded-pill">2.54 GB</span>
             <span class="badge bg-dark-glass border-white-10 text-gray-300 px-3 py-2 rounded-pill">@Localizer["Live Boot"]</span>
             <span class="badge bg-dark-glass border-white-10 text-gray-300 px-3 py-2 rounded-pill">@Localizer["LTS Support"]</span>
             <span class="badge bg-dark-glass border-white-10 text-gray-300 px-3 py-2 rounded-pill">@Localizer["Without Snap"]</span>
@@ -298,6 +310,9 @@
             <span class="badge bg-dark-glass border-white-10 text-gray-300 px-3 py-2 rounded-pill">@Localizer["Ubuntu Base"]</span>
             <span class="badge bg-dark-glass border-white-10 text-gray-300 px-3 py-2 rounded-pill">@Localizer["Wayland Ready"]</span>
             <span class="badge bg-dark-glass border-white-10 text-gray-300 px-3 py-2 rounded-pill">@Localizer["HDR Support"]</span>
+            <span class="badge bg-dark-glass border-white-10 text-gray-300 px-3 py-2 rounded-pill">@Localizer["ARM64 Support"]</span>
+            <a href="https://docs.anduinos.com/Applications/Development/Why-AI/Why-AI.html" target="_blank" class="badge bg-dark-glass border-white-10 text-gray-300 px-3 py-2 rounded-pill text-decoration-none">@Localizer["Edge AI"]</a>
+            <a href="https://apkg.aiursoft.com" target="_blank" class="badge bg-dark-glass border-white-10 text-gray-300 px-3 py-2 rounded-pill text-decoration-none">@Localizer["Declarative Built"]</a>
         </div>
 
         <div class="row g-4">
@@ -313,7 +328,7 @@
                                 <tr><td class="text-gray-500 ps-0" style="width: 40%;">@Localizer["Release Date"]</td><td class="text-white fw-semibold pe-0">2026-06-30</td></tr>
                                 <tr><td class="text-gray-500 ps-0">@Localizer["End of Support"]</td><td class="text-white fw-semibold pe-0">April 2041</td></tr>
                                 <tr><td class="text-gray-500 ps-0">@Localizer["Pricing"]</td><td class="fw-semibold pe-0"><a asp-controller="Home" asp-action="Contact" class="text-primary">@Localizer["Contact Sales"]</a></td></tr>
-                                <tr><td class="text-gray-500 ps-0">@Localizer["Image Size"]</td><td class="text-white fw-semibold pe-0">2.53 GB</td></tr>
+                                <tr><td class="text-gray-500 ps-0">@Localizer["Image Size"]</td><td class="text-white fw-semibold pe-0">2.54 GB</td></tr>
                                 <tr><td class="text-gray-500 ps-0">@Localizer["Linux Kernel"]</td><td class="text-white fw-semibold pe-0">7.0.0</td></tr>
                                 <tr><td class="text-gray-500 ps-0">@Localizer["Desktop Environment"]</td><td class="text-white fw-semibold pe-0">GNOME 50</td></tr>
                                 <tr><td class="text-gray-500 ps-0">@Localizer["Display Server"]</td><td class="text-white fw-semibold pe-0">Wayland</td></tr>
@@ -326,9 +341,10 @@
                                     <tr><td class="text-gray-500 ps-0" style="width: 40%;">@Localizer["UI Toolkit"]</td><td class="text-white fw-semibold pe-0">GTK4</td></tr>
                                     <tr><td class="text-gray-500 ps-0">@Localizer["Package Manager"]</td><td class="text-white fw-semibold pe-0">apt</td></tr>
                                     <tr><td class="text-gray-500 ps-0">@Localizer["Package Format"]</td><td class="text-white fw-semibold pe-0">deb + Flatpak</td></tr>
-                                    <tr><td class="text-gray-500 ps-0">@Localizer["Architecture"]</td><td class="text-white fw-semibold pe-0">x86_64</td></tr>
+                                    <tr><td class="text-gray-500 ps-0">@Localizer["Architecture"]</td><td class="text-white fw-semibold pe-0">x86_64 / ARM64</td></tr>
                                     <tr><td class="text-gray-500 ps-0">@Localizer["Init System"]</td><td class="text-white fw-semibold pe-0">systemd</td></tr>
-                                    <tr><td class="text-gray-500 ps-0">@Localizer["Default Filesystem"]</td><td class="text-white fw-semibold pe-0">ext4</td></tr>
+                                    <tr><td class="text-gray-500 ps-0">@Localizer["Default Filesystem"]</td><td class="text-white fw-semibold pe-0">Btrfs (@Localizer["ext4 optional"])</td></tr>
+                                    <tr><td class="text-gray-500 ps-0">@Localizer["Memory Compression"]</td><td class="text-white fw-semibold pe-0">ZRAM</td></tr>
                                     <tr><td class="text-gray-500 ps-0">@Localizer["Default Browser"]</td><td class="text-white fw-semibold pe-0">Firefox</td></tr>
                                 </tbody>
                             </table>
@@ -343,23 +359,52 @@
             <div class="col-lg-6">
                 <div class="card bg-dark-glass border-white-10 h-100">
                     <div class="card-header bg-transparent border-white-10 pt-4">
-                        <h4 class="mb-0 text-white">@Localizer["System Requirements"]</h4>
+                        <div class="d-flex justify-content-between align-items-center flex-wrap gap-2">
+                            <h4 class="mb-0 text-white">@Localizer["System Requirements"]</h4>
+                            <div class="btn-group btn-group-sm" role="group">
+                                <button class="btn btn-outline-light rounded-pill active" type="button"
+                                        data-bs-toggle="collapse" data-bs-target="#minReqs, #recReqs"
+                                        onclick="document.getElementById('recReqs').classList.remove('show'); document.getElementById('minReqs').classList.add('show'); this.classList.add('active'); this.nextElementSibling.classList.remove('active');">
+                                    @Localizer["Minimum"]
+                                </button>
+                                <button class="btn btn-outline-light rounded-pill" type="button"
+                                        data-bs-toggle="collapse" data-bs-target="#minReqs, #recReqs"
+                                        onclick="document.getElementById('minReqs').classList.remove('show'); document.getElementById('recReqs').classList.add('show'); this.classList.add('active'); this.previousElementSibling.classList.remove('active');">
+                                    @Localizer["Recommended"]
+                                </button>
+                            </div>
+                        </div>
                     </div>
                     <div class="card-body pt-0">
-                        <table class="table table-borderless mb-0">
-                            <tbody>
-                                <tr><td class="text-gray-500 ps-0" style="width: 40%;">@Localizer["Architecture"]</td><td class="text-white fw-semibold pe-0">x86_64</td></tr>
-                                <tr><td class="text-gray-500 ps-0">@Localizer["Firmware"]</td><td class="text-white fw-semibold pe-0">UEFI @Localizer["or"] BIOS</td></tr>
-                                <tr><td class="text-gray-500 ps-0">@Localizer["Processor"]</td><td class="text-white fw-semibold pe-0">2 GHz</td></tr>
-                                <tr><td class="text-gray-500 ps-0">@Localizer["RAM"]</td><td class="text-white fw-semibold pe-0">4 GB</td></tr>
-                                <tr><td class="text-gray-500 ps-0">@Localizer["Disk Space"]</td><td class="text-white fw-semibold pe-0">20 GB</td></tr>
-                                <tr><td class="text-gray-500 ps-0">@Localizer["Screen"]</td><td class="text-white fw-semibold pe-0">1024 × 768</td></tr>
-                                <tr><td class="text-gray-500 ps-0">@Localizer["Ports"]</td><td class="text-white fw-semibold pe-0">USB @Localizer["or"] DVD</td></tr>
-                            </tbody>
-                        </table>
+                        <div class="collapse show" id="minReqs">
+                            <table class="table table-borderless mb-0">
+                                <tbody>
+                                    <tr><td class="text-gray-500 ps-0" style="width: 40%;">@Localizer["Architecture"]</td><td class="text-white fw-semibold pe-0">x86_64 / ARM64</td></tr>
+                                    <tr><td class="text-gray-500 ps-0">@Localizer["Firmware"]</td><td class="text-white fw-semibold pe-0">UEFI @Localizer["or"] BIOS</td></tr>
+                                    <tr><td class="text-gray-500 ps-0">@Localizer["Processor"]</td><td class="text-white fw-semibold pe-0">2 GHz</td></tr>
+                                    <tr><td class="text-gray-500 ps-0">@Localizer["RAM"]</td><td class="text-white fw-semibold pe-0">4 GB</td></tr>
+                                    <tr><td class="text-gray-500 ps-0">@Localizer["Disk Space"]</td><td class="text-white fw-semibold pe-0">25 GiB</td></tr>
+                                    <tr><td class="text-gray-500 ps-0">@Localizer["Screen"]</td><td class="text-white fw-semibold pe-0">1024 × 768</td></tr>
+                                    <tr><td class="text-gray-500 ps-0">@Localizer["Ports"]</td><td class="text-white fw-semibold pe-0">USB @Localizer["or"] DVD</td></tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        <div class="collapse" id="recReqs">
+                            <table class="table table-borderless mb-0">
+                                <tbody>
+                                    <tr><td class="text-gray-500 ps-0" style="width: 40%;">@Localizer["Architecture"]</td><td class="text-white fw-semibold pe-0">x86_64 / ARM64</td></tr>
+                                    <tr><td class="text-gray-500 ps-0">@Localizer["Firmware"]</td><td class="text-white fw-semibold pe-0">UEFI @Localizer["with Secure Boot"]</td></tr>
+                                    <tr><td class="text-gray-500 ps-0">@Localizer["Processor"]</td><td class="text-white fw-semibold pe-0">2.5 GHz @Localizer["quad-core"]</td></tr>
+                                    <tr><td class="text-gray-500 ps-0">@Localizer["RAM"]</td><td class="text-white fw-semibold pe-0">8 GB</td></tr>
+                                    <tr><td class="text-gray-500 ps-0">@Localizer["Disk Space"]</td><td class="text-white fw-semibold pe-0">50 GiB</td></tr>
+                                    <tr><td class="text-gray-500 ps-0">@Localizer["Screen"]</td><td class="text-white fw-semibold pe-0">2560 × 1440 @Localizer["27 inch"]</td></tr>
+                                    <tr><td class="text-gray-500 ps-0">@Localizer["Internet"]</td><td class="text-white fw-semibold pe-0">@Localizer["Internet access"]</td></tr>
+                                </tbody>
+                            </table>
+                        </div>
                         <div class="mt-3 p-3 bg-dark-glass rounded-3 text-center text-gray-400 small border-white-10 border">
                             <i data-lucide="info" class="me-1" style="width: 14px; height: 14px;"></i>
-                            @Localizer["Compatible with most x86 PCs manufactured in the last decade."]
+                            @Localizer["Compatible with most x86 PCs and ARM64 UEFI devices."]
                         </div>
                     </div>
                 </div>

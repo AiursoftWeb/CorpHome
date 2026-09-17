@@ -5,6 +5,7 @@ using Aiursoft.CorpHome.Models;
 using Aiursoft.CorpHome.Services.FileStorage;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Caching.Memory;
+using System.Globalization;
 
 namespace Aiursoft.CorpHome.Services;
 
@@ -53,10 +54,17 @@ public class GlobalSettingsService(
     {
         var brandName = await GetSettingValueAsync(SettingsMap.BrandName);
         var zhName = await GetSettingValueAsync(SettingsMap.CompanyNameZhCn);
-        if (!string.IsNullOrWhiteSpace(zhName) &&
-            System.Globalization.CultureInfo.CurrentCulture.Name == "zh-CN")
+        if (!string.IsNullOrWhiteSpace(zhName) && IsChineseCulture())
+        {
             return zhName;
+        }
+
         return brandName;
+    }
+
+    public static bool IsChineseCulture(CultureInfo? culture = null)
+    {
+        return (culture ?? CultureInfo.CurrentUICulture).Name == "zh-CN";
     }
 
     public async Task<bool> GetBoolSettingAsync(string key)

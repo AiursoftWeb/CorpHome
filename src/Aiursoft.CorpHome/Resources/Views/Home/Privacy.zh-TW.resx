@@ -19,7 +19,7 @@
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
       <data name="1. The Aiursoft Privacy Philosophy" xml:space="preserve">
-    <value>1. 愛爾福特隱私哲學</value>
+    <value>1. Aiursoft 的隱私理念</value>
   </data>
   <data name="2. Core Distinction: Data Controller vs. Data Processor" xml:space="preserve">
     <value>2. 核心區別：資料控制者 vs. 資料處理者</value>
@@ -181,7 +181,7 @@
     <value>我們明確且無條件地致力於以下原則：</value>
   </data>
   <data name="We categorically state that your private data, documents, and communications are never used to train our AI models or any third-party Large Language Models (LLMs). Our AI solutions, particularly in the Custom Enterprise tier, are designed to run locally and train exclusively on data you explicitly provide within your secure environment." xml:space="preserve">
-    <value>我們明確聲明，您的私人資料、文件與通訊內容絕不會用於訓練我們的AI模型或任何第三方大型語言模型（LLMs）。我們的AI解決方案，特別是在客製化企業級方案中，設計為在本地運行，並僅在您明確提供的安全環境內，使用您所提供的資料進行訓練。</value>
+    <value>我們明確聲明，您的私人資料、文件與通訊內容絕不會用於訓練我們的 AI 模型或任何第三方大型語言模型（LLMs）。我們的 AI 解決方案，特別是客製化企業方案，設計為在本地執行，並僅使用您在安全環境中明確提供的資料進行訓練。</value>
   </data>
   <data name="We collect only the absolute minimum data necessary to provide you with secure, reliable, and functional services." xml:space="preserve">
     <value>我們僅收集提供安全、可靠且功能完整的服務所絕對必要的最少資料。</value>

@@ -78,8 +78,8 @@
   <data name="Architecture" xml:space="preserve">
     <value>アーキテクチャ</value>
   </data>
-  <data name="At just 2.4 GB, the ISO is lightweight and fast to deploy across your fleet. The live environment lets your IT team quickly boot, repair, and diagnose systems without installing." xml:space="preserve">
-    <value>わずか 2.4 GB の ISO は軽量であり、機群全体への展開が迅速です。ライブ環境では、IT チームがインストールせずにシステムを迅速に起動、修復、診断できます。</value>
+  <data name="At just 2.54 GB, the ISO is lightweight and fast to deploy across your fleet. The live environment lets your IT team quickly boot, repair, and diagnose systems without installing." xml:space="preserve">
+    <value>わずか 2.54 GB の ISO は軽量であり、機群全体への展開が迅速です。ライブ環境では、IT チームがインストールせずにシステムを迅速に起動、修復、診断できます。</value>
   </data>
   <data name="Atomic Snapshots" xml:space="preserve">
     <value>アトミックスナップショット</value>
@@ -512,6 +512,58 @@
   </data>
   <data name="Write the image to a USB drive" xml:space="preserve">
     <value>イメージをUSBドライブに書き込みます</value>
+  </data>
+
+  <data name="ARM64 Support" xml:space="preserve">
+    <value>ARM64サポート</value>
+  </data>
+
+  <data name="Edge AI" xml:space="preserve">
+    <value>エッジAI</value>
+  </data>
+
+  <data name="Declarative Built" xml:space="preserve">
+    <value>宣言的ビルド</value>
+  </data>
+
+  <data name="ext4 optional" xml:space="preserve">
+    <value>ext4 選択可</value>
+  </data>
+
+  <data name="Memory Compression" xml:space="preserve">
+    <value>メモリ圧縮</value>
+  </data>
+
+  <data name="Minimum" xml:space="preserve">
+    <value>最小</value>
+  </data>
+
+  <data name="Recommended" xml:space="preserve">
+    <value>おすすめ</value>
+  </data>
+
+  <data name="with Secure Boot" xml:space="preserve">
+    <value>セキュアブート対応</value>
+  </data>
+
+  <data name="quad-core" xml:space="preserve">
+    <value>クアッドコア</value>
+  </data>
+
+  <data name="27 inch" xml:space="preserve">
+    <value>27インチ</value>
+  </data>
+
+  <data name="Internet" xml:space="preserve">
+    <value>インターネット</value>
+  </data>
+
+  <data name="Internet access" xml:space="preserve">
+    <value>インターネット接続</value>
+  </data>
+
+  <data name="Compatible with most x86 PCs and ARM64 UEFI devices." xml:space="preserve">
+    <value>ほとんどのx86 PCおよびARM64 UEFIデバイスと互換性があります。</value>
   </data>
 
 </root>

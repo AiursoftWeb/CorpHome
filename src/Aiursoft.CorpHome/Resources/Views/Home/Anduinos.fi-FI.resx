@@ -72,7 +72,7 @@
   <data name="Architecture" xml:space="preserve">
     <value>Arkkitehtuuri</value>
   </data>
-  <data name="At just 2.4 GB, the ISO is lightweight and fast to deploy across your fleet. The live environment lets your IT team quickly boot, repair, and diagnose systems without installing." xml:space="preserve">
+  <data name="At just 2.54 GB, the ISO is lightweight and fast to deploy across your fleet. The live environment lets your IT team quickly boot, repair, and diagnose systems without installing." xml:space="preserve">
     <value>Vain 2,4 GB:n kokoinen ISO-tiedosto on kevyt ja sen käyttöönotto laitteistossasi on nopeaa. Live-ympäristö mahdollistaa IT-tiimillesi järjestelmien nopean käynnistyksen, korjauksen ja diagnostoinnin ilman asennusta.</value>
   </data>
   <data name="Atomic Snapshots" xml:space="preserve">
@@ -491,6 +491,58 @@
   </data>
   <data name="Write the image to a USB drive" xml:space="preserve">
     <value>Kirjoita kuva USB-tikuun</value>
+  </data>
+
+  <data name="ARM64 Support" xml:space="preserve">
+    <value>ARM64-tuki</value>
+  </data>
+
+  <data name="Edge AI" xml:space="preserve">
+    <value>Laitetason tekoäly</value>
+  </data>
+
+  <data name="Declarative Built" xml:space="preserve">
+    <value>Deklaratiivinen rakenne</value>
+  </data>
+
+  <data name="ext4 optional" xml:space="preserve">
+    <value>ext4 valinnainen</value>
+  </data>
+
+  <data name="Memory Compression" xml:space="preserve">
+    <value>Muistin pakkaus</value>
+  </data>
+
+  <data name="Minimum" xml:space="preserve">
+    <value>Vähimmäisvaatimukset</value>
+  </data>
+
+  <data name="Recommended" xml:space="preserve">
+    <value>Suositeltu</value>
+  </data>
+
+  <data name="with Secure Boot" xml:space="preserve">
+    <value>Secure Boot -toiminnolla</value>
+  </data>
+
+  <data name="quad-core" xml:space="preserve">
+    <value>neliydinydin</value>
+  </data>
+
+  <data name="27 inch" xml:space="preserve">
+    <value>27 tuumaa</value>
+  </data>
+
+  <data name="Internet" xml:space="preserve">
+    <value>Internet</value>
+  </data>
+
+  <data name="Internet access" xml:space="preserve">
+    <value>Internet-yhteys</value>
+  </data>
+
+  <data name="Compatible with most x86 PCs and ARM64 UEFI devices." xml:space="preserve">
+    <value>Yhteensopiva useimpien x86-koneiden ja ARM64 UEFI-laitteiden kanssa.</value>
   </data>
 
 </root>

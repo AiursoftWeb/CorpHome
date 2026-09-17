@@ -78,7 +78,7 @@
   <data name="Architecture" xml:space="preserve">
     <value>아키텍처</value>
   </data>
-  <data name="At just 2.4 GB, the ISO is lightweight and fast to deploy across your fleet. The live environment lets your IT team quickly boot, repair, and diagnose systems without installing." xml:space="preserve">
+  <data name="At just 2.54 GB, the ISO is lightweight and fast to deploy across your fleet. The live environment lets your IT team quickly boot, repair, and diagnose systems without installing." xml:space="preserve">
     <value>mere 2.4GB의 ISO는 경량이며 그룹 전체에 빠르게 배포할 수 있습니다. 라이브 환경은 IT팀이 설치 없이 시스템을 빠르게 부팅하고 복구 및 진단할 수 있게 해줍니다.</value>
   </data>
   <data name="Atomic Snapshots" xml:space="preserve">
@@ -512,6 +512,58 @@
   </data>
   <data name="Write the image to a USB drive" xml:space="preserve">
     <value>USB 드라이브에 이미지 작성</value>
+  </data>
+
+  <data name="ARM64 Support" xml:space="preserve">
+    <value>ARM64 지원</value>
+  </data>
+
+  <data name="Edge AI" xml:space="preserve">
+    <value>엣지 AI</value>
+  </data>
+
+  <data name="Declarative Built" xml:space="preserve">
+    <value>선언적 빌드</value>
+  </data>
+
+  <data name="ext4 optional" xml:space="preserve">
+    <value>ext4 선택 가능</value>
+  </data>
+
+  <data name="Memory Compression" xml:space="preserve">
+    <value>메모리 압축</value>
+  </data>
+
+  <data name="Minimum" xml:space="preserve">
+    <value>최소</value>
+  </data>
+
+  <data name="Recommended" xml:space="preserve">
+    <value>추천</value>
+  </data>
+
+  <data name="with Secure Boot" xml:space="preserve">
+    <value>Secure Boot 지원</value>
+  </data>
+
+  <data name="quad-core" xml:space="preserve">
+    <value>quad-core</value>
+  </data>
+
+  <data name="27 inch" xml:space="preserve">
+    <value>27인치</value>
+  </data>
+
+  <data name="Internet" xml:space="preserve">
+    <value>인터넷</value>
+  </data>
+
+  <data name="Internet access" xml:space="preserve">
+    <value>인터넷 연결</value>
+  </data>
+
+  <data name="Compatible with most x86 PCs and ARM64 UEFI devices." xml:space="preserve">
+    <value>대부분의 x86 PC 및 ARM64 UEFI 장치와 호환됩니다.</value>
   </data>
 
 </root>

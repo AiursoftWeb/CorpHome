@@ -72,7 +72,7 @@
   <data name="Architecture" xml:space="preserve">
     <value>Mimari</value>
   </data>
-  <data name="At just 2.4 GB, the ISO is lightweight and fast to deploy across your fleet. The live environment lets your IT team quickly boot, repair, and diagnose systems without installing." xml:space="preserve">
+  <data name="At just 2.54 GB, the ISO is lightweight and fast to deploy across your fleet. The live environment lets your IT team quickly boot, repair, and diagnose systems without installing." xml:space="preserve">
     <value>Sadece 2,4 GB ile ISO hafiftir ve donanım envanterinizde hızlıca dağıtılabilir. Canlı ortam, BT ekibinizin sistemleri yüklemeden hızlı şekilde açmasını, tamir etmesini ve teşhisini yapmasını sağlar.</value>
   </data>
   <data name="Atomic Snapshots" xml:space="preserve">
@@ -497,6 +497,58 @@
   </data>
   <data name="Write the image to a USB drive" xml:space="preserve">
     <value>Görseli bir USB sürücüye yazın</value>
+  </data>
+
+  <data name="ARM64 Support" xml:space="preserve">
+    <value>ARM64 Desteği</value>
+  </data>
+
+  <data name="Edge AI" xml:space="preserve">
+    <value>Kenar AI</value>
+  </data>
+
+  <data name="Declarative Built" xml:space="preserve">
+    <value>Beyan Edici Yapı</value>
+  </data>
+
+  <data name="ext4 optional" xml:space="preserve">
+    <value>ext4 isteğe bağlı</value>
+  </data>
+
+  <data name="Memory Compression" xml:space="preserve">
+    <value>Bellek Sıkıştırma</value>
+  </data>
+
+  <data name="Minimum" xml:space="preserve">
+    <value>Minimum</value>
+  </data>
+
+  <data name="Recommended" xml:space="preserve">
+    <value>Önerilen</value>
+  </data>
+
+  <data name="with Secure Boot" xml:space="preserve">
+    <value>Secure Boot ile</value>
+  </data>
+
+  <data name="quad-core" xml:space="preserve">
+    <value>dört çekirdekli</value>
+  </data>
+
+  <data name="27 inch" xml:space="preserve">
+    <value>27 inç</value>
+  </data>
+
+  <data name="Internet" xml:space="preserve">
+    <value>İnternet</value>
+  </data>
+
+  <data name="Internet access" xml:space="preserve">
+    <value>İnternet erişimi</value>
+  </data>
+
+  <data name="Compatible with most x86 PCs and ARM64 UEFI devices." xml:space="preserve">
+    <value>Çoğu x86 PC ve ARM64 UEFI cihazıyla uyumludur.</value>
   </data>
 
 </root>

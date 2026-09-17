@@ -31,7 +31,7 @@
     <value>4. Wie wir Ihre Daten verwenden</value>
   </data>
   <data name="5. Data Sharing and Third-Party Sub-Processors" xml:space="preserve">
-    <value>5. Datenaustausch und Drittanbieter-Unterverarbeiter</value>
+    <value>5. Datenweitergabe und Unterauftragsverarbeiter</value>
   </data>
   <data name="6. Data Retention and Deletion" xml:space="preserve">
     <value>6. Datenretention und Löschung</value>
@@ -133,7 +133,7 @@
     <value>Recht auf Berichtigung:</value>
   </data>
   <data name="Service Provisioning:" xml:space="preserve">
-    <value>Service Provisioning:</value>
+    <value>Bereitstellung der Dienste:</value>
   </data>
   <data name="Strict Prohibition on AI Training:" xml:space="preserve">
     <value>Strenge Verbote für die KI-Training:</value>
@@ -181,13 +181,13 @@
     <value>Wir sind uneingeschränkt verpflichtet, den folgenden Prinzipien:</value>
   </data>
   <data name="We categorically state that your private data, documents, and communications are never used to train our AI models or any third-party Large Language Models (LLMs). Our AI solutions, particularly in the Custom Enterprise tier, are designed to run locally and train exclusively on data you explicitly provide within your secure environment." xml:space="preserve">
-    <value>Wir erklären ausdrücklich, dass Ihre privaten Daten, Dokumente und Kommunikationen niemals zur Ausbildung unserer KI-Modelle oder irgendwelcher Drittanbieter-Größere Sprachmodelle (LLMs) verwendet werden. Unsere KI-Lösungen, insbesondere im Custom Enterprise-Tarif, sind darauf ausgelegt, lokal ausgeführt und ausschließlich auf Daten zu trainieren, die Sie ausdrücklich innerhalb Ihrer sicheren Umgebung bereitstellen.</value>
+    <value>Wir erklären ausdrücklich, dass Ihre privaten Daten, Dokumente und Mitteilungen niemals zum Trainieren unserer KI-Modelle oder der großen Sprachmodelle (LLMs) Dritter verwendet werden. Unsere KI-Lösungen, insbesondere im Custom-Enterprise-Tarif, sind für den lokalen Betrieb ausgelegt und werden ausschließlich mit Daten trainiert, die Sie in Ihrer sicheren Umgebung ausdrücklich bereitstellen.</value>
   </data>
   <data name="We collect only the absolute minimum data necessary to provide you with secure, reliable, and functional services." xml:space="preserve">
     <value>Wir sammeln nur die absolut notwendigsten Daten, um Ihnen sichere, zuverlässige und funktionale Dienste bereitzustellen.</value>
   </data>
   <data name="We do not share your personal information with external parties except where absolutely necessary to deliver our services. To operate effectively, we utilize the following trusted third-party sub-processors:" xml:space="preserve">
-    <value>Wir geben Ihre persönlichen Daten nicht an Dritte weiter, es sei denn, dies ist ausnahmslos notwendig, um unsere Dienstleistungen zu erbringen. Um effektiv agieren zu können, nutzen wir die folgenden vertrauenswürdigen Drittanbieter-Unterverarbeiter:</value>
+    <value>Wir geben Ihre personenbezogenen Daten nur dann an externe Stellen weiter, wenn dies für die Erbringung unserer Dienste unbedingt erforderlich ist. Dafür setzen wir die folgenden vertrauenswürdigen Unterauftragsverarbeiter ein:</value>
   </data>
   <data name="We do not, and will never, sell, rent, or lease your personal or business data to third parties." xml:space="preserve">
     <value>Wir verkaufen, vermieten oder leasen Ihre persönlichen oder geschäftlichen Daten niemals an Dritte.</value>

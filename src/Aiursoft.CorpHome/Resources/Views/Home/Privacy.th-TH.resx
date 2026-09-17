@@ -67,7 +67,7 @@
     <value>บริษัท องค์กร:</value>
   </data>
   <data name="Company Entity: AIURSOFT LIMITED (Hong Kong)" xml:space="preserve">
-    <value>บริษัท ผู้มีสิทธิ์: AIURSOFT LIMITED (ฮ่องกง)</value>
+    <value>นิติบุคคล: AIURSOFT LIMITED (ฮ่องกง)</value>
   </data>
   <data name="Crucially, AIURSOFT LIMITED does not collect, process, or store your full credit card numbers or sensitive financial instruments on our servers. All payment transactions are securely handled by our PCI-DSS compliant third-party payment processor, Stripe, Inc. We only receive and retain non-sensitive billing information from Stripe, such as your billing address, subscription status, and the last four digits of your payment card, strictly for the purposes of issuing invoices, managing your active subscriptions, and complying with financial record-keeping laws." xml:space="preserve">
     <value>อย่างสำคัญ บริษัท AIURSOFT LIMITED ไม่ได้เก็บ ประมวลผล หรือเก็บข้อมูลหมายเลขบัตรเครดิตเต็มรูปแบบหรือเครื่องมือทางการเงินที่ละเอียดอ่อนไว้บนเซิร์ฟเวอร์ของเรา ทุกการดำเนินการชำระเงินจะได้รับการจัดการอย่างปลอดภัยโดยผู้ให้บริการชำระเงินรายที่สามที่ปฏิบัติตามมาตรฐาน PCI-DSS คือ Stripe, Inc. เราจะได้รับและเก็บข้อมูลการเรียกเก็บเงินที่ไม่ใช่ข้อมูลที่ละเอียดอ่อนจาก Stripe เท่านั้น เช่น ที่อยู่การเรียกเก็บเงิน สถานะการสมัครสมาชิก และตัวเลข 4 ตัวสุดท้ายของบัตรชำระเงิน ซึ่งใช้เพื่อวัตถุประสงค์ในการออกใบแจ้งหนี้ จัดการการสมัครสมาชิกที่ใช้งานอยู่ และปฏิบัติตามกฎหมายบันทึกบัญชีทางการเงินเท่านั้น</value>

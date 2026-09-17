@@ -78,8 +78,8 @@
   <data name="Architecture" xml:space="preserve">
     <value>架构</value>
   </data>
-  <data name="At just 2.4 GB, the ISO is lightweight and fast to deploy across your fleet. The live environment lets your IT team quickly boot, repair, and diagnose systems without installing." xml:space="preserve">
-    <value>ISO 镜像仅 2.4 GB，轻量且易于在全公司范围内快速部署。无需安装即可通过即时运行环境让 IT 团队迅速启动、修复和诊断系统。</value>
+  <data name="At just 2.54 GB, the ISO is lightweight and fast to deploy across your fleet. The live environment lets your IT team quickly boot, repair, and diagnose systems without installing." xml:space="preserve">
+    <value>ISO 镜像仅 2.54 GB，轻量且易于在全公司范围内快速部署。无需安装即可通过即时运行环境让 IT 团队迅速启动、修复和诊断系统。</value>
   </data>
   <data name="Atomic Snapshots" xml:space="preserve">
     <value>原子快照</value>
@@ -512,6 +512,58 @@
   </data>
   <data name="Write the image to a USB drive" xml:space="preserve">
     <value>将镜像写入 USB 驱动器</value>
+  </data>
+
+  <data name="ARM64 Support" xml:space="preserve">
+    <value>ARM64 支持</value>
+  </data>
+
+  <data name="Edge AI" xml:space="preserve">
+    <value>边缘 AI</value>
+  </data>
+
+  <data name="Declarative Built" xml:space="preserve">
+    <value>声明式构建</value>
+  </data>
+
+  <data name="ext4 optional" xml:space="preserve">
+    <value>可选 ext4</value>
+  </data>
+
+  <data name="Memory Compression" xml:space="preserve">
+    <value>内存压缩</value>
+  </data>
+
+  <data name="Minimum" xml:space="preserve">
+    <value>最低配置</value>
+  </data>
+
+  <data name="Recommended" xml:space="preserve">
+    <value>推荐</value>
+  </data>
+
+  <data name="with Secure Boot" xml:space="preserve">
+    <value>支持安全启动</value>
+  </data>
+
+  <data name="quad-core" xml:space="preserve">
+    <value>四核</value>
+  </data>
+
+  <data name="27 inch" xml:space="preserve">
+    <value>27 英寸</value>
+  </data>
+
+  <data name="Internet" xml:space="preserve">
+    <value>互联网</value>
+  </data>
+
+  <data name="Internet access" xml:space="preserve">
+    <value>互联网接入</value>
+  </data>
+
+  <data name="Compatible with most x86 PCs and ARM64 UEFI devices." xml:space="preserve">
+    <value>兼容大多数 x86 个人电脑和 ARM64 UEFI 设备。</value>
   </data>
 
 </root>

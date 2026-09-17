@@ -52,7 +52,7 @@
     <value>Aiursoft:s personuppgiftspolicy</value>
   </data>
   <data name="At Aiursoft, our foundational mission is to bring the spirit of open-source and free software to every enterprise and individual. This commitment to freedom inherently extends to your privacy and data sovereignty. We believe that your data belongs exclusively to you." xml:space="preserve">
-    <value>Vid Aiursoft är vår grundläggande missie att bära andan av öppen källkod och fri mjukvara till varje företag och privatperson. Denna förpliktelse mot frihet sträcker sig på ett självklart sätt ut till din integritet och datasouveränitet. Vi tror att dina data tillhör dig uteslutande.</value>
+    <value>På Aiursoft är vårt grundläggande uppdrag att föra andan av öppen källkod och fri programvara till alla företag och privatpersoner. Vårt engagemang för frihet omfattar självklart även din integritet och datasuveränitet. Vi anser att dina uppgifter uteslutande tillhör dig.</value>
   </data>
   <data name="Beyond these essential operational partners, Aiursoft will never disclose your data to any third party, including government entities, unless legally compelled to do so by a valid, binding court order or subpoena originating from a competent jurisdiction." xml:space="preserve">
     <value>Bortom dessa viktiga operativa partners kommer Aiursoft aldrig att avslöja dina uppgifter för någon tredje part, inklusive myndigheter, utom om vi juridiskt tvingas göra det av en giltig och bindande domstolsorder eller åtal från en kompetent jurisdiktion.</value>
@@ -133,7 +133,7 @@
     <value>Rätt att korrigering:</value>
   </data>
   <data name="Service Provisioning:" xml:space="preserve">
-    <value>Service Provisioning:</value>
+    <value>Tillhandahållande av tjänster:</value>
   </data>
   <data name="Strict Prohibition on AI Training:" xml:space="preserve">
     <value>Strikt förbud mot AI-träning:</value>

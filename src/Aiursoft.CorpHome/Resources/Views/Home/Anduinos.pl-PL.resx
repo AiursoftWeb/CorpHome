@@ -72,7 +72,7 @@
   <data name="Architecture" xml:space="preserve">
     <value>Architektura</value>
   </data>
-  <data name="At just 2.4 GB, the ISO is lightweight and fast to deploy across your fleet. The live environment lets your IT team quickly boot, repair, and diagnose systems without installing." xml:space="preserve">
+  <data name="At just 2.54 GB, the ISO is lightweight and fast to deploy across your fleet. The live environment lets your IT team quickly boot, repair, and diagnose systems without installing." xml:space="preserve">
     <value>Wyciąg ISO zajmuje tylko 2,4 GB i jest lekki, więc szybkro go zainstalować w całej flucie. Środowisko Live pozwala zespołowi IT szybko uruchomić, naprawić i zdiagnozować systemy bez instalowania.</value>
   </data>
   <data name="Atomic Snapshots" xml:space="preserve">
@@ -497,6 +497,58 @@
   </data>
   <data name="Write the image to a USB drive" xml:space="preserve">
     <value>Nagraj obraz na napęd USB</value>
+  </data>
+
+  <data name="ARM64 Support" xml:space="preserve">
+    <value>Obsługa ARM64</value>
+  </data>
+
+  <data name="Edge AI" xml:space="preserve">
+    <value>AI na krawędzi sieci</value>
+  </data>
+
+  <data name="Declarative Built" xml:space="preserve">
+    <value>Zbudowane deklaracyjnie</value>
+  </data>
+
+  <data name="ext4 optional" xml:space="preserve">
+    <value>opcjonalnie ext4</value>
+  </data>
+
+  <data name="Memory Compression" xml:space="preserve">
+    <value>Kompresja pamięci</value>
+  </data>
+
+  <data name="Minimum" xml:space="preserve">
+    <value>Minimalne</value>
+  </data>
+
+  <data name="Recommended" xml:space="preserve">
+    <value>Polecane</value>
+  </data>
+
+  <data name="with Secure Boot" xml:space="preserve">
+    <value>z Secure Boot</value>
+  </data>
+
+  <data name="quad-core" xml:space="preserve">
+    <value>czterordzeniowy</value>
+  </data>
+
+  <data name="27 inch" xml:space="preserve">
+    <value>27 cali</value>
+  </data>
+
+  <data name="Internet" xml:space="preserve">
+    <value>Internet</value>
+  </data>
+
+  <data name="Internet access" xml:space="preserve">
+    <value>Dostęp do internetu</value>
+  </data>
+
+  <data name="Compatible with most x86 PCs and ARM64 UEFI devices." xml:space="preserve">
+    <value>Kompatybilny z większością komputerów PC x86 i urządzeń ARM64 UEFI.</value>
   </data>
 
 </root>
