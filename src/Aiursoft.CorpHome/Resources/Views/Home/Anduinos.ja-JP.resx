@@ -24,6 +24,9 @@
   <data name="10-Second Boot" xml:space="preserve">
     <value>10秒で起動</value>
   </data>
+  <data name="27 inch" xml:space="preserve">
+    <value>27インチ</value>
+  </data>
   <data name="Add to Management Cloud and go live" xml:space="preserve">
     <value>Management Cloudに追加して運用開始</value>
   </data>
@@ -78,6 +81,9 @@
   <data name="Architecture" xml:space="preserve">
     <value>アーキテクチャ</value>
   </data>
+  <data name="ARM64 Support" xml:space="preserve">
+    <value>ARM64サポート</value>
+  </data>
   <data name="At just 2.54 GB, the ISO is lightweight and fast to deploy across your fleet. The live environment lets your IT team quickly boot, repair, and diagnose systems without installing." xml:space="preserve">
     <value>わずか 2.54 GB の ISO は軽量であり、機群全体への展開が迅速です。ライブ環境では、IT チームがインストールせずにシステムを迅速に起動、修復、診断できます。</value>
   </data>
@@ -111,6 +117,9 @@
   <data name="Community Site" xml:space="preserve">
     <value>コミュニティサイト</value>
   </data>
+  <data name="Compatible with most x86 PCs and ARM64 UEFI devices." xml:space="preserve">
+    <value>ほとんどのx86 PCおよびARM64 UEFIデバイスと互換性があります。</value>
+  </data>
   <data name="Compatible with most x86 PCs manufactured in the last decade." xml:space="preserve">
     <value>過去10年間で製造されたほとんどのx86 PCと互換性があります。</value>
   </data>
@@ -143,6 +152,9 @@
   </data>
   <data name="Data stays on your servers. Authentication and authorization ensure only your team can access your metrics." xml:space="preserve">
     <value>データはお客様のサーバー上に保持されます。認証と認可により、お客様のチームのみがメトリクスにアクセスできるよう保護されています。</value>
+  </data>
+  <data name="Declarative Built" xml:space="preserve">
+    <value>宣言的ビルド</value>
   </data>
   <data name="Declarative Packaging" xml:space="preserve">
     <value>宣言的パッケージング</value>
@@ -192,6 +204,9 @@
   <data name="Ecological perfection" xml:space="preserve">
     <value>エコシステムの完成度</value>
   </data>
+  <data name="Edge AI" xml:space="preserve">
+    <value>エッジAI</value>
+  </data>
   <data name="End of Support" xml:space="preserve">
     <value>サポート終了日</value>
   </data>
@@ -218,6 +233,9 @@
   </data>
   <data name="Explore StatHub" xml:space="preserve">
     <value>StatHub を探索</value>
+  </data>
+  <data name="ext4 optional" xml:space="preserve">
+    <value>ext4 選択可</value>
   </data>
   <data name="Familiar UX" xml:space="preserve">
     <value>慣れ親しんだUI/UX</value>
@@ -267,6 +285,12 @@
   <data name="Internal package distribution via apt" xml:space="preserve">
     <value>apt による社内パッケージ配布</value>
   </data>
+  <data name="Internet" xml:space="preserve">
+    <value>インターネット</value>
+  </data>
+  <data name="Internet access" xml:space="preserve">
+    <value>インターネット接続</value>
+  </data>
   <data name="Kiosk &amp; Digital Signage" xml:space="preserve">
     <value>キオスク＆デジタルサイネージ</value>
   </data>
@@ -297,8 +321,14 @@
   <data name="management for your fleet" xml:space="preserve">
     <value>フリートの管理</value>
   </data>
+  <data name="Memory Compression" xml:space="preserve">
+    <value>メモリ圧縮</value>
+  </data>
   <data name="Minimal maintenance. Maximum stability." xml:space="preserve">
     <value>メンテナンスは最小限に。安定性は最大に。</value>
+  </data>
+  <data name="Minimum" xml:space="preserve">
+    <value>最小</value>
   </data>
   <data name="Monitor thousands of AnduinOS devices from a single centralized dashboard. Scale as your fleet grows." xml:space="preserve">
     <value>1つの集中管理ダッシュボードから数千台のAnduinOSデバイスを監視します。フリートが増加するにつれてスケールアップ可能です。</value>
@@ -360,6 +390,9 @@
   <data name="Processor" xml:space="preserve">
     <value>プロセッサ</value>
   </data>
+  <data name="quad-core" xml:space="preserve">
+    <value>クアッドコア</value>
+  </data>
   <data name="RAM" xml:space="preserve">
     <value>メモリ</value>
   </data>
@@ -374,6 +407,9 @@
   </data>
   <data name="Reasons" xml:space="preserve">
     <value>理由</value>
+  </data>
+  <data name="Recommended" xml:space="preserve">
+    <value>おすすめ</value>
   </data>
   <data name="Release Date" xml:space="preserve">
     <value>リリース日</value>
@@ -504,6 +540,9 @@
   <data name="With just a few clicks, you can have AnduinOS running on any machine. Enjoy automatic updates, built-in security, and remote management from the cloud — so once deployed, it just works." xml:space="preserve">
     <value>わずか数回のクリックで、AnduinOSを任意のマシンで実行できます。自動アップデート、内蔵セキュリティ、クラウドからのリモート管理をお楽しみください。デプロイ後は、そのまま稼働します。</value>
   </data>
+  <data name="with Secure Boot" xml:space="preserve">
+    <value>セキュアブート対応</value>
+  </data>
   <data name="with StatHub" xml:space="preserve">
     <value>StatHubで</value>
   </data>
@@ -512,58 +551,6 @@
   </data>
   <data name="Write the image to a USB drive" xml:space="preserve">
     <value>イメージをUSBドライブに書き込みます</value>
-  </data>
-
-  <data name="ARM64 Support" xml:space="preserve">
-    <value>ARM64サポート</value>
-  </data>
-
-  <data name="Edge AI" xml:space="preserve">
-    <value>エッジAI</value>
-  </data>
-
-  <data name="Declarative Built" xml:space="preserve">
-    <value>宣言的ビルド</value>
-  </data>
-
-  <data name="ext4 optional" xml:space="preserve">
-    <value>ext4 選択可</value>
-  </data>
-
-  <data name="Memory Compression" xml:space="preserve">
-    <value>メモリ圧縮</value>
-  </data>
-
-  <data name="Minimum" xml:space="preserve">
-    <value>最小</value>
-  </data>
-
-  <data name="Recommended" xml:space="preserve">
-    <value>おすすめ</value>
-  </data>
-
-  <data name="with Secure Boot" xml:space="preserve">
-    <value>セキュアブート対応</value>
-  </data>
-
-  <data name="quad-core" xml:space="preserve">
-    <value>クアッドコア</value>
-  </data>
-
-  <data name="27 inch" xml:space="preserve">
-    <value>27インチ</value>
-  </data>
-
-  <data name="Internet" xml:space="preserve">
-    <value>インターネット</value>
-  </data>
-
-  <data name="Internet access" xml:space="preserve">
-    <value>インターネット接続</value>
-  </data>
-
-  <data name="Compatible with most x86 PCs and ARM64 UEFI devices." xml:space="preserve">
-    <value>ほとんどのx86 PCおよびARM64 UEFIデバイスと互換性があります。</value>
   </data>
 
 </root>

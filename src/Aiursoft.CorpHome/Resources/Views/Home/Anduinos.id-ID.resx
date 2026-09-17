@@ -21,6 +21,9 @@
       <data name=".aosproj replaces a dozen arcane Debian files with a single declarative manifest. If you know .csproj, you know packaging." xml:space="preserve">
     <value>.aosproj menggantikan selusin file Debian yang rumit dengan satu manifest deklaratif tunggal. Jika Anda mengenal .csproj, Anda sudah memahami pengemasan.</value>
   </data>
+  <data name="27 inch" xml:space="preserve">
+    <value>27 inci</value>
+  </data>
   <data name="Add to Management Cloud and go live" xml:space="preserve">
     <value>Tambahkan ke Management Cloud dan mulai gunakan</value>
   </data>
@@ -72,6 +75,9 @@
   <data name="Architecture" xml:space="preserve">
     <value>Arsitektur</value>
   </data>
+  <data name="ARM64 Support" xml:space="preserve">
+    <value>Dukungan ARM64</value>
+  </data>
   <data name="At just 2.54 GB, the ISO is lightweight and fast to deploy across your fleet. The live environment lets your IT team quickly boot, repair, and diagnose systems without installing." xml:space="preserve">
     <value>Dengan ukuran hanya 2,4 GB, ISO ini ringan dan cepat untuk diterapkan di seluruh armada perangkat Anda. Lingkungan live memungkinkan tim IT Anda dengan cepat melakukan boot, perbaikan, dan diagnosis sistem tanpa perlu instalasi.</value>
   </data>
@@ -105,6 +111,9 @@
   <data name="Community Site" xml:space="preserve">
     <value>Situs Komunitas</value>
   </data>
+  <data name="Compatible with most x86 PCs and ARM64 UEFI devices." xml:space="preserve">
+    <value>Kompatibel dengan sebagian besar PC x86 dan perangkat UEFI ARM64.</value>
+  </data>
   <data name="Compatible with most x86 PCs manufactured in the last decade." xml:space="preserve">
     <value>Kompatibel dengan sebagian besar PC x86 yang diproduksi dalam satu dekade terakhir.</value>
   </data>
@@ -134,6 +143,9 @@
   </data>
   <data name="Data stays on your servers. Authentication and authorization ensure only your team can access your metrics." xml:space="preserve">
     <value>Data tetap di server Anda. Autentikasi dan otorisasi memastikan hanya tim Anda yang dapat mengakses metrik Anda.</value>
+  </data>
+  <data name="Declarative Built" xml:space="preserve">
+    <value>Dibangun Secara Deklaratif</value>
   </data>
   <data name="Declarative Packaging" xml:space="preserve">
     <value>Pembungkusan Deklaratif</value>
@@ -180,6 +192,9 @@
   <data name="Ecological perfection" xml:space="preserve">
     <value>Ekosistem yang Sempurna</value>
   </data>
+  <data name="Edge AI" xml:space="preserve">
+    <value>AI Tepi</value>
+  </data>
   <data name="End of Support" xml:space="preserve">
     <value>Batas Akhir Dukungan</value>
   </data>
@@ -203,6 +218,9 @@
   </data>
   <data name="Explore StatHub" xml:space="preserve">
     <value>Jelajahi StatHub</value>
+  </data>
+  <data name="ext4 optional" xml:space="preserve">
+    <value>opsional ext4</value>
   </data>
   <data name="Familiar UX" xml:space="preserve">
     <value>UX yang familiar</value>
@@ -252,6 +270,12 @@
   <data name="Internal package distribution via apt" xml:space="preserve">
     <value>Distribusi paket internal melalui apt</value>
   </data>
+  <data name="Internet" xml:space="preserve">
+    <value>Internet</value>
+  </data>
+  <data name="Internet access" xml:space="preserve">
+    <value>Koneksi Internet</value>
+  </data>
   <data name="Kiosk &amp; Digital Signage" xml:space="preserve">
     <value>Kios &amp; Papan Tulis Digital</value>
   </data>
@@ -282,8 +306,14 @@
   <data name="management for your fleet" xml:space="preserve">
     <value>pengelolaan untuk armada Anda</value>
   </data>
+  <data name="Memory Compression" xml:space="preserve">
+    <value>Kompresi Memori</value>
+  </data>
   <data name="Minimal maintenance. Maximum stability." xml:space="preserve">
     <value>Pemeliharaan minimal. Stabilitas maksimal.</value>
+  </data>
+  <data name="Minimum" xml:space="preserve">
+    <value>Minimum</value>
   </data>
   <data name="Monitor thousands of AnduinOS devices from a single centralized dashboard. Scale as your fleet grows." xml:space="preserve">
     <value>Pantau ribuan perangkat AnduinOS dari satu dasbor terpusat. Sesuaikan kapasitas seiring pertumbuhan armada Anda.</value>
@@ -339,6 +369,9 @@
   <data name="Processor" xml:space="preserve">
     <value>Prosesor</value>
   </data>
+  <data name="quad-core" xml:space="preserve">
+    <value>quad-core</value>
+  </data>
   <data name="RAM" xml:space="preserve">
     <value>RAM</value>
   </data>
@@ -353,6 +386,9 @@
   </data>
   <data name="Reasons" xml:space="preserve">
     <value>Alasan</value>
+  </data>
+  <data name="Recommended" xml:space="preserve">
+    <value>Direkomendasikan</value>
   </data>
   <data name="Release Date" xml:space="preserve">
     <value>Tanggal Rilis</value>
@@ -483,6 +519,9 @@
   <data name="With just a few clicks, you can have AnduinOS running on any machine. Enjoy automatic updates, built-in security, and remote management from the cloud — so once deployed, it just works." xml:space="preserve">
     <value>Dengan hanya beberapa klik, Anda dapat menjalankan AnduinOS di perangkat apa pun. Nikmati pembaruan otomatis, keamanan bawaan, dan manajemen jarak jauh dari awan — sehingga setelah diterapkan, semuanya berjalan lancar.</value>
   </data>
+  <data name="with Secure Boot" xml:space="preserve">
+    <value>dengan Secure Boot</value>
+  </data>
   <data name="with StatHub" xml:space="preserve">
     <value>dengan StatHub</value>
   </data>
@@ -491,58 +530,6 @@
   </data>
   <data name="Write the image to a USB drive" xml:space="preserve">
     <value>Tulis gambar ke drive USB</value>
-  </data>
-
-  <data name="ARM64 Support" xml:space="preserve">
-    <value>Dukungan ARM64</value>
-  </data>
-
-  <data name="Edge AI" xml:space="preserve">
-    <value>AI Tepi</value>
-  </data>
-
-  <data name="Declarative Built" xml:space="preserve">
-    <value>Dibangun Secara Deklaratif</value>
-  </data>
-
-  <data name="ext4 optional" xml:space="preserve">
-    <value>opsional ext4</value>
-  </data>
-
-  <data name="Memory Compression" xml:space="preserve">
-    <value>Kompresi Memori</value>
-  </data>
-
-  <data name="Minimum" xml:space="preserve">
-    <value>Minimum</value>
-  </data>
-
-  <data name="Recommended" xml:space="preserve">
-    <value>Direkomendasikan</value>
-  </data>
-
-  <data name="with Secure Boot" xml:space="preserve">
-    <value>dengan Secure Boot</value>
-  </data>
-
-  <data name="quad-core" xml:space="preserve">
-    <value>quad-core</value>
-  </data>
-
-  <data name="27 inch" xml:space="preserve">
-    <value>27 inci</value>
-  </data>
-
-  <data name="Internet" xml:space="preserve">
-    <value>Internet</value>
-  </data>
-
-  <data name="Internet access" xml:space="preserve">
-    <value>Koneksi Internet</value>
-  </data>
-
-  <data name="Compatible with most x86 PCs and ARM64 UEFI devices." xml:space="preserve">
-    <value>Kompatibel dengan sebagian besar PC x86 dan perangkat UEFI ARM64.</value>
   </data>
 
 </root>

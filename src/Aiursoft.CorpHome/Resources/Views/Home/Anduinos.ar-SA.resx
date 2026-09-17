@@ -24,6 +24,9 @@
   <data name="10-Second Boot" xml:space="preserve">
     <value>إقلاع في 10 ثوانٍ</value>
   </data>
+  <data name="27 inch" xml:space="preserve">
+    <value>27 بوصة</value>
+  </data>
   <data name="Add to Management Cloud and go live" xml:space="preserve">
     <value>أضف إلى إدارة السحابة وابدأ العمل</value>
   </data>
@@ -78,6 +81,9 @@
   <data name="Architecture" xml:space="preserve">
     <value>البنية</value>
   </data>
+  <data name="ARM64 Support" xml:space="preserve">
+    <value>دعم ARM64</value>
+  </data>
   <data name="At just 2.54 GB, the ISO is lightweight and fast to deploy across your fleet. The live environment lets your IT team quickly boot, repair, and diagnose systems without installing." xml:space="preserve">
     <value>بمقدار 2.4 جيجابايت فقط، يتميز ملف ISO بأنه خفيف الوزن وسريع النشر عبر أسطول أجهزةكم. يتيح لكم النظام الحي أن يقوم فريق تكنولوجيا المعلومات بتمهيد وإصلاح وتشخيص الأنظمة بسرعة دون الحاجة إلى تثبيت.</value>
   </data>
@@ -111,6 +117,9 @@
   <data name="Community Site" xml:space="preserve">
     <value>موقع المجتمع</value>
   </data>
+  <data name="Compatible with most x86 PCs and ARM64 UEFI devices." xml:space="preserve">
+    <value>متوافق مع معظم أجهزة الكمبيوتر الشخصية x86 وأجهزة UEFI ARM64.</value>
+  </data>
   <data name="Compatible with most x86 PCs manufactured in the last decade." xml:space="preserve">
     <value>متوافق مع معظم أجهزة الكمبيوتر x86 المصنعة خلال العقد الماضي.</value>
   </data>
@@ -140,6 +149,9 @@
   </data>
   <data name="Data stays on your servers. Authentication and authorization ensure only your team can access your metrics." xml:space="preserve">
     <value>تبقى البيانات على خوادمك. تضمن مصادقة التفويض أن فريقك فقط يمكنه الوصول إلى المقاييس الخاصة بك.</value>
+  </data>
+  <data name="Declarative Built" xml:space="preserve">
+    <value>بناء إعلاني</value>
   </data>
   <data name="Declarative Packaging" xml:space="preserve">
     <value>التعبئة الإعلانية</value>
@@ -186,6 +198,9 @@
   <data name="Ecological perfection" xml:space="preserve">
     <value>الكمال البيئي</value>
   </data>
+  <data name="Edge AI" xml:space="preserve">
+    <value>الذكاء الاصطناعي الطرفي</value>
+  </data>
   <data name="End of Support" xml:space="preserve">
     <value>نهاية الدعم</value>
   </data>
@@ -212,6 +227,9 @@
   </data>
   <data name="Explore StatHub" xml:space="preserve">
     <value>استكشف StatHub</value>
+  </data>
+  <data name="ext4 optional" xml:space="preserve">
+    <value>ext4 اختياري</value>
   </data>
   <data name="Familiar UX" xml:space="preserve">
     <value>واجهة مستخدم مألوفة</value>
@@ -261,6 +279,12 @@
   <data name="Internal package distribution via apt" xml:space="preserve">
     <value>توزيع الحزم الداخلية عبر apt</value>
   </data>
+  <data name="Internet" xml:space="preserve">
+    <value>الإنترنت</value>
+  </data>
+  <data name="Internet access" xml:space="preserve">
+    <value>اتصال بالإنترنت</value>
+  </data>
   <data name="Kiosk &amp; Digital Signage" xml:space="preserve">
     <value>الكيوسك والعرض الرقمي</value>
   </data>
@@ -291,8 +315,14 @@
   <data name="management for your fleet" xml:space="preserve">
     <value>إدارة لأسطولك</value>
   </data>
+  <data name="Memory Compression" xml:space="preserve">
+    <value>ضغط الذاكرة</value>
+  </data>
   <data name="Minimal maintenance. Maximum stability." xml:space="preserve">
     <value>صيانة محدودة. استقرار أقصى.</value>
+  </data>
+  <data name="Minimum" xml:space="preserve">
+    <value>الحد الأدنى</value>
   </data>
   <data name="Monitor thousands of AnduinOS devices from a single centralized dashboard. Scale as your fleet grows." xml:space="preserve">
     <value>راقب آلاف أجهزة AnduinOS من لوحة تحكم مركزية واحدة. وزّع حسب نمو الأسطول الخاص بك.</value>
@@ -348,6 +378,9 @@
   <data name="Processor" xml:space="preserve">
     <value>المعالج</value>
   </data>
+  <data name="quad-core" xml:space="preserve">
+    <value>رباعي النواة</value>
+  </data>
   <data name="RAM" xml:space="preserve">
     <value>الذاكرة العشوائية (RAM)</value>
   </data>
@@ -362,6 +395,9 @@
   </data>
   <data name="Reasons" xml:space="preserve">
     <value>الأسباب</value>
+  </data>
+  <data name="Recommended" xml:space="preserve">
+    <value>موصى به</value>
   </data>
   <data name="Release Date" xml:space="preserve">
     <value>تاريخ الإصدار</value>
@@ -492,6 +528,9 @@
   <data name="With just a few clicks, you can have AnduinOS running on any machine. Enjoy automatic updates, built-in security, and remote management from the cloud — so once deployed, it just works." xml:space="preserve">
     <value>بضغطة زر بسيطة، يمكنك تشغيل AnduinOS على أي جهاز. استمتع بالتحديثات التلقائية، والأمان المدمج، والإدارة عن بُعد عبر السحابة — مما يعني أنه بمجرد النشر، سيعمل بسلاسة.</value>
   </data>
+  <data name="with Secure Boot" xml:space="preserve">
+    <value>مع Secure Boot</value>
+  </data>
   <data name="with StatHub" xml:space="preserve">
     <value>مع StatHub</value>
   </data>
@@ -500,58 +539,6 @@
   </data>
   <data name="Write the image to a USB drive" xml:space="preserve">
     <value>اكتب الصورة على محرك أقراص USB</value>
-  </data>
-
-  <data name="ARM64 Support" xml:space="preserve">
-    <value>دعم ARM64</value>
-  </data>
-
-  <data name="Edge AI" xml:space="preserve">
-    <value>الذكاء الاصطناعي الطرفي</value>
-  </data>
-
-  <data name="Declarative Built" xml:space="preserve">
-    <value>بناء إعلاني</value>
-  </data>
-
-  <data name="ext4 optional" xml:space="preserve">
-    <value>ext4 اختياري</value>
-  </data>
-
-  <data name="Memory Compression" xml:space="preserve">
-    <value>ضغط الذاكرة</value>
-  </data>
-
-  <data name="Minimum" xml:space="preserve">
-    <value>الحد الأدنى</value>
-  </data>
-
-  <data name="Recommended" xml:space="preserve">
-    <value>موصى به</value>
-  </data>
-
-  <data name="with Secure Boot" xml:space="preserve">
-    <value>مع Secure Boot</value>
-  </data>
-
-  <data name="quad-core" xml:space="preserve">
-    <value>رباعي النواة</value>
-  </data>
-
-  <data name="27 inch" xml:space="preserve">
-    <value>27 بوصة</value>
-  </data>
-
-  <data name="Internet" xml:space="preserve">
-    <value>الإنترنت</value>
-  </data>
-
-  <data name="Internet access" xml:space="preserve">
-    <value>اتصال بالإنترنت</value>
-  </data>
-
-  <data name="Compatible with most x86 PCs and ARM64 UEFI devices." xml:space="preserve">
-    <value>متوافق مع معظم أجهزة الكمبيوتر الشخصية x86 وأجهزة UEFI ARM64.</value>
   </data>
 
 </root>

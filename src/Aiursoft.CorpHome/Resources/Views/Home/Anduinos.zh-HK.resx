@@ -24,6 +24,9 @@
   <data name="10-Second Boot" xml:space="preserve">
     <value>10 秒開機</value>
   </data>
+  <data name="27 inch" xml:space="preserve">
+    <value>27 吋</value>
+  </data>
   <data name="Add to Management Cloud and go live" xml:space="preserve">
     <value>加入管理雲端並開始使用</value>
   </data>
@@ -78,6 +81,9 @@
   <data name="Architecture" xml:space="preserve">
     <value>架構</value>
   </data>
+  <data name="ARM64 Support" xml:space="preserve">
+    <value>支援 ARM64</value>
+  </data>
   <data name="At just 2.54 GB, the ISO is lightweight and fast to deploy across your fleet. The live environment lets your IT team quickly boot, repair, and diagnose systems without installing." xml:space="preserve">
     <value>ISO 僅 2.54 GB，輕量簡便，能快速部署於整個機隊。即時環境讓您的 IT 團隊無需安裝即可快速啟動、修復及診斷系統。</value>
   </data>
@@ -111,6 +117,9 @@
   <data name="Community Site" xml:space="preserve">
     <value>社區網站</value>
   </data>
+  <data name="Compatible with most x86 PCs and ARM64 UEFI devices." xml:space="preserve">
+    <value>兼容大多數 x86 個人電腦及 ARM64 UEFI 裝置。</value>
+  </data>
   <data name="Compatible with most x86 PCs manufactured in the last decade." xml:space="preserve">
     <value>與過去十年生產的大部分 x86 PC 相容。</value>
   </data>
@@ -143,6 +152,9 @@
   </data>
   <data name="Data stays on your servers. Authentication and authorization ensure only your team can access your metrics." xml:space="preserve">
     <value>數據保留在您的服務器上。認證和授權確保只有您的團隊可以訪問您的指標。</value>
+  </data>
+  <data name="Declarative Built" xml:space="preserve">
+    <value>宣告式建構</value>
   </data>
   <data name="Declarative Packaging" xml:space="preserve">
     <value>宣告式打包</value>
@@ -192,6 +204,9 @@
   <data name="Ecological perfection" xml:space="preserve">
     <value>生態完善</value>
   </data>
+  <data name="Edge AI" xml:space="preserve">
+    <value>邊緣 AI</value>
+  </data>
   <data name="End of Support" xml:space="preserve">
     <value>支援結束</value>
   </data>
@@ -218,6 +233,9 @@
   </data>
   <data name="Explore StatHub" xml:space="preserve">
     <value>探索 StatHub</value>
+  </data>
+  <data name="ext4 optional" xml:space="preserve">
+    <value>ext4 可選</value>
   </data>
   <data name="Familiar UX" xml:space="preserve">
     <value>熟悉的使用者體驗</value>
@@ -267,6 +285,12 @@
   <data name="Internal package distribution via apt" xml:space="preserve">
     <value>透過 apt 進行內部軟件包分發</value>
   </data>
+  <data name="Internet" xml:space="preserve">
+    <value>互聯網</value>
+  </data>
+  <data name="Internet access" xml:space="preserve">
+    <value>網絡連線</value>
+  </data>
   <data name="Kiosk &amp; Digital Signage" xml:space="preserve">
     <value>自助終端及數碼告示牌</value>
   </data>
@@ -297,8 +321,14 @@
   <data name="management for your fleet" xml:space="preserve">
     <value>车队管理</value>
   </data>
+  <data name="Memory Compression" xml:space="preserve">
+    <value>記憶體壓縮</value>
+  </data>
   <data name="Minimal maintenance. Maximum stability." xml:space="preserve">
     <value>最少維護。極致穩定。</value>
+  </data>
+  <data name="Minimum" xml:space="preserve">
+    <value>最低</value>
   </data>
   <data name="Monitor thousands of AnduinOS devices from a single centralized dashboard. Scale as your fleet grows." xml:space="preserve">
     <value>透過單一集中式儀表板監控數以千計的 AnduinOS 裝置。隨您的機隊增長而擴展。</value>
@@ -360,6 +390,9 @@
   <data name="Processor" xml:space="preserve">
     <value>處理器</value>
   </data>
+  <data name="quad-core" xml:space="preserve">
+    <value>四核心</value>
+  </data>
   <data name="RAM" xml:space="preserve">
     <value>記憶體</value>
   </data>
@@ -374,6 +407,9 @@
   </data>
   <data name="Reasons" xml:space="preserve">
     <value>原因</value>
+  </data>
+  <data name="Recommended" xml:space="preserve">
+    <value>推薦</value>
   </data>
   <data name="Release Date" xml:space="preserve">
     <value>發佈日期</value>
@@ -504,6 +540,9 @@
   <data name="With just a few clicks, you can have AnduinOS running on any machine. Enjoy automatic updates, built-in security, and remote management from the cloud — so once deployed, it just works." xml:space="preserve">
     <value>只需輕點幾下，即可在任何裝置上運行 AnduinOS。享受自動更新、內建安全功能及雲端遠端管理——一旦部署完成，系統即可即時運作。</value>
   </data>
+  <data name="with Secure Boot" xml:space="preserve">
+    <value>搭配安全開機</value>
+  </data>
   <data name="with StatHub" xml:space="preserve">
     <value>配合 StatHub</value>
   </data>
@@ -512,58 +551,6 @@
   </data>
   <data name="Write the image to a USB drive" xml:space="preserve">
     <value>將鏡像寫入 USB 磁碟機</value>
-  </data>
-
-  <data name="ARM64 Support" xml:space="preserve">
-    <value>支援 ARM64</value>
-  </data>
-
-  <data name="Edge AI" xml:space="preserve">
-    <value>邊緣 AI</value>
-  </data>
-
-  <data name="Declarative Built" xml:space="preserve">
-    <value>宣告式建構</value>
-  </data>
-
-  <data name="ext4 optional" xml:space="preserve">
-    <value>ext4 可選</value>
-  </data>
-
-  <data name="Memory Compression" xml:space="preserve">
-    <value>記憶體壓縮</value>
-  </data>
-
-  <data name="Minimum" xml:space="preserve">
-    <value>最低</value>
-  </data>
-
-  <data name="Recommended" xml:space="preserve">
-    <value>推薦</value>
-  </data>
-
-  <data name="with Secure Boot" xml:space="preserve">
-    <value>搭配安全開機</value>
-  </data>
-
-  <data name="quad-core" xml:space="preserve">
-    <value>四核心</value>
-  </data>
-
-  <data name="27 inch" xml:space="preserve">
-    <value>27 吋</value>
-  </data>
-
-  <data name="Internet" xml:space="preserve">
-    <value>互聯網</value>
-  </data>
-
-  <data name="Internet access" xml:space="preserve">
-    <value>網絡連線</value>
-  </data>
-
-  <data name="Compatible with most x86 PCs and ARM64 UEFI devices." xml:space="preserve">
-    <value>兼容大多數 x86 個人電腦及 ARM64 UEFI 裝置。</value>
   </data>
 
 </root>

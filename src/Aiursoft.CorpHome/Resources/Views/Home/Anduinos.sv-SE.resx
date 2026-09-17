@@ -21,6 +21,9 @@
       <data name=".aosproj replaces a dozen arcane Debian files with a single declarative manifest. If you know .csproj, you know packaging." xml:space="preserve">
     <value>.aosproj ersätter en dussintal oklara Debian-filer med en enda deklarativ manifestfil. Om du känner till .csproj, vet du hur packning fungerar.</value>
   </data>
+  <data name="27 inch" xml:space="preserve">
+    <value>27 tum</value>
+  </data>
   <data name="Add to Management Cloud and go live" xml:space="preserve">
     <value>Lägg till i Management Cloud och igångsätt</value>
   </data>
@@ -72,6 +75,9 @@
   <data name="Architecture" xml:space="preserve">
     <value>Arkitektur</value>
   </data>
+  <data name="ARM64 Support" xml:space="preserve">
+    <value>ARM64-stöd</value>
+  </data>
   <data name="At just 2.54 GB, the ISO is lightweight and fast to deploy across your fleet. The live environment lets your IT team quickly boot, repair, and diagnose systems without installing." xml:space="preserve">
     <value>Med endast 2,4 GB är ISO-filen lättviktig och snabb att distribuera över hela din enhetsflotta. Den live-miljö som erbjuds gör det möjligt för ditt IT-team att snabbt starta, reparerar och diagnostisera system utan installation.</value>
   </data>
@@ -105,6 +111,9 @@
   <data name="Community Site" xml:space="preserve">
     <value>Samhällssida</value>
   </data>
+  <data name="Compatible with most x86 PCs and ARM64 UEFI devices." xml:space="preserve">
+    <value>Kompatibel med de flesta x86-datorer och ARM64-UEFI-enheter.</value>
+  </data>
   <data name="Compatible with most x86 PCs manufactured in the last decade." xml:space="preserve">
     <value>Kompatibel med de flesta x86-datorer tillverkade under det senaste decenniet.</value>
   </data>
@@ -134,6 +143,9 @@
   </data>
   <data name="Data stays on your servers. Authentication and authorization ensure only your team can access your metrics." xml:space="preserve">
     <value>Data hålls på dina servrar. Autentisering och behörighetskontroll säkerställer att endast ditt team kan komma åt dina mått.</value>
+  </data>
+  <data name="Declarative Built" xml:space="preserve">
+    <value>Deklarativt byggd</value>
   </data>
   <data name="Declarative Packaging" xml:space="preserve">
     <value>Deklarativ paketering</value>
@@ -180,6 +192,9 @@
   <data name="Ecological perfection" xml:space="preserve">
     <value>Ekologisk perfektion</value>
   </data>
+  <data name="Edge AI" xml:space="preserve">
+    <value>Edge AI</value>
+  </data>
   <data name="End of Support" xml:space="preserve">
     <value>Support slutar</value>
   </data>
@@ -206,6 +221,9 @@
   </data>
   <data name="Explore StatHub" xml:space="preserve">
     <value>Utforska StatHub</value>
+  </data>
+  <data name="ext4 optional" xml:space="preserve">
+    <value>ext4 valfritt</value>
   </data>
   <data name="Familiar UX" xml:space="preserve">
     <value>Känd användarupplevelse</value>
@@ -255,6 +273,12 @@
   <data name="Internal package distribution via apt" xml:space="preserve">
     <value>Intern distribution av paket via apt</value>
   </data>
+  <data name="Internet" xml:space="preserve">
+    <value>Internet</value>
+  </data>
+  <data name="Internet access" xml:space="preserve">
+    <value>Internetåtkomst</value>
+  </data>
   <data name="Kiosk &amp; Digital Signage" xml:space="preserve">
     <value>Kiosker &amp; digitala skyltar</value>
   </data>
@@ -285,8 +309,14 @@
   <data name="management for your fleet" xml:space="preserve">
     <value>hantering av din fordonsflotta</value>
   </data>
+  <data name="Memory Compression" xml:space="preserve">
+    <value>Minneskomprimering</value>
+  </data>
   <data name="Minimal maintenance. Maximum stability." xml:space="preserve">
     <value>Minimal underhåll. Maximal stabilitet.</value>
+  </data>
+  <data name="Minimum" xml:space="preserve">
+    <value>Minimal</value>
   </data>
   <data name="Monitor thousands of AnduinOS devices from a single centralized dashboard. Scale as your fleet grows." xml:space="preserve">
     <value>Övervaka tusentals AnduinOS-enheter från ett centralt instrumentpanel. Skala upp när din flotta växer.</value>
@@ -342,6 +372,9 @@
   <data name="Processor" xml:space="preserve">
     <value>Processor</value>
   </data>
+  <data name="quad-core" xml:space="preserve">
+    <value>quad-core</value>
+  </data>
   <data name="RAM" xml:space="preserve">
     <value>minne</value>
   </data>
@@ -356,6 +389,9 @@
   </data>
   <data name="Reasons" xml:space="preserve">
     <value>Skäl</value>
+  </data>
+  <data name="Recommended" xml:space="preserve">
+    <value>Rekommenderad</value>
   </data>
   <data name="Release Date" xml:space="preserve">
     <value>Släppdatum</value>
@@ -486,6 +522,9 @@
   <data name="With just a few clicks, you can have AnduinOS running on any machine. Enjoy automatic updates, built-in security, and remote management from the cloud — so once deployed, it just works." xml:space="preserve">
     <value>Med bara några klick kan du få igång AnduinOS på vilken maskin som helst. Njut av automatiska uppdateringar, inbyggd säkerhet och fjärrhantering från molnet – så när det väl är distribuerat funkar det helt enkelt.</value>
   </data>
+  <data name="with Secure Boot" xml:space="preserve">
+    <value>med Secure Boot</value>
+  </data>
   <data name="with StatHub" xml:space="preserve">
     <value>med StatHub</value>
   </data>
@@ -494,58 +533,6 @@
   </data>
   <data name="Write the image to a USB drive" xml:space="preserve">
     <value>Skriv avbilden till en USB-enhet</value>
-  </data>
-
-  <data name="ARM64 Support" xml:space="preserve">
-    <value>ARM64-stöd</value>
-  </data>
-
-  <data name="Edge AI" xml:space="preserve">
-    <value>Edge AI</value>
-  </data>
-
-  <data name="Declarative Built" xml:space="preserve">
-    <value>Deklarativt byggd</value>
-  </data>
-
-  <data name="ext4 optional" xml:space="preserve">
-    <value>ext4 valfritt</value>
-  </data>
-
-  <data name="Memory Compression" xml:space="preserve">
-    <value>Minneskomprimering</value>
-  </data>
-
-  <data name="Minimum" xml:space="preserve">
-    <value>Minimal</value>
-  </data>
-
-  <data name="Recommended" xml:space="preserve">
-    <value>Rekommenderad</value>
-  </data>
-
-  <data name="with Secure Boot" xml:space="preserve">
-    <value>med Secure Boot</value>
-  </data>
-
-  <data name="quad-core" xml:space="preserve">
-    <value>quad-core</value>
-  </data>
-
-  <data name="27 inch" xml:space="preserve">
-    <value>27 tum</value>
-  </data>
-
-  <data name="Internet" xml:space="preserve">
-    <value>Internet</value>
-  </data>
-
-  <data name="Internet access" xml:space="preserve">
-    <value>Internetåtkomst</value>
-  </data>
-
-  <data name="Compatible with most x86 PCs and ARM64 UEFI devices." xml:space="preserve">
-    <value>Kompatibel med de flesta x86-datorer och ARM64-UEFI-enheter.</value>
   </data>
 
 </root>
