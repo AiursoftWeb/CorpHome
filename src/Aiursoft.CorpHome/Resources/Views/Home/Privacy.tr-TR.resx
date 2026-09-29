@@ -99,6 +99,9 @@
   <data name="For provisioning the underlying high-performance cloud infrastructure that powers our official websites and Cloud-Hosted (S1 Core) client instances." xml:space="preserve">
     <value>Resmi web sitelerimizi ve Bulut Barındırılan (S1 Core) istemci örneklerini destekleyen altta yatan yüksek performanslı bulut altyapısının sağlanması için.</value>
   </data>
+  <data name="For services deployed on your servers or private cloud, you control the infrastructure and access permissions. Aiursoft accesses these systems only within the authorization you grant for deployment, maintenance, or support. You can revoke that access. Separately selected hosted services remain subject to the cloud-hosted terms." xml:space="preserve">
+    <value>Sunucularınızda veya özel bulutunuzda dağıtılan hizmetlerde altyapıyı ve erişim izinlerini siz kontrol edersiniz. Aiursoft bu sistemlere yalnızca dağıtım, bakım veya destek için verdiğiniz yetki kapsamında erişir. Bu erişimi iptal edebilirsiniz. Ayrıca seçilen barındırılan hizmetler, bulut barındırma koşullarına tabi olmaya devam eder.</value>
+  </data>
   <data name="If you choose to cancel a Cloud-Hosted subscription, your account will remain active until the end of the current billing cycle. Following the expiration of your subscription, we observe a strict 30-day grace period. After this 30-day period, all of your associated business data (emails, files, databases) will be permanently, irreversibly, and securely hard-deleted from our hosting infrastructure. We cannot recover data once this deletion process has occurred." xml:space="preserve">
     <value>Cloud-Hosted bir aboneliği iptal etmeyi seçerseniz, hesabınız mevcut faturalandırma döngüsünün sonuna kadar aktif kalacaktır. Aboneliğinizin sona ermesinin ardından, katı bir 30 günlük ek süre uygulanır. Bu 30 günlük sürenin ardından, tüm ilgili işletme verileriniz (e-postalar, dosyalar, veritabanları), barındırma altyapımızdan kalıcı, geri döndürülemez ve güvenli bir şekilde silinecektir. Bu silme işlemi gerçekleştiğinde veriler kurtarılamaz.</value>
   </data>
@@ -110,6 +113,9 @@
   </data>
   <data name="Last Updated: March 2026" xml:space="preserve">
     <value>Son Güncelleme: Mart 2026</value>
+  </data>
+  <data name="Last Updated: September 2026" xml:space="preserve">
+    <value>Son güncelleme: Eylül 2026</value>
   </data>
   <data name="Minimal Data Collection:" xml:space="preserve">
     <value>Minimum Veri Toplama:</value>
@@ -189,6 +195,9 @@
   <data name="We do not share your personal information with external parties except where absolutely necessary to deliver our services. To operate effectively, we utilize the following trusted third-party sub-processors:" xml:space="preserve">
     <value>Kişisel bilgilerinizi hizmetlerimizi sunmak için kesinlikle gerekli olmadıkça dış taraflarla paylaşmıyoruz. Etkili bir şekilde çalışabilmek için aşağıdaki güvenilir üçüncü taraf alt işleyicileri kullanıyoruz:</value>
   </data>
+  <data name="We do not use your private documents or communications to train our models or third-party models. Customer-requested local training requires explicit authorization and uses only the data you select. Local inference keeps model inputs within your deployment. If you choose an external model provider, prompts and selected content are sent to that provider under its terms; the provider and data flow must be agreed before activation." xml:space="preserve">
+    <value>Özel belgelerinizi veya iletişimlerinizi, kendi modellerimizi ya da üçüncü taraf modellerini eğitmek için kullanmayız. Müşterinin talep ettiği yerel eğitim, açık yetkilendirme gerektirir ve yalnızca sizin seçtiğiniz verileri kullanır. Yerel çıkarım, model girdilerinin dağıtım ortamınızın dışına çıkmamasını sağlar. Harici bir model sağlayıcısı seçerseniz istemler ve seçilen içerikler, sağlayıcının koşulları kapsamında bu sağlayıcıya gönderilir; sağlayıcı ve veri akışı, etkinleştirme öncesinde kararlaştırılmalıdır.</value>
+  </data>
   <data name="We do not, and will never, sell, rent, or lease your personal or business data to third parties." xml:space="preserve">
     <value>Kişisel veya ticari verilerinizi üçüncü taraflara asla satmaz, kiralamaz veya kiralayarak devretmeyiz.</value>
   </data>
@@ -200,6 +209,9 @@
   </data>
   <data name="When you register for an Aiursoft commercial account or engage with our sales team, we collect necessary contact details, including your name, your work email address, and your company name. This information is used strictly for account administration and communication." xml:space="preserve">
     <value>Bir Aiursoft ticari hesap için kayıt olduğunuzda veya satış ekibimizle iletişime geçtiğinizde, adınız, iş e-posta adresiniz ve şirket adınız dahil olmak üzere gerekli iletişim bilgilerini toplarız. Bu bilgiler yalnızca hesap yönetimi ve iletişim amaçları için kullanılır.</value>
+  </data>
+  <data name="When you utilize our cloud-hosted infrastructure (such as Mailcow, Nextcloud, or Authentik instances managed on our servers), AIURSOFT LIMITED acts as a Data Processor. You remain the Data Controller. Infrastructure administrators may have technical access to hosted systems, databases, and backups. We restrict access to authorized personnel and service duties. Access to business content for a support request requires your explicit authorization, is limited to that request, and is revoked when the work ends." xml:space="preserve">
+    <value>Bulut ortamında barındırılan altyapımızı (sunucularımızda yönetilen Mailcow, Nextcloud veya Authentik örnekleri gibi) kullandığınızda, AIURSOFT LIMITED Veri İşleyen sıfatıyla hareket eder. Veri Sorumlusu olmaya devam edersiniz. Altyapı yöneticileri, barındırılan sistemlere, veritabanlarına ve yedeklere teknik erişime sahip olabilir. Erişimi, yetkili personel ve hizmet görevleriyle sınırlandırırız. Bir destek talebi kapsamında iş içeriğine erişim, açık izninizi gerektirir; yalnızca söz konusu taleple sınırlıdır ve çalışma sona erdiğinde iptal edilir.</value>
   </data>
   <data name="When you utilize our cloud-hosted infrastructure (such as Mailcow, Nextcloud, or Authentik instances managed on our servers), AIURSOFT LIMITED acts as a Data Processor. You remain the Data Controller. We host and maintain the infrastructure to ensure uptime and security, but our personnel possess absolutely zero access to your underlying business data (e.g., the contents of your emails, your stored files, or your internal chat logs) unless you explicitly grant us temporary, revocable access for the sole purpose of resolving a technical support ticket you have initiated." xml:space="preserve">
     <value>Bulut tabanlı altyapımızı (sunucularımızda yönetilen Mailcow, Nextcloud veya Authentik örnekleri gibi) kullandığınızda, AIURSOFT LIMITED bir Veri İşleyicisi olarak hareket eder. Siz Veri Sorumlusu olarak kalırsınız. Sürekliliği ve güvenliği sağlamak amacıyla altyapıyı barındırır ve bakımını yaparız; ancak başlattığınız bir teknik destek talebini çözmek amacıyla bize açıkça geçici ve geri alınabilir erişim izni vermediğiniz sürece, personelimizin altta yatan iş verilerinize (örneğin, e-postalarınızın içeriği, depolanan dosyalarınız veya iç sohbet kayıtlarınız) kesinlikle sıfır erişimi vardır.</value>

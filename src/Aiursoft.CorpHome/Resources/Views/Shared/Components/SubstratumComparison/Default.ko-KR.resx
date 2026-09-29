@@ -21,6 +21,9 @@
       <data name="24/7 dedicated support line" xml:space="preserve">
     <value>24/7 전담 지원 라인</value>
   </data>
+  <data name="24/7 incident intake and escalation where contracted; scope and response targets follow the service agreement" xml:space="preserve">
+    <value>계약에 포함된 경우 연중무휴 인시던트 접수 및 상위 단계 이관을 지원하며, 지원 범위와 응답 목표는 서비스 계약을 따릅니다.</value>
+  </data>
   <data name="7×24 On-call Support" xml:space="preserve">
     <value>7×24 온콜 지원</value>
   </data>
@@ -71,6 +74,9 @@
   </data>
   <data name="Deployment &amp; Hosting" xml:space="preserve">
     <value>배포 및 호스팅</value>
+  </data>
+  <data name="Device policy integration with scope and supported platforms agreed before deployment" xml:space="preserve">
+    <value>배포 전에 범위와 지원 플랫폼을 합의한 기기 정책 통합</value>
   </data>
   <data name="DevOps &amp; Engineering" xml:space="preserve">
     <value>DevOps &amp; Engineering</value>

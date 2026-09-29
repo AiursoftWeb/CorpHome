@@ -33,6 +33,9 @@
   <data name="Contact Us" xml:space="preserve">
     <value>Contactați-ne</value>
   </data>
+  <data name="Control data and permissions for locally deployed services. Hosted services and support access are governed by the agreed deployment and authorization." xml:space="preserve">
+    <value>Controlați datele și permisiunile pentru serviciile implementate local. Serviciile găzduite și accesul pentru asistență sunt reglementate de condițiile de implementare și autorizare convenite.</value>
+  </data>
   <data name="Designed to run offline. Perfect for high-security environments with no internet dependency." xml:space="preserve">
     <value>Proiectat pentru funcționare offline. Ideal pentru medii cu securitate ridicată, fără dependență de internet.</value>
   </data>
@@ -41,6 +44,9 @@
   </data>
   <data name="Get unified endpoint management (UEM), identity management (IAM), and collaboration tools (OA) in one package. All on your local servers!" xml:space="preserve">
     <value>Obțineți un pachet unic care include gestionarea unificată a terminalelor (UEM), gestionarea identității (IAM) și instrumente de colaborare (OA). Toate pe serverele dumneavoastră locale!</value>
+  </data>
+  <data name="Local services can operate on an isolated network when packages, models, and dependencies are provisioned locally. Hosted email, cloud management, and external APIs require connectivity." xml:space="preserve">
+    <value>Serviciile locale pot funcționa într-o rețea izolată dacă pachetele, modelele și dependențele sunt instalate local. E-mailul găzduit, administrarea în cloud și API-urile externe necesită conectivitate.</value>
   </data>
   <data name="Own Your Data" xml:space="preserve">
     <value>Dețineți-vă datele</value>

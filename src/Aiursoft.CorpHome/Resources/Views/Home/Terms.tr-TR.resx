@@ -60,11 +60,17 @@
   <data name="Aiursoft provides enterprise IT infrastructure solutions built upon open-source technologies (e.g., Linux, Nextcloud, Mailcow, Authentik, GitLab)." xml:space="preserve">
     <value>Aiursoft, açık kaynaklı teknolojilere (örneğin Linux, Nextcloud, Mailcow, Authentik, GitLab) dayalı kurumsal BT altyapı çözümleri sunar.</value>
   </data>
+  <data name="Aiursoft software, including deployment scripts and Template orchestration code, is provided under its published open-source licenses. Copyright ownership does not restrict the rights granted by those licenses. Third-party software retains its respective licenses. Aiursoft names, logos, and branding are separate from software licensing; modified distributions must not be presented as official products." xml:space="preserve">
+    <value>Aiursoft yazılımları; dağıtım betikleri ve Template orkestrasyon kodu da dâhil olmak üzere, yayımlanmış açık kaynak lisansları kapsamında sunulur. Telif hakkı sahipliği, bu lisansların tanıdığı hakları kısıtlamaz. Üçüncü taraf yazılımlar kendi lisanslarına tabi olmaya devam eder. Aiursoft adları, logoları ve markası yazılım lisanslamasından ayrıdır; değiştirilmiş dağıtımlar resmî ürünler olarak sunulmamalıdır.</value>
+  </data>
   <data name="All fees are exclusive of applicable taxes, levies, or duties imposed by taxing authorities, and you shall be responsible for payment of all such taxes." xml:space="preserve">
     <value>Tüm ücretler, vergi yetkilileri tarafından konulan geçerli vergileri, harçları veya gümrük vergilerini kapsamaz ve söz konusu tüm vergilerin ödenmesinden siz sorumlusunuz.</value>
   </data>
   <data name="All payments are securely processed by our third-party payment gateway, Stripe. Aiursoft does not collect, process, or store your full credit card information on our servers." xml:space="preserve">
     <value>Tüm ödemeler, üçüncü taraf ödeme ağ geçidimiz Stripe tarafından güvenli bir şekilde işlenir. Aiursoft, tam kredi kartı bilgilerinizi sunucularımızda toplamaz, işlemez veya saklamaz.</value>
+  </data>
+  <data name="An isolated deployment requires local packages, models, identity services, and other dependencies. Hosted email, cloud management, and external model APIs require connectivity and are outside the isolated environment. These services and their data flows must be agreed before activation." xml:space="preserve">
+    <value>Yalıtılmış bir dağıtım için yerel paketler, modeller, kimlik hizmetleri ve diğer bağımlılıklar gerekir. Barındırılan e-posta, bulut yönetimi ve harici model API’leri bağlantı gerektirir ve yalıtılmış ortamın dışındadır. Bu hizmetler ve bunlarla ilgili veri akışları, etkinleştirilmeden önce kararlaştırılmalıdır.</value>
   </data>
   <data name="Any unauthorized access to your on-premise servers (for Startup/Enterprise plans)." xml:space="preserve">
     <value>Startup/Enterprise planları için yerel sunucularınıza yetkisiz erişim.</value>
@@ -96,6 +102,9 @@
   <data name="Email:" xml:space="preserve">
     <value>E-posta:</value>
   </data>
+  <data name="Enterprise services do not automatically extend an operating-system release&apos;s published security-update lifecycle. AnduinOS 2.0 standard support ends in April 2031. Your service agreement specifies included systems, supported devices, management integrations, maintenance responsibilities, and service duration." xml:space="preserve">
+    <value>Kurumsal hizmetler, bir işletim sistemi sürümünün yayımlanmış güvenlik güncellemesi yaşam döngüsünü otomatik olarak uzatmaz. AnduinOS 2.0 için standart destek Nisan 2031&apos;de sona erer. Hizmet sözleşmenizde kapsama dahil sistemler, desteklenen cihazlar, yönetim entegrasyonları, bakım sorumlulukları ve hizmet süresi belirtilir.</value>
+  </data>
   <data name="For On-Premise plans requiring a One-Time Setup Fee, this fee covers the manual labor of our architects (e.g., network configuration, Docker deployment, Yubikey integration). Setup fees are strictly non-refundable once the deployment and configuration process has commenced." xml:space="preserve">
     <value>Tek Seferlik Kurulum Ücreti gerektiren Yerel Kurulum (On-Premise) planları için bu ücret, mimarlarımızın manuel emeğini (örneğin ağ yapılandırması, Docker dağıtımı, Yubikey entegrasyonu) kapsar. Dağıtım ve yapılandırma süreci başladıktan sonra kurulum ücretleri kesinlikle iade edilmez.</value>
   </data>
@@ -113,6 +122,9 @@
   </data>
   <data name="Last Updated: March 2026" xml:space="preserve">
     <value>Son Güncelleme: Mart 2026</value>
+  </data>
+  <data name="Last Updated: September 2026" xml:space="preserve">
+    <value>Son Güncelleme: Eylül 2026</value>
   </data>
   <data name="No Pro-Rated Refunds:" xml:space="preserve">
     <value>Oransal İade Yok:</value>
@@ -188,6 +200,9 @@
   </data>
   <data name="What you are purchasing from Aiursoft is the hosting, automated deployment, maintenance, priority support, and enterprise integration of these tools." xml:space="preserve">
     <value>Aiursoft&apos;tan satın aldığınız, bu araçların barındırılması, otomatik dağıtımı, bakımı, öncelikli desteği ve kurumsal entegrasyonudur.</value>
+  </data>
+  <data name="Where a plan includes 7×24 on-call support, this means incident intake and escalation. The service agreement defines incident severity, response targets, support channels, maintenance windows, and exclusions. It does not guarantee immediate resolution or uninterrupted availability." xml:space="preserve">
+    <value>Bir plan 7×24 nöbetçi desteği içeriyorsa bu, olayların alınması ve üst seviyeye aktarılması anlamına gelir. Hizmet sözleşmesinde olay önem dereceleri, yanıt hedefleri, destek kanalları, bakım zaman aralıkları ve kapsam dışı durumlar tanımlanır. Bu destek, sorunların derhâl çözüleceğini veya hizmetin kesintisiz sunulacağını garanti etmez.</value>
   </data>
   <data name="You agree not to misuse the Services or help anyone else to do so. You must not:" xml:space="preserve">
     <value>Hizmetleri kötüye kullanmayacağınızı veya başkalarının bunu yapmasına yardım etmeyeceğinizi kabul edersiniz. Aşağıdakileri yapmamalısınız:</value>

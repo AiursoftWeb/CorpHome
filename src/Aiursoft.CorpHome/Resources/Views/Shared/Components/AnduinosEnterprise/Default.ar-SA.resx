@@ -36,6 +36,9 @@
   <data name="Compliance Ready" xml:space="preserve">
     <value>جاهز للامتثال</value>
   </data>
+  <data name="Configure access controls and audit records for your requirements. Compliance depends on the applicable standard, deployment, and your operating procedures." xml:space="preserve">
+    <value>اضبط عناصر التحكم في الوصول وسجلات التدقيق بما يلبي متطلباتك. يعتمد الامتثال على المعيار المعمول به وطريقة النشر وإجراءات التشغيل لديك.</value>
+  </data>
   <data name="Custom Branding" xml:space="preserve">
     <value>تخصيص العلامة التجارية</value>
   </data>
@@ -47,6 +50,9 @@
   </data>
   <data name="Enterprise customers get round-the-clock telephone support, ensuring critical issues are addressed immediately." xml:space="preserve">
     <value>يحصل عملاء الشركات على دعم هاتفي على مدار الساعة، مما يضمن معالجة القضايا الحرجة فوراً.</value>
+  </data>
+  <data name="Enterprise services add deployment, customization, and support to the community edition. Support coverage, including any 7×24 on-call service, is defined in your agreement." xml:space="preserve">
+    <value>تضيف خدمات المؤسسات النشر والتخصيص والدعم إلى إصدار المجتمع. وتُحدَّد تغطية الدعم، بما في ذلك أي خدمة دعم عند الطلب على مدار الساعة طوال أيام الأسبوع، في اتفاقيتك.</value>
   </data>
   <data name="Freedom and enterprise service don&apos;t conflict." xml:space="preserve">
     <value>الحرية وخدمة المؤسسات لا يتعارضان</value>
@@ -63,11 +69,17 @@
   <data name="Meet industry compliance requirements with auditable configurations and enterprise-grade controls." xml:space="preserve">
     <value>استوفِ متطلبات الامتثال الصناعية عبر تكوينات قابلة للتدقيق وضوابط من طراز المؤسسات.</value>
   </data>
+  <data name="Monitor supported endpoints and configure the remote-management integrations specified in your deployment proposal." xml:space="preserve">
+    <value>راقب الأجهزة الطرفية المدعومة، واضبط عمليات التكامل للإدارة عن بُعد المحددة في مقترح النشر الخاص بك.</value>
+  </data>
   <data name="On-premises Package Repository" xml:space="preserve">
     <value>مستودع الحزم المحلي</value>
   </data>
   <data name="Private Package Repository" xml:space="preserve">
     <value>مستودع الحزم الخاص</value>
+  </data>
+  <data name="Where included in your agreement, round-the-clock incident intake and escalation are available. Response targets depend on incident severity; resolution time is not guaranteed." xml:space="preserve">
+    <value>في حال تضمّن اتفاقك ذلك، تتوفر خدمة استقبال البلاغات عن الحوادث وتصعيدها على مدار الساعة. وتعتمد المدد المستهدفة للاستجابة على خطورة الحادث، ولا يُضمن زمن حلّه.</value>
   </data>
 
 </root>

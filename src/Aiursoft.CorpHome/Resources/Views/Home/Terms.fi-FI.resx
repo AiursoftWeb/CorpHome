@@ -60,11 +60,17 @@
   <data name="Aiursoft provides enterprise IT infrastructure solutions built upon open-source technologies (e.g., Linux, Nextcloud, Mailcow, Authentik, GitLab)." xml:space="preserve">
     <value>Aiursoft tarjoaa yritysten tietotekniikan infrastruktuuriratkaisuja, jotka on rakennettu avoimen lähdekoodin teknologioille (kuten Linux, Nextcloud, Mailcow, Authentik, GitLab).</value>
   </data>
+  <data name="Aiursoft software, including deployment scripts and Template orchestration code, is provided under its published open-source licenses. Copyright ownership does not restrict the rights granted by those licenses. Third-party software retains its respective licenses. Aiursoft names, logos, and branding are separate from software licensing; modified distributions must not be presented as official products." xml:space="preserve">
+    <value>Aiursoft-ohjelmisto, mukaan lukien käyttöönoton komentosarjat ja Templaten orkestrointikoodi, tarjotaan julkaistujen avoimen lähdekoodin lisenssiensä ehtojen mukaisesti. Tekijänoikeuksien omistaminen ei rajoita näiden lisenssien myöntämiä oikeuksia. Kolmannen osapuolen ohjelmistoihin sovelletaan niiden omia lisenssejä. Aiursoftin nimet, logot ja brändi-ilme eivät kuulu ohjelmistolisensoinnin piiriin; muokattuja jakeluversioita ei saa esittää virallisina tuotteina.</value>
+  </data>
   <data name="All fees are exclusive of applicable taxes, levies, or duties imposed by taxing authorities, and you shall be responsible for payment of all such taxes." xml:space="preserve">
     <value>Kaikki maksut ovat veroja, maksuja tai tullimaksuja, joita veroviranomaiset voivat periä, poissulkevia, ja sinun on vastattava kaikkien tällaisten verojen maksamisesta.</value>
   </data>
   <data name="All payments are securely processed by our third-party payment gateway, Stripe. Aiursoft does not collect, process, or store your full credit card information on our servers." xml:space="preserve">
     <value>Kaikki maksut käsitellään turvallisesti kolmannen osapuolen maksuportaalin, Stripe, kautta. Aiursoft ei kerää, käsittele tai tallenna luottokorttitietojasi kokonaisuudessaan palvelimillamme.</value>
+  </data>
+  <data name="An isolated deployment requires local packages, models, identity services, and other dependencies. Hosted email, cloud management, and external model APIs require connectivity and are outside the isolated environment. These services and their data flows must be agreed before activation." xml:space="preserve">
+    <value>Eristetty käyttöönotto edellyttää paikallisia paketteja, malleja, identiteettipalveluja ja muita riippuvuuksia. Isännöity sähköposti, pilvihallinta ja ulkoiset mallirajapinnat edellyttävät verkkoyhteyttä eivätkä kuulu eristettyyn ympäristöön. Näistä palveluista ja niiden tietovirroista on sovittava ennen käyttöönottoa.</value>
   </data>
   <data name="Any unauthorized access to your on-premise servers (for Startup/Enterprise plans)." xml:space="preserve">
     <value>Mikä tahansa luvaton pääsy paikallisempiin palvelimiisi (Startup- ja Enterprise-suunnitelmille).</value>
@@ -96,6 +102,9 @@
   <data name="Email:" xml:space="preserve">
     <value>Sähköposti:</value>
   </data>
+  <data name="Enterprise services do not automatically extend an operating-system release&apos;s published security-update lifecycle. AnduinOS 2.0 standard support ends in April 2031. Your service agreement specifies included systems, supported devices, management integrations, maintenance responsibilities, and service duration." xml:space="preserve">
+    <value>Yrityspalvelut eivät automaattisesti pidennä käyttöjärjestelmäversion julkaistua tietoturvapäivitysten elinkaarta. AnduinOS 2.0:n perustuki päättyy huhtikuussa 2031. Palvelusopimuksessa määritellään sopimukseen sisältyvät järjestelmät, tuetut laitteet, hallintaintegraatiot, ylläpitovastuut ja palvelun kesto.</value>
+  </data>
   <data name="For On-Premise plans requiring a One-Time Setup Fee, this fee covers the manual labor of our architects (e.g., network configuration, Docker deployment, Yubikey integration). Setup fees are strictly non-refundable once the deployment and configuration process has commenced." xml:space="preserve">
     <value>On-Premise -suunnille, jotka vaativat kertamaksun, tämä maksu kattaa arkkitehtiemme käsityön (esim. verkkokonfiguraatio, Docker-käyttöönotto, Yubikey-integraatio). Asennusmaksuja ei voida koskaan palauttaa, kun käyttöönotto- ja konfiguraatioprosessi on aloitettu.</value>
   </data>
@@ -113,6 +122,9 @@
   </data>
   <data name="Last Updated: March 2026" xml:space="preserve">
     <value>Viimeksi päivitetty: maaliskuu 2026</value>
+  </data>
+  <data name="Last Updated: September 2026" xml:space="preserve">
+    <value>Päivitetty viimeksi: syyskuu 2026</value>
   </data>
   <data name="No Pro-Rated Refunds:" xml:space="preserve">
     <value>Ei osittaista palautusta:</value>
@@ -188,6 +200,9 @@
   </data>
   <data name="What you are purchasing from Aiursoft is the hosting, automated deployment, maintenance, priority support, and enterprise integration of these tools." xml:space="preserve">
     <value>Aiursoftista ostamasi palvelut ovat näiden työkalujen isäntäpalvelu, automatisoitu käyttöönotto, ylläpito, prioriteettituki ja yritystason integraatio.</value>
+  </data>
+  <data name="Where a plan includes 7×24 on-call support, this means incident intake and escalation. The service agreement defines incident severity, response targets, support channels, maintenance windows, and exclusions. It does not guarantee immediate resolution or uninterrupted availability." xml:space="preserve">
+    <value>Jos sopimukseen sisältyy 7×24-päivystystuki, se tarkoittaa häiriöilmoitusten vastaanottamista ja eskalointia. Palvelusopimuksessa määritellään häiriöiden vakavuusluokat, vasteajatavoitteet, tukikanavat, huoltoikkunat ja poikkeukset. Se ei takaa häiriöiden välitöntä korjaamista eikä palvelun keskeytymätöntä saatavuutta.</value>
   </data>
   <data name="You agree not to misuse the Services or help anyone else to do so. You must not:" xml:space="preserve">
     <value>Sopimus sit, ettet väärinkäytä Palveluita tai auta ketään muuta tekemään niin. Et saa:</value>

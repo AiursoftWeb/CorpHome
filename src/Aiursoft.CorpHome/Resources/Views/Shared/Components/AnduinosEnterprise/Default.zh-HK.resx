@@ -36,6 +36,9 @@
   <data name="Compliance Ready" xml:space="preserve">
     <value>合規就緒</value>
   </data>
+  <data name="Configure access controls and audit records for your requirements. Compliance depends on the applicable standard, deployment, and your operating procedures." xml:space="preserve">
+    <value>按你的要求設定存取控制及審核記錄。是否符合規範，取決於適用的標準、部署方式及你的操作程序。</value>
+  </data>
   <data name="Custom Branding" xml:space="preserve">
     <value>自訂品牌</value>
   </data>
@@ -47,6 +50,9 @@
   </data>
   <data name="Enterprise customers get round-the-clock telephone support, ensuring critical issues are addressed immediately." xml:space="preserve">
     <value>企業客戶可獲得全天候電話支援，確保關鍵問題能即時處理。</value>
+  </data>
+  <data name="Enterprise services add deployment, customization, and support to the community edition. Support coverage, including any 7×24 on-call service, is defined in your agreement." xml:space="preserve">
+    <value>企業服務會為社群版提供部署、自訂及支援服務。支援範圍（包括任何 7×24 全天候待命服務）以閣下的協議為準。</value>
   </data>
   <data name="Freedom and enterprise service don&apos;t conflict." xml:space="preserve">
     <value>自由與企業服務並不衝突。</value>
@@ -63,11 +69,17 @@
   <data name="Meet industry compliance requirements with auditable configurations and enterprise-grade controls." xml:space="preserve">
     <value>符合行業合規要求，具備可審計的設置和企業級控制措施。</value>
   </data>
+  <data name="Monitor supported endpoints and configure the remote-management integrations specified in your deployment proposal." xml:space="preserve">
+    <value>監察受支援的端點，並設定部署方案中指定的遠端管理整合。</value>
+  </data>
   <data name="On-premises Package Repository" xml:space="preserve">
     <value>本地套件儲存庫</value>
   </data>
   <data name="Private Package Repository" xml:space="preserve">
     <value>私有軟件倉庫</value>
+  </data>
+  <data name="Where included in your agreement, round-the-clock incident intake and escalation are available. Response targets depend on incident severity; resolution time is not guaranteed." xml:space="preserve">
+    <value>如您的協議包含此服務，您可全天候提交事故及要求升級處理。回應目標視乎事故的嚴重程度；我們不保證問題的解決時間。</value>
   </data>
 
 </root>

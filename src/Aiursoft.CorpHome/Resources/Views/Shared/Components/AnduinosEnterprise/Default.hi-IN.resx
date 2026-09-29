@@ -36,6 +36,9 @@
   <data name="Compliance Ready" xml:space="preserve">
     <value>अनुपालन के लिए तैयार</value>
   </data>
+  <data name="Configure access controls and audit records for your requirements. Compliance depends on the applicable standard, deployment, and your operating procedures." xml:space="preserve">
+    <value>अपनी आवश्यकताओं के अनुसार अभिगम नियंत्रण और ऑडिट रिकॉर्ड कॉन्फ़िगर करें। अनुपालन लागू मानक, परिनियोजन और आपकी संचालन प्रक्रियाओं पर निर्भर करता है।</value>
+  </data>
   <data name="Custom Branding" xml:space="preserve">
     <value>कस्टम ब्रांडिंग</value>
   </data>
@@ -47,6 +50,9 @@
   </data>
   <data name="Enterprise customers get round-the-clock telephone support, ensuring critical issues are addressed immediately." xml:space="preserve">
     <value>उद्यम ग्राहकों को 24 घंटे टेलीफोन सहायता मिलती है, जिससे महत्वपूर्ण समस्याओं को तुरंत हल किया जाता है।</value>
+  </data>
+  <data name="Enterprise services add deployment, customization, and support to the community edition. Support coverage, including any 7×24 on-call service, is defined in your agreement." xml:space="preserve">
+    <value>एंटरप्राइज़ सेवाएँ कम्युनिटी संस्करण में परिनियोजन, अनुकूलन और सहायता जोड़ती हैं। सहायता का दायरा, जिसमें 7×24 ऑन-कॉल सेवा भी शामिल हो सकती है, आपके अनुबंध में निर्धारित होता है।</value>
   </data>
   <data name="Freedom and enterprise service don&apos;t conflict." xml:space="preserve">
     <value>स्वतंत्रता और उद्यम सेवा परस्पर विरोधी नहीं हैं।</value>
@@ -63,11 +69,17 @@
   <data name="Meet industry compliance requirements with auditable configurations and enterprise-grade controls." xml:space="preserve">
     <value>उद्योग के अनुपालन आवश्यकताओं को ऑडिट योग्य कॉन्फ़िगरेशन और एंटरप्राइज़-ग्रेड नियंत्रणों के साथ पूरा करें।</value>
   </data>
+  <data name="Monitor supported endpoints and configure the remote-management integrations specified in your deployment proposal." xml:space="preserve">
+    <value>समर्थित एंडपॉइंट्स की निगरानी करें और अपने परिनियोजन प्रस्ताव में निर्दिष्ट रिमोट-मैनेजमेंट इंटीग्रेशन कॉन्फ़िगर करें।</value>
+  </data>
   <data name="On-premises Package Repository" xml:space="preserve">
     <value>ऑन-प्रेमिसेस पैकेज रिपॉजिटरी</value>
   </data>
   <data name="Private Package Repository" xml:space="preserve">
     <value>निजी पैकेज रिपॉजिटरी</value>
+  </data>
+  <data name="Where included in your agreement, round-the-clock incident intake and escalation are available. Response targets depend on incident severity; resolution time is not guaranteed." xml:space="preserve">
+    <value>यदि यह आपकी अनुबंध में शामिल है, तो चौबीसों घंटे घटनाओं की सूचना दर्ज करने और उन्हें आगे बढ़ाने की सुविधा उपलब्ध है। प्रतिक्रिया का लक्ष्य घटना की गंभीरता पर निर्भर करता है; समाधान का समय सुनिश्चित नहीं है।</value>
   </data>
 
 </root>

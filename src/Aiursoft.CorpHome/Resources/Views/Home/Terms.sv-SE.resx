@@ -60,11 +60,17 @@
   <data name="Aiursoft provides enterprise IT infrastructure solutions built upon open-source technologies (e.g., Linux, Nextcloud, Mailcow, Authentik, GitLab)." xml:space="preserve">
     <value>Aiursoft erbjuder företags IT-infrastrukturlösningar byggda på öppen källkodstekniker (t.ex. Linux, Nextcloud, Mailcow, Authentik, GitLab).</value>
   </data>
+  <data name="Aiursoft software, including deployment scripts and Template orchestration code, is provided under its published open-source licenses. Copyright ownership does not restrict the rights granted by those licenses. Third-party software retains its respective licenses. Aiursoft names, logos, and branding are separate from software licensing; modified distributions must not be presented as official products." xml:space="preserve">
+    <value>Aiursofts programvara, inklusive distributionsskript och orkestreringskod för Template, tillhandahålls under sina publicerade licenser för öppen källkod. Upphovsrätten begränsar inte de rättigheter som dessa licenser ger. Programvara från tredje part omfattas av respektive licens. Aiursofts namn, logotyper och varumärkesprofil omfattas inte av programvarulicenserna. Modifierade distributioner får inte presenteras som officiella produkter.</value>
+  </data>
   <data name="All fees are exclusive of applicable taxes, levies, or duties imposed by taxing authorities, and you shall be responsible for payment of all such taxes." xml:space="preserve">
     <value>Alla avgifter är exklusive tillämpliga skatter, avgifter eller tullar som fastställs av skattemyndigheter, och du är ansvarig för betalning av alla sådana skatter.</value>
   </data>
   <data name="All payments are securely processed by our third-party payment gateway, Stripe. Aiursoft does not collect, process, or store your full credit card information on our servers." xml:space="preserve">
     <value>Alla betalningar behandlas säkert av vår tredjeparts betalningsgateway, Stripe. Aiursoft samlar inte in, behandlar eller lagrar din fullständiga kreditkortsinformation på våra servrar.</value>
+  </data>
+  <data name="An isolated deployment requires local packages, models, identity services, and other dependencies. Hosted email, cloud management, and external model APIs require connectivity and are outside the isolated environment. These services and their data flows must be agreed before activation." xml:space="preserve">
+    <value>En isolerad driftsättning kräver lokala paket, modeller, identitetstjänster och andra beroenden. E-post som driftas externt, molnhantering och externa modell-API:er kräver nätverksanslutning och ingår inte i den isolerade miljön. Dessa tjänster och deras dataflöden måste godkännas innan de aktiveras.</value>
   </data>
   <data name="Any unauthorized access to your on-premise servers (for Startup/Enterprise plans)." xml:space="preserve">
     <value>Eventuell obehörig åtkomst till dina lokala servrar (för Startup/Enterprise-planer).</value>
@@ -96,6 +102,9 @@
   <data name="Email:" xml:space="preserve">
     <value>E-post:</value>
   </data>
+  <data name="Enterprise services do not automatically extend an operating-system release&apos;s published security-update lifecycle. AnduinOS 2.0 standard support ends in April 2031. Your service agreement specifies included systems, supported devices, management integrations, maintenance responsibilities, and service duration." xml:space="preserve">
+    <value>Företagstjänster förlänger inte automatiskt den publicerade livscykeln för säkerhetsuppdateringar för en operativsystemsversion. Standardsupporten för AnduinOS 2.0 upphör i april 2031. Ditt serviceavtal anger vilka system som ingår, vilka enheter som stöds, vilka hanteringsintegrationer som ingår, underhållsansvar och tjänstens varaktighet.</value>
+  </data>
   <data name="For On-Premise plans requiring a One-Time Setup Fee, this fee covers the manual labor of our architects (e.g., network configuration, Docker deployment, Yubikey integration). Setup fees are strictly non-refundable once the deployment and configuration process has commenced." xml:space="preserve">
     <value>För lokala plan som kräver en engångsinstallation kostnad täcker denna avgift den manuella arbetet från våra arkitekter (t.ex. nätverkskonfiguration, Docker-distribution, Yubikey-integration). Installationavgifter är strikt ej återbetalda en gång installationen och konfigurationen har inletts.</value>
   </data>
@@ -113,6 +122,9 @@
   </data>
   <data name="Last Updated: March 2026" xml:space="preserve">
     <value>Senast uppdaterad: Mars 2026</value>
+  </data>
+  <data name="Last Updated: September 2026" xml:space="preserve">
+    <value>Senast uppdaterad: september 2026</value>
   </data>
   <data name="No Pro-Rated Refunds:" xml:space="preserve">
     <value>Ingen pro-rata återbetalningar:</value>
@@ -188,6 +200,9 @@
   </data>
   <data name="What you are purchasing from Aiursoft is the hosting, automated deployment, maintenance, priority support, and enterprise integration of these tools." xml:space="preserve">
     <value>Vad du köper från Aiursoft är värdet, automatiserad distribution, underhåll, prioriterad support och företagsintegration av dessa verktyg.</value>
+  </data>
+  <data name="Where a plan includes 7×24 on-call support, this means incident intake and escalation. The service agreement defines incident severity, response targets, support channels, maintenance windows, and exclusions. It does not guarantee immediate resolution or uninterrupted availability." xml:space="preserve">
+    <value>Om en plan omfattar beredskap dygnet runt, alla dagar i veckan, innebär det att incidenter tas emot och eskaleras. Tjänsteavtalet definierar incidenternas allvarlighetsgrad, svarstider, supportkanaler, underhållsfönster och undantag. Det garanterar inte omedelbar lösning eller oavbruten tillgänglighet.</value>
   </data>
   <data name="You agree not to misuse the Services or help anyone else to do so. You must not:" xml:space="preserve">
     <value>Du godkänner att inte missbruka tjänsterna eller hjälpa någon annan att göra det. Du får inte:</value>

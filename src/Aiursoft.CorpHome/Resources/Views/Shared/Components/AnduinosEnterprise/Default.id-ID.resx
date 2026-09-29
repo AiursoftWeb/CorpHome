@@ -36,6 +36,9 @@
   <data name="Compliance Ready" xml:space="preserve">
     <value>Siap Mematuhi</value>
   </data>
+  <data name="Configure access controls and audit records for your requirements. Compliance depends on the applicable standard, deployment, and your operating procedures." xml:space="preserve">
+    <value>Konfigurasikan kontrol akses dan catatan audit sesuai kebutuhan Anda. Kepatuhan bergantung pada standar yang berlaku, penerapan, dan prosedur operasional Anda.</value>
+  </data>
   <data name="Custom Branding" xml:space="preserve">
     <value>Branding Kustom</value>
   </data>
@@ -47,6 +50,9 @@
   </data>
   <data name="Enterprise customers get round-the-clock telephone support, ensuring critical issues are addressed immediately." xml:space="preserve">
     <value>Pelanggan perusahaan mendapatkan dukungan telepon 24 jam sehari, memastikan masalah kritis ditangani segera.</value>
+  </data>
+  <data name="Enterprise services add deployment, customization, and support to the community edition. Support coverage, including any 7×24 on-call service, is defined in your agreement." xml:space="preserve">
+    <value>Layanan enterprise menambahkan penerapan, kustomisasi, dan dukungan pada edisi komunitas. Cakupan dukungan, termasuk layanan siaga 7×24 jika ada, ditetapkan dalam perjanjian Anda.</value>
   </data>
   <data name="Freedom and enterprise service don&apos;t conflict." xml:space="preserve">
     <value>Kebebasan dan layanan perusahaan tidak bertentangan.</value>
@@ -63,11 +69,17 @@
   <data name="Meet industry compliance requirements with auditable configurations and enterprise-grade controls." xml:space="preserve">
     <value>Penuhi persyaratan kepatuhan industri dengan konfigurasi yang dapat diaudit dan kontrol tingkat perusahaan.</value>
   </data>
+  <data name="Monitor supported endpoints and configure the remote-management integrations specified in your deployment proposal." xml:space="preserve">
+    <value>Pantau endpoint yang didukung dan konfigurasi integrasi manajemen jarak jauh yang tercantum dalam proposal penerapan Anda.</value>
+  </data>
   <data name="On-premises Package Repository" xml:space="preserve">
     <value>Repositori Paket di Lokasi Sendiri</value>
   </data>
   <data name="Private Package Repository" xml:space="preserve">
     <value>Repositori Paket Privat</value>
+  </data>
+  <data name="Where included in your agreement, round-the-clock incident intake and escalation are available. Response targets depend on incident severity; resolution time is not guaranteed." xml:space="preserve">
+    <value>Jika tercakup dalam perjanjian Anda, penerimaan dan eskalasi insiden tersedia 24 jam sehari. Target waktu respons bergantung pada tingkat keparahan insiden; waktu penyelesaian tidak dijamin.</value>
   </data>
 
 </root>

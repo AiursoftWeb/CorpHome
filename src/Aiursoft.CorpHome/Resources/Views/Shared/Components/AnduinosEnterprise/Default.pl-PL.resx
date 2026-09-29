@@ -36,6 +36,9 @@
   <data name="Compliance Ready" xml:space="preserve">
     <value>Gotowy do zgodności</value>
   </data>
+  <data name="Configure access controls and audit records for your requirements. Compliance depends on the applicable standard, deployment, and your operating procedures." xml:space="preserve">
+    <value>Skonfiguruj mechanizmy kontroli dostępu i rejestry audytowe zgodnie ze swoimi wymaganiami. Zgodność zależy od mającej zastosowanie normy, sposobu wdrożenia oraz stosowanych procedur operacyjnych.</value>
+  </data>
   <data name="Custom Branding" xml:space="preserve">
     <value>Niestandardowe oznakowanie</value>
   </data>
@@ -47,6 +50,9 @@
   </data>
   <data name="Enterprise customers get round-the-clock telephone support, ensuring critical issues are addressed immediately." xml:space="preserve">
     <value>Klienci korporacyjni otrzymują całodobowe wsparcie telefoniczne, co zapewnia natychmiastowe rozwiązywanie krytycznych problemów.</value>
+  </data>
+  <data name="Enterprise services add deployment, customization, and support to the community edition. Support coverage, including any 7×24 on-call service, is defined in your agreement." xml:space="preserve">
+    <value>Usługi dla firm obejmują wdrażanie, dostosowywanie i wsparcie dla wersji społecznościowej. Zakres wsparcia, w tym ewentualna całodobowa pomoc w trybie dyżurowym, jest określony w umowie.</value>
   </data>
   <data name="Freedom and enterprise service don&apos;t conflict." xml:space="preserve">
     <value>Wolność i usługi dla przedsiębiorstw nie są sprzeczne.</value>
@@ -63,11 +69,17 @@
   <data name="Meet industry compliance requirements with auditable configurations and enterprise-grade controls." xml:space="preserve">
     <value>Spełnij wymagania zgodności branżowej dzięki konfigurom podlegającym audytowi i kontrolom klasy enterprise.</value>
   </data>
+  <data name="Monitor supported endpoints and configure the remote-management integrations specified in your deployment proposal." xml:space="preserve">
+    <value>Monitoruj obsługiwane punkty końcowe i skonfiguruj integracje zdalnego zarządzania określone w propozycji wdrożenia.</value>
+  </data>
   <data name="On-premises Package Repository" xml:space="preserve">
     <value>Lokalne repozytorium pakietów</value>
   </data>
   <data name="Private Package Repository" xml:space="preserve">
     <value>Prywatne repozytorium pakietów</value>
+  </data>
+  <data name="Where included in your agreement, round-the-clock incident intake and escalation are available. Response targets depend on incident severity; resolution time is not guaranteed." xml:space="preserve">
+    <value>Jeśli przewiduje to umowa, dostępne jest całodobowe przyjmowanie zgłoszeń dotyczących incydentów i przekazywanie ich do odpowiednich osób. Docelowy czas reakcji zależy od wagi incydentu; czas rozwiązania problemu nie jest gwarantowany.</value>
   </data>
 
 </root>

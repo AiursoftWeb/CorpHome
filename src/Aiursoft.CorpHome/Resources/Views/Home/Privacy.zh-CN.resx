@@ -99,6 +99,9 @@
   <data name="For provisioning the underlying high-performance cloud infrastructure that powers our official websites and Cloud-Hosted (S1 Core) client instances." xml:space="preserve">
     <value>用于提供支撑我们官方网站及云托管（S1 Core）客户实例的底层高性能云基础设施。</value>
   </data>
+  <data name="For services deployed on your servers or private cloud, you control the infrastructure and access permissions. Aiursoft accesses these systems only within the authorization you grant for deployment, maintenance, or support. You can revoke that access. Separately selected hosted services remain subject to the cloud-hosted terms." xml:space="preserve">
+    <value>对于部署在您的服务器或私有云上的服务，您可以控制基础设施和访问权限。Aiursoft 仅在您授予的部署、维护或支持授权范围内访问这些系统。您可以撤销该访问权限。另行选择的托管服务仍适用云托管服务条款。</value>
+  </data>
   <data name="If you choose to cancel a Cloud-Hosted subscription, your account will remain active until the end of the current billing cycle. Following the expiration of your subscription, we observe a strict 30-day grace period. After this 30-day period, all of your associated business data (emails, files, databases) will be permanently, irreversibly, and securely hard-deleted from our hosting infrastructure. We cannot recover data once this deletion process has occurred." xml:space="preserve">
     <value>如果您选择取消云托管订阅，您的账户将在当前计费周期结束前保持激活状态。订阅到期后，我们将执行严格的30天宽限期。在此30天宽限期结束后，您所有关联的业务数据（电子邮件、文件、数据库）将被永久、不可逆且安全地从我们的托管基础设施中彻底删除。一旦完成删除流程，我们将无法恢复任何数据。</value>
   </data>
@@ -110,6 +113,9 @@
   </data>
   <data name="Last Updated: March 2026" xml:space="preserve">
     <value>最后更新时间：2026年3月</value>
+  </data>
+  <data name="Last Updated: September 2026" xml:space="preserve">
+    <value>最后更新日期：2026年9月</value>
   </data>
   <data name="Minimal Data Collection:" xml:space="preserve">
     <value>最少数据收集：</value>
@@ -189,6 +195,9 @@
   <data name="We do not share your personal information with external parties except where absolutely necessary to deliver our services. To operate effectively, we utilize the following trusted third-party sub-processors:" xml:space="preserve">
     <value>除非提供服务确有必要，否则我们不会与外部第三方共享您的个人信息。为保障运营，我们委托以下值得信赖的第三方分包处理者处理数据：</value>
   </data>
+  <data name="We do not use your private documents or communications to train our models or third-party models. Customer-requested local training requires explicit authorization and uses only the data you select. Local inference keeps model inputs within your deployment. If you choose an external model provider, prompts and selected content are sent to that provider under its terms; the provider and data flow must be agreed before activation." xml:space="preserve">
+    <value>我们不会使用您的私人文档或通信内容来训练我们的模型或第三方模型。客户要求进行本地训练时，必须事先获得明确授权，且仅使用您指定的数据。本地推理可确保模型输入内容留在您的部署环境中。如果您选择外部模型提供商，提示词和您选择的内容将根据该提供商的条款发送给对方；在启用之前，必须就提供商及数据流转方式达成一致。</value>
+  </data>
   <data name="We do not, and will never, sell, rent, or lease your personal or business data to third parties." xml:space="preserve">
     <value>我们现在不会、将来也绝不会向第三方出售或出租您的个人或业务数据。</value>
   </data>
@@ -200,6 +209,9 @@
   </data>
   <data name="When you register for an Aiursoft commercial account or engage with our sales team, we collect necessary contact details, including your name, your work email address, and your company name. This information is used strictly for account administration and communication." xml:space="preserve">
     <value>当您注册 Aiursoft 商业账户或与我们的销售团队联系时，我们会收集必要的联系信息，包括您的姓名、工作电子邮件地址以及公司名称。这些信息仅用于账户管理和沟通。</value>
+  </data>
+  <data name="When you utilize our cloud-hosted infrastructure (such as Mailcow, Nextcloud, or Authentik instances managed on our servers), AIURSOFT LIMITED acts as a Data Processor. You remain the Data Controller. Infrastructure administrators may have technical access to hosted systems, databases, and backups. We restrict access to authorized personnel and service duties. Access to business content for a support request requires your explicit authorization, is limited to that request, and is revoked when the work ends." xml:space="preserve">
+    <value>当您使用我们托管于云端的基础设施（例如由我们服务器管理的 Mailcow、Nextcloud 或 Authentik 实例）时，AIURSOFT LIMITED 作为数据处理者。您仍是数据控制者。基础设施管理员可能在技术层面访问托管系统、数据库和备份。我们仅允许经授权的人员出于履行服务职责的需要访问相关内容。对于支持请求，访问业务内容须经您明确授权，且仅限于处理该请求；工作结束后，我们将撤销该访问权限。</value>
   </data>
   <data name="When you utilize our cloud-hosted infrastructure (such as Mailcow, Nextcloud, or Authentik instances managed on our servers), AIURSOFT LIMITED acts as a Data Processor. You remain the Data Controller. We host and maintain the infrastructure to ensure uptime and security, but our personnel possess absolutely zero access to your underlying business data (e.g., the contents of your emails, your stored files, or your internal chat logs) unless you explicitly grant us temporary, revocable access for the sole purpose of resolving a technical support ticket you have initiated." xml:space="preserve">
     <value>当您使用我们的云托管基础设施（例如在我们的服务器上托管和管理的 Mailcow、Nextcloud 或 Authentik 实例）时，AIURSOFT LIMITED 担任数据处理者。您仍为数据控制者。我们负责托管和维护基础设施以确保服务的可用性和安全性，但我们的人员对您的底层业务数据（例如邮件内容、存储的文件或内部聊天记录）拥有绝对零访问权限，除非您明确授予我们临时且可撤销的访问权限，且仅用于解决您发起的技术支持工单这一单一目的。</value>

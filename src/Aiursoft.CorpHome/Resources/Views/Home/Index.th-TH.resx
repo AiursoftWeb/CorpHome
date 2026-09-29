@@ -222,6 +222,9 @@
   <data name="Built-in RBAC for fine-grained permission management." xml:space="preserve">
     <value>RBAC แบบฝังในสำหรับการจัดการสิทธิ์แบบละเอียด</value>
   </data>
+  <data name="Built-in security controls support your deployment requirements." xml:space="preserve">
+    <value>มาตรการรักษาความปลอดภัยที่มีมาให้ในตัวรองรับข้อกำหนดในการติดตั้งใช้งานของคุณ</value>
+  </data>
   <data name="Built-in User Management" xml:space="preserve">
     <value>การจัดการผู้ใช้ในตัว</value>
   </data>
@@ -314,6 +317,9 @@
   </data>
   <data name="Default SQLite database, no configuration needed." xml:space="preserve">
     <value>ฐานข้อมูล SQLite แบบเริ่มต้น ไม่ต้องตั้งค่า</value>
+  </data>
+  <data name="Deploy models and agents on your own infrastructure. External model providers and hosted integrations are optional and require an agreed data flow." xml:space="preserve">
+    <value>ติดตั้งใช้งานโมเดลและเอเจนต์บนโครงสร้างพื้นฐานของคุณเองได้ ผู้ให้บริการโมเดลภายนอกและการเชื่อมต่อกับบริการที่โฮสต์ไว้เป็นตัวเลือกเสริม และต้องมีการตกลงกันเกี่ยวกับการไหลของข้อมูล</value>
   </data>
   <data name="Designed for everyone, from beginners to experts." xml:space="preserve">
     <value>ออกแบบมาเพื่อทุกคน ตั้งแต่มือใหม่จนถึงผู้เชี่ยวชาญ</value>
@@ -828,6 +834,9 @@
   <data name="Supports JetBrains Rider for easy code style fixes." xml:space="preserve">
     <value>รองรับ JetBrains Rider สำหรับการแก้ไขรูปแบบโค้ดอย่างง่าย</value>
   </data>
+  <data name="Supports local operation; configured external integrations require network access." xml:space="preserve">
+    <value>รองรับการทำงานภายในเครื่อง ส่วนการเชื่อมต่อภายนอกที่กำหนดค่าไว้จำเป็นต้องเชื่อมต่อเครือข่าย</value>
+  </data>
   <data name="Switch easily between SQLite, MySQL, SQL Server." xml:space="preserve">
     <value>สลับได้อย่างง่ายระหว่าง SQLite, MySQL, SQL Server</value>
   </data>
@@ -906,6 +915,12 @@
   <data name="We audit and integrate Open-source code, respect GPL, compile components, and contribute upstream." xml:space="preserve">
     <value>เราตรวจสอบและรวมโค้ดโอเพ่นซอร์ส ให้ความเคารพต่อ GPL คอมไพล์ส่วนประกอบ และมีส่วนร่วมในการพัฒนาในระดับต้นทาง</value>
   </data>
+  <data name="We configure authentication, encrypted service connections, and audit logging for the services included in your deployment. Coverage and retention are agreed during design." xml:space="preserve">
+    <value>เรากำหนดค่าการยืนยันตัวตน การเชื่อมต่อบริการแบบเข้ารหัส และการบันทึกข้อมูลการตรวจสอบสำหรับบริการที่รวมอยู่ในการติดตั้งใช้งานของคุณ โดยจะตกลงขอบเขตและระยะเวลาการเก็บรักษาข้อมูลกันในระหว่างการออกแบบ</value>
+  </data>
+  <data name="We integrate hardware-key authentication. Hardware procurement and costs are agreed in your deployment proposal." xml:space="preserve">
+    <value>เราผสานการยืนยันตัวตนด้วยกุญแจฮาร์ดแวร์เข้ากับระบบ โดยรายละเอียดการจัดหาอุปกรณ์ฮาร์ดแวร์และค่าใช้จ่ายจะตกลงกันในข้อเสนอการติดตั้งระบบของคุณ</value>
+  </data>
   <data name="We procure Yubikeys for all clients and configure zero-trust architecture." xml:space="preserve">
     <value>เราจัดหา Yubikeys สำหรับลูกค้าทุกท่านและตั้งค่าสถาปัตยกรรมแบบ zero-trust</value>
   </data>
@@ -926,6 +941,9 @@
   </data>
   <data name="Win/Lin/Mac" xml:space="preserve">
     <value>Win/Lin/Mac</value>
+  </data>
+  <data name="With local models and local integrations, inference inputs remain within your deployment. External providers receive the inputs you choose to send." xml:space="preserve">
+    <value>เมื่อใช้โมเดลและการเชื่อมต่อภายในองค์กร ข้อมูลนำเข้าสำหรับการประมวลผลจะยังคงอยู่ภายในระบบที่คุณติดตั้งใช้งาน ผู้ให้บริการภายนอกจะได้รับเฉพาะข้อมูลนำเข้าที่คุณเลือกส่งให้เท่านั้น</value>
   </data>
   <data name="with Open-Source Infrastructure." xml:space="preserve">
     <value>พร้อมโครงสร้างพื้นฐานแบบโอเพนซอร์ส</value>

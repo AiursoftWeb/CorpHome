@@ -99,6 +99,9 @@
   <data name="For provisioning the underlying high-performance cloud infrastructure that powers our official websites and Cloud-Hosted (S1 Core) client instances." xml:space="preserve">
     <value>Per il provisioning dell&apos;infrastruttura cloud ad alte prestazioni sottostante che alimenta i nostri siti ufficiali e le istanze clienti Cloud-Hosted (S1 Core).</value>
   </data>
+  <data name="For services deployed on your servers or private cloud, you control the infrastructure and access permissions. Aiursoft accesses these systems only within the authorization you grant for deployment, maintenance, or support. You can revoke that access. Separately selected hosted services remain subject to the cloud-hosted terms." xml:space="preserve">
+    <value>Per i servizi distribuiti sui tuoi server o sul tuo cloud privato, controlli l’infrastruttura e le autorizzazioni di accesso. Aiursoft accede a questi sistemi esclusivamente nei limiti dell’autorizzazione che concedi per la distribuzione, la manutenzione o il supporto. Puoi revocare tale accesso. I servizi ospitati selezionati separatamente restano soggetti alle condizioni applicabili ai servizi ospitati nel cloud.</value>
+  </data>
   <data name="If you choose to cancel a Cloud-Hosted subscription, your account will remain active until the end of the current billing cycle. Following the expiration of your subscription, we observe a strict 30-day grace period. After this 30-day period, all of your associated business data (emails, files, databases) will be permanently, irreversibly, and securely hard-deleted from our hosting infrastructure. We cannot recover data once this deletion process has occurred." xml:space="preserve">
     <value>Se scegli di annullare un abbonamento Cloud-Hosted, il tuo account rimarrà attivo fino alla fine del ciclo di fatturazione corrente. Dopo la scadenza del tuo abbonamento, osserviamo un rigoroso periodo di grazia di 30 giorni. Trascorso questo periodo di 30 giorni, tutti i tuoi dati aziendali associati (email, file, database) verranno definitivamente, irreversibilmente e in modo sicuro eliminati dal nostro infrastructure di hosting. Non possiamo recuperare i dati una volta avviato questo processo di eliminazione.</value>
   </data>
@@ -110,6 +113,9 @@
   </data>
   <data name="Last Updated: March 2026" xml:space="preserve">
     <value>Ultimo aggiornamento: marzo 2026</value>
+  </data>
+  <data name="Last Updated: September 2026" xml:space="preserve">
+    <value>Ultimo aggiornamento: settembre 2026</value>
   </data>
   <data name="Minimal Data Collection:" xml:space="preserve">
     <value>Raccolta Dati Minima:</value>
@@ -189,6 +195,9 @@
   <data name="We do not share your personal information with external parties except where absolutely necessary to deliver our services. To operate effectively, we utilize the following trusted third-party sub-processors:" xml:space="preserve">
     <value>Non condividiamo le tue informazioni personali con terze parti esterne, salvo dove strettamente necessario per erogare i nostri servizi. Per operare in modo efficace, utilizziamo i seguenti sottoprocessori di terze parti affidabili:</value>
   </data>
+  <data name="We do not use your private documents or communications to train our models or third-party models. Customer-requested local training requires explicit authorization and uses only the data you select. Local inference keeps model inputs within your deployment. If you choose an external model provider, prompts and selected content are sent to that provider under its terms; the provider and data flow must be agreed before activation." xml:space="preserve">
+    <value>Non utilizziamo i tuoi documenti o le tue comunicazioni private per addestrare i nostri modelli né quelli di terze parti. L’addestramento locale richiesto dal cliente necessita di un’autorizzazione esplicita e utilizza esclusivamente i dati selezionati da te. L’inferenza locale mantiene gli input del modello all’interno della tua distribuzione. Se scegli un fornitore esterno di modelli, i prompt e i contenuti selezionati vengono inviati a tale fornitore secondo i suoi termini; il fornitore e il flusso dei dati devono essere concordati prima dell’attivazione.</value>
+  </data>
   <data name="We do not, and will never, sell, rent, or lease your personal or business data to third parties." xml:space="preserve">
     <value>Non vendiamo, affittiamo né concediamo in locazione i tuoi dati personali o aziendali a terzi, né lo faremo mai.</value>
   </data>
@@ -200,6 +209,9 @@
   </data>
   <data name="When you register for an Aiursoft commercial account or engage with our sales team, we collect necessary contact details, including your name, your work email address, and your company name. This information is used strictly for account administration and communication." xml:space="preserve">
     <value>Quando ti registri per un account commerciale Aiursoft o ti metti in contatto con il nostro team di vendite, raccogliamo i dati di contatto necessari, inclusi il tuo nome, il tuo indirizzo email professionale e il nome della tua azienda. Queste informazioni vengono utilizzate esclusivamente per la gestione dell&apos;account e la comunicazione.</value>
+  </data>
+  <data name="When you utilize our cloud-hosted infrastructure (such as Mailcow, Nextcloud, or Authentik instances managed on our servers), AIURSOFT LIMITED acts as a Data Processor. You remain the Data Controller. Infrastructure administrators may have technical access to hosted systems, databases, and backups. We restrict access to authorized personnel and service duties. Access to business content for a support request requires your explicit authorization, is limited to that request, and is revoked when the work ends." xml:space="preserve">
+    <value>Quando utilizzate la nostra infrastruttura ospitata nel cloud (come le istanze di Mailcow, Nextcloud o Authentik gestite sui nostri server), AIURSOFT LIMITED agisce in qualità di responsabile del trattamento dei dati. Voi rimanete i titolari del trattamento. Gli amministratori dell’infrastruttura possono avere accesso tecnico ai sistemi ospitati, ai database e ai backup. Limitiamo l’accesso al personale autorizzato e alle attività di servizio. L’accesso ai contenuti aziendali per una richiesta di assistenza richiede la vostra esplicita autorizzazione, è limitato a tale richiesta e viene revocato al termine dell’intervento.</value>
   </data>
   <data name="When you utilize our cloud-hosted infrastructure (such as Mailcow, Nextcloud, or Authentik instances managed on our servers), AIURSOFT LIMITED acts as a Data Processor. You remain the Data Controller. We host and maintain the infrastructure to ensure uptime and security, but our personnel possess absolutely zero access to your underlying business data (e.g., the contents of your emails, your stored files, or your internal chat logs) unless you explicitly grant us temporary, revocable access for the sole purpose of resolving a technical support ticket you have initiated." xml:space="preserve">
     <value>Quando utilizzi la nostra infrastruttura ospitata in cloud (ad esempio istanze di Mailcow, Nextcloud o Authentik gestite sui nostri server), AIURSOFT LIMITED agisce come Responsabile del trattamento dei dati. Tu rimani il Titolare del trattamento. Ospitiamo e manteniamo l&apos;infrastruttura per garantire disponibilità e sicurezza, ma il nostro personale non ha assolutamente alcun accesso ai tuoi dati aziendali sottostanti (ad esempio il contenuto dei tuoi messaggi di posta elettronica, i tuoi file archiviati o i tuoi log di chat interni) a meno che tu non ci conceda esplicitamente un accesso temporaneo e revocabile esclusivamente per risolvere un ticket di supporto tecnico che hai aperto.</value>

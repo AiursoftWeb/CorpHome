@@ -222,6 +222,9 @@
   <data name="Built-in RBAC for fine-grained permission management." xml:space="preserve">
     <value>內建 RBAC，支援細粒度權限管理。</value>
   </data>
+  <data name="Built-in security controls support your deployment requirements." xml:space="preserve">
+    <value>內建安全控管機制可滿足您的部署需求。</value>
+  </data>
   <data name="Built-in User Management" xml:space="preserve">
     <value>內建使用者管理</value>
   </data>
@@ -314,6 +317,9 @@
   </data>
   <data name="Default SQLite database, no configuration needed." xml:space="preserve">
     <value>預設 SQLite 資料庫，無需設定</value>
+  </data>
+  <data name="Deploy models and agents on your own infrastructure. External model providers and hosted integrations are optional and require an agreed data flow." xml:space="preserve">
+    <value>在您自己的基礎架構上部署模型和代理程式。外部模型提供者和代管整合皆為選用，且須事先議定資料流向。</value>
   </data>
   <data name="Designed for everyone, from beginners to experts." xml:space="preserve">
     <value>為所有人設計，從新手到專家皆適用。</value>
@@ -828,6 +834,9 @@
   <data name="Supports JetBrains Rider for easy code style fixes." xml:space="preserve">
     <value>支援 JetBrains Rider，輕鬆修正程式碼風格。</value>
   </data>
+  <data name="Supports local operation; configured external integrations require network access." xml:space="preserve">
+    <value>支援本機操作；已設定的外部整合功能需要網路連線。</value>
+  </data>
   <data name="Switch easily between SQLite, MySQL, SQL Server." xml:space="preserve">
     <value>輕鬆切換 SQLite、MySQL 與 SQL Server。</value>
   </data>
@@ -906,6 +915,12 @@
   <data name="We audit and integrate Open-source code, respect GPL, compile components, and contribute upstream." xml:space="preserve">
     <value>我們審計並整合開源程式碼，尊重 GPL，編譯元件，並向上游貢獻。</value>
   </data>
+  <data name="We configure authentication, encrypted service connections, and audit logging for the services included in your deployment. Coverage and retention are agreed during design." xml:space="preserve">
+    <value>我們會為部署中包含的服務設定驗證、加密服務連線及稽核記錄。涵蓋範圍與記錄保留期限將於設計階段議定。</value>
+  </data>
+  <data name="We integrate hardware-key authentication. Hardware procurement and costs are agreed in your deployment proposal." xml:space="preserve">
+    <value>我們會整合硬體金鑰驗證。硬體採購項目與費用將於您的部署提案中議定。</value>
+  </data>
   <data name="We procure Yubikeys for all clients and configure zero-trust architecture." xml:space="preserve">
     <value>我們為所有客戶採購 Yubikey 並設定零信任架構。</value>
   </data>
@@ -926,6 +941,9 @@
   </data>
   <data name="Win/Lin/Mac" xml:space="preserve">
     <value>Windows/Linux/Mac</value>
+  </data>
+  <data name="With local models and local integrations, inference inputs remain within your deployment. External providers receive the inputs you choose to send." xml:space="preserve">
+    <value>使用本機模型與本機整合時，推論輸入會留在您的部署環境中。外部服務提供者只會收到您選擇傳送的輸入。</value>
   </data>
   <data name="with Open-Source Infrastructure." xml:space="preserve">
     <value>與開源基礎設施一同建構。</value>

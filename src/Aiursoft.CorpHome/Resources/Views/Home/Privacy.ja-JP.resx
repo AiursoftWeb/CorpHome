@@ -99,6 +99,9 @@
   <data name="For provisioning the underlying high-performance cloud infrastructure that powers our official websites and Cloud-Hosted (S1 Core) client instances." xml:space="preserve">
     <value>当社の公式ウェブサイトおよびクラウドホスト型 (S1 Core) クライアントインスタンスを支える基盤となる高性能クラウドインフラストラクチャのプロビジョニングのため。</value>
   </data>
+  <data name="For services deployed on your servers or private cloud, you control the infrastructure and access permissions. Aiursoft accesses these systems only within the authorization you grant for deployment, maintenance, or support. You can revoke that access. Separately selected hosted services remain subject to the cloud-hosted terms." xml:space="preserve">
+    <value>お客様のサーバーまたはプライベートクラウドに導入されたサービスについては、インフラストラクチャとアクセス権限をお客様が管理します。Aiursoftは、導入、保守、またはサポートのためにお客様から許可された範囲内でのみ、これらのシステムにアクセスします。お客様はそのアクセス許可を取り消すことができます。別途選択されたホステッドサービスには、引き続きクラウドホステッドサービスの規約が適用されます。</value>
+  </data>
   <data name="If you choose to cancel a Cloud-Hosted subscription, your account will remain active until the end of the current billing cycle. Following the expiration of your subscription, we observe a strict 30-day grace period. After this 30-day period, all of your associated business data (emails, files, databases) will be permanently, irreversibly, and securely hard-deleted from our hosting infrastructure. We cannot recover data once this deletion process has occurred." xml:space="preserve">
     <value>クラウドホステッドのサブスクリプションをキャンセルすることを選択した場合、アカウントは現在の課金サイクルの終了まで引き続き有効になります。サブスクリプションの有効期限が切れた後、厳格な30日間の猶予期間を設けています。この30日間の猶予期間が経過した後、関連するすべてのビジネスデータ（メール、ファイル、データベース）は、当社のホスティングインフラから永久的かつ取り返しのつかない形で安全に物理削除されます。この削除プロセスが完了すると、データの復旧は一切できません。</value>
   </data>
@@ -110,6 +113,9 @@
   </data>
   <data name="Last Updated: March 2026" xml:space="preserve">
     <value>最終更新日: 2026年3月</value>
+  </data>
+  <data name="Last Updated: September 2026" xml:space="preserve">
+    <value>最終更新日：2026年9月</value>
   </data>
   <data name="Minimal Data Collection:" xml:space="preserve">
     <value>最小限のデータ収集:</value>
@@ -189,6 +195,9 @@
   <data name="We do not share your personal information with external parties except where absolutely necessary to deliver our services. To operate effectively, we utilize the following trusted third-party sub-processors:" xml:space="preserve">
     <value>当社は、サービスの提供に絶対に必要となる場合を除き、お客様の個人情報を外部の第三者と共有しません。効果的に運営するため、以下の信頼できる第三者のサブプロセッサを利用しています：</value>
   </data>
+  <data name="We do not use your private documents or communications to train our models or third-party models. Customer-requested local training requires explicit authorization and uses only the data you select. Local inference keeps model inputs within your deployment. If you choose an external model provider, prompts and selected content are sent to that provider under its terms; the provider and data flow must be agreed before activation." xml:space="preserve">
+    <value>お客様の非公開文書や通信を、当社のモデルまたは第三者のモデルのトレーニングに使用することはありません。お客様のご要望によるローカルトレーニングには明示的な承認が必要であり、お客様が選択したデータのみを使用します。ローカル推論では、モデルへの入力はお客様のデプロイ環境内にとどまります。外部のモデルプロバイダーを選択した場合、プロンプトと選択したコンテンツは、そのプロバイダーの利用条件に基づいてプロバイダーに送信されます。有効化の前に、プロバイダーとデータの流れについて合意する必要があります。</value>
+  </data>
   <data name="We do not, and will never, sell, rent, or lease your personal or business data to third parties." xml:space="preserve">
     <value>私たちは、今後も一切、お客様の個人情報または業務データを第三者に販売、賃貸、または貸し出しすることはありません。</value>
   </data>
@@ -200,6 +209,9 @@
   </data>
   <data name="When you register for an Aiursoft commercial account or engage with our sales team, we collect necessary contact details, including your name, your work email address, and your company name. This information is used strictly for account administration and communication." xml:space="preserve">
     <value>Aiursoftの商用アカウントに登録する場合、または営業チームと連絡を取る場合、アカウントの管理および連絡用に必要な連絡先情報を収集します。これには、お名前、業務用メールアドレス、および会社名が含まれます。この情報は、アカウント管理および連絡の目的にのみ厳密に使用されます。</value>
+  </data>
+  <data name="When you utilize our cloud-hosted infrastructure (such as Mailcow, Nextcloud, or Authentik instances managed on our servers), AIURSOFT LIMITED acts as a Data Processor. You remain the Data Controller. Infrastructure administrators may have technical access to hosted systems, databases, and backups. We restrict access to authorized personnel and service duties. Access to business content for a support request requires your explicit authorization, is limited to that request, and is revoked when the work ends." xml:space="preserve">
+    <value>当社のクラウドホスト型インフラストラクチャ（当社のサーバー上で管理される Mailcow、Nextcloud、Authentik の各インスタンスなど）をご利用の場合、AIURSOFT LIMITED はデータ処理者として業務を行います。お客様は引き続きデータ管理者です。インフラストラクチャの管理者は、ホストされたシステム、データベース、バックアップに技術的にアクセスできる場合があります。アクセスは、許可された担当者に必要な業務の範囲で制限しています。サポート依頼に関連して業務コンテンツへアクセスするには、お客様の明示的な許可が必要です。また、そのアクセスは当該依頼の範囲に限られ、作業終了時に取り消されます。</value>
   </data>
   <data name="When you utilize our cloud-hosted infrastructure (such as Mailcow, Nextcloud, or Authentik instances managed on our servers), AIURSOFT LIMITED acts as a Data Processor. You remain the Data Controller. We host and maintain the infrastructure to ensure uptime and security, but our personnel possess absolutely zero access to your underlying business data (e.g., the contents of your emails, your stored files, or your internal chat logs) unless you explicitly grant us temporary, revocable access for the sole purpose of resolving a technical support ticket you have initiated." xml:space="preserve">
     <value>クラウドホスティングされたインフラストラクチャ（Mailcow、Nextcloud、または当社サーバー上で管理されるAuthentikインスタンスなど）をご利用の場合、AIURSOFT LIMITEDはデータ処理者としての役割を果たします。お客様は引き続きデータコントローラーの地位を維持されます。当社は、サービスの可用性およびセキュリティを確保するため、インフラストラクチャのホスティングおよびメンテナンスを行いますが、お客様の基盤となるビジネスデータ（例：メールの本文、保存されたファイル、内部チャットログなど）に対して、当社の従業員は一切アクセスできません。ただし、お客様が技術的サポートチケットの解決を目的として一時的かつ取り消し可能なアクセスを明示的に付与された場合を除きます。</value>

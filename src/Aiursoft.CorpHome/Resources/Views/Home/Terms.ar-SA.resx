@@ -60,11 +60,17 @@
   <data name="Aiursoft provides enterprise IT infrastructure solutions built upon open-source technologies (e.g., Linux, Nextcloud, Mailcow, Authentik, GitLab)." xml:space="preserve">
     <value>توفر Aiursoft حلول البنية التحتية لتقنية المعلومات للشركات مبنية على تقنيات المصدر المفتوح (مثل: Linux، Nextcloud، Mailcow، Authentik، GitLab).</value>
   </data>
+  <data name="Aiursoft software, including deployment scripts and Template orchestration code, is provided under its published open-source licenses. Copyright ownership does not restrict the rights granted by those licenses. Third-party software retains its respective licenses. Aiursoft names, logos, and branding are separate from software licensing; modified distributions must not be presented as official products." xml:space="preserve">
+    <value>تُقدَّم برامج Aiursoft، بما في ذلك نصوص النشر وشيفرة تنسيق Template، بموجب تراخيصها المنشورة مفتوحة المصدر. ولا تقيّد ملكية حقوق الطبع والنشر الحقوق التي تمنحها تلك التراخيص. وتظل برامج الجهات الخارجية خاضعة لتراخيصها الخاصة. وتُعد أسماء Aiursoft وشعاراتها وعلامتها التجارية منفصلة عن تراخيص البرامج؛ ويجب عدم تقديم التوزيعات المعدّلة على أنها منتجات رسمية.</value>
+  </data>
   <data name="All fees are exclusive of applicable taxes, levies, or duties imposed by taxing authorities, and you shall be responsible for payment of all such taxes." xml:space="preserve">
     <value>جميع الرسومات تكون بدون الضرائب أو الرسوم أو الرسوم الجمركية المطبقة من قبل الجهات الضريبية، ويكون عليك تحمل مسؤولية دفع جميع هذه الضرائب.</value>
   </data>
   <data name="All payments are securely processed by our third-party payment gateway, Stripe. Aiursoft does not collect, process, or store your full credit card information on our servers." xml:space="preserve">
     <value>تتم معالجة جميع المدفوعات بشكل آمن من خلال بوابة الدفع الخارجية لدينا، سترايب. لا تقوم شركة أيورسوفت بجمع أو معالجة أو تخزين معلومات بطاقتك الائتمانية الكاملة على خوادمنا.</value>
+  </data>
+  <data name="An isolated deployment requires local packages, models, identity services, and other dependencies. Hosted email, cloud management, and external model APIs require connectivity and are outside the isolated environment. These services and their data flows must be agreed before activation." xml:space="preserve">
+    <value>يتطلب النشر المعزول توفير الحزم والنماذج وخدمات الهوية وغيرها من التبعيات محليًا. ويتطلب البريد الإلكتروني المستضاف وإدارة السحابة وواجهات برمجة التطبيقات الخارجية للنماذج اتصالًا بالشبكة، وهي خارج البيئة المعزولة. يجب الاتفاق على هذه الخدمات وتدفقات البيانات الخاصة بها قبل تفعيلها.</value>
   </data>
   <data name="Any unauthorized access to your on-premise servers (for Startup/Enterprise plans)." xml:space="preserve">
     <value>أي وصول غير مصرح به إلى خوادمك المُضَمَّنة محليًا (لخطط البدء والشركات).</value>
@@ -96,6 +102,9 @@
   <data name="Email:" xml:space="preserve">
     <value>البريد الإلكتروني:</value>
   </data>
+  <data name="Enterprise services do not automatically extend an operating-system release&apos;s published security-update lifecycle. AnduinOS 2.0 standard support ends in April 2031. Your service agreement specifies included systems, supported devices, management integrations, maintenance responsibilities, and service duration." xml:space="preserve">
+    <value>لا تؤدي خدمات المؤسسات تلقائيًا إلى تمديد دورة تحديثات الأمان المنشورة لإصدار نظام التشغيل. ينتهي الدعم القياسي لنظام AnduinOS 2.0 في أبريل 2031. تحدد اتفاقية الخدمة الأنظمة المشمولة والأجهزة المدعومة وعمليات التكامل مع أنظمة الإدارة ومسؤوليات الصيانة ومدة الخدمة.</value>
+  </data>
   <data name="For On-Premise plans requiring a One-Time Setup Fee, this fee covers the manual labor of our architects (e.g., network configuration, Docker deployment, Yubikey integration). Setup fees are strictly non-refundable once the deployment and configuration process has commenced." xml:space="preserve">
     <value>بالنسبة للخطط المضمنة التي تتطلب رسومًا واحدة للاستعداد، تغطي هذه الرسوم العمل اليدوي لمهندسينا (مثل إعداد الشبكة، نشر دوكسر، وتكامل يوبيكاي). الرسوم الاستعدادية غير قابلة للاسترداد بشكل صارم بمجرد بدء عملية النشر والإعداد.</value>
   </data>
@@ -113,6 +122,9 @@
   </data>
   <data name="Last Updated: March 2026" xml:space="preserve">
     <value>آخر تحديث: مارس 2026</value>
+  </data>
+  <data name="Last Updated: September 2026" xml:space="preserve">
+    <value>آخر تحديث: سبتمبر 2026</value>
   </data>
   <data name="No Pro-Rated Refunds:" xml:space="preserve">
     <value>لا توجد استردادات مُتناسبة حسب المدة:</value>
@@ -188,6 +200,9 @@
   </data>
   <data name="What you are purchasing from Aiursoft is the hosting, automated deployment, maintenance, priority support, and enterprise integration of these tools." xml:space="preserve">
     <value>ما تقوم بشرائه من Aiursoft هو الاستضافة، النشر التلقائي، الصيانة، الدعم المُعطى أولوية، وتكامل المؤسسة لهذه الأدوات.</value>
+  </data>
+  <data name="Where a plan includes 7×24 on-call support, this means incident intake and escalation. The service agreement defines incident severity, response targets, support channels, maintenance windows, and exclusions. It does not guarantee immediate resolution or uninterrupted availability." xml:space="preserve">
+    <value>عندما تتضمن الخطة دعمًا عند الطلب على مدار الساعة طوال أيام الأسبوع (7×24)، فهذا يعني تلقي البلاغات عن الحوادث وتصعيدها. تحدد اتفاقية الخدمة درجة خطورة الحوادث، والأهداف الزمنية للاستجابة، وقنوات الدعم، ونوافذ الصيانة، والاستثناءات. ولا تضمن حل المشكلات فورًا أو توافر الخدمة دون انقطاع.</value>
   </data>
   <data name="You agree not to misuse the Services or help anyone else to do so. You must not:" xml:space="preserve">
     <value>أنت توافق على عدم استخدام الخدمة بشكل غير مشروع أو المساعدة في ذلك من قبل أي شخص آخر. لا يُسمح لك بـ:</value>

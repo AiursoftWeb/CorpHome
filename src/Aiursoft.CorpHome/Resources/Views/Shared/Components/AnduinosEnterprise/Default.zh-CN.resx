@@ -36,6 +36,9 @@
   <data name="Compliance Ready" xml:space="preserve">
     <value>合规就绪</value>
   </data>
+  <data name="Configure access controls and audit records for your requirements. Compliance depends on the applicable standard, deployment, and your operating procedures." xml:space="preserve">
+    <value>根据您的需求配置访问控制和审计记录。合规性取决于适用的标准、部署方式以及您的操作流程。</value>
+  </data>
   <data name="Custom Branding" xml:space="preserve">
     <value>自定义品牌</value>
   </data>
@@ -47,6 +50,9 @@
   </data>
   <data name="Enterprise customers get round-the-clock telephone support, ensuring critical issues are addressed immediately." xml:space="preserve">
     <value>企业客户可享受全天候电话支持，确保关键问题得到即时处理。</value>
+  </data>
+  <data name="Enterprise services add deployment, customization, and support to the community edition. Support coverage, including any 7×24 on-call service, is defined in your agreement." xml:space="preserve">
+    <value>企业服务为社区版提供部署、定制和支持服务。支持范围（包括任何 7×24 全天候待命服务）以您的协议为准。</value>
   </data>
   <data name="Freedom and enterprise service don&apos;t conflict." xml:space="preserve">
     <value>自由与企业服务并不冲突。</value>
@@ -63,11 +69,17 @@
   <data name="Meet industry compliance requirements with auditable configurations and enterprise-grade controls." xml:space="preserve">
     <value>通过可审计的配置和企业级控制，满足行业合规要求。</value>
   </data>
+  <data name="Monitor supported endpoints and configure the remote-management integrations specified in your deployment proposal." xml:space="preserve">
+    <value>监控受支持的终端，并配置部署方案中指定的远程管理集成。</value>
+  </data>
   <data name="On-premises Package Repository" xml:space="preserve">
     <value>本地包仓库</value>
   </data>
   <data name="Private Package Repository" xml:space="preserve">
     <value>私有软件包仓库</value>
+  </data>
+  <data name="Where included in your agreement, round-the-clock incident intake and escalation are available. Response targets depend on incident severity; resolution time is not guaranteed." xml:space="preserve">
+    <value>如协议包含此项服务，您可全天候提交事件并申请升级处理。响应目标取决于事件的严重程度；不保证问题解决时间。</value>
   </data>
 
 </root>

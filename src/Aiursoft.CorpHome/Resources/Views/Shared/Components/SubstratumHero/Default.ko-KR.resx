@@ -33,6 +33,9 @@
   <data name="Contact Us" xml:space="preserve">
     <value>문의하기</value>
   </data>
+  <data name="Control data and permissions for locally deployed services. Hosted services and support access are governed by the agreed deployment and authorization." xml:space="preserve">
+    <value>로컬에 배포된 서비스의 데이터와 권한을 관리합니다. 호스팅 서비스와 지원을 위한 접근은 합의된 배포 및 권한 부여 조건에 따라 관리됩니다.</value>
+  </data>
   <data name="Designed to run offline. Perfect for high-security environments with no internet dependency." xml:space="preserve">
     <value>오프라인 실행을 위해 설계되었습니다. 인터넷 의존성이 없는 고보안 환경에 완벽합니다.</value>
   </data>
@@ -41,6 +44,9 @@
   </data>
   <data name="Get unified endpoint management (UEM), identity management (IAM), and collaboration tools (OA) in one package. All on your local servers!" xml:space="preserve">
     <value>단일 패키지로 통합 엔드포인트 관리 (UEM), 신원 관리 (IAM), 및 협업 도구 (OA) 를 제공하며, 모든 것을 로컬 서버에서 실행합니다!</value>
+  </data>
+  <data name="Local services can operate on an isolated network when packages, models, and dependencies are provisioned locally. Hosted email, cloud management, and external APIs require connectivity." xml:space="preserve">
+    <value>패키지, 모델, 종속 항목을 로컬에 마련하면 로컬 서비스는 격리된 네트워크에서 운영할 수 있습니다. 호스팅 이메일, 클라우드 관리, 외부 API를 사용하려면 네트워크 연결이 필요합니다.</value>
   </data>
   <data name="Own Your Data" xml:space="preserve">
     <value>당신의 데이터를 소유하세요</value>

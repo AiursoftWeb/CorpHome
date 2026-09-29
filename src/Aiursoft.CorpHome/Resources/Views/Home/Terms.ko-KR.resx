@@ -60,11 +60,17 @@
   <data name="Aiursoft provides enterprise IT infrastructure solutions built upon open-source technologies (e.g., Linux, Nextcloud, Mailcow, Authentik, GitLab)." xml:space="preserve">
     <value>Aiursoft는 오픈소스 기술(예: Linux, Nextcloud, Mailcow, Authentik, GitLab)을 기반으로 한 기업용 IT 인프라 솔루션을 제공합니다.</value>
   </data>
+  <data name="Aiursoft software, including deployment scripts and Template orchestration code, is provided under its published open-source licenses. Copyright ownership does not restrict the rights granted by those licenses. Third-party software retains its respective licenses. Aiursoft names, logos, and branding are separate from software licensing; modified distributions must not be presented as official products." xml:space="preserve">
+    <value>배포 스크립트와 Template 오케스트레이션 코드를 포함한 Aiursoft 소프트웨어는 공표된 오픈 소스 라이선스에 따라 제공됩니다. 저작권 소유권은 해당 라이선스에 부여된 권리를 제한하지 않습니다. 타사 소프트웨어에는 각 소프트웨어에 해당하는 라이선스가 적용됩니다. Aiursoft의 이름, 로고 및 브랜드는 소프트웨어 라이선스와 별개이며, 수정된 배포본을 공식 제품으로 표시해서는 안 됩니다.</value>
+  </data>
   <data name="All fees are exclusive of applicable taxes, levies, or duties imposed by taxing authorities, and you shall be responsible for payment of all such taxes." xml:space="preserve">
     <value>모든 수수료는 세무 당국이 부과하는 적용 가능한 세금, 수수료 또는 관세를 제외한 금액이며, 이러한 세금 전부에 대한 납부 책임은 귀하가 지게 됩니다.</value>
   </data>
   <data name="All payments are securely processed by our third-party payment gateway, Stripe. Aiursoft does not collect, process, or store your full credit card information on our servers." xml:space="preserve">
     <value>모든 결제는 당사의 제3자 결제 게이트웨이인 Stripe를 통해 안전하게 처리됩니다. Aiursoft는 귀하의 전체 신용카드 정보를 서버에 수집하거나 처리하거나 저장하지 않습니다.</value>
+  </data>
+  <data name="An isolated deployment requires local packages, models, identity services, and other dependencies. Hosted email, cloud management, and external model APIs require connectivity and are outside the isolated environment. These services and their data flows must be agreed before activation." xml:space="preserve">
+    <value>격리된 환경에 배포하려면 로컬 패키지, 모델, ID 서비스 및 기타 종속 항목이 필요합니다. 호스팅 이메일, 클라우드 관리 및 외부 모델 API를 사용하려면 연결이 필요하므로 격리된 환경에서는 사용할 수 없습니다. 이러한 서비스와 데이터 흐름은 활성화 전에 합의해야 합니다.</value>
   </data>
   <data name="Any unauthorized access to your on-premise servers (for Startup/Enterprise plans)." xml:space="preserve">
     <value>시작/Enterprise 플랜용 귀하의 온프레미스 서버에 대한 모든 무단 접근.</value>
@@ -96,6 +102,9 @@
   <data name="Email:" xml:space="preserve">
     <value>이메일:</value>
   </data>
+  <data name="Enterprise services do not automatically extend an operating-system release&apos;s published security-update lifecycle. AnduinOS 2.0 standard support ends in April 2031. Your service agreement specifies included systems, supported devices, management integrations, maintenance responsibilities, and service duration." xml:space="preserve">
+    <value>엔터프라이즈 서비스가 운영 체제 릴리스의 공표된 보안 업데이트 지원 기간을 자동으로 연장하는 것은 아닙니다. AnduinOS 2.0의 표준 지원은 2031년 4월에 종료됩니다. 서비스 계약에는 포함되는 시스템, 지원되는 장치, 관리 통합, 유지 관리 책임 및 서비스 기간이 명시됩니다.</value>
+  </data>
   <data name="For On-Premise plans requiring a One-Time Setup Fee, this fee covers the manual labor of our architects (e.g., network configuration, Docker deployment, Yubikey integration). Setup fees are strictly non-refundable once the deployment and configuration process has commenced." xml:space="preserve">
     <value>현장 설치형 계획에서 일회성 설정 비용이 필요한 경우, 이 비용은 our architects의 수작업 노동(예: 네트워크 구성, Docker 배포, Yubikey 통합)을 포함합니다. 설정 비용은 배포 및 구성 프로세스가 시작된 후에는 절대 환불되지 않습니다.</value>
   </data>
@@ -113,6 +122,9 @@
   </data>
   <data name="Last Updated: March 2026" xml:space="preserve">
     <value>마지막 업데이트: 2026년 3월</value>
+  </data>
+  <data name="Last Updated: September 2026" xml:space="preserve">
+    <value>최종 업데이트: 2026년 9월</value>
   </data>
   <data name="No Pro-Rated Refunds:" xml:space="preserve">
     <value>환불 불가 (정액제 환불 없음):</value>
@@ -188,6 +200,9 @@
   </data>
   <data name="What you are purchasing from Aiursoft is the hosting, automated deployment, maintenance, priority support, and enterprise integration of these tools." xml:space="preserve">
     <value>Aiursoft에서 구매하고 계시는 것은 이러한 도구의 호스팅, 자동 배포, 유지보수, 우선 지원 및 기업 통합입니다.</value>
+  </data>
+  <data name="Where a plan includes 7×24 on-call support, this means incident intake and escalation. The service agreement defines incident severity, response targets, support channels, maintenance windows, and exclusions. It does not guarantee immediate resolution or uninterrupted availability." xml:space="preserve">
+    <value>요금제에 7×24 온콜 지원이 포함된 경우, 이는 장애 접수 및 상위 단계로의 에스컬레이션을 의미합니다. 서비스 계약에는 장애 심각도, 응답 목표, 지원 채널, 유지보수 시간 및 제외 사항이 명시됩니다. 즉각적인 해결이나 서비스의 중단 없는 가용성을 보장하지는 않습니다.</value>
   </data>
   <data name="You agree not to misuse the Services or help anyone else to do so. You must not:" xml:space="preserve">
     <value>서비스를 부당하게 사용하지 않으며, 타인의 부당한 사용을 도와서는 안 된다. 다음을 해서는 안 된다:</value>

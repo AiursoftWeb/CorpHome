@@ -33,6 +33,9 @@
   <data name="Contact Us" xml:space="preserve">
     <value>联系我们</value>
   </data>
+  <data name="Control data and permissions for locally deployed services. Hosted services and support access are governed by the agreed deployment and authorization." xml:space="preserve">
+    <value>管理本地部署服务的数据和权限。托管服务及支持访问权限按照双方约定的部署方式和授权规则进行管理。</value>
+  </data>
   <data name="Designed to run offline. Perfect for high-security environments with no internet dependency." xml:space="preserve">
     <value>专为离线运行设计，适用于无需互联网依赖的高安全环境。</value>
   </data>
@@ -41,6 +44,9 @@
   </data>
   <data name="Get unified endpoint management (UEM), identity management (IAM), and collaboration tools (OA) in one package. All on your local servers!" xml:space="preserve">
     <value>在一个包中获取统一的终端管理 (UEM)、身份管理 (IAM) 和协作工具 (OA)。所有数据均在您的本地服务器上！</value>
+  </data>
+  <data name="Local services can operate on an isolated network when packages, models, and dependencies are provisioned locally. Hosted email, cloud management, and external APIs require connectivity." xml:space="preserve">
+    <value>如果软件包、模型和依赖项均在本地部署，本地服务可以在隔离网络中运行。托管电子邮件、云管理和外部 API 则需要网络连接。</value>
   </data>
   <data name="Own Your Data" xml:space="preserve">
     <value>掌控您的数据</value>

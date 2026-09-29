@@ -33,8 +33,14 @@
   <data name="Advanced" xml:space="preserve">
     <value>متقدمة</value>
   </data>
+  <data name="Agree the device count, supported platforms, management integrations, and acceptance criteria before deployment." xml:space="preserve">
+    <value>اتفقوا على عدد الأجهزة والمنصات المدعومة وتكاملات الإدارة ومعايير القبول قبل النشر.</value>
+  </data>
   <data name="All the power of open-source, backed by enterprise-grade support, management tools, and customisation capabilities." xml:space="preserve">
     <value>جميع قوة المصادر المفتوحة، مدعومة بالدعم وإدارة الأدوات وقدرات التخصيص المصممة للقطاع الخاص.</value>
+  </data>
+  <data name="AnduinOS 2.0 standard support ends in April 2031, as for the community edition. Enterprise services do not extend this release&apos;s security-update lifecycle. Service scope and subscription duration are specified in your agreement." xml:space="preserve">
+    <value>ينتهي الدعم القياسي لنظام AnduinOS 2.0 في أبريل 2031، وذلك بالنسبة إلى إصدار المجتمع. ولا تؤدي خدمات المؤسسات إلى تمديد دورة حياة التحديثات الأمنية لهذا الإصدار. ويُحدَّد نطاق الخدمات ومدة الاشتراك في اتفاقيتك.</value>
   </data>
   <data name="AnduinOS device" xml:space="preserve">
     <value>جهاز AnduinOS</value>
@@ -78,6 +84,9 @@
   <data name="Apkg is a declarative APT repository platform that lets you host signed Debian repositories, mirror upstream archives, and publish your own .apkg packages — all fully on-premise. Integrates seamlessly with AnduinOS for painless apt update &amp;&amp; apt install workflows across your entire fleet." xml:space="preserve">
     <value>Apkg هو منصة مستودع APT إعلانية تتيح لك استضافة مستودعات Debian الموقعة، وإنشاء مرايا للأرشيفات المصدرية، ونشر حزمك الخاصة بصيغة .apkg — وكل ذلك بشكل كامل داخل موقعك (On-Premise). يتم تكامله بسلاسة مع AnduinOS لتمكين سير عمل apt update &amp;&amp; apt install بسلاسة عبر أسطولك بأكمله.</value>
   </data>
+  <data name="April" xml:space="preserve">
+    <value>أبريل</value>
+  </data>
   <data name="Architecture" xml:space="preserve">
     <value>البنية</value>
   </data>
@@ -114,6 +123,9 @@
   <data name="Bulk operations across your entire fleet" xml:space="preserve">
     <value>عمليات مجمعة عبر الأسطول بأكمله</value>
   </data>
+  <data name="Bulk operations for supported devices and integrations" xml:space="preserve">
+    <value>تنفيذ العمليات على دفعات للأجهزة والتكاملات المدعومة</value>
+  </data>
   <data name="Community Site" xml:space="preserve">
     <value>موقع المجتمع</value>
   </data>
@@ -134,6 +146,9 @@
   </data>
   <data name="Containerized" xml:space="preserve">
     <value>المُعبَّأة</value>
+  </data>
+  <data name="Content updates and device monitoring use the management service selected for your deployment. Cloud management requires connectivity; some maintenance may require on-site access." xml:space="preserve">
+    <value>تتم إدارة تحديثات المحتوى ومراقبة الأجهزة عبر خدمة الإدارة المحددة لعملية النشر لديك. تتطلب الإدارة السحابية الاتصال بالإنترنت؛ وقد تتطلب بعض أعمال الصيانة الوصول إلى الموقع.</value>
   </data>
   <data name="Control and configure thousands of devices and policies efficiently from a single dashboard." xml:space="preserve">
     <value>التحكم في آلاف الأجهزة والسياسات وإعدادها بكفاءة من لوحة معلومات واحدة.</value>
@@ -174,6 +189,9 @@
   <data name="Desktop Environment" xml:space="preserve">
     <value>بيئة سطح المكتب</value>
   </data>
+  <data name="Device Management Integrations" xml:space="preserve">
+    <value>تكاملات إدارة الأجهزة</value>
+  </data>
   <data name="digital signage and kiosk terminals" xml:space="preserve">
     <value>اللافتات الرقمية ومحطات kiosks</value>
   </data>
@@ -201,11 +219,17 @@
   <data name="Edge AI" xml:space="preserve">
     <value>الذكاء الاصطناعي الطرفي</value>
   </data>
+  <data name="End of Standard Support" xml:space="preserve">
+    <value>نهاية فترة الدعم القياسي</value>
+  </data>
   <data name="End of Support" xml:space="preserve">
     <value>نهاية الدعم</value>
   </data>
   <data name="Enroll" xml:space="preserve">
     <value>التسجيل</value>
+  </data>
+  <data name="Enroll in your agreed management service" xml:space="preserve">
+    <value>سجّل في خدمة الإدارة المتفق عليها</value>
   </data>
   <data name="Enterprise" xml:space="preserve">
     <value>المؤسسية</value>
@@ -215,6 +239,9 @@
   </data>
   <data name="Enterprise Services" xml:space="preserve">
     <value>خدمات المؤسسات</value>
+  </data>
+  <data name="Enterprise support covers the services and devices listed in your agreement. Where purchased, 7×24 on-call support provides incident intake and escalation; severity levels, response targets, maintenance windows, and exclusions are defined in the service agreement." xml:space="preserve">
+    <value>يشمل دعم المؤسسات الخدمات والأجهزة المذكورة في اتفاقيتك. وفي حال شراء هذه الخدمة، يوفّر الدعم عند الطلب على مدار الساعة طوال أيام الأسبوع استقبال البلاغات وتصعيدها؛ وتُحدَّد مستويات الخطورة وأهداف الاستجابة ونوافذ الصيانة والاستثناءات في اتفاقية الخدمة.</value>
   </data>
   <data name="Enterprise-grade" xml:space="preserve">
     <value>على مستوى المؤسسات</value>
@@ -267,6 +294,9 @@
   <data name="HDR Support" xml:space="preserve">
     <value>دعم HDR</value>
   </data>
+  <data name="Host your own internal Apkg repository behind your firewall. Distribute approved updates and in-house software across your local network. Isolated deployments require package updates to be imported into the internal repository." xml:space="preserve">
+    <value>استضف مستودع Apkg داخليًا خاصًا بك خلف جدار الحماية. وزّع التحديثات المعتمدة والبرامج المطوّرة داخليًا عبر شبكتك المحلية. تتطلب عمليات النشر المعزولة استيراد تحديثات الحزم إلى المستودع الداخلي.</value>
+  </data>
   <data name="Host your own internal Apkg repository behind your firewall. Selectively push updates, enforce compliance policies, and distribute custom in-house software — all while keeping every device consistently up to date, fully offline." xml:space="preserve">
     <value>استضف مستودع Apkg الداخلي الخاص بك خلف جدار حماية شبكتك. قم بإرسال التحديثات بشكل انتقائي، وإنفاذ سياسات الامتثال، وتوزيع البرمجيات الداخلية المخصصة — وكل ذلك مع الحفاظ على تحديث جميع الأجهزة باستمرار، وبدون اتصال بالإنترنت.</value>
   </data>
@@ -275,6 +305,9 @@
   </data>
   <data name="Init System" xml:space="preserve">
     <value>نظام التهيئة</value>
+  </data>
+  <data name="Install on supported hardware, configure security and update policies, and enroll devices in the management services included in your deployment." xml:space="preserve">
+    <value>ثبّت النظام على الأجهزة المدعومة، واضبط سياسات الأمان والتحديثات، وسجّل الأجهزة في خدمات الإدارة المضمّنة في عملية النشر.</value>
   </data>
   <data name="Internal package distribution via apt" xml:space="preserve">
     <value>توزيع الحزم الداخلية عبر apt</value>
@@ -312,6 +345,9 @@
   <data name="LTS Support" xml:space="preserve">
     <value>دعم الإصدار طويل الأمد</value>
   </data>
+  <data name="Managed Update Rollouts" xml:space="preserve">
+    <value>إدارة طرح التحديثات</value>
+  </data>
   <data name="management for your fleet" xml:space="preserve">
     <value>إدارة لأسطولك</value>
   </data>
@@ -332,6 +368,9 @@
   </data>
   <data name="Monitoring" xml:space="preserve">
     <value>المراقبة</value>
+  </data>
+  <data name="Monitoring, remote configuration, and policy enforcement are separate integrations. Your deployment proposal specifies the supported devices and included capabilities." xml:space="preserve">
+    <value>تُعدّ المراقبة والتهيئة عن بُعد وتطبيق السياسات تكاملات منفصلة. ويحدّد مقترح النشر الأجهزة المدعومة والإمكانات المتضمنة.</value>
   </data>
   <data name="Multi-Node" xml:space="preserve">
     <value>متعدد العقد</value>
@@ -362,6 +401,9 @@
   </data>
   <data name="Performance" xml:space="preserve">
     <value>الأداء</value>
+  </data>
+  <data name="Plan and Deploy Your Fleet" xml:space="preserve">
+    <value>خطّط لنشر أجهزتك</value>
   </data>
   <data name="Ports" xml:space="preserve">
     <value>المنافذ</value>
@@ -405,6 +447,9 @@
   <data name="Remote configuration and policy enforcement" xml:space="preserve">
     <value>التكوين عن بُعد وإنفاذ السياسات</value>
   </data>
+  <data name="Remote configuration and policy integration where agreed" xml:space="preserve">
+    <value>تكامل الإعدادات عن بُعد والسياسات، حسب الاتفاق</value>
+  </data>
   <data name="Remote content management" xml:space="preserve">
     <value>إدارة المحتوى عن بُعد</value>
   </data>
@@ -437,6 +482,9 @@
   </data>
   <data name="Secure Boot" xml:space="preserve">
     <value>الإقلاع الآمن</value>
+  </data>
+  <data name="Serve packages internally using standard apt. Isolated networks require upstream packages and updates to be imported into the local repository." xml:space="preserve">
+    <value>استضف الحزم داخليًا باستخدام apt القياسي. تتطلب الشبكات المعزولة استيراد الحزم والتحديثات من المصادر الخارجية إلى المستودع المحلي.</value>
   </data>
   <data name="Set up your system in under 5 minutes" xml:space="preserve">
     <value>قم بإعداد نظامك في أقل من 5 دقائق</value>
@@ -503,6 +551,9 @@
   </data>
   <data name="UI Toolkit" xml:space="preserve">
     <value>مجموعة أدوات واجهة المستخدم</value>
+  </data>
+  <data name="Update and restart policies are configured for your deployment. Test releases before rollout and schedule maintenance for changes that require downtime." xml:space="preserve">
+    <value>تم إعداد سياسات التحديث وإعادة التشغيل لنشر نظامك. اختبر الإصدارات قبل تعميمها، وجدول أعمال الصيانة للتغييرات التي تتطلب توقف الخدمة.</value>
   </data>
   <data name="Update content, push configurations, and monitor device health — all from the cloud. No need for on-site visits." xml:space="preserve">
     <value>تحديث المحتوى، وإرسال إعدادات التكوين، ومراقبة صحة الأجهزة — كل ذلك من السحابة الإلكترونية. لا حاجة لزيارات الموقع.</value>

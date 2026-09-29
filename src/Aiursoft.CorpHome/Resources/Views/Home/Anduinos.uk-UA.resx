@@ -30,8 +30,14 @@
   <data name="Advanced" xml:space="preserve">
     <value>Додатково</value>
   </data>
+  <data name="Agree the device count, supported platforms, management integrations, and acceptance criteria before deployment." xml:space="preserve">
+    <value>Узгодьте кількість пристроїв, підтримувані платформи, інтеграції з системами керування та критерії приймання перед розгортанням.</value>
+  </data>
   <data name="All the power of open-source, backed by enterprise-grade support, management tools, and customisation capabilities." xml:space="preserve">
     <value>Вся потужність відкритого коду, підкріплена корпоративною підтримкою, інструментами управління та можливостями налаштування.</value>
+  </data>
+  <data name="AnduinOS 2.0 standard support ends in April 2031, as for the community edition. Enterprise services do not extend this release&apos;s security-update lifecycle. Service scope and subscription duration are specified in your agreement." xml:space="preserve">
+    <value>Стандартна підтримка AnduinOS 2.0 завершується у квітні 2031 року, як і для редакції для спільноти. Корпоративні послуги не подовжують період отримання оновлень безпеки для цього випуску. Обсяг послуг і тривалість підписки визначені у вашій угоді.</value>
   </data>
   <data name="AnduinOS device" xml:space="preserve">
     <value>пристрій AnduinOS</value>
@@ -72,6 +78,9 @@
   <data name="Apkg is a declarative APT repository platform that lets you host signed Debian repositories, mirror upstream archives, and publish your own .apkg packages — all fully on-premise. Integrates seamlessly with AnduinOS for painless apt update &amp;&amp; apt install workflows across your entire fleet." xml:space="preserve">
     <value>Apkg — це декларативна платформа репозиторіїв APT, яка дозволяє розміщувати підписані Debian-репозиторії, дзеркалити вихідні архіви та публікувати власні пакети .apkg — повністю на власній інфраструктурі (on-premise). Інтегрується з AnduinOS для безпечної роботи з командами apt update &amp;&amp; apt install на всій вашій флотилії пристроїв.</value>
   </data>
+  <data name="April" xml:space="preserve">
+    <value>квітня</value>
+  </data>
   <data name="Architecture" xml:space="preserve">
     <value>Архітектура</value>
   </data>
@@ -108,6 +117,9 @@
   <data name="Bulk operations across your entire fleet" xml:space="preserve">
     <value>Масові операції для всього парку пристроїв</value>
   </data>
+  <data name="Bulk operations for supported devices and integrations" xml:space="preserve">
+    <value>Масові операції для підтримуваних пристроїв та інтеграцій</value>
+  </data>
   <data name="Community Site" xml:space="preserve">
     <value>Сайт спільноти</value>
   </data>
@@ -128,6 +140,9 @@
   </data>
   <data name="Containerized" xml:space="preserve">
     <value>У контейнері</value>
+  </data>
+  <data name="Content updates and device monitoring use the management service selected for your deployment. Cloud management requires connectivity; some maintenance may require on-site access." xml:space="preserve">
+    <value>Оновлення вмісту та моніторинг пристроїв здійснюються за допомогою служби керування, вибраної для вашого розгортання. Для керування через хмару потрібне підключення до мережі; для деяких робіт з обслуговування може знадобитися доступ на місці.</value>
   </data>
   <data name="Control and configure thousands of devices and policies efficiently from a single dashboard." xml:space="preserve">
     <value>Ефективно керуйте та налаштовуйте тисячі пристроїв і політик з єдиної панелі керування.</value>
@@ -168,6 +183,9 @@
   <data name="Desktop Environment" xml:space="preserve">
     <value>Графічне середовище</value>
   </data>
+  <data name="Device Management Integrations" xml:space="preserve">
+    <value>Інтеграції для керування пристроями</value>
+  </data>
   <data name="digital signage and kiosk terminals" xml:space="preserve">
     <value>цифрове мультимедіа та кіоскові термінали</value>
   </data>
@@ -195,11 +213,17 @@
   <data name="Edge AI" xml:space="preserve">
     <value>Штучний інтелект на кінцевих пристроях</value>
   </data>
+  <data name="End of Standard Support" xml:space="preserve">
+    <value>Завершення стандартної підтримки</value>
+  </data>
   <data name="End of Support" xml:space="preserve">
     <value>Кінець підтримки</value>
   </data>
   <data name="Enroll" xml:space="preserve">
     <value>Реєстрація</value>
+  </data>
+  <data name="Enroll in your agreed management service" xml:space="preserve">
+    <value>Підключіться до узгодженої з вами служби керування</value>
   </data>
   <data name="Enterprise" xml:space="preserve">
     <value>Enterprise</value>
@@ -209,6 +233,9 @@
   </data>
   <data name="Enterprise Services" xml:space="preserve">
     <value>Корпоративні послуги</value>
+  </data>
+  <data name="Enterprise support covers the services and devices listed in your agreement. Where purchased, 7×24 on-call support provides incident intake and escalation; severity levels, response targets, maintenance windows, and exclusions are defined in the service agreement." xml:space="preserve">
+    <value>Підтримка для корпоративних клієнтів охоплює послуги й пристрої, зазначені у вашій угоді. Якщо придбано, цілодобова підтримка за викликом приймає звернення щодо інцидентів і передає їх на вищий рівень; рівні критичності, цільові строки реагування, вікна технічного обслуговування та винятки визначені в угоді про надання послуг.</value>
   </data>
   <data name="Enterprise-grade" xml:space="preserve">
     <value>Корпоративного рівня</value>
@@ -258,6 +285,9 @@
   <data name="HDR Support" xml:space="preserve">
     <value>Підтримка HDR</value>
   </data>
+  <data name="Host your own internal Apkg repository behind your firewall. Distribute approved updates and in-house software across your local network. Isolated deployments require package updates to be imported into the internal repository." xml:space="preserve">
+    <value>Розгорніть власний внутрішній репозиторій Apkg за міжмережевим екраном. Розповсюджуйте схвалені оновлення та внутрішнє програмне забезпечення у своїй локальній мережі. Для ізольованих розгортань оновлення пакунків потрібно імпортувати до внутрішнього репозиторію.</value>
+  </data>
   <data name="Host your own internal Apkg repository behind your firewall. Selectively push updates, enforce compliance policies, and distribute custom in-house software — all while keeping every device consistently up to date, fully offline." xml:space="preserve">
     <value>Розмістіть власний внутрішній репозиторій Apkg за вашим брандмауером. Вибірково надсилайте оновлення, забезпечуйте дотримання політик відповідності та поширюйте власне програмне забезпечення — все це з одночасним підтриманням актуальності кожного пристрою в повністю автономному режимі.</value>
   </data>
@@ -266,6 +296,9 @@
   </data>
   <data name="Init System" xml:space="preserve">
     <value>Система ініціалізації</value>
+  </data>
+  <data name="Install on supported hardware, configure security and update policies, and enroll devices in the management services included in your deployment." xml:space="preserve">
+    <value>Установіть систему на підтримуване обладнання, налаштуйте політики безпеки й оновлень та зареєструйте пристрої в службах керування, передбачених вашим розгортанням.</value>
   </data>
   <data name="Internal package distribution via apt" xml:space="preserve">
     <value>Внутрішнє розповсюдження пакетів через apt</value>
@@ -303,6 +336,9 @@
   <data name="LTS Support" xml:space="preserve">
     <value>Довгострокова підтримка</value>
   </data>
+  <data name="Managed Update Rollouts" xml:space="preserve">
+    <value>Кероване розгортання оновлень</value>
+  </data>
   <data name="management for your fleet" xml:space="preserve">
     <value>управління для вашого автопарку</value>
   </data>
@@ -323,6 +359,9 @@
   </data>
   <data name="Monitoring" xml:space="preserve">
     <value>Моніторинг</value>
+  </data>
+  <data name="Monitoring, remote configuration, and policy enforcement are separate integrations. Your deployment proposal specifies the supported devices and included capabilities." xml:space="preserve">
+    <value>Моніторинг, віддалене налаштування та застосування політик — це окремі інтеграції. У вашій пропозиції щодо розгортання зазначено підтримувані пристрої та включені можливості.</value>
   </data>
   <data name="Multi-Node" xml:space="preserve">
     <value>Багатовузловий</value>
@@ -353,6 +392,9 @@
   </data>
   <data name="Performance" xml:space="preserve">
     <value>Продуктивність</value>
+  </data>
+  <data name="Plan and Deploy Your Fleet" xml:space="preserve">
+    <value>Сплануйте розгортання своїх пристроїв</value>
   </data>
   <data name="Ports" xml:space="preserve">
     <value>Порти</value>
@@ -396,6 +438,9 @@
   <data name="Remote configuration and policy enforcement" xml:space="preserve">
     <value>Віддалена конфігурація та застосування політик</value>
   </data>
+  <data name="Remote configuration and policy integration where agreed" xml:space="preserve">
+    <value>Віддалене налаштування та інтеграція політик за домовленістю</value>
+  </data>
   <data name="Remote content management" xml:space="preserve">
     <value>Дистанційне управління вмістом</value>
   </data>
@@ -428,6 +473,9 @@
   </data>
   <data name="Secure Boot" xml:space="preserve">
     <value>Безпечний завантаження</value>
+  </data>
+  <data name="Serve packages internally using standard apt. Isolated networks require upstream packages and updates to be imported into the local repository." xml:space="preserve">
+    <value>Розміщуйте пакети у внутрішньому репозиторії за допомогою стандартного apt. Для ізольованих мереж потрібно імпортувати пакети з upstream-репозиторіїв і оновлення до локального репозиторію.</value>
   </data>
   <data name="Set up your system in under 5 minutes" xml:space="preserve">
     <value>Налаштуйте свою систему менше ніж за 5 хвилин</value>
@@ -494,6 +542,9 @@
   </data>
   <data name="UI Toolkit" xml:space="preserve">
     <value>Інструменти UI</value>
+  </data>
+  <data name="Update and restart policies are configured for your deployment. Test releases before rollout and schedule maintenance for changes that require downtime." xml:space="preserve">
+    <value>Для вашого розгортання налаштовано політики оновлення та перезавантаження. Перевіряйте випуски перед розгортанням і плануйте технічне обслуговування для змін, які потребують простою.</value>
   </data>
   <data name="Update content, push configurations, and monitor device health — all from the cloud. No need for on-site visits." xml:space="preserve">
     <value>Оновлюйте вміст, передавайте конфігурації та моніторьте стан пристроїв — все з хмари. Немає потреби у виїздах на об’єкт.</value>

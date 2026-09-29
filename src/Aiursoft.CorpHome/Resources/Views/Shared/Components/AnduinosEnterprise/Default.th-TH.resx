@@ -36,6 +36,9 @@
   <data name="Compliance Ready" xml:space="preserve">
     <value>พร้อมตามกฎระเบียบ</value>
   </data>
+  <data name="Configure access controls and audit records for your requirements. Compliance depends on the applicable standard, deployment, and your operating procedures." xml:space="preserve">
+    <value>กำหนดค่าการควบคุมการเข้าถึงและบันทึกการตรวจสอบให้ตรงตามข้อกำหนดของคุณ การปฏิบัติตามข้อกำหนดขึ้นอยู่กับมาตรฐานที่เกี่ยวข้อง การนำไปใช้งาน และขั้นตอนการปฏิบัติงานของคุณ</value>
+  </data>
   <data name="Custom Branding" xml:space="preserve">
     <value>การปรับแต่งแบรนด์</value>
   </data>
@@ -47,6 +50,9 @@
   </data>
   <data name="Enterprise customers get round-the-clock telephone support, ensuring critical issues are addressed immediately." xml:space="preserve">
     <value>ลูกค้าองค์กรจะได้รับบริการสนับสนุนทางโทรศัพท์ตลอด 24 ชั่วโมง เพื่อให้แน่ใจว่าปัญหาสำคัญได้รับการแก้ไขทันที</value>
+  </data>
+  <data name="Enterprise services add deployment, customization, and support to the community edition. Support coverage, including any 7×24 on-call service, is defined in your agreement." xml:space="preserve">
+    <value>บริการระดับองค์กรช่วยเพิ่มบริการติดตั้ง ปรับแต่ง และสนับสนุนให้กับรุ่น Community โดยขอบเขตการสนับสนุน รวมถึงบริการรับแจ้งเหตุฉุกเฉินตลอด 24 ชั่วโมง 7 วันต่อสัปดาห์ (หากมี) จะระบุไว้ในข้อตกลงของคุณ</value>
   </data>
   <data name="Freedom and enterprise service don&apos;t conflict." xml:space="preserve">
     <value>เสรีภาพและบริการองค์กรไม่ขัดแย้งกัน</value>
@@ -63,11 +69,17 @@
   <data name="Meet industry compliance requirements with auditable configurations and enterprise-grade controls." xml:space="preserve">
     <value>ปฏิบัติตามข้อกำหนดการปฏิบัติตามอุตสาหกรรมด้วยการกำหนดค่าที่ตรวจสอบได้และการควบคุมระดับองค์กร</value>
   </data>
+  <data name="Monitor supported endpoints and configure the remote-management integrations specified in your deployment proposal." xml:space="preserve">
+    <value>ตรวจสอบปลายทางที่รองรับ และกำหนดค่าการเชื่อมต่อกับระบบจัดการระยะไกลตามที่ระบุไว้ในข้อเสนอการติดตั้งใช้งานของคุณ</value>
+  </data>
   <data name="On-premises Package Repository" xml:space="preserve">
     <value>ที่เก็บแพ็กเกจแบบออน-โพรมิส</value>
   </data>
   <data name="Private Package Repository" xml:space="preserve">
     <value>คลังแพ็กเกจส่วนตัว</value>
+  </data>
+  <data name="Where included in your agreement, round-the-clock incident intake and escalation are available. Response targets depend on incident severity; resolution time is not guaranteed." xml:space="preserve">
+    <value>หากระบุไว้ในข้อตกลงของคุณ คุณสามารถแจ้งเหตุขัดข้องและยกระดับการแจ้งเหตุได้ตลอด 24 ชั่วโมง เป้าหมายเวลาในการตอบสนองขึ้นอยู่กับความรุนแรงของเหตุขัดข้อง ทั้งนี้ไม่รับประกันระยะเวลาในการแก้ไขปัญหา</value>
   </data>
 
 </root>

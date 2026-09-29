@@ -21,6 +21,9 @@
       <data name="24/7 dedicated support line" xml:space="preserve">
     <value>Layanan dukungan khusus 24/7</value>
   </data>
+  <data name="24/7 incident intake and escalation where contracted; scope and response targets follow the service agreement" xml:space="preserve">
+    <value>Penerimaan dan eskalasi insiden 24/7 jika tercantum dalam kontrak; cakupan dan target waktu respons mengikuti perjanjian layanan</value>
+  </data>
   <data name="7×24 On-call Support" xml:space="preserve">
     <value>Dukungan On-call 7×24</value>
   </data>
@@ -71,6 +74,9 @@
   </data>
   <data name="Deployment &amp; Hosting" xml:space="preserve">
     <value>Penyebaran &amp; Peng-hosting</value>
+  </data>
+  <data name="Device policy integration with scope and supported platforms agreed before deployment" xml:space="preserve">
+    <value>Integrasi kebijakan perangkat dengan cakupan dan platform yang didukung disepakati sebelum penerapan</value>
   </data>
   <data name="DevOps &amp; Engineering" xml:space="preserve">
     <value>DevOps &amp; Engineering</value>

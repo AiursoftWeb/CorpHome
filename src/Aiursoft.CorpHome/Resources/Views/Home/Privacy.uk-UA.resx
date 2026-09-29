@@ -99,6 +99,9 @@
   <data name="For provisioning the underlying high-performance cloud infrastructure that powers our official websites and Cloud-Hosted (S1 Core) client instances." xml:space="preserve">
     <value>Для забезпечення базової хмарної інфраструктури високої продуктивності, яка забезпечує роботу наших офіційних вебсайтів та клієнтських екземплярів Cloud-Hosted (S1 Core).</value>
   </data>
+  <data name="For services deployed on your servers or private cloud, you control the infrastructure and access permissions. Aiursoft accesses these systems only within the authorization you grant for deployment, maintenance, or support. You can revoke that access. Separately selected hosted services remain subject to the cloud-hosted terms." xml:space="preserve">
+    <value>Для сервісів, розгорнутих на ваших серверах або в приватній хмарі, ви контролюєте інфраструктуру та права доступу. Aiursoft отримує доступ до цих систем лише в межах наданого вами дозволу на розгортання, обслуговування або підтримку. Ви можете відкликати цей доступ. До окремо вибраних послуг, що розміщуються в хмарі, продовжують застосовуватися умови для хмарних послуг.</value>
+  </data>
   <data name="If you choose to cancel a Cloud-Hosted subscription, your account will remain active until the end of the current billing cycle. Following the expiration of your subscription, we observe a strict 30-day grace period. After this 30-day period, all of your associated business data (emails, files, databases) will be permanently, irreversibly, and securely hard-deleted from our hosting infrastructure. We cannot recover data once this deletion process has occurred." xml:space="preserve">
     <value>Якщо ви вирішите скасувати підписку Cloud-Hosted, ваш акаунт залишатиметься активним до завершення поточного розрахункового циклу. Після закінчення дії підписки ми надаємо суворий 30-денний грейс-період. Після закінчення цього 30-денного періоду всі ваші пов&apos;язані бізнес-дані (електронна пошта, файли, бази даних) будуть остаточно, незворотним та безпечним чином видалені (hard-deleted) з нашої хмарної інфраструктури. Відновити дані після завершення цього процесу видалення неможливо.</value>
   </data>
@@ -110,6 +113,9 @@
   </data>
   <data name="Last Updated: March 2026" xml:space="preserve">
     <value>Останнє оновлення: березень 2026</value>
+  </data>
+  <data name="Last Updated: September 2026" xml:space="preserve">
+    <value>Останнє оновлення: вересень 2026 року</value>
   </data>
   <data name="Minimal Data Collection:" xml:space="preserve">
     <value>Мінімальний збір даних:</value>
@@ -189,6 +195,9 @@
   <data name="We do not share your personal information with external parties except where absolutely necessary to deliver our services. To operate effectively, we utilize the following trusted third-party sub-processors:" xml:space="preserve">
     <value>Ми не передаємо вашу особисту інформацію стороннім особам, за винятком випадків, коли це абсолютно необхідно для надання наших послуг. Для ефективної роботи ми використовуємо наступних перевірених субпроцесорів:</value>
   </data>
+  <data name="We do not use your private documents or communications to train our models or third-party models. Customer-requested local training requires explicit authorization and uses only the data you select. Local inference keeps model inputs within your deployment. If you choose an external model provider, prompts and selected content are sent to that provider under its terms; the provider and data flow must be agreed before activation." xml:space="preserve">
+    <value>Ми не використовуємо ваші приватні документи чи листування для навчання наших моделей або моделей третіх сторін. Навчання локальної моделі на запит клієнта потребує його чіткого дозволу та використовує лише вибрані ним дані. Під час локального виконання запити до моделі залишаються у вашому середовищі розгортання. Якщо ви оберете зовнішнього постачальника моделей, запити та вибраний вміст передаватимуться йому відповідно до його умов; постачальника та потік даних потрібно погодити до активації.</value>
+  </data>
   <data name="We do not, and will never, sell, rent, or lease your personal or business data to third parties." xml:space="preserve">
     <value>Ми не продаємо, не здаємо в оренду та не надаємо в оренду ваші особисті або бізнес-дані третім особам і ніколи цього не робитимемо.</value>
   </data>
@@ -200,6 +209,9 @@
   </data>
   <data name="When you register for an Aiursoft commercial account or engage with our sales team, we collect necessary contact details, including your name, your work email address, and your company name. This information is used strictly for account administration and communication." xml:space="preserve">
     <value>Коли ви реєструєте комерційний обліковий запис Aiursoft або встановлюєте зв&apos;язок із нашою командою продажів, ми збираємо необхідні контактні дані, включаючи ваше ім&apos;я, вашу робочу електронну адресу та назву вашої компанії. Ця інформація використовується виключно для адміністрування облікового запису та комунікації.</value>
+  </data>
+  <data name="When you utilize our cloud-hosted infrastructure (such as Mailcow, Nextcloud, or Authentik instances managed on our servers), AIURSOFT LIMITED acts as a Data Processor. You remain the Data Controller. Infrastructure administrators may have technical access to hosted systems, databases, and backups. We restrict access to authorized personnel and service duties. Access to business content for a support request requires your explicit authorization, is limited to that request, and is revoked when the work ends." xml:space="preserve">
+    <value>Коли ви користуєтеся нашою хмарною інфраструктурою (наприклад, екземплярами Mailcow, Nextcloud або Authentik, розміщеними на наших серверах), AIURSOFT LIMITED виступає Обробником даних. Ви залишаєтеся Контролером даних. Адміністратори інфраструктури можуть мати технічний доступ до розміщених систем, баз даних і резервних копій. Ми обмежуємо доступ уповноваженим працівникам і лише для виконання службових обов’язків. Доступ до бізнес-вмісту для виконання запиту до служби підтримки потребує вашого прямого дозволу, обмежується цим запитом і відкликається після завершення робіт.</value>
   </data>
   <data name="When you utilize our cloud-hosted infrastructure (such as Mailcow, Nextcloud, or Authentik instances managed on our servers), AIURSOFT LIMITED acts as a Data Processor. You remain the Data Controller. We host and maintain the infrastructure to ensure uptime and security, but our personnel possess absolutely zero access to your underlying business data (e.g., the contents of your emails, your stored files, or your internal chat logs) unless you explicitly grant us temporary, revocable access for the sole purpose of resolving a technical support ticket you have initiated." xml:space="preserve">
     <value>Коли ви використовуєте нашу хмарну інфраструктуру (наприклад, екземпляри Mailcow, Nextcloud або Authentik, що керуються на наших серверах), AIURSOFT LIMITED виступає як Обробник даних. Ви залишаєтеся Контролером даних. Ми розміщуємо та обслуговуємо інфраструктуру для забезпечення безперебійної роботи та безпеки, але наш персонал не має абсолютно жодного доступу до ваших базових бізнес-даних (наприклад, вмісту ваших електронних листів, збережених файлів або внутрішніх журналів чату), якщо ви явно не надасте нам тимчасовий, відкликаємий доступ виключно з метою вирішення технічного запиту на підтримку, який ви ініціювали.</value>

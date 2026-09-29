@@ -99,6 +99,9 @@
   <data name="For provisioning the underlying high-performance cloud infrastructure that powers our official websites and Cloud-Hosted (S1 Core) client instances." xml:space="preserve">
     <value>Til provisioning af den underliggende højtydende cloud-infrastruktur, der driver vores officielle websteder og Cloud-Hosted (S1 Core) klientinstanser.</value>
   </data>
+  <data name="For services deployed on your servers or private cloud, you control the infrastructure and access permissions. Aiursoft accesses these systems only within the authorization you grant for deployment, maintenance, or support. You can revoke that access. Separately selected hosted services remain subject to the cloud-hosted terms." xml:space="preserve">
+    <value>For tjenester, der er installeret på dine servere eller i din private cloud, bestemmer du over infrastrukturen og adgangsrettighederne. Aiursoft får kun adgang til disse systemer inden for rammerne af den tilladelse, du giver til installation, vedligeholdelse eller support. Du kan tilbagekalde adgangen. Separat valgte hostede tjenester er fortsat underlagt vilkårene for cloud-hostede tjenester.</value>
+  </data>
   <data name="If you choose to cancel a Cloud-Hosted subscription, your account will remain active until the end of the current billing cycle. Following the expiration of your subscription, we observe a strict 30-day grace period. After this 30-day period, all of your associated business data (emails, files, databases) will be permanently, irreversibly, and securely hard-deleted from our hosting infrastructure. We cannot recover data once this deletion process has occurred." xml:space="preserve">
     <value>Hvis du vælger at annullere et Cloud-Hosted-abonnement, forbliver din konto aktiv indtil slutningen af den nuværende faktureringscyklus. Efter udløbet af dit abonnement overholder vi en streng 30-dages nådeperiode. Efter denne 30-dages periode vil al din tilknyttede forretningsdata (e-mails, filer, databaser) blive permanent, uigenkaldeligt og sikkert slettet (hard-deleted) fra vores hostinginfrastruktur. Vi kan ikke gendanne data, når denne sletningsproces er gennemført.</value>
   </data>
@@ -110,6 +113,9 @@
   </data>
   <data name="Last Updated: March 2026" xml:space="preserve">
     <value>Senest opdateret: Marts 2026</value>
+  </data>
+  <data name="Last Updated: September 2026" xml:space="preserve">
+    <value>Sidst opdateret: september 2026</value>
   </data>
   <data name="Minimal Data Collection:" xml:space="preserve">
     <value>Minimal dataindsamling:</value>
@@ -189,6 +195,9 @@
   <data name="We do not share your personal information with external parties except where absolutely necessary to deliver our services. To operate effectively, we utilize the following trusted third-party sub-processors:" xml:space="preserve">
     <value>Vi deler ikke dine personoplysninger med eksterne parter, medmindre det er strengt nødvendigt for at levere vores tjenester. Vi benytter følgende betroede tredjepartsdatabehandlere:</value>
   </data>
+  <data name="We do not use your private documents or communications to train our models or third-party models. Customer-requested local training requires explicit authorization and uses only the data you select. Local inference keeps model inputs within your deployment. If you choose an external model provider, prompts and selected content are sent to that provider under its terms; the provider and data flow must be agreed before activation." xml:space="preserve">
+    <value>Vi bruger ikke dine private dokumenter eller din kommunikation til at træne vores modeller eller tredjepartsmodeller. Lokal træning efter kundens ønske kræver udtrykkelig tilladelse og bruger kun de data, du vælger. Lokal inferens holder modellens input inden for din implementering. Hvis du vælger en ekstern modeludbyder, sendes prompts og udvalgt indhold til udbyderen i henhold til dennes vilkår; udbyderen og dataflowet skal godkendes, før tjenesten aktiveres.</value>
+  </data>
   <data name="We do not, and will never, sell, rent, or lease your personal or business data to third parties." xml:space="preserve">
     <value>Vi sælger, lejer ud eller udlejer aldrig dine personlige eller erhvervsdata til tredjeparter, og det vil vi heller aldrig gøre.</value>
   </data>
@@ -200,6 +209,9 @@
   </data>
   <data name="When you register for an Aiursoft commercial account or engage with our sales team, we collect necessary contact details, including your name, your work email address, and your company name. This information is used strictly for account administration and communication." xml:space="preserve">
     <value>Når du registrerer en kommerciel Aiursoft-konto eller kontakter vores salgsteam, indsamler vi nødvendige kontaktoplysninger, herunder dit navn, din arbejds-e-mailadresse og dit firmanavn. Disse oplysninger bruges udelukkende til kontoadministration og kommunikation.</value>
+  </data>
+  <data name="When you utilize our cloud-hosted infrastructure (such as Mailcow, Nextcloud, or Authentik instances managed on our servers), AIURSOFT LIMITED acts as a Data Processor. You remain the Data Controller. Infrastructure administrators may have technical access to hosted systems, databases, and backups. We restrict access to authorized personnel and service duties. Access to business content for a support request requires your explicit authorization, is limited to that request, and is revoked when the work ends." xml:space="preserve">
+    <value>Når du benytter vores cloud-hostede infrastruktur (såsom Mailcow-, Nextcloud- eller Authentik-instanser, der administreres på vores servere), fungerer AIURSOFT LIMITED som databehandler. Du forbliver dataansvarlig. Infrastrukturadministratorer kan have teknisk adgang til hostede systemer, databaser og sikkerhedskopier. Vi begrænser adgangen til autoriseret personale og arbejdsopgaver, der vedrører tjenesten. Adgang til forretningsindhold i forbindelse med en supportanmodning kræver din udtrykkelige tilladelse, begrænses til den pågældende anmodning og tilbagekaldes, når arbejdet er afsluttet.</value>
   </data>
   <data name="When you utilize our cloud-hosted infrastructure (such as Mailcow, Nextcloud, or Authentik instances managed on our servers), AIURSOFT LIMITED acts as a Data Processor. You remain the Data Controller. We host and maintain the infrastructure to ensure uptime and security, but our personnel possess absolutely zero access to your underlying business data (e.g., the contents of your emails, your stored files, or your internal chat logs) unless you explicitly grant us temporary, revocable access for the sole purpose of resolving a technical support ticket you have initiated." xml:space="preserve">
     <value>Når du benytter vores cloud-hostede infrastruktur (såsom Mailcow, Nextcloud eller Authentik-instanser, der administreres på vores servere), fungerer AIURSOFT LIMITED som en databehandler. Du forbliver databehandleren. Vi hoster og vedligeholder infrastrukturen for at sikre driftstid og sikkerhed, men vores personale har absolut nul adgang til dine underliggende forretningsdata (f.eks. indholdet af dine e-mails, dine lagrede filer eller dine interne chatlogs), medmindre du eksplicitt giver os midlertidig, tilbagekaldelig adgang med det ene formål at løse en teknisk supportanmodning, du har initieret.</value>

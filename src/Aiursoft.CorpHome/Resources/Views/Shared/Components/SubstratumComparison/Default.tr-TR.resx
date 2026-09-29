@@ -21,6 +21,9 @@
       <data name="24/7 dedicated support line" xml:space="preserve">
     <value>24/7 özel destek hattı</value>
   </data>
+  <data name="24/7 incident intake and escalation where contracted; scope and response targets follow the service agreement" xml:space="preserve">
+    <value>Sözleşme kapsamında sunuluyorsa, olay bildirimleri 7/24 alınır ve gerekli üst kademelere iletilir; kapsam ve yanıt hedefleri hizmet sözleşmesine tabidir.</value>
+  </data>
   <data name="7×24 On-call Support" xml:space="preserve">
     <value>7×24 Çağrı Desteği</value>
   </data>
@@ -71,6 +74,9 @@
   </data>
   <data name="Deployment &amp; Hosting" xml:space="preserve">
     <value>Dağıtım ve Barındırma</value>
+  </data>
+  <data name="Device policy integration with scope and supported platforms agreed before deployment" xml:space="preserve">
+    <value>Dağıtım öncesinde cihaz politikası entegrasyonunun kapsamı ve desteklenen platformlar üzerinde mutabık kalınır</value>
   </data>
   <data name="DevOps &amp; Engineering" xml:space="preserve">
     <value>DevOps &amp; Engineering</value>

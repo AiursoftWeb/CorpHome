@@ -60,11 +60,17 @@
   <data name="Aiursoft provides enterprise IT infrastructure solutions built upon open-source technologies (e.g., Linux, Nextcloud, Mailcow, Authentik, GitLab)." xml:space="preserve">
     <value>Aiursoft bietet Unternehmens-IT-Infrastrukturlösungen auf Basis von Open-Source-Technologien (z. B. Linux, Nextcloud, Mailcow, Authentik, GitLab).</value>
   </data>
+  <data name="Aiursoft software, including deployment scripts and Template orchestration code, is provided under its published open-source licenses. Copyright ownership does not restrict the rights granted by those licenses. Third-party software retains its respective licenses. Aiursoft names, logos, and branding are separate from software licensing; modified distributions must not be presented as official products." xml:space="preserve">
+    <value>Die Aiursoft-Software, einschließlich der Bereitstellungsskripte und des Orchestrierungscodes für Templates, wird unter den veröffentlichten Open-Source-Lizenzen bereitgestellt. Das Urheberrecht schränkt die durch diese Lizenzen gewährten Rechte nicht ein. Software von Drittanbietern unterliegt weiterhin den jeweiligen Lizenzen. Die Namen, Logos und das Branding von Aiursoft sind von der Softwarelizenzierung unabhängig; veränderte Distributionen dürfen nicht als offizielle Produkte ausgegeben werden.</value>
+  </data>
   <data name="All fees are exclusive of applicable taxes, levies, or duties imposed by taxing authorities, and you shall be responsible for payment of all such taxes." xml:space="preserve">
     <value>Alle Gebühren sind ohne die jeweils anwendbaren Steuern, Abgaben oder Zölle, die von Steuerbehörden erhoben werden, und Sie sind verantwortlich für die Zahlung aller solcher Steuern.</value>
   </data>
   <data name="All payments are securely processed by our third-party payment gateway, Stripe. Aiursoft does not collect, process, or store your full credit card information on our servers." xml:space="preserve">
     <value>Alle Zahlungen werden sicher über unseren Drittanbieter-Zahlungsgateway, Stripe, verarbeitet. Aiursoft sammelt, verarbeitet oder speichert Ihre vollständigen Kreditkarteninformationen nicht auf unseren Servern.</value>
+  </data>
+  <data name="An isolated deployment requires local packages, models, identity services, and other dependencies. Hosted email, cloud management, and external model APIs require connectivity and are outside the isolated environment. These services and their data flows must be agreed before activation." xml:space="preserve">
+    <value>Für eine isolierte Bereitstellung sind lokale Pakete, Modelle, Identitätsdienste und weitere Abhängigkeiten erforderlich. Gehostete E-Mail-Dienste, Cloud-Verwaltung und externe Modell-APIs benötigen eine Verbindung und gehören nicht zur isolierten Umgebung. Diese Dienste und ihre Datenflüsse müssen vor der Aktivierung vereinbart werden.</value>
   </data>
   <data name="Any unauthorized access to your on-premise servers (for Startup/Enterprise plans)." xml:space="preserve">
     <value>Jeder unbefugte Zugriff auf Ihre On-Premise-Server (für die Pläne Startup/Enterprise).</value>
@@ -96,6 +102,9 @@
   <data name="Email:" xml:space="preserve">
     <value>E-Mail:</value>
   </data>
+  <data name="Enterprise services do not automatically extend an operating-system release&apos;s published security-update lifecycle. AnduinOS 2.0 standard support ends in April 2031. Your service agreement specifies included systems, supported devices, management integrations, maintenance responsibilities, and service duration." xml:space="preserve">
+    <value>Enterprise-Dienste verlängern den veröffentlichten Sicherheitsupdate-Zeitraum einer Betriebssystemversion nicht automatisch. Der reguläre Support für AnduinOS 2.0 endet im April 2031. Ihre Servicevereinbarung legt fest, welche Systeme und Geräte abgedeckt sind, welche Verwaltungsintegrationen unterstützt werden, wer für die Wartung verantwortlich ist und wie lange der Service erbracht wird.</value>
+  </data>
   <data name="For On-Premise plans requiring a One-Time Setup Fee, this fee covers the manual labor of our architects (e.g., network configuration, Docker deployment, Yubikey integration). Setup fees are strictly non-refundable once the deployment and configuration process has commenced." xml:space="preserve">
     <value>Für On-Premise-Pläne, die eine Einmal-Setup-Gebühr erfordern, deckt diese Gebühr die manuelle Arbeit unserer Architekten (z. B. Netzwerkkonfiguration, Docker-Bereitstellung, Yubikey-Integration). Setup-Gebühren sind streng nicht erstattungsfähig, sobald der Bereitstellungs- und Konfigurationsprozess begonnen hat.</value>
   </data>
@@ -113,6 +122,9 @@
   </data>
   <data name="Last Updated: March 2026" xml:space="preserve">
     <value>Zuletzt aktualisiert: März 2026</value>
+  </data>
+  <data name="Last Updated: September 2026" xml:space="preserve">
+    <value>Zuletzt aktualisiert: September 2026</value>
   </data>
   <data name="No Pro-Rated Refunds:" xml:space="preserve">
     <value>Keine anteiligen Rückerstattungen:</value>
@@ -188,6 +200,9 @@
   </data>
   <data name="What you are purchasing from Aiursoft is the hosting, automated deployment, maintenance, priority support, and enterprise integration of these tools." xml:space="preserve">
     <value>Was Sie von Aiursoft erwerben, ist die Hosting-, automatisierte Bereitstellung, Wartung, Prioritätsunterstützung und Unternehmensintegration dieser Tools.</value>
+  </data>
+  <data name="Where a plan includes 7×24 on-call support, this means incident intake and escalation. The service agreement defines incident severity, response targets, support channels, maintenance windows, and exclusions. It does not guarantee immediate resolution or uninterrupted availability." xml:space="preserve">
+    <value>Wenn ein Tarif einen 24/7-Bereitschaftsdienst umfasst, bedeutet dies die Annahme und Eskalation von Vorfällen. Die Servicevereinbarung legt den Schweregrad von Vorfällen, Reaktionsziele, Supportkanäle, Wartungsfenster und Ausschlüsse fest. Sie garantiert weder eine sofortige Behebung noch eine ununterbrochene Verfügbarkeit.</value>
   </data>
   <data name="You agree not to misuse the Services or help anyone else to do so. You must not:" xml:space="preserve">
     <value>Sie erklären sich damit einverstanden, die Dienste nicht misszuverwenden oder anderen zu helfen, dies zu tun. Sie dürfen nicht:</value>

@@ -21,6 +21,9 @@
       <data name="24/7 dedicated support line" xml:space="preserve">
     <value>Dòng hỗ trợ chuyên dụng 24/7</value>
   </data>
+  <data name="24/7 incident intake and escalation where contracted; scope and response targets follow the service agreement" xml:space="preserve">
+    <value>Tiếp nhận sự cố 24/7 và chuyển cấp xử lý nếu có thỏa thuận; phạm vi hỗ trợ và thời gian phản hồi mục tiêu tuân theo thỏa thuận dịch vụ</value>
+  </data>
   <data name="7×24 On-call Support" xml:space="preserve">
     <value>Hỗ trợ trực tuyến 7×24</value>
   </data>
@@ -71,6 +74,9 @@
   </data>
   <data name="Deployment &amp; Hosting" xml:space="preserve">
     <value>Triển khai &amp; Lưu trữ</value>
+  </data>
+  <data name="Device policy integration with scope and supported platforms agreed before deployment" xml:space="preserve">
+    <value>Việc tích hợp chính sách thiết bị, phạm vi áp dụng và các nền tảng được hỗ trợ sẽ được thống nhất trước khi triển khai</value>
   </data>
   <data name="DevOps &amp; Engineering" xml:space="preserve">
     <value>DevOps &amp; Engineering</value>

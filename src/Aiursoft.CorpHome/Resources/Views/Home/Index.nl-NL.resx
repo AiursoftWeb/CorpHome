@@ -222,6 +222,9 @@
   <data name="Built-in RBAC for fine-grained permission management." xml:space="preserve">
     <value>Ingebouwde RBAC voor gedetailleerde machtigingsbeheer.</value>
   </data>
+  <data name="Built-in security controls support your deployment requirements." xml:space="preserve">
+    <value>Ingebouwde beveiligingsmaatregelen ondersteunen uw implementatievereisten.</value>
+  </data>
   <data name="Built-in User Management" xml:space="preserve">
     <value>Ingebouwd gebruikersbeheer</value>
   </data>
@@ -314,6 +317,9 @@
   </data>
   <data name="Default SQLite database, no configuration needed." xml:space="preserve">
     <value>Standaard SQLite-database, geen configuratie nodig</value>
+  </data>
+  <data name="Deploy models and agents on your own infrastructure. External model providers and hosted integrations are optional and require an agreed data flow." xml:space="preserve">
+    <value>Implementeer modellen en agents op uw eigen infrastructuur. Externe modelaanbieders en gehoste integraties zijn optioneel en vereisen overeenstemming over de gegevensstroom.</value>
   </data>
   <data name="Designed for everyone, from beginners to experts." xml:space="preserve">
     <value>Ontworpen voor iedereen, van beginners tot experts.</value>
@@ -828,6 +834,9 @@
   <data name="Supports JetBrains Rider for easy code style fixes." xml:space="preserve">
     <value>Ondersteunt JetBrains Rider voor eenvoudige correcties van code-stijl.</value>
   </data>
+  <data name="Supports local operation; configured external integrations require network access." xml:space="preserve">
+    <value>Ondersteunt lokaal gebruik; geconfigureerde externe integraties vereisen netwerktoegang.</value>
+  </data>
   <data name="Switch easily between SQLite, MySQL, SQL Server." xml:space="preserve">
     <value>Wissel eenvoudig tussen SQLite, MySQL en SQL Server.</value>
   </data>
@@ -906,6 +915,12 @@
   <data name="We audit and integrate Open-source code, respect GPL, compile components, and contribute upstream." xml:space="preserve">
     <value>Wij controleren en integreren open-source code, respecteren GPL, compileren componenten en dragen bij aan de upstream.</value>
   </data>
+  <data name="We configure authentication, encrypted service connections, and audit logging for the services included in your deployment. Coverage and retention are agreed during design." xml:space="preserve">
+    <value>We configureren authenticatie, versleutelde serviceverbindingen en auditlogging voor de services die in uw implementatie zijn opgenomen. De reikwijdte en bewaartermijn worden tijdens het ontwerp afgesproken.</value>
+  </data>
+  <data name="We integrate hardware-key authentication. Hardware procurement and costs are agreed in your deployment proposal." xml:space="preserve">
+    <value>We integreren authenticatie met hardwaresleutels. De aanschaf van hardware en de kosten worden vastgelegd in uw implementatievoorstel.</value>
+  </data>
   <data name="We procure Yubikeys for all clients and configure zero-trust architecture." xml:space="preserve">
     <value>Wij procuren Yubikeys voor alle klanten en configureren een zero-trust architectuur.</value>
   </data>
@@ -926,6 +941,9 @@
   </data>
   <data name="Win/Lin/Mac" xml:space="preserve">
     <value>Win/Lin/Mac</value>
+  </data>
+  <data name="With local models and local integrations, inference inputs remain within your deployment. External providers receive the inputs you choose to send." xml:space="preserve">
+    <value>Met lokale modellen en lokale integraties blijven de invoergegevens voor inferentie binnen uw implementatie. Externe providers ontvangen de gegevens die u ervoor kiest te versturen.</value>
   </data>
   <data name="with Open-Source Infrastructure." xml:space="preserve">
     <value>met Open-Source-infrastructuur.</value>

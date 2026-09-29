@@ -33,6 +33,9 @@
   <data name="Contact Us" xml:space="preserve">
     <value>Ota yhteyttä</value>
   </data>
+  <data name="Control data and permissions for locally deployed services. Hosted services and support access are governed by the agreed deployment and authorization." xml:space="preserve">
+    <value>Hallitse paikallisesti käyttöönotettujen palveluiden tietoja ja käyttöoikeuksia. Isännöityjen palveluiden ja tukikäytön ehdot määräytyvät sovitun käyttöönoton ja valtuutuksen mukaisesti.</value>
+  </data>
   <data name="Designed to run offline. Perfect for high-security environments with no internet dependency." xml:space="preserve">
     <value>Suunniteltu toimimaan offline-tilassa. Täydellinen korkean turvallisuuden ympäristöihin, joissa ei ole internetin riippuvuutta.</value>
   </data>
@@ -41,6 +44,9 @@
   </data>
   <data name="Get unified endpoint management (UEM), identity management (IAM), and collaboration tools (OA) in one package. All on your local servers!" xml:space="preserve">
     <value>Hanki yhdistetty päätepistehallinta (UEM), tunnistehallinta (IAM) ja yhteistyötyökalut (OA) yhdessä pakettissa. Kaikki omilla paikallisilla palvelimillasi!</value>
+  </data>
+  <data name="Local services can operate on an isolated network when packages, models, and dependencies are provisioned locally. Hosted email, cloud management, and external APIs require connectivity." xml:space="preserve">
+    <value>Paikalliset palvelut voivat toimia eristetyssä verkossa, kun paketit, mallit ja riippuvuudet asennetaan paikallisesti. Pilvipohjainen sähköposti, pilvihallinta ja ulkoiset ohjelmointirajapinnat edellyttävät verkkoyhteyttä.</value>
   </data>
   <data name="Own Your Data" xml:space="preserve">
     <value>Oma data</value>

@@ -36,6 +36,9 @@
   <data name="Compliance Ready" xml:space="preserve">
     <value>Klaar voor naleving</value>
   </data>
+  <data name="Configure access controls and audit records for your requirements. Compliance depends on the applicable standard, deployment, and your operating procedures." xml:space="preserve">
+    <value>Configureer toegangscontroles en auditregistraties volgens uw vereisten. Naleving hangt af van de toepasselijke norm, de implementatie en uw operationele procedures.</value>
+  </data>
   <data name="Custom Branding" xml:space="preserve">
     <value>Aangepaste huisstijl</value>
   </data>
@@ -47,6 +50,9 @@
   </data>
   <data name="Enterprise customers get round-the-clock telephone support, ensuring critical issues are addressed immediately." xml:space="preserve">
     <value>Enterprise-klanten krijgen 24/7 telefonische ondersteuning, zodat kritieke problemen onmiddellijk worden opgelost.</value>
+  </data>
+  <data name="Enterprise services add deployment, customization, and support to the community edition. Support coverage, including any 7×24 on-call service, is defined in your agreement." xml:space="preserve">
+    <value>Enterprise-diensten voegen implementatie, maatwerk en ondersteuning toe aan de community-editie. De ondersteuningsdekking, inclusief eventuele 7×24-bereikbaarheidsdienst, is vastgelegd in uw overeenkomst.</value>
   </data>
   <data name="Freedom and enterprise service don&apos;t conflict." xml:space="preserve">
     <value>Vrijheid en zakelijke dienstverlening sluiten elkaar niet uit.</value>
@@ -63,11 +69,17 @@
   <data name="Meet industry compliance requirements with auditable configurations and enterprise-grade controls." xml:space="preserve">
     <value>Voldoe aan branchevereisten voor naleving met controleerbare configuraties en beheersmaatregelen op ondernemingsniveau.</value>
   </data>
+  <data name="Monitor supported endpoints and configure the remote-management integrations specified in your deployment proposal." xml:space="preserve">
+    <value>Houd ondersteunde eindpunten in de gaten en configureer de integraties voor beheer op afstand die in uw implementatievoorstel zijn opgenomen.</value>
+  </data>
   <data name="On-premises Package Repository" xml:space="preserve">
     <value>Lokaal pakketarchief</value>
   </data>
   <data name="Private Package Repository" xml:space="preserve">
     <value>Privat pakketrepository</value>
+  </data>
+  <data name="Where included in your agreement, round-the-clock incident intake and escalation are available. Response targets depend on incident severity; resolution time is not guaranteed." xml:space="preserve">
+    <value>Indien dit in uw overeenkomst is opgenomen, kunt u incidenten dag en nacht melden en laten escaleren. De reactietermijnen zijn afhankelijk van de ernst van het incident; een oplossing binnen een bepaalde termijn wordt niet gegarandeerd.</value>
   </data>
 
 </root>

@@ -60,11 +60,17 @@
   <data name="Aiursoft provides enterprise IT infrastructure solutions built upon open-source technologies (e.g., Linux, Nextcloud, Mailcow, Authentik, GitLab)." xml:space="preserve">
     <value>Aiursoft leverer enterprise IT-infrastrukturløsninger baseret på open-source-teknologier (f.eks. Linux, Nextcloud, Mailcow, Authentik, GitLab).</value>
   </data>
+  <data name="Aiursoft software, including deployment scripts and Template orchestration code, is provided under its published open-source licenses. Copyright ownership does not restrict the rights granted by those licenses. Third-party software retains its respective licenses. Aiursoft names, logos, and branding are separate from software licensing; modified distributions must not be presented as official products." xml:space="preserve">
+    <value>Aiursoft-software, herunder implementeringsscripts og orkestreringskode til Template, stilles til rådighed under de offentliggjorte open source-licenser. Ophavsretten begrænser ikke de rettigheder, som disse licenser giver. Tredjepartssoftware er fortsat underlagt de respektive licenser. Aiursofts navne, logoer og branding er adskilt fra softwarelicenseringen; ændrede distributioner må ikke præsenteres som officielle produkter.</value>
+  </data>
   <data name="All fees are exclusive of applicable taxes, levies, or duties imposed by taxing authorities, and you shall be responsible for payment of all such taxes." xml:space="preserve">
     <value>Alle gebyrer er eksklusiv gældende skatter, afgifter eller told, der pålægges af skattemyndighederne, og du er ansvarlig for betaling af alle sådanne skatter.</value>
   </data>
   <data name="All payments are securely processed by our third-party payment gateway, Stripe. Aiursoft does not collect, process, or store your full credit card information on our servers." xml:space="preserve">
     <value>Alle betalinger behandles sikkert af vores tredjeparts betalingsgateway, Stripe. Aiursoft indsamler, behandler eller gemmer ikke dine fulde kreditkortoplysninger på vores servere.</value>
+  </data>
+  <data name="An isolated deployment requires local packages, models, identity services, and other dependencies. Hosted email, cloud management, and external model APIs require connectivity and are outside the isolated environment. These services and their data flows must be agreed before activation." xml:space="preserve">
+    <value>En isoleret installation kræver lokale pakker, modeller, identitetstjenester og andre afhængigheder. Hostet e-mail, cloudadministration og eksterne model-API&apos;er kræver forbindelse og ligger uden for det isolerede miljø. Disse tjenester og deres dataflows skal aftales før aktivering.</value>
   </data>
   <data name="Any unauthorized access to your on-premise servers (for Startup/Enterprise plans)." xml:space="preserve">
     <value>Enhver uberettiget adgang til dine on-premise-servere (for Startup/Enterprise-planer).</value>
@@ -96,6 +102,9 @@
   <data name="Email:" xml:space="preserve">
     <value>E-mail:</value>
   </data>
+  <data name="Enterprise services do not automatically extend an operating-system release&apos;s published security-update lifecycle. AnduinOS 2.0 standard support ends in April 2031. Your service agreement specifies included systems, supported devices, management integrations, maintenance responsibilities, and service duration." xml:space="preserve">
+    <value>Virksomhedstjenester forlænger ikke automatisk en operativsystemudgivelses offentliggjorte livscyklus for sikkerhedsopdateringer. Standardsupporten til AnduinOS 2.0 ophører i april 2031. Din serviceaftale angiver, hvilke systemer der er omfattet, hvilke enheder der understøttes, hvilke administrationsintegrationer der indgår, hvem der har vedligeholdelsesansvaret, og hvor længe servicen varer.</value>
+  </data>
   <data name="For On-Premise plans requiring a One-Time Setup Fee, this fee covers the manual labor of our architects (e.g., network configuration, Docker deployment, Yubikey integration). Setup fees are strictly non-refundable once the deployment and configuration process has commenced." xml:space="preserve">
     <value>For On-Premise plans requiring a One-Time Setup Fee, this fee covers the manual labor of our architects (e.g., network configuration, Docker deployment, Yubikey integration). Setup fees are strictly non-refundable once the deployment and configuration process has commenced.</value>
   </data>
@@ -113,6 +122,9 @@
   </data>
   <data name="Last Updated: March 2026" xml:space="preserve">
     <value>Sidst opdateret: Marts 2026</value>
+  </data>
+  <data name="Last Updated: September 2026" xml:space="preserve">
+    <value>Sidst opdateret: september 2026</value>
   </data>
   <data name="No Pro-Rated Refunds:" xml:space="preserve">
     <value>Ingen pro-ratiserede refusioner:</value>
@@ -188,6 +200,9 @@
   </data>
   <data name="What you are purchasing from Aiursoft is the hosting, automated deployment, maintenance, priority support, and enterprise integration of these tools." xml:space="preserve">
     <value>Det du køber fra Aiursoft er hosting, automatiseret udrulning, vedligeholdelse, prioriteret support og virksomhedsintegration af disse værktøjer.</value>
+  </data>
+  <data name="Where a plan includes 7×24 on-call support, this means incident intake and escalation. The service agreement defines incident severity, response targets, support channels, maintenance windows, and exclusions. It does not guarantee immediate resolution or uninterrupted availability." xml:space="preserve">
+    <value>Hvis en abonnementsplan omfatter døgnbemandet support 24/7, betyder det, at hændelser modtages og eskaleres. Serviceaftalen fastlægger hændelsernes alvorlighedsgrad, svartider, supportkanaler, vedligeholdelsesvinduer og undtagelser. Den garanterer ikke øjeblikkelig løsning eller uafbrudt tilgængelighed.</value>
   </data>
   <data name="You agree not to misuse the Services or help anyone else to do so. You must not:" xml:space="preserve">
     <value>Du accepterer ikke at misbruge Tjenesterne eller hjælpe nogen andre med at gøre det. Du må ikke:</value>
