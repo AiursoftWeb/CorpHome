@@ -91,7 +91,7 @@
                     </div>
                     <div class="flex-grow-1">
                         <h4 class="mt-0">@Localizer["Enterprise Package Control"]</h4>
-                        <p class="fs-lg">@Localizer["Host your own internal Apkg repository behind your firewall. Selectively push updates, enforce compliance policies, and distribute custom in-house software — all while keeping every device consistently up to date, fully offline."]</p>
+                        <p class="fs-lg">@Localizer["Host your own internal Apkg repository behind your firewall. Distribute approved updates and in-house software across your local network. Isolated deployments require package updates to be imported into the internal repository."]</p>
                     </div>
                 </div>
             </div>
@@ -214,7 +214,7 @@
                                 </div>
                                 <div>
                                     <h5 class="fw-bold text-white mb-1 fs-6">@Localizer["Remote content management"]</h5>
-                                    <p class="text-gray-400 mb-0">@Localizer["Update content, push configurations, and monitor device health — all from the cloud. No need for on-site visits."]</p>
+                                    <p class="text-gray-400 mb-0">@Localizer["Content updates and device monitoring use the management service selected for your deployment. Cloud management requires connectivity; some maintenance may require on-site access."]</p>
                                 </div>
                             </div>
                         </div>
@@ -267,8 +267,8 @@
                         <div class="icon-box-lg bg-info-subtle text-info rounded-circle mx-auto mb-4">
                             <i data-lucide="refresh-cw" style="width: 2rem; height: 2rem;"></i>
                         </div>
-                        <h3 class="fw-bold mb-2">@Localizer["Auto Updates on Reboot"]</h3>
-                        <p class="text-muted mb-0">@Localizer["System updates apply automatically when you restart. Zero maintenance windows — just reboot, and you're on the latest version."]</p>
+                        <h3 class="fw-bold mb-2">@Localizer["Managed Update Rollouts"]</h3>
+                        <p class="text-muted mb-0">@Localizer["Update and restart policies are configured for your deployment. Test releases before rollout and schedule maintenance for changes that require downtime."]</p>
                     </div>
                 </div>
             </div>
@@ -326,7 +326,7 @@
                         <table class="table table-borderless mb-0">
                             <tbody>
                                 <tr><td class="text-gray-500 ps-0" style="width: 40%;">@Localizer["Release Date"]</td><td class="text-white fw-semibold pe-0">2026-06-30</td></tr>
-                                <tr><td class="text-gray-500 ps-0">@Localizer["End of Support"]</td><td class="text-white fw-semibold pe-0">April 2041</td></tr>
+                                <tr><td class="text-gray-500 ps-0">@Localizer["End of Standard Support"]</td><td class="text-white fw-semibold pe-0">@Localizer["April"] 2031</td></tr>
                                 <tr><td class="text-gray-500 ps-0">@Localizer["Pricing"]</td><td class="fw-semibold pe-0"><a asp-controller="Home" asp-action="Contact" class="text-primary">@Localizer["Contact Sales"]</a></td></tr>
                                 <tr><td class="text-gray-500 ps-0">@Localizer["Image Size"]</td><td class="text-white fw-semibold pe-0">2.54 GB</td></tr>
                                 <tr><td class="text-gray-500 ps-0">@Localizer["Linux Kernel"]</td><td class="text-white fw-semibold pe-0">7.0.0</td></tr>
@@ -349,6 +349,7 @@
                                 </tbody>
                             </table>
                         </div>
+                        <p class="text-gray-400 small mt-3">@Localizer["AnduinOS 2.0 standard support ends in April 2031, as for the community edition. Enterprise services do not extend this release's security-update lifecycle. Service scope and subscription duration are specified in your agreement."]</p>
                         <button class="btn btn-sm btn-outline-light rounded-pill mt-2" type="button" data-bs-toggle="collapse" data-bs-target="#advancedSpecs" aria-expanded="false">
                             <i data-lucide="chevron-down" class="me-1" style="width: 14px; height: 14px;"></i>@Localizer["Advanced"]
                         </button>
@@ -443,7 +444,7 @@
                 <span class="text-gray-300 small fw-medium text-uppercase tracking-wider">@Localizer["Enterprise Services"]</span>
             </div>
             <h2 class="display-4 fw-bold text-white mb-3"><span class="text-primary">@Localizer["Enterprise-grade"]</span> @Localizer["management for your fleet"]</h2>
-            <p class="lead text-gray-400">@Localizer["Control, customize, and secure thousands of devices with enterprise tools built for scale."]</p>
+            <p class="lead text-gray-400">@Localizer["Agree the device count, supported platforms, management integrations, and acceptance criteria before deployment."]</p>
         </div>
         <div class="row g-4">
             <div class="col-lg-4">
@@ -469,13 +470,13 @@
                         <div class="icon-box-sm bg-success-subtle text-success rounded-3 mb-4">
                             <i data-lucide="cloud"></i>
                         </div>
-                        <h4 class="fw-bold text-white mb-3">@Localizer["AnduinOS Management Cloud"]</h4>
-                        <p class="text-gray-400 mb-3">@Localizer["Control and configure thousands of devices and policies efficiently from a single dashboard."]</p>
+                        <h4 class="fw-bold text-white mb-3">@Localizer["Device Management Integrations"]</h4>
+                        <p class="text-gray-400 mb-3">@Localizer["Monitoring, remote configuration, and policy enforcement are separate integrations. Your deployment proposal specifies the supported devices and included capabilities."]</p>
                         <ul class="list-unstyled text-gray-400 small mb-0">
-                            <li class="mb-2"><i class="fas fa-check-circle text-success me-2"></i>@Localizer["Remote configuration and policy enforcement"]</li>
+                            <li class="mb-2"><i class="fas fa-check-circle text-success me-2"></i>@Localizer["Remote configuration and policy integration where agreed"]</li>
                             <li class="mb-2"><i class="fas fa-check-circle text-success me-2"></i>@Localizer["Real-time device health monitoring"]</li>
                             <li class="mb-2"><i class="fas fa-check-circle text-success me-2"></i>@Localizer["Role-based access control for IT teams"]</li>
-                            <li><i class="fas fa-check-circle text-success me-2"></i>@Localizer["Bulk operations across your entire fleet"]</li>
+                            <li><i class="fas fa-check-circle text-success me-2"></i>@Localizer["Bulk operations for supported devices and integrations"]</li>
                         </ul>
                     </div>
                 </div>
@@ -546,7 +547,7 @@
                                     <i data-lucide="hard-drive"></i>
                                 </div>
                                 <h5 class="fw-bold text-white fs-6">@Localizer["Fully On-Premise"]</h5>
-                                <p class="text-gray-400 mb-0 lh-sm">@Localizer["Run your own APT infrastructure behind the firewall. No external dependencies, no proprietary agents — just standard apt."]</p>
+                                <p class="text-gray-400 mb-0 lh-sm">@Localizer["Serve packages internally using standard apt. Isolated networks require upstream packages and updates to be imported into the local repository."]</p>
                             </div>
                         </div>
                     </div>
@@ -681,8 +682,8 @@
                 <span class="text-success me-2"><i data-lucide="rocket"></i></span>
                 <span class="small fw-medium text-uppercase tracking-wider">@Localizer["Deployment"]</span>
             </div>
-            <h2 class="display-4 fw-bold mb-3">@Localizer["Set up your system in under 5 minutes"]</h2>
-            <p class="lead text-muted">@Localizer["With just a few clicks, you can have AnduinOS running on any machine. Enjoy automatic updates, built-in security, and remote management from the cloud — so once deployed, it just works."]</p>
+            <h2 class="display-4 fw-bold mb-3">@Localizer["Plan and Deploy Your Fleet"]</h2>
+            <p class="lead text-muted">@Localizer["Install on supported hardware, configure security and update policies, and enroll devices in the management services included in your deployment."]</p>
         </div>
         <div class="row text-center g-4 mb-5">
             <div class="col-md-3">
@@ -718,7 +719,7 @@
                         <span class="fw-bold fs-4">4</span>
                     </div>
                     <h5 class="fw-bold">@Localizer["Enroll"]</h5>
-                    <p class="text-muted small">@Localizer["Add to Management Cloud and go live"]</p>
+                    <p class="text-muted small">@Localizer["Enroll in your agreed management service"]</p>
                 </div>
             </div>
         </div>
@@ -736,7 +737,7 @@
             </div>
         </div>
         <h2 class="display-4 fw-bold text-white mb-3">@Localizer["Minimal maintenance. Maximum stability."]</h2>
-        <p class="lead text-gray-400 mb-5">@Localizer["AnduinOS Enterprise is backed by our 7x24 on-call support team. From initial deployment to ongoing operations, we ensure your fleet stays secure, updated, and running smoothly."]</p>
+        <p class="lead text-gray-400 mb-5">@Localizer["Enterprise support covers the services and devices listed in your agreement. Where purchased, 7×24 on-call support provides incident intake and escalation; severity levels, response targets, maintenance windows, and exclusions are defined in the service agreement."]</p>
         <div class="d-flex flex-wrap justify-content-center gap-3">
             <a asp-controller="Home" asp-action="Contact" class="btn btn-primary btn-lg btn-pill px-5">
                 <i class="align-middle me-2" data-lucide="headphones"></i>@Localizer["Contact Enterprise Sales"]
