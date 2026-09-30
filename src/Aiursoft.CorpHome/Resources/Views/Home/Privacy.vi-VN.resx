@@ -99,6 +99,9 @@
   <data name="For provisioning the underlying high-performance cloud infrastructure that powers our official websites and Cloud-Hosted (S1 Core) client instances." xml:space="preserve">
     <value>Để triển khai hạ tầng đám mây hiệu năng cao nền tảng vận hành các trang web chính thức của chúng tôi và các phiên bản khách hàng được lưu trữ trên đám mây (S1 Core).</value>
   </data>
+  <data name="For services deployed on your servers or private cloud, you control the infrastructure and access permissions. Aiursoft accesses these systems only within the authorization you grant for deployment, maintenance, or support. You can revoke that access. Separately selected hosted services remain subject to the cloud-hosted terms." xml:space="preserve">
+    <value>Đối với các dịch vụ được triển khai trên máy chủ hoặc đám mây riêng của bạn, bạn kiểm soát hạ tầng và quyền truy cập. Aiursoft chỉ truy cập các hệ thống này trong phạm vi quyền hạn bạn cấp để triển khai, bảo trì hoặc hỗ trợ. Bạn có thể thu hồi quyền truy cập đó. Các dịch vụ lưu trữ đám mây được chọn riêng vẫn chịu sự điều chỉnh của các điều khoản dành cho dịch vụ lưu trữ đám mây.</value>
+  </data>
   <data name="If you choose to cancel a Cloud-Hosted subscription, your account will remain active until the end of the current billing cycle. Following the expiration of your subscription, we observe a strict 30-day grace period. After this 30-day period, all of your associated business data (emails, files, databases) will be permanently, irreversibly, and securely hard-deleted from our hosting infrastructure. We cannot recover data once this deletion process has occurred." xml:space="preserve">
     <value>Nếu bạn chọn hủy đăng ký Cloud-Hosted, tài khoản của bạn sẽ vẫn hoạt động cho đến khi kết thúc chu kỳ tính phí hiện tại. Sau khi đăng ký hết hạn, chúng tôi sẽ áp dụng một thời gian ân hạn nghiêm ngặt 30 ngày. Sau khoảng thời gian 30 ngày này, tất cả dữ liệu kinh doanh liên quan của bạn (thư điện tử, tệp tin, cơ sở dữ liệu) sẽ bị xóa vĩnh viễn, không thể phục hồi và an toàn khỏi cơ sở hạ tầng lưu trữ của chúng tôi. Chúng tôi không thể khôi phục dữ liệu sau khi quá trình xóa này đã diễn ra.</value>
   </data>
@@ -110,6 +113,9 @@
   </data>
   <data name="Last Updated: March 2026" xml:space="preserve">
     <value>Cập nhật lần cuối: Tháng Ba 2026</value>
+  </data>
+  <data name="Last Updated: September 2026" xml:space="preserve">
+    <value>Cập nhật lần cuối: tháng 9 năm 2026</value>
   </data>
   <data name="Minimal Data Collection:" xml:space="preserve">
     <value>Thu thập Dữ liệu Tối thiểu:</value>
@@ -189,6 +195,9 @@
   <data name="We do not share your personal information with external parties except where absolutely necessary to deliver our services. To operate effectively, we utilize the following trusted third-party sub-processors:" xml:space="preserve">
     <value>Chúng tôi không chia sẻ thông tin cá nhân của bạn với các bên thứ ba bên ngoài trừ khi hoàn toàn cần thiết để cung cấp dịch vụ của chúng tôi. Để vận hành hiệu quả, chúng tôi sử dụng các bên xử lý phụ đáng tin cậy sau đây:</value>
   </data>
+  <data name="We do not use your private documents or communications to train our models or third-party models. Customer-requested local training requires explicit authorization and uses only the data you select. Local inference keeps model inputs within your deployment. If you choose an external model provider, prompts and selected content are sent to that provider under its terms; the provider and data flow must be agreed before activation." xml:space="preserve">
+    <value>Chúng tôi không sử dụng tài liệu riêng tư hoặc thông tin liên lạc của bạn để huấn luyện các mô hình của chúng tôi hoặc mô hình của bên thứ ba. Việc huấn luyện cục bộ theo yêu cầu của khách hàng cần có sự cho phép rõ ràng và chỉ sử dụng dữ liệu bạn chọn. Suy luận cục bộ giữ các đầu vào của mô hình trong phạm vi môi trường triển khai của bạn. Nếu bạn chọn nhà cung cấp mô hình bên ngoài, lời nhắc và nội dung bạn chọn sẽ được gửi cho nhà cung cấp đó theo các điều khoản của họ; nhà cung cấp và luồng dữ liệu phải được thống nhất trước khi kích hoạt.</value>
+  </data>
   <data name="We do not, and will never, sell, rent, or lease your personal or business data to third parties." xml:space="preserve">
     <value>Chúng tôi không bao giờ, và sẽ không bao giờ, bán, cho thuê hoặc cho thuê lại dữ liệu cá nhân hoặc doanh nghiệp của bạn cho bên thứ ba.</value>
   </data>
@@ -200,6 +209,9 @@
   </data>
   <data name="When you register for an Aiursoft commercial account or engage with our sales team, we collect necessary contact details, including your name, your work email address, and your company name. This information is used strictly for account administration and communication." xml:space="preserve">
     <value>Khi bạn đăng ký tài khoản thương mại của Aiursoft hoặc tương tác với đội ngũ bán hàng của chúng tôi, chúng tôi sẽ thu thập các thông tin liên hệ cần thiết, bao gồm tên của bạn, địa chỉ email công việc và tên công ty của bạn. Thông tin này chỉ được sử dụng cho mục đích quản lý tài khoản và liên lạc.</value>
+  </data>
+  <data name="When you utilize our cloud-hosted infrastructure (such as Mailcow, Nextcloud, or Authentik instances managed on our servers), AIURSOFT LIMITED acts as a Data Processor. You remain the Data Controller. Infrastructure administrators may have technical access to hosted systems, databases, and backups. We restrict access to authorized personnel and service duties. Access to business content for a support request requires your explicit authorization, is limited to that request, and is revoked when the work ends." xml:space="preserve">
+    <value>Khi bạn sử dụng hạ tầng lưu trữ đám mây của chúng tôi (chẳng hạn như các phiên bản Mailcow, Nextcloud hoặc Authentik được quản lý trên máy chủ của chúng tôi), AIURSOFT LIMITED đóng vai trò là Bên xử lý dữ liệu. Bạn vẫn là Bên kiểm soát dữ liệu. Quản trị viên hạ tầng có thể có quyền truy cập kỹ thuật vào các hệ thống, cơ sở dữ liệu và bản sao lưu được lưu trữ. Chúng tôi giới hạn quyền truy cập cho nhân sự được ủy quyền và chỉ phục vụ các nhiệm vụ liên quan đến dịch vụ. Việc truy cập nội dung doanh nghiệp để xử lý yêu cầu hỗ trợ cần có sự cho phép rõ ràng của bạn, chỉ giới hạn trong phạm vi yêu cầu đó và sẽ bị thu hồi khi công việc hoàn tất.</value>
   </data>
   <data name="When you utilize our cloud-hosted infrastructure (such as Mailcow, Nextcloud, or Authentik instances managed on our servers), AIURSOFT LIMITED acts as a Data Processor. You remain the Data Controller. We host and maintain the infrastructure to ensure uptime and security, but our personnel possess absolutely zero access to your underlying business data (e.g., the contents of your emails, your stored files, or your internal chat logs) unless you explicitly grant us temporary, revocable access for the sole purpose of resolving a technical support ticket you have initiated." xml:space="preserve">
     <value>Khi bạn sử dụng cơ sở hạ tầng được lưu trữ trên đám mây của chúng tôi (ví dụ: các instance Mailcow, Nextcloud hoặc Authentik được quản lý trên máy chủ của chúng tôi), AIURSOFT LIMITED sẽ đóng vai trò là Bên Xử lý Dữ liệu. Bạn vẫn là Bên Điều khiển Dữ liệu. Chúng tôi cung cấp và duy trì cơ sở hạ tầng để đảm bảo thời gian hoạt động liên tục và bảo mật, nhưng nhân viên của chúng tôi hoàn toàn không có quyền truy cập vào dữ liệu kinh doanh cốt lõi của bạn (ví dụ: nội dung email của bạn, các tập tin được lưu trữ hoặc nhật ký trò chuyện nội bộ) trừ khi bạn rõ ràng cấp cho chúng tôi quyền truy cập tạm thời, có thể thu hồi, nhằm mục đích duy nhất là giải quyết một yêu cầu hỗ trợ kỹ thuật mà bạn đã khởi tạo.</value>

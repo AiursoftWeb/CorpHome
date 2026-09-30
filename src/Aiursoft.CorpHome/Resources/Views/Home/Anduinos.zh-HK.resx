@@ -33,8 +33,14 @@
   <data name="Advanced" xml:space="preserve">
     <value>進階</value>
   </data>
+  <data name="Agree the device count, supported platforms, management integrations, and acceptance criteria before deployment." xml:space="preserve">
+    <value>部署前，請就裝置數量、支援的平台、管理系統整合方式及驗收準則達成共識。</value>
+  </data>
   <data name="All the power of open-source, backed by enterprise-grade support, management tools, and customisation capabilities." xml:space="preserve">
     <value>匯聚開源的全部強大功能，並獲得企業級支援、管理工具及自訂能力的背書。</value>
+  </data>
+  <data name="AnduinOS 2.0 standard support ends in April 2031, as for the community edition. Enterprise services do not extend this release&apos;s security-update lifecycle. Service scope and subscription duration are specified in your agreement." xml:space="preserve">
+    <value>AnduinOS 2.0 社群版的標準支援將於 2031 年 4 月結束。企業服務不會延長此版本的安全更新週期。服務範圍及訂閱期限以閣下的協議為準。</value>
   </data>
   <data name="AnduinOS device" xml:space="preserve">
     <value>AnduinOS 裝置</value>
@@ -78,6 +84,9 @@
   <data name="Apkg is a declarative APT repository platform that lets you host signed Debian repositories, mirror upstream archives, and publish your own .apkg packages — all fully on-premise. Integrates seamlessly with AnduinOS for painless apt update &amp;&amp; apt install workflows across your entire fleet." xml:space="preserve">
     <value>Apkg 是一個宣告式 APT 儲存庫平台，讓你可以托管經簽署的 Debian 儲存庫、鏡像上游檔案庫，以及發佈你自己的 .apkg 套件——全部支援本地化部署。與 AnduinOS 無縫整合，讓整個機隊的 apt update &amp;&amp; apt install 工作流程變得輕鬆無憂。</value>
   </data>
+  <data name="April" xml:space="preserve">
+    <value>4月</value>
+  </data>
   <data name="Architecture" xml:space="preserve">
     <value>架構</value>
   </data>
@@ -114,6 +123,9 @@
   <data name="Bulk operations across your entire fleet" xml:space="preserve">
     <value>對整個車隊進行批量操作</value>
   </data>
+  <data name="Bulk operations for supported devices and integrations" xml:space="preserve">
+    <value>適用於支援裝置及整合的批次操作</value>
+  </data>
   <data name="Community Site" xml:space="preserve">
     <value>社區網站</value>
   </data>
@@ -137,6 +149,9 @@
   </data>
   <data name="Containerized" xml:space="preserve">
     <value>容器化</value>
+  </data>
+  <data name="Content updates and device monitoring use the management service selected for your deployment. Cloud management requires connectivity; some maintenance may require on-site access." xml:space="preserve">
+    <value>內容更新及裝置監察會使用為你的部署所選擇的管理服務。雲端管理需要網絡連線；部分維護工作可能需要到現場進行。</value>
   </data>
   <data name="Control and configure thousands of devices and policies efficiently from a single dashboard." xml:space="preserve">
     <value>透過單一儀表板高效管控及設定成千上萬台裝置與政策。</value>
@@ -180,6 +195,9 @@
   <data name="Desktop Environment" xml:space="preserve">
     <value>桌面環境</value>
   </data>
+  <data name="Device Management Integrations" xml:space="preserve">
+    <value>裝置管理整合</value>
+  </data>
   <data name="digital signage and kiosk terminals" xml:space="preserve">
     <value>電子看板及自助服務終端機</value>
   </data>
@@ -207,11 +225,17 @@
   <data name="Edge AI" xml:space="preserve">
     <value>邊緣 AI</value>
   </data>
+  <data name="End of Standard Support" xml:space="preserve">
+    <value>標準支援結束日期</value>
+  </data>
   <data name="End of Support" xml:space="preserve">
     <value>支援結束</value>
   </data>
   <data name="Enroll" xml:space="preserve">
     <value>登記</value>
+  </data>
+  <data name="Enroll in your agreed management service" xml:space="preserve">
+    <value>登記加入您已協定的管理服務</value>
   </data>
   <data name="Enterprise" xml:space="preserve">
     <value>企業</value>
@@ -221,6 +245,9 @@
   </data>
   <data name="Enterprise Services" xml:space="preserve">
     <value>企業服務</value>
+  </data>
+  <data name="Enterprise support covers the services and devices listed in your agreement. Where purchased, 7×24 on-call support provides incident intake and escalation; severity levels, response targets, maintenance windows, and exclusions are defined in the service agreement." xml:space="preserve">
+    <value>企業支援涵蓋協議中列明的服務及裝置。如已購買，7×24 隨傳隨到支援服務會受理事故並按需要升級處理；事故嚴重程度級別、回應目標、維護時段及不包括的項目均載於服務協議。</value>
   </data>
   <data name="Enterprise-grade" xml:space="preserve">
     <value>企業級</value>
@@ -273,6 +300,9 @@
   <data name="HDR Support" xml:space="preserve">
     <value>HDR 支援</value>
   </data>
+  <data name="Host your own internal Apkg repository behind your firewall. Distribute approved updates and in-house software across your local network. Isolated deployments require package updates to be imported into the internal repository." xml:space="preserve">
+    <value>在防火牆後方架設專屬的內部 Apkg 套件庫，並透過本地網絡分發已核准的更新及內部開發軟件。對於隔離部署環境，必須先將套件更新匯入內部套件庫。</value>
+  </data>
   <data name="Host your own internal Apkg repository behind your firewall. Selectively push updates, enforce compliance policies, and distribute custom in-house software — all while keeping every device consistently up to date, fully offline." xml:space="preserve">
     <value>在防火牆後方託管您自己的內部 Apkg 儲存庫。選擇性地推送更新、執行合規政策，並分發自定義的內部軟件——同時保持所有設備在完全離線的狀態下始終保持最新。</value>
   </data>
@@ -281,6 +311,9 @@
   </data>
   <data name="Init System" xml:space="preserve">
     <value>初始化系統</value>
+  </data>
+  <data name="Install on supported hardware, configure security and update policies, and enroll devices in the management services included in your deployment." xml:space="preserve">
+    <value>在支援的硬件上安裝，設定安全性及更新政策，並將裝置註冊至部署方案所包含的管理服務。</value>
   </data>
   <data name="Internal package distribution via apt" xml:space="preserve">
     <value>透過 apt 進行內部軟件包分發</value>
@@ -318,6 +351,9 @@
   <data name="LTS Support" xml:space="preserve">
     <value>長期支援</value>
   </data>
+  <data name="Managed Update Rollouts" xml:space="preserve">
+    <value>受管理的更新發佈</value>
+  </data>
   <data name="management for your fleet" xml:space="preserve">
     <value>车队管理</value>
   </data>
@@ -338,6 +374,9 @@
   </data>
   <data name="Monitoring" xml:space="preserve">
     <value>監控</value>
+  </data>
+  <data name="Monitoring, remote configuration, and policy enforcement are separate integrations. Your deployment proposal specifies the supported devices and included capabilities." xml:space="preserve">
+    <value>監察、遠端設定及政策執行屬於獨立的整合項目。部署建議書會列明支援的裝置及所包含的功能。</value>
   </data>
   <data name="Multi-Node" xml:space="preserve">
     <value>多節點</value>
@@ -371,6 +410,9 @@
   </data>
   <data name="Performance" xml:space="preserve">
     <value>效能</value>
+  </data>
+  <data name="Plan and Deploy Your Fleet" xml:space="preserve">
+    <value>規劃並部署您的裝置群</value>
   </data>
   <data name="Ports" xml:space="preserve">
     <value>連接埠</value>
@@ -417,6 +459,9 @@
   <data name="Remote configuration and policy enforcement" xml:space="preserve">
     <value>遠端設定及政策強制執行</value>
   </data>
+  <data name="Remote configuration and policy integration where agreed" xml:space="preserve">
+    <value>按協議提供遠端設定及政策整合</value>
+  </data>
   <data name="Remote content management" xml:space="preserve">
     <value>遠端內容管理</value>
   </data>
@@ -449,6 +494,9 @@
   </data>
   <data name="Secure Boot" xml:space="preserve">
     <value>安全引導</value>
+  </data>
+  <data name="Serve packages internally using standard apt. Isolated networks require upstream packages and updates to be imported into the local repository." xml:space="preserve">
+    <value>使用標準 apt 在內部提供套件。隔離網絡需要將上游套件及更新匯入本機套件庫。</value>
   </data>
   <data name="Set up your system in under 5 minutes" xml:space="preserve">
     <value>5 分鐘內完成系統設置</value>
@@ -515,6 +563,9 @@
   </data>
   <data name="UI Toolkit" xml:space="preserve">
     <value>用戶界面工具包</value>
+  </data>
+  <data name="Update and restart policies are configured for your deployment. Test releases before rollout and schedule maintenance for changes that require downtime." xml:space="preserve">
+    <value>系統會為您的部署設定更新及重新啟動政策。正式推出前，請先測試新版本；如變更需要停機，請安排維護時段。</value>
   </data>
   <data name="Update content, push configurations, and monitor device health — all from the cloud. No need for on-site visits." xml:space="preserve">
     <value>更新內容、推送配置及監控裝置狀態——全部透過雲端完成，無需到現場巡查。</value>

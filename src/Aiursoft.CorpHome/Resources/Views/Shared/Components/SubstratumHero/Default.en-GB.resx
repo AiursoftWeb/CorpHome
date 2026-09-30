@@ -33,6 +33,9 @@
   <data name="Contact Us" xml:space="preserve">
     <value>Contact Us</value>
   </data>
+  <data name="Control data and permissions for locally deployed services. Hosted services and support access are governed by the agreed deployment and authorization." xml:space="preserve">
+    <value>Control data and permissions for locally deployed services. Hosted services and support access are governed by the agreed deployment and authorisation.</value>
+  </data>
   <data name="Designed to run offline. Perfect for high-security environments with no internet dependency." xml:space="preserve">
     <value>Designed to run offline. Perfect for high-security environments with no internet dependency.</value>
   </data>
@@ -41,6 +44,9 @@
   </data>
   <data name="Get unified endpoint management (UEM), identity management (IAM), and collaboration tools (OA) in one package. All on your local servers!" xml:space="preserve">
     <value>Get unified endpoint management (UEM), identity management (IAM), and collaboration tools (OA) in one package. All on your local servers!</value>
+  </data>
+  <data name="Local services can operate on an isolated network when packages, models, and dependencies are provisioned locally. Hosted email, cloud management, and external APIs require connectivity." xml:space="preserve">
+    <value>Local services can run on an isolated network when packages, models and dependencies are installed locally. Hosted email, cloud management and external APIs require a network connection.</value>
   </data>
   <data name="Own Your Data" xml:space="preserve">
     <value>Own Your Data</value>

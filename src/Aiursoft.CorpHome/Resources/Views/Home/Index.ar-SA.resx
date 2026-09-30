@@ -222,6 +222,9 @@
   <data name="Built-in RBAC for fine-grained permission management." xml:space="preserve">
     <value>مُدمج RBAC لإدارة الأذونات الدقيقة.</value>
   </data>
+  <data name="Built-in security controls support your deployment requirements." xml:space="preserve">
+    <value>تدعم ضوابط الأمان المضمّنة متطلبات النشر لديك.</value>
+  </data>
   <data name="Built-in User Management" xml:space="preserve">
     <value>إدارة المستخدمين المدمجة</value>
   </data>
@@ -314,6 +317,9 @@
   </data>
   <data name="Default SQLite database, no configuration needed." xml:space="preserve">
     <value>قاعدة بيانات SQLite افتراضية، لا حاجة إلى تهيئة</value>
+  </data>
+  <data name="Deploy models and agents on your own infrastructure. External model providers and hosted integrations are optional and require an agreed data flow." xml:space="preserve">
+    <value>انشر النماذج والوكلاء على بنيتك التحتية الخاصة. مزوّدو النماذج الخارجيون وعمليات التكامل المستضافة اختيارية، وتتطلب الاتفاق على تدفّق البيانات.</value>
   </data>
   <data name="Designed for everyone, from beginners to experts." xml:space="preserve">
     <value>مصمم للجميع، من المبتدئين إلى الخبراء.</value>
@@ -828,6 +834,9 @@
   <data name="Supports JetBrains Rider for easy code style fixes." xml:space="preserve">
     <value>يدعم JetBrains Rider لتصحيح أنماط الكود بسهولة.</value>
   </data>
+  <data name="Supports local operation; configured external integrations require network access." xml:space="preserve">
+    <value>يدعم التشغيل محليًا؛ وتتطلب عمليات التكامل الخارجية المُعدّة اتصالًا بالشبكة.</value>
+  </data>
   <data name="Switch easily between SQLite, MySQL, SQL Server." xml:space="preserve">
     <value>قم بالتبديل بسهولة بين SQLite وMySQL وSQL Server.</value>
   </data>
@@ -906,6 +915,12 @@
   <data name="We audit and integrate Open-source code, respect GPL, compile components, and contribute upstream." xml:space="preserve">
     <value>نقوم بمراجعة الشفرة المفتوحة المصدر ودمجها، ونحترم ترخيص GPL، ونُجمّع المكونات، ونُساهم في التحديثات المُتقدمة.</value>
   </data>
+  <data name="We configure authentication, encrypted service connections, and audit logging for the services included in your deployment. Coverage and retention are agreed during design." xml:space="preserve">
+    <value>نهيّئ المصادقة واتصالات الخدمات المشفّرة وسجلات التدقيق للخدمات المشمولة في عملية النشر. ويُتفق أثناء مرحلة التصميم على نطاق التغطية وفترة الاحتفاظ بالسجلات.</value>
+  </data>
+  <data name="We integrate hardware-key authentication. Hardware procurement and costs are agreed in your deployment proposal." xml:space="preserve">
+    <value>ندمج المصادقة باستخدام مفاتيح الأمان المادية. ويُتفق على توريد الأجهزة وتكاليفها ضمن مقترح النشر الخاص بك.</value>
+  </data>
   <data name="We procure Yubikeys for all clients and configure zero-trust architecture." xml:space="preserve">
     <value>نقوم بشراء أجهزة يوبيكاي للعملاء جميعًا ونقوم بتهيئة بنية التوثيق الصفرية.</value>
   </data>
@@ -926,6 +941,9 @@
   </data>
   <data name="Win/Lin/Mac" xml:space="preserve">
     <value>وين/لين/ماك</value>
+  </data>
+  <data name="With local models and local integrations, inference inputs remain within your deployment. External providers receive the inputs you choose to send." xml:space="preserve">
+    <value>مع استخدام نماذج وتكاملات محلية، تظل مدخلات الاستدلال ضمن بيئة النشر الخاصة بك. أما الجهات الخارجية، فتتلقى المدخلات التي تختار إرسالها إليها.</value>
   </data>
   <data name="with Open-Source Infrastructure." xml:space="preserve">
     <value>مع البنية التحتية المفتوحة المصدر.</value>

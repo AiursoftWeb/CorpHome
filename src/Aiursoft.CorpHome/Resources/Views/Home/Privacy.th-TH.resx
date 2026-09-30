@@ -99,6 +99,9 @@
   <data name="For provisioning the underlying high-performance cloud infrastructure that powers our official websites and Cloud-Hosted (S1 Core) client instances." xml:space="preserve">
     <value>สำหรับการจัดเตรียมโครงสร้างพื้นฐานคลาวด์ประสิทธิภาพสูงที่อยู่เบื้องหลังซึ่งขับเคลื่อนเว็บไซต์ทางการของเราและอินสแตนซ์ลูกค้าแบบคลาวด์โฮสต์ (S1 Core)</value>
   </data>
+  <data name="For services deployed on your servers or private cloud, you control the infrastructure and access permissions. Aiursoft accesses these systems only within the authorization you grant for deployment, maintenance, or support. You can revoke that access. Separately selected hosted services remain subject to the cloud-hosted terms." xml:space="preserve">
+    <value>สำหรับบริการที่ติดตั้งใช้งานบนเซิร์ฟเวอร์หรือคลาวด์ส่วนตัวของคุณ คุณเป็นผู้ควบคุมโครงสร้างพื้นฐานและสิทธิ์การเข้าถึง Aiursoft จะเข้าถึงระบบเหล่านี้ได้เฉพาะภายในขอบเขตการอนุญาตที่คุณมอบให้เพื่อการติดตั้งใช้งาน การบำรุงรักษา หรือการสนับสนุน คุณสามารถเพิกถอนสิทธิ์การเข้าถึงดังกล่าวได้ ส่วนบริการที่โฮสต์ซึ่งคุณเลือกแยกต่างหากยังคงอยู่ภายใต้ข้อกำหนดสำหรับบริการที่โฮสต์บนคลาวด์</value>
+  </data>
   <data name="If you choose to cancel a Cloud-Hosted subscription, your account will remain active until the end of the current billing cycle. Following the expiration of your subscription, we observe a strict 30-day grace period. After this 30-day period, all of your associated business data (emails, files, databases) will be permanently, irreversibly, and securely hard-deleted from our hosting infrastructure. We cannot recover data once this deletion process has occurred." xml:space="preserve">
     <value>หากคุณเลือกยกเลิกการสมัครใช้งานแบบโฮสต์ในคลาวด์ บัญชีของคุณจะยังคงใช้งานได้จนถึงสิ้นสุดรอบการเรียกเก็บเงินปัจจุบัน หลังจากหมดอายุการสมัครใช้งาน ทางเราจะมีช่วงเวลาปลอดภัย 30 วันอย่างเคร่งครัด หลังจากช่วงเวลา 30 วันนี้ ข้อมูลธุรกิจทั้งหมดที่เกี่ยวข้องกับคุณ (อีเมล ไฟล์ ฐานข้อมูล) จะถูกลบอย่างถาวร ไม่สามารถกู้คืนได้ และปลอดภัยอย่างสมบูรณ์จากโครงสร้างพื้นฐานการโฮสต์ของเรา เราไม่สามารถกู้คืนข้อมูลได้อีกต่อไปหลังจากกระบวนการลบข้อมูลนี้เกิดขึ้นแล้ว</value>
   </data>
@@ -110,6 +113,9 @@
   </data>
   <data name="Last Updated: March 2026" xml:space="preserve">
     <value>อัปเดตครั้งล่าสุด: มีนาคม 2026</value>
+  </data>
+  <data name="Last Updated: September 2026" xml:space="preserve">
+    <value>อัปเดตล่าสุด: กันยายน 2026</value>
   </data>
   <data name="Minimal Data Collection:" xml:space="preserve">
     <value>การเก็บข้อมูลขั้นต่ำ:</value>
@@ -189,6 +195,9 @@
   <data name="We do not share your personal information with external parties except where absolutely necessary to deliver our services. To operate effectively, we utilize the following trusted third-party sub-processors:" xml:space="preserve">
     <value>เราไม่ได้แบ่งปันข้อมูลส่วนบุคคลของคุณกับบุคคลภายนอก เว้นแต่จำเป็นอย่างยิ่งเพื่อให้บริการของเราสามารถดำเนินการได้ ในการดำเนินงานอย่างมีประสิทธิภาพ เราใช้ผู้ประมวลผลข้อมูลรายย่อยจากบุคคลภายนอกที่น่าเชื่อถือดังต่อไปนี้:</value>
   </data>
+  <data name="We do not use your private documents or communications to train our models or third-party models. Customer-requested local training requires explicit authorization and uses only the data you select. Local inference keeps model inputs within your deployment. If you choose an external model provider, prompts and selected content are sent to that provider under its terms; the provider and data flow must be agreed before activation." xml:space="preserve">
+    <value>เราไม่นำเอกสารส่วนตัวหรือการสื่อสารของคุณไปฝึกโมเดลของเราหรือโมเดลของบุคคลที่สาม การฝึกโมเดลภายในองค์กรตามคำขอของลูกค้าต้องได้รับอนุญาตอย่างชัดเจน และใช้เฉพาะข้อมูลที่คุณเลือกเท่านั้น การประมวลผลโมเดลภายในองค์กรช่วยให้ข้อมูลนำเข้าของโมเดลยังคงอยู่ภายในระบบที่คุณติดตั้งใช้งาน หากคุณเลือกผู้ให้บริการโมเดลภายนอก พรอมต์และเนื้อหาที่เลือกจะถูกส่งไปยังผู้ให้บริการรายนั้นภายใต้ข้อกำหนดของผู้ให้บริการ โดยต้องตกลงเกี่ยวกับผู้ให้บริการและการไหลของข้อมูลก่อนเปิดใช้งาน</value>
+  </data>
   <data name="We do not, and will never, sell, rent, or lease your personal or business data to third parties." xml:space="preserve">
     <value>เราไม่ได้ และจะไม่เคย ขาย ให้เช่า หรือให้ยืมข้อมูลส่วนตัวหรือข้อมูลทางธุรกิจของคุณแก่บุคคลที่สาม</value>
   </data>
@@ -200,6 +209,9 @@
   </data>
   <data name="When you register for an Aiursoft commercial account or engage with our sales team, we collect necessary contact details, including your name, your work email address, and your company name. This information is used strictly for account administration and communication." xml:space="preserve">
     <value>เมื่อคุณสมัครใช้งานบัญชีเชิงพาณิชย์ของ Aiursoft หรือติดต่อกับทีมขายของเรา เราจะเก็บข้อมูลติดต่อที่จำเป็น ได้แก่ ชื่อของคุณ ที่อยู่อีเมลทำงาน และชื่อบริษัทของคุณ ข้อมูลนี้จะถูกใช้เพียงเพื่อการจัดการบัญชีและการสื่อสารเท่านั้น</value>
+  </data>
+  <data name="When you utilize our cloud-hosted infrastructure (such as Mailcow, Nextcloud, or Authentik instances managed on our servers), AIURSOFT LIMITED acts as a Data Processor. You remain the Data Controller. Infrastructure administrators may have technical access to hosted systems, databases, and backups. We restrict access to authorized personnel and service duties. Access to business content for a support request requires your explicit authorization, is limited to that request, and is revoked when the work ends." xml:space="preserve">
+    <value>เมื่อคุณใช้โครงสร้างพื้นฐานที่โฮสต์บนคลาวด์ของเรา (เช่น อินสแตนซ์ Mailcow, Nextcloud หรือ Authentik ที่ดูแลบนเซิร์ฟเวอร์ของเรา) AIURSOFT LIMITED จะทำหน้าที่เป็นผู้ประมวลผลข้อมูล ส่วนคุณยังคงเป็นผู้ควบคุมข้อมูล ผู้ดูแลระบบโครงสร้างพื้นฐานอาจเข้าถึงระบบ ฐานข้อมูล และข้อมูลสำรองที่โฮสต์ไว้ได้ในทางเทคนิค เราจำกัดการเข้าถึงไว้เฉพาะบุคลากรที่ได้รับอนุญาตและเท่าที่จำเป็นต่อการให้บริการ การเข้าถึงเนื้อหาทางธุรกิจเพื่อดำเนินการตามคำขอรับการสนับสนุนต้องได้รับอนุญาตอย่างชัดแจ้งจากคุณ จำกัดเฉพาะคำขอนั้น และจะถูกเพิกถอนเมื่อดำเนินงานเสร็จสิ้น</value>
   </data>
   <data name="When you utilize our cloud-hosted infrastructure (such as Mailcow, Nextcloud, or Authentik instances managed on our servers), AIURSOFT LIMITED acts as a Data Processor. You remain the Data Controller. We host and maintain the infrastructure to ensure uptime and security, but our personnel possess absolutely zero access to your underlying business data (e.g., the contents of your emails, your stored files, or your internal chat logs) unless you explicitly grant us temporary, revocable access for the sole purpose of resolving a technical support ticket you have initiated." xml:space="preserve">
     <value>เมื่อคุณใช้โครงสร้างพื้นฐานที่โฮสต์บนคลาวด์ของเรา (เช่น ตัวอย่างเช่น ระบบ Mailcow, Nextcloud หรืออินสแตนซ์ Authentik ที่จัดการบนเซิร์ฟเวอร์ของเรา) AIURSOFT LIMITED จะทำหน้าที่เป็นผู้ประมวลผลข้อมูล คุณยังคงเป็นผู้ควบคุมข้อมูล พวกเราจัดเก็บและดูแลโครงสร้างพื้นฐานเพื่อให้มั่นใจถึงความพร้อมใช้งานและรักษาความปลอดภัย แต่บุคลากรของเราไม่มีสิทธิ์เข้าถึงข้อมูลธุรกิจพื้นฐานของคุณเลย (ตัวอย่างเช่น เนื้อหาอีเมล ไฟล์ที่เก็บไว้ หรือบันทึกการแชทภายใน) เว้นแต่คุณจะให้สิทธิ์ชั่วคราวและสามารถยกเลิกได้เพียงเพื่อจุดประสงค์เดียวในการแก้ไขปัญหาตั๋วสนับสนุนทางเทคนิคที่คุณได้เริ่มต้นไว้</value>

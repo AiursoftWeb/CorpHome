@@ -60,11 +60,17 @@
   <data name="Aiursoft provides enterprise IT infrastructure solutions built upon open-source technologies (e.g., Linux, Nextcloud, Mailcow, Authentik, GitLab)." xml:space="preserve">
     <value>Η Aiursoft παρέχει λύσεις υποδομής Πληροφορικής για επιχειρήσεις βασισμένες σε τεχνολογίες ανοιχτού κώδικα (π.χ., Linux, Nextcloud, Mailcow, Authentik, GitLab).</value>
   </data>
+  <data name="Aiursoft software, including deployment scripts and Template orchestration code, is provided under its published open-source licenses. Copyright ownership does not restrict the rights granted by those licenses. Third-party software retains its respective licenses. Aiursoft names, logos, and branding are separate from software licensing; modified distributions must not be presented as official products." xml:space="preserve">
+    <value>Το λογισμικό της Aiursoft, συμπεριλαμβανομένων των σεναρίων ανάπτυξης και του κώδικα ενορχήστρωσης Template, παρέχεται βάσει των δημοσιευμένων αδειών ανοιχτού κώδικα. Η κατοχή των πνευματικών δικαιωμάτων δεν περιορίζει τα δικαιώματα που παρέχουν οι εν λόγω άδειες. Το λογισμικό τρίτων εξακολουθεί να διέπεται από τις αντίστοιχες άδειές του. Οι ονομασίες, τα λογότυπα και η εμπορική ταυτότητα της Aiursoft είναι ανεξάρτητα από την αδειοδότηση του λογισμικού· οι τροποποιημένες διανομές δεν πρέπει να παρουσιάζονται ως επίσημα προϊόντα.</value>
+  </data>
   <data name="All fees are exclusive of applicable taxes, levies, or duties imposed by taxing authorities, and you shall be responsible for payment of all such taxes." xml:space="preserve">
     <value>Όλα τα τέλη είναι αποκλειστικά των εφαρμοστέων φόρων, τελών ή δασμών που επιβάλλονται από τις φορολογικές αρχές, και εσείς είστε υπεύθυνοι για την πληρωμή όλων των εν λόγω φόρων.</value>
   </data>
   <data name="All payments are securely processed by our third-party payment gateway, Stripe. Aiursoft does not collect, process, or store your full credit card information on our servers." xml:space="preserve">
     <value>Όλες οι πληρωμές επεξεργάζονται με ασφάλεια από την τρίτη υπηρεσία πληρωμών μας, Stripe. Η Aiursoft δεν συλλέγει, επεξεργάζεται ή αποθηκεύει τις πλήρεις πληροφορίες της πιστωτικής σας κάρτας στους διακομιστές της.</value>
+  </data>
+  <data name="An isolated deployment requires local packages, models, identity services, and other dependencies. Hosted email, cloud management, and external model APIs require connectivity and are outside the isolated environment. These services and their data flows must be agreed before activation." xml:space="preserve">
+    <value>Μια απομονωμένη εγκατάσταση απαιτεί τοπικά πακέτα, μοντέλα, υπηρεσίες διαχείρισης ταυτοτήτων και άλλες εξαρτήσεις. Το φιλοξενούμενο ηλεκτρονικό ταχυδρομείο, η διαχείριση μέσω cloud και τα εξωτερικά API μοντέλων απαιτούν σύνδεση και βρίσκονται εκτός του απομονωμένου περιβάλλοντος. Οι υπηρεσίες αυτές και οι ροές δεδομένων τους πρέπει να συμφωνηθούν πριν από την ενεργοποίηση.</value>
   </data>
   <data name="Any unauthorized access to your on-premise servers (for Startup/Enterprise plans)." xml:space="preserve">
     <value>Οποιαδήποτε μη εξουσιοδοτημένη πρόσβαση στους τοπικούς σας διακομιστές (για τα πακέτα Startup/Enterprise).</value>
@@ -96,6 +102,9 @@
   <data name="Email:" xml:space="preserve">
     <value>Ηλεκτρονικό ταχυδρομείο:</value>
   </data>
+  <data name="Enterprise services do not automatically extend an operating-system release&apos;s published security-update lifecycle. AnduinOS 2.0 standard support ends in April 2031. Your service agreement specifies included systems, supported devices, management integrations, maintenance responsibilities, and service duration." xml:space="preserve">
+    <value>Οι εταιρικές υπηρεσίες δεν παρατείνουν αυτόματα τον δημοσιευμένο κύκλο ζωής ενημερώσεων ασφαλείας μιας έκδοσης λειτουργικού συστήματος. Η τυπική υποστήριξη του AnduinOS 2.0 λήγει τον Απρίλιο του 2031. Η σύμβαση παροχής υπηρεσιών σας καθορίζει τα συστήματα που περιλαμβάνονται, τις υποστηριζόμενες συσκευές, τις ενσωματώσεις διαχείρισης, τις ευθύνες συντήρησης και τη διάρκεια της υπηρεσίας.</value>
+  </data>
   <data name="For On-Premise plans requiring a One-Time Setup Fee, this fee covers the manual labor of our architects (e.g., network configuration, Docker deployment, Yubikey integration). Setup fees are strictly non-refundable once the deployment and configuration process has commenced." xml:space="preserve">
     <value>Για τα σχέδια On-Premise που απαιτούν Μία Εφάπαξ Χρέωση Εγκατάστασης, αυτή η χρέωση καλύπτει το χειροκίνητο έργο των αρχιτεκτόνων μας (π.χ. διαμόρφωση δικτύου, έγκαιρη εγκατάσταση Docker, ολοκλήρωση Yubikey). Οι χρεώσεις εγκατάστασης είναι αυστηρά μη επιστρέψιμες μόλις ξεκινήσει η διαδικασία εγκατάστασης και διαμόρφωσης.</value>
   </data>
@@ -113,6 +122,9 @@
   </data>
   <data name="Last Updated: March 2026" xml:space="preserve">
     <value>Τελευταία Ενημέρωση: Μάρτιος 2026</value>
+  </data>
+  <data name="Last Updated: September 2026" xml:space="preserve">
+    <value>Τελευταία ενημέρωση: Σεπτέμβριος 2026</value>
   </data>
   <data name="No Pro-Rated Refunds:" xml:space="preserve">
     <value>Καμία Αναλογική Επιστροφή Χρημάτων:</value>
@@ -188,6 +200,9 @@
   </data>
   <data name="What you are purchasing from Aiursoft is the hosting, automated deployment, maintenance, priority support, and enterprise integration of these tools." xml:space="preserve">
     <value>Αυτό που αγοράζετε από την Aiursoft είναι η φιλοξενία, η αυτοματοποιημένη ανάπτυξη, η συντήρηση, η προτεραιότητα υποστήριξης και η εταιρική ολοκλήρωση αυτών των εργαλείων.</value>
+  </data>
+  <data name="Where a plan includes 7×24 on-call support, this means incident intake and escalation. The service agreement defines incident severity, response targets, support channels, maintenance windows, and exclusions. It does not guarantee immediate resolution or uninterrupted availability." xml:space="preserve">
+    <value>Όταν ένα πρόγραμμα περιλαμβάνει υποστήριξη ετοιμότητας 7×24, αυτό σημαίνει λήψη και κλιμάκωση περιστατικών. Η σύμβαση παροχής υπηρεσιών καθορίζει τη σοβαρότητα των περιστατικών, τους στόχους χρόνου απόκρισης, τα κανάλια υποστήριξης, τα χρονικά διαστήματα συντήρησης και τις εξαιρέσεις. Δεν εγγυάται άμεση επίλυση ή αδιάλειπτη διαθεσιμότητα.</value>
   </data>
   <data name="You agree not to misuse the Services or help anyone else to do so. You must not:" xml:space="preserve">
     <value>Συμφωνείτε να μην κακοποιείτε τις Υπηρεσίες ή να βοηθάτε οποιονδήποτε άλλο να το κάνει. Δεν πρέπει να:</value>

@@ -33,8 +33,14 @@
   <data name="Advanced" xml:space="preserve">
     <value>Avancé</value>
   </data>
+  <data name="Agree the device count, supported platforms, management integrations, and acceptance criteria before deployment." xml:space="preserve">
+    <value>Convenez du nombre d’appareils, des plateformes prises en charge, des intégrations de gestion et des critères d’acceptation avant le déploiement.</value>
+  </data>
   <data name="All the power of open-source, backed by enterprise-grade support, management tools, and customisation capabilities." xml:space="preserve">
     <value>Toute la puissance du open-source, renforcée par un support, des outils de gestion et des capacités de personnalisation de niveau entreprise.</value>
+  </data>
+  <data name="AnduinOS 2.0 standard support ends in April 2031, as for the community edition. Enterprise services do not extend this release&apos;s security-update lifecycle. Service scope and subscription duration are specified in your agreement." xml:space="preserve">
+    <value>La prise en charge standard d’AnduinOS 2.0 prend fin en avril 2031, comme pour l’édition communautaire. Les services Enterprise ne prolongent pas la durée de vie des mises à jour de sécurité de cette version. Le périmètre des services et la durée de l’abonnement sont précisés dans votre contrat.</value>
   </data>
   <data name="AnduinOS device" xml:space="preserve">
     <value>appareil AnduinOS</value>
@@ -78,6 +84,9 @@
   <data name="Apkg is a declarative APT repository platform that lets you host signed Debian repositories, mirror upstream archives, and publish your own .apkg packages — all fully on-premise. Integrates seamlessly with AnduinOS for painless apt update &amp;&amp; apt install workflows across your entire fleet." xml:space="preserve">
     <value>Apkg est une plateforme de référentiel APT déclarative qui vous permet d&apos;héberger des référentiels Debian signés, de miroir les archives en amont et de publier vos propres packages .apkg — le tout entièrement en interne. Il s&apos;intègre parfaitement avec AnduinOS pour des workflows apt update &amp;&amp; apt install sans effort sur l&apos;ensemble de votre flotte.</value>
   </data>
+  <data name="April" xml:space="preserve">
+    <value>avril</value>
+  </data>
   <data name="Architecture" xml:space="preserve">
     <value>Architecture</value>
   </data>
@@ -114,6 +123,9 @@
   <data name="Bulk operations across your entire fleet" xml:space="preserve">
     <value>Opérations par lots sur l&apos;ensemble de votre flotte</value>
   </data>
+  <data name="Bulk operations for supported devices and integrations" xml:space="preserve">
+    <value>Opérations groupées pour les appareils et les intégrations pris en charge</value>
+  </data>
   <data name="Community Site" xml:space="preserve">
     <value>Site Communautaire</value>
   </data>
@@ -134,6 +146,9 @@
   </data>
   <data name="Containerized" xml:space="preserve">
     <value>Conteneurisé</value>
+  </data>
+  <data name="Content updates and device monitoring use the management service selected for your deployment. Cloud management requires connectivity; some maintenance may require on-site access." xml:space="preserve">
+    <value>Les mises à jour du contenu et la surveillance des appareils utilisent le service de gestion sélectionné pour votre déploiement. La gestion dans le cloud nécessite une connexion ; certaines opérations de maintenance peuvent nécessiter une intervention sur site.</value>
   </data>
   <data name="Control and configure thousands of devices and policies efficiently from a single dashboard." xml:space="preserve">
     <value>Contrôlez et configurez efficacement des milliers d&apos;appareils et de stratégies à partir d&apos;un seul tableau de bord.</value>
@@ -177,6 +192,9 @@
   <data name="Desktop Environment" xml:space="preserve">
     <value>Environnement de bureau</value>
   </data>
+  <data name="Device Management Integrations" xml:space="preserve">
+    <value>Intégrations de gestion des appareils</value>
+  </data>
   <data name="digital signage and kiosk terminals" xml:space="preserve">
     <value>affichage numérique et bornes interactives</value>
   </data>
@@ -204,11 +222,17 @@
   <data name="Edge AI" xml:space="preserve">
     <value>IA périphérique</value>
   </data>
+  <data name="End of Standard Support" xml:space="preserve">
+    <value>Fin de la prise en charge standard</value>
+  </data>
   <data name="End of Support" xml:space="preserve">
     <value>Fin de prise en charge</value>
   </data>
   <data name="Enroll" xml:space="preserve">
     <value>Inscrire</value>
+  </data>
+  <data name="Enroll in your agreed management service" xml:space="preserve">
+    <value>Inscrivez-vous au service de gestion convenu</value>
   </data>
   <data name="Enterprise" xml:space="preserve">
     <value>Entreprise</value>
@@ -218,6 +242,9 @@
   </data>
   <data name="Enterprise Services" xml:space="preserve">
     <value>Services Entreprise</value>
+  </data>
+  <data name="Enterprise support covers the services and devices listed in your agreement. Where purchased, 7×24 on-call support provides incident intake and escalation; severity levels, response targets, maintenance windows, and exclusions are defined in the service agreement." xml:space="preserve">
+    <value>L’assistance aux entreprises couvre les services et les appareils répertoriés dans votre contrat. Si cette option a été souscrite, l’assistance d’astreinte 24 h/24 et 7 j/7 assure la prise en charge et l’escalade des incidents ; les niveaux de gravité, les délais de réponse, les plages de maintenance et les exclusions sont définis dans le contrat de service.</value>
   </data>
   <data name="Enterprise-grade" xml:space="preserve">
     <value>De niveau entreprise</value>
@@ -270,6 +297,9 @@
   <data name="HDR Support" xml:space="preserve">
     <value>Prise en charge du HDR</value>
   </data>
+  <data name="Host your own internal Apkg repository behind your firewall. Distribute approved updates and in-house software across your local network. Isolated deployments require package updates to be imported into the internal repository." xml:space="preserve">
+    <value>Hébergez votre propre dépôt Apkg interne derrière votre pare-feu. Distribuez les mises à jour approuvées et les logiciels développés en interne sur votre réseau local. Dans les environnements isolés, les mises à jour des paquets doivent être importées dans le dépôt interne.</value>
+  </data>
   <data name="Host your own internal Apkg repository behind your firewall. Selectively push updates, enforce compliance policies, and distribute custom in-house software — all while keeping every device consistently up to date, fully offline." xml:space="preserve">
     <value>Hébergez votre propre dépôt Apkg interne derrière votre pare-feu. Pouvez les mises à jour de manière sélective, appliquez des politiques de conformité et distribuez des logiciels personnalisés internes, tout en maintenant tous les appareils régulièrement à jour, en mode entièrement hors ligne.</value>
   </data>
@@ -278,6 +308,9 @@
   </data>
   <data name="Init System" xml:space="preserve">
     <value>Système d&apos;initialisation</value>
+  </data>
+  <data name="Install on supported hardware, configure security and update policies, and enroll devices in the management services included in your deployment." xml:space="preserve">
+    <value>Installez le système sur du matériel compatible, configurez les politiques de sécurité et de mise à jour, puis inscrivez les appareils aux services de gestion inclus dans votre déploiement.</value>
   </data>
   <data name="Internal package distribution via apt" xml:space="preserve">
     <value>Distribution de paquets internes via apt</value>
@@ -315,6 +348,9 @@
   <data name="LTS Support" xml:space="preserve">
     <value>Support LTS</value>
   </data>
+  <data name="Managed Update Rollouts" xml:space="preserve">
+    <value>Déploiement maîtrisé des mises à jour</value>
+  </data>
   <data name="management for your fleet" xml:space="preserve">
     <value>gestion de votre flotte</value>
   </data>
@@ -335,6 +371,9 @@
   </data>
   <data name="Monitoring" xml:space="preserve">
     <value>Surveillance</value>
+  </data>
+  <data name="Monitoring, remote configuration, and policy enforcement are separate integrations. Your deployment proposal specifies the supported devices and included capabilities." xml:space="preserve">
+    <value>La supervision, la configuration à distance et l’application des règles sont des intégrations distinctes. Votre proposition de déploiement précise les appareils pris en charge et les fonctionnalités incluses.</value>
   </data>
   <data name="Multi-Node" xml:space="preserve">
     <value>Multi-nœuds</value>
@@ -365,6 +404,9 @@
   </data>
   <data name="Performance" xml:space="preserve">
     <value>Performance</value>
+  </data>
+  <data name="Plan and Deploy Your Fleet" xml:space="preserve">
+    <value>Planifiez et déployez votre parc</value>
   </data>
   <data name="Ports" xml:space="preserve">
     <value>Ports</value>
@@ -411,6 +453,9 @@
   <data name="Remote configuration and policy enforcement" xml:space="preserve">
     <value>Configuration à distance et application des stratégies</value>
   </data>
+  <data name="Remote configuration and policy integration where agreed" xml:space="preserve">
+    <value>Configuration à distance et intégration des politiques, selon accord</value>
+  </data>
   <data name="Remote content management" xml:space="preserve">
     <value>Gestion de contenu à distance</value>
   </data>
@@ -443,6 +488,9 @@
   </data>
   <data name="Secure Boot" xml:space="preserve">
     <value>Démarrage sécurisé</value>
+  </data>
+  <data name="Serve packages internally using standard apt. Isolated networks require upstream packages and updates to be imported into the local repository." xml:space="preserve">
+    <value>Distribuez les paquets en interne avec apt standard. Dans les réseaux isolés, les paquets provenant des dépôts amont et les mises à jour doivent être importés dans le dépôt local.</value>
   </data>
   <data name="Set up your system in under 5 minutes" xml:space="preserve">
     <value>Configurez votre système en moins de 5 minutes</value>
@@ -509,6 +557,9 @@
   </data>
   <data name="UI Toolkit" xml:space="preserve">
     <value>Boîte à outils d&apos;interface utilisateur</value>
+  </data>
+  <data name="Update and restart policies are configured for your deployment. Test releases before rollout and schedule maintenance for changes that require downtime." xml:space="preserve">
+    <value>Les règles de mise à jour et de redémarrage sont configurées pour votre déploiement. Testez les versions avant leur déploiement et planifiez les opérations de maintenance pour les modifications qui nécessitent une interruption de service.</value>
   </data>
   <data name="Update content, push configurations, and monitor device health — all from the cloud. No need for on-site visits." xml:space="preserve">
     <value>Mettez à jour le contenu, diffusez les configurations et surveillez l’état des appareils, le tout depuis le cloud. Plus besoin de déplacements sur site.</value>

@@ -36,6 +36,9 @@
   <data name="Compliance Ready" xml:space="preserve">
     <value>Sẵn sàng tuân thủ</value>
   </data>
+  <data name="Configure access controls and audit records for your requirements. Compliance depends on the applicable standard, deployment, and your operating procedures." xml:space="preserve">
+    <value>Thiết lập các biện pháp kiểm soát truy cập và hồ sơ kiểm toán theo yêu cầu của bạn. Việc tuân thủ phụ thuộc vào tiêu chuẩn áp dụng, cách triển khai và quy trình vận hành của bạn.</value>
+  </data>
   <data name="Custom Branding" xml:space="preserve">
     <value>Tùy biến thương hiệu</value>
   </data>
@@ -47,6 +50,9 @@
   </data>
   <data name="Enterprise customers get round-the-clock telephone support, ensuring critical issues are addressed immediately." xml:space="preserve">
     <value>Khách hàng doanh nghiệp nhận được hỗ trợ qua điện thoại 24/7, đảm bảo các vấn đề quan trọng được giải quyết ngay lập tức.</value>
+  </data>
+  <data name="Enterprise services add deployment, customization, and support to the community edition. Support coverage, including any 7×24 on-call service, is defined in your agreement." xml:space="preserve">
+    <value>Các dịch vụ doanh nghiệp bổ sung dịch vụ triển khai, tùy chỉnh và hỗ trợ cho phiên bản cộng đồng. Phạm vi hỗ trợ, bao gồm mọi dịch vụ hỗ trợ trực 24/7, được quy định trong thỏa thuận của bạn.</value>
   </data>
   <data name="Freedom and enterprise service don&apos;t conflict." xml:space="preserve">
     <value>Tự do và dịch vụ doanh nghiệp không mâu thuẫn.</value>
@@ -63,11 +69,17 @@
   <data name="Meet industry compliance requirements with auditable configurations and enterprise-grade controls." xml:space="preserve">
     <value>Đáp ứng các yêu cầu tuân thủ ngành với các cấu hình có thể kiểm toán và các kiểm soát ở mức doanh nghiệp.</value>
   </data>
+  <data name="Monitor supported endpoints and configure the remote-management integrations specified in your deployment proposal." xml:space="preserve">
+    <value>Giám sát các thiết bị đầu cuối được hỗ trợ và cấu hình các tích hợp quản lý từ xa được nêu trong đề xuất triển khai của bạn.</value>
+  </data>
   <data name="On-premises Package Repository" xml:space="preserve">
     <value>Kho gói phần mềm tại chỗ</value>
   </data>
   <data name="Private Package Repository" xml:space="preserve">
     <value>Kho lưu trữ gói riêng tư</value>
+  </data>
+  <data name="Where included in your agreement, round-the-clock incident intake and escalation are available. Response targets depend on incident severity; resolution time is not guaranteed." xml:space="preserve">
+    <value>Nếu được quy định trong thỏa thuận của bạn, dịch vụ tiếp nhận và chuyển cấp sự cố 24/7 sẽ được cung cấp. Thời gian phản hồi mục tiêu phụ thuộc vào mức độ nghiêm trọng của sự cố; không đảm bảo thời gian xử lý.</value>
   </data>
 
 </root>

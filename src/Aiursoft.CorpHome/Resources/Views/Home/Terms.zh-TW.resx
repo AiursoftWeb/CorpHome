@@ -60,11 +60,17 @@
   <data name="Aiursoft provides enterprise IT infrastructure solutions built upon open-source technologies (e.g., Linux, Nextcloud, Mailcow, Authentik, GitLab)." xml:space="preserve">
     <value>Aiursoft 提供基於開源技術（例如：Linux、Nextcloud、Mailcow、Authentik、GitLab）的企業級 IT 基礎設施解決方案。</value>
   </data>
+  <data name="Aiursoft software, including deployment scripts and Template orchestration code, is provided under its published open-source licenses. Copyright ownership does not restrict the rights granted by those licenses. Third-party software retains its respective licenses. Aiursoft names, logos, and branding are separate from software licensing; modified distributions must not be presented as official products." xml:space="preserve">
+    <value>Aiursoft 軟體（包括部署指令碼與 Template 協調程式碼）依據其已公布的開放原始碼授權條款提供。著作權所有權不會限制這些授權條款所授予的權利。第三方軟體仍受其各自的授權條款規範。Aiursoft 名稱、標誌與品牌識別不屬於軟體授權範圍；修改後的發行版本不得宣稱為官方產品。</value>
+  </data>
   <data name="All fees are exclusive of applicable taxes, levies, or duties imposed by taxing authorities, and you shall be responsible for payment of all such taxes." xml:space="preserve">
     <value>所有費用均不包含適用之稅款、稅額或稅捐，該等稅款由課稅機關所課徵，您應負責支付所有相關稅款。</value>
   </data>
   <data name="All payments are securely processed by our third-party payment gateway, Stripe. Aiursoft does not collect, process, or store your full credit card information on our servers." xml:space="preserve">
     <value>所有付款皆由我們的第三方支付網關 Stripe 安全處理。Aiursoft 不會在伺服器上收集、處理或儲存您完整的信用卡資訊。</value>
+  </data>
+  <data name="An isolated deployment requires local packages, models, identity services, and other dependencies. Hosted email, cloud management, and external model APIs require connectivity and are outside the isolated environment. These services and their data flows must be agreed before activation." xml:space="preserve">
+    <value>隔離部署需要本機套件、模型、身分識別服務及其他相依項目。代管電子郵件、雲端管理和外部模型 API 需要網路連線，因此不屬於隔離環境。啟用前，必須先就這些服務及其資料流達成共識。</value>
   </data>
   <data name="Any unauthorized access to your on-premise servers (for Startup/Enterprise plans)." xml:space="preserve">
     <value>任何未經授權存取您自建伺服器的情況（適用於啟動版/企業版方案）。</value>
@@ -96,6 +102,9 @@
   <data name="Email:" xml:space="preserve">
     <value>電子郵件：</value>
   </data>
+  <data name="Enterprise services do not automatically extend an operating-system release&apos;s published security-update lifecycle. AnduinOS 2.0 standard support ends in April 2031. Your service agreement specifies included systems, supported devices, management integrations, maintenance responsibilities, and service duration." xml:space="preserve">
+    <value>企業服務不會自動延長作業系統版本所公布的安全性更新支援週期。AnduinOS 2.0 的標準支援將於 2031 年 4 月結束。您的服務合約會明確列出涵蓋的系統、支援的裝置、管理整合項目、維護責任及服務期限。</value>
+  </data>
   <data name="For On-Premise plans requiring a One-Time Setup Fee, this fee covers the manual labor of our architects (e.g., network configuration, Docker deployment, Yubikey integration). Setup fees are strictly non-refundable once the deployment and configuration process has commenced." xml:space="preserve">
     <value>針對需要一次性設定費用的在地部署方案，此費用涵蓋我們架構師的手動勞務（例如：網路設定、Docker 部署、Yubikey 整合）。一旦開始部署與設定流程，設定費用將嚴格不予退還。</value>
   </data>
@@ -113,6 +122,9 @@
   </data>
   <data name="Last Updated: March 2026" xml:space="preserve">
     <value>最後更新：2026年3月</value>
+  </data>
+  <data name="Last Updated: September 2026" xml:space="preserve">
+    <value>最後更新：2026 年 9 月</value>
   </data>
   <data name="No Pro-Rated Refunds:" xml:space="preserve">
     <value>無比例退費：</value>
@@ -188,6 +200,9 @@
   </data>
   <data name="What you are purchasing from Aiursoft is the hosting, automated deployment, maintenance, priority support, and enterprise integration of these tools." xml:space="preserve">
     <value>您向 Aiursoft 購買的服務包括這些工具的主機、自動化部署、維護、優先支援與企業整合。</value>
+  </data>
+  <data name="Where a plan includes 7×24 on-call support, this means incident intake and escalation. The service agreement defines incident severity, response targets, support channels, maintenance windows, and exclusions. It does not guarantee immediate resolution or uninterrupted availability." xml:space="preserve">
+    <value>若方案包含 7×24 隨時待命支援，這表示可受理事件通報並進行升級處理。服務協議會定義事件嚴重程度、回應目標、支援管道、維護時段及例外事項。此支援不保證立即解決問題或服務不中斷。</value>
   </data>
   <data name="You agree not to misuse the Services or help anyone else to do so. You must not:" xml:space="preserve">
     <value>您同意不得濫用本服務，或協助他人進行此等行為。您不得：</value>

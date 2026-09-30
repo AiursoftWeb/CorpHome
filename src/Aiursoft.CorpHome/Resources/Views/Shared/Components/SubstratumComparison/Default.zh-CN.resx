@@ -21,6 +21,9 @@
       <data name="24/7 dedicated support line" xml:space="preserve">
     <value>24/7 专属支持热线</value>
   </data>
+  <data name="24/7 incident intake and escalation where contracted; scope and response targets follow the service agreement" xml:space="preserve">
+    <value>按合同约定提供全天候事件受理与升级处理；服务范围和响应目标以服务协议为准</value>
+  </data>
   <data name="7×24 On-call Support" xml:space="preserve">
     <value>7×24 在线支持</value>
   </data>
@@ -71,6 +74,9 @@
   </data>
   <data name="Deployment &amp; Hosting" xml:space="preserve">
     <value>部署与托管</value>
+  </data>
+  <data name="Device policy integration with scope and supported platforms agreed before deployment" xml:space="preserve">
+    <value>设备策略集成方案，包括范围和支持的平台，需在部署前协商确定</value>
   </data>
   <data name="DevOps &amp; Engineering" xml:space="preserve">
     <value>DevOps &amp; Engineering</value>

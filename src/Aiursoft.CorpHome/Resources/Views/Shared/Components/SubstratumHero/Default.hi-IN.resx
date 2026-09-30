@@ -33,6 +33,9 @@
   <data name="Contact Us" xml:space="preserve">
     <value>संपर्क करें</value>
   </data>
+  <data name="Control data and permissions for locally deployed services. Hosted services and support access are governed by the agreed deployment and authorization." xml:space="preserve">
+    <value>स्थानीय रूप से तैनात सेवाओं के डेटा और अनुमतियों पर आपका नियंत्रण रहता है। होस्ट की गई सेवाओं और सहायता तक पहुँच, सहमतिनुसार तय किए गए परिनियोजन और प्राधिकरण के अधीन होती है।</value>
+  </data>
   <data name="Designed to run offline. Perfect for high-security environments with no internet dependency." xml:space="preserve">
     <value>ऑफलाइन चलने के लिए डिज़ाइन किया गया। उच्च-सुरक्षा वाले वातावरण के लिए आदर्श, जहाँ इंटरनेट की आवश्यकता नहीं होती।</value>
   </data>
@@ -41,6 +44,9 @@
   </data>
   <data name="Get unified endpoint management (UEM), identity management (IAM), and collaboration tools (OA) in one package. All on your local servers!" xml:space="preserve">
     <value>एकीकृत एंडपॉइंट प्रबंधन (UEM), सर्वसुलभ प्रबंधन (IAM), और सहयोगात्मक उपकरण (OA) को एक पैकेज में प्राप्त करें। सभी आपके स्थानीय सर्वर पर!</value>
+  </data>
+  <data name="Local services can operate on an isolated network when packages, models, and dependencies are provisioned locally. Hosted email, cloud management, and external APIs require connectivity." xml:space="preserve">
+    <value>जब पैकेज, मॉडल और निर्भरताएँ स्थानीय रूप से उपलब्ध कराई जाती हैं, तो स्थानीय सेवाएँ एक पृथक नेटवर्क पर काम कर सकती हैं। होस्टेड ईमेल, क्लाउड प्रबंधन और बाहरी API के लिए कनेक्टिविटी आवश्यक है।</value>
   </data>
   <data name="Own Your Data" xml:space="preserve">
     <value>अपना डेटा स्वयं कायम रखें</value>

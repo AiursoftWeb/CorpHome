@@ -36,6 +36,9 @@
   <data name="Compliance Ready" xml:space="preserve">
     <value>Πλήρης Συμμόρφωση</value>
   </data>
+  <data name="Configure access controls and audit records for your requirements. Compliance depends on the applicable standard, deployment, and your operating procedures." xml:space="preserve">
+    <value>Διαμορφώστε τους ελέγχους πρόσβασης και τα αρχεία καταγραφής ελέγχου σύμφωνα με τις απαιτήσεις σας. Η συμμόρφωση εξαρτάται από το εφαρμοστέο πρότυπο, την ανάπτυξη και τις διαδικασίες λειτουργίας σας.</value>
+  </data>
   <data name="Custom Branding" xml:space="preserve">
     <value>Προσαρμοσμένη Εμπορική Σήμανση</value>
   </data>
@@ -47,6 +50,9 @@
   </data>
   <data name="Enterprise customers get round-the-clock telephone support, ensuring critical issues are addressed immediately." xml:space="preserve">
     <value>Οι επιχειρηματικοί πελάτες λαμβάνουν υποστήριξη τηλεφώνου 24 ώρες το 24ωρο, διασφαλίζοντας ότι τα κρίσιμα ζητήματα αντιμετωπίζονται άμεσα.</value>
+  </data>
+  <data name="Enterprise services add deployment, customization, and support to the community edition. Support coverage, including any 7×24 on-call service, is defined in your agreement." xml:space="preserve">
+    <value>Οι υπηρεσίες για επιχειρήσεις προσθέτουν στην έκδοση κοινότητας υπηρεσίες εγκατάστασης, προσαρμογής και υποστήριξης. Η κάλυψη υποστήριξης, συμπεριλαμβανομένης τυχόν υπηρεσίας εφημερίας 7×24, καθορίζεται στη συμφωνία σας.</value>
   </data>
   <data name="Freedom and enterprise service don&apos;t conflict." xml:space="preserve">
     <value>Η ελευθερία και οι επιχειρηματικές υπηρεσίες δεν συγκρούονται.</value>
@@ -63,11 +69,17 @@
   <data name="Meet industry compliance requirements with auditable configurations and enterprise-grade controls." xml:space="preserve">
     <value>Πληρώστε τις απαιτήσεις συμμόρφωσης του κλάδου με ρυθμίσεις που μπορούν να ελεγχθούν και με έλεγχο επιπέδου επιχειρήσεων.</value>
   </data>
+  <data name="Monitor supported endpoints and configure the remote-management integrations specified in your deployment proposal." xml:space="preserve">
+    <value>Παρακολουθήστε τα υποστηριζόμενα τερματικά σημεία και διαμορφώστε τις ενσωματώσεις απομακρυσμένης διαχείρισης που καθορίζονται στην πρόταση υλοποίησης.</value>
+  </data>
   <data name="On-premises Package Repository" xml:space="preserve">
     <value>Αποθήκη Πακέτων Εγκατεστημένων επί Τόπου</value>
   </data>
   <data name="Private Package Repository" xml:space="preserve">
     <value>Ιδιωτικό Αποθετήριο Πακέτων</value>
+  </data>
+  <data name="Where included in your agreement, round-the-clock incident intake and escalation are available. Response targets depend on incident severity; resolution time is not guaranteed." xml:space="preserve">
+    <value>Όπου προβλέπεται στη σύμβασή σας, είναι διαθέσιμη η υποδοχή και κλιμάκωση περιστατικών όλο το εικοσιτετράωρο. Οι στόχοι απόκρισης εξαρτώνται από τη σοβαρότητα του περιστατικού· ο χρόνος επίλυσης δεν είναι εγγυημένος.</value>
   </data>
 
 </root>

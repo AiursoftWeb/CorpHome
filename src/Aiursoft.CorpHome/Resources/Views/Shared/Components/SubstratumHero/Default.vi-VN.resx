@@ -33,6 +33,9 @@
   <data name="Contact Us" xml:space="preserve">
     <value>Liên hệ với chúng tôi</value>
   </data>
+  <data name="Control data and permissions for locally deployed services. Hosted services and support access are governed by the agreed deployment and authorization." xml:space="preserve">
+    <value>Kiểm soát dữ liệu và quyền truy cập đối với các dịch vụ được triển khai tại chỗ. Các dịch vụ được lưu trữ và quyền truy cập hỗ trợ được quản lý theo thỏa thuận về triển khai và cấp quyền.</value>
+  </data>
   <data name="Designed to run offline. Perfect for high-security environments with no internet dependency." xml:space="preserve">
     <value>Được thiết kế để hoạt động ngoại tuyến. Hoàn hảo cho các môi trường bảo mật cao không phụ thuộc vào internet.</value>
   </data>
@@ -41,6 +44,9 @@
   </data>
   <data name="Get unified endpoint management (UEM), identity management (IAM), and collaboration tools (OA) in one package. All on your local servers!" xml:space="preserve">
     <value>Nhận gói giải pháp tích hợp quản lý điểm cuối (UEM), quản lý danh tính (IAM) và công cụ cộng tác (OA) trong một gói duy nhất. Tất cả đều chạy trên máy chủ nội bộ của bạn!</value>
+  </data>
+  <data name="Local services can operate on an isolated network when packages, models, and dependencies are provisioned locally. Hosted email, cloud management, and external APIs require connectivity." xml:space="preserve">
+    <value>Các dịch vụ cục bộ có thể hoạt động trên mạng cô lập nếu các gói, mô hình và phần phụ thuộc được cài đặt tại chỗ. Email lưu trữ, quản lý đám mây và API bên ngoài cần có kết nối mạng.</value>
   </data>
   <data name="Own Your Data" xml:space="preserve">
     <value>Sở hữu dữ liệu của bạn</value>

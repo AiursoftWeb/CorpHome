@@ -60,11 +60,17 @@
   <data name="Aiursoft provides enterprise IT infrastructure solutions built upon open-source technologies (e.g., Linux, Nextcloud, Mailcow, Authentik, GitLab)." xml:space="preserve">
     <value>Aiursoft menyediakan solusi infrastruktur TI perusahaan yang dibangun di atas teknologi open-source (misalnya, Linux, Nextcloud, Mailcow, Authentik, GitLab).</value>
   </data>
+  <data name="Aiursoft software, including deployment scripts and Template orchestration code, is provided under its published open-source licenses. Copyright ownership does not restrict the rights granted by those licenses. Third-party software retains its respective licenses. Aiursoft names, logos, and branding are separate from software licensing; modified distributions must not be presented as official products." xml:space="preserve">
+    <value>Perangkat lunak Aiursoft, termasuk skrip penerapan dan kode orkestrasi Template, disediakan berdasarkan lisensi sumber terbuka yang telah dipublikasikan. Kepemilikan hak cipta tidak membatasi hak yang diberikan oleh lisensi tersebut. Perangkat lunak pihak ketiga tetap tunduk pada lisensinya masing-masing. Nama, logo, dan identitas merek Aiursoft terpisah dari lisensi perangkat lunak; distribusi yang telah dimodifikasi tidak boleh disajikan sebagai produk resmi.</value>
+  </data>
   <data name="All fees are exclusive of applicable taxes, levies, or duties imposed by taxing authorities, and you shall be responsible for payment of all such taxes." xml:space="preserve">
     <value>Semua biaya tidak termasuk pajak, retribusi, atau bea yang dikenakan oleh otoritas pajak, dan Anda bertanggung jawab atas pembayaran semua pajak tersebut.</value>
   </data>
   <data name="All payments are securely processed by our third-party payment gateway, Stripe. Aiursoft does not collect, process, or store your full credit card information on our servers." xml:space="preserve">
     <value>Semua pembayaran diproses dengan aman oleh gerbang pembayaran pihak ketiga kami, Stripe. Aiursoft tidak mengumpulkan, memproses, atau menyimpan informasi kartu kredit lengkap Anda di server kami.</value>
+  </data>
+  <data name="An isolated deployment requires local packages, models, identity services, and other dependencies. Hosted email, cloud management, and external model APIs require connectivity and are outside the isolated environment. These services and their data flows must be agreed before activation." xml:space="preserve">
+    <value>Deployment terisolasi memerlukan paket lokal, model, layanan identitas, dan dependensi lainnya. Email yang dihosting, pengelolaan cloud, dan API model eksternal memerlukan konektivitas dan berada di luar lingkungan terisolasi. Layanan-layanan ini beserta aliran datanya harus disepakati sebelum diaktifkan.</value>
   </data>
   <data name="Any unauthorized access to your on-premise servers (for Startup/Enterprise plans)." xml:space="preserve">
     <value>Akses tidak sah ke server on-premise Anda (untuk paket Startup/Enterprise).</value>
@@ -96,6 +102,9 @@
   <data name="Email:" xml:space="preserve">
     <value>Email:</value>
   </data>
+  <data name="Enterprise services do not automatically extend an operating-system release&apos;s published security-update lifecycle. AnduinOS 2.0 standard support ends in April 2031. Your service agreement specifies included systems, supported devices, management integrations, maintenance responsibilities, and service duration." xml:space="preserve">
+    <value>Layanan enterprise tidak secara otomatis memperpanjang siklus dukungan pembaruan keamanan yang dipublikasikan untuk suatu rilis sistem operasi. Dukungan standar AnduinOS 2.0 berakhir pada April 2031. Perjanjian layanan Anda menetapkan sistem yang tercakup, perangkat yang didukung, integrasi pengelolaan, tanggung jawab pemeliharaan, dan jangka waktu layanan.</value>
+  </data>
   <data name="For On-Premise plans requiring a One-Time Setup Fee, this fee covers the manual labor of our architects (e.g., network configuration, Docker deployment, Yubikey integration). Setup fees are strictly non-refundable once the deployment and configuration process has commenced." xml:space="preserve">
     <value>Untuk paket On-Premise yang memerlukan Biaya Pemasangan Sekali, biaya ini mencakup tenaga kerja manual arsitek kami (misalnya, konfigurasi jaringan, penyiapan Docker, integrasi Yubikey). Biaya pemasangan tidak dapat dikembalikan secara ketat setelah proses penyiapan dan konfigurasi dimulai.</value>
   </data>
@@ -113,6 +122,9 @@
   </data>
   <data name="Last Updated: March 2026" xml:space="preserve">
     <value>Terakhir Diperbarui: Maret 2026</value>
+  </data>
+  <data name="Last Updated: September 2026" xml:space="preserve">
+    <value>Terakhir Diperbarui: September 2026</value>
   </data>
   <data name="No Pro-Rated Refunds:" xml:space="preserve">
     <value>Tidak Ada Pengembalian Dana Proporsional:</value>
@@ -188,6 +200,9 @@
   </data>
   <data name="What you are purchasing from Aiursoft is the hosting, automated deployment, maintenance, priority support, and enterprise integration of these tools." xml:space="preserve">
     <value>Apa yang Anda beli dari Aiursoft adalah hosting, penyebaran otomatis, pemeliharaan, dukungan prioritas, dan integrasi perusahaan untuk alat-alat ini.</value>
+  </data>
+  <data name="Where a plan includes 7×24 on-call support, this means incident intake and escalation. The service agreement defines incident severity, response targets, support channels, maintenance windows, and exclusions. It does not guarantee immediate resolution or uninterrupted availability." xml:space="preserve">
+    <value>Jika suatu paket mencakup dukungan siaga 7×24, artinya laporan insiden diterima dan dieskalasikan. Perjanjian layanan menetapkan tingkat keparahan insiden, target waktu respons, saluran dukungan, jadwal pemeliharaan, dan pengecualian. Dukungan ini tidak menjamin penyelesaian segera atau ketersediaan tanpa gangguan.</value>
   </data>
   <data name="You agree not to misuse the Services or help anyone else to do so. You must not:" xml:space="preserve">
     <value>Anda setuju untuk tidak menyalahgunakan Layanan atau membantu orang lain untuk melakukannya. Anda tidak boleh:</value>

@@ -60,11 +60,17 @@
   <data name="Aiursoft provides enterprise IT infrastructure solutions built upon open-source technologies (e.g., Linux, Nextcloud, Mailcow, Authentik, GitLab)." xml:space="preserve">
     <value>Aiursoft biedt oplossingen voor bedrijfsgerichte IT-infrastructuur aan die zijn gebaseerd op open-source technologieën (bijv. Linux, Nextcloud, Mailcow, Authentik, GitLab).</value>
   </data>
+  <data name="Aiursoft software, including deployment scripts and Template orchestration code, is provided under its published open-source licenses. Copyright ownership does not restrict the rights granted by those licenses. Third-party software retains its respective licenses. Aiursoft names, logos, and branding are separate from software licensing; modified distributions must not be presented as official products." xml:space="preserve">
+    <value>Aiursoft-software, waaronder implementatiescripts en Template-orchestratiecode, wordt aangeboden onder de gepubliceerde opensourcelicenties. Het auteursrecht beperkt de rechten die deze licenties verlenen niet. Software van derden blijft onder de betreffende licenties vallen. De namen, logo’s en huisstijl van Aiursoft staan los van de softwarelicenties; aangepaste distributies mogen niet worden gepresenteerd als officiële producten.</value>
+  </data>
   <data name="All fees are exclusive of applicable taxes, levies, or duties imposed by taxing authorities, and you shall be responsible for payment of all such taxes." xml:space="preserve">
     <value>Alle kosten zijn exclusief toepasselijke belastingen, heffingen of rechten die worden opgelegd door belastingautoriteiten, en u bent verantwoordelijk voor het betalen van alle dergelijke belastingen.</value>
   </data>
   <data name="All payments are securely processed by our third-party payment gateway, Stripe. Aiursoft does not collect, process, or store your full credit card information on our servers." xml:space="preserve">
     <value>Alle betalingen worden veilig verwerkt via onze derde-partij betalingsgateway, Stripe. Aiursoft verzamelt, verwerkt of slaat uw volledige creditcardgegevens niet op onze servers op.</value>
+  </data>
+  <data name="An isolated deployment requires local packages, models, identity services, and other dependencies. Hosted email, cloud management, and external model APIs require connectivity and are outside the isolated environment. These services and their data flows must be agreed before activation." xml:space="preserve">
+    <value>Voor een geïsoleerde implementatie zijn lokale pakketten, modellen, identiteitsdiensten en andere afhankelijkheden nodig. Gehoste e-mail, cloudbeheer en externe model-API&apos;s vereisen een verbinding en vallen buiten de geïsoleerde omgeving. Over deze diensten en de bijbehorende gegevensstromen moet vóór activering overeenstemming worden bereikt.</value>
   </data>
   <data name="Any unauthorized access to your on-premise servers (for Startup/Enterprise plans)." xml:space="preserve">
     <value>Elke ongeautoriseerde toegang tot uw on-premise servers (voor de plannen Startup/Enterprise).</value>
@@ -96,6 +102,9 @@
   <data name="Email:" xml:space="preserve">
     <value>E-mail:</value>
   </data>
+  <data name="Enterprise services do not automatically extend an operating-system release&apos;s published security-update lifecycle. AnduinOS 2.0 standard support ends in April 2031. Your service agreement specifies included systems, supported devices, management integrations, maintenance responsibilities, and service duration." xml:space="preserve">
+    <value>Enterprise-diensten verlengen niet automatisch de gepubliceerde levenscyclus van beveiligingsupdates voor een versie van een besturingssysteem. De standaardondersteuning voor AnduinOS 2.0 eindigt in april 2031. In uw serviceovereenkomst zijn de inbegrepen systemen, ondersteunde apparaten, integraties voor beheer, onderhoudsverantwoordelijkheden en de duur van de dienstverlening vastgelegd.</value>
+  </data>
   <data name="For On-Premise plans requiring a One-Time Setup Fee, this fee covers the manual labor of our architects (e.g., network configuration, Docker deployment, Yubikey integration). Setup fees are strictly non-refundable once the deployment and configuration process has commenced." xml:space="preserve">
     <value>Voor on-premise plannen waar een eenmalige installatiekost voor nodig is, dekt deze kost de manuele arbeid van onze architecten (bijv. netwerkconfiguratie, Docker-implementatie, Yubikey-integratie). Installatiekosten zijn strikt niet terugbetaalbaar zodra het implementatie- en configuratieproces is begonnen.</value>
   </data>
@@ -113,6 +122,9 @@
   </data>
   <data name="Last Updated: March 2026" xml:space="preserve">
     <value>Laatst bijgewerkt: maart 2026</value>
+  </data>
+  <data name="Last Updated: September 2026" xml:space="preserve">
+    <value>Laatst bijgewerkt: september 2026</value>
   </data>
   <data name="No Pro-Rated Refunds:" xml:space="preserve">
     <value>Geen pro-rata restituties:</value>
@@ -188,6 +200,9 @@
   </data>
   <data name="What you are purchasing from Aiursoft is the hosting, automated deployment, maintenance, priority support, and enterprise integration of these tools." xml:space="preserve">
     <value>Wat u van Aiursoft koopt, is het hosten, automatische implementatie, onderhoud, prioriteitsondersteuning en enterprise-integratie van deze tools.</value>
+  </data>
+  <data name="Where a plan includes 7×24 on-call support, this means incident intake and escalation. The service agreement defines incident severity, response targets, support channels, maintenance windows, and exclusions. It does not guarantee immediate resolution or uninterrupted availability." xml:space="preserve">
+    <value>Wanneer een abonnement 7×24-bereikbare ondersteuning omvat, betekent dit dat incidenten kunnen worden gemeld en geëscaleerd. In de serviceovereenkomst worden de ernstcategorieën van incidenten, reactietermijnen, ondersteuningskanalen, onderhoudsvensters en uitsluitingen vastgelegd. Dit biedt geen garantie op onmiddellijke oplossing of ononderbroken beschikbaarheid.</value>
   </data>
   <data name="You agree not to misuse the Services or help anyone else to do so. You must not:" xml:space="preserve">
     <value>U gaat ermee akkoord dat u de Diensten niet misbruikt of iemand anders hielp om dit te doen. U mag niet:</value>

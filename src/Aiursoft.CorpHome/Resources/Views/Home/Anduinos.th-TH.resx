@@ -33,8 +33,14 @@
   <data name="Advanced" xml:space="preserve">
     <value>ขั้นสูง</value>
   </data>
+  <data name="Agree the device count, supported platforms, management integrations, and acceptance criteria before deployment." xml:space="preserve">
+    <value>ตกลงจำนวนอุปกรณ์ แพลตฟอร์มที่รองรับ การผสานรวมระบบจัดการ และเกณฑ์การยอมรับให้เรียบร้อยก่อนเริ่มใช้งาน</value>
+  </data>
   <data name="All the power of open-source, backed by enterprise-grade support, management tools, and customisation capabilities." xml:space="preserve">
     <value>สรรพกำลังของโอเพ่นซอร์ส สนับสนุนโดยบริการจัดการระดับองค์กร เครื่องมือบริหารจัดการ และความสามารถในการปรับแต่ง</value>
+  </data>
+  <data name="AnduinOS 2.0 standard support ends in April 2031, as for the community edition. Enterprise services do not extend this release&apos;s security-update lifecycle. Service scope and subscription duration are specified in your agreement." xml:space="preserve">
+    <value>การสนับสนุนมาตรฐานของ AnduinOS 2.0 สำหรับรุ่นชุมชนจะสิ้นสุดในเดือนเมษายน 2031 บริการสำหรับองค์กรไม่ได้ขยายระยะเวลาการอัปเดตความปลอดภัยของรุ่นนี้ ขอบเขตบริการและระยะเวลาการสมัครสมาชิกระบุไว้ในข้อตกลงของคุณ</value>
   </data>
   <data name="AnduinOS device" xml:space="preserve">
     <value>อุปกรณ์ AnduinOS</value>
@@ -78,6 +84,9 @@
   <data name="Apkg is a declarative APT repository platform that lets you host signed Debian repositories, mirror upstream archives, and publish your own .apkg packages — all fully on-premise. Integrates seamlessly with AnduinOS for painless apt update &amp;&amp; apt install workflows across your entire fleet." xml:space="preserve">
     <value>Apkg เป็นแพลตฟอร์ม APT repository แบบ declarative ที่ช่วยให้คุณโฮสต์ Debian repositories ที่มีการลงนาม ทำ mirror archive จากแหล่งต้นทาง และเผยแพร่แพ็กเกจ .apkg ของคุณเอง — ทั้งหมดดำเนินการภายในระบบของคุณอย่างสมบูรณ์ (on-premise) พร้อมผสานรวมกับ AnduinOS อย่างไร้รอยต่อ ทำให้การอัปเดตและติดตั้งแพ็กเกจด้วยคำสั่ง apt update &amp;&amp; apt install ง่ายและราบรื่นสำหรับอุปกรณ์ทั้งหมดในเครือข่ายของคุณ</value>
   </data>
+  <data name="April" xml:space="preserve">
+    <value>เมษายน</value>
+  </data>
   <data name="Architecture" xml:space="preserve">
     <value>สถาปัตยกรรม</value>
   </data>
@@ -114,6 +123,9 @@
   <data name="Bulk operations across your entire fleet" xml:space="preserve">
     <value>ดำเนินการกับอุปกรณ์จำนวนมากทั่วทั้งเครือข่ายของคุณในคราวเดียว</value>
   </data>
+  <data name="Bulk operations for supported devices and integrations" xml:space="preserve">
+    <value>การดำเนินการเป็นชุดสำหรับอุปกรณ์และการผสานรวมที่รองรับ</value>
+  </data>
   <data name="Community Site" xml:space="preserve">
     <value>เว็บไซต์ชุมชน</value>
   </data>
@@ -134,6 +146,9 @@
   </data>
   <data name="Containerized" xml:space="preserve">
     <value>ใช้งานระบบคอนเทนเนอร์</value>
+  </data>
+  <data name="Content updates and device monitoring use the management service selected for your deployment. Cloud management requires connectivity; some maintenance may require on-site access." xml:space="preserve">
+    <value>การอัปเดตเนื้อหาและการตรวจสอบอุปกรณ์จะใช้บริการจัดการที่เลือกไว้สำหรับการติดตั้งใช้งานของคุณ การจัดการผ่านคลาวด์จำเป็นต้องเชื่อมต่อเครือข่าย ส่วนการบำรุงรักษาบางอย่างอาจต้องเข้าดำเนินการ ณ สถานที่</value>
   </data>
   <data name="Control and configure thousands of devices and policies efficiently from a single dashboard." xml:space="preserve">
     <value>ควบคุมและกำหนดค่าอุปกรณ์และนโยบายนับพันได้อย่างมีประสิทธิภาพจากแดชบอร์ดเดียว</value>
@@ -177,6 +192,9 @@
   <data name="Desktop Environment" xml:space="preserve">
     <value>สภาพแวดล้อมบนเดสก์ท็อป</value>
   </data>
+  <data name="Device Management Integrations" xml:space="preserve">
+    <value>การผสานรวมระบบจัดการอุปกรณ์</value>
+  </data>
   <data name="digital signage and kiosk terminals" xml:space="preserve">
     <value>ป้ายประกาศทางดิจิทัลและเทอร์มินัลคีออสก์</value>
   </data>
@@ -204,11 +222,17 @@
   <data name="Edge AI" xml:space="preserve">
     <value>AI ปลายทาง</value>
   </data>
+  <data name="End of Standard Support" xml:space="preserve">
+    <value>สิ้นสุดการสนับสนุนมาตรฐาน</value>
+  </data>
   <data name="End of Support" xml:space="preserve">
     <value>สิ้นสุดการรองรับ</value>
   </data>
   <data name="Enroll" xml:space="preserve">
     <value>ลงทะเบียน</value>
+  </data>
+  <data name="Enroll in your agreed management service" xml:space="preserve">
+    <value>ลงทะเบียนใช้บริการจัดการตามที่ตกลงไว้</value>
   </data>
   <data name="Enterprise" xml:space="preserve">
     <value>องค์กรธุรกิจ</value>
@@ -218,6 +242,9 @@
   </data>
   <data name="Enterprise Services" xml:space="preserve">
     <value>บริการสำหรับองค์กร</value>
+  </data>
+  <data name="Enterprise support covers the services and devices listed in your agreement. Where purchased, 7×24 on-call support provides incident intake and escalation; severity levels, response targets, maintenance windows, and exclusions are defined in the service agreement." xml:space="preserve">
+    <value>บริการสนับสนุนระดับองค์กรครอบคลุมบริการและอุปกรณ์ที่ระบุไว้ในข้อตกลงของคุณ หากซื้อบริการสนับสนุนฉุกเฉินตลอด 24 ชั่วโมงทุกวัน จะมีบริการรับแจ้งเหตุและยกระดับปัญหา โดยระดับความรุนแรง เป้าหมายเวลาตอบสนอง ช่วงเวลาบำรุงรักษา และข้อยกเว้นจะกำหนดไว้ในข้อตกลงการให้บริการ</value>
   </data>
   <data name="Enterprise-grade" xml:space="preserve">
     <value>ระดับองค์กร</value>
@@ -270,6 +297,9 @@
   <data name="HDR Support" xml:space="preserve">
     <value>การรองรับ HDR</value>
   </data>
+  <data name="Host your own internal Apkg repository behind your firewall. Distribute approved updates and in-house software across your local network. Isolated deployments require package updates to be imported into the internal repository." xml:space="preserve">
+    <value>โฮสต์คลังแพ็กเกจ Apkg ภายในองค์กรของคุณไว้หลังไฟร์วอลล์ แจกจ่ายอัปเดตที่ได้รับอนุมัติและซอฟต์แวร์ที่พัฒนาขึ้นภายในองค์กรผ่านเครือข่ายท้องถิ่นของคุณ สำหรับการติดตั้งใช้งานในสภาพแวดล้อมที่แยกขาดจากเครือข่ายภายนอก ต้องนำเข้าอัปเดตแพ็กเกจไปยังคลังภายในองค์กร</value>
+  </data>
   <data name="Host your own internal Apkg repository behind your firewall. Selectively push updates, enforce compliance policies, and distribute custom in-house software — all while keeping every device consistently up to date, fully offline." xml:space="preserve">
     <value>จัดเตรียมเก็บที่เก็บ Apkg ภายในของคุณเองหลังไฟร์วอลล์ ส่งอัปเดตแบบเลือกสรร บังคับใช้นโยบายการปฏิบัติตามกฎระเบียบ และแจกจ่ายซอฟต์แวร์เฉพาะทางภายในองค์กร — ทุกสิ่งสามารถทำให้ทุกอุปกรณ์อยู่ในเวอร์ชันล่าสุดอย่างสม่ำเสมอ โดยทำงานแบบออฟไลน์เต็มรูปแบบ</value>
   </data>
@@ -278,6 +308,9 @@
   </data>
   <data name="Init System" xml:space="preserve">
     <value>ระบบเริ่มต้น</value>
+  </data>
+  <data name="Install on supported hardware, configure security and update policies, and enroll devices in the management services included in your deployment." xml:space="preserve">
+    <value>ติดตั้งบนฮาร์ดแวร์ที่รองรับ กำหนดค่านโยบายความปลอดภัยและการอัปเดต แล้วลงทะเบียนอุปกรณ์กับบริการจัดการที่รวมอยู่ในการติดตั้งของคุณ</value>
   </data>
   <data name="Internal package distribution via apt" xml:space="preserve">
     <value>การแจกจ่ายแพ็กเกจภายในผ่าน apt</value>
@@ -315,6 +348,9 @@
   <data name="LTS Support" xml:space="preserve">
     <value>การรองรับ LTS</value>
   </data>
+  <data name="Managed Update Rollouts" xml:space="preserve">
+    <value>การจัดการการทยอยปล่อยอัปเดต</value>
+  </data>
   <data name="management for your fleet" xml:space="preserve">
     <value>การจัดการสำหรับยานพาหนะของคุณ</value>
   </data>
@@ -335,6 +371,9 @@
   </data>
   <data name="Monitoring" xml:space="preserve">
     <value>การติดตามตรวจสอบ</value>
+  </data>
+  <data name="Monitoring, remote configuration, and policy enforcement are separate integrations. Your deployment proposal specifies the supported devices and included capabilities." xml:space="preserve">
+    <value>การตรวจสอบสถานะ การกำหนดค่าจากระยะไกล และการบังคับใช้นโยบายเป็นการผสานการทำงานแยกกัน ข้อเสนอการติดตั้งใช้งานของคุณจะระบุอุปกรณ์ที่รองรับและความสามารถที่รวมอยู่</value>
   </data>
   <data name="Multi-Node" xml:space="preserve">
     <value>หลายโหนด</value>
@@ -365,6 +404,9 @@
   </data>
   <data name="Performance" xml:space="preserve">
     <value>ประสิทธิภาพ</value>
+  </data>
+  <data name="Plan and Deploy Your Fleet" xml:space="preserve">
+    <value>วางแผนและนำอุปกรณ์ของคุณไปใช้งาน</value>
   </data>
   <data name="Ports" xml:space="preserve">
     <value>พอร์ต</value>
@@ -411,6 +453,9 @@
   <data name="Remote configuration and policy enforcement" xml:space="preserve">
     <value>การกำหนดค่าระยะไกลและการบังคับใช้นโยบาย</value>
   </data>
+  <data name="Remote configuration and policy integration where agreed" xml:space="preserve">
+    <value>การกำหนดค่าจากระยะไกลและการเชื่อมต่อกับนโยบายตามที่ตกลงกัน</value>
+  </data>
   <data name="Remote content management" xml:space="preserve">
     <value>การจัดการเนื้อหาแบบระยะไกล</value>
   </data>
@@ -443,6 +488,9 @@
   </data>
   <data name="Secure Boot" xml:space="preserve">
     <value>บูตปลอดภัย</value>
+  </data>
+  <data name="Serve packages internally using standard apt. Isolated networks require upstream packages and updates to be imported into the local repository." xml:space="preserve">
+    <value>ให้บริการแพ็กเกจภายในองค์กรโดยใช้ apt มาตรฐาน สำหรับเครือข่ายที่แยกขาดจากภายนอก ต้องนำเข้าแพ็กเกจและอัปเดตจากแหล่งต้นทางมายังคลังแพ็กเกจภายใน</value>
   </data>
   <data name="Set up your system in under 5 minutes" xml:space="preserve">
     <value>ตั้งค่าระบบของคุณภายใน 5 นาที</value>
@@ -509,6 +557,9 @@
   </data>
   <data name="UI Toolkit" xml:space="preserve">
     <value>ชุดเครื่องมือ UI</value>
+  </data>
+  <data name="Update and restart policies are configured for your deployment. Test releases before rollout and schedule maintenance for changes that require downtime." xml:space="preserve">
+    <value>มีการกำหนดนโยบายการอัปเดตและการรีสตาร์ตสำหรับการติดตั้งใช้งานของคุณแล้ว ทดสอบรุ่นอัปเดตก่อนเปิดใช้งาน และกำหนดเวลาบำรุงรักษาสำหรับการเปลี่ยนแปลงที่ต้องหยุดให้บริการ</value>
   </data>
   <data name="Update content, push configurations, and monitor device health — all from the cloud. No need for on-site visits." xml:space="preserve">
     <value>อัปเดตเนื้อหา ส่งการตั้งค่า และตรวจสอบสถานะอุปกรณ์ — ทั้งหมดผ่านระบบคลาวด์ ไม่ต้องเดินทางเข้าหน้างาน</value>

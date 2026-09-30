@@ -36,6 +36,9 @@
   <data name="Compliance Ready" xml:space="preserve">
     <value>コンプライアンス対応済み</value>
   </data>
+  <data name="Configure access controls and audit records for your requirements. Compliance depends on the applicable standard, deployment, and your operating procedures." xml:space="preserve">
+    <value>要件に合わせてアクセス制御と監査記録を設定してください。コンプライアンスへの適合は、適用される規格、導入環境、および運用手順によって異なります。</value>
+  </data>
   <data name="Custom Branding" xml:space="preserve">
     <value>カスタムブランディング</value>
   </data>
@@ -47,6 +50,9 @@
   </data>
   <data name="Enterprise customers get round-the-clock telephone support, ensuring critical issues are addressed immediately." xml:space="preserve">
     <value>エンタープライズのお客様には、24 時間 365 日の電話サポートが提供され、重要な問題が即座に対処されます。</value>
+  </data>
+  <data name="Enterprise services add deployment, customization, and support to the community edition. Support coverage, including any 7×24 on-call service, is defined in your agreement." xml:space="preserve">
+    <value>エンタープライズサービスでは、コミュニティ版に導入、カスタマイズ、サポートを追加します。7×24のオンコールサービスを含むサポートの範囲は、契約内容に定められています。</value>
   </data>
   <data name="Freedom and enterprise service don&apos;t conflict." xml:space="preserve">
     <value>自由とエンタープライズサービスは矛盾しません。</value>
@@ -63,11 +69,17 @@
   <data name="Meet industry compliance requirements with auditable configurations and enterprise-grade controls." xml:space="preserve">
     <value>監査可能な設定とエンタープライズグレードのコントロールにより、業界のコンプライアンス要件を満たします。</value>
   </data>
+  <data name="Monitor supported endpoints and configure the remote-management integrations specified in your deployment proposal." xml:space="preserve">
+    <value>サポート対象のエンドポイントを監視し、導入提案書に記載されたリモート管理連携を設定します。</value>
+  </data>
   <data name="On-premises Package Repository" xml:space="preserve">
     <value>オンプレミスパッケージリポジトリ</value>
   </data>
   <data name="Private Package Repository" xml:space="preserve">
     <value>プライベートパッケージリポジトリ</value>
+  </data>
+  <data name="Where included in your agreement, round-the-clock incident intake and escalation are available. Response targets depend on incident severity; resolution time is not guaranteed." xml:space="preserve">
+    <value>契約に含まれている場合、インシデントの受付とエスカレーションを24時間体制で利用できます。初動対応の目標時間はインシデントの重大度によって異なり、解決までの時間は保証されません。</value>
   </data>
 
 </root>

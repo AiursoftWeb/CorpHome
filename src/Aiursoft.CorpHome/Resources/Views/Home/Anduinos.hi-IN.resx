@@ -30,8 +30,14 @@
   <data name="Advanced" xml:space="preserve">
     <value>उन्नत</value>
   </data>
+  <data name="Agree the device count, supported platforms, management integrations, and acceptance criteria before deployment." xml:space="preserve">
+    <value>तैनाती से पहले डिवाइसों की संख्या, समर्थित प्लेटफ़ॉर्म, प्रबंधन इंटीग्रेशन और स्वीकृति मानदंडों पर सहमति तय करें।</value>
+  </data>
   <data name="All the power of open-source, backed by enterprise-grade support, management tools, and customisation capabilities." xml:space="preserve">
     <value>ओपन-सोर्स की पूरी शक्ति, उद्यम-ग्रेड सहायता, प्रबंधन उपकरणों और अनुकूलन क्षमताओं द्वारा संचालित।</value>
+  </data>
+  <data name="AnduinOS 2.0 standard support ends in April 2031, as for the community edition. Enterprise services do not extend this release&apos;s security-update lifecycle. Service scope and subscription duration are specified in your agreement." xml:space="preserve">
+    <value>AnduinOS 2.0 के सामुदायिक संस्करण की तरह, इसका मानक समर्थन अप्रैल 2031 में समाप्त हो जाएगा। एंटरप्राइज़ सेवाएँ इस रिलीज़ के सुरक्षा अपडेट की अवधि को आगे नहीं बढ़ाती हैं। सेवा का दायरा और सदस्यता की अवधि आपके अनुबंध में निर्दिष्ट हैं।</value>
   </data>
   <data name="AnduinOS device" xml:space="preserve">
     <value>AnduinOS डिवाइस</value>
@@ -72,6 +78,9 @@
   <data name="Apkg is a declarative APT repository platform that lets you host signed Debian repositories, mirror upstream archives, and publish your own .apkg packages — all fully on-premise. Integrates seamlessly with AnduinOS for painless apt update &amp;&amp; apt install workflows across your entire fleet." xml:space="preserve">
     <value>Apkg एक घोषणात्मक APT रेपोजिटरी प्लेटफ़ॉर्म है जो आपको हस्ताक्षरित Debian रेपोजिटरी होस्ट करने, अपस्ट्रीम आर्काइव को मिरर करने, और अपनी स्वयं की .apkg पैकेज प्रकाशित करने की अनुमति देता है — यह पूरी तरह से on-premise है। यह आपकी पूरी फ्लीट में apt update &amp;&amp; apt install वर्कफ़्लो को सहज बनाने के लिए AnduinOS के साथ निर्बाध रूप से एकीकृत होता है।</value>
   </data>
+  <data name="April" xml:space="preserve">
+    <value>अप्रैल</value>
+  </data>
   <data name="Architecture" xml:space="preserve">
     <value>आर्किटेक्चर</value>
   </data>
@@ -108,6 +117,9 @@
   <data name="Bulk operations across your entire fleet" xml:space="preserve">
     <value>आपकी पूरी फ्लीट में बल्क ऑपरेशन</value>
   </data>
+  <data name="Bulk operations for supported devices and integrations" xml:space="preserve">
+    <value>समर्थित डिवाइसों और इंटीग्रेशन के लिए एक साथ कई कार्रवाइयाँ</value>
+  </data>
   <data name="Community Site" xml:space="preserve">
     <value>समुदाय साइट</value>
   </data>
@@ -128,6 +140,9 @@
   </data>
   <data name="Containerized" xml:space="preserve">
     <value>कंटेनराइज़्ड</value>
+  </data>
+  <data name="Content updates and device monitoring use the management service selected for your deployment. Cloud management requires connectivity; some maintenance may require on-site access." xml:space="preserve">
+    <value>सामग्री अपडेट और डिवाइस की निगरानी आपके डिप्लॉयमेंट के लिए चुनी गई प्रबंधन सेवा का उपयोग करते हैं। क्लाउड प्रबंधन के लिए इंटरनेट कनेक्टिविटी आवश्यक है; कुछ रखरखाव के लिए साइट पर जाकर काम करना पड़ सकता है।</value>
   </data>
   <data name="Control and configure thousands of devices and policies efficiently from a single dashboard." xml:space="preserve">
     <value>एक ही डैशबोर्ड से हज़ारों डिवाइस और नीतियों को कुशलता से नियंत्रित और कॉन्फ़िगर करें।</value>
@@ -168,6 +183,9 @@
   <data name="Desktop Environment" xml:space="preserve">
     <value>डेस्कटॉप एनवायरनमेंट</value>
   </data>
+  <data name="Device Management Integrations" xml:space="preserve">
+    <value>डिवाइस प्रबंधन एकीकरण</value>
+  </data>
   <data name="digital signage and kiosk terminals" xml:space="preserve">
     <value>डिजिटल साइनिज और किओस्क टर्मिनल</value>
   </data>
@@ -195,11 +213,17 @@
   <data name="Edge AI" xml:space="preserve">
     <value>एज एआई</value>
   </data>
+  <data name="End of Standard Support" xml:space="preserve">
+    <value>मानक सहायता की समाप्ति</value>
+  </data>
   <data name="End of Support" xml:space="preserve">
     <value>समर्थन समाप्त</value>
   </data>
   <data name="Enroll" xml:space="preserve">
     <value>पंजीकृत करें</value>
+  </data>
+  <data name="Enroll in your agreed management service" xml:space="preserve">
+    <value>अपनी सहमत प्रबंधन सेवा में नामांकन करें</value>
   </data>
   <data name="Enterprise" xml:space="preserve">
     <value>एंटरप्राइज</value>
@@ -209,6 +233,9 @@
   </data>
   <data name="Enterprise Services" xml:space="preserve">
     <value>उद्यम सेवाएँ</value>
+  </data>
+  <data name="Enterprise support covers the services and devices listed in your agreement. Where purchased, 7×24 on-call support provides incident intake and escalation; severity levels, response targets, maintenance windows, and exclusions are defined in the service agreement." xml:space="preserve">
+    <value>एंटरप्राइज़ सहायता में आपके अनुबंध में सूचीबद्ध सेवाएँ और डिवाइस शामिल हैं। जहाँ यह सेवा खरीदी गई हो, वहाँ 7×24 ऑन-कॉल सहायता के अंतर्गत घटनाओं की सूचना दर्ज करना और उन्हें उच्च स्तर पर भेजना शामिल है; गंभीरता के स्तर, प्रतिक्रिया के लक्ष्य, रखरखाव की समय-सीमाएँ और अपवाद सेवा अनुबंध में परिभाषित हैं।</value>
   </data>
   <data name="Enterprise-grade" xml:space="preserve">
     <value>एंटरप्राइज़-ग्रेड</value>
@@ -258,6 +285,9 @@
   <data name="HDR Support" xml:space="preserve">
     <value>HDR समर्थन</value>
   </data>
+  <data name="Host your own internal Apkg repository behind your firewall. Distribute approved updates and in-house software across your local network. Isolated deployments require package updates to be imported into the internal repository." xml:space="preserve">
+    <value>अपने फ़ायरवॉल के पीछे अपना आंतरिक Apkg रिपॉज़िटरी होस्ट करें। अपने स्थानीय नेटवर्क पर स्वीकृत अपडेट और आंतरिक रूप से विकसित सॉफ़्टवेयर वितरित करें। अलग-थलग डिप्लॉयमेंट में पैकेज अपडेट को आंतरिक रिपॉज़िटरी में आयात करना आवश्यक है।</value>
+  </data>
   <data name="Host your own internal Apkg repository behind your firewall. Selectively push updates, enforce compliance policies, and distribute custom in-house software — all while keeping every device consistently up to date, fully offline." xml:space="preserve">
     <value>अपने फायरवॉल के पीछे अपना आंतरिक Apkg रिपॉजिटरी होस्ट करें। अपडेट चयनात्मक रूप से धकेलें, अनुपालन नीतियों का प्रवर्तन करें, और कस्टम इन-हाउस सॉफ़्टवेयर वितरित करें — सभी उपकरणों को निरंतर अपडेट और पूरी तरह ऑफ़लाइन रखते हुए।</value>
   </data>
@@ -266,6 +296,9 @@
   </data>
   <data name="Init System" xml:space="preserve">
     <value>इनिट सिस्टम</value>
+  </data>
+  <data name="Install on supported hardware, configure security and update policies, and enroll devices in the management services included in your deployment." xml:space="preserve">
+    <value>समर्थित हार्डवेयर पर इंस्टॉल करें, सुरक्षा और अपडेट नीतियाँ कॉन्फ़िगर करें, और अपने डिप्लॉयमेंट में शामिल प्रबंधन सेवाओं में डिवाइस नामांकित करें।</value>
   </data>
   <data name="Internal package distribution via apt" xml:space="preserve">
     <value>एप्‍ट के माध्यम से आंतरिक पैकेज वितरण</value>
@@ -303,6 +336,9 @@
   <data name="LTS Support" xml:space="preserve">
     <value>LTS समर्थन</value>
   </data>
+  <data name="Managed Update Rollouts" xml:space="preserve">
+    <value>प्रबंधित अपडेट रोलआउट</value>
+  </data>
   <data name="management for your fleet" xml:space="preserve">
     <value>अपनी फ्लीट के लिए प्रबंधन</value>
   </data>
@@ -323,6 +359,9 @@
   </data>
   <data name="Monitoring" xml:space="preserve">
     <value>मॉनिटरिंग</value>
+  </data>
+  <data name="Monitoring, remote configuration, and policy enforcement are separate integrations. Your deployment proposal specifies the supported devices and included capabilities." xml:space="preserve">
+    <value>निगरानी, दूरस्थ कॉन्फ़िगरेशन और नीतियों का प्रवर्तन अलग-अलग इंटीग्रेशन हैं। आपके परिनियोजन प्रस्ताव में समर्थित डिवाइस और शामिल क्षमताएँ निर्दिष्ट हैं।</value>
   </data>
   <data name="Multi-Node" xml:space="preserve">
     <value>बहु-नोड</value>
@@ -353,6 +392,9 @@
   </data>
   <data name="Performance" xml:space="preserve">
     <value>प्रदर्शन</value>
+  </data>
+  <data name="Plan and Deploy Your Fleet" xml:space="preserve">
+    <value>अपने डिवाइसों की योजना बनाएँ और उन्हें तैनात करें</value>
   </data>
   <data name="Ports" xml:space="preserve">
     <value>पोर्ट्स</value>
@@ -396,6 +438,9 @@
   <data name="Remote configuration and policy enforcement" xml:space="preserve">
     <value>दूरस्थ कॉन्फ़िगरेशन और नीति प्रवर्तन</value>
   </data>
+  <data name="Remote configuration and policy integration where agreed" xml:space="preserve">
+    <value>जहाँ सहमति हो, वहाँ रिमोट कॉन्फ़िगरेशन और नीति एकीकरण</value>
+  </data>
   <data name="Remote content management" xml:space="preserve">
     <value>रिमोट कंटेंट मैनेजमेंट</value>
   </data>
@@ -428,6 +473,9 @@
   </data>
   <data name="Secure Boot" xml:space="preserve">
     <value>सिक्योर बूट</value>
+  </data>
+  <data name="Serve packages internally using standard apt. Isolated networks require upstream packages and updates to be imported into the local repository." xml:space="preserve">
+    <value>मानक apt का उपयोग करके पैकेज आंतरिक रूप से उपलब्ध कराएँ। पृथक नेटवर्क में अपस्ट्रीम पैकेज और अपडेट को स्थानीय रिपॉज़िटरी में आयात करना आवश्यक है।</value>
   </data>
   <data name="Set up your system in under 5 minutes" xml:space="preserve">
     <value>अपना सिस्टम 5 मिनट से कम समय में सेटअप करें</value>
@@ -494,6 +542,9 @@
   </data>
   <data name="UI Toolkit" xml:space="preserve">
     <value>यूआई टूलकिट</value>
+  </data>
+  <data name="Update and restart policies are configured for your deployment. Test releases before rollout and schedule maintenance for changes that require downtime." xml:space="preserve">
+    <value>आपकी तैनाती के लिए अपडेट और रीस्टार्ट नीतियाँ कॉन्फ़िगर की गई हैं। रोलआउट से पहले रिलीज़ का परीक्षण करें और जिन बदलावों के लिए डाउनटाइम आवश्यक है, उनके लिए रखरखाव का समय निर्धारित करें।</value>
   </data>
   <data name="Update content, push configurations, and monitor device health — all from the cloud. No need for on-site visits." xml:space="preserve">
     <value>कंटेंट अपडेट करें, कॉन्फ़िगरेशन पश करें, और डिव़ाइस हेल्थ मॉनिटर करें — सब कुछ क्लाउड से। ओन-साइट विज़िट की कोई ज़रूरत नहीं।</value>

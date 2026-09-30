@@ -36,6 +36,9 @@
   <data name="Compliance Ready" xml:space="preserve">
     <value>Klar för efterlevnad</value>
   </data>
+  <data name="Configure access controls and audit records for your requirements. Compliance depends on the applicable standard, deployment, and your operating procedures." xml:space="preserve">
+    <value>Konfigurera åtkomstkontroller och granskningsloggar utifrån era krav. Regelefterlevnaden beror på vilken standard som gäller, driftsättningen och era rutiner.</value>
+  </data>
   <data name="Custom Branding" xml:space="preserve">
     <value>Anpassad varumärkesdesign</value>
   </data>
@@ -47,6 +50,9 @@
   </data>
   <data name="Enterprise customers get round-the-clock telephone support, ensuring critical issues are addressed immediately." xml:space="preserve">
     <value>Företagskunder får dygnet-runt-telefonstöd, vilket säkerställer att kritiska problem åtgärdas omedelbart.</value>
+  </data>
+  <data name="Enterprise services add deployment, customization, and support to the community edition. Support coverage, including any 7×24 on-call service, is defined in your agreement." xml:space="preserve">
+    <value>Enterprise-tjänster kompletterar communityutgåvan med driftsättning, anpassning och support. Supportens omfattning, inklusive eventuell jour dygnet runt, anges i ditt avtal.</value>
   </data>
   <data name="Freedom and enterprise service don&apos;t conflict." xml:space="preserve">
     <value>Frihet och affärsverksamhetstjänster står inte i konflikt.</value>
@@ -63,11 +69,17 @@
   <data name="Meet industry compliance requirements with auditable configurations and enterprise-grade controls." xml:space="preserve">
     <value>Uppfyll branchkrav för efterlevnad med granskningsbara konfigurationer och kontroller av företagsklass.</value>
   </data>
+  <data name="Monitor supported endpoints and configure the remote-management integrations specified in your deployment proposal." xml:space="preserve">
+    <value>Övervaka enheter som stöds och konfigurera de fjärrhanteringsintegrationer som anges i ditt driftsättningsförslag.</value>
+  </data>
   <data name="On-premises Package Repository" xml:space="preserve">
     <value>Lokalt pakkagespaket</value>
   </data>
   <data name="Private Package Repository" xml:space="preserve">
     <value>Privat paketlager</value>
+  </data>
+  <data name="Where included in your agreement, round-the-clock incident intake and escalation are available. Response targets depend on incident severity; resolution time is not guaranteed." xml:space="preserve">
+    <value>Om det ingår i ert avtal kan ni ta emot och eskalera incidenter dygnet runt. Svarsmål beror på incidentens allvarlighetsgrad; någon lösningstid garanteras inte.</value>
   </data>
 
 </root>

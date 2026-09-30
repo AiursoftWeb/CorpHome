@@ -60,11 +60,17 @@
   <data name="Aiursoft provides enterprise IT infrastructure solutions built upon open-source technologies (e.g., Linux, Nextcloud, Mailcow, Authentik, GitLab)." xml:space="preserve">
     <value>Aiursoft надає корпоративні рішення для IT-інфраструктури, створені на основі технологій з відкритим вихідним кодом (наприклад, Linux, Nextcloud, Mailcow, Authentik, GitLab).</value>
   </data>
+  <data name="Aiursoft software, including deployment scripts and Template orchestration code, is provided under its published open-source licenses. Copyright ownership does not restrict the rights granted by those licenses. Third-party software retains its respective licenses. Aiursoft names, logos, and branding are separate from software licensing; modified distributions must not be presented as official products." xml:space="preserve">
+    <value>Програмне забезпечення Aiursoft, зокрема сценарії розгортання та код оркестрації Template, надається відповідно до опублікованих ліцензій із відкритим кодом. Володіння авторськими правами не обмежує прав, наданих цими ліцензіями. На програмне забезпечення третіх сторін поширюються відповідні ліцензії. Назви, логотипи та фірмовий стиль Aiursoft не є частиною ліцензування програмного забезпечення; змінені дистрибутиви не можна видавати за офіційні продукти.</value>
+  </data>
   <data name="All fees are exclusive of applicable taxes, levies, or duties imposed by taxing authorities, and you shall be responsible for payment of all such taxes." xml:space="preserve">
     <value>Всі збори не включають податки, збори або мита, що стягуються податковими органами, і ви несете відповідальність за сплату всіх таких податків.</value>
   </data>
   <data name="All payments are securely processed by our third-party payment gateway, Stripe. Aiursoft does not collect, process, or store your full credit card information on our servers." xml:space="preserve">
     <value>Усі платежі безпечно обробляються нашим стороннім платіжним шлюзом Stripe. Aiursoft не збирає, не обробляє та не зберігає повну інформацію про вашу кредитну картку на своїх серверах.</value>
+  </data>
+  <data name="An isolated deployment requires local packages, models, identity services, and other dependencies. Hosted email, cloud management, and external model APIs require connectivity and are outside the isolated environment. These services and their data flows must be agreed before activation." xml:space="preserve">
+    <value>Для ізольованого розгортання потрібні локальні пакети, моделі, служби ідентифікації та інші залежності. Для розміщеної електронної пошти, керування хмарною інфраструктурою та зовнішніх API моделей потрібне підключення до мережі, і вони не входять до ізольованого середовища. Використання цих служб і потоки даних, пов’язані з ними, потрібно погодити до активації.</value>
   </data>
   <data name="Any unauthorized access to your on-premise servers (for Startup/Enterprise plans)." xml:space="preserve">
     <value>Будь-який несанкціонований доступ до ваших локальних серверів (для тарифів Startup/Enterprise).</value>
@@ -96,6 +102,9 @@
   <data name="Email:" xml:space="preserve">
     <value>Електронна пошта:</value>
   </data>
+  <data name="Enterprise services do not automatically extend an operating-system release&apos;s published security-update lifecycle. AnduinOS 2.0 standard support ends in April 2031. Your service agreement specifies included systems, supported devices, management integrations, maintenance responsibilities, and service duration." xml:space="preserve">
+    <value>Корпоративні послуги не подовжують автоматично опублікований життєвий цикл випуску операційної системи щодо оновлень безпеки. Стандартна підтримка AnduinOS 2.0 завершується у квітні 2031 року. У вашій угоді про надання послуг визначено системи, що входять до послуги, підтримувані пристрої, інтеграції з системами керування, обов’язки з технічного обслуговування та тривалість надання послуг.</value>
+  </data>
   <data name="For On-Premise plans requiring a One-Time Setup Fee, this fee covers the manual labor of our architects (e.g., network configuration, Docker deployment, Yubikey integration). Setup fees are strictly non-refundable once the deployment and configuration process has commenced." xml:space="preserve">
     <value>Для планів On-Premise, що потребують одноразової встановлювальної плати, ця плата покриває ручну працю наших архітекторів (наприклад, конфігурація мережі, розгортання Docker, інтеграція Yubikey). Встановлювальні платежі є суворо невідшкодовуваними, як тільки розпочато процес розгортання та конфігурації.</value>
   </data>
@@ -113,6 +122,9 @@
   </data>
   <data name="Last Updated: March 2026" xml:space="preserve">
     <value>Останнє оновлення: березень 2026</value>
+  </data>
+  <data name="Last Updated: September 2026" xml:space="preserve">
+    <value>Останнє оновлення: вересень 2026 року</value>
   </data>
   <data name="No Pro-Rated Refunds:" xml:space="preserve">
     <value>Без пропорційних повернень коштів:</value>
@@ -188,6 +200,9 @@
   </data>
   <data name="What you are purchasing from Aiursoft is the hosting, automated deployment, maintenance, priority support, and enterprise integration of these tools." xml:space="preserve">
     <value>Те, що ви купуєте в Aiursoft, — це хостинг, автоматизоване розгортання, обслуговування, пріоритетна підтримка та корпоративна інтеграція цих інструментів.</value>
+  </data>
+  <data name="Where a plan includes 7×24 on-call support, this means incident intake and escalation. The service agreement defines incident severity, response targets, support channels, maintenance windows, and exclusions. It does not guarantee immediate resolution or uninterrupted availability." xml:space="preserve">
+    <value>Якщо план передбачає цілодобову підтримку за викликом (7×24), це означає приймання повідомлень про інциденти та їх ескалацію. Угода про надання послуг визначає рівні критичності інцидентів, цільові строки реагування, канали підтримки, вікна технічного обслуговування та винятки. Вона не гарантує негайного усунення проблем або безперервної доступності.</value>
   </data>
   <data name="You agree not to misuse the Services or help anyone else to do so. You must not:" xml:space="preserve">
     <value>Ви зобов&apos;язуєтесь не зловживати Послугами та не допомагати іншим у цьому. Ви не повинні:</value>

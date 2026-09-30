@@ -21,6 +21,9 @@
       <data name="24/7 dedicated support line" xml:space="preserve">
     <value>ligne de support dédiée 24/7</value>
   </data>
+  <data name="24/7 incident intake and escalation where contracted; scope and response targets follow the service agreement" xml:space="preserve">
+    <value>Prise en charge des incidents 24 h/24 et 7 j/7 et escalade lorsque prévu au contrat ; le périmètre et les délais de réponse sont définis dans le contrat de service</value>
+  </data>
   <data name="7×24 On-call Support" xml:space="preserve">
     <value>Support d&apos;astreinte 7×24</value>
   </data>
@@ -71,6 +74,9 @@
   </data>
   <data name="Deployment &amp; Hosting" xml:space="preserve">
     <value>Déploiement et hébergement</value>
+  </data>
+  <data name="Device policy integration with scope and supported platforms agreed before deployment" xml:space="preserve">
+    <value>Intégration des politiques des appareils, avec le périmètre et les plateformes prises en charge définis avant le déploiement</value>
   </data>
   <data name="DevOps &amp; Engineering" xml:space="preserve">
     <value>DevOps &amp; Engineering</value>

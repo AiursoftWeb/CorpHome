@@ -36,6 +36,9 @@
   <data name="Compliance Ready" xml:space="preserve">
     <value>Prêt à la conformité</value>
   </data>
+  <data name="Configure access controls and audit records for your requirements. Compliance depends on the applicable standard, deployment, and your operating procedures." xml:space="preserve">
+    <value>Configurez les contrôles d’accès et les journaux d’audit en fonction de vos exigences. La conformité dépend de la norme applicable, du déploiement et de vos procédures opérationnelles.</value>
+  </data>
   <data name="Custom Branding" xml:space="preserve">
     <value>Personnalisation de la marque</value>
   </data>
@@ -47,6 +50,9 @@
   </data>
   <data name="Enterprise customers get round-the-clock telephone support, ensuring critical issues are addressed immediately." xml:space="preserve">
     <value>Les clients d&apos;entreprise bénéficient d&apos;un support téléphonique 24h/24 et 7j/7, garantissant que les problèmes critiques sont résolus immédiatement.</value>
+  </data>
+  <data name="Enterprise services add deployment, customization, and support to the community edition. Support coverage, including any 7×24 on-call service, is defined in your agreement." xml:space="preserve">
+    <value>Les services aux entreprises ajoutent à l’édition communautaire des services de déploiement, de personnalisation et d’assistance. La couverture de l’assistance, y compris tout service d’astreinte 24 h/24 et 7 j/7, est définie dans votre contrat.</value>
   </data>
   <data name="Freedom and enterprise service don&apos;t conflict." xml:space="preserve">
     <value>La liberté et le service d&apos;entreprise ne s&apos;opposent pas.</value>
@@ -63,11 +69,17 @@
   <data name="Meet industry compliance requirements with auditable configurations and enterprise-grade controls." xml:space="preserve">
     <value>Répondez aux exigences de conformité du secteur grâce à des configurations auditables et à des contrôles de niveau entreprise.</value>
   </data>
+  <data name="Monitor supported endpoints and configure the remote-management integrations specified in your deployment proposal." xml:space="preserve">
+    <value>Surveillez les terminaux pris en charge et configurez les intégrations de gestion à distance indiquées dans votre proposition de déploiement.</value>
+  </data>
   <data name="On-premises Package Repository" xml:space="preserve">
     <value>Dépôt de packages sur site</value>
   </data>
   <data name="Private Package Repository" xml:space="preserve">
     <value>Dépôt de packages privé</value>
+  </data>
+  <data name="Where included in your agreement, round-the-clock incident intake and escalation are available. Response targets depend on incident severity; resolution time is not guaranteed." xml:space="preserve">
+    <value>Lorsque cela est prévu dans votre contrat, la prise en charge des incidents et leur remontée sont assurées 24 h/24. Les délais de réponse dépendent de la gravité de l’incident ; aucun délai de résolution n’est garanti.</value>
   </data>
 
 </root>

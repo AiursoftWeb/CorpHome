@@ -33,8 +33,14 @@
   <data name="Advanced" xml:space="preserve">
     <value>Geavanceerd</value>
   </data>
+  <data name="Agree the device count, supported platforms, management integrations, and acceptance criteria before deployment." xml:space="preserve">
+    <value>Spreek vóór de implementatie het aantal apparaten, de ondersteunde platforms, de integraties voor apparaatbeheer en de acceptatiecriteria af.</value>
+  </data>
   <data name="All the power of open-source, backed by enterprise-grade support, management tools, and customisation capabilities." xml:space="preserve">
     <value>Al de kracht van open source, ondersteund door enterprise-grade support, beheertools en aanpassingsmogelijkheden.</value>
+  </data>
+  <data name="AnduinOS 2.0 standard support ends in April 2031, as for the community edition. Enterprise services do not extend this release&apos;s security-update lifecycle. Service scope and subscription duration are specified in your agreement." xml:space="preserve">
+    <value>De standaardondersteuning voor AnduinOS 2.0 eindigt in april 2031, net als voor de community-editie. Enterprise-diensten verlengen de levenscyclus van beveiligingsupdates voor deze release niet. De omvang van de dienstverlening en de abonnementsduur zijn vastgelegd in uw overeenkomst.</value>
   </data>
   <data name="AnduinOS device" xml:space="preserve">
     <value>AnduinOS-apparaat</value>
@@ -78,6 +84,9 @@
   <data name="Apkg is a declarative APT repository platform that lets you host signed Debian repositories, mirror upstream archives, and publish your own .apkg packages — all fully on-premise. Integrates seamlessly with AnduinOS for painless apt update &amp;&amp; apt install workflows across your entire fleet." xml:space="preserve">
     <value>Apkg is een declaratief APT-repositoryplatform waarmee je gesigneerde Debian-repositories kunt hosten, upstream-archieven kunt spiegelen en je eigen .apkg-pakketten kunt publiceren — volledig on-premise. Naadloze integratie met AnduinOS voor moeiteloze apt update &amp;&amp; apt install-workflows over je volledige vloot.</value>
   </data>
+  <data name="April" xml:space="preserve">
+    <value>april</value>
+  </data>
   <data name="Architecture" xml:space="preserve">
     <value>Architectuur</value>
   </data>
@@ -114,6 +123,9 @@
   <data name="Bulk operations across your entire fleet" xml:space="preserve">
     <value>Bulkacties voor uw volledige vloot</value>
   </data>
+  <data name="Bulk operations for supported devices and integrations" xml:space="preserve">
+    <value>Batchbewerkingen voor ondersteunde apparaten en integraties</value>
+  </data>
   <data name="Community Site" xml:space="preserve">
     <value>Communitywebsite</value>
   </data>
@@ -134,6 +146,9 @@
   </data>
   <data name="Containerized" xml:space="preserve">
     <value>Gecontaineriseerd</value>
+  </data>
+  <data name="Content updates and device monitoring use the management service selected for your deployment. Cloud management requires connectivity; some maintenance may require on-site access." xml:space="preserve">
+    <value>Inhoudsupdates en apparaatbewaking maken gebruik van de beheerservice die voor uw implementatie is geselecteerd. Voor cloudbeheer is een internetverbinding vereist; voor sommige onderhoudswerkzaamheden kan toegang op locatie nodig zijn.</value>
   </data>
   <data name="Control and configure thousands of devices and policies efficiently from a single dashboard." xml:space="preserve">
     <value>Beheer en configureer duizenden apparaten en beleidsregels efficiënt vanuit één dashboard.</value>
@@ -174,6 +189,9 @@
   <data name="Desktop Environment" xml:space="preserve">
     <value>Bureaubladomgeving</value>
   </data>
+  <data name="Device Management Integrations" xml:space="preserve">
+    <value>Integraties voor apparaatbeheer</value>
+  </data>
   <data name="digital signage and kiosk terminals" xml:space="preserve">
     <value>digitale borden en kioskterminals</value>
   </data>
@@ -201,11 +219,17 @@
   <data name="Edge AI" xml:space="preserve">
     <value>Edge AI</value>
   </data>
+  <data name="End of Standard Support" xml:space="preserve">
+    <value>Einde van de standaardondersteuning</value>
+  </data>
   <data name="End of Support" xml:space="preserve">
     <value>Einde ondersteuning</value>
   </data>
   <data name="Enroll" xml:space="preserve">
     <value>Registreren</value>
+  </data>
+  <data name="Enroll in your agreed management service" xml:space="preserve">
+    <value>Meld je aan voor de overeengekomen beheerdienst</value>
   </data>
   <data name="Enterprise" xml:space="preserve">
     <value>Enterprise</value>
@@ -215,6 +239,9 @@
   </data>
   <data name="Enterprise Services" xml:space="preserve">
     <value>Zakelijke diensten</value>
+  </data>
+  <data name="Enterprise support covers the services and devices listed in your agreement. Where purchased, 7×24 on-call support provides incident intake and escalation; severity levels, response targets, maintenance windows, and exclusions are defined in the service agreement." xml:space="preserve">
+    <value>Enterprise-ondersteuning omvat de diensten en apparaten die in uw overeenkomst zijn vermeld. Indien aangeschaft, biedt 7×24-ondersteuning op afroep de mogelijkheid om incidenten te melden en op te schalen; de ernstniveaus, reactietermijnen, onderhoudsvensters en uitzonderingen zijn vastgelegd in de serviceovereenkomst.</value>
   </data>
   <data name="Enterprise-grade" xml:space="preserve">
     <value>Enterprise-kwaliteit</value>
@@ -267,6 +294,9 @@
   <data name="HDR Support" xml:space="preserve">
     <value>HDR-ondersteuning</value>
   </data>
+  <data name="Host your own internal Apkg repository behind your firewall. Distribute approved updates and in-house software across your local network. Isolated deployments require package updates to be imported into the internal repository." xml:space="preserve">
+    <value>Host uw eigen interne Apkg-repository achter uw firewall. Verspreid goedgekeurde updates en intern ontwikkelde software via uw lokale netwerk. Bij geïsoleerde implementaties moeten pakketupdates worden geïmporteerd in de interne repository.</value>
+  </data>
   <data name="Host your own internal Apkg repository behind your firewall. Selectively push updates, enforce compliance policies, and distribute custom in-house software — all while keeping every device consistently up to date, fully offline." xml:space="preserve">
     <value>Host uw eigen interne Apkg-repository achter uw firewall. Voer updates selectief uit, handhaaf compliancebeleid en verdeel aangepaste in-house software, terwijl u ervoor zorgt dat elk apparaat consistent up-to-date blijft, volledig offline.</value>
   </data>
@@ -275,6 +305,9 @@
   </data>
   <data name="Init System" xml:space="preserve">
     <value>Init-systeem</value>
+  </data>
+  <data name="Install on supported hardware, configure security and update policies, and enroll devices in the management services included in your deployment." xml:space="preserve">
+    <value>Installeer op ondersteunde hardware, configureer beveiligings- en updatebeleid en meld apparaten aan bij de beheerdiensten die bij je implementatie zijn inbegrepen.</value>
   </data>
   <data name="Internal package distribution via apt" xml:space="preserve">
     <value>Interne pakketdistributie via apt</value>
@@ -312,6 +345,9 @@
   <data name="LTS Support" xml:space="preserve">
     <value>LTS-ondersteuning</value>
   </data>
+  <data name="Managed Update Rollouts" xml:space="preserve">
+    <value>Beheerde uitrol van updates</value>
+  </data>
   <data name="management for your fleet" xml:space="preserve">
     <value>beheer van uw wagenpark</value>
   </data>
@@ -332,6 +368,9 @@
   </data>
   <data name="Monitoring" xml:space="preserve">
     <value>Toezicht</value>
+  </data>
+  <data name="Monitoring, remote configuration, and policy enforcement are separate integrations. Your deployment proposal specifies the supported devices and included capabilities." xml:space="preserve">
+    <value>Monitoring, configuratie op afstand en beleidsafdwinging zijn afzonderlijke integraties. In uw implementatievoorstel staat welke apparaten worden ondersteund en welke mogelijkheden zijn inbegrepen.</value>
   </data>
   <data name="Multi-Node" xml:space="preserve">
     <value>Meerdere knooppunten</value>
@@ -362,6 +401,9 @@
   </data>
   <data name="Performance" xml:space="preserve">
     <value>Prestatie</value>
+  </data>
+  <data name="Plan and Deploy Your Fleet" xml:space="preserve">
+    <value>Plan en implementeer je apparatenpark</value>
   </data>
   <data name="Ports" xml:space="preserve">
     <value>Poorten</value>
@@ -405,6 +447,9 @@
   <data name="Remote configuration and policy enforcement" xml:space="preserve">
     <value>Configuratie op afstand en handhaving van beleidsregels</value>
   </data>
+  <data name="Remote configuration and policy integration where agreed" xml:space="preserve">
+    <value>Externe configuratie en beleidsintegratie indien overeengekomen</value>
+  </data>
   <data name="Remote content management" xml:space="preserve">
     <value>Afstandsbediening van inhoud</value>
   </data>
@@ -437,6 +482,9 @@
   </data>
   <data name="Secure Boot" xml:space="preserve">
     <value>Veilige opstart</value>
+  </data>
+  <data name="Serve packages internally using standard apt. Isolated networks require upstream packages and updates to be imported into the local repository." xml:space="preserve">
+    <value>Lever pakketten intern aan via de standaardversie van apt. In geïsoleerde netwerken moeten upstream-pakketten en updates in de lokale repository worden geïmporteerd.</value>
   </data>
   <data name="Set up your system in under 5 minutes" xml:space="preserve">
     <value>Richt uw systeem in minder dan 5 minuten in</value>
@@ -503,6 +551,9 @@
   </data>
   <data name="UI Toolkit" xml:space="preserve">
     <value>GUI-toolkit</value>
+  </data>
+  <data name="Update and restart policies are configured for your deployment. Test releases before rollout and schedule maintenance for changes that require downtime." xml:space="preserve">
+    <value>Update- en herstartbeleid zijn ingesteld voor uw implementatie. Test releases voordat u ze uitrolt en plan onderhoud in voor wijzigingen waarvoor downtime nodig is.</value>
   </data>
   <data name="Update content, push configurations, and monitor device health — all from the cloud. No need for on-site visits." xml:space="preserve">
     <value>Update content, push configuraties en monitor de apparaatstatus - allemaal vanuit de cloud. Geen enkele behoefte aan bezoeken ter plaatse.</value>

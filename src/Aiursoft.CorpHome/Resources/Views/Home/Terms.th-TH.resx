@@ -60,11 +60,17 @@
   <data name="Aiursoft provides enterprise IT infrastructure solutions built upon open-source technologies (e.g., Linux, Nextcloud, Mailcow, Authentik, GitLab)." xml:space="preserve">
     <value>Aiursoft ให้บริการโซลูชันโครงสร้างพื้นฐานด้านไอทีสำหรับองค์กรที่สร้างขึ้นบนเทคโนโลยีโอเพนซอร์ส (เช่น Linux, Nextcloud, Mailcow, Authentik, GitLab)</value>
   </data>
+  <data name="Aiursoft software, including deployment scripts and Template orchestration code, is provided under its published open-source licenses. Copyright ownership does not restrict the rights granted by those licenses. Third-party software retains its respective licenses. Aiursoft names, logos, and branding are separate from software licensing; modified distributions must not be presented as official products." xml:space="preserve">
+    <value>ซอฟต์แวร์ของ Aiursoft รวมถึงสคริปต์สำหรับการติดตั้งใช้งานและโค้ดสำหรับจัดการ Template อยู่ภายใต้สัญญาอนุญาตโอเพนซอร์สที่เผยแพร่ไว้ การเป็นเจ้าของลิขสิทธิ์ไม่ได้จำกัดสิทธิ์ที่ได้รับภายใต้สัญญาอนุญาตเหล่านั้น ซอฟต์แวร์ของบุคคลที่สามยังคงอยู่ภายใต้สัญญาอนุญาตของตน ชื่อ โลโก้ และเครื่องหมายการค้าของ Aiursoft แยกต่างหากจากการอนุญาตใช้ซอฟต์แวร์ ห้ามนำซอฟต์แวร์ที่ดัดแปลงหรือเผยแพร่ต่อไปแสดงว่าเป็นผลิตภัณฑ์อย่างเป็นทางการ</value>
+  </data>
   <data name="All fees are exclusive of applicable taxes, levies, or duties imposed by taxing authorities, and you shall be responsible for payment of all such taxes." xml:space="preserve">
     <value>ค่าธรรมเนียมทั้งหมดไม่รวมภาษี ค่าธรรมเนียม หรืออากรใดๆ ที่ถูกกำหนดโดยหน่วยงานภาษี และคุณจะต้องรับผิดชอบในการชำระภาษีทั้งหมดดังกล่าว</value>
   </data>
   <data name="All payments are securely processed by our third-party payment gateway, Stripe. Aiursoft does not collect, process, or store your full credit card information on our servers." xml:space="preserve">
     <value>การชำระเงินทั้งหมดจะได้รับการประมวลผลอย่างปลอดภัยผ่านเกตเวย์การชำระเงินของบุคคลที่สามของเรา คือ Stripe Aiursoft ไม่ได้เก็บ ประมวลผล หรือเก็บข้อมูลบัตรเครดิตเต็มรูปแบบของคุณไว้บนเซิร์ฟเวอร์ของเรา</value>
+  </data>
+  <data name="An isolated deployment requires local packages, models, identity services, and other dependencies. Hosted email, cloud management, and external model APIs require connectivity and are outside the isolated environment. These services and their data flows must be agreed before activation." xml:space="preserve">
+    <value>การติดตั้งใช้งานในสภาพแวดล้อมแยกต้องใช้แพ็กเกจ โมเดล บริการระบุตัวตน และส่วนประกอบอื่น ๆ ที่ติดตั้งภายในองค์กร อีเมลที่โฮสต์บนระบบคลาวด์ การจัดการคลาวด์ และ API ของโมเดลภายนอกต้องอาศัยการเชื่อมต่อเครือข่าย จึงอยู่นอกสภาพแวดล้อมแยกนี้ ต้องตกลงกันเกี่ยวกับบริการเหล่านี้และการไหลของข้อมูลก่อนเปิดใช้งาน</value>
   </data>
   <data name="Any unauthorized access to your on-premise servers (for Startup/Enterprise plans)." xml:space="preserve">
     <value>การเข้าถึงเซิร์ฟเวอร์ภายในสถานที่ของคุณอย่างไม่ได้รับอนุญาต (สำหรับแผน Startup/Enterprise)</value>
@@ -96,6 +102,9 @@
   <data name="Email:" xml:space="preserve">
     <value>อีเมล:</value>
   </data>
+  <data name="Enterprise services do not automatically extend an operating-system release&apos;s published security-update lifecycle. AnduinOS 2.0 standard support ends in April 2031. Your service agreement specifies included systems, supported devices, management integrations, maintenance responsibilities, and service duration." xml:space="preserve">
+    <value>บริการระดับองค์กรไม่ได้ขยายระยะเวลาการอัปเดตความปลอดภัยที่ประกาศไว้สำหรับระบบปฏิบัติการแต่ละรุ่นโดยอัตโนมัติ การสนับสนุนมาตรฐานสำหรับ AnduinOS 2.0 จะสิ้นสุดในเดือนเมษายน 2031 ข้อตกลงการให้บริการของคุณระบุระบบที่ครอบคลุม อุปกรณ์ที่รองรับ การผสานรวมระบบจัดการ ความรับผิดชอบในการบำรุงรักษา และระยะเวลาการให้บริการ</value>
+  </data>
   <data name="For On-Premise plans requiring a One-Time Setup Fee, this fee covers the manual labor of our architects (e.g., network configuration, Docker deployment, Yubikey integration). Setup fees are strictly non-refundable once the deployment and configuration process has commenced." xml:space="preserve">
     <value>สำหรับแผนแบบ On-Premise ที่ต้องการค่าใช้จ่ายการติดตั้งครั้งเดียว ค่าใช้จ่ายนี้ครอบคลุมแรงงานด้วยมือของทีมสถาปนิกของเรา (เช่น การตั้งค่าเครือข่าย การติดตั้ง Docker การบูรณาการ Yubikey) ค่าใช้จ่ายการติดตั้งจะไม่สามารถคืนเงินได้ภายใต้เงื่อนไขใดๆ หลังจากกระบวนการติดตั้งและการตั้งค่าได้เริ่มขึ้นแล้ว</value>
   </data>
@@ -113,6 +122,9 @@
   </data>
   <data name="Last Updated: March 2026" xml:space="preserve">
     <value>อัปเดตครั้งล่าสุด: มีนาคม 2026</value>
+  </data>
+  <data name="Last Updated: September 2026" xml:space="preserve">
+    <value>อัปเดตล่าสุด: กันยายน 2026</value>
   </data>
   <data name="No Pro-Rated Refunds:" xml:space="preserve">
     <value>ไม่มีการคืนเงินตามอัตราส่วน</value>
@@ -188,6 +200,9 @@
   </data>
   <data name="What you are purchasing from Aiursoft is the hosting, automated deployment, maintenance, priority support, and enterprise integration of these tools." xml:space="preserve">
     <value>สิ่งที่คุณกำลังซื้อจาก Aiursoft คือ การโฮสต์ การติดตั้งอัตโนมัติ การดูแลรักษา การสนับสนุนด้านความสำคัญ และการบูรณาการระดับองค์กรของเครื่องมือเหล่านี้</value>
+  </data>
+  <data name="Where a plan includes 7×24 on-call support, this means incident intake and escalation. The service agreement defines incident severity, response targets, support channels, maintenance windows, and exclusions. It does not guarantee immediate resolution or uninterrupted availability." xml:space="preserve">
+    <value>หากแผนบริการรวมการสนับสนุนแบบรับสายตลอด 24 ชั่วโมงทุกวัน (7×24) หมายถึงการรับแจ้งเหตุและส่งต่อเหตุไปยังผู้รับผิดชอบ ข้อตกลงการให้บริการจะกำหนดระดับความรุนแรงของเหตุการณ์ เป้าหมายเวลาตอบสนอง ช่องทางการสนับสนุน ช่วงเวลาบำรุงรักษา และข้อยกเว้น ทั้งนี้ ไม่ได้รับประกันว่าจะแก้ไขปัญหาได้ทันทีหรือให้บริการได้อย่างต่อเนื่อง</value>
   </data>
   <data name="You agree not to misuse the Services or help anyone else to do so. You must not:" xml:space="preserve">
     <value>คุณตกลงที่จะไม่ใช้บริการอย่างผิดวัตถุประสงค์ หรือช่วยให้ผู้อื่นทำเช่นนั้น คุณต้องไม่:</value>

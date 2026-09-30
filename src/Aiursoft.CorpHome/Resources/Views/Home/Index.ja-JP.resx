@@ -222,6 +222,9 @@
   <data name="Built-in RBAC for fine-grained permission management." xml:space="preserve">
     <value>組み込み RBAC による細かいパーミッション管理。</value>
   </data>
+  <data name="Built-in security controls support your deployment requirements." xml:space="preserve">
+    <value>組み込みのセキュリティ制御により、導入時の要件に対応できます。</value>
+  </data>
   <data name="Built-in User Management" xml:space="preserve">
     <value>組み込みユーザー管理</value>
   </data>
@@ -314,6 +317,9 @@
   </data>
   <data name="Default SQLite database, no configuration needed." xml:space="preserve">
     <value>デフォルトのSQLiteデータベース、設定は不要です。</value>
+  </data>
+  <data name="Deploy models and agents on your own infrastructure. External model providers and hosted integrations are optional and require an agreed data flow." xml:space="preserve">
+    <value>モデルやエージェントを独自のインフラストラクチャにデプロイできます。外部のモデルプロバイダーやホステッド連携は任意ですが、データフローについて合意しておく必要があります。</value>
   </data>
   <data name="Designed for everyone, from beginners to experts." xml:space="preserve">
     <value>初心者から専門家まで、誰もが使えるように設計されています。</value>
@@ -828,6 +834,9 @@
   <data name="Supports JetBrains Rider for easy code style fixes." xml:space="preserve">
     <value>JetBrains Rider のサポートにより、コードスタイルの修正が簡単に行えます。</value>
   </data>
+  <data name="Supports local operation; configured external integrations require network access." xml:space="preserve">
+    <value>ローカルでの動作に対応しています。設定された外部連携を利用するにはネットワーク接続が必要です。</value>
+  </data>
   <data name="Switch easily between SQLite, MySQL, SQL Server." xml:space="preserve">
     <value>SQLite、MySQL、SQL Serverの間を簡単に切り替えられます。</value>
   </data>
@@ -906,6 +915,12 @@
   <data name="We audit and integrate Open-source code, respect GPL, compile components, and contribute upstream." xml:space="preserve">
     <value>私たちはオープンソースコードを監査・統合し、GPLを尊重し、コンポーネントをコンパイルし、上流に貢献します。</value>
   </data>
+  <data name="We configure authentication, encrypted service connections, and audit logging for the services included in your deployment. Coverage and retention are agreed during design." xml:space="preserve">
+    <value>導入対象のサービスについて、認証、暗号化されたサービス接続、監査ログを設定します。対象範囲とログの保存期間は、設計時に合意します。</value>
+  </data>
+  <data name="We integrate hardware-key authentication. Hardware procurement and costs are agreed in your deployment proposal." xml:space="preserve">
+    <value>ハードウェアキー認証を組み込みます。ハードウェアの調達方法と費用は、導入提案書で合意します。</value>
+  </data>
   <data name="We procure Yubikeys for all clients and configure zero-trust architecture." xml:space="preserve">
     <value>すべてのクライアント向けにYubikeyを調達し、ゼロトラストアーキテクチャを構成します。</value>
   </data>
@@ -926,6 +941,9 @@
   </data>
   <data name="Win/Lin/Mac" xml:space="preserve">
     <value>Windows/Linux/Mac</value>
+  </data>
+  <data name="With local models and local integrations, inference inputs remain within your deployment. External providers receive the inputs you choose to send." xml:space="preserve">
+    <value>ローカルモデルとローカル連携を使用する場合、推論に入力されたデータはお客様のデプロイ環境内にとどまります。外部プロバイダーには、お客様が送信を選択した入力データのみが送られます。</value>
   </data>
   <data name="with Open-Source Infrastructure." xml:space="preserve">
     <value>オープンソースインフラストラクチャで</value>

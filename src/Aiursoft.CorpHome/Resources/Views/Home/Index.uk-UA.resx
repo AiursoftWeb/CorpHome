@@ -222,6 +222,9 @@
   <data name="Built-in RBAC for fine-grained permission management." xml:space="preserve">
     <value>Вбудований RBAC для детального керування дозволами.</value>
   </data>
+  <data name="Built-in security controls support your deployment requirements." xml:space="preserve">
+    <value>Вбудовані засоби безпеки відповідають вимогам до розгортання.</value>
+  </data>
   <data name="Built-in User Management" xml:space="preserve">
     <value>Вбудоване керування користувачами</value>
   </data>
@@ -314,6 +317,9 @@
   </data>
   <data name="Default SQLite database, no configuration needed." xml:space="preserve">
     <value>База даних SQLite за замовчуванням, налаштування не потрібні.</value>
+  </data>
+  <data name="Deploy models and agents on your own infrastructure. External model providers and hosted integrations are optional and require an agreed data flow." xml:space="preserve">
+    <value>Розгортайте моделі й агентів на власній інфраструктурі. Зовнішні постачальники моделей і розміщені інтеграції є необов’язковими та потребують узгодження потоків даних.</value>
   </data>
   <data name="Designed for everyone, from beginners to experts." xml:space="preserve">
     <value>Розроблено для всіх — від початківців до професіоналів.</value>
@@ -828,6 +834,9 @@
   <data name="Supports JetBrains Rider for easy code style fixes." xml:space="preserve">
     <value>Підтримує JetBrains Rider для легких виправлень стилю коду.</value>
   </data>
+  <data name="Supports local operation; configured external integrations require network access." xml:space="preserve">
+    <value>Підтримує локальну роботу; для налаштованих зовнішніх інтеграцій потрібен доступ до мережі.</value>
+  </data>
   <data name="Switch easily between SQLite, MySQL, SQL Server." xml:space="preserve">
     <value>Легко переключайтесь між SQLite, MySQL, SQL Server.</value>
   </data>
@@ -906,6 +915,12 @@
   <data name="We audit and integrate Open-source code, respect GPL, compile components, and contribute upstream." xml:space="preserve">
     <value>Ми перевіряємо та інтегруємо відкритий код, дотримуємося GPL, компілюємо компоненти та вносять вклад у верхній рівень.</value>
   </data>
+  <data name="We configure authentication, encrypted service connections, and audit logging for the services included in your deployment. Coverage and retention are agreed during design." xml:space="preserve">
+    <value>Ми налаштовуємо автентифікацію, зашифровані з’єднання між службами та журналювання аудиту для служб, включених до вашого розгортання. Обсяг охоплення та строк зберігання узгоджуються на етапі проєктування.</value>
+  </data>
+  <data name="We integrate hardware-key authentication. Hardware procurement and costs are agreed in your deployment proposal." xml:space="preserve">
+    <value>Ми інтегруємо автентифікацію за допомогою апаратних ключів. Закупівлю обладнання та його вартість узгоджують у вашій пропозиції щодо розгортання.</value>
+  </data>
   <data name="We procure Yubikeys for all clients and configure zero-trust architecture." xml:space="preserve">
     <value>Ми закупаємо Yubikeys для всіх клієнтів і налаштовуємо архітектуру нульового довіри.</value>
   </data>
@@ -926,6 +941,9 @@
   </data>
   <data name="Win/Lin/Mac" xml:space="preserve">
     <value>Win/Lin/Mac</value>
+  </data>
+  <data name="With local models and local integrations, inference inputs remain within your deployment. External providers receive the inputs you choose to send." xml:space="preserve">
+    <value>З локальними моделями та інтеграціями вхідні дані для інференсу залишаються у вашому розгортанні. Зовнішні провайдери отримують лише ті вхідні дані, які ви вирішите їм надіслати.</value>
   </data>
   <data name="with Open-Source Infrastructure." xml:space="preserve">
     <value>із відкритою інфраструктурою</value>

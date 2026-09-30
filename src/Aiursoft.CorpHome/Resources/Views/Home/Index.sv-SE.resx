@@ -222,6 +222,9 @@
   <data name="Built-in RBAC for fine-grained permission management." xml:space="preserve">
     <value>Inbyggd RBAC för detaljerad behörighetshantering.</value>
   </data>
+  <data name="Built-in security controls support your deployment requirements." xml:space="preserve">
+    <value>Inbyggda säkerhetskontroller uppfyller dina driftsättningskrav.</value>
+  </data>
   <data name="Built-in User Management" xml:space="preserve">
     <value>Inbyggd användarhantering</value>
   </data>
@@ -314,6 +317,9 @@
   </data>
   <data name="Default SQLite database, no configuration needed." xml:space="preserve">
     <value>Standard SQLite-databas, ingen konfiguration behövs.</value>
+  </data>
+  <data name="Deploy models and agents on your own infrastructure. External model providers and hosted integrations are optional and require an agreed data flow." xml:space="preserve">
+    <value>Driftsätt modeller och agenter på din egen infrastruktur. Externa modellleverantörer och driftade integrationer är valfria och kräver ett överenskommet dataflöde.</value>
   </data>
   <data name="Designed for everyone, from beginners to experts." xml:space="preserve">
     <value>Skapad för alla, från nybörjare till experter.</value>
@@ -828,6 +834,9 @@
   <data name="Supports JetBrains Rider for easy code style fixes." xml:space="preserve">
     <value>Stödjer JetBrains Rider för enkla korrigeringar av kodstil.</value>
   </data>
+  <data name="Supports local operation; configured external integrations require network access." xml:space="preserve">
+    <value>Stöder lokal drift; konfigurerade externa integrationer kräver nätverksåtkomst.</value>
+  </data>
   <data name="Switch easily between SQLite, MySQL, SQL Server." xml:space="preserve">
     <value>Byt lätt mellan SQLite, MySQL, SQL Server.</value>
   </data>
@@ -906,6 +915,12 @@
   <data name="We audit and integrate Open-source code, respect GPL, compile components, and contribute upstream." xml:space="preserve">
     <value>Vi granskar och integrerar öppen källkod, respekterar GPL, kompilerar komponenter och bidrar tillbaka till upstream.</value>
   </data>
+  <data name="We configure authentication, encrypted service connections, and audit logging for the services included in your deployment. Coverage and retention are agreed during design." xml:space="preserve">
+    <value>Vi konfigurerar autentisering, krypterade tjänsteanslutningar och loggning av granskningshändelser för de tjänster som ingår i din driftsättning. Omfattning och lagringstid fastställs under designfasen.</value>
+  </data>
+  <data name="We integrate hardware-key authentication. Hardware procurement and costs are agreed in your deployment proposal." xml:space="preserve">
+    <value>Vi integrerar autentisering med hårdvarunyckel. Inköp av hårdvara och kostnader fastställs i ditt driftsättningsförslag.</value>
+  </data>
   <data name="We procure Yubikeys for all clients and configure zero-trust architecture." xml:space="preserve">
     <value>Vi skaffar Yubikeys till alla kunder och konfigurerar en zero-trust-arkitektur.</value>
   </data>
@@ -926,6 +941,9 @@
   </data>
   <data name="Win/Lin/Mac" xml:space="preserve">
     <value>Win/Lin/Mac</value>
+  </data>
+  <data name="With local models and local integrations, inference inputs remain within your deployment. External providers receive the inputs you choose to send." xml:space="preserve">
+    <value>Med lokala modeller och lokala integrationer stannar indata för inferens inom din driftsättning. Externa leverantörer får de indata som du väljer att skicka.</value>
   </data>
   <data name="with Open-Source Infrastructure." xml:space="preserve">
     <value>med Open-Source-infrastruktur.</value>

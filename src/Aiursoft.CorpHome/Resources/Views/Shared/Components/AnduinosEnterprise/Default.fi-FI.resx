@@ -36,6 +36,9 @@
   <data name="Compliance Ready" xml:space="preserve">
     <value>Yhteensopiva vaatimusten kanssa</value>
   </data>
+  <data name="Configure access controls and audit records for your requirements. Compliance depends on the applicable standard, deployment, and your operating procedures." xml:space="preserve">
+    <value>Määritä vaatimustesi mukaiset käyttöoikeuksien hallintatoiminnot ja auditointitiedot. Vaatimustenmukaisuus riippuu sovellettavasta standardista, käyttöönotosta ja toimintatavoistasi.</value>
+  </data>
   <data name="Custom Branding" xml:space="preserve">
     <value>Mukautettu brändäys</value>
   </data>
@@ -47,6 +50,9 @@
   </data>
   <data name="Enterprise customers get round-the-clock telephone support, ensuring critical issues are addressed immediately." xml:space="preserve">
     <value>Yritysasakkaiden saatavilla on ympärivuorokautinen puhelintuki, jotta kriittiset ongelmat voidaan ratkaista välittömästi.</value>
+  </data>
+  <data name="Enterprise services add deployment, customization, and support to the community edition. Support coverage, including any 7×24 on-call service, is defined in your agreement." xml:space="preserve">
+    <value>Yrityspalvelut tuovat yhteisöversioon käyttöönoton, mukautukset ja tuen. Tukipalvelujen kattavuus, mukaan lukien mahdollinen ympärivuorokautinen päivystystuki, määritellään sopimuksessasi.</value>
   </data>
   <data name="Freedom and enterprise service don&apos;t conflict." xml:space="preserve">
     <value>Vapaus ja yrityspalvelut eivät ole ristiriidassa.</value>
@@ -63,11 +69,17 @@
   <data name="Meet industry compliance requirements with auditable configurations and enterprise-grade controls." xml:space="preserve">
     <value>Täytä toimialan vaatimukset tarkastettavilla konfiguraatioilla ja yritystason hallintakeinoilla.</value>
   </data>
+  <data name="Monitor supported endpoints and configure the remote-management integrations specified in your deployment proposal." xml:space="preserve">
+    <value>Valvo tuettuja päätelaitteita ja määritä käyttöönottosuunnitelmassasi määritetyt etähallinnan integraatiot.</value>
+  </data>
   <data name="On-premises Package Repository" xml:space="preserve">
     <value>Paikallinen pakettivarasto</value>
   </data>
   <data name="Private Package Repository" xml:space="preserve">
     <value>Yksityinen pakettivarasto</value>
+  </data>
+  <data name="Where included in your agreement, round-the-clock incident intake and escalation are available. Response targets depend on incident severity; resolution time is not guaranteed." xml:space="preserve">
+    <value>Jos sopimukseenne sisältyy ympärivuorokautinen päivystys, voitte ilmoittaa häiriöistä mihin vuorokaudenaikaan tahansa, ja ne voidaan eskaloida tarvittaessa. Vasteaikatavoitteet määräytyvät häiriön vakavuuden mukaan; ratkaisuaikaa ei taata.</value>
   </data>
 
 </root>

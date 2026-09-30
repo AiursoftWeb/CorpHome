@@ -222,6 +222,9 @@
   <data name="Built-in RBAC for fine-grained permission management." xml:space="preserve">
     <value>RBAC intégré pour une gestion des autorisations à très granularité.</value>
   </data>
+  <data name="Built-in security controls support your deployment requirements." xml:space="preserve">
+    <value>Les contrôles de sécurité intégrés répondent aux exigences de votre déploiement.</value>
+  </data>
   <data name="Built-in User Management" xml:space="preserve">
     <value>Gestion intégrée des utilisateurs</value>
   </data>
@@ -314,6 +317,9 @@
   </data>
   <data name="Default SQLite database, no configuration needed." xml:space="preserve">
     <value>Base de données SQLite par défaut, aucune configuration nécessaire.</value>
+  </data>
+  <data name="Deploy models and agents on your own infrastructure. External model providers and hosted integrations are optional and require an agreed data flow." xml:space="preserve">
+    <value>Déployez des modèles et des agents sur votre propre infrastructure. Les fournisseurs de modèles externes et les intégrations hébergées sont facultatifs et nécessitent que les flux de données soient définis d’un commun accord.</value>
   </data>
   <data name="Designed for everyone, from beginners to experts." xml:space="preserve">
     <value>Conçu pour tout le monde, des débutants aux experts.</value>
@@ -828,6 +834,9 @@
   <data name="Supports JetBrains Rider for easy code style fixes." xml:space="preserve">
     <value>Prise en charge de JetBrains Rider pour des corrections de style de code faciles.</value>
   </data>
+  <data name="Supports local operation; configured external integrations require network access." xml:space="preserve">
+    <value>Fonctionne localement ; les intégrations externes configurées nécessitent un accès au réseau.</value>
+  </data>
   <data name="Switch easily between SQLite, MySQL, SQL Server." xml:space="preserve">
     <value>Passez facilement de SQLite à MySQL, à SQL Server.</value>
   </data>
@@ -906,6 +915,12 @@
   <data name="We audit and integrate Open-source code, respect GPL, compile components, and contribute upstream." xml:space="preserve">
     <value>Nous auditons et intégrons le code open source, respectons la GPL, compilons les composants et contribuons en amont.</value>
   </data>
+  <data name="We configure authentication, encrypted service connections, and audit logging for the services included in your deployment. Coverage and retention are agreed during design." xml:space="preserve">
+    <value>Nous configurons l’authentification, les connexions chiffrées entre les services et la journalisation des audits pour les services inclus dans votre déploiement. Le périmètre et la durée de conservation sont définis lors de la conception.</value>
+  </data>
+  <data name="We integrate hardware-key authentication. Hardware procurement and costs are agreed in your deployment proposal." xml:space="preserve">
+    <value>Nous intégrons l’authentification par clé matérielle. L’achat du matériel et les coûts sont définis dans votre proposition de déploiement.</value>
+  </data>
   <data name="We procure Yubikeys for all clients and configure zero-trust architecture." xml:space="preserve">
     <value>Nous approvisionnons en Yubikeys tous les clients et configurons une architecture zéro confiance.</value>
   </data>
@@ -926,6 +941,9 @@
   </data>
   <data name="Win/Lin/Mac" xml:space="preserve">
     <value>Win/Lin/Mac</value>
+  </data>
+  <data name="With local models and local integrations, inference inputs remain within your deployment. External providers receive the inputs you choose to send." xml:space="preserve">
+    <value>Avec des modèles et des intégrations locaux, les données d’entrée utilisées pour l’inférence restent au sein de votre déploiement. Les fournisseurs externes ne reçoivent que les données que vous choisissez de leur envoyer.</value>
   </data>
   <data name="with Open-Source Infrastructure." xml:space="preserve">
     <value>avec une infrastructure open source.</value>

@@ -60,11 +60,17 @@
   <data name="Aiursoft provides enterprise IT infrastructure solutions built upon open-source technologies (e.g., Linux, Nextcloud, Mailcow, Authentik, GitLab)." xml:space="preserve">
     <value>Aiursoft oferă soluții de infrastructură IT pentru întreprinderi, construite pe tehnologii open-source (de exemplu: Linux, Nextcloud, Mailcow, Authentik, GitLab).</value>
   </data>
+  <data name="Aiursoft software, including deployment scripts and Template orchestration code, is provided under its published open-source licenses. Copyright ownership does not restrict the rights granted by those licenses. Third-party software retains its respective licenses. Aiursoft names, logos, and branding are separate from software licensing; modified distributions must not be presented as official products." xml:space="preserve">
+    <value>Software-ul Aiursoft, inclusiv scripturile de implementare și codul de orchestrare Template, este furnizat în baza licențelor sale open-source publicate. Deținerea drepturilor de autor nu restrânge drepturile acordate prin aceste licențe. Software-ul terților rămâne supus licențelor aferente. Numele, siglele și elementele de identitate vizuală Aiursoft sunt distincte de licențierea software-ului; distribuțiile modificate nu trebuie prezentate drept produse oficiale.</value>
+  </data>
   <data name="All fees are exclusive of applicable taxes, levies, or duties imposed by taxing authorities, and you shall be responsible for payment of all such taxes." xml:space="preserve">
     <value>Toate taxele sunt excluse de impozitele, taxele sau vămuirile aplicabile impuse de autoritățile fiscale, iar dumneavoastră sunteți responsabil de plata tuturor acestor taxe.</value>
   </data>
   <data name="All payments are securely processed by our third-party payment gateway, Stripe. Aiursoft does not collect, process, or store your full credit card information on our servers." xml:space="preserve">
     <value>Toate plățile sunt procesate în siguranță de către portalul nostru de plată terț, Stripe. Aiursoft nu colectează, procesează sau stochează informațiile complete ale cardului dumneavoastră de credit pe serverele noastre.</value>
+  </data>
+  <data name="An isolated deployment requires local packages, models, identity services, and other dependencies. Hosted email, cloud management, and external model APIs require connectivity and are outside the isolated environment. These services and their data flows must be agreed before activation." xml:space="preserve">
+    <value>O implementare izolată necesită pachete locale, modele, servicii de identitate și alte dependențe. E-mailul găzduit, gestionarea în cloud și API-urile externe pentru modele necesită conectivitate și nu fac parte din mediul izolat. Aceste servicii și fluxurile lor de date trebuie convenite înainte de activare.</value>
   </data>
   <data name="Any unauthorized access to your on-premise servers (for Startup/Enterprise plans)." xml:space="preserve">
     <value>Orice acces neautorizat la serverele dvs. on-premise (pentru planurile Startup/Enterprise).</value>
@@ -96,6 +102,9 @@
   <data name="Email:" xml:space="preserve">
     <value>E-mail:</value>
   </data>
+  <data name="Enterprise services do not automatically extend an operating-system release&apos;s published security-update lifecycle. AnduinOS 2.0 standard support ends in April 2031. Your service agreement specifies included systems, supported devices, management integrations, maintenance responsibilities, and service duration." xml:space="preserve">
+    <value>Serviciile pentru întreprinderi nu prelungesc automat ciclul de viață al actualizărilor de securitate publicat pentru o versiune a unui sistem de operare. Suportul standard pentru AnduinOS 2.0 se încheie în aprilie 2031. Acordul de servicii specifică sistemele incluse, dispozitivele acceptate, integrările de gestionare, responsabilitățile de mentenanță și durata serviciului.</value>
+  </data>
   <data name="For On-Premise plans requiring a One-Time Setup Fee, this fee covers the manual labor of our architects (e.g., network configuration, Docker deployment, Yubikey integration). Setup fees are strictly non-refundable once the deployment and configuration process has commenced." xml:space="preserve">
     <value>Pentru planurile On-Premise care necesită o Taxă de Configurare Unică, această taxă acoperă munca manuală a arhitecților noștri (de exemplu, configurarea rețelei, implementarea Docker, integrarea Yubikey). Taxele de configurare sunt strict nerambursabile odată ce procesul de implementare și configurare a început.</value>
   </data>
@@ -113,6 +122,9 @@
   </data>
   <data name="Last Updated: March 2026" xml:space="preserve">
     <value>Ultima actualizare: Martie 2026</value>
+  </data>
+  <data name="Last Updated: September 2026" xml:space="preserve">
+    <value>Ultima actualizare: septembrie 2026</value>
   </data>
   <data name="No Pro-Rated Refunds:" xml:space="preserve">
     <value>Niciun ramburs parțial:</value>
@@ -188,6 +200,9 @@
   </data>
   <data name="What you are purchasing from Aiursoft is the hosting, automated deployment, maintenance, priority support, and enterprise integration of these tools." xml:space="preserve">
     <value>Ce achiziționați de la Aiursoft este găzduirea, implementarea automatizată, mentenanța, suportul prioritar și integrarea la nivel de întreprindere a acestor instrumente.</value>
+  </data>
+  <data name="Where a plan includes 7×24 on-call support, this means incident intake and escalation. The service agreement defines incident severity, response targets, support channels, maintenance windows, and exclusions. It does not guarantee immediate resolution or uninterrupted availability." xml:space="preserve">
+    <value>În cazul în care un plan include asistență de gardă 7×24, aceasta presupune preluarea și escaladarea incidentelor. Acordul de servicii definește nivelurile de severitate ale incidentelor, obiectivele privind timpii de răspuns, canalele de asistență, intervalele de mentenanță și excluderile. Acesta nu garantează rezolvarea imediată sau disponibilitatea neîntreruptă.</value>
   </data>
   <data name="You agree not to misuse the Services or help anyone else to do so. You must not:" xml:space="preserve">
     <value>Vă angajați să nu abuzați de Servicii și să nu ajutați pe nimeni altcineva să facă acest lucru. Nu trebuie să:</value>

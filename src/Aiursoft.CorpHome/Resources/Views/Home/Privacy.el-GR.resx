@@ -99,6 +99,9 @@
   <data name="For provisioning the underlying high-performance cloud infrastructure that powers our official websites and Cloud-Hosted (S1 Core) client instances." xml:space="preserve">
     <value>Για τη διαχείριση της υποκείμενης υποδομής cloud υψηλών επιδόσεων που τροφοδοτεί τις επίσημες ιστοσελίδες μας και τις πελατικές στιγμιότυπα Cloud-Hosted (S1 Core).</value>
   </data>
+  <data name="For services deployed on your servers or private cloud, you control the infrastructure and access permissions. Aiursoft accesses these systems only within the authorization you grant for deployment, maintenance, or support. You can revoke that access. Separately selected hosted services remain subject to the cloud-hosted terms." xml:space="preserve">
+    <value>Για υπηρεσίες που αναπτύσσονται στους διακομιστές σας ή σε ιδιωτικό νέφος, εσείς ελέγχετε την υποδομή και τα δικαιώματα πρόσβασης. Η Aiursoft αποκτά πρόσβαση σε αυτά τα συστήματα μόνο στο πλαίσιο της εξουσιοδότησης που της παρέχετε για την ανάπτυξη, τη συντήρηση ή την υποστήριξη. Μπορείτε να ανακαλέσετε αυτή την πρόσβαση. Οι υπηρεσίες φιλοξενίας που επιλέγονται ξεχωριστά εξακολουθούν να διέπονται από τους όρους φιλοξενίας στο νέφος.</value>
+  </data>
   <data name="If you choose to cancel a Cloud-Hosted subscription, your account will remain active until the end of the current billing cycle. Following the expiration of your subscription, we observe a strict 30-day grace period. After this 30-day period, all of your associated business data (emails, files, databases) will be permanently, irreversibly, and securely hard-deleted from our hosting infrastructure. We cannot recover data once this deletion process has occurred." xml:space="preserve">
     <value>Αν αποφασίσετε να ακυρώσετε μια συνδρομή Cloud-Hosted, ο λογαριασμός σας θα παραμείνει ενεργός έως το τέλος του τρέχοντος κύκλου χρέωσης. Μετά τη λήξη της συνδρομής σας, τηρούμε μια αυστηρή περίοδο χάριτος 30 ημερών. Μετά την πάροδο αυτής της περιόδου 30 ημερών, όλα τα συναφή επιχειρηματικά σας δεδομένα (ηλεκτρονικά μηνύματα, αρχεία, βάσεις δεδομένων) θα διαγραφούν οριστικά, μη αναστρέψιμα και με ασφάλεια από την υποδομή φιλοξενίας μας. Δεν μπορούμε να ανακτήσουμε δεδομένα μετά την ολοκλήρωση αυτής της διαδικασίας διαγραφής.</value>
   </data>
@@ -110,6 +113,9 @@
   </data>
   <data name="Last Updated: March 2026" xml:space="preserve">
     <value>Τελευταία Ενημέρωση: Μάρτιος 2026</value>
+  </data>
+  <data name="Last Updated: September 2026" xml:space="preserve">
+    <value>Τελευταία ενημέρωση: Σεπτέμβριος 2026</value>
   </data>
   <data name="Minimal Data Collection:" xml:space="preserve">
     <value>Ελάχιστη Συλλογή Δεδομένων:</value>
@@ -189,6 +195,9 @@
   <data name="We do not share your personal information with external parties except where absolutely necessary to deliver our services. To operate effectively, we utilize the following trusted third-party sub-processors:" xml:space="preserve">
     <value>Δεν κοινοποιούμε τα προσωπικά σας δεδομένα σε εξωτερικούς φορείς, εκτός όπου απολύτως απαραίτητο για την παροχή των υπηρεσιών μας. Για να λειτουργήσουμε αποτελεσματικά, χρησιμοποιούμε τους εξής αξιόπιστους τρίτους υπο-επεξεργαστές:</value>
   </data>
+  <data name="We do not use your private documents or communications to train our models or third-party models. Customer-requested local training requires explicit authorization and uses only the data you select. Local inference keeps model inputs within your deployment. If you choose an external model provider, prompts and selected content are sent to that provider under its terms; the provider and data flow must be agreed before activation." xml:space="preserve">
+    <value>Δεν χρησιμοποιούμε τα ιδιωτικά έγγραφα ή τις επικοινωνίες σας για την εκπαίδευση των μοντέλων μας ή μοντέλων τρίτων. Η τοπική εκπαίδευση κατόπιν αιτήματος του πελάτη απαιτεί ρητή εξουσιοδότηση και χρησιμοποιεί μόνο τα δεδομένα που επιλέγετε. Η τοπική εκτέλεση συμπερασμάτων διατηρεί τις εισόδους του μοντέλου εντός της δικής σας εγκατάστασης. Αν επιλέξετε έναν εξωτερικό πάροχο μοντέλου, τα αιτήματα και το περιεχόμενο που επιλέγετε αποστέλλονται σε αυτόν τον πάροχο σύμφωνα με τους όρους του· ο πάροχος και η ροή των δεδομένων πρέπει να συμφωνηθούν πριν από την ενεργοποίηση.</value>
+  </data>
   <data name="We do not, and will never, sell, rent, or lease your personal or business data to third parties." xml:space="preserve">
     <value>Δεν πωλούμε, δεν ενοικιάζουμε και δεν θα πωλούμε ή ενοικιάζουμε ποτέ τα προσωπικά ή επιχειρηματικά σας δεδομένα σε τρίτους.</value>
   </data>
@@ -200,6 +209,9 @@
   </data>
   <data name="When you register for an Aiursoft commercial account or engage with our sales team, we collect necessary contact details, including your name, your work email address, and your company name. This information is used strictly for account administration and communication." xml:space="preserve">
     <value>Όταν εγγραφείτε σε ένα εμπορικό λογαριασμό της Aiursoft ή επικοινωνήσετε με την ομάδα πωλήσεων μας, συλλέγουμε τα απαραίτητα στοιχεία επικοινωνίας, συμπεριλαμβανομένου του ονόματός σας, της επαγγελματικής σας διεύθυνσης email και της ονομασίας της εταιρείας σας. Αυτές οι πληροφορίες χρησιμοποιούνται αποκλειστικά για τη διαχείριση του λογαριασμού και την επικοινωνία.</value>
+  </data>
+  <data name="When you utilize our cloud-hosted infrastructure (such as Mailcow, Nextcloud, or Authentik instances managed on our servers), AIURSOFT LIMITED acts as a Data Processor. You remain the Data Controller. Infrastructure administrators may have technical access to hosted systems, databases, and backups. We restrict access to authorized personnel and service duties. Access to business content for a support request requires your explicit authorization, is limited to that request, and is revoked when the work ends." xml:space="preserve">
+    <value>Όταν χρησιμοποιείτε την υποδομή μας που φιλοξενείται στο cloud (όπως περιπτώσεις Mailcow, Nextcloud ή Authentik που διαχειρίζονται στους διακομιστές μας), η AIURSOFT LIMITED ενεργεί ως Εκτελών την Επεξεργασία Δεδομένων. Εσείς παραμένετε ο Υπεύθυνος Επεξεργασίας Δεδομένων. Οι διαχειριστές της υποδομής ενδέχεται να έχουν τεχνική πρόσβαση στα φιλοξενούμενα συστήματα, στις βάσεις δεδομένων και στα αντίγραφα ασφαλείας. Περιορίζουμε την πρόσβαση σε εξουσιοδοτημένο προσωπικό και μόνο για την εκτέλεση των υπηρεσιακών του καθηκόντων. Η πρόσβαση σε επιχειρηματικό περιεχόμενο για την αντιμετώπιση αιτήματος υποστήριξης απαιτεί τη ρητή εξουσιοδότησή σας, περιορίζεται στο συγκεκριμένο αίτημα και ανακαλείται όταν ολοκληρωθούν οι εργασίες.</value>
   </data>
   <data name="When you utilize our cloud-hosted infrastructure (such as Mailcow, Nextcloud, or Authentik instances managed on our servers), AIURSOFT LIMITED acts as a Data Processor. You remain the Data Controller. We host and maintain the infrastructure to ensure uptime and security, but our personnel possess absolutely zero access to your underlying business data (e.g., the contents of your emails, your stored files, or your internal chat logs) unless you explicitly grant us temporary, revocable access for the sole purpose of resolving a technical support ticket you have initiated." xml:space="preserve">
     <value>Όταν χρησιμοποιείτε την υποδομή που φιλοξενείται στο cloud μας (όπως στιγμιότυπα Mailcow, Nextcloud ή Authentik που διαχειρίζονται στους διακομιστές μας), η AIURSOFT LIMITED δρα ως Επεξεργαστής Δεδομένων. Εσείς παραμένετε ο Υπεύθυνος Επεξεργασίας. Φιλοξενούμε και συντηρούμε την υποδομή για να διασφαλίσουμε τη διαθεσιμότητα και την ασφάλεια, αλλά το προσωπικό μας δεν έχει απόλυτη πρόσβαση στα υποκείμενα επιχειρηματικά σας δεδομένα (π.χ., το περιεχόμενο των email σας, τα αποθηκευμένα αρχεία σας ή τα εσωτερικά αρχεία συνομιλιών σας), εκτός εάν μας παραχωρήσετε ρητά προσωρινή και ανακλητή πρόσβαση με τον αποκλειστικό σκοπό της επίλυσης ενός τεχνικού αιτήματος υποστήριξης που έχετε ξεκινήσει.</value>

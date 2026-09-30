@@ -33,6 +33,9 @@
   <data name="Contact Us" xml:space="preserve">
     <value>Επικοινωνήστε μαζί μας</value>
   </data>
+  <data name="Control data and permissions for locally deployed services. Hosted services and support access are governed by the agreed deployment and authorization." xml:space="preserve">
+    <value>Ελέγξτε τα δεδομένα και τα δικαιώματα πρόσβασης για τις υπηρεσίες που αναπτύσσονται τοπικά. Οι φιλοξενούμενες υπηρεσίες και η πρόσβαση για υποστήριξη διέπονται από όσα έχουν συμφωνηθεί σχετικά με την ανάπτυξη και την εξουσιοδότηση.</value>
+  </data>
   <data name="Designed to run offline. Perfect for high-security environments with no internet dependency." xml:space="preserve">
     <value>Σχεδιασμένο για λειτουργία χωρίς σύνδεση. Ιδανικό για περιβάλλοντα υψηλής ασφαλείας χωρίς εξάρτηση από το διαδίκτυο.</value>
   </data>
@@ -41,6 +44,9 @@
   </data>
   <data name="Get unified endpoint management (UEM), identity management (IAM), and collaboration tools (OA) in one package. All on your local servers!" xml:space="preserve">
     <value>Λάβετε ενοποιημένη διαχείριση τερματικών σημείων (UEM), διαχείριση ταυτότητας (IAM) και εργαλεία συνεργασίας (OA) σε ένα πακέτο. Όλα στους τοπικούς σας διακομιστές!</value>
+  </data>
+  <data name="Local services can operate on an isolated network when packages, models, and dependencies are provisioned locally. Hosted email, cloud management, and external APIs require connectivity." xml:space="preserve">
+    <value>Οι τοπικές υπηρεσίες μπορούν να λειτουργούν σε απομονωμένο δίκτυο, εφόσον τα πακέτα, τα μοντέλα και οι εξαρτήσεις έχουν εγκατασταθεί τοπικά. Για το φιλοξενούμενο ηλεκτρονικό ταχυδρομείο, τη διαχείριση μέσω cloud και τα εξωτερικά API απαιτείται σύνδεση.</value>
   </data>
   <data name="Own Your Data" xml:space="preserve">
     <value>Διαχειριστείτε τα Δεδομένα σας</value>

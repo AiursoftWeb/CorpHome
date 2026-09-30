@@ -33,6 +33,9 @@
   <data name="Contact Us" xml:space="preserve">
     <value>Bizimle İletişime Geçin</value>
   </data>
+  <data name="Control data and permissions for locally deployed services. Hosted services and support access are governed by the agreed deployment and authorization." xml:space="preserve">
+    <value>Yerel olarak dağıtılan hizmetlere ait verileri ve izinleri siz yönetin. Barındırılan hizmetler ve destek erişimi, üzerinde anlaşmaya varılan dağıtım ve yetkilendirme koşullarına tabidir.</value>
+  </data>
   <data name="Designed to run offline. Perfect for high-security environments with no internet dependency." xml:space="preserve">
     <value>Çevrimdışı çalışacak şekilde tasarlandı. İnternet bağımlılığı olmayan yüksek güvenlikli ortamlar için mükemmel.</value>
   </data>
@@ -41,6 +44,9 @@
   </data>
   <data name="Get unified endpoint management (UEM), identity management (IAM), and collaboration tools (OA) in one package. All on your local servers!" xml:space="preserve">
     <value>Bir pakette birleşik uç nokta yönetimi (UEM), kimlik yönetimi (IAM) ve işbirliği araçlarını (OA) edinin. Hepsi yerel sunucularınızda!</value>
+  </data>
+  <data name="Local services can operate on an isolated network when packages, models, and dependencies are provisioned locally. Hosted email, cloud management, and external APIs require connectivity." xml:space="preserve">
+    <value>Paketler, modeller ve bağımlılıklar yerel olarak sağlandığında yerel hizmetler yalıtılmış bir ağda çalışabilir. Barındırılan e-posta, bulut yönetimi ve harici API’ler bağlantı gerektirir.</value>
   </data>
   <data name="Own Your Data" xml:space="preserve">
     <value>Veri Siziye Sahip Çıkan</value>

@@ -60,11 +60,17 @@
   <data name="Aiursoft provides enterprise IT infrastructure solutions built upon open-source technologies (e.g., Linux, Nextcloud, Mailcow, Authentik, GitLab)." xml:space="preserve">
     <value>Aiursoft cung cấp các giải pháp hạ tầng CNTT doanh nghiệp được xây dựng trên nền tảng các công nghệ mã nguồn mở (ví dụ: Linux, Nextcloud, Mailcow, Authentik, GitLab).</value>
   </data>
+  <data name="Aiursoft software, including deployment scripts and Template orchestration code, is provided under its published open-source licenses. Copyright ownership does not restrict the rights granted by those licenses. Third-party software retains its respective licenses. Aiursoft names, logos, and branding are separate from software licensing; modified distributions must not be presented as official products." xml:space="preserve">
+    <value>Phần mềm Aiursoft, bao gồm các tập lệnh triển khai và mã điều phối Template, được cung cấp theo các giấy phép nguồn mở đã công bố. Quyền sở hữu bản quyền không hạn chế các quyền được cấp theo những giấy phép đó. Phần mềm của bên thứ ba vẫn tuân theo giấy phép tương ứng. Tên, logo và thương hiệu Aiursoft không thuộc phạm vi cấp phép phần mềm; các bản phân phối đã chỉnh sửa không được giới thiệu là sản phẩm chính thức.</value>
+  </data>
   <data name="All fees are exclusive of applicable taxes, levies, or duties imposed by taxing authorities, and you shall be responsible for payment of all such taxes." xml:space="preserve">
     <value>Tất cả các khoản phí đều không bao gồm các loại thuế, lệ phí hoặc thuế suất áp dụng do cơ quan thuế thu thập, và bạn sẽ chịu trách nhiệm thanh toán toàn bộ các khoản thuế này.</value>
   </data>
   <data name="All payments are securely processed by our third-party payment gateway, Stripe. Aiursoft does not collect, process, or store your full credit card information on our servers." xml:space="preserve">
     <value>Tất cả các giao dịch thanh toán đều được xử lý an toàn thông qua cổng thanh toán bên thứ ba của chúng tôi, Stripe. Aiursoft không thu thập, xử lý hoặc lưu trữ thông tin thẻ tín dụng đầy đủ của bạn trên máy chủ của chúng tôi.</value>
+  </data>
+  <data name="An isolated deployment requires local packages, models, identity services, and other dependencies. Hosted email, cloud management, and external model APIs require connectivity and are outside the isolated environment. These services and their data flows must be agreed before activation." xml:space="preserve">
+    <value>Một bản triển khai biệt lập cần có các gói phần mềm, mô hình, dịch vụ định danh và các thành phần phụ thuộc khác tại chỗ. Email được lưu trữ, quản lý đám mây và API mô hình bên ngoài cần có kết nối mạng và nằm ngoài môi trường biệt lập. Các dịch vụ này và luồng dữ liệu của chúng phải được thống nhất trước khi kích hoạt.</value>
   </data>
   <data name="Any unauthorized access to your on-premise servers (for Startup/Enterprise plans)." xml:space="preserve">
     <value>Mọi truy cập trái phép vào máy chủ nội bộ của bạn (cho các gói Startup/Enterprise).</value>
@@ -96,6 +102,9 @@
   <data name="Email:" xml:space="preserve">
     <value>Email:</value>
   </data>
+  <data name="Enterprise services do not automatically extend an operating-system release&apos;s published security-update lifecycle. AnduinOS 2.0 standard support ends in April 2031. Your service agreement specifies included systems, supported devices, management integrations, maintenance responsibilities, and service duration." xml:space="preserve">
+    <value>Các dịch vụ dành cho doanh nghiệp không tự động kéo dài vòng đời cập nhật bảo mật đã công bố của một phiên bản hệ điều hành. Hỗ trợ tiêu chuẩn cho AnduinOS 2.0 kết thúc vào tháng 4 năm 2031. Thỏa thuận dịch vụ của bạn quy định các hệ thống được bao gồm, thiết bị được hỗ trợ, tích hợp quản lý, trách nhiệm bảo trì và thời hạn dịch vụ.</value>
+  </data>
   <data name="For On-Premise plans requiring a One-Time Setup Fee, this fee covers the manual labor of our architects (e.g., network configuration, Docker deployment, Yubikey integration). Setup fees are strictly non-refundable once the deployment and configuration process has commenced." xml:space="preserve">
     <value>Đối với các gói On-Premise yêu cầu Phí Thiết lập Một Lần, phí này bao gồm công lao động thủ công của các kiến trúc sư của chúng tôi (ví dụ: cấu hình mạng, triển khai Docker, tích hợp Yubikey). Các khoản phí thiết lập là hoàn toàn không hoàn lại một khi quá trình triển khai và cấu hình đã bắt đầu.</value>
   </data>
@@ -113,6 +122,9 @@
   </data>
   <data name="Last Updated: March 2026" xml:space="preserve">
     <value>Cập nhật lần cuối: Tháng Ba 2026</value>
+  </data>
+  <data name="Last Updated: September 2026" xml:space="preserve">
+    <value>Cập nhật lần cuối: Tháng 9 năm 2026</value>
   </data>
   <data name="No Pro-Rated Refunds:" xml:space="preserve">
     <value>Không hoàn tiền theo tỷ lệ:</value>
@@ -188,6 +200,9 @@
   </data>
   <data name="What you are purchasing from Aiursoft is the hosting, automated deployment, maintenance, priority support, and enterprise integration of these tools." xml:space="preserve">
     <value>Điều bạn đang mua từ Aiursoft là dịch vụ lưu trữ, triển khai tự động, bảo trì, hỗ trợ ưu tiên và tích hợp doanh nghiệp cho các công cụ này.</value>
+  </data>
+  <data name="Where a plan includes 7×24 on-call support, this means incident intake and escalation. The service agreement defines incident severity, response targets, support channels, maintenance windows, and exclusions. It does not guarantee immediate resolution or uninterrupted availability." xml:space="preserve">
+    <value>Trong trường hợp gói dịch vụ bao gồm hỗ trợ trực 24/7, điều này có nghĩa là tiếp nhận và chuyển cấp sự cố. Thỏa thuận dịch vụ quy định mức độ nghiêm trọng của sự cố, mục tiêu thời gian phản hồi, các kênh hỗ trợ, khung thời gian bảo trì và các trường hợp loại trừ. Điều này không đảm bảo sự cố sẽ được giải quyết ngay lập tức hoặc dịch vụ luôn sẵn sàng liên tục.</value>
   </data>
   <data name="You agree not to misuse the Services or help anyone else to do so. You must not:" xml:space="preserve">
     <value>Bạn đồng ý không sử dụng dịch vụ một cách sai trái hoặc giúp bất kỳ ai khác làm như vậy. Bạn tuyệt đối không được:</value>

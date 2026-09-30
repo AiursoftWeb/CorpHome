@@ -60,11 +60,17 @@
   <data name="Aiursoft provides enterprise IT infrastructure solutions built upon open-source technologies (e.g., Linux, Nextcloud, Mailcow, Authentik, GitLab)." xml:space="preserve">
     <value>Aiursoft उन्मूलन स्रोत तकनीकों (जैसे कि, Linux, Nextcloud, Mailcow, Authentik, GitLab) पर आधारित उद्यम आईटी बुनियादी ढांचे के समाधान प्रदान करता है।</value>
   </data>
+  <data name="Aiursoft software, including deployment scripts and Template orchestration code, is provided under its published open-source licenses. Copyright ownership does not restrict the rights granted by those licenses. Third-party software retains its respective licenses. Aiursoft names, logos, and branding are separate from software licensing; modified distributions must not be presented as official products." xml:space="preserve">
+    <value>Aiursoft सॉफ़्टवेयर, जिसमें परिनियोजन स्क्रिप्ट और Template ऑर्केस्ट्रेशन कोड शामिल हैं, उसके प्रकाशित ओपन-सोर्स लाइसेंसों के अंतर्गत उपलब्ध कराया जाता है। कॉपीराइट का स्वामित्व उन लाइसेंसों द्वारा दिए गए अधिकारों को सीमित नहीं करता। तृतीय-पक्ष सॉफ़्टवेयर अपने-अपने लाइसेंसों के अधीन रहता है। Aiursoft के नाम, लोगो और ब्रांडिंग सॉफ़्टवेयर लाइसेंसिंग से अलग हैं; संशोधित वितरणों को आधिकारिक उत्पादों के रूप में प्रस्तुत नहीं किया जाना चाहिए।</value>
+  </data>
   <data name="All fees are exclusive of applicable taxes, levies, or duties imposed by taxing authorities, and you shall be responsible for payment of all such taxes." xml:space="preserve">
     <value>सभी शुल्क कर प्राधिकरणों द्वारा लगाए गए लागू करों, करों या शुल्क से मुक्त हैं, और आपको सभी ऐसे करों का भुगतान करने की जिम्मेदारी होगी।</value>
   </data>
   <data name="All payments are securely processed by our third-party payment gateway, Stripe. Aiursoft does not collect, process, or store your full credit card information on our servers." xml:space="preserve">
     <value>सभी भुगतान हमारे तीसरे पक्ष के भुगतान गेटवे, Stripe द्वारा सुरक्षित रूप से प्रसंस्कृत किए जाते हैं। Aiursoft अपने सर्वरों पर आपकी पूर्ण क्रेडिट कार्ड जानकारी एकत्र, प्रसंस्कृत या संग्रहीत नहीं करता है।</value>
+  </data>
+  <data name="An isolated deployment requires local packages, models, identity services, and other dependencies. Hosted email, cloud management, and external model APIs require connectivity and are outside the isolated environment. These services and their data flows must be agreed before activation." xml:space="preserve">
+    <value>एक पृथक परिनियोजन के लिए स्थानीय पैकेज, मॉडल, पहचान सेवाएँ और अन्य निर्भरताएँ आवश्यक हैं। होस्ट की गई ईमेल सेवा, क्लाउड प्रबंधन और बाहरी मॉडल API के लिए कनेक्टिविटी आवश्यक है और ये पृथक परिवेश के दायरे से बाहर हैं। इन सेवाओं और इनके डेटा प्रवाहों पर सक्रियण से पहले सहमति होनी चाहिए।</value>
   </data>
   <data name="Any unauthorized access to your on-premise servers (for Startup/Enterprise plans)." xml:space="preserve">
     <value>अपने ऑन-प्रीमिस सर्वर (स्टार्टअप/एंटरप्राइज प्लान के लिए) तक कोई अनधिकृत पहुंच।</value>
@@ -96,6 +102,9 @@
   <data name="Email:" xml:space="preserve">
     <value>ईमेल:</value>
   </data>
+  <data name="Enterprise services do not automatically extend an operating-system release&apos;s published security-update lifecycle. AnduinOS 2.0 standard support ends in April 2031. Your service agreement specifies included systems, supported devices, management integrations, maintenance responsibilities, and service duration." xml:space="preserve">
+    <value>एंटरप्राइज़ सेवाएँ किसी ऑपरेटिंग सिस्टम रिलीज़ की प्रकाशित सुरक्षा अपडेट अवधि को अपने-आप नहीं बढ़ाती हैं। AnduinOS 2.0 के लिए मानक समर्थन अप्रैल 2031 में समाप्त होगा। आपके सेवा समझौते में शामिल सिस्टम, समर्थित डिवाइस, प्रबंधन एकीकरण, रखरखाव की ज़िम्मेदारियाँ और सेवा की अवधि निर्दिष्ट हैं।</value>
+  </data>
   <data name="For On-Premise plans requiring a One-Time Setup Fee, this fee covers the manual labor of our architects (e.g., network configuration, Docker deployment, Yubikey integration). Setup fees are strictly non-refundable once the deployment and configuration process has commenced." xml:space="preserve">
     <value>उन On-Premise योजनाओं के लिए जिनके लिए एक बार सेटअप शुल्क (One-Time Setup Fee) आवश्यक है, यह शुल्क हमारे आर्किटेक्ट्स के शारीरिक श्रम (जैसे नेटवर्क कॉन्फ़िगरेशन, Docker डिप्लॉयमेंट, Yubikey एकीकरण) को कवर करता है। डिप्लॉयमेंट और कॉन्फ़िगरेशन प्रक्रिया शुरू होने के बाद सेटअप शुल्क पूरी तरह से अदायगी-योग्य नहीं होते हैं।</value>
   </data>
@@ -113,6 +122,9 @@
   </data>
   <data name="Last Updated: March 2026" xml:space="preserve">
     <value>अंतिम अद्यतन: मार्च 2026</value>
+  </data>
+  <data name="Last Updated: September 2026" xml:space="preserve">
+    <value>अंतिम अपडेट: सितंबर 2026</value>
   </data>
   <data name="No Pro-Rated Refunds:" xml:space="preserve">
     <value>कोई अनुपातिक वापसी नहीं:</value>
@@ -188,6 +200,9 @@
   </data>
   <data name="What you are purchasing from Aiursoft is the hosting, automated deployment, maintenance, priority support, and enterprise integration of these tools." xml:space="preserve">
     <value>आप Aiursoft से जो खरीद रहे हैं, वह इन उपकरणों की होस्टिंग, स्वचालित तैनाती, रखरखाव, प्राथमिकता सहायता और उद्यम एकीकरण है।</value>
+  </data>
+  <data name="Where a plan includes 7×24 on-call support, this means incident intake and escalation. The service agreement defines incident severity, response targets, support channels, maintenance windows, and exclusions. It does not guarantee immediate resolution or uninterrupted availability." xml:space="preserve">
+    <value>जहाँ किसी योजना में 7×24 ऑन-कॉल सहायता शामिल होती है, इसका अर्थ है कि घटनाओं की सूचना स्वीकार की जाएगी और उन्हें आगे बढ़ाया जाएगा। सेवा समझौते में घटना की गंभीरता, प्रतिक्रिया के लक्ष्य, सहायता के माध्यम, रखरखाव की अवधि और अपवाद निर्धारित होते हैं। यह तत्काल समाधान या बिना किसी रुकावट के उपलब्धता की गारंटी नहीं देता।</value>
   </data>
   <data name="You agree not to misuse the Services or help anyone else to do so. You must not:" xml:space="preserve">
     <value>आप सहमत हैं कि आप सेवाओं का दुरुपयोग नहीं करेंगे या किसी अन्य को ऐसा करने में मदद नहीं करेंगे। आपको निम्नलिखित कार्य नहीं करने चाहिए:</value>

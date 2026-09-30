@@ -60,11 +60,17 @@
   <data name="Aiursoft provides enterprise IT infrastructure solutions built upon open-source technologies (e.g., Linux, Nextcloud, Mailcow, Authentik, GitLab)." xml:space="preserve">
     <value>Aiursoftは、オープンソース技術（例：Linux、Nextcloud、Mailcow、Authentik、GitLab）を基盤としたエンタープライズITインフラ構成ソリューションを提供しています。</value>
   </data>
+  <data name="Aiursoft software, including deployment scripts and Template orchestration code, is provided under its published open-source licenses. Copyright ownership does not restrict the rights granted by those licenses. Third-party software retains its respective licenses. Aiursoft names, logos, and branding are separate from software licensing; modified distributions must not be presented as official products." xml:space="preserve">
+    <value>Aiursoftのソフトウェア（デプロイスクリプトおよびTemplateオーケストレーションコードを含む）は、公開されているオープンソースライセンスに基づいて提供されます。著作権の保有によって、これらのライセンスで認められた権利が制限されることはありません。サードパーティ製ソフトウェアには、それぞれのライセンスが適用されます。Aiursoftの名称、ロゴ、ブランドはソフトウェアのライセンスとは別個のものであり、改変した配布物を公式製品として表示してはなりません。</value>
+  </data>
   <data name="All fees are exclusive of applicable taxes, levies, or duties imposed by taxing authorities, and you shall be responsible for payment of all such taxes." xml:space="preserve">
     <value>すべての手数料は、課税当局が課す適用される税金、諸税、または関税を除くものとし、そのすべての税金の支払いについてはお客様が責任を負います。</value>
   </data>
   <data name="All payments are securely processed by our third-party payment gateway, Stripe. Aiursoft does not collect, process, or store your full credit card information on our servers." xml:space="preserve">
     <value>すべての決済は、当社のサードパーティ決済ゲートウェイであるStripeによって安全に処理されます。Aiursoftは、お客様の完全なクレジットカード情報を当社のサーバー上に収集、処理、または保存しません。</value>
+  </data>
+  <data name="An isolated deployment requires local packages, models, identity services, and other dependencies. Hosted email, cloud management, and external model APIs require connectivity and are outside the isolated environment. These services and their data flows must be agreed before activation." xml:space="preserve">
+    <value>隔離環境への導入には、ローカルパッケージ、モデル、ID管理サービス、その他の依存コンポーネントが必要です。ホスト型メール、クラウド管理、外部モデルAPIには接続が必要であり、隔離環境の範囲外です。これらのサービスとそのデータフローについては、有効化前に合意しておく必要があります。</value>
   </data>
   <data name="Any unauthorized access to your on-premise servers (for Startup/Enterprise plans)." xml:space="preserve">
     <value>スタートアップ/エンタープライズプラン対象の、ご自身のオンプレミスサーバーへの不正アクセス。</value>
@@ -96,6 +102,9 @@
   <data name="Email:" xml:space="preserve">
     <value>メール:</value>
   </data>
+  <data name="Enterprise services do not automatically extend an operating-system release&apos;s published security-update lifecycle. AnduinOS 2.0 standard support ends in April 2031. Your service agreement specifies included systems, supported devices, management integrations, maintenance responsibilities, and service duration." xml:space="preserve">
+    <value>エンタープライズサービスによって、オペレーティングシステムの各リリースで公表されているセキュリティ更新の提供期間が自動的に延長されることはありません。AnduinOS 2.0の標準サポートは2031年4月に終了します。サービス契約には、対象システム、サポート対象デバイス、管理統合、メンテナンスの責任範囲、およびサービス期間が明記されます。</value>
+  </data>
   <data name="For On-Premise plans requiring a One-Time Setup Fee, this fee covers the manual labor of our architects (e.g., network configuration, Docker deployment, Yubikey integration). Setup fees are strictly non-refundable once the deployment and configuration process has commenced." xml:space="preserve">
     <value>オンプレミスプランで一時的なセットアップ手数料が必要な場合、この手数料は当社のアーキテクトによる手作業（例：ネットワーク構成、Dockerデプロイ、Yubikey統合）をカバーします。セットアップ手数料は、デプロイおよび構成プロセスが開始されると、いかなる場合でも返金不可です。</value>
   </data>
@@ -113,6 +122,9 @@
   </data>
   <data name="Last Updated: March 2026" xml:space="preserve">
     <value>最終更新日: 2026年3月</value>
+  </data>
+  <data name="Last Updated: September 2026" xml:space="preserve">
+    <value>最終更新日：2026年9月</value>
   </data>
   <data name="No Pro-Rated Refunds:" xml:space="preserve">
     <value>プロラテッド払い戻しは行いません：</value>
@@ -188,6 +200,9 @@
   </data>
   <data name="What you are purchasing from Aiursoft is the hosting, automated deployment, maintenance, priority support, and enterprise integration of these tools." xml:space="preserve">
     <value>Aiursoftから購入しているのは、これらのツールのホスティング、自動デプロイ、メンテナンス、優先サポート、およびエンタープライズ統合です。</value>
+  </data>
+  <data name="Where a plan includes 7×24 on-call support, this means incident intake and escalation. The service agreement defines incident severity, response targets, support channels, maintenance windows, and exclusions. It does not guarantee immediate resolution or uninterrupted availability." xml:space="preserve">
+    <value>プランに7×24のオンコールサポートが含まれる場合、これはインシデントの受付とエスカレーションを意味します。サービス契約では、インシデントの重大度、応答目標、サポート窓口、メンテナンス時間帯、および対象外事項を定めます。即時解決やサービスの中断のない提供を保証するものではありません。</value>
   </data>
   <data name="You agree not to misuse the Services or help anyone else to do so. You must not:" xml:space="preserve">
     <value>サービスを不正に使用しないこと、また他人がそのような行為をしないよう助けることにも同意します。以下の行為は禁止されています：</value>

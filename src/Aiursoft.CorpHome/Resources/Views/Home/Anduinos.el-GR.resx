@@ -30,8 +30,14 @@
   <data name="Advanced" xml:space="preserve">
     <value>Για προχωρημένους</value>
   </data>
+  <data name="Agree the device count, supported platforms, management integrations, and acceptance criteria before deployment." xml:space="preserve">
+    <value>Συμφωνήστε τον αριθμό των συσκευών, τις υποστηριζόμενες πλατφόρμες, τις διασυνδέσεις διαχείρισης και τα κριτήρια αποδοχής πριν από την ανάπτυξη.</value>
+  </data>
   <data name="All the power of open-source, backed by enterprise-grade support, management tools, and customisation capabilities." xml:space="preserve">
     <value>Όλη η ισχύς του ανοιχτού κώδικα, υποστηριζόμενη από υποστήριξη, εργαλεία διαχείρισης και δυνατότητες προσαρμογής επιπέδου enterprise.</value>
+  </data>
+  <data name="AnduinOS 2.0 standard support ends in April 2031, as for the community edition. Enterprise services do not extend this release&apos;s security-update lifecycle. Service scope and subscription duration are specified in your agreement." xml:space="preserve">
+    <value>Η τυπική υποστήριξη του AnduinOS 2.0 λήγει τον Απρίλιο του 2031, όπως και στην έκδοση της κοινότητας. Οι υπηρεσίες για επιχειρήσεις δεν παρατείνουν τον κύκλο ζωής των ενημερώσεων ασφαλείας αυτής της έκδοσης. Το εύρος των υπηρεσιών και η διάρκεια της συνδρομής καθορίζονται στη συμφωνία σας.</value>
   </data>
   <data name="AnduinOS device" xml:space="preserve">
     <value>συσκευή AnduinOS</value>
@@ -72,6 +78,9 @@
   <data name="Apkg is a declarative APT repository platform that lets you host signed Debian repositories, mirror upstream archives, and publish your own .apkg packages — all fully on-premise. Integrates seamlessly with AnduinOS for painless apt update &amp;&amp; apt install workflows across your entire fleet." xml:space="preserve">
     <value>Το Apkg είναι μια δηλωτική πλατφόρμα αποθετηρίων APT που σας επιτρέπει να φιλοξενείτε υπογεγραμμένα αποθετήρια Debian, να καθρεπτίζετε αρχεία προέλευσης και να δημοσιεύετε τις δικές σας πακέτα .apkg — όλα εξ ολοκλήρου on-premise. Ολοκληρώνεται αβίαστα με το AnduinOS για άνετες ροές εργασιών apt update &amp;&amp; apt install σε ολόκληρο το σύνολο συσκευών σας.</value>
   </data>
+  <data name="April" xml:space="preserve">
+    <value>Απρίλιο</value>
+  </data>
   <data name="Architecture" xml:space="preserve">
     <value>Αρχιτεκτονική</value>
   </data>
@@ -108,6 +117,9 @@
   <data name="Bulk operations across your entire fleet" xml:space="preserve">
     <value>Μαζικές λειτουργίες σε όλο το σύγγραμμα συσκευών σας</value>
   </data>
+  <data name="Bulk operations for supported devices and integrations" xml:space="preserve">
+    <value>Μαζικές ενέργειες για υποστηριζόμενες συσκευές και ενσωματώσεις</value>
+  </data>
   <data name="Community Site" xml:space="preserve">
     <value>Ιστοσελίδα Κοινότητας</value>
   </data>
@@ -128,6 +140,9 @@
   </data>
   <data name="Containerized" xml:space="preserve">
     <value>Συμβατικοποιημένο</value>
+  </data>
+  <data name="Content updates and device monitoring use the management service selected for your deployment. Cloud management requires connectivity; some maintenance may require on-site access." xml:space="preserve">
+    <value>Οι ενημερώσεις περιεχομένου και η παρακολούθηση συσκευών χρησιμοποιούν την υπηρεσία διαχείρισης που έχει επιλεγεί για την εγκατάστασή σας. Η διαχείριση μέσω cloud απαιτεί σύνδεση στο διαδίκτυο· ορισμένες εργασίες συντήρησης ενδέχεται να απαιτούν επιτόπια πρόσβαση.</value>
   </data>
   <data name="Control and configure thousands of devices and policies efficiently from a single dashboard." xml:space="preserve">
     <value>Ελέγξτε και διαμορφώστε χιλιάδες συσκευές και πολιτικές αποτελεσματικά από έναν ενιαίο πίνακα ελέγχου.</value>
@@ -168,6 +183,9 @@
   <data name="Desktop Environment" xml:space="preserve">
     <value>Περιβάλλον Εργασίας</value>
   </data>
+  <data name="Device Management Integrations" xml:space="preserve">
+    <value>Ενσωματώσεις διαχείρισης συσκευών</value>
+  </data>
   <data name="digital signage and kiosk terminals" xml:space="preserve">
     <value>ηλεκτρονικά σημεία προβολής και τερματικά kiosk</value>
   </data>
@@ -195,11 +213,17 @@
   <data name="Edge AI" xml:space="preserve">
     <value>Τεχνητή Νοημοσύνη στην Περιφέρεια</value>
   </data>
+  <data name="End of Standard Support" xml:space="preserve">
+    <value>Λήξη της τυπικής υποστήριξης</value>
+  </data>
   <data name="End of Support" xml:space="preserve">
     <value>Λήξη υποστήριξης</value>
   </data>
   <data name="Enroll" xml:space="preserve">
     <value>Εγγραφή</value>
+  </data>
+  <data name="Enroll in your agreed management service" xml:space="preserve">
+    <value>Εγγραφείτε στην υπηρεσία διαχείρισης που συμφωνήσατε</value>
   </data>
   <data name="Enterprise" xml:space="preserve">
     <value>Επιχειρήσεων</value>
@@ -209,6 +233,9 @@
   </data>
   <data name="Enterprise Services" xml:space="preserve">
     <value>Επιχειρησιακές Υπηρεσίες</value>
+  </data>
+  <data name="Enterprise support covers the services and devices listed in your agreement. Where purchased, 7×24 on-call support provides incident intake and escalation; severity levels, response targets, maintenance windows, and exclusions are defined in the service agreement." xml:space="preserve">
+    <value>Η εταιρική υποστήριξη καλύπτει τις υπηρεσίες και τις συσκευές που αναφέρονται στη σύμβασή σας. Εφόσον έχει αγοραστεί, η υποστήριξη ετοιμότητας 7×24 δέχεται και κλιμακώνει περιστατικά· τα επίπεδα σοβαρότητας, οι χρόνοι απόκρισης, τα χρονικά διαστήματα συντήρησης και οι εξαιρέσεις ορίζονται στη σύμβαση παροχής υπηρεσιών.</value>
   </data>
   <data name="Enterprise-grade" xml:space="preserve">
     <value>Επιχειρησιακού επιπέδου</value>
@@ -258,6 +285,9 @@
   <data name="HDR Support" xml:space="preserve">
     <value>Υποστήριξη HDR</value>
   </data>
+  <data name="Host your own internal Apkg repository behind your firewall. Distribute approved updates and in-house software across your local network. Isolated deployments require package updates to be imported into the internal repository." xml:space="preserve">
+    <value>Φιλοξενήστε το δικό σας εσωτερικό αποθετήριο Apkg πίσω από το τείχος προστασίας σας. Διανείμετε εγκεκριμένες ενημερώσεις και λογισμικό που αναπτύσσεται εσωτερικά στο τοπικό σας δίκτυο. Σε απομονωμένες εγκαταστάσεις, οι ενημερώσεις πακέτων πρέπει να εισάγονται στο εσωτερικό αποθετήριο.</value>
+  </data>
   <data name="Host your own internal Apkg repository behind your firewall. Selectively push updates, enforce compliance policies, and distribute custom in-house software — all while keeping every device consistently up to date, fully offline." xml:space="preserve">
     <value>Φιλοξενήστε το δικό σας εσωτερικό αποθετήριο Apkg πίσω από το τείχος προστασίας σας. Αναβάθετε εκλεκτικά, επιβάλτε πολιτικές συμμόρφωσης και κατανείμετε προσαρμοσμένο λογισμικό εσωτερικής χρήσης — διατηρώντας παράλληλα κάθε συσκευή συνεχώς ενημερωμένη, πλήρως εκτός σύνδεσης.</value>
   </data>
@@ -266,6 +296,9 @@
   </data>
   <data name="Init System" xml:space="preserve">
     <value>Σύστημα Εκκίνησης</value>
+  </data>
+  <data name="Install on supported hardware, configure security and update policies, and enroll devices in the management services included in your deployment." xml:space="preserve">
+    <value>Εγκαταστήστε σε υποστηριζόμενο υλικό, διαμορφώστε τις πολιτικές ασφάλειας και ενημερώσεων και εγγράψτε τις συσκευές στις υπηρεσίες διαχείρισης που περιλαμβάνονται στην ανάπτυξή σας.</value>
   </data>
   <data name="Internal package distribution via apt" xml:space="preserve">
     <value>Εσωτερική διανομή πακέτων μέσω apt</value>
@@ -303,6 +336,9 @@
   <data name="LTS Support" xml:space="preserve">
     <value>Υποστήριξη LTS</value>
   </data>
+  <data name="Managed Update Rollouts" xml:space="preserve">
+    <value>Ελεγχόμενη διάθεση ενημερώσεων</value>
+  </data>
   <data name="management for your fleet" xml:space="preserve">
     <value>διαχείριση για το στόλο σας</value>
   </data>
@@ -323,6 +359,9 @@
   </data>
   <data name="Monitoring" xml:space="preserve">
     <value>Παρακολούθηση</value>
+  </data>
+  <data name="Monitoring, remote configuration, and policy enforcement are separate integrations. Your deployment proposal specifies the supported devices and included capabilities." xml:space="preserve">
+    <value>Η παρακολούθηση, η απομακρυσμένη διαμόρφωση και η εφαρμογή πολιτικών αποτελούν ξεχωριστές ενσωματώσεις. Η πρόταση ανάπτυξής σας προσδιορίζει τις υποστηριζόμενες συσκευές και τις δυνατότητες που περιλαμβάνονται.</value>
   </data>
   <data name="Multi-Node" xml:space="preserve">
     <value>Πολυ-κόμβος</value>
@@ -353,6 +392,9 @@
   </data>
   <data name="Performance" xml:space="preserve">
     <value>Επιδόσεις</value>
+  </data>
+  <data name="Plan and Deploy Your Fleet" xml:space="preserve">
+    <value>Σχεδιάστε και αναπτύξτε τον στόλο σας</value>
   </data>
   <data name="Ports" xml:space="preserve">
     <value>Θύρες</value>
@@ -396,6 +438,9 @@
   <data name="Remote configuration and policy enforcement" xml:space="preserve">
     <value>Απομακρυσμένη διαμόρφωση και επιβολή πολιτικών</value>
   </data>
+  <data name="Remote configuration and policy integration where agreed" xml:space="preserve">
+    <value>Απομακρυσμένη διαμόρφωση και ενσωμάτωση πολιτικών, όπου έχει συμφωνηθεί</value>
+  </data>
   <data name="Remote content management" xml:space="preserve">
     <value>Απομακρυσμένη διαχείριση περιεχομένου</value>
   </data>
@@ -428,6 +473,9 @@
   </data>
   <data name="Secure Boot" xml:space="preserve">
     <value>Ασφαλής Εκκίνηση</value>
+  </data>
+  <data name="Serve packages internally using standard apt. Isolated networks require upstream packages and updates to be imported into the local repository." xml:space="preserve">
+    <value>Διαθέστε πακέτα εσωτερικά χρησιμοποιώντας το τυπικό apt. Σε απομονωμένα δίκτυα, απαιτείται η εισαγωγή των πακέτων από ανάντη πηγές και των ενημερώσεων στο τοπικό αποθετήριο.</value>
   </data>
   <data name="Set up your system in under 5 minutes" xml:space="preserve">
     <value>Ρυθμίστε το σύστημά σας σε λιγότερο από 5 λεπτά</value>
@@ -494,6 +542,9 @@
   </data>
   <data name="UI Toolkit" xml:space="preserve">
     <value>Σύνολο εργαλείων διεπαφής χρήστη</value>
+  </data>
+  <data name="Update and restart policies are configured for your deployment. Test releases before rollout and schedule maintenance for changes that require downtime." xml:space="preserve">
+    <value>Οι πολιτικές ενημέρωσης και επανεκκίνησης έχουν ρυθμιστεί για την εγκατάστασή σας. Δοκιμάστε τις εκδόσεις πριν από τη διάθεσή τους και προγραμματίστε συντήρηση για αλλαγές που απαιτούν διακοπή λειτουργίας.</value>
   </data>
   <data name="Update content, push configurations, and monitor device health — all from the cloud. No need for on-site visits." xml:space="preserve">
     <value>Ενημερώστε περιεχόμενο, αποστείλετε ρυθμίσεις και παρακολουθήστε την κατάσταση της συσκευής — όλα από το cloud. Χωρίς ανάγκη για επίσκεψη στο εξωτερικό χώρο.</value>

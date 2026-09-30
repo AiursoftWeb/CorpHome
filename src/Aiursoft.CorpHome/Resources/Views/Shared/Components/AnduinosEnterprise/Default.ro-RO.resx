@@ -36,6 +36,9 @@
   <data name="Compliance Ready" xml:space="preserve">
     <value>Pregătit pentru conformitate</value>
   </data>
+  <data name="Configure access controls and audit records for your requirements. Compliance depends on the applicable standard, deployment, and your operating procedures." xml:space="preserve">
+    <value>Configurați controalele de acces și înregistrările de audit în funcție de cerințele dumneavoastră. Conformitatea depinde de standardul aplicabil, de implementare și de procedurile dumneavoastră operaționale.</value>
+  </data>
   <data name="Custom Branding" xml:space="preserve">
     <value>Personalizare marca</value>
   </data>
@@ -47,6 +50,9 @@
   </data>
   <data name="Enterprise customers get round-the-clock telephone support, ensuring critical issues are addressed immediately." xml:space="preserve">
     <value>Clienții enterprise primesc suport telefonic non-stop, asigurând că problemele critice sunt rezolvate imediat.</value>
+  </data>
+  <data name="Enterprise services add deployment, customization, and support to the community edition. Support coverage, including any 7×24 on-call service, is defined in your agreement." xml:space="preserve">
+    <value>Serviciile Enterprise completează ediția comunitară cu implementare, personalizare și asistență. Nivelul de asistență, inclusiv orice serviciu de asistență de gardă 7×24, este definit în contractul dumneavoastră.</value>
   </data>
   <data name="Freedom and enterprise service don&apos;t conflict." xml:space="preserve">
     <value>Libertatea și serviciile pentru întreprinderi nu intră în conflict.</value>
@@ -63,11 +69,17 @@
   <data name="Meet industry compliance requirements with auditable configurations and enterprise-grade controls." xml:space="preserve">
     <value>Îndepliniți cerințele de conformitate ale industriei cu configurații verificabile și controale de nivel enterprise.</value>
   </data>
+  <data name="Monitor supported endpoints and configure the remote-management integrations specified in your deployment proposal." xml:space="preserve">
+    <value>Monitorizați punctele terminale acceptate și configurați integrările de gestionare la distanță specificate în propunerea de implementare.</value>
+  </data>
   <data name="On-premises Package Repository" xml:space="preserve">
     <value>Depozit de pachete on-premises</value>
   </data>
   <data name="Private Package Repository" xml:space="preserve">
     <value>Depozit privat de pachete</value>
+  </data>
+  <data name="Where included in your agreement, round-the-clock incident intake and escalation are available. Response targets depend on incident severity; resolution time is not guaranteed." xml:space="preserve">
+    <value>Dacă este inclus în acordul dumneavoastră, serviciul de preluare și escaladare a incidentelor este disponibil non-stop. Termenele de răspuns depind de gravitatea incidentului; timpul de rezolvare nu este garantat.</value>
   </data>
 
 </root>

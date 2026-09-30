@@ -36,6 +36,9 @@
   <data name="Compliance Ready" xml:space="preserve">
     <value>合規就緒</value>
   </data>
+  <data name="Configure access controls and audit records for your requirements. Compliance depends on the applicable standard, deployment, and your operating procedures." xml:space="preserve">
+    <value>請依據您的需求設定存取控制與稽核紀錄。合規性取決於適用的標準、部署方式及您的作業程序。</value>
+  </data>
   <data name="Custom Branding" xml:space="preserve">
     <value>自訂品牌</value>
   </data>
@@ -47,6 +50,9 @@
   </data>
   <data name="Enterprise customers get round-the-clock telephone support, ensuring critical issues are addressed immediately." xml:space="preserve">
     <value>企業客戶享有全天候電話支援，確保關鍵問題能立即獲得處理。</value>
+  </data>
+  <data name="Enterprise services add deployment, customization, and support to the community edition. Support coverage, including any 7×24 on-call service, is defined in your agreement." xml:space="preserve">
+    <value>企業版服務為社群版提供部署、客製化與支援服務。支援範圍（包括任何 7×24 全天候待命服務）依您的合約約定。</value>
   </data>
   <data name="Freedom and enterprise service don&apos;t conflict." xml:space="preserve">
     <value>自由與企業服務並不衝突</value>
@@ -63,11 +69,17 @@
   <data name="Meet industry compliance requirements with auditable configurations and enterprise-grade controls." xml:space="preserve">
     <value>符合產業合規要求，提供可審計的設定與企業級控制。</value>
   </data>
+  <data name="Monitor supported endpoints and configure the remote-management integrations specified in your deployment proposal." xml:space="preserve">
+    <value>監控支援的端點，並設定部署提案中指定的遠端管理整合。</value>
+  </data>
   <data name="On-premises Package Repository" xml:space="preserve">
     <value>本地套件儲存庫</value>
   </data>
   <data name="Private Package Repository" xml:space="preserve">
     <value>私有套件儲存庫</value>
+  </data>
+  <data name="Where included in your agreement, round-the-clock incident intake and escalation are available. Response targets depend on incident severity; resolution time is not guaranteed." xml:space="preserve">
+    <value>若您的合約包含此服務，您可全天候通報事件並要求升級處理。回應目標取決於事件的嚴重程度；不保證解決所需時間。</value>
   </data>
 
 </root>

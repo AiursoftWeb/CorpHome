@@ -36,6 +36,9 @@
   <data name="Compliance Ready" xml:space="preserve">
     <value>Готовность к соблюдению требований</value>
   </data>
+  <data name="Configure access controls and audit records for your requirements. Compliance depends on the applicable standard, deployment, and your operating procedures." xml:space="preserve">
+    <value>Настройте средства контроля доступа и ведение журналов аудита в соответствии с вашими требованиями. Соответствие требованиям зависит от применимого стандарта, способа развертывания и ваших рабочих процедур.</value>
+  </data>
   <data name="Custom Branding" xml:space="preserve">
     <value>Пользовательское брендирование</value>
   </data>
@@ -47,6 +50,9 @@
   </data>
   <data name="Enterprise customers get round-the-clock telephone support, ensuring critical issues are addressed immediately." xml:space="preserve">
     <value>Корпоративные клиенты получают круглосуточную телефонную поддержку, обеспечивающую немедленное решение критических проблем.</value>
+  </data>
+  <data name="Enterprise services add deployment, customization, and support to the community edition. Support coverage, including any 7×24 on-call service, is defined in your agreement." xml:space="preserve">
+    <value>Корпоративные услуги дополняют версию для сообщества внедрением, настройкой и поддержкой. Объём поддержки, включая дежурство по вызову 24×7, определяется вашим соглашением.</value>
   </data>
   <data name="Freedom and enterprise service don&apos;t conflict." xml:space="preserve">
     <value>Свобода и сервис для предприятий не противоречат друг другу.</value>
@@ -63,11 +69,17 @@
   <data name="Meet industry compliance requirements with auditable configurations and enterprise-grade controls." xml:space="preserve">
     <value>Соответствуйте отраслевым требованиям к соответствию с помощью конфигураций, подлежащих аудиту, и средств защиты корпоративного уровня.</value>
   </data>
+  <data name="Monitor supported endpoints and configure the remote-management integrations specified in your deployment proposal." xml:space="preserve">
+    <value>Отслеживайте поддерживаемые конечные устройства и настройте интеграции с системами удалённого управления, указанные в вашем плане внедрения.</value>
+  </data>
   <data name="On-premises Package Repository" xml:space="preserve">
     <value>Локальный репозиторий пакетов</value>
   </data>
   <data name="Private Package Repository" xml:space="preserve">
     <value>Частный репозиторий пакетов</value>
+  </data>
+  <data name="Where included in your agreement, round-the-clock incident intake and escalation are available. Response targets depend on incident severity; resolution time is not guaranteed." xml:space="preserve">
+    <value>Если это предусмотрено вашим соглашением, приём сообщений об инцидентах и их эскалация доступны круглосуточно. Целевые сроки ответа зависят от серьёзности инцидента; сроки его устранения не гарантируются.</value>
   </data>
 
 </root>

@@ -222,6 +222,9 @@
   <data name="Built-in RBAC for fine-grained permission management." xml:space="preserve">
     <value>İçinde RBAC, ince ayarlı izin yönetimi için.</value>
   </data>
+  <data name="Built-in security controls support your deployment requirements." xml:space="preserve">
+    <value>Yerleşik güvenlik denetimleri, dağıtım gereksinimlerinizi karşılamanıza yardımcı olur.</value>
+  </data>
   <data name="Built-in User Management" xml:space="preserve">
     <value>Dahili Kullanıcı Yönetimi</value>
   </data>
@@ -314,6 +317,9 @@
   </data>
   <data name="Default SQLite database, no configuration needed." xml:space="preserve">
     <value>Varsayılan SQLite veritabanı, yapılandırma gerekmez.</value>
+  </data>
+  <data name="Deploy models and agents on your own infrastructure. External model providers and hosted integrations are optional and require an agreed data flow." xml:space="preserve">
+    <value>Modelleri ve ajanları kendi altyapınızda dağıtın. Harici model sağlayıcıları ve barındırılan entegrasyonlar isteğe bağlıdır ve üzerinde anlaşmaya varılmış bir veri akışı gerektirir.</value>
   </data>
   <data name="Designed for everyone, from beginners to experts." xml:space="preserve">
     <value>Herkes için tasarlandı, başlangıç seviyesinden uzmanlara kadar.</value>
@@ -828,6 +834,9 @@
   <data name="Supports JetBrains Rider for easy code style fixes." xml:space="preserve">
     <value>JetBrains Rider destekler, kolay kod stili düzeltmeleri için.</value>
   </data>
+  <data name="Supports local operation; configured external integrations require network access." xml:space="preserve">
+    <value>Yerel çalışmayı destekler; yapılandırılmış harici entegrasyonlar ağ erişimi gerektirir.</value>
+  </data>
   <data name="Switch easily between SQLite, MySQL, SQL Server." xml:space="preserve">
     <value>SQLite, MySQL, SQL Server arasında kolayca geçiş yapın.</value>
   </data>
@@ -906,6 +915,12 @@
   <data name="We audit and integrate Open-source code, respect GPL, compile components, and contribute upstream." xml:space="preserve">
     <value>Kodları denetler, entegre eder, GPL&apos;ye saygı gösterir, bileşenleri derler ve yukarıya katkıda bulunuruz.</value>
   </data>
+  <data name="We configure authentication, encrypted service connections, and audit logging for the services included in your deployment. Coverage and retention are agreed during design." xml:space="preserve">
+    <value>Dağıtımınıza dahil edilen hizmetler için kimlik doğrulamayı, şifreli hizmet bağlantılarını ve denetim günlüklerini yapılandırıyoruz. Kapsam ve saklama süresi tasarım aşamasında kararlaştırılır.</value>
+  </data>
+  <data name="We integrate hardware-key authentication. Hardware procurement and costs are agreed in your deployment proposal." xml:space="preserve">
+    <value>Donanım anahtarıyla kimlik doğrulamayı entegre ediyoruz. Donanımın temini ve maliyeti, dağıtım teklifinizde kararlaştırılır.</value>
+  </data>
   <data name="We procure Yubikeys for all clients and configure zero-trust architecture." xml:space="preserve">
     <value>Tüm müşteriler için Yubikey&apos;leri temin eder ve sıfır güvence mimarisini yapılandırırız.</value>
   </data>
@@ -926,6 +941,9 @@
   </data>
   <data name="Win/Lin/Mac" xml:space="preserve">
     <value>Win/Lin/Mac</value>
+  </data>
+  <data name="With local models and local integrations, inference inputs remain within your deployment. External providers receive the inputs you choose to send." xml:space="preserve">
+    <value>Yerel modeller ve yerel entegrasyonlarla, çıkarım için kullanılan girdiler dağıtımınızın sınırları içinde kalır. Harici sağlayıcılara yalnızca göndermeyi seçtiğiniz girdiler iletilir.</value>
   </data>
   <data name="with Open-Source Infrastructure." xml:space="preserve">
     <value>Açık Kaynak Altyapı ile</value>

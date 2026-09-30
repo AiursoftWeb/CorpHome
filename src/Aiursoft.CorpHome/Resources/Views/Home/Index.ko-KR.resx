@@ -222,6 +222,9 @@
   <data name="Built-in RBAC for fine-grained permission management." xml:space="preserve">
     <value>내장된 RBAC을 통한 세밀한 권한 관리</value>
   </data>
+  <data name="Built-in security controls support your deployment requirements." xml:space="preserve">
+    <value>기본 제공되는 보안 제어 기능으로 배포 요구 사항을 충족할 수 있습니다.</value>
+  </data>
   <data name="Built-in User Management" xml:space="preserve">
     <value>내장된 사용자 관리</value>
   </data>
@@ -314,6 +317,9 @@
   </data>
   <data name="Default SQLite database, no configuration needed." xml:space="preserve">
     <value>기본 SQLite 데이터베이스, 설정 필요 없음</value>
+  </data>
+  <data name="Deploy models and agents on your own infrastructure. External model providers and hosted integrations are optional and require an agreed data flow." xml:space="preserve">
+    <value>자체 인프라에 모델과 에이전트를 배포하세요. 외부 모델 제공업체와 호스팅 통합은 선택 사항이며, 데이터 흐름에 대한 합의가 필요합니다.</value>
   </data>
   <data name="Designed for everyone, from beginners to experts." xml:space="preserve">
     <value>모든 사람, 초보자부터 전문가까지를 위한 설계입니다.</value>
@@ -828,6 +834,9 @@
   <data name="Supports JetBrains Rider for easy code style fixes." xml:space="preserve">
     <value>JetBrains Rider 지원으로 코드 스타일 수정이 간편합니다.</value>
   </data>
+  <data name="Supports local operation; configured external integrations require network access." xml:space="preserve">
+    <value>로컬 환경에서 실행할 수 있으며, 구성된 외부 연동 기능을 사용하려면 네트워크에 연결해야 합니다.</value>
+  </data>
   <data name="Switch easily between SQLite, MySQL, SQL Server." xml:space="preserve">
     <value>SQLite, MySQL, SQL Server 간에 쉽게 전환하세요.</value>
   </data>
@@ -906,6 +915,12 @@
   <data name="We audit and integrate Open-source code, respect GPL, compile components, and contribute upstream." xml:space="preserve">
     <value>우리는 오픈소스 코드를 감사하고 통합하며, GPL을 존중하고 컴포넌트를 컴파일하며 상류로 기여합니다.</value>
   </data>
+  <data name="We configure authentication, encrypted service connections, and audit logging for the services included in your deployment. Coverage and retention are agreed during design." xml:space="preserve">
+    <value>배포에 포함된 서비스에 대해 인증, 암호화된 서비스 연결 및 감사 로그를 구성합니다. 적용 범위와 보존 기간은 설계 단계에서 협의합니다.</value>
+  </data>
+  <data name="We integrate hardware-key authentication. Hardware procurement and costs are agreed in your deployment proposal." xml:space="preserve">
+    <value>하드웨어 키 인증을 통합합니다. 하드웨어 조달 및 비용은 배포 제안서에서 협의합니다.</value>
+  </data>
   <data name="We procure Yubikeys for all clients and configure zero-trust architecture." xml:space="preserve">
     <value>모든 고객을 위해 Yubikey를 조달하고 제로 트러스트 아키텍처를 구성합니다.</value>
   </data>
@@ -926,6 +941,9 @@
   </data>
   <data name="Win/Lin/Mac" xml:space="preserve">
     <value>윈/린/맥</value>
+  </data>
+  <data name="With local models and local integrations, inference inputs remain within your deployment. External providers receive the inputs you choose to send." xml:space="preserve">
+    <value>로컬 모델과 로컬 연동을 사용하면 추론 입력은 배포 환경 내에 유지됩니다. 외부 제공업체에는 전송하기로 선택한 입력만 전달됩니다.</value>
   </data>
   <data name="with Open-Source Infrastructure." xml:space="preserve">
     <value>오픈소스 인프라를 통해</value>

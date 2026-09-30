@@ -36,6 +36,9 @@
   <data name="Compliance Ready" xml:space="preserve">
     <value>Klar til overholdelse</value>
   </data>
+  <data name="Configure access controls and audit records for your requirements. Compliance depends on the applicable standard, deployment, and your operating procedures." xml:space="preserve">
+    <value>Konfigurer adgangskontroller og revisionslogge efter jeres behov. Overholdelse afhænger af den relevante standard, implementeringen og jeres driftsprocedurer.</value>
+  </data>
   <data name="Custom Branding" xml:space="preserve">
     <value>Branding efter eget valg</value>
   </data>
@@ -47,6 +50,9 @@
   </data>
   <data name="Enterprise customers get round-the-clock telephone support, ensuring critical issues are addressed immediately." xml:space="preserve">
     <value>Virksomhedskunder får telefonisk support døgnet rundt, hvilket sikrer, at kritiske problemer bliver håndteret med det samme.</value>
+  </data>
+  <data name="Enterprise services add deployment, customization, and support to the community edition. Support coverage, including any 7×24 on-call service, is defined in your agreement." xml:space="preserve">
+    <value>Enterprise-tjenester tilføjer implementering, tilpasning og support til community-udgaven. Supportdækningen, herunder eventuel tilkaldevagt 24/7, er fastlagt i din aftale.</value>
   </data>
   <data name="Freedom and enterprise service don&apos;t conflict." xml:space="preserve">
     <value>Frihed og erhvervslivstjenester udelukker ikke hinanden.</value>
@@ -63,11 +69,17 @@
   <data name="Meet industry compliance requirements with auditable configurations and enterprise-grade controls." xml:space="preserve">
     <value>Opfyld branchekrav til overholdelse med auditable konfigurationer og kontrol på virksomhedsniveau.</value>
   </data>
+  <data name="Monitor supported endpoints and configure the remote-management integrations specified in your deployment proposal." xml:space="preserve">
+    <value>Overvåg understøttede endpoints, og konfigurer de fjernadministrationsintegrationer, der er angivet i dit implementeringsforslag.</value>
+  </data>
   <data name="On-premises Package Repository" xml:space="preserve">
     <value>On-premises pakkeopbevaring</value>
   </data>
   <data name="Private Package Repository" xml:space="preserve">
     <value>Privat pakkeopbevaringssted</value>
+  </data>
+  <data name="Where included in your agreement, round-the-clock incident intake and escalation are available. Response targets depend on incident severity; resolution time is not guaranteed." xml:space="preserve">
+    <value>Hvis det er inkluderet i jeres aftale, er det muligt at indrapportere hændelser døgnet rundt og få dem eskaleret. Responstider afhænger af hændelsens alvorlighed; løsningstid er ikke garanteret.</value>
   </data>
 
 </root>

@@ -33,8 +33,14 @@
   <data name="Advanced" xml:space="preserve">
     <value>고급</value>
   </data>
+  <data name="Agree the device count, supported platforms, management integrations, and acceptance criteria before deployment." xml:space="preserve">
+    <value>배포 전에 기기 수, 지원 플랫폼, 관리 시스템 연동 항목 및 승인 기준을 합의하세요.</value>
+  </data>
   <data name="All the power of open-source, backed by enterprise-grade support, management tools, and customisation capabilities." xml:space="preserve">
     <value>엔터프라이즈급 지원, 관리 도구, 그리고 맞춤화 기능이 뒷받침된 오픈소스의 강력한 기능을 경험하세요.</value>
+  </data>
+  <data name="AnduinOS 2.0 standard support ends in April 2031, as for the community edition. Enterprise services do not extend this release&apos;s security-update lifecycle. Service scope and subscription duration are specified in your agreement." xml:space="preserve">
+    <value>커뮤니티 에디션의 경우 AnduinOS 2.0의 표준 지원은 2031년 4월에 종료됩니다. 엔터프라이즈 서비스는 이 릴리스의 보안 업데이트 지원 기간을 연장하지 않습니다. 서비스 범위와 구독 기간은 계약서에 명시되어 있습니다.</value>
   </data>
   <data name="AnduinOS device" xml:space="preserve">
     <value>AnduinOS 디바이스</value>
@@ -78,6 +84,9 @@
   <data name="Apkg is a declarative APT repository platform that lets you host signed Debian repositories, mirror upstream archives, and publish your own .apkg packages — all fully on-premise. Integrates seamlessly with AnduinOS for painless apt update &amp;&amp; apt install workflows across your entire fleet." xml:space="preserve">
     <value>Apkg는 서명된 Debian 저장소 호스팅, 외부 아카이브 미러링, 자체 .apkg 패키지 게시를 가능하게 하는 선언형 APT 저장소 플랫폼으로, 완전히 온프레미스에서 운영됩니다. AnduinOS와 원활하게 통합되어 전사적 기기 그룹에서 무난한 apt update &amp;&amp; apt install 워크플로우를 지원합니다.</value>
   </data>
+  <data name="April" xml:space="preserve">
+    <value>4월</value>
+  </data>
   <data name="Architecture" xml:space="preserve">
     <value>아키텍처</value>
   </data>
@@ -114,6 +123,9 @@
   <data name="Bulk operations across your entire fleet" xml:space="preserve">
     <value>전체 기기 대량 관리</value>
   </data>
+  <data name="Bulk operations for supported devices and integrations" xml:space="preserve">
+    <value>지원되는 기기 및 통합 기능의 일괄 작업</value>
+  </data>
   <data name="Community Site" xml:space="preserve">
     <value>커뮤니티 사이트</value>
   </data>
@@ -137,6 +149,9 @@
   </data>
   <data name="Containerized" xml:space="preserve">
     <value>컨테이너 기반</value>
+  </data>
+  <data name="Content updates and device monitoring use the management service selected for your deployment. Cloud management requires connectivity; some maintenance may require on-site access." xml:space="preserve">
+    <value>콘텐츠 업데이트와 기기 모니터링에는 배포에 선택한 관리 서비스가 사용됩니다. 클라우드 관리를 이용하려면 연결이 필요하며, 일부 유지 관리에는 현장 방문이 필요할 수 있습니다.</value>
   </data>
   <data name="Control and configure thousands of devices and policies efficiently from a single dashboard." xml:space="preserve">
     <value>단일 대시보드에서 수천 대의 장치 및 정책을 효율적으로 제어하고 구성하세요.</value>
@@ -180,6 +195,9 @@
   <data name="Desktop Environment" xml:space="preserve">
     <value>데스크톱 환경</value>
   </data>
+  <data name="Device Management Integrations" xml:space="preserve">
+    <value>디바이스 관리 통합</value>
+  </data>
   <data name="digital signage and kiosk terminals" xml:space="preserve">
     <value>디지털 사이니지 및 키오스크 단말기</value>
   </data>
@@ -207,11 +225,17 @@
   <data name="Edge AI" xml:space="preserve">
     <value>엣지 AI</value>
   </data>
+  <data name="End of Standard Support" xml:space="preserve">
+    <value>표준 지원 종료</value>
+  </data>
   <data name="End of Support" xml:space="preserve">
     <value>지원 종료</value>
   </data>
   <data name="Enroll" xml:space="preserve">
     <value>등록</value>
+  </data>
+  <data name="Enroll in your agreed management service" xml:space="preserve">
+    <value>계약된 관리 서비스에 등록하세요</value>
   </data>
   <data name="Enterprise" xml:space="preserve">
     <value>기업용</value>
@@ -221,6 +245,9 @@
   </data>
   <data name="Enterprise Services" xml:space="preserve">
     <value>엔터프라이즈 서비스</value>
+  </data>
+  <data name="Enterprise support covers the services and devices listed in your agreement. Where purchased, 7×24 on-call support provides incident intake and escalation; severity levels, response targets, maintenance windows, and exclusions are defined in the service agreement." xml:space="preserve">
+    <value>엔터프라이즈 지원에는 계약서에 명시된 서비스와 장치가 포함됩니다. 7×24 온콜 지원을 구매한 경우 사고 접수 및 에스컬레이션을 제공하며, 심각도 등급, 응답 목표, 유지보수 시간대 및 제외 사항은 서비스 계약서에 명시됩니다.</value>
   </data>
   <data name="Enterprise-grade" xml:space="preserve">
     <value>기업용급</value>
@@ -273,6 +300,9 @@
   <data name="HDR Support" xml:space="preserve">
     <value>HDR 지원</value>
   </data>
+  <data name="Host your own internal Apkg repository behind your firewall. Distribute approved updates and in-house software across your local network. Isolated deployments require package updates to be imported into the internal repository." xml:space="preserve">
+    <value>방화벽 뒤에 자체 내부 Apkg 저장소를 호스팅하세요. 승인된 업데이트와 사내 소프트웨어를 로컬 네트워크에 배포할 수 있습니다. 격리된 환경에서는 패키지 업데이트를 내부 저장소로 가져와야 합니다.</value>
+  </data>
   <data name="Host your own internal Apkg repository behind your firewall. Selectively push updates, enforce compliance policies, and distribute custom in-house software — all while keeping every device consistently up to date, fully offline." xml:space="preserve">
     <value>방화벽 뒤에 자체 내부 Apkg 저장소를 구축하세요. 업데이트를 선택적으로 푸시하고, 규정 준수 정책을 강제 적용하며, 맞춤형 사내 소프트웨어를 배포하되 모든 장치를 완전한 오프라인 환경에서도 일관되게 최신 상태로 유지하세요.</value>
   </data>
@@ -281,6 +311,9 @@
   </data>
   <data name="Init System" xml:space="preserve">
     <value>초기화 시스템</value>
+  </data>
+  <data name="Install on supported hardware, configure security and update policies, and enroll devices in the management services included in your deployment." xml:space="preserve">
+    <value>지원되는 하드웨어에 설치하고, 보안 및 업데이트 정책을 구성한 다음, 배포에 포함된 관리 서비스에 기기를 등록하세요.</value>
   </data>
   <data name="Internal package distribution via apt" xml:space="preserve">
     <value>apt를 통한 내부 패키지 배포</value>
@@ -318,6 +351,9 @@
   <data name="LTS Support" xml:space="preserve">
     <value>LTS 지원</value>
   </data>
+  <data name="Managed Update Rollouts" xml:space="preserve">
+    <value>업데이트 배포 관리</value>
+  </data>
   <data name="management for your fleet" xml:space="preserve">
     <value>플릿 관리</value>
   </data>
@@ -338,6 +374,9 @@
   </data>
   <data name="Monitoring" xml:space="preserve">
     <value>모니터링</value>
+  </data>
+  <data name="Monitoring, remote configuration, and policy enforcement are separate integrations. Your deployment proposal specifies the supported devices and included capabilities." xml:space="preserve">
+    <value>모니터링, 원격 구성 및 정책 시행은 각각 별도의 통합 기능입니다. 배포 제안서에는 지원되는 장치와 포함되는 기능이 명시됩니다.</value>
   </data>
   <data name="Multi-Node" xml:space="preserve">
     <value>멀티 노드</value>
@@ -371,6 +410,9 @@
   </data>
   <data name="Performance" xml:space="preserve">
     <value>성능</value>
+  </data>
+  <data name="Plan and Deploy Your Fleet" xml:space="preserve">
+    <value>기기 fleet을 계획하고 배포하세요</value>
   </data>
   <data name="Ports" xml:space="preserve">
     <value>포트</value>
@@ -417,6 +459,9 @@
   <data name="Remote configuration and policy enforcement" xml:space="preserve">
     <value>원격 구성 및 정책 적용</value>
   </data>
+  <data name="Remote configuration and policy integration where agreed" xml:space="preserve">
+    <value>합의된 경우 원격 구성 및 정책 통합</value>
+  </data>
   <data name="Remote content management" xml:space="preserve">
     <value>원격 콘텐츠 관리</value>
   </data>
@@ -449,6 +494,9 @@
   </data>
   <data name="Secure Boot" xml:space="preserve">
     <value>안전한 부트</value>
+  </data>
+  <data name="Serve packages internally using standard apt. Isolated networks require upstream packages and updates to be imported into the local repository." xml:space="preserve">
+    <value>표준 apt를 사용해 패키지를 내부적으로 제공하세요. 격리된 네트워크에서는 업스트림 패키지와 업데이트를 로컬 저장소로 가져와야 합니다.</value>
   </data>
   <data name="Set up your system in under 5 minutes" xml:space="preserve">
     <value>5분 만에 시스템을 설정하세요</value>
@@ -515,6 +563,9 @@
   </data>
   <data name="UI Toolkit" xml:space="preserve">
     <value>UI 킷</value>
+  </data>
+  <data name="Update and restart policies are configured for your deployment. Test releases before rollout and schedule maintenance for changes that require downtime." xml:space="preserve">
+    <value>배포 환경에 맞게 업데이트 및 재시작 정책이 설정되어 있습니다. 배포 전에 릴리스를 테스트하고, 서비스 중단이 필요한 변경 사항은 유지보수 일정을 예약하세요.</value>
   </data>
   <data name="Update content, push configurations, and monitor device health — all from the cloud. No need for on-site visits." xml:space="preserve">
     <value>콘텐츠 업데이트, 설정 적용, 디바이스 상태 모니터링 — 모든 것을 클라우드에서 관리하세요. 현장 방문 없이도 가능합니다.</value>
