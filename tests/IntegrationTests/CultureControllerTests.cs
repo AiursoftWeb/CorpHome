@@ -67,4 +67,16 @@ public class CultureControllerTests : TestBase
         Assert.Contains("Aiursoft Corporation", html);
         Assert.DoesNotContain("苏州艾软科技有限公司", html);
     }
+
+    [TestMethod]
+    [DataRow("zh-CN&returnUrl=/Tips/Detail/8")]
+    [DataRow("not/a/culture")]
+    public async Task SetCultureInvalid(string culture)
+    {
+        var response = await Http.GetAsync($"/Culture/Set?culture={Uri.EscapeDataString(culture)}&returnUrl=/");
+
+        Assert.AreEqual(HttpStatusCode.BadRequest, response.StatusCode);
+        Assert.IsFalse(response.Headers.Contains("Set-Cookie"));
+    }
+
 }
