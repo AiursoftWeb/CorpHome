@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="A knowledge base gains value as people organise material, add content and use it in practice. Deploying the system provides a starting point for this process and an opportunity to turn scattered specialist material into shared knowledge resources." xml:space="preserve">
+    <value>Une base de connaissances prend de la valeur à mesure que les utilisateurs organisent les ressources, ajoutent du contenu et s’en servent concrètement. Le déploiement du système constitue un point de départ pour ce processus et une occasion de transformer des ressources spécialisées dispersées en un patrimoine de connaissances partagé.</value>
+  </data>
+  <data name="After launch, Aiursoft delivered on-site training covering directory services, Kanban, Employee Center, knowledge-base question answering, document and audio transcription, vector search and AI usage auditing, and helped employees install the file synchronisation client. The training connected system capabilities with practical operations, helping employees begin using the tools in their own work." xml:space="preserve">
+    <value>Après le lancement, Aiursoft a assuré une formation sur site portant sur les services d’annuaire, Kanban, Employee Center, la recherche de réponses dans la base de connaissances, la transcription de documents et de fichiers audio, la recherche vectorielle et l’audit de l’utilisation de l’IA. L’équipe a également aidé les employés à installer le client de synchronisation de fichiers. La formation a relié les fonctionnalités du système aux opérations concrètes, afin d’aider les employés à commencer à utiliser ces outils dans leur travail quotidien.</value>
+  </data>
+  <data name="Aiursoft selected, assembled, installed and configured an AI workstation around the requirements of local models and business applications, then deployed model services and supporting applications. Egret owns the equipment, and the systems run in its own environment, providing a common foundation for local knowledge processing and future application expansion." xml:space="preserve">
+    <value>Aiursoft a sélectionné, assemblé, installé et configuré une station de travail dédiée à l’IA en fonction des besoins liés aux modèles locaux et aux applications métier, puis a déployé les services de modèles et les applications associées. Egret est propriétaire de l’équipement, et les systèmes fonctionnent dans son propre environnement, offrant une base commune pour le traitement local des connaissances et l’extension future des applications.</value>
+  </data>
+  <data name="At this stage, the project has established the foundations for local operation, knowledge management and collaboration. Its long-term impact on daily work will emerge as material accumulates, employees use the systems and workflows improve." xml:space="preserve">
+    <value>À ce stade, le projet a posé les bases d’un fonctionnement local, de la gestion des connaissances et de la collaboration. Son impact à long terme sur le travail quotidien se révélera à mesure que les ressources s’accumuleront, que les employés utiliseront les systèmes et que les flux de travail s’amélioreront.</value>
+  </data>
+  <data name="Business Context and Challenges" xml:space="preserve">
+    <value>Contexte commercial et défis</value>
+  </data>
+  <data name="Digital development in an engineering business requires an understanding of equipment, software and how people work. For Egret, Aiursoft connected hardware delivery, application deployment, custom development, on-site training and ongoing maintenance. The customer retains control over its assets and local environment, while the technical team continues to support the systems as they evolve, bringing AI closer to the material, projects and collaboration that engineers work with every day." xml:space="preserve">
+    <value>Le développement numérique au sein d&apos;une entreprise d&apos;ingénierie nécessite une compréhension des équipements, des logiciels et du mode de travail des équipes. Pour Egret, Aiursoft a assuré la livraison du matériel, le déploiement des applications, le développement sur mesure, la formation sur site et la maintenance continue. Le client conserve le contrôle de ses actifs et de son environnement local, tandis que l&apos;équipe technique continue d&apos;accompagner les systèmes dans leur évolution, rapprochant l&apos;IA des supports, des projets et de la collaboration auxquels les ingénieurs consacrent leur travail quotidien.</value>
+  </data>
+  <data name="Egret Control Systems Wuxi integrates testing systems for vehicles and automotive components. Aiursoft delivered an AI workstation, local models, a knowledge base, file collaboration and a customised Kanban system, then supported their adoption through on-site training and ongoing maintenance." xml:space="preserve">
+    <value>Egret Control Systems Wuxi intègre des systèmes de test pour les véhicules et les composants automobiles. Aiursoft a livré une station de travail IA, des modèles locaux, une base de connaissances, une collaboration de fichiers et un système Kanban personnalisé, puis a soutenu leur adoption par une formation sur site et une maintenance continue.</value>
+  </data>
+  <data name="Egret had already purchased an ERP system, but much of its engineering work still took place outside business applications. Project files and drawings were scattered across engineers’ personal computers, technical material lacked a shared place to accumulate and be searched, and checking project progress often meant asking people individually. The team wanted AI to make existing material more useful and project collaboration smoother." xml:space="preserve">
+    <value>Egret avait déjà acquis un système ERP, mais une grande partie de son travail d&apos;ingénierie se déroulait encore en dehors des applications métier. Les fichiers et plans de projet étaient dispersés sur les ordinateurs personnels des ingénieurs, le matériel technique manquait d&apos;un espace partagé pour s&apos;accumuler et être consulté, et la vérification de l&apos;avancement des projets impliquait souvent de demander individuellement à chaque personne. L&apos;équipe souhaitait que l&apos;IA rende les ressources existantes plus utiles et la collaboration sur les projets plus fluide.</value>
+  </data>
+  <data name="Egret needed to plan its computing equipment, company material, collaboration tools and AI capabilities together while retaining control over its equipment and data. This defined the scope of delivery: the workstation, employee applications, training and long-term maintenance all needed to fit together." xml:space="preserve">
+    <value>Egret devait planifier conjointement son équipement informatique, ses ressources internes, ses outils de collaboration et ses capacités d’IA, tout en conservant le contrôle de ses équipements et de ses données. Cela a défini le périmètre de la prestation : le poste de travail, les applications destinées aux employés, la formation et la maintenance à long terme devaient former un ensemble cohérent.</value>
+  </data>
+  <data name="Egret now has an AI and collaboration environment running on its own equipment, with employee training and practical use underway." xml:space="preserve">
+    <value>Egret dispose désormais d&apos;un environnement d&apos;IA et de collaboration fonctionnant sur son propre matériel, avec la formation des employés et l&apos;utilisation pratique en cours.</value>
+  </data>
+  <data name="Egret Wuxi: Building a Local AI and Knowledge Collaboration Platform for Engineering Teams" xml:space="preserve">
+    <value>Egret Wuxi : Création d&apos;une plateforme locale de collaboration IA et de connaissances pour les équipes d&apos;ingénierie</value>
+  </data>
+  <data name="Egret’s work brings together mechanical design, control technology and engineering implementation. Its team combines controllers, hydraulic cylinders, motors and other core components with mechanical structures of its own design to deliver testing systems to vehicle manufacturers and automotive component suppliers." xml:space="preserve">
+    <value>Le travail d’Egret associe la conception mécanique, la technologie de contrôle et la mise en œuvre d’ingénierie. Son équipe combine des régulateurs, des vérins hydrauliques, des moteurs et d’autres composants essentiels avec des structures mécaniques de conception propre pour fournir des systèmes de test aux fabricants de véhicules et aux fournisseurs de composants automobiles.</value>
+  </data>
+  <data name="For file and knowledge management, Aiursoft deployed Nextcloud, Employee Center and knowledge-base capabilities to support central file management, synchronisation and retrieval. Employees can synchronise work material through a desktop client and use knowledge-base question answering, PDF and audio transcription, and vector search to process and find information. Work that previously involved locating files and reading material separately now has additional assistance." xml:space="preserve">
+    <value>Pour la gestion des fichiers et des connaissances, Aiursoft a déployé Nextcloud, Employee Center et des fonctionnalités de base de connaissances afin de centraliser la gestion, la synchronisation et la recherche de fichiers. Les employés peuvent synchroniser leurs documents de travail à l’aide d’un client de bureau et utiliser les questions-réponses sur la base de connaissances, la transcription de fichiers PDF et audio ainsi que la recherche vectorielle pour traiter et retrouver des informations. Les tâches qui consistaient auparavant à rechercher des fichiers et à consulter des documents séparément bénéficient désormais d’une aide supplémentaire.</value>
+  </data>
+  <data name="Hands-on use also produced more specific feedback on file synchronisation, knowledge retrieval and interface usability, along with requests for summaries of transcribed meeting recordings. This feedback informed subsequent fixes and feature planning, keeping improvements grounded in real work." xml:space="preserve">
+    <value>L’utilisation concrète a également permis de recueillir des retours plus précis sur la synchronisation des fichiers, la recherche d’informations et la facilité d’utilisation de l’interface, ainsi que des demandes de résumés des enregistrements de réunions transcrits. Ces retours ont guidé les corrections ultérieures et la planification des fonctionnalités, afin que les améliorations restent ancrées dans les besoins du terrain.</value>
+  </data>
+  <data name="Introducing AI raised further implementation questions: how to choose suitable computing equipment, organise a knowledge base, manage access permissions and connect models with the tools people actually use. Deploying a single application would struggle to address all of these needs." xml:space="preserve">
+    <value>L’introduction de l’IA a soulevé d’autres questions de mise en œuvre : comment choisir un équipement informatique adapté, organiser une base de connaissances, gérer les droits d’accès et connecter les modèles aux outils réellement utilisés par les équipes. Une seule application aurait difficilement pu répondre à tous ces besoins.</value>
+  </data>
+  <data name="Local computing and model services provide a dedicated environment for company knowledge processing and AI applications. File and knowledge management tools support central storage, client synchronisation, content retrieval and knowledge-based question answering. Kanban and Employee Center provide applications for project collaboration and daily work. Together, these capabilities form a platform that can continue to accumulate material, refine workflows and expand functionality." xml:space="preserve">
+    <value>L’informatique locale et les services de modèles offrent un environnement dédié au traitement des connaissances de l’entreprise et aux applications d’IA. Les outils de gestion des fichiers et des connaissances prennent en charge le stockage centralisé, la synchronisation des clients, la recherche de contenu et les questions-réponses à partir des connaissances. Kanban et Employee Center fournissent des applications pour la collaboration sur les projets et le travail quotidien. Ensemble, ces fonctionnalités constituent une plateforme qui peut continuer à enrichir ses ressources, à perfectionner ses flux de travail et à étendre ses fonctionnalités.</value>
+  </data>
+  <data name="On this page" xml:space="preserve">
+    <value>Sur cette page</value>
+  </data>
+  <data name="Ongoing maintenance is also part of the delivery. Aiursoft continues to maintain deployment code, update infrastructure components and investigate operational issues, giving application deployment, version updates and operations a traceable basis and preserving continuity for future improvements." xml:space="preserve">
+    <value>La maintenance continue fait également partie de la prestation. Aiursoft assure la maintenance du code de déploiement, met à jour les composants de l’infrastructure et analyse les problèmes opérationnels, assurant ainsi la traçabilité des déploiements d’applications, des mises à jour de version et des opérations, ainsi que la continuité des améliorations futures.</value>
+  </data>
+  <data name="Progress and Ongoing Collaboration" xml:space="preserve">
+    <value>Progrès et collaboration continue</value>
+  </data>
+  <data name="Solution and Implementation" xml:space="preserve">
+    <value>Solution et mise en œuvre</value>
+  </data>
+  <data name="These projects depend on extensive specialist material: equipment manuals, technical drawings, project files and implementation experience. How easily that material can be found, understood and reused directly affects engineering collaboration. As projects progress, new knowledge also needs to be preserved for other roles and future projects." xml:space="preserve">
+    <value>Ces projets reposent sur une grande quantité de ressources spécialisées : manuels d’équipement, dessins techniques, dossiers de projet et expérience de mise en œuvre. La facilité avec laquelle ces ressources peuvent être trouvées, comprises et réutilisées a une incidence directe sur la collaboration en ingénierie. À mesure que les projets avancent, il faut également préserver les nouvelles connaissances pour les autres fonctions et les projets futurs.</value>
+  </data>
+  <data name="This combination leaves room for adjustment. As the team identifies new needs through use, applications and workflows can continue to evolve so that the technology gradually adapts to the business." xml:space="preserve">
+    <value>Cette combinaison laisse une marge d’adaptation. À mesure que l’équipe découvre de nouveaux besoins à l’usage, les applications et les processus peuvent continuer à évoluer afin que la technologie s’adapte progressivement à l’activité de l’entreprise.</value>
+  </data>
+  <data name="To address Egret’s project management needs, Aiursoft provided custom Kanban development and system integration, bringing business boards, workflows and AI capabilities into the same implementation plan. Employee Center, file services, model services and Kanban each support different parts of daily work, while unified identity provides a common foundation for managing access to the connected systems." xml:space="preserve">
+    <value>Pour répondre aux besoins d’Egret en matière de gestion de projet, Aiursoft a développé une solution Kanban sur mesure et l’a intégrée au système, en réunissant les tableaux métier, les flux de travail et les fonctionnalités d’IA dans un même plan de mise en œuvre. Employee Center, les services de fichiers, les services de modèles et Kanban répondent chacun à différents aspects du travail quotidien, tandis qu’une identité unifiée constitue une base commune pour gérer les accès aux systèmes connectés.</value>
+  </data>
+
+</root>
