@@ -40,6 +40,13 @@ public class HomeController(TemplateDbContext dbContext, IStatelessCaptcha captc
         return this.SimpleView(new ChopInsightViewModel());
     }
 
+    [Route("/case-study/egret")]
+    [Route("/case-study/egret.html")]
+    public IActionResult Egret()
+    {
+        return this.SimpleView(new EgretViewModel());
+    }
+
     [Route("/anduinos")]
     [Route("/anduinos.html")]
     public IActionResult Anduinos()

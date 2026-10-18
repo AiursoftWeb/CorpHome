@@ -1,0 +1,78 @@
+@model Aiursoft.CorpHome.Models.HomeViewModels.EgretViewModel
+@* ReSharper disable once Razor.SectionNotResolved *@
+@section styles {
+    <link rel="stylesheet" href="~/styles/site.css" />
+    <link rel="stylesheet" href="~/styles/marketing.css" />
+    <link rel="stylesheet" href="~/styles/case-study.css" />
+}
+
+<vc:marketing-navbar></vc:marketing-navbar>
+
+<main class="case-study">
+    <header class="case-study-hero">
+        <div class="container">
+            <div class="row case-study-hero-grid">
+                <div class="col-lg-3">
+                    <a href="https://hlwuxi.com/" target="_blank" rel="noopener noreferrer" class="case-study-customer-mark">
+                        <img src="~/images/partners/egret.png" alt="Egret" />
+                    </a>
+                </div>
+                <div class="col-lg-8 offset-lg-1">
+                    <h1>@Localizer["Egret Wuxi: Building a Local AI and Knowledge Collaboration Platform for Engineering Teams"]</h1>
+                    <p class="case-study-deck">@Localizer["Egret Control Systems Wuxi integrates testing systems for vehicles and automotive components. aiursoft delivered an AI workstation, local models, a knowledge base, file collaboration and a customised Kanban system, then supported their adoption through on-site training and ongoing maintenance."]</p>
+                </div>
+            </div>
+        </div>
+    </header>
+    <div class="case-study-body container">
+        <div class="row">
+            <aside class="col-lg-3" aria-label="@Localizer["On this page"]">
+                <nav class="case-study-toc">
+                    <p class="case-study-section-label">@Localizer["On this page"]</p>
+                    <a href="#challenge">@Localizer["Business Context and Challenges"]</a>
+                    <a href="#solution">@Localizer["Solution and Implementation"]</a>
+                    <a href="#results">@Localizer["Progress and Ongoing Collaboration"]</a>
+                </nav>
+            </aside>
+            <div class="col-lg-8 offset-lg-1">
+                <section class="case-study-chapter" id="challenge" aria-labelledby="challenge-title">
+                    <div class="case-study-chapter-heading">
+                        <span>01</span>
+                        <h2 id="challenge-title">@Localizer["Business Context and Challenges"]</h2>
+                    </div>
+                    <p>@Localizer["Egret’s work brings together mechanical design, control technology and engineering implementation. Its team combines controllers, hydraulic cylinders, motors and other core components with mechanical structures of its own design to deliver testing systems to vehicle manufacturers and automotive component suppliers."]</p>
+                    <p>@Localizer["These projects depend on extensive specialist material: equipment manuals, technical drawings, project files and implementation experience. How easily that material can be found, understood and reused directly affects engineering collaboration. As projects progress, new knowledge also needs to be preserved for other roles and future projects."]</p>
+                    <p>@Localizer["Egret had already purchased an ERP system, but much of its engineering work still took place outside business applications. Project files and drawings were scattered across engineers’ personal computers, technical material lacked a shared place to accumulate and be searched, and checking project progress often meant asking people individually. The team wanted AI to make existing material more useful and project collaboration smoother."]</p>
+                    <p>@Localizer["Introducing AI raised further implementation questions: how to choose suitable computing equipment, organise a knowledge base, manage access permissions and connect models with the tools people actually use. Deploying a single application would struggle to address all of these needs."]</p>
+                    <p>@Localizer["Egret needed to plan its computing equipment, company material, collaboration tools and AI capabilities together while retaining control over its equipment and data. This defined the scope of delivery: the workstation, employee applications, training and long-term maintenance all needed to fit together."]</p>
+                </section>
+                <section class="case-study-chapter" id="solution" aria-labelledby="solution-title">
+                    <div class="case-study-chapter-heading">
+                        <span>02</span>
+                        <h2 id="solution-title">@Localizer["Solution and Implementation"]</h2>
+                    </div>
+                    <p>@Localizer["aiursoft selected, assembled, installed and configured an AI workstation around the requirements of local models and business applications, then deployed model services and supporting applications. Egret owns the equipment, and the systems run in its own environment, providing a common foundation for local knowledge processing and future application expansion."]</p>
+                    <p>@Localizer["For file and knowledge management, aiursoft deployed Nextcloud, Employee Center and knowledge-base capabilities to support central file management, synchronisation and retrieval. Employees can synchronise work material through a desktop client and use knowledge-base question answering, PDF and audio transcription, and vector search to process and find information. Work that previously involved locating files and reading material separately now has additional assistance."]</p>
+                    <p>@Localizer["A knowledge base gains value as people organise material, add content and use it in practice. Deploying the system provides a starting point for this process and an opportunity to turn scattered specialist material into shared knowledge resources."]</p>
+                    <p>@Localizer["To address Egret’s project management needs, aiursoft provided custom Kanban development and system integration, bringing business boards, workflows and AI capabilities into the same implementation plan. Employee Center, file services, model services and Kanban each support different parts of daily work, while unified identity provides a common foundation for managing access to the connected systems."]</p>
+                    <p>@Localizer["This combination leaves room for adjustment. As the team identifies new needs through use, applications and workflows can continue to evolve so that the technology gradually adapts to the business."]</p>
+                    <p>@Localizer["After launch, aiursoft delivered on-site training covering directory services, Kanban, Employee Center, knowledge-base question answering, document and audio transcription, vector search and AI usage auditing, and helped employees install the file synchronisation client. The training connected system capabilities with practical operations, helping employees begin using the tools in their own work."]</p>
+                    <p>@Localizer["Hands-on use also produced more specific feedback on file synchronisation, knowledge retrieval and interface usability, along with requests for summaries of transcribed meeting recordings. This feedback informed subsequent fixes and feature planning, keeping improvements grounded in real work."]</p>
+                </section>
+                <section class="case-study-chapter" id="results" aria-labelledby="results-title">
+                    <div class="case-study-chapter-heading">
+                        <span>03</span>
+                        <h2 id="results-title">@Localizer["Progress and Ongoing Collaboration"]</h2>
+                    </div>
+                    <p>@Localizer["Egret now has an AI and collaboration environment running on its own equipment, with employee training and practical use underway."]</p>
+                    <p>@Localizer["Local computing and model services provide a dedicated environment for company knowledge processing and AI applications. File and knowledge management tools support central storage, client synchronisation, content retrieval and knowledge-based question answering. Kanban and Employee Center provide applications for project collaboration and daily work. Together, these capabilities form a platform that can continue to accumulate material, refine workflows and expand functionality."]</p>
+                    <p>@Localizer["Ongoing maintenance is also part of the delivery. aiursoft continues to maintain deployment code, update infrastructure components and investigate operational issues, giving application deployment, version updates and operations a traceable basis and preserving continuity for future improvements."]</p>
+                    <p>@Localizer["At this stage, the project has established the foundations for local operation, knowledge management and collaboration. Its long-term impact on daily work will emerge as material accumulates, employees use the systems and workflows improve."]</p>
+                    <p>@Localizer["Digital development in an engineering business requires an understanding of equipment, software and how people work. For Egret, aiursoft connected hardware delivery, application deployment, custom development, on-site training and ongoing maintenance. The customer retains control over its assets and local environment, while the technical team continues to support the systems as they evolve, bringing AI closer to the material, projects and collaboration that engineers work with every day."]</p>
+                </section>
+            </div>
+        </div>
+    </div>
+</main>
+
+<vc:marketing-footer></vc:marketing-footer>
