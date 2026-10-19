@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="A knowledge base gains value as people organise material, add content and use it in practice. Deploying the system provides a starting point for this process and an opportunity to turn scattered specialist material into shared knowledge resources." xml:space="preserve">
+    <value>Cơ sở tri thức phát huy giá trị khi mọi người sắp xếp tài liệu, bổ sung nội dung và áp dụng vào thực tế. Việc triển khai hệ thống tạo điểm khởi đầu cho quá trình này, đồng thời mở ra cơ hội chuyển đổi các tài liệu chuyên môn rời rạc thành nguồn tri thức chung.</value>
+  </data>
+  <data name="After launch, Aiursoft delivered on-site training covering directory services, Kanban, Employee Center, knowledge-base question answering, document and audio transcription, vector search and AI usage auditing, and helped employees install the file synchronisation client. The training connected system capabilities with practical operations, helping employees begin using the tools in their own work." xml:space="preserve">
+    <value>Sau khi triển khai, Aiursoft đã tổ chức đào tạo trực tiếp về dịch vụ thư mục, Kanban, Employee Center, hỏi đáp trên cơ sở tri thức, phiên âm tài liệu và âm thanh, tìm kiếm vector và kiểm toán việc sử dụng AI, đồng thời hướng dẫn nhân viên cài đặt ứng dụng đồng bộ hóa tệp. Buổi đào tạo giúp kết nối các tính năng của hệ thống với hoạt động thực tế, hỗ trợ nhân viên bắt đầu sử dụng các công cụ trong công việc của mình.</value>
+  </data>
+  <data name="Aiursoft selected, assembled, installed and configured an AI workstation around the requirements of local models and business applications, then deployed model services and supporting applications. Egret owns the equipment, and the systems run in its own environment, providing a common foundation for local knowledge processing and future application expansion." xml:space="preserve">
+    <value>Aiursoft đã lựa chọn, lắp ráp, cài đặt và cấu hình một máy trạm AI dựa trên nhu cầu sử dụng các mô hình chạy cục bộ và ứng dụng nghiệp vụ, sau đó triển khai các dịch vụ mô hình cùng những ứng dụng hỗ trợ. Egret sở hữu thiết bị và các hệ thống vận hành trong môi trường riêng của mình, tạo nền tảng chung cho việc xử lý tri thức tại chỗ và mở rộng ứng dụng trong tương lai.</value>
+  </data>
+  <data name="At this stage, the project has established the foundations for local operation, knowledge management and collaboration. Its long-term impact on daily work will emerge as material accumulates, employees use the systems and workflows improve." xml:space="preserve">
+    <value>Ở giai đoạn này, dự án đã xây dựng nền tảng cho hoạt động tại chỗ, quản lý tri thức và cộng tác. Tác động lâu dài của dự án đối với công việc hằng ngày sẽ dần thể hiện khi tài liệu được tích lũy, nhân viên sử dụng các hệ thống và quy trình làm việc được cải thiện.</value>
+  </data>
+  <data name="Business Context and Challenges" xml:space="preserve">
+    <value>Bối cảnh kinh doanh và thách thức</value>
+  </data>
+  <data name="Digital development in an engineering business requires an understanding of equipment, software and how people work. For Egret, Aiursoft connected hardware delivery, application deployment, custom development, on-site training and ongoing maintenance. The customer retains control over its assets and local environment, while the technical team continues to support the systems as they evolve, bringing AI closer to the material, projects and collaboration that engineers work with every day." xml:space="preserve">
+    <value>Phát triển số trong một doanh nghiệp kỹ thuật đòi hỏi sự hiểu biết về thiết bị, phần mềm và cách con người làm việc. Đối với Egret, Aiursoft đã kết nối việc bàn giao phần cứng, triển khai ứng dụng, phát triển tùy chỉnh, đào tạo tại chỗ và bảo trì liên tục. Khách hàng giữ quyền kiểm soát tài sản và môi trường cục bộ của mình, trong khi đội ngũ kỹ thuật tiếp tục hỗ trợ hệ thống khi chúng phát triển, đưa AI đến gần hơn với tài liệu, dự án và sự hợp tác mà các kỹ sư làm việc mỗi ngày.</value>
+  </data>
+  <data name="Egret Control Systems Wuxi integrates testing systems for vehicles and automotive components. Aiursoft delivered an AI workstation, local models, a knowledge base, file collaboration and a customised Kanban system, then supported their adoption through on-site training and ongoing maintenance." xml:space="preserve">
+    <value>Egret Control Systems Wuxi tích hợp các hệ thống kiểm tra cho phương tiện và phụ tùng ô tô. Aiursoft đã cung cấp một máy trạm AI, các mô hình cục bộ, một cơ sở dữ liệu tri thức, hệ thống cộng tác tệp và một hệ thống Kanban tùy chỉnh, sau đó hỗ trợ triển khai thông qua đào tạo tại chỗ và bảo trì liên tục.</value>
+  </data>
+  <data name="Egret had already purchased an ERP system, but much of its engineering work still took place outside business applications. Project files and drawings were scattered across engineers’ personal computers, technical material lacked a shared place to accumulate and be searched, and checking project progress often meant asking people individually. The team wanted AI to make existing material more useful and project collaboration smoother." xml:space="preserve">
+    <value>Egret đã mua hệ thống ERP, nhưng phần lớn công việc kỹ thuật của công ty vẫn diễn ra bên ngoài các ứng dụng kinh doanh. Các tệp và bản vẽ dự án bị phân tán trên máy tính cá nhân của các kỹ sư, tài liệu kỹ thuật thiếu một nơi chung để tích lũy và tra cứu, và việc kiểm tra tiến độ dự án thường phải hỏi từng người một. Đội ngũ muốn AI giúp tài liệu hiện có trở nên hữu ích hơn và hợp tác dự án suôn sẻ hơn.</value>
+  </data>
+  <data name="Egret needed to plan its computing equipment, company material, collaboration tools and AI capabilities together while retaining control over its equipment and data. This defined the scope of delivery: the workstation, employee applications, training and long-term maintenance all needed to fit together." xml:space="preserve">
+    <value>Egret cần phải lên kế hoạch tổng thể cho thiết bị tính toán, tài liệu công ty, công cụ cộng tác và năng lực AI, đồng thời vẫn giữ quyền kiểm soát đối với thiết bị và dữ liệu của mình. Điều này xác định phạm vi bàn giao: máy trạm, ứng dụng cho nhân viên, đào tạo và bảo trì dài hạn đều cần phải được tích hợp với nhau.</value>
+  </data>
+  <data name="Egret now has an AI and collaboration environment running on its own equipment, with employee training and practical use underway." xml:space="preserve">
+    <value>Egret hiện đã có một môi trường AI và hợp tác chạy trên thiết bị của riêng mình, với việc đào tạo nhân viên và sử dụng thực tế đang được tiến hành.</value>
+  </data>
+  <data name="Egret Wuxi: Building a Local AI and Knowledge Collaboration Platform for Engineering Teams" xml:space="preserve">
+    <value>Egret Wuxi: Xây dựng Nền tảng Hợp tác AI và tri thức cục bộ cho các đội kỹ thuật</value>
+  </data>
+  <data name="Egret’s work brings together mechanical design, control technology and engineering implementation. Its team combines controllers, hydraulic cylinders, motors and other core components with mechanical structures of its own design to deliver testing systems to vehicle manufacturers and automotive component suppliers." xml:space="preserve">
+    <value>Công việc của Egret kết hợp thiết kế cơ khí, công nghệ điều khiển và triển khai kỹ thuật. Đội ngũ của họ tích hợp các bộ điều khiển, xi-lanh thủy lực, động cơ và các thành phần cốt lõi khác với các kết cấu cơ khí do chính họ thiết kế để cung cấp các hệ thống kiểm thử cho các nhà sản xuất xe và nhà cung cấp linh kiện ô tô.</value>
+  </data>
+  <data name="For file and knowledge management, Aiursoft deployed Nextcloud, Employee Center and knowledge-base capabilities to support central file management, synchronisation and retrieval. Employees can synchronise work material through a desktop client and use knowledge-base question answering, PDF and audio transcription, and vector search to process and find information. Work that previously involved locating files and reading material separately now has additional assistance." xml:space="preserve">
+    <value>Về quản lý tệp và tri thức, Aiursoft đã triển khai Nextcloud, Employee Center và các chức năng cơ sở tri thức nhằm hỗ trợ quản lý tập trung, đồng bộ hóa và truy xuất tệp. Nhân viên có thể đồng bộ hóa tài liệu công việc thông qua ứng dụng máy tính và sử dụng tính năng hỏi đáp trên cơ sở tri thức, phiên âm PDF và âm thanh, cùng tìm kiếm vector để xử lý và tìm kiếm thông tin. Những công việc trước đây đòi hỏi phải tìm tệp và đọc tài liệu riêng lẻ giờ đây đã có thêm sự hỗ trợ.</value>
+  </data>
+  <data name="Hands-on use also produced more specific feedback on file synchronisation, knowledge retrieval and interface usability, along with requests for summaries of transcribed meeting recordings. This feedback informed subsequent fixes and feature planning, keeping improvements grounded in real work." xml:space="preserve">
+    <value>Việc sử dụng thực tế cũng tạo ra phản hồi cụ thể hơn về đồng bộ hóa tệp, truy xuất kiến thức và khả năng sử dụng giao diện, cùng với các yêu cầu tóm tắt các bản ghi âm cuộc họp đã được chuyển thành văn bản. Phản hồi này đã hỗ trợ cho các bản sửa lỗi và lập kế hoạch tính năng tiếp theo, giúp các cải tiến luôn bám sát công việc thực tế.</value>
+  </data>
+  <data name="Introducing AI raised further implementation questions: how to choose suitable computing equipment, organise a knowledge base, manage access permissions and connect models with the tools people actually use. Deploying a single application would struggle to address all of these needs." xml:space="preserve">
+    <value>Việc đưa AI vào sử dụng đặt ra thêm nhiều câu hỏi về triển khai: nên chọn thiết bị tính toán phù hợp như thế nào, tổ chức cơ sở tri thức ra sao, quản lý quyền truy cập thế nào và kết nối các mô hình với những công cụ mọi người thực sự sử dụng bằng cách nào. Việc triển khai một ứng dụng duy nhất khó có thể đáp ứng tất cả những nhu cầu này.</value>
+  </data>
+  <data name="Local computing and model services provide a dedicated environment for company knowledge processing and AI applications. File and knowledge management tools support central storage, client synchronisation, content retrieval and knowledge-based question answering. Kanban and Employee Center provide applications for project collaboration and daily work. Together, these capabilities form a platform that can continue to accumulate material, refine workflows and expand functionality." xml:space="preserve">
+    <value>Tính toán cục bộ và dịch vụ mô hình cung cấp một môi trường chuyên dụng cho việc xử lý tri thức của công ty và các ứng dụng AI. Các công cụ quản lý tệp và tri thức hỗ trợ lưu trữ tập trung, đồng bộ hóa máy khách, truy xuất nội dung và trả lời câu hỏi dựa trên tri thức. Kanban và Employee Center cung cấp các ứng dụng cho cộng tác dự án và công việc hàng ngày. Cùng nhau, các khả năng này tạo thành một nền tảng có thể tiếp tục tích lũy tài liệu, tinh chỉnh quy trình làm việc và mở rộng chức năng.</value>
+  </data>
+  <data name="On this page" xml:space="preserve">
+    <value>Trên trang này</value>
+  </data>
+  <data name="Ongoing maintenance is also part of the delivery. Aiursoft continues to maintain deployment code, update infrastructure components and investigate operational issues, giving application deployment, version updates and operations a traceable basis and preserving continuity for future improvements." xml:space="preserve">
+    <value>Công tác bảo trì liên tục cũng là một phần trong phạm vi bàn giao. Aiursoft tiếp tục duy trì mã triển khai, cập nhật các thành phần hạ tầng và điều tra các sự cố vận hành, tạo cơ sở có thể truy vết cho việc triển khai ứng dụng, cập nhật phiên bản và vận hành, đồng thời bảo đảm tính liên tục cho những cải tiến trong tương lai.</value>
+  </data>
+  <data name="Progress and Ongoing Collaboration" xml:space="preserve">
+    <value>Tiến độ và Hợp tác liên tục</value>
+  </data>
+  <data name="Solution and Implementation" xml:space="preserve">
+    <value>Giải pháp và triển khai</value>
+  </data>
+  <data name="These projects depend on extensive specialist material: equipment manuals, technical drawings, project files and implementation experience. How easily that material can be found, understood and reused directly affects engineering collaboration. As projects progress, new knowledge also needs to be preserved for other roles and future projects." xml:space="preserve">
+    <value>Các dự án này phụ thuộc vào khối lượng lớn tài liệu chuyên môn: hướng dẫn sử dụng thiết bị, bản vẽ kỹ thuật, hồ sơ dự án và kinh nghiệm triển khai. Khả năng tìm kiếm, hiểu và tái sử dụng những tài liệu này ảnh hưởng trực tiếp đến sự phối hợp trong công việc kỹ thuật. Khi dự án tiến triển, những kiến thức mới cũng cần được lưu giữ để phục vụ các vai trò khác và những dự án trong tương lai.</value>
+  </data>
+  <data name="This combination leaves room for adjustment. As the team identifies new needs through use, applications and workflows can continue to evolve so that the technology gradually adapts to the business." xml:space="preserve">
+    <value>Sự kết hợp này để lại khoảng trống cho việc điều chỉnh. Khi đội ngũ xác định các nhu cầu mới thông qua quá trình sử dụng, các ứng dụng và quy trình làm việc có thể tiếp tục phát triển để công nghệ dần dần thích ứng với hoạt động kinh doanh.</value>
+  </data>
+  <data name="To address Egret’s project management needs, Aiursoft provided custom Kanban development and system integration, bringing business boards, workflows and AI capabilities into the same implementation plan. Employee Center, file services, model services and Kanban each support different parts of daily work, while unified identity provides a common foundation for managing access to the connected systems." xml:space="preserve">
+    <value>Để đáp ứng nhu cầu quản lý dự án của Egret, Aiursoft đã cung cấp dịch vụ phát triển Kanban tùy chỉnh và tích hợp hệ thống, đưa các bảng quản lý công việc, quy trình làm việc và năng lực AI vào cùng một kế hoạch triển khai. Employee Center, dịch vụ tệp, dịch vụ mô hình và Kanban mỗi thành phần hỗ trợ các phần khác nhau trong công việc hàng ngày, trong khi danh tính thống nhất cung cấp nền tảng chung để quản lý quyền truy cập vào các hệ thống được kết nối.</value>
+  </data>
+
+</root>

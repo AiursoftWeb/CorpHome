@@ -96,6 +96,9 @@
   <data name="Edit User" xml:space="preserve">
     <value>사용자 편집</value>
   </data>
+  <data name="Egret Wuxi: Building a Local AI and Knowledge Collaboration Platform for Engineering Teams" xml:space="preserve">
+    <value>Egret Wuxi: 엔지니어링 팀을 위한 로컬 AI 및 지식 협업 플랫폼 구축</value>
+  </data>
   <data name="Error" xml:space="preserve">
     <value>오류</value>
   </data>
