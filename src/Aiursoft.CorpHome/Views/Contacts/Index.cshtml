@@ -1,3 +1,4 @@
+@using Aiursoft.WebTools
 @model Aiursoft.CorpHome.Models.ContactsViewModels.IndexViewModel
 
 <div class="row mb-2 mb-xl-3">
@@ -36,7 +37,7 @@
                     <td>@item.OrganizationSize</td>
                     <td>@item.ConsumeOpenSource</td>
                     <td>@item.ServicesProvided</td>
-                    <td>@item.CreateTime.ToString("yyyy-MM-dd HH:mm")</td>
+                    <td><span data-utc-time="@item.CreateTime.ToHtmlDateTime()"></span></td>
                 </tr>
             }
             </tbody>
