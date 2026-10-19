@@ -93,6 +93,9 @@
   <data name="Edit User" xml:space="preserve">
     <value>Muokkaa käyttäjää</value>
   </data>
+  <data name="Egret Wuxi: Building a Local AI and Knowledge Collaboration Platform for Engineering Teams" xml:space="preserve">
+    <value>Egret Wuxi: Paikallisen tekoälyn ja tiedon yhteistyöalustan rakentaminen insinööritimille</value>
+  </data>
   <data name="Error" xml:space="preserve">
     <value>Virhe</value>
   </data>

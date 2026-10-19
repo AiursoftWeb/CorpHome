@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="A knowledge base gains value as people organise material, add content and use it in practice. Deploying the system provides a starting point for this process and an opportunity to turn scattered specialist material into shared knowledge resources." xml:space="preserve">
+    <value>Een kennisbank wordt waardevoller naarmate mensen materiaal ordenen, inhoud toevoegen en de kennis in de praktijk gebruiken. De implementatie van het systeem vormt een startpunt voor dit proces en biedt de mogelijkheid om verspreid specialistisch materiaal om te zetten in gedeelde kennisbronnen.</value>
+  </data>
+  <data name="After launch, Aiursoft delivered on-site training covering directory services, Kanban, Employee Center, knowledge-base question answering, document and audio transcription, vector search and AI usage auditing, and helped employees install the file synchronisation client. The training connected system capabilities with practical operations, helping employees begin using the tools in their own work." xml:space="preserve">
+    <value>Na de implementatie verzorgde Aiursoft trainingen op locatie over directoryservices, Kanban, Employee Center, vraagbeantwoording op basis van de kennisbank, transcriptie van documenten en audio, vectorzoeken en auditing van AI-gebruik. Ook hielp Aiursoft medewerkers bij het installeren van de bestandssynchronisatieclient. De training koppelde de mogelijkheden van het systeem aan praktische werkzaamheden, zodat medewerkers de tools in hun eigen werk konden gaan gebruiken.</value>
+  </data>
+  <data name="Aiursoft selected, assembled, installed and configured an AI workstation around the requirements of local models and business applications, then deployed model services and supporting applications. Egret owns the equipment, and the systems run in its own environment, providing a common foundation for local knowledge processing and future application expansion." xml:space="preserve">
+    <value>Aiursoft heeft een AI-werkstation geselecteerd, samengesteld, geïnstalleerd en geconfigureerd op basis van de vereisten voor lokale modellen en zakelijke toepassingen. Vervolgens heeft Aiursoft modelservices en ondersteunende toepassingen geïmplementeerd. Egret is eigenaar van de apparatuur en de systemen draaien in de eigen omgeving van Egret. Zo ontstaat een gezamenlijke basis voor lokale kennisverwerking en toekomstige uitbreiding met toepassingen.</value>
+  </data>
+  <data name="At this stage, the project has established the foundations for local operation, knowledge management and collaboration. Its long-term impact on daily work will emerge as material accumulates, employees use the systems and workflows improve." xml:space="preserve">
+    <value>Op dit punt heeft het project de basis gelegd voor lokale operatie, kennisbeheer en samenwerking. De langetermijneffecten op het dagelijkse werk zullen zichtbaar worden naarmate er meer materiaal wordt opgebouwd, medewerkers de systemen gaan gebruiken en werkprocessen worden verbeterd.</value>
+  </data>
+  <data name="Business Context and Challenges" xml:space="preserve">
+    <value>Bedrijfscontext en uitdagingen</value>
+  </data>
+  <data name="Digital development in an engineering business requires an understanding of equipment, software and how people work. For Egret, Aiursoft connected hardware delivery, application deployment, custom development, on-site training and ongoing maintenance. The customer retains control over its assets and local environment, while the technical team continues to support the systems as they evolve, bringing AI closer to the material, projects and collaboration that engineers work with every day." xml:space="preserve">
+    <value>Digitale ontwikkeling in een ingenieursbedrijf vereist inzicht in apparatuur, software en de werkwijze van mensen. Voor Egret bracht Aiursoft hardwarelevering, applicatie-implementatie, maatwerkontwikkeling, training op locatie en continue onderhoudsdiensten met elkaar in verbinding. De klant behoudt de controle over haar activa en lokale omgeving, terwijl het technische team de systemen blijft ondersteunen tijdens hun ontwikkeling, waardoor AI dichter bij het materiaal, de projecten en de samenwerking komt waar ingenieurs dagelijks mee werken.</value>
+  </data>
+  <data name="Egret Control Systems Wuxi integrates testing systems for vehicles and automotive components. Aiursoft delivered an AI workstation, local models, a knowledge base, file collaboration and a customised Kanban system, then supported their adoption through on-site training and ongoing maintenance." xml:space="preserve">
+    <value>Egret Control Systems Wuxi integreert testsystemen voor voertuigen en automobielonderdelen. Aiursoft leverde een AI-werkstation, lokale modellen, een kennisbank, bestandssamenwerking en een aangepast Kanban-systeem, en ondersteunde hun adoptie met op locatie georganiseerde training en lopend onderhoud.</value>
+  </data>
+  <data name="Egret had already purchased an ERP system, but much of its engineering work still took place outside business applications. Project files and drawings were scattered across engineers’ personal computers, technical material lacked a shared place to accumulate and be searched, and checking project progress often meant asking people individually. The team wanted AI to make existing material more useful and project collaboration smoother." xml:space="preserve">
+    <value>Egret had al een ERP-systeem aangeschaft, maar een groot deel van het engineeringwerk vond nog steeds buiten bedrijfsapplicaties plaats. Projectbestanden en tekeningen waren verspreid over de persoonlijke computers van engineers. Technische documentatie had geen gedeelde plek waar deze kon worden verzameld en doorzocht, en om de voortgang van projecten te controleren moest men vaak iedereen afzonderlijk om informatie vragen. Het team wilde AI inzetten om bestaand materiaal beter te benutten en de samenwerking aan projecten soepeler te laten verlopen.</value>
+  </data>
+  <data name="Egret needed to plan its computing equipment, company material, collaboration tools and AI capabilities together while retaining control over its equipment and data. This defined the scope of delivery: the workstation, employee applications, training and long-term maintenance all needed to fit together." xml:space="preserve">
+    <value>Egret moest haar rekenapparatuur, bedrijfsmateriaal, samenwerkingsgereedschappen en AI-capaciteiten gezamenlijk plannen, terwijl ze de controle behield over haar apparatuur en gegevens. Dit bepaalde de leveringsomvang: de werkplek, werknemersapplicaties, opleiding en langdurig onderhoud moesten allemaal op elkaar aansluiten.</value>
+  </data>
+  <data name="Egret now has an AI and collaboration environment running on its own equipment, with employee training and practical use underway." xml:space="preserve">
+    <value>Egret beschikt nu over een AI- en samenwerkingsomgeving die op eigen apparatuur draait, waarbij de medewerkerstraining en praktische toepassing al gaande zijn.</value>
+  </data>
+  <data name="Egret Wuxi: Building a Local AI and Knowledge Collaboration Platform for Engineering Teams" xml:space="preserve">
+    <value>Egret Wuxi: Een lokaal AI- en kennisplatform voor samenwerking bij engineeringteams opbouwen</value>
+  </data>
+  <data name="Egret’s work brings together mechanical design, control technology and engineering implementation. Its team combines controllers, hydraulic cylinders, motors and other core components with mechanical structures of its own design to deliver testing systems to vehicle manufacturers and automotive component suppliers." xml:space="preserve">
+    <value>Het werk van Egret brengt werktuigbouwkundig ontwerp, besturingstechnologie en technische realisatie samen. Het team combineert besturingen, hydraulische cilinders, motoren en andere essentiële componenten met zelfontworpen mechanische constructies om testsystemen te leveren aan voertuigfabrikanten en leveranciers van auto-onderdelen.</value>
+  </data>
+  <data name="For file and knowledge management, Aiursoft deployed Nextcloud, Employee Center and knowledge-base capabilities to support central file management, synchronisation and retrieval. Employees can synchronise work material through a desktop client and use knowledge-base question answering, PDF and audio transcription, and vector search to process and find information. Work that previously involved locating files and reading material separately now has additional assistance." xml:space="preserve">
+    <value>Voor bestands- en kennisbeheer implementeerde Aiursoft Nextcloud, Employee Center en functionaliteiten voor kennisbanken ter ondersteuning van centraal bestandsbeheer, synchronisatie en het terugvinden van informatie. Medewerkers kunnen werkmateriaal synchroniseren via een desktopclient en kennisbankvragen stellen, pdf-bestanden en audio laten transcriberen en vectorzoekopdrachten gebruiken om informatie te verwerken en te vinden. Waar men voorheen afzonderlijk bestanden moest zoeken en materiaal moest doornemen, is er nu extra ondersteuning.</value>
+  </data>
+  <data name="Hands-on use also produced more specific feedback on file synchronisation, knowledge retrieval and interface usability, along with requests for summaries of transcribed meeting recordings. This feedback informed subsequent fixes and feature planning, keeping improvements grounded in real work." xml:space="preserve">
+    <value>Het praktische gebruik leverde ook specifiekere feedback op over bestandssynchronisatie, het terugvinden van kennis en de gebruiksvriendelijkheid van de interface, evenals verzoeken om samenvattingen van getranscribeerde opnamen van vergaderingen. Deze feedback vormde de basis voor latere oplossingen en de planning van functies, zodat verbeteringen aansloten bij de dagelijkse praktijk.</value>
+  </data>
+  <data name="Introducing AI raised further implementation questions: how to choose suitable computing equipment, organise a knowledge base, manage access permissions and connect models with the tools people actually use. Deploying a single application would struggle to address all of these needs." xml:space="preserve">
+    <value>De introductie van AI riep verdere implementatievragen op: hoe kies je geschikte computerapparatuur, richt je een kennisbank in, beheer je toegangsrechten en koppel je modellen aan de tools die mensen daadwerkelijk gebruiken? Eén enkele applicatie inzetten zou moeilijk aan al deze behoeften kunnen voldoen.</value>
+  </data>
+  <data name="Local computing and model services provide a dedicated environment for company knowledge processing and AI applications. File and knowledge management tools support central storage, client synchronisation, content retrieval and knowledge-based question answering. Kanban and Employee Center provide applications for project collaboration and daily work. Together, these capabilities form a platform that can continue to accumulate material, refine workflows and expand functionality." xml:space="preserve">
+    <value>Lokale berekening en modelservices bieden een toegewijde omgeving voor het verwerken van bedrijfskennis en AI-toepassingen. Bestands- en kennisbeheertools ondersteunen centrale opslag, client-synchronisatie, inhoudsopvraging en kennisgestuurde vraag-en-antwoordfuncties. Kanban en Employee Center bieden toepassingen voor projectcollaboratie en dagelijkse werkzaamheden. Samen vormen deze mogelijkheden een platform dat materialen kan blijven accumuleren, workflows kan verfijnen en functionaliteit kan uitbreiden.</value>
+  </data>
+  <data name="On this page" xml:space="preserve">
+    <value>Op deze pagina</value>
+  </data>
+  <data name="Ongoing maintenance is also part of the delivery. Aiursoft continues to maintain deployment code, update infrastructure components and investigate operational issues, giving application deployment, version updates and operations a traceable basis and preserving continuity for future improvements." xml:space="preserve">
+    <value>Onderhoud is ook onderdeel van de levering. Aiursoft blijft de implementatiecode onderhouden, infrastructuurcomponenten bijwerken en operationele problemen onderzoeken, waardoor er een traceerbare basis ontstaat voor applicatie-implementatie, versie-updates en exploitatie, en wordt continuïteit gewaarborgd voor toekomstige verbeteringen.</value>
+  </data>
+  <data name="Progress and Ongoing Collaboration" xml:space="preserve">
+    <value>Voortgang en voortdurende samenwerking</value>
+  </data>
+  <data name="Solution and Implementation" xml:space="preserve">
+    <value>Oplossing en implementatie</value>
+  </data>
+  <data name="These projects depend on extensive specialist material: equipment manuals, technical drawings, project files and implementation experience. How easily that material can be found, understood and reused directly affects engineering collaboration. As projects progress, new knowledge also needs to be preserved for other roles and future projects." xml:space="preserve">
+    <value>Deze projecten zijn afhankelijk van veel specialistisch materiaal: handleidingen voor apparatuur, technische tekeningen, projectbestanden en ervaring met de uitvoering. Hoe gemakkelijk dit materiaal kan worden gevonden, begrepen en hergebruikt, heeft rechtstreeks invloed op de samenwerking tussen engineeringteams. Naarmate projecten vorderen, moet nieuwe kennis ook worden bewaard voor andere functies en toekomstige projecten.</value>
+  </data>
+  <data name="This combination leaves room for adjustment. As the team identifies new needs through use, applications and workflows can continue to evolve so that the technology gradually adapts to the business." xml:space="preserve">
+    <value>Deze combinatie biedt ruimte voor aanpassingen. Naarmate het team nieuwe behoeften identificeert tijdens het gebruik, kunnen de toepassingen en workflows blijven evolueren, zodat de technologie geleidelijk aan past bij de bedrijfsvoering.</value>
+  </data>
+  <data name="To address Egret’s project management needs, Aiursoft provided custom Kanban development and system integration, bringing business boards, workflows and AI capabilities into the same implementation plan. Employee Center, file services, model services and Kanban each support different parts of daily work, while unified identity provides a common foundation for managing access to the connected systems." xml:space="preserve">
+    <value>Om te voorzien in de behoeften van Egret op het gebied van projectbeheer ontwikkelde Aiursoft een maatwerk-Kanbanoplossing en integreerde deze met de bestaande systemen. Zo werden bedrijfsborden, workflows en AI-mogelijkheden in hetzelfde implementatieplan opgenomen. Employee Center, bestandsdiensten, modeldiensten en Kanban ondersteunen elk verschillende onderdelen van het dagelijkse werk. Een uniforme identiteit biedt daarbij een gemeenschappelijke basis voor het beheren van de toegang tot de gekoppelde systemen.</value>
+  </data>
+
+</root>

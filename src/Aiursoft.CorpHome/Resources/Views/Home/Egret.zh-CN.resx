@@ -18,73 +18,74 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-    <data name="Egret Wuxi: Building a Local AI and Knowledge Collaboration Platform for Engineering Teams" xml:space="preserve">
-        <value>华鹭无锡：为工程团队建设本地 AI 与知识协作平台</value>
-    </data>
-    <data name="Egret Control Systems Wuxi integrates testing systems for vehicles and automotive components. Aiursoft delivered an AI workstation, local models, a knowledge base, file collaboration and a customised Kanban system, then supported their adoption through on-site training and ongoing maintenance." xml:space="preserve">
-        <value>华鹭控制系统无锡有限公司从事汽车及零部件试验系统集成。Aiursoft为其交付了包含 AI 工作站、本地模型、知识库、文件协作与定制看板的系统，并通过现场培训和持续维护，推动这些工具进入员工的日常工作。</value>
-    </data>
-    <data name="Business Context and Challenges" xml:space="preserve">
-        <value>业务背景与挑战</value>
-    </data>
-    <data name="Egret’s work brings together mechanical design, control technology and engineering implementation. Its team combines controllers, hydraulic cylinders, motors and other core components with mechanical structures of its own design to deliver testing systems to vehicle manufacturers and automotive component suppliers." xml:space="preserve">
-        <value>华鹭的业务连接机械设计、控制技术与工程实施。团队将控制器、液压油缸、电机等核心部件与自主设计的机械结构结合，为整车厂及汽车零部件企业提供试验系统。</value>
-    </data>
-    <data name="These projects depend on extensive specialist material: equipment manuals, technical drawings, project files and implementation experience. How easily that material can be found, understood and reused directly affects engineering collaboration. As projects progress, new knowledge also needs to be preserved for other roles and future projects." xml:space="preserve">
-        <value>这类项目依赖大量专业资料：设备手册、技术图纸、项目文件和实施经验。资料能否被找到、理解和复用，直接关系到工程团队的协作。随着项目推进，知识不断产生，也需要被妥善保存，供不同岗位和后续项目使用。</value>
-    </data>
-    <data name="Egret had already purchased an ERP system, but much of its engineering work still took place outside business applications. Project files and drawings were scattered across engineers’ personal computers, technical material lacked a shared place to accumulate and be searched, and checking project progress often meant asking people individually. The team wanted AI to make existing material more useful and project collaboration smoother." xml:space="preserve">
-        <value>华鹭已经采购 ERP 系统，但工程团队仍有许多工作发生在业务系统之外。项目文件和图纸分散在工程师的个人电脑上，技术资料缺乏统一的积累与检索入口，了解项目进度也经常需要逐一询问。团队希望利用 AI 改善这些工作，让已有资料更容易被使用，让项目协作更加顺畅。</value>
-    </data>
-    <data name="Introducing AI raised further implementation questions: how to choose suitable computing equipment, organise a knowledge base, manage access permissions and connect models with the tools people actually use. Deploying a single application would struggle to address all of these needs." xml:space="preserve">
-        <value>引入 AI 又带来了新的实施问题：如何选择适合的计算设备，如何组织知识库，如何管理访问权限，以及如何让模型与实际业务工具配合工作。单独部署某个应用，很难同时解决这些问题。</value>
-    </data>
-    <data name="Egret needed to plan its computing equipment, company material, collaboration tools and AI capabilities together while retaining control over its equipment and data. This defined the scope of delivery: the workstation, employee applications, training and long-term maintenance all needed to fit together." xml:space="preserve">
-        <value>华鹭需要将计算设备、企业资料、协作工具和 AI 能力一起规划，同时保留对设备与数据的自主控制。这也决定了项目的交付范围：从底层工作站到员工使用的应用，再到培训和长期维护，都需要相互衔接。</value>
-    </data>
-    <data name="Solution and Implementation" xml:space="preserve">
-        <value>解决方案与落地过程</value>
-    </data>
-    <data name="Aiursoft selected, assembled, installed and configured an AI workstation around the requirements of local models and business applications, then deployed model services and supporting applications. Egret owns the equipment, and the systems run in its own environment, providing a common foundation for local knowledge processing and future application expansion." xml:space="preserve">
-        <value>Aiursoft根据本地模型与企业应用的需求，提供 AI 工作站的选型、组装、系统安装与调试，并在其上部署模型服务和配套应用。计算设备由华鹭持有，系统部署在客户自己的环境中，为本地知识处理和后续应用扩展提供统一基础。</value>
-    </data>
-    <data name="For file and knowledge management, Aiursoft deployed Nextcloud, Employee Center and knowledge-base capabilities to support central file management, synchronisation and retrieval. Employees can synchronise work material through a desktop client and use knowledge-base question answering, PDF and audio transcription, and vector search to process and find information. Work that previously involved locating files and reading material separately now has additional assistance." xml:space="preserve">
-        <value>在文件与知识管理方面，Aiursoft部署了 Nextcloud、员工中心及知识库相关能力，为文件集中管理、同步和检索提供工具。员工可以通过网盘客户端同步工作资料，也可以使用知识库问答、PDF 与音频转录、向量搜索等功能处理和查找信息。原本需要分别寻找文件、阅读资料的工作，由此有了新的辅助方式。</value>
-    </data>
-    <data name="A knowledge base gains value as people organise material, add content and use it in practice. Deploying the system provides a starting point for this process and an opportunity to turn scattered specialist material into shared knowledge resources." xml:space="preserve">
-        <value>知识库的价值需要通过持续整理资料、补充内容和实际使用逐步积累。部署系统为这一过程提供了起点，也让团队有机会将分散的专业材料转化为可以共同使用的知识资源。</value>
-    </data>
-    <data name="To address Egret’s project management needs, Aiursoft provided custom Kanban development and system integration, bringing business boards, workflows and AI capabilities into the same implementation plan. Employee Center, file services, model services and Kanban each support different parts of daily work, while unified identity provides a common foundation for managing access to the connected systems." xml:space="preserve">
-        <value>围绕华鹭的项目管理需求，Aiursoft提供定制 Kanban 开发及系统接口整合，将业务看板、工作流和 AI 能力纳入同一套建设方案。员工中心、文件服务、模型服务与看板分别承担日常工作中的不同职责；统一身份认证则为相关系统的访问管理提供共同基础。</value>
-    </data>
-    <data name="This combination leaves room for adjustment. As the team identifies new needs through use, applications and workflows can continue to evolve so that the technology gradually adapts to the business." xml:space="preserve">
-        <value>这种组合为后续调整保留了空间。随着团队在使用中明确新的需求，可以继续完善应用和工作流程，使技术逐步适应实际业务。</value>
-    </data>
-    <data name="After launch, Aiursoft delivered on-site training covering directory services, Kanban, Employee Center, knowledge-base question answering, document and audio transcription, vector search and AI usage auditing, and helped employees install the file synchronisation client. The training connected system capabilities with practical operations, helping employees begin using the tools in their own work." xml:space="preserve">
-        <value>系统上线后，Aiursoft开展了现场使用培训，内容覆盖目录服务、看板、员工中心、知识库问答、文档与音频转录、向量搜索及 AI 使用量审计，并指导员工安装网盘客户端。培训将系统能力与具体操作连接起来，帮助员工开始在自己的工作中使用这些工具。</value>
-    </data>
-    <data name="Hands-on use also produced more specific feedback on file synchronisation, knowledge retrieval and interface usability, along with requests for summaries of transcribed meeting recordings. This feedback informed subsequent fixes and feature planning, keeping improvements grounded in real work." xml:space="preserve">
-        <value>现场使用也让双方收集到更具体的反馈，包括资料同步、知识检索、界面体验，以及会议录音转录后的摘要需求。这些反馈为后续修正和功能规划提供了依据，使交付后的改进能够围绕真实工作展开。</value>
-    </data>
-    <data name="Progress and Ongoing Collaboration" xml:space="preserve">
-        <value>阶段成果与持续合作</value>
-    </data>
-    <data name="Egret now has an AI and collaboration environment running on its own equipment, with employee training and practical use underway." xml:space="preserve">
-        <value>华鹭已经获得一套运行在自有设备上的 AI 与协作环境，并进入员工培训和实际使用阶段。</value>
-    </data>
-    <data name="Local computing and model services provide a dedicated environment for company knowledge processing and AI applications. File and knowledge management tools support central storage, client synchronisation, content retrieval and knowledge-based question answering. Kanban and Employee Center provide applications for project collaboration and daily work. Together, these capabilities form a platform that can continue to accumulate material, refine workflows and expand functionality." xml:space="preserve">
-        <value>本地计算与模型服务，为企业知识处理和 AI 应用提供了专属运行环境；文件与知识管理工具，支持资料集中存储、客户端同步、内容检索和知识问答；看板与员工中心，则为项目协作和日常工作提供了应用基础。这些能力共同构成了一套可以继续积累资料、完善流程和扩展功能的平台。</value>
-    </data>
-    <data name="Ongoing maintenance is also part of the delivery. Aiursoft continues to maintain deployment code, update infrastructure components and investigate operational issues, giving application deployment, version updates and operations a traceable basis and preserving continuity for future improvements." xml:space="preserve">
-        <value>与此同时，系统的持续维护也成为交付的一部分。Aiursoft继续维护部署代码、更新基础组件并排查运行问题，让应用部署、版本更新和运行维护有据可循，为后续改进保留连续性。</value>
-    </data>
-    <data name="At this stage, the project has established the foundations for local operation, knowledge management and collaboration. Its long-term impact on daily work will emerge as material accumulates, employees use the systems and workflows improve." xml:space="preserve">
-        <value>现阶段，项目已经建立了本地运行、知识管理与协作所需的基础。它在日常工作中的长期成效，将随着资料积累、员工使用和流程完善持续体现。</value>
-    </data>
-    <data name="Digital development in an engineering business requires an understanding of equipment, software and how people work. For Egret, Aiursoft connected hardware delivery, application deployment, custom development, on-site training and ongoing maintenance. The customer retains control over its assets and local environment, while the technical team continues to support the systems as they evolve, bringing AI closer to the material, projects and collaboration that engineers work with every day." xml:space="preserve">
-        <value>工程企业的数字化建设，需要同时理解设备、软件和人的工作方式。在华鹭项目中，Aiursoft将硬件交付、应用部署、定制开发、现场培训与后续维护连接起来。客户保留对资产和本地环境的控制，技术团队持续支持系统演进，让 AI 更贴近工程人员每天面对的资料、项目与协作需求。</value>
-    </data>
-    <data name="On this page" xml:space="preserve">
-        <value>本页内容</value>
-    </data>
+      <data name="A knowledge base gains value as people organise material, add content and use it in practice. Deploying the system provides a starting point for this process and an opportunity to turn scattered specialist material into shared knowledge resources." xml:space="preserve">
+    <value>知识库的价值需要通过持续整理资料、补充内容和实际使用逐步积累。部署系统为这一过程提供了起点，也让团队有机会将分散的专业材料转化为可以共同使用的知识资源。</value>
+  </data>
+  <data name="After launch, Aiursoft delivered on-site training covering directory services, Kanban, Employee Center, knowledge-base question answering, document and audio transcription, vector search and AI usage auditing, and helped employees install the file synchronisation client. The training connected system capabilities with practical operations, helping employees begin using the tools in their own work." xml:space="preserve">
+    <value>系统上线后，Aiursoft开展了现场使用培训，内容覆盖目录服务、看板、员工中心、知识库问答、文档与音频转录、向量搜索及 AI 使用量审计，并指导员工安装网盘客户端。培训将系统能力与具体操作连接起来，帮助员工开始在自己的工作中使用这些工具。</value>
+  </data>
+  <data name="Aiursoft selected, assembled, installed and configured an AI workstation around the requirements of local models and business applications, then deployed model services and supporting applications. Egret owns the equipment, and the systems run in its own environment, providing a common foundation for local knowledge processing and future application expansion." xml:space="preserve">
+    <value>Aiursoft根据本地模型与企业应用的需求，提供 AI 工作站的选型、组装、系统安装与调试，并在其上部署模型服务和配套应用。计算设备由华鹭持有，系统部署在客户自己的环境中，为本地知识处理和后续应用扩展提供统一基础。</value>
+  </data>
+  <data name="At this stage, the project has established the foundations for local operation, knowledge management and collaboration. Its long-term impact on daily work will emerge as material accumulates, employees use the systems and workflows improve." xml:space="preserve">
+    <value>现阶段，项目已经建立了本地运行、知识管理与协作所需的基础。它在日常工作中的长期成效，将随着资料积累、员工使用和流程完善持续体现。</value>
+  </data>
+  <data name="Business Context and Challenges" xml:space="preserve">
+    <value>业务背景与挑战</value>
+  </data>
+  <data name="Digital development in an engineering business requires an understanding of equipment, software and how people work. For Egret, Aiursoft connected hardware delivery, application deployment, custom development, on-site training and ongoing maintenance. The customer retains control over its assets and local environment, while the technical team continues to support the systems as they evolve, bringing AI closer to the material, projects and collaboration that engineers work with every day." xml:space="preserve">
+    <value>工程企业的数字化建设，需要同时理解设备、软件和人的工作方式。在华鹭项目中，Aiursoft将硬件交付、应用部署、定制开发、现场培训与后续维护连接起来。客户保留对资产和本地环境的控制，技术团队持续支持系统演进，让 AI 更贴近工程人员每天面对的资料、项目与协作需求。</value>
+  </data>
+  <data name="Egret Control Systems Wuxi integrates testing systems for vehicles and automotive components. Aiursoft delivered an AI workstation, local models, a knowledge base, file collaboration and a customised Kanban system, then supported their adoption through on-site training and ongoing maintenance." xml:space="preserve">
+    <value>华鹭控制系统无锡有限公司从事汽车及零部件试验系统集成。Aiursoft为其交付了包含 AI 工作站、本地模型、知识库、文件协作与定制看板的系统，并通过现场培训和持续维护，推动这些工具进入员工的日常工作。</value>
+  </data>
+  <data name="Egret had already purchased an ERP system, but much of its engineering work still took place outside business applications. Project files and drawings were scattered across engineers’ personal computers, technical material lacked a shared place to accumulate and be searched, and checking project progress often meant asking people individually. The team wanted AI to make existing material more useful and project collaboration smoother." xml:space="preserve">
+    <value>华鹭已经采购 ERP 系统，但工程团队仍有许多工作发生在业务系统之外。项目文件和图纸分散在工程师的个人电脑上，技术资料缺乏统一的积累与检索入口，了解项目进度也经常需要逐一询问。团队希望利用 AI 改善这些工作，让已有资料更容易被使用，让项目协作更加顺畅。</value>
+  </data>
+  <data name="Egret needed to plan its computing equipment, company material, collaboration tools and AI capabilities together while retaining control over its equipment and data. This defined the scope of delivery: the workstation, employee applications, training and long-term maintenance all needed to fit together." xml:space="preserve">
+    <value>华鹭需要将计算设备、企业资料、协作工具和 AI 能力一起规划，同时保留对设备与数据的自主控制。这也决定了项目的交付范围：从底层工作站到员工使用的应用，再到培训和长期维护，都需要相互衔接。</value>
+  </data>
+  <data name="Egret now has an AI and collaboration environment running on its own equipment, with employee training and practical use underway." xml:space="preserve">
+    <value>华鹭已经获得一套运行在自有设备上的 AI 与协作环境，并进入员工培训和实际使用阶段。</value>
+  </data>
+  <data name="Egret Wuxi: Building a Local AI and Knowledge Collaboration Platform for Engineering Teams" xml:space="preserve">
+    <value>华鹭无锡：为工程团队建设本地 AI 与知识协作平台</value>
+  </data>
+  <data name="Egret’s work brings together mechanical design, control technology and engineering implementation. Its team combines controllers, hydraulic cylinders, motors and other core components with mechanical structures of its own design to deliver testing systems to vehicle manufacturers and automotive component suppliers." xml:space="preserve">
+    <value>华鹭的业务连接机械设计、控制技术与工程实施。团队将控制器、液压油缸、电机等核心部件与自主设计的机械结构结合，为整车厂及汽车零部件企业提供试验系统。</value>
+  </data>
+  <data name="For file and knowledge management, Aiursoft deployed Nextcloud, Employee Center and knowledge-base capabilities to support central file management, synchronisation and retrieval. Employees can synchronise work material through a desktop client and use knowledge-base question answering, PDF and audio transcription, and vector search to process and find information. Work that previously involved locating files and reading material separately now has additional assistance." xml:space="preserve">
+    <value>在文件与知识管理方面，Aiursoft部署了 Nextcloud、员工中心及知识库相关能力，为文件集中管理、同步和检索提供工具。员工可以通过网盘客户端同步工作资料，也可以使用知识库问答、PDF 与音频转录、向量搜索等功能处理和查找信息。原本需要分别寻找文件、阅读资料的工作，由此有了新的辅助方式。</value>
+  </data>
+  <data name="Hands-on use also produced more specific feedback on file synchronisation, knowledge retrieval and interface usability, along with requests for summaries of transcribed meeting recordings. This feedback informed subsequent fixes and feature planning, keeping improvements grounded in real work." xml:space="preserve">
+    <value>现场使用也让双方收集到更具体的反馈，包括资料同步、知识检索、界面体验，以及会议录音转录后的摘要需求。这些反馈为后续修正和功能规划提供了依据，使交付后的改进能够围绕真实工作展开。</value>
+  </data>
+  <data name="Introducing AI raised further implementation questions: how to choose suitable computing equipment, organise a knowledge base, manage access permissions and connect models with the tools people actually use. Deploying a single application would struggle to address all of these needs." xml:space="preserve">
+    <value>引入 AI 又带来了新的实施问题：如何选择适合的计算设备，如何组织知识库，如何管理访问权限，以及如何让模型与实际业务工具配合工作。单独部署某个应用，很难同时解决这些问题。</value>
+  </data>
+  <data name="Local computing and model services provide a dedicated environment for company knowledge processing and AI applications. File and knowledge management tools support central storage, client synchronisation, content retrieval and knowledge-based question answering. Kanban and Employee Center provide applications for project collaboration and daily work. Together, these capabilities form a platform that can continue to accumulate material, refine workflows and expand functionality." xml:space="preserve">
+    <value>本地计算与模型服务，为企业知识处理和 AI 应用提供了专属运行环境；文件与知识管理工具，支持资料集中存储、客户端同步、内容检索和知识问答；看板与员工中心，则为项目协作和日常工作提供了应用基础。这些能力共同构成了一套可以继续积累资料、完善流程和扩展功能的平台。</value>
+  </data>
+  <data name="On this page" xml:space="preserve">
+    <value>本页内容</value>
+  </data>
+  <data name="Ongoing maintenance is also part of the delivery. Aiursoft continues to maintain deployment code, update infrastructure components and investigate operational issues, giving application deployment, version updates and operations a traceable basis and preserving continuity for future improvements." xml:space="preserve">
+    <value>与此同时，系统的持续维护也成为交付的一部分。Aiursoft继续维护部署代码、更新基础组件并排查运行问题，让应用部署、版本更新和运行维护有据可循，为后续改进保留连续性。</value>
+  </data>
+  <data name="Progress and Ongoing Collaboration" xml:space="preserve">
+    <value>阶段成果与持续合作</value>
+  </data>
+  <data name="Solution and Implementation" xml:space="preserve">
+    <value>解决方案与落地过程</value>
+  </data>
+  <data name="These projects depend on extensive specialist material: equipment manuals, technical drawings, project files and implementation experience. How easily that material can be found, understood and reused directly affects engineering collaboration. As projects progress, new knowledge also needs to be preserved for other roles and future projects." xml:space="preserve">
+    <value>这类项目依赖大量专业资料：设备手册、技术图纸、项目文件和实施经验。资料能否被找到、理解和复用，直接关系到工程团队的协作。随着项目推进，知识不断产生，也需要被妥善保存，供不同岗位和后续项目使用。</value>
+  </data>
+  <data name="This combination leaves room for adjustment. As the team identifies new needs through use, applications and workflows can continue to evolve so that the technology gradually adapts to the business." xml:space="preserve">
+    <value>这种组合为后续调整保留了空间。随着团队在使用中明确新的需求，可以继续完善应用和工作流程，使技术逐步适应实际业务。</value>
+  </data>
+  <data name="To address Egret’s project management needs, Aiursoft provided custom Kanban development and system integration, bringing business boards, workflows and AI capabilities into the same implementation plan. Employee Center, file services, model services and Kanban each support different parts of daily work, while unified identity provides a common foundation for managing access to the connected systems." xml:space="preserve">
+    <value>围绕华鹭的项目管理需求，Aiursoft提供定制 Kanban 开发及系统接口整合，将业务看板、工作流和 AI 能力纳入同一套建设方案。员工中心、文件服务、模型服务与看板分别承担日常工作中的不同职责；统一身份认证则为相关系统的访问管理提供共同基础。</value>
+  </data>
+
 </root>

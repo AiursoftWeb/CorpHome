@@ -96,6 +96,9 @@
   <data name="Edit User" xml:space="preserve">
     <value>Modifier l&apos;utilisateur</value>
   </data>
+  <data name="Egret Wuxi: Building a Local AI and Knowledge Collaboration Platform for Engineering Teams" xml:space="preserve">
+    <value>Egret Wuxi : Création d&apos;une plateforme locale de collaboration IA et de connaissances pour les équipes d&apos;ingénierie</value>
+  </data>
   <data name="Error" xml:space="preserve">
     <value>Erreur</value>
   </data>
@@ -199,7 +202,4 @@
     <value>Voir les contacts</value>
   </data>
 
-  <data name="Egret Wuxi: Building a Local AI and Knowledge Collaboration Platform for Engineering Teams" xml:space="preserve">
-    <value>Egret Wuxi : Création d'une plateforme locale de collaboration IA et de connaissances pour les équipes d'ingénierie</value>
-  </data>
 </root>
