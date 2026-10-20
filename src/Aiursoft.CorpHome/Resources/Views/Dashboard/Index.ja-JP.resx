@@ -36,6 +36,9 @@
   <data name="A modern, feature-rich, and highly extensible foundation for your next web application." xml:space="preserve">
     <value>モダンで機能豊富、そして高い拡張性を備えた、次世代のWebアプリケーションの基盤。</value>
   </data>
+  <data name="About Aiursoft" xml:space="preserve">
+    <value>Aiursoftについて</value>
+  </data>
   <data name="AI-Powered Translations" xml:space="preserve">
     <value>AIによる翻訳</value>
   </data>
@@ -75,8 +78,14 @@
   <data name="Consistency Validation" xml:space="preserve">
     <value>整合性検証</value>
   </data>
+  <data name="Contact us" xml:space="preserve">
+    <value>お問い合わせ</value>
+  </data>
   <data name="Develop exclusively in UTC while the system automatically converts and displays dates in the user&apos;s local time zone." xml:space="preserve">
     <value>UTCで専用に開発し、システムが自動的に日付をユーザーのローカルタイムゾーンに変換して表示します。</value>
+  </data>
+  <data name="Discover Aiursoft software and services." xml:space="preserve">
+    <value>Aiursoftのソフトウェアとサービスをご覧ください。</value>
   </data>
   <data name="Dockerized for Deployment" xml:space="preserve">
     <value>Docker化によるデプロイ</value>
@@ -96,6 +105,12 @@
   <data name="Effortlessly write integration tests using in-memory databases, temporary file systems, built-in mocking, and real-world HTTP request simulation." xml:space="preserve">
     <value>メモリ内データベース、一時ファイルシステム、組み込みモック、そして現実世界のHTTPリクエストシミュレーションを使用して、ストレスフリーで統合テストを記述できます。</value>
   </data>
+  <data name="Explore Aiursoft products, learn about the company, and contact our team." xml:space="preserve">
+    <value>Aiursoftのプロダクトを探求し、会社について学び、チームにご連絡ください。</value>
+  </data>
+  <data name="Explore our products" xml:space="preserve">
+    <value>製品を見る</value>
+  </data>
   <data name="Features a built-in file management system with automatic avatar compression and privacy protection." xml:space="preserve">
     <value>自動アバターの圧縮とプライバシー保護機能を備えた内蔵ファイル管理システムを搭載しています。</value>
   </data>
@@ -113,6 +128,9 @@
   </data>
   <data name="Integrated File Management" xml:space="preserve">
     <value>統合ファイル管理</value>
+  </data>
+  <data name="Learn about our team and how we work." xml:space="preserve">
+    <value>チームの紹介と私たちの働き方をご確認ください。</value>
   </data>
   <data name="Models are validated on both client and server sides based on data annotations." xml:space="preserve">
     <value>モデルはデータ注釈に基づいて、クライアントおよびサーバーの両方で検証されます。</value>
@@ -158,6 +176,9 @@
   </data>
   <data name="Supports both environment variables and database-backed settings, with automatic priority given to environment variables for seamless overrides." xml:space="preserve">
     <value>環境変数とデータベースバックエンド設定の両方をサポートしており、環境変数に自動的に優先順位が与えられ、スムーズな上書きが可能になります。</value>
+  </data>
+  <data name="Talk to our team about your organization and requirements." xml:space="preserve">
+    <value>貴組織やご要望について、ぜひ弊社チームにご相談ください。</value>
   </data>
   <data name="The navigation bar automatically adjusts based on user roles and permissions." xml:space="preserve">
     <value>ナビゲーションバーはユーザーの役割と権限に基づいて自動的に調整されます。</value>

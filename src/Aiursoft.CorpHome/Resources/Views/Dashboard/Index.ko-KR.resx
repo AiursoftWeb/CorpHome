@@ -36,6 +36,9 @@
   <data name="A modern, feature-rich, and highly extensible foundation for your next web application." xml:space="preserve">
     <value>현대적이고, 기능이 풍부하며, 확장성이 뛰어난 기반을 통해 다음 웹 애플리케이션을 구축하세요.</value>
   </data>
+  <data name="About Aiursoft" xml:space="preserve">
+    <value>Aiursoft 소개</value>
+  </data>
   <data name="AI-Powered Translations" xml:space="preserve">
     <value>AI 기반 번역</value>
   </data>
@@ -75,8 +78,14 @@
   <data name="Consistency Validation" xml:space="preserve">
     <value>일관성 검증</value>
   </data>
+  <data name="Contact us" xml:space="preserve">
+    <value>문의하기</value>
+  </data>
   <data name="Develop exclusively in UTC while the system automatically converts and displays dates in the user&apos;s local time zone." xml:space="preserve">
     <value>UTC에서만 개발하고 시스템이 사용자의 로컬 시간대에 맞게 날짜를 자동으로 변환하여 표시합니다.</value>
+  </data>
+  <data name="Discover Aiursoft software and services." xml:space="preserve">
+    <value>Aiursoft의 소프트웨어와 서비스를 만나보세요.</value>
   </data>
   <data name="Dockerized for Deployment" xml:space="preserve">
     <value>배포를 위한 Docker화</value>
@@ -96,6 +105,12 @@
   <data name="Effortlessly write integration tests using in-memory databases, temporary file systems, built-in mocking, and real-world HTTP request simulation." xml:space="preserve">
     <value>메모리 내 데이터베이스, 임시 파일 시스템, 내장 모킹, 그리고 실제 웹 요청 시뮬레이션을 사용하여 통합 테스트를 손쉽게 작성하세요.</value>
   </data>
+  <data name="Explore Aiursoft products, learn about the company, and contact our team." xml:space="preserve">
+    <value>Aiursoft의 제품을 살펴보고, 회사에 대해 알아보고, 우리 팀에 문의하세요.</value>
+  </data>
+  <data name="Explore our products" xml:space="preserve">
+    <value>제품 살펴보기</value>
+  </data>
   <data name="Features a built-in file management system with automatic avatar compression and privacy protection." xml:space="preserve">
     <value>자동 아바타 압축과 개인정보 보호 기능이 포함된 내장형 파일 관리 시스템을 제공합니다.</value>
   </data>
@@ -113,6 +128,9 @@
   </data>
   <data name="Integrated File Management" xml:space="preserve">
     <value>통합 파일 관리</value>
+  </data>
+  <data name="Learn about our team and how we work." xml:space="preserve">
+    <value>저희 팀과 일하는 방식에 대해 알아보세요.</value>
   </data>
   <data name="Models are validated on both client and server sides based on data annotations." xml:space="preserve">
     <value>모델은 데이터 주석에 기반하여 클라이언트 및 서버 양쪽에서 검증됩니다.</value>
@@ -158,6 +176,9 @@
   </data>
   <data name="Supports both environment variables and database-backed settings, with automatic priority given to environment variables for seamless overrides." xml:space="preserve">
     <value>환경 변수와 데이터베이스 기반 설정을 모두 지원하며, 환경 변수에 자동 우선 순위를 부여하여 원활한 오버라이드를 가능하게 합니다.</value>
+  </data>
+  <data name="Talk to our team about your organization and requirements." xml:space="preserve">
+    <value>귀사의 조직과 요구 사항에 대해 저희 팀과 상담해 보세요.</value>
   </data>
   <data name="The navigation bar automatically adjusts based on user roles and permissions." xml:space="preserve">
     <value>네비게이션 바는 사용자 역할과 권한에 따라 자동으로 조정됩니다.</value>

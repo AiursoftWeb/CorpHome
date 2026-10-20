@@ -36,6 +36,9 @@
   <data name="A modern, feature-rich, and highly extensible foundation for your next web application." xml:space="preserve">
     <value>一个现代化、功能丰富且高度可扩展的基础框架，为您的下一个Web应用程序奠定坚实基础。</value>
   </data>
+  <data name="About Aiursoft" xml:space="preserve">
+    <value>关于 Aiursoft</value>
+  </data>
   <data name="AI-Powered Translations" xml:space="preserve">
     <value>AI驱动翻译</value>
   </data>
@@ -75,8 +78,14 @@
   <data name="Consistency Validation" xml:space="preserve">
     <value>一致性验证</value>
   </data>
+  <data name="Contact us" xml:space="preserve">
+    <value>联系我们</value>
+  </data>
   <data name="Develop exclusively in UTC while the system automatically converts and displays dates in the user&apos;s local time zone." xml:space="preserve">
     <value>在开发时仅使用 UTC，系统会自动将日期转换并显示为用户的本地时间。</value>
+  </data>
+  <data name="Discover Aiursoft software and services." xml:space="preserve">
+    <value>探索 Aiursoft 的软件与服务。</value>
   </data>
   <data name="Dockerized for Deployment" xml:space="preserve">
     <value>容器化部署</value>
@@ -96,6 +105,12 @@
   <data name="Effortlessly write integration tests using in-memory databases, temporary file systems, built-in mocking, and real-world HTTP request simulation." xml:space="preserve">
     <value>轻松编写集成测试，使用内存数据库、临时文件系统、内置模拟功能以及真实的 HTTP 请求模拟。</value>
   </data>
+  <data name="Explore Aiursoft products, learn about the company, and contact our team." xml:space="preserve">
+    <value>探索 Aiursoft 的产品，了解公司，并联系我们的团队。</value>
+  </data>
+  <data name="Explore our products" xml:space="preserve">
+    <value>探索我们的产品</value>
+  </data>
   <data name="Features a built-in file management system with automatic avatar compression and privacy protection." xml:space="preserve">
     <value>内置文件管理系统，支持自动头像压缩与隐私保护。</value>
   </data>
@@ -113,6 +128,9 @@
   </data>
   <data name="Integrated File Management" xml:space="preserve">
     <value>集成文件管理</value>
+  </data>
+  <data name="Learn about our team and how we work." xml:space="preserve">
+    <value>了解我们的团队及工作方式。</value>
   </data>
   <data name="Models are validated on both client and server sides based on data annotations." xml:space="preserve">
     <value>模型会根据数据注解在客户端和服务器端进行验证。</value>
@@ -158,6 +176,9 @@
   </data>
   <data name="Supports both environment variables and database-backed settings, with automatic priority given to environment variables for seamless overrides." xml:space="preserve">
     <value>支持环境变量和数据库配置，环境变量具有自动优先级，可实现无缝覆盖。</value>
+  </data>
+  <data name="Talk to our team about your organization and requirements." xml:space="preserve">
+    <value>与我们的团队讨论您的组织情况和需求。</value>
   </data>
   <data name="The navigation bar automatically adjusts based on user roles and permissions." xml:space="preserve">
     <value>导航栏会根据用户角色和权限自动调整。</value>

@@ -36,6 +36,9 @@
   <data name="A modern, feature-rich, and highly extensible foundation for your next web application." xml:space="preserve">
     <value>Sebuah fondasi yang modern, kaya fitur, dan sangat dapat diperluas untuk aplikasi web Anda berikutnya.</value>
   </data>
+  <data name="About Aiursoft" xml:space="preserve">
+    <value>Tentang Aiursoft</value>
+  </data>
   <data name="AI-Powered Translations" xml:space="preserve">
     <value>Terjemahan Berbasis AI</value>
   </data>
@@ -75,8 +78,14 @@
   <data name="Consistency Validation" xml:space="preserve">
     <value>Validasi Konsistensi</value>
   </data>
+  <data name="Contact us" xml:space="preserve">
+    <value>Hubungi kami</value>
+  </data>
   <data name="Develop exclusively in UTC while the system automatically converts and displays dates in the user&apos;s local time zone." xml:space="preserve">
     <value>Kembangkan secara eksklusif dalam UTC sementara sistem secara otomatis mengonversi dan menampilkan tanggal dalam zona waktu lokal pengguna.</value>
+  </data>
+  <data name="Discover Aiursoft software and services." xml:space="preserve">
+    <value>Temukan perangkat lunak dan layanan Aiursoft.</value>
   </data>
   <data name="Dockerized for Deployment" xml:space="preserve">
     <value>Terdockerisasi untuk Deployment</value>
@@ -96,6 +105,12 @@
   <data name="Effortlessly write integration tests using in-memory databases, temporary file systems, built-in mocking, and real-world HTTP request simulation." xml:space="preserve">
     <value>Tulis uji integrasi dengan mudah menggunakan basis data dalam memori, sistem file sementara, mocking bawaan, dan simulasi permintaan HTTP dunia nyata.</value>
   </data>
+  <data name="Explore Aiursoft products, learn about the company, and contact our team." xml:space="preserve">
+    <value>Jelajahi produk Aiursoft, pelajari tentang perusahaan, dan hubungi tim kami.</value>
+  </data>
+  <data name="Explore our products" xml:space="preserve">
+    <value>Jelajahi produk kami</value>
+  </data>
   <data name="Features a built-in file management system with automatic avatar compression and privacy protection." xml:space="preserve">
     <value>Memiliki sistem manajemen file bawaan dengan kompresi avatar otomatis dan perlindungan privasi.</value>
   </data>
@@ -113,6 +128,9 @@
   </data>
   <data name="Integrated File Management" xml:space="preserve">
     <value>Manajemen File Terintegrasi</value>
+  </data>
+  <data name="Learn about our team and how we work." xml:space="preserve">
+    <value>Pelajari tentang tim kami dan cara kami bekerja.</value>
   </data>
   <data name="Models are validated on both client and server sides based on data annotations." xml:space="preserve">
     <value>Model divalidasi di sisi klien dan server berdasarkan anotasi data.</value>
@@ -158,6 +176,9 @@
   </data>
   <data name="Supports both environment variables and database-backed settings, with automatic priority given to environment variables for seamless overrides." xml:space="preserve">
     <value>Mendukung variabel lingkungan dan pengaturan berbasis basis data, dengan prioritas otomatis diberikan kepada variabel lingkungan untuk override yang mulus.</value>
+  </data>
+  <data name="Talk to our team about your organization and requirements." xml:space="preserve">
+    <value>Bicaralah dengan tim kami tentang organisasi dan kebutuhan Anda.</value>
   </data>
   <data name="The navigation bar automatically adjusts based on user roles and permissions." xml:space="preserve">
     <value>Bilah navigasi secara otomatis menyesuaikan berdasarkan peran dan izin pengguna.</value>

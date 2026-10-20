@@ -36,6 +36,9 @@
   <data name="A modern, feature-rich, and highly extensible foundation for your next web application." xml:space="preserve">
     <value>أساس حديث، غني بالميزات، وقابل للتوسعة بشكل كبير لتطبيق الويب القادم الخاص بك.</value>
   </data>
+  <data name="About Aiursoft" xml:space="preserve">
+    <value>حول Aiursoft</value>
+  </data>
   <data name="AI-Powered Translations" xml:space="preserve">
     <value>الترجمات المدعومة بالذكاء الاصطناعي</value>
   </data>
@@ -75,8 +78,14 @@
   <data name="Consistency Validation" xml:space="preserve">
     <value>التحقق من الاتساق</value>
   </data>
+  <data name="Contact us" xml:space="preserve">
+    <value>تواصل معنا</value>
+  </data>
   <data name="Develop exclusively in UTC while the system automatically converts and displays dates in the user&apos;s local time zone." xml:space="preserve">
     <value>طور بشكل حصري باستخدام التوقيت العالمي الموحد (UTC) بينما يقوم النظام تلقائيًا بتحويل وتظهر التواريخ بالتوقيت المحلي للمستخدم.</value>
+  </data>
+  <data name="Discover Aiursoft software and services." xml:space="preserve">
+    <value>اكتشف برامج وخدمات Aiursoft.</value>
   </data>
   <data name="Dockerized for Deployment" xml:space="preserve">
     <value>مُحَضَّرٌ باستخدام Docker للنشر</value>
@@ -96,6 +105,12 @@
   <data name="Effortlessly write integration tests using in-memory databases, temporary file systems, built-in mocking, and real-world HTTP request simulation." xml:space="preserve">
     <value>اكتب اختبارات التكامل بسهولة باستخدام قواعد بيانات الذاكرة المؤقتة، وأنظمة ملفات مؤقتة، ومحاكاة مدمجة، ومحاكاة طلبات HTTP الواقعية.</value>
   </data>
+  <data name="Explore Aiursoft products, learn about the company, and contact our team." xml:space="preserve">
+    <value>استكشف منتجات Aiursoft، وتعرّف على الشركة، وتواصل مع فريقنا.</value>
+  </data>
+  <data name="Explore our products" xml:space="preserve">
+    <value>استكشف منتجاتنا</value>
+  </data>
   <data name="Features a built-in file management system with automatic avatar compression and privacy protection." xml:space="preserve">
     <value>يتميز بنظام إدارة ملفات مدمج مع ضغط تلقائي للصورة الرمزية وحماية الخصوصية.</value>
   </data>
@@ -113,6 +128,9 @@
   </data>
   <data name="Integrated File Management" xml:space="preserve">
     <value>إدارة الملفات المتكاملة</value>
+  </data>
+  <data name="Learn about our team and how we work." xml:space="preserve">
+    <value>تعرّف على فريقنا وكيفية عملنا.</value>
   </data>
   <data name="Models are validated on both client and server sides based on data annotations." xml:space="preserve">
     <value>تتم مصادقة النماذج على الطرفين العميل والخادم بناءً على ملاحظات البيانات.</value>
@@ -158,6 +176,9 @@
   </data>
   <data name="Supports both environment variables and database-backed settings, with automatic priority given to environment variables for seamless overrides." xml:space="preserve">
     <value>يدعم متغيرات البيئة والإعدادات المخزنة في قاعدة البيانات، مع إعطاء الأولوية التلقائية لمتغيرات البيئة لتمكين التجاوزات السلسة.</value>
+  </data>
+  <data name="Talk to our team about your organization and requirements." xml:space="preserve">
+    <value>تحدث إلى فريقنا حول مؤسستك ومتطلباتك.</value>
   </data>
   <data name="The navigation bar automatically adjusts based on user roles and permissions." xml:space="preserve">
     <value>يتم تعديل شريط التنقل تلقائيًا بناءً على أدوار المستخدمين والأذونات.</value>

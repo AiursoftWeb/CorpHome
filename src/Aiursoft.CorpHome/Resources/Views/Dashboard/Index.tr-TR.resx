@@ -36,6 +36,9 @@
   <data name="A modern, feature-rich, and highly extensible foundation for your next web application." xml:space="preserve">
     <value>Modern, zengin özelliklere sahip ve bir sonraki web uygulamanız için oldukça genişletilebilir bir temel.</value>
   </data>
+  <data name="About Aiursoft" xml:space="preserve">
+    <value>Aiursoft Hakkında</value>
+  </data>
   <data name="AI-Powered Translations" xml:space="preserve">
     <value>Yapay Zeka Destekli Çeviriler</value>
   </data>
@@ -75,8 +78,14 @@
   <data name="Consistency Validation" xml:space="preserve">
     <value>Tutarlılık Doğrulaması</value>
   </data>
+  <data name="Contact us" xml:space="preserve">
+    <value>Bize ulaşın</value>
+  </data>
   <data name="Develop exclusively in UTC while the system automatically converts and displays dates in the user&apos;s local time zone." xml:space="preserve">
     <value>UTC&apos;de yalnızca geliştirin, sistem tarihleri otomatik olarak kullanıcının yerel saat dilimine dönüştürür ve görüntüler.</value>
+  </data>
+  <data name="Discover Aiursoft software and services." xml:space="preserve">
+    <value>Aiursoft’un yazılımlarını ve hizmetlerini keşfedin.</value>
   </data>
   <data name="Dockerized for Deployment" xml:space="preserve">
     <value>Dağıtım İçin Dockerize Edildi</value>
@@ -96,6 +105,12 @@
   <data name="Effortlessly write integration tests using in-memory databases, temporary file systems, built-in mocking, and real-world HTTP request simulation." xml:space="preserve">
     <value>Hafifçe entegrasyon testleri yazın, bellekte çalışan veritabanları, geçici dosya sistemleri, yerleşik mocklama ve gerçek dünya HTTP isteği simülasyonu kullanarak.</value>
   </data>
+  <data name="Explore Aiursoft products, learn about the company, and contact our team." xml:space="preserve">
+    <value>Aiursoft ürünlerini keşfedin, şirket hakkında bilgi edinin ve ekibimizle iletişime geçin.</value>
+  </data>
+  <data name="Explore our products" xml:space="preserve">
+    <value>Ürünlerimizi keşfedin</value>
+  </data>
   <data name="Features a built-in file management system with automatic avatar compression and privacy protection." xml:space="preserve">
     <value>Gömülü dosya yönetim sistemi, otomatik avatar sıkıştırma ve gizlilik koruması ile birlikte gelir.</value>
   </data>
@@ -113,6 +128,9 @@
   </data>
   <data name="Integrated File Management" xml:space="preserve">
     <value>Entegre Dosya Yönetimi</value>
+  </data>
+  <data name="Learn about our team and how we work." xml:space="preserve">
+    <value>Ekibimizi ve çalışma şeklimizi öğrenin.</value>
   </data>
   <data name="Models are validated on both client and server sides based on data annotations." xml:space="preserve">
     <value>Modeller, veri eklemelerine dayalı olarak hem istemci hem de sunucu tarafında doğrulanır.</value>
@@ -158,6 +176,9 @@
   </data>
   <data name="Supports both environment variables and database-backed settings, with automatic priority given to environment variables for seamless overrides." xml:space="preserve">
     <value>Ortam değişkenleri ve veritabanı destekli ayarlar destekler, sorunsuz geçişler için otomatik olarak ortam değişkenlerine öncelik verilir.</value>
+  </data>
+  <data name="Talk to our team about your organization and requirements." xml:space="preserve">
+    <value>Kurumunuz ve ihtiyaçlarınız hakkında ekibimizle görüşün.</value>
   </data>
   <data name="The navigation bar automatically adjusts based on user roles and permissions." xml:space="preserve">
     <value>Gezinme çubuğu, kullanıcı rollerine ve izinlerine göre otomatik olarak ayarlanır.</value>

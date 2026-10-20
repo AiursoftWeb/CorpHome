@@ -36,6 +36,9 @@
   <data name="A modern, feature-rich, and highly extensible foundation for your next web application." xml:space="preserve">
     <value>आपके अगले वेब एप्लिकेशन के लिए एक आधुनिक, सुविधा-संपन्न और अत्यधिक विस्तार योग्य आधार।</value>
   </data>
+  <data name="About Aiursoft" xml:space="preserve">
+    <value>Aiursoft के बारे में</value>
+  </data>
   <data name="AI-Powered Translations" xml:space="preserve">
     <value>AI-संचालित अनुवाद</value>
   </data>
@@ -75,8 +78,14 @@
   <data name="Consistency Validation" xml:space="preserve">
     <value>सुसंगतता प्रमाणीकरण</value>
   </data>
+  <data name="Contact us" xml:space="preserve">
+    <value>हमसे संपर्क करें</value>
+  </data>
   <data name="Develop exclusively in UTC while the system automatically converts and displays dates in the user&apos;s local time zone." xml:space="preserve">
     <value>यूटीसी में विशेष रूप से विकसित करें जबकि सिस्टम स्वचालित रूप से उपयोगकर्ता के स्थानीय समय क्षेत्र में तारीखों को परिवर्तित और प्रदर्शित करता है।</value>
+  </data>
+  <data name="Discover Aiursoft software and services." xml:space="preserve">
+    <value>Aiursoft के सॉफ़्टवेयर और सेवाओं के बारे में जानें।</value>
   </data>
   <data name="Dockerized for Deployment" xml:space="preserve">
     <value>डेप्लॉयमेंट के लिए डॉकरकृत</value>
@@ -96,6 +105,12 @@
   <data name="Effortlessly write integration tests using in-memory databases, temporary file systems, built-in mocking, and real-world HTTP request simulation." xml:space="preserve">
     <value>आसानी से इंटीग्रेशन टेस्ट लिखें, इन-मेमोरी डेटाबेस, अस्थायी फाइल सिस्टम, बिल्ट-इन मॉकिंग, और वास्तविक दुनिया के HTTP रिक्वेस्ट सिमुलेशन का उपयोग करके।</value>
   </data>
+  <data name="Explore Aiursoft products, learn about the company, and contact our team." xml:space="preserve">
+    <value>Aiursoft के उत्पादों का अन्वेषण करें, कंपनी के बारे में जानें और हमारी टीम से संपर्क करें।</value>
+  </data>
+  <data name="Explore our products" xml:space="preserve">
+    <value>हमारे उत्पाद देखें</value>
+  </data>
   <data name="Features a built-in file management system with automatic avatar compression and privacy protection." xml:space="preserve">
     <value>एक स्वचालित अवतार संपीड़न और गोपनीयता सुरक्षा के साथ एक एम्बेडेड फ़ाइल प्रबंधन प्रणाली के साथ सुविधा प्रदान करता है।</value>
   </data>
@@ -113,6 +128,9 @@
   </data>
   <data name="Integrated File Management" xml:space="preserve">
     <value>एकीकृत फ़ाइल प्रबंधन</value>
+  </data>
+  <data name="Learn about our team and how we work." xml:space="preserve">
+    <value>हमारी टीम और हमारे काम के तरीके के बारे में जानें।</value>
   </data>
   <data name="Models are validated on both client and server sides based on data annotations." xml:space="preserve">
     <value>मॉडल्स को डेटा एनोटेशन्स के आधार पर क्लाइंट और सर्वर दोनों तरफ वैधता के लिए जांचा जाता है।</value>
@@ -158,6 +176,9 @@
   </data>
   <data name="Supports both environment variables and database-backed settings, with automatic priority given to environment variables for seamless overrides." xml:space="preserve">
     <value>पर्यावरण चर के साथ-साथ डेटाबेस-आधारित सेटिंग्स का समर्थन करता है, जहां पर्यावरण चर को बिना किसी दिक्कत के ओवरराइड करने के लिए स्वचालित प्राथमिकता दी जाती है।</value>
+  </data>
+  <data name="Talk to our team about your organization and requirements." xml:space="preserve">
+    <value>अपने संगठन और आवश्यकताओं के बारे में हमारी टीम से बात करें।</value>
   </data>
   <data name="The navigation bar automatically adjusts based on user roles and permissions." xml:space="preserve">
     <value>नेविगेशन बार उपयोगकर्ता भूमिकाओं और अनुमतियों के आधार पर स्वचालित रूप से समायोजित होता है।</value>

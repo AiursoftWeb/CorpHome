@@ -36,6 +36,9 @@
   <data name="A modern, feature-rich, and highly extensible foundation for your next web application." xml:space="preserve">
     <value>Uma base moderna, rica em funcionalidades e altamente extensível para a sua próxima aplicação web.</value>
   </data>
+  <data name="About Aiursoft" xml:space="preserve">
+    <value>Sobre a Aiursoft</value>
+  </data>
   <data name="AI-Powered Translations" xml:space="preserve">
     <value>Traduções com Inteligência Artificial</value>
   </data>
@@ -75,8 +78,14 @@
   <data name="Consistency Validation" xml:space="preserve">
     <value>Validação de Consistência</value>
   </data>
+  <data name="Contact us" xml:space="preserve">
+    <value>Contacte-nos</value>
+  </data>
   <data name="Develop exclusively in UTC while the system automatically converts and displays dates in the user&apos;s local time zone." xml:space="preserve">
     <value>Desenvolva exclusivamente em UTC, enquanto o sistema converte e exibe automaticamente as datas na zona horária local do utilizador.</value>
+  </data>
+  <data name="Discover Aiursoft software and services." xml:space="preserve">
+    <value>Descubra o software e os serviços da Aiursoft.</value>
   </data>
   <data name="Dockerized for Deployment" xml:space="preserve">
     <value>Dockerizado para Implementação</value>
@@ -96,6 +105,12 @@
   <data name="Effortlessly write integration tests using in-memory databases, temporary file systems, built-in mocking, and real-world HTTP request simulation." xml:space="preserve">
     <value>Escreva testes de integração de forma eficaz utilizando bases de dados em memória, sistemas de ficheiros temporários, mocking integrado e simulação de pedidos HTTP do mundo real.</value>
   </data>
+  <data name="Explore Aiursoft products, learn about the company, and contact our team." xml:space="preserve">
+    <value>Explore os produtos da Aiursoft, conheça a empresa e contacte a nossa equipa.</value>
+  </data>
+  <data name="Explore our products" xml:space="preserve">
+    <value>Explore os nossos produtos</value>
+  </data>
   <data name="Features a built-in file management system with automatic avatar compression and privacy protection." xml:space="preserve">
     <value>Caracteriza-se por um sistema de gestão de ficheiros integrado com compressão automática de avatares e proteção da privacidade.</value>
   </data>
@@ -113,6 +128,9 @@
   </data>
   <data name="Integrated File Management" xml:space="preserve">
     <value>Gestão Integrada de Ficheiros</value>
+  </data>
+  <data name="Learn about our team and how we work." xml:space="preserve">
+    <value>Conheça a nossa equipa e a forma como trabalhamos.</value>
   </data>
   <data name="Models are validated on both client and server sides based on data annotations." xml:space="preserve">
     <value>Os modelos são validados nos lados cliente e servidor com base em anotações de dados.</value>
@@ -158,6 +176,9 @@
   </data>
   <data name="Supports both environment variables and database-backed settings, with automatic priority given to environment variables for seamless overrides." xml:space="preserve">
     <value>Suporta variáveis de ambiente e definições armazenadas em base de dados, com prioridade automática atribuída às variáveis de ambiente para substituições sem problemas.</value>
+  </data>
+  <data name="Talk to our team about your organization and requirements." xml:space="preserve">
+    <value>Fale com a nossa equipa sobre a sua organização e os seus requisitos.</value>
   </data>
   <data name="The navigation bar automatically adjusts based on user roles and permissions." xml:space="preserve">
     <value>A barra de navegação ajusta-se automaticamente com base nas funções e permissões do utilizador.</value>

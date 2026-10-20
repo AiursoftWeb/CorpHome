@@ -36,6 +36,9 @@
   <data name="A modern, feature-rich, and highly extensible foundation for your next web application." xml:space="preserve">
     <value>Сучасна, багатофункціональна та високо розширювана основа для вашої наступної веб-програми.</value>
   </data>
+  <data name="About Aiursoft" xml:space="preserve">
+    <value>Про Aiursoft</value>
+  </data>
   <data name="AI-Powered Translations" xml:space="preserve">
     <value>Переклади на основі ШІ</value>
   </data>
@@ -75,8 +78,14 @@
   <data name="Consistency Validation" xml:space="preserve">
     <value>Перевірка сумісності</value>
   </data>
+  <data name="Contact us" xml:space="preserve">
+    <value>Зв&apos;яжіться з нами</value>
+  </data>
   <data name="Develop exclusively in UTC while the system automatically converts and displays dates in the user&apos;s local time zone." xml:space="preserve">
     <value>Розробляйте виключно в UTC, тоді як система автоматично перетворює та відображає дати у часовому поясі користувача.</value>
+  </data>
+  <data name="Discover Aiursoft software and services." xml:space="preserve">
+    <value>Відкрийте для себе програмне забезпечення та послуги Aiursoft.</value>
   </data>
   <data name="Dockerized for Deployment" xml:space="preserve">
     <value>Підготовлено для розгортання в Docker</value>
@@ -96,6 +105,12 @@
   <data name="Effortlessly write integration tests using in-memory databases, temporary file systems, built-in mocking, and real-world HTTP request simulation." xml:space="preserve">
     <value>Легко створюйте інтеграційні тести за допомогою ін-меморі баз даних, тимчасових файлових систем, вбудованого мокування та симуляції реальних HTTP-запитів.</value>
   </data>
+  <data name="Explore Aiursoft products, learn about the company, and contact our team." xml:space="preserve">
+    <value>Ознайомтеся з продуктами Aiursoft, дізнайтеся більше про компанію та зв&apos;яжіться з нашою командою.</value>
+  </data>
+  <data name="Explore our products" xml:space="preserve">
+    <value>Ознайомтеся з нашими продуктами</value>
+  </data>
   <data name="Features a built-in file management system with automatic avatar compression and privacy protection." xml:space="preserve">
     <value>Містить вбудовану систему управління файлами з автоматичною компресією аватарів та захистом приватності.</value>
   </data>
@@ -113,6 +128,9 @@
   </data>
   <data name="Integrated File Management" xml:space="preserve">
     <value>Інтегроване управління файлами</value>
+  </data>
+  <data name="Learn about our team and how we work." xml:space="preserve">
+    <value>Дізнайтеся про нашу команду та те, як ми працюємо.</value>
   </data>
   <data name="Models are validated on both client and server sides based on data annotations." xml:space="preserve">
     <value>Моделі перевіряються на клієнтській та серверній сторонах на основі анотацій даних.</value>
@@ -158,6 +176,9 @@
   </data>
   <data name="Supports both environment variables and database-backed settings, with automatic priority given to environment variables for seamless overrides." xml:space="preserve">
     <value>Підтримує як змінні середовища, так і налаштування, зберігаються в базі даних, з автоматичним пріоритетом для змінних середовища для безперервного перекриття.</value>
+  </data>
+  <data name="Talk to our team about your organization and requirements." xml:space="preserve">
+    <value>Обговоріть із нашою командою вашу організацію та її потреби.</value>
   </data>
   <data name="The navigation bar automatically adjusts based on user roles and permissions." xml:space="preserve">
     <value>Панель навігації автоматично адаптується відповідно до ролей та дозволів користувача.</value>
