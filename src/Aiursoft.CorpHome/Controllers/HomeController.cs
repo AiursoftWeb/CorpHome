@@ -114,7 +114,8 @@ public class HomeController(TemplateDbContext dbContext, IStatelessCaptcha captc
             JobTitle = model.JobTitle,
             Email = model.Email,
             AgreeToInformation = model.AgreeToInformation,
-            AgreeToPrivacy = model.AgreeToPrivacy
+            AgreeToPrivacy = model.AgreeToPrivacy,
+            AlertCenterReportId = Guid.NewGuid()
         };
 
         dbContext.Contacts.Add(contact);

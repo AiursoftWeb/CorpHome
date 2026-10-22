@@ -29,7 +29,7 @@
             <tbody>
             @foreach (var item in Model.Contacts)
             {
-                <tr>
+                <tr id="contact-@item.Id">
                     <td>@item.FirstName @item.LastName</td>
                     <td>@item.Company</td>
                     <td>@item.JobTitle</td>

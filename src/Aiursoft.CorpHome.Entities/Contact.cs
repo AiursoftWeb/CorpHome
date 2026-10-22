@@ -25,4 +25,8 @@ public class Contact
     public bool AgreeToPrivacy { get; set; }
 
     public DateTime CreateTime { get; set; } = DateTime.UtcNow;
+
+    public Guid? AlertCenterReportId { get; set; }
+
+    public DateTime? AlertCenterReportedAtUtc { get; set; }
 }

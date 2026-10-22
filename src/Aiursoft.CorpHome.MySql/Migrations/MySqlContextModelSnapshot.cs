@@ -17,7 +17,7 @@ namespace Aiursoft.CorpHome.MySql.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "10.0.3")
+                .HasAnnotation("ProductVersion", "10.0.13")
                 .HasAnnotation("Relational:MaxIdentifierLength", 64);
 
             MySqlModelBuilderExtensions.AutoIncrementColumns(modelBuilder);
@@ -35,6 +35,12 @@ namespace Aiursoft.CorpHome.MySql.Migrations
 
                     b.Property<bool>("AgreeToPrivacy")
                         .HasColumnType("tinyint(1)");
+
+                    b.Property<Guid?>("AlertCenterReportId")
+                        .HasColumnType("char(36)");
+
+                    b.Property<DateTime?>("AlertCenterReportedAtUtc")
+                        .HasColumnType("datetime(6)");
 
                     b.Property<string>("Company")
                         .IsRequired()

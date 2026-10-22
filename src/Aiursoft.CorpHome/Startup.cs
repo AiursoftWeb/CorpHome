@@ -19,6 +19,8 @@ using Aiursoft.Canon.TaskQueue;
 using Aiursoft.Canon.BackgroundJobs;
 using Aiursoft.Canon.ScheduledTasks;
 using Edi.Captcha;
+using Aiursoft.AiurProtocol;
+using Aiursoft.CorpHome.Services.ContactAlerts;
 
 namespace Aiursoft.CorpHome;
 
@@ -53,6 +55,9 @@ public class Startup : IWebStartup
         // Services
         services.AddMemoryCache();
         services.AddHttpClient();
+        services.AddAiurProtocolClient();
+        services.AddScoped<AlertCenterSettingsProvider>();
+        services.AddScoped<IContactIncidentClient, ContactIncidentClient>();
         services.AddAssemblyDependencies(typeof(Startup).Assembly);
         services.AddSingleton<NavigationState<Startup>>();
 
@@ -65,6 +70,8 @@ public class Startup : IWebStartup
         services.RegisterBackgroundJob<Services.BackgroundJobs.DummyJob>();
         var orphanAvatarCleanupJob = services.RegisterBackgroundJob<Services.BackgroundJobs.OrphanAvatarCleanupJob>();
         services.RegisterScheduledTask(registration: orphanAvatarCleanupJob, period: TimeSpan.FromHours(6), startDelay: TimeSpan.FromMinutes(5));
+        var contactIncidentSyncJob = services.RegisterBackgroundJob<Services.BackgroundJobs.ContactIncidentSyncJob>();
+        services.RegisterScheduledTask(registration: contactIncidentSyncJob, period: TimeSpan.FromMinutes(1), startDelay: TimeSpan.FromMinutes(1));
 
         // Controllers and localization
         services.AddControllersWithViews()

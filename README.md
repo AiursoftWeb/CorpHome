@@ -67,6 +67,25 @@ The docker image has the following context:
 | Data path   | /data                           |
 | Config path | /data/appsettings.json          |
 
+## Contact alerts in AlertCenter
+
+New valid contact submissions are saved with a stable report ID in the same database write as the contact. A background job sends one **sev2** incident per contact, normally within one minute, using `Aiursoft.AlertCenter.SDK`. Contact submissions never wait for AlertCenter. Existing contacts from before this integration have no report ID and are not backfilled.
+
+Configure the following global settings in the administration UI or override them with environment variables:
+
+| Environment variable | Default | Purpose |
+|---|---|---|
+| `GlobalSettings__AlertCenter_Enabled` | `False` | Enable delivery. Disabling pauses delivery but retains new submissions for later delivery. |
+| `GlobalSettings__AlertCenter_Endpoint` | `https://alertcenter.aiursoft.com` | AlertCenter HTTP(S) base URL. |
+| `GlobalSettings__AlertCenter_ApiKey` | Empty | Dedicated CorpHome application key with **create incident** permission. Stored as a secret when configured in the UI. |
+| `GlobalSettings__AlertCenter_PublicBaseUrl` | `https://www.aiursoft.com` | CorpHome HTTP(S) base URL for authorized contact-list links. |
+
+SQLite and MySQL migrations add nullable report ID and delivery timestamp columns; they are applied at application startup. Failed deliveries remain pending across restarts and are retried by the next job. The same report ID is reused after timeouts or local receipt-save failures, so AlertCenter's application-scoped idempotency prevents duplicate incidents. Keep the same AlertCenter application and its incident history when rotating API keys. The job processes submissions sequentially in pages of 100 and continues with other contacts after an individual failure; failures are visible on the Jobs page and in logs.
+
+Incidents contain only the contact ID, submission time and a link to `/Contacts#contact-{id}`; names, email addresses and inquiry text stay in CorpHome. Responders need CorpHome contact-view permission. Contact follow-up, acknowledgement and resolution remain manual; successful notification does not automatically mitigate the inquiry.
+
+Before enabling production delivery, create the CorpHome application/key in AlertCenter, configure the sev2 notification route and responder access, and supply `CORPHOME_ALERTCENTER_API_KEY` to the Box deployment. Deploy CorpHome before applying the Box configuration. Verify a valid test submission produces exactly one incident and reaches the intended channel; invalid submissions must not produce incidents. Do not use a production endpoint or key for automated tests.
+
 ## How to contribute
 
 There are many ways to contribute to the project: logging bugs, submitting pull requests, reporting issues, and creating suggestions.

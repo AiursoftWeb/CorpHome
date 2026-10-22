@@ -4,6 +4,11 @@ namespace Aiursoft.CorpHome.Configuration;
 
 public class SettingsMap
 {
+    public const string AlertCenterEnabled = "AlertCenter_Enabled";
+    public const string AlertCenterEndpoint = "AlertCenter_Endpoint";
+    public const string AlertCenterApiKey = "AlertCenter_ApiKey";
+    public const string AlertCenterPublicBaseUrl = "AlertCenter_PublicBaseUrl";
+
     public const string ProjectName = "ProjectName";
     public const string BrandName = "BrandName";
     public const string BrandHomeUrl = "BrandHomeUrl";
@@ -29,6 +34,38 @@ public class SettingsMap
 
     public static readonly List<GlobalSettingDefinition> Definitions = new()
     {
+        new GlobalSettingDefinition
+        {
+            Key = AlertCenterEnabled,
+            Name = Localizer["Enable AlertCenter integration"],
+            Description = Localizer["Send new contact submissions to AlertCenter as sev2 incidents. Disabling pauses delivery; pending submissions are retained."],
+            Type = SettingType.Bool,
+            DefaultValue = "False"
+        },
+        new GlobalSettingDefinition
+        {
+            Key = AlertCenterEndpoint,
+            Name = Localizer["AlertCenter endpoint"],
+            Description = Localizer["The HTTP(S) base URL of AlertCenter."],
+            Type = SettingType.Text,
+            DefaultValue = "https://alertcenter.aiursoft.com"
+        },
+        new GlobalSettingDefinition
+        {
+            Key = AlertCenterApiKey,
+            Name = Localizer["AlertCenter application API key"],
+            Description = Localizer["A dedicated CorpHome application key with create incident permission."],
+            Type = SettingType.Secret,
+            DefaultValue = ""
+        },
+        new GlobalSettingDefinition
+        {
+            Key = AlertCenterPublicBaseUrl,
+            Name = Localizer["CorpHome public URL"],
+            Description = Localizer["The public HTTP(S) base URL used for contact follow-up links."],
+            Type = SettingType.Text,
+            DefaultValue = "https://www.aiursoft.com"
+        },
         new GlobalSettingDefinition
         {
             Key = ProjectName,

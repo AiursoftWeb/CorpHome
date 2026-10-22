@@ -15,7 +15,7 @@ namespace Aiursoft.CorpHome.Sqlite.Migrations
         protected override void BuildModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
-            modelBuilder.HasAnnotation("ProductVersion", "10.0.3");
+            modelBuilder.HasAnnotation("ProductVersion", "10.0.13");
 
             modelBuilder.Entity("Aiursoft.CorpHome.Entities.Contact", b =>
                 {
@@ -28,6 +28,12 @@ namespace Aiursoft.CorpHome.Sqlite.Migrations
 
                     b.Property<bool>("AgreeToPrivacy")
                         .HasColumnType("INTEGER");
+
+                    b.Property<Guid?>("AlertCenterReportId")
+                        .HasColumnType("TEXT");
+
+                    b.Property<DateTime?>("AlertCenterReportedAtUtc")
+                        .HasColumnType("TEXT");
 
                     b.Property<string>("Company")
                         .IsRequired()
