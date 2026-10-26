@@ -1,5 +1,11 @@
 @using Aiursoft.WebTools
+@using Aiursoft.CorpHome.Authorization
+@using Microsoft.AspNetCore.Authorization
+@inject IAuthorizationService AuthorizationService
 @model Aiursoft.CorpHome.Models.ContactsViewModels.IndexViewModel
+@{
+    var canReply = (await AuthorizationService.AuthorizeAsync(User, AppPermissionNames.CanReplyContacts)).Succeeded;
+}
 
 <div class="row mb-2 mb-xl-3">
     <div class="col-auto d-none d-sm-block">
@@ -24,6 +30,10 @@
                 <th>@Localizer["Consume Open Source"]</th>
                 <th>@Localizer["Services Provided"]</th>
                 <th>@Localizer["Date"]</th>
+                @if (canReply)
+                {
+                    <th>@Localizer["Reply"]</th>
+                }
             </tr>
             </thead>
             <tbody>
@@ -38,6 +48,10 @@
                     <td>@item.ConsumeOpenSource</td>
                     <td>@item.ServicesProvided</td>
                     <td><span data-utc-time="@item.CreateTime.ToHtmlDateTime()"></span></td>
+                    @if (canReply)
+                    {
+                        <td><a asp-action="Reply" asp-route-id="@item.Id">@Localizer["Reply / Status"]</a></td>
+                    }
                 </tr>
             }
             </tbody>

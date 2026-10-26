@@ -77,14 +77,34 @@ Configure the following global settings in the administration UI or override the
 |---|---|---|
 | `GlobalSettings__AlertCenter_Enabled` | `False` | Enable delivery. Disabling pauses delivery but retains new submissions for later delivery. |
 | `GlobalSettings__AlertCenter_Endpoint` | `https://alertcenter.aiursoft.com` | AlertCenter HTTP(S) base URL. |
-| `GlobalSettings__AlertCenter_ApiKey` | Empty | Dedicated CorpHome application key with **create incident** permission. Stored as a secret when configured in the UI. |
+| `GlobalSettings__AlertCenter_ApiKey` | Empty | Dedicated CorpHome application key with **query, create and resolve incident** permissions. Stored as a secret when configured in the UI. |
 | `GlobalSettings__AlertCenter_PublicBaseUrl` | `https://www.aiursoft.com` | CorpHome HTTP(S) base URL for authorized contact-list links. |
 
 SQLite and MySQL migrations add nullable report ID and delivery timestamp columns; they are applied at application startup. Failed deliveries remain pending across restarts and are retried by the next job. The same report ID is reused after timeouts or local receipt-save failures, so AlertCenter's application-scoped idempotency prevents duplicate incidents. Keep the same AlertCenter application and its incident history when rotating API keys. The job processes submissions sequentially in pages of 100 and continues with other contacts after an individual failure; failures are visible on the Jobs page and in logs.
 
-Incidents contain only the contact ID, submission time and a link to `/Contacts#contact-{id}`; names, email addresses and inquiry text stay in CorpHome. Responders need CorpHome contact-view permission. Contact follow-up, acknowledgement and resolution remain manual; successful notification does not automatically mitigate the inquiry.
+Incidents contain only the contact ID, submission time and a link to `/Contacts/Reply/{id}`; names, email addresses and inquiry text stay in CorpHome. Responders need CorpHome contact-view permission. Successful alert delivery does not close the inquiry; the reply workflow below closes its first-response task only after SMTP acceptance.
 
 Before enabling production delivery, create the CorpHome application/key in AlertCenter, configure the sev2 notification route and responder access, and supply `CORPHOME_ALERTCENTER_API_KEY` to the Box deployment. Deploy CorpHome before applying the Box configuration. Verify a valid test submission produces exactly one incident and reaches the intended channel; invalid submissions must not produce incidents. Do not use a production endpoint or key for automated tests.
+
+## Replying to contact inquiries
+
+The contact list and incident link open a CorpHome reply page. Users need both `CanViewContacts` and `CanReplyContacts`; existing installations must explicitly grant the new reply permission to the responder role and refresh the user's login. This does not grant or change AlertCenter permissions.
+
+Configure the `ContactEmail` section through deployment configuration, not source-controlled secrets:
+
+- `ContactEmail__Host`, `ContactEmail__Port` (default 587), `ContactEmail__From` and `ContactEmail__RequireTls` (default true).
+- `ContactEmail__UserName` and `ContactEmail__Password`, both supplied or both empty.
+- `ContactEmail__EngineerAddresses__<CorpHomeUserId>`: an administrator-approved company email address for each responder. This becomes the outgoing email's Reply-To. The SMTP-authorized From address remains the configured company address. Mutable user-profile email fields are never trusted for Reply-To. Missing configuration blocks queueing.
+
+The recipient is fixed to the saved contact; attachments, CC and arbitrary recipient entry are not supported. The subject and plain-text body are stored with the actor, recipient and sender snapshot. A database unique constraint allows one initial response per contact, preventing concurrent engineers or repeated clicks from enqueueing duplicates.
+
+A minute-based job atomically claims pending replies, sends via SMTP, and records successful acceptance before attempting AlertCenter resolution. The application key now needs **query, create and resolve** permissions. Matching uses the original report ID and source, not just the customer's email address. Resolution failures are retried without resending email. A contact predating the alert integration has no alert to close.
+
+SMTP acceptance does not prove customer delivery or resolution of the customer's underlying inquiry. The automatically closed alert represents the initial response task. Customer follow-up goes directly to the engineer's configured Reply-To mailbox; this feature does not ingest inbound mail.
+
+Timeouts and interrupted sends may already have delivered mail. They are shown as `unknown` or left as `sending`; they are never automatically resent or automatically closed. Inspect the SMTP logs and handle the incident manually if needed. If SMTP succeeded but saving the success receipt failed, the same conservative rule applies. No force-resend button is provided. Retain the database audit record; its delivery states must not be reset casually.
+
+SQLite/MySQL migrations add the reply table and constraints. Deploy them before using this page, provide SMTP credentials securely, grant responder permissions and approved Reply-To mappings, then test with a controlled recipient. A missing or invalid SMTP configuration must not affect public form submission or existing alert reporting.
 
 ## How to contribute
 

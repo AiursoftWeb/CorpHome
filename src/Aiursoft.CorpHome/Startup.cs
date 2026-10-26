@@ -21,6 +21,7 @@ using Aiursoft.Canon.ScheduledTasks;
 using Edi.Captcha;
 using Aiursoft.AiurProtocol;
 using Aiursoft.CorpHome.Services.ContactAlerts;
+using Aiursoft.CorpHome.Services.ContactReplies;
 
 namespace Aiursoft.CorpHome;
 
@@ -31,6 +32,7 @@ public class Startup : IWebStartup
     {
         // AppSettings.
         services.Configure<AppSettings>(configuration.GetSection("AppSettings"));
+        services.Configure<ContactEmailSettings>(configuration.GetSection("ContactEmail"));
 
         // Relational database
         var (connectionString, dbType, allowCache) = configuration.GetDbSettings();
@@ -58,6 +60,9 @@ public class Startup : IWebStartup
         services.AddAiurProtocolClient();
         services.AddScoped<AlertCenterSettingsProvider>();
         services.AddScoped<IContactIncidentClient, ContactIncidentClient>();
+        services.AddScoped<ContactReplyService>();
+        services.AddScoped<IContactEmailSender, ContactEmailSender>();
+        services.AddScoped<IContactIncidentResolver, ContactIncidentResolver>();
         services.AddAssemblyDependencies(typeof(Startup).Assembly);
         services.AddSingleton<NavigationState<Startup>>();
 
@@ -72,6 +77,9 @@ public class Startup : IWebStartup
         services.RegisterScheduledTask(registration: orphanAvatarCleanupJob, period: TimeSpan.FromHours(6), startDelay: TimeSpan.FromMinutes(5));
         var contactIncidentSyncJob = services.RegisterBackgroundJob<Services.BackgroundJobs.ContactIncidentSyncJob>();
         services.RegisterScheduledTask(registration: contactIncidentSyncJob, period: TimeSpan.FromMinutes(1), startDelay: TimeSpan.FromMinutes(1));
+
+        var replyJob = services.RegisterBackgroundJob<Services.BackgroundJobs.ContactReplyDeliveryJob>();
+        services.RegisterScheduledTask(registration: replyJob, period: TimeSpan.FromMinutes(1), startDelay: TimeSpan.FromMinutes(1));
 
         // Controllers and localization
         services.AddControllersWithViews()

@@ -54,7 +54,7 @@ public class SettingsMap
         {
             Key = AlertCenterApiKey,
             Name = Localizer["AlertCenter application API key"],
-            Description = Localizer["A dedicated CorpHome application key with create incident permission."],
+            Description = Localizer["A dedicated CorpHome application key with query, create and resolve incident permissions."],
             Type = SettingType.Secret,
             DefaultValue = ""
         },

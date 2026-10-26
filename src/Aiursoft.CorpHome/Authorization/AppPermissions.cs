@@ -69,7 +69,10 @@ public class AppPermissions
                 localizer["Allows viewing and modifying global application settings."]),
             new(AppPermissionNames.CanViewContacts,
                 localizer["View Contacts"],
-                localizer["Allows viewing submitted contact forms."])
+                localizer["Allows viewing submitted contact forms."]),
+            new(AppPermissionNames.CanReplyContacts,
+                localizer["Reply to Contacts"],
+                localizer["Allows sending a first reply to submitted contact forms and resolving their alerts after sending."])
         ];
         return allPermission;
     }

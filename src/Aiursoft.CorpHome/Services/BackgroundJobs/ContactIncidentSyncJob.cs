@@ -47,8 +47,8 @@ public sealed class ContactIncidentSyncJob(TemplateDbContext db, AlertCenterSett
                         Content = $"A new contact form was saved on the company website.\n\n" +
                             $"Contact ID: {contact.Id}\nSubmitted at (UTC): {occurredAt:O}\n\n" +
                             "Next steps: Open the authorized contact list, review the inquiry and follow up. " +
-                            "Contact details remain in CorpHome. Acknowledgement and resolution are manual.\n\n" +
-                            $"Contacts: {settings.PublicBaseUrl.TrimEnd('/')}/Contacts#contact-{contact.Id}",
+                            "Contact details remain in CorpHome. Sending the first reply through CorpHome closes this first-response task after SMTP acceptance.\n\n" +
+                            $"Reply and close: {settings.PublicBaseUrl.TrimEnd('/')}/Contacts/Reply/{contact.Id}",
                         Metadata = new JObject { ["source"] = "CorpHome.ContactSubmission", ["contactId"] = contact.Id.ToString(System.Globalization.CultureInfo.InvariantCulture) }
                     });
                     if (response.Code != Code.JobDone || response.ReportId != contact.AlertCenterReportId || response.IncidentId == Guid.Empty)

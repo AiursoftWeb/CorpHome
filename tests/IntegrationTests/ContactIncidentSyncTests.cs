@@ -108,7 +108,7 @@ public class ContactIncidentSyncTests : TestBase
         Assert.AreEqual("sev2", request.Level);
         Assert.AreEqual(new DateTimeOffset(pending[^1].CreateTime), request.OccurredAtUtc);
         Assert.IsNotNull(request.Content);
-        Assert.Contains($"{PublicBaseUrl}/Contacts#contact-{pending[^1].Id}", request.Content);
+        Assert.Contains($"{PublicBaseUrl}/Contacts/Reply/{pending[^1].Id}", request.Content);
         var payload = JsonConvert.SerializeObject(request);
         foreach (var privateValue in new[] { pending[^1].Email, pending[^1].FirstName, pending[^1].LastName,
                      pending[^1].Company, pending[^1].JobTitle, pending[^1].ServicesProvided })

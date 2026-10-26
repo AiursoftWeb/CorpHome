@@ -1,0 +1,108 @@
+@using Aiursoft.WebTools
+@model Aiursoft.CorpHome.Models.ContactsViewModels.ReplyViewModel
+
+<h1 class="h3 mb-3">@Localizer["Reply to Contact"]</h1>
+<a asp-action="Index" asp-fragment="contact-@Model.Contact.Id">@Localizer["Back to Contacts"]</a>
+
+<div class="card mt-3">
+    <div class="card-header"><h5 class="card-title">@Localizer["Customer details"]</h5></div>
+    <div class="card-body">
+        <dl class="row mb-0">
+            <dt class="col-sm-3">@Localizer["Name"]</dt>
+            <dd class="col-sm-9">@Model.Contact.FirstName @Model.Contact.LastName</dd>
+            <dt class="col-sm-3">@Localizer["Company"]</dt>
+            <dd class="col-sm-9">@Model.Contact.Company</dd>
+            <dt class="col-sm-3">@Localizer["Job Title"]</dt>
+            <dd class="col-sm-9">@Model.Contact.JobTitle</dd>
+            <dt class="col-sm-3">@Localizer["Recipient"]</dt>
+            <dd class="col-sm-9">@Model.Contact.Email</dd>
+            <dt class="col-sm-3">@Localizer["Organization size"]</dt>
+            <dd class="col-sm-9">@Model.Contact.OrganizationSize</dd>
+            <dt class="col-sm-3">@Localizer["Consume open source"]</dt>
+            <dd class="col-sm-9">@Model.Contact.ConsumeOpenSource</dd>
+            <dt class="col-sm-3">@Localizer["Services provided"]</dt>
+            <dd class="col-sm-9">@Model.Contact.ServicesProvided</dd>
+            <dt class="col-sm-3">@Localizer["Submitted"]</dt>
+            <dd class="col-sm-9"><span data-utc-time="@Model.Contact.CreateTime.ToHtmlDateTime()"></span></dd>
+        </dl>
+    </div>
+</div>
+
+<div asp-validation-summary="All" class="text-danger"></div>
+<div class="alert alert-info">
+    @Localizer["Only one first reply is allowed. The recipient is fixed to the customer's submitted email. Replies are plain text; attachments and additional recipients are not supported."]
+    @Localizer["The alert is resolved only after the mail server accepts the reply. A sent status means server acceptance, not guaranteed delivery to the customer."]
+</div>
+
+@if (Model.Replies.Count == 0)
+{
+    <div class="card">
+        <div class="card-header"><h5 class="card-title">@Localizer["Compose first reply"]</h5></div>
+        <div class="card-body">
+            <form asp-action="Reply" asp-route-id="@Model.Contact.Id" method="post">
+                <div class="mb-3">
+                    <label asp-for="Subject" class="form-label"></label>
+                    <input asp-for="Subject" class="form-control" maxlength="200" required />
+                    <span asp-validation-for="Subject" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="Body" class="form-label"></label>
+                    <textarea asp-for="Body" class="form-control" rows="12" maxlength="10000" required></textarea>
+                    <span asp-validation-for="Body" class="text-danger"></span>
+                </div>
+                <button type="submit" class="btn btn-primary">@Localizer["Queue first reply"]</button>
+            </form>
+        </div>
+    </div>
+}
+else
+{
+    <div class="alert alert-warning">@Localizer["A reply already exists. Sending another reply or automatically resending is disabled. See its current status below."]</div>
+}
+
+<h2 class="h4 mt-4">@Localizer["Reply history"]</h2>
+@foreach (var reply in Model.Replies)
+{
+    <div class="card mb-3">
+        <div class="card-header"><h5 class="card-title">@reply.Subject</h5></div>
+        <div class="card-body">
+            <dl class="row">
+                <dt class="col-sm-3">@Localizer["Status"]</dt>
+                <dd class="col-sm-9">@reply.Status</dd>
+                <dt class="col-sm-3">@Localizer["Recipient"]</dt>
+                <dd class="col-sm-9">@reply.Recipient</dd>
+                <dt class="col-sm-3">@Localizer["Sent by user"]</dt>
+                <dd class="col-sm-9">@reply.AuthorId</dd>
+                <dt class="col-sm-3">@Localizer["From"]</dt>
+                <dd class="col-sm-9">@reply.Sender</dd>
+                <dt class="col-sm-3">@Localizer["Reply-To"]</dt>
+                <dd class="col-sm-9">@reply.ReplyTo</dd>
+                <dt class="col-sm-3">@Localizer["Created"]</dt>
+                <dd class="col-sm-9"><span data-utc-time="@reply.CreatedAtUtc.ToHtmlDateTime()"></span></dd>
+                @if (reply.SentAtUtc.HasValue)
+                {
+                    <dt class="col-sm-3">@Localizer["Accepted by mail server"]</dt>
+                    <dd class="col-sm-9"><span data-utc-time="@reply.SentAtUtc.Value.ToHtmlDateTime()"></span></dd>
+                }
+                @if (reply.IncidentResolvedAtUtc.HasValue)
+                {
+                    <dt class="col-sm-3">@Localizer["Alert resolved"]</dt>
+                    <dd class="col-sm-9"><span data-utc-time="@reply.IncidentResolvedAtUtc.Value.ToHtmlDateTime()"></span></dd>
+                }
+            </dl>
+            @if (reply.Status == "sent" && !reply.IncidentResolvedAtUtc.HasValue)
+            {
+                <div class="alert alert-info">@Localizer["Email was accepted. Alert closure is pending and will be retried without sending the email again."]</div>
+            }
+            @if (reply.Status == "unknown" || reply.Status == "sending")
+            {
+                <div class="alert alert-warning">@Localizer["Delivery outcome is unknown. Check the SMTP delivery logs before taking any manual action. Do not automatically resend this reply."]</div>
+            }
+            @if (!string.IsNullOrWhiteSpace(reply.Error))
+            {
+                <div class="alert alert-warning">@reply.Error</div>
+            }
+            <pre class="mb-0 text-wrap" style="white-space: pre-wrap; overflow-wrap: anywhere;">@reply.Body</pre>
+        </div>
+    </div>
+}

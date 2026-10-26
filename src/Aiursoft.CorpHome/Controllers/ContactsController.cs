@@ -1,7 +1,9 @@
+using System.Security.Claims;
 using Aiursoft.CorpHome.Authorization;
 using Aiursoft.CorpHome.Entities;
 using Aiursoft.CorpHome.Models.ContactsViewModels;
 using Aiursoft.CorpHome.Services;
+using Aiursoft.CorpHome.Services.ContactReplies;
 using Aiursoft.UiStack.Navigation;
 using Aiursoft.WebTools.Attributes;
 using Microsoft.AspNetCore.Authorization;
@@ -12,7 +14,7 @@ namespace Aiursoft.CorpHome.Controllers;
 
 [Authorize]
 [LimitPerMin]
-public class ContactsController(TemplateDbContext dbContext) : Controller
+public class ContactsController(TemplateDbContext dbContext, ContactReplyService contactReplyService) : Controller
 {
     [Authorize(Policy = AppPermissionNames.CanViewContacts)]
     [RenderInNavBar(
@@ -48,6 +50,75 @@ public class ContactsController(TemplateDbContext dbContext) : Controller
             })
         };
 
+        return this.StackView(model);
+    }
+
+    [HttpGet]
+    [Authorize(Policy = AppPermissionNames.CanViewContacts)]
+    [Authorize(Policy = AppPermissionNames.CanReplyContacts)]
+    public async Task<IActionResult> Reply(int id)
+    {
+        var contact = await dbContext.Contacts.AsNoTracking().SingleOrDefaultAsync(c => c.Id == id);
+        if (contact == null)
+        {
+            return NotFound();
+        }
+
+        var model = new ReplyViewModel
+        {
+            Contact = contact,
+            Replies = await dbContext.ContactReplies.AsNoTracking()
+                .Where(r => r.ContactId == id)
+                .OrderByDescending(r => r.CreatedAtUtc)
+                .ToListAsync()
+        };
+        return this.StackView(model);
+    }
+
+    [HttpPost]
+    [ValidateAntiForgeryToken]
+    [Authorize(Policy = AppPermissionNames.CanViewContacts)]
+    [Authorize(Policy = AppPermissionNames.CanReplyContacts)]
+    public async Task<IActionResult> Reply(int id, ReplyViewModel model)
+    {
+        var contact = await dbContext.Contacts.AsNoTracking().SingleOrDefaultAsync(c => c.Id == id);
+        if (contact == null)
+        {
+            return NotFound();
+        }
+
+        model.Contact = contact;
+        model.Replies = await dbContext.ContactReplies.AsNoTracking()
+            .Where(r => r.ContactId == id)
+            .OrderByDescending(r => r.CreatedAtUtc)
+            .ToListAsync();
+        if (model.Replies.Count != 0)
+        {
+            ModelState.AddModelError(string.Empty, "A reply already exists for this contact. Additional replies and automatic retries are not allowed.");
+        }
+
+        if (!ModelState.IsValid)
+        {
+            return this.StackView(model);
+        }
+
+        var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+        if (string.IsNullOrWhiteSpace(userId))
+        {
+            return Forbid();
+        }
+
+        var error = await contactReplyService.QueueAsync(id, userId, model.Subject, model.Body);
+        if (error == null)
+        {
+            return RedirectToAction(nameof(Reply), new { id });
+        }
+
+        ModelState.AddModelError(string.Empty, error);
+        model.Replies = await dbContext.ContactReplies.AsNoTracking()
+            .Where(r => r.ContactId == id)
+            .OrderByDescending(r => r.CreatedAtUtc)
+            .ToListAsync();
         return this.StackView(model);
     }
 }
