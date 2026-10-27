@@ -29,7 +29,7 @@ public sealed class ContactIncidentSyncJob(TemplateDbContext db, AlertCenterSett
         {
             var afterId = lastId;
             var contacts = await db.Contacts.Where(contact => contact.Id > afterId && contact.Id <= upperBound &&
-                    contact.AlertCenterReportId != null && contact.AlertCenterReportedAtUtc == null)
+                    contact.AlertCenterReportId != null && (contact.AlertCenterReportedAtUtc == null || contact.AlertCenterIncidentId == null))
                 .OrderBy(contact => contact.Id).Take(100).ToListAsync();
             if (contacts.Count == 0) break;
             foreach (var contact in contacts)
@@ -55,7 +55,8 @@ public sealed class ContactIncidentSyncJob(TemplateDbContext db, AlertCenterSett
                         throw new InvalidOperationException("AlertCenter did not return a valid contact receipt.");
 
                     // 远端成功但本地保存失败时，下轮仍使用同一个 ReportId，由服务端幂等去重。
-                    contact.AlertCenterReportedAtUtc = DateTime.UtcNow;
+                    contact.AlertCenterReportedAtUtc ??= DateTime.UtcNow;
+                    contact.AlertCenterIncidentId = response.IncidentId;
                     await db.SaveChangesAsync();
                 }
                 catch (Exception exception)

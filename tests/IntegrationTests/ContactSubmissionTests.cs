@@ -135,6 +135,8 @@ public class ContactSubmissionTests : TestBase
 
     private sealed class UnexpectedIncidentClient : IContactIncidentClient
     {
+        public Task MitigateAsync(Guid incidentId) => throw new InvalidOperationException("Unexpected mitigation.");
+
         public int Calls { get; private set; }
 
         public Task<CreateIncidentResponse> CreateAsync(CreateIncidentRequest request)

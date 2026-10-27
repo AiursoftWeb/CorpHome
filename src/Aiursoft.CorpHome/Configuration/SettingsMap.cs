@@ -8,6 +8,14 @@ public class SettingsMap
     public const string AlertCenterEndpoint = "AlertCenter_Endpoint";
     public const string AlertCenterApiKey = "AlertCenter_ApiKey";
     public const string AlertCenterPublicBaseUrl = "AlertCenter_PublicBaseUrl";
+    public const string ContactMailEnabled = "ContactMail_Enabled";
+    public const string ContactMailHost = "ContactMail_Host";
+    public const string ContactMailPort = "ContactMail_Port";
+    public const string ContactMailUsername = "ContactMail_Username";
+    public const string ContactMailPassword = "ContactMail_Password";
+    public const string ContactMailFolder = "ContactMail_Folder";
+    public const string ContactMailStaffSenders = "ContactMail_StaffSenders";
+    public const string ContactMailFollowUpDays = "ContactMail_FollowUpDays";
 
     public const string ProjectName = "ProjectName";
     public const string BrandName = "BrandName";
@@ -36,6 +44,70 @@ public class SettingsMap
     {
         new GlobalSettingDefinition
         {
+            Key = ContactMailEnabled,
+            Name = Localizer["Automatically mitigate contacts after email follow-up"],
+            Description = Localizer["Read a dedicated IMAPS mailbox receiving staff follow-up copies. The mail server must restrict delivery to authenticated internal staff. Requires AlertCenter integration."],
+            Type = SettingType.Bool,
+            DefaultValue = "False"
+        },
+        new GlobalSettingDefinition
+        {
+            Key = ContactMailHost,
+            Name = Localizer["Contact follow-up IMAP host"],
+            Description = Localizer["IMAP hostname. Implicit TLS and valid server certificates are required."],
+            Type = SettingType.Text,
+            DefaultValue = ""
+        },
+        new GlobalSettingDefinition
+        {
+            Key = ContactMailPort,
+            Name = Localizer["Contact follow-up IMAP port"],
+            Description = Localizer["Implicit TLS port, normally 993."],
+            Type = SettingType.Number,
+            DefaultValue = "993"
+        },
+        new GlobalSettingDefinition
+        {
+            Key = ContactMailUsername,
+            Name = Localizer["Contact follow-up mailbox username"],
+            Description = Localizer["Dedicated mailbox included in your staff CC group, or explicitly copied on customer replies."],
+            Type = SettingType.Text,
+            DefaultValue = ""
+        },
+        new GlobalSettingDefinition
+        {
+            Key = ContactMailPassword,
+            Name = Localizer["Contact follow-up mailbox password"],
+            Description = Localizer["Mailbox password or application password. No mail server administrator credentials are needed."],
+            Type = SettingType.Secret,
+            DefaultValue = ""
+        },
+        new GlobalSettingDefinition
+        {
+            Key = ContactMailFolder,
+            Name = Localizer["Contact follow-up mailbox folder"],
+            Description = Localizer["IMAP folder to inspect. Messages are never marked as read, moved or deleted."],
+            Type = SettingType.Text,
+            DefaultValue = "INBOX"
+        },
+        new GlobalSettingDefinition
+        {
+            Key = ContactMailStaffSenders,
+            Name = Localizer["Allowed contact follow-up senders"],
+            Description = Localizer["Comma-separated staff email addresses or @domains. This filter does not authenticate senders; restrict mailbox delivery on the mail server."],
+            Type = SettingType.Text,
+            DefaultValue = ""
+        },
+        new GlobalSettingDefinition
+        {
+            Key = ContactMailFollowUpDays,
+            Name = Localizer["Contact follow-up window in days"],
+            Description = Localizer["A staff email mitigates all matching earlier submissions within this window (1–30 days). Later submissions require a new follow-up."],
+            Type = SettingType.Number,
+            DefaultValue = "7"
+        },
+        new GlobalSettingDefinition
+        {
             Key = AlertCenterEnabled,
             Name = Localizer["Enable AlertCenter integration"],
             Description = Localizer["Send new contact submissions to AlertCenter as sev2 incidents. Disabling pauses delivery; pending submissions are retained."],
@@ -54,7 +126,7 @@ public class SettingsMap
         {
             Key = AlertCenterApiKey,
             Name = Localizer["AlertCenter application API key"],
-            Description = Localizer["A dedicated CorpHome application key with create incident permission."],
+            Description = Localizer["A dedicated CorpHome application key with create incident permission; email follow-up also requires query and mitigate permissions."],
             Type = SettingType.Secret,
             DefaultValue = ""
         },

@@ -29,4 +29,12 @@ public class Contact
     public Guid? AlertCenterReportId { get; set; }
 
     public DateTime? AlertCenterReportedAtUtc { get; set; }
+
+    public Guid? AlertCenterIncidentId { get; set; }
+
+    public DateTime? FollowUpReceivedAtUtc { get; set; }
+
+    public string? FollowUpMessageId { get; set; }
+
+    public DateTime? AlertCenterMitigatedAtUtc { get; set; }
 }

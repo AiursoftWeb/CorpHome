@@ -58,6 +58,8 @@ public class Startup : IWebStartup
         services.AddAiurProtocolClient();
         services.AddScoped<AlertCenterSettingsProvider>();
         services.AddScoped<IContactIncidentClient, ContactIncidentClient>();
+        services.AddScoped<ContactMailSettingsProvider>();
+        services.AddScoped<IContactMailbox, ImapContactMailbox>();
         services.AddAssemblyDependencies(typeof(Startup).Assembly);
         services.AddSingleton<NavigationState<Startup>>();
 
@@ -72,6 +74,8 @@ public class Startup : IWebStartup
         services.RegisterScheduledTask(registration: orphanAvatarCleanupJob, period: TimeSpan.FromHours(6), startDelay: TimeSpan.FromMinutes(5));
         var contactIncidentSyncJob = services.RegisterBackgroundJob<Services.BackgroundJobs.ContactIncidentSyncJob>();
         services.RegisterScheduledTask(registration: contactIncidentSyncJob, period: TimeSpan.FromMinutes(1), startDelay: TimeSpan.FromMinutes(1));
+        var contactFollowUpJob = services.RegisterBackgroundJob<Services.BackgroundJobs.ContactFollowUpJob>();
+        services.RegisterScheduledTask(registration: contactFollowUpJob, period: TimeSpan.FromMinutes(1), startDelay: TimeSpan.FromMinutes(1));
 
         // Controllers and localization
         services.AddControllersWithViews()

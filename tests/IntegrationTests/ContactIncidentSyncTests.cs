@@ -1,5 +1,6 @@
 using System.Net;
 using Aiursoft.AiurProtocol.Models;
+using Aiursoft.AiurProtocol.Exceptions;
 using Aiursoft.AlertCenter.SDK.Models;
 using Aiursoft.CorpHome.Configuration;
 using Aiursoft.CorpHome.Entities;
@@ -89,6 +90,7 @@ public class ContactIncidentSyncTests : TestBase
         var legacy = new Contact { Email = "legacy@example.invalid" };
         var reported = PendingContact();
         reported.AlertCenterReportedAtUtc = DateTime.UtcNow.AddDays(-1);
+        reported.AlertCenterIncidentId = Guid.NewGuid();
         var pending = Enumerable.Range(0, 103).Select(_ => PendingContact()).ToArray();
         await AddContactsAsync([legacy, reported, .. pending]);
         var client = new RecordingClient(request => request.ReportId == pending[0].AlertCenterReportId
@@ -210,7 +212,14 @@ public class ContactIncidentSyncTests : TestBase
     }
 
     [TestMethod]
-    public async Task RegisteredSdkClientDeliversToLocalHttpServerWithAuthenticationAndReceipt()
+    [DataRow("new")]
+    [DataRow("mitigated")]
+    [DataRow("resolved")]
+    [DataRow("race")]
+    [DataRow("conflict")]
+    [DataRow("bad-receipt")]
+    [DataRow("wrong-incident")]
+    public async Task RegisteredSdkClientDeliversToLocalHttpServerWithAuthenticationAndReceipt(string state)
     {
         using var reservation = new TestPortReservation();
         var builder = WebApplication.CreateSlimBuilder();
@@ -218,6 +227,9 @@ public class ContactIncidentSyncTests : TestBase
         await using var fakeServer = builder.Build();
         var requests = new List<CreateIncidentRequest>();
         var authorizationHeaders = new List<string>();
+        var incidentId = Guid.NewGuid();
+        var version = Guid.NewGuid();
+        var mitigationCalls = 0;
         fakeServer.MapGet("/health", () => Results.Ok());
         fakeServer.MapPost("/api/v1/incidents", async (HttpContext context) =>
         {
@@ -225,7 +237,37 @@ public class ContactIncidentSyncTests : TestBase
             var request = JsonConvert.DeserializeObject<CreateIncidentRequest>(await body.ReadToEndAsync())!;
             requests.Add(request);
             authorizationHeaders.Add(context.Request.Headers.Authorization.ToString());
-            return Results.Text(JsonConvert.SerializeObject(Success(request)), "application/json");
+            var receipt = Success(request);
+            receipt.IncidentId = incidentId;
+            return Results.Text(JsonConvert.SerializeObject(receipt), "application/json");
+        });
+        fakeServer.MapGet("/api/v1/incidents/{id:guid}", (Guid id) => Results.Text(JsonConvert.SerializeObject(new GetIncidentResponse
+        {
+            Code = Code.JobDone,
+            Message = "Local incident query result",
+            Incident = new IncidentDetails
+            {
+                IncidentId = state == "wrong-incident" ? Guid.NewGuid() : id,
+                Version = version,
+                Status = state is "mitigated" or "resolved" ? state : "new"
+            }
+        }), "application/json"));
+        fakeServer.MapPost("/api/v1/incidents/{id:guid}/mitigate", async (Guid id, HttpContext context) =>
+        {
+            Assert.AreEqual(incidentId, id);
+            Assert.AreEqual($"Bearer {TestApiKey}", context.Request.Headers.Authorization.ToString());
+            using var body = new StreamReader(context.Request.Body);
+            var request = JsonConvert.DeserializeObject<MitigateIncidentRequest>(await body.ReadToEndAsync())!;
+            Assert.AreEqual(version, request.Version);
+            Assert.IsFalse(string.IsNullOrWhiteSpace(request.Reason));
+            mitigationCalls++;
+            return Results.Text(JsonConvert.SerializeObject(new MitigateIncidentResponse
+            {
+                Code = state == "conflict" ? Code.Conflict : state == "race" ? Code.NoActionTaken : Code.JobDone,
+                Message = "Local mitigation result",
+                IncidentId = id,
+                MitigatedAtUtc = state == "bad-receipt" ? null : DateTimeOffset.UtcNow
+            }), "application/json");
         });
         reservation.ConfigureServer(fakeServer);
         await fakeServer.StartAsync();
@@ -251,6 +293,23 @@ public class ContactIncidentSyncTests : TestBase
             Assert.AreEqual(contact.AlertCenterReportId, requests[0].ReportId);
             Assert.AreEqual($"Bearer {TestApiKey}", authorizationHeaders.Single());
             Assert.IsNotNull((await ReadContactAsync(contact.Id)).AlertCenterReportedAtUtc);
+            Assert.AreEqual(incidentId, (await ReadContactAsync(contact.Id)).AlertCenterIncidentId);
+            using var mitigationScope = Server.Services.CreateScope();
+            var sdk = mitigationScope.ServiceProvider.GetRequiredService<IContactIncidentClient>();
+            if (state == "conflict")
+            {
+                await Assert.ThrowsExactlyAsync<AiurUnexpectedServerResponseException>(() => sdk.MitigateAsync(incidentId));
+                state = "new";
+                version = Guid.NewGuid();
+                await sdk.MitigateAsync(incidentId);
+                Assert.AreEqual(2, mitigationCalls);
+            }
+            else if (state is "bad-receipt" or "wrong-incident")
+                await Assert.ThrowsExactlyAsync<InvalidOperationException>(() => sdk.MitigateAsync(incidentId));
+            else
+                await sdk.MitigateAsync(incidentId);
+            if (mitigationCalls < 2)
+                Assert.AreEqual(state is "mitigated" or "resolved" or "wrong-incident" ? 0 : 1, mitigationCalls);
         }
         finally
         {
@@ -279,7 +338,33 @@ public class ContactIncidentSyncTests : TestBase
         Assert.AreEqual("historical@example.invalid", historical.Email);
         Assert.IsNull(historical.AlertCenterReportId);
         Assert.IsNull(historical.AlertCenterReportedAtUtc);
+        Assert.IsNull(historical.AlertCenterIncidentId);
+        Assert.IsNull(historical.FollowUpMessageId);
+        Assert.IsNull(historical.FollowUpReceivedAtUtc);
+        Assert.IsNull(historical.AlertCenterMitigatedAtUtc);
+        Assert.AreEqual(0, await db.ContactMailboxCheckpoints.CountAsync());
         Assert.IsFalse(db.Database.HasPendingModelChanges());
+    }
+
+    [TestMethod]
+    public async Task PreviouslyReportedContactRecoversIncidentIdUsingOriginalReportId()
+    {
+        await ConfigureAsync();
+        var contact = PendingContact();
+        contact.AlertCenterReportedAtUtc = DateTime.UtcNow.AddDays(-1);
+        await AddContactsAsync(contact);
+        var incidentId = Guid.NewGuid();
+        var client = new RecordingClient(request => new CreateIncidentResponse
+        {
+            Code = Code.JobDone, Message = "Existing local incident", ReportId = request.ReportId, IncidentId = incidentId, Duplicate = true
+        });
+        await RunJobAsync(client);
+        await RunJobAsync(client);
+        Assert.AreEqual(1, client.Requests.Count);
+        Assert.AreEqual(contact.AlertCenterReportId, client.Requests[0].ReportId);
+        var saved = await ReadContactAsync(contact.Id);
+        Assert.AreEqual(incidentId, saved.AlertCenterIncidentId);
+        Assert.AreEqual(contact.AlertCenterReportedAtUtc, saved.AlertCenterReportedAtUtc);
     }
 
     private async Task ConfigureAsync(string endpoint = "http://localhost:1")
@@ -351,6 +436,8 @@ public class ContactIncidentSyncTests : TestBase
 
     private sealed class RecordingClient(Func<CreateIncidentRequest, CreateIncidentResponse> respond) : IContactIncidentClient
     {
+        public Task MitigateAsync(Guid incidentId) => throw new InvalidOperationException("Unexpected mitigation.");
+
         public List<CreateIncidentRequest> Requests { get; } = [];
         public Func<CreateIncidentRequest, CreateIncidentResponse> Respond { get; set; } = respond;
 
