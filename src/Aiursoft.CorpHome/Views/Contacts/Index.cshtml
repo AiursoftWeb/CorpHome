@@ -30,7 +30,7 @@
             @foreach (var item in Model.Contacts)
             {
                 <tr id="contact-@item.Id">
-                    <td>@item.FirstName @item.LastName</td>
+                    <td><a asp-action="Details" asp-route-id="@item.Id">@item.FirstName @item.LastName</a></td>
                     <td>@item.Company</td>
                     <td>@item.JobTitle</td>
                     <td><a href="mailto:@item.Email">@item.Email</a></td>

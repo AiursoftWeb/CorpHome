@@ -19,6 +19,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.Extensions.DependencyInjection.Extensions;
 using Microsoft.Extensions.Logging.Abstractions;
 using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
 using static Aiursoft.WebTools.Extends;
 
 namespace Aiursoft.CorpHome.Tests.IntegrationTests;
@@ -110,11 +111,13 @@ public class ContactIncidentSyncTests : TestBase
         Assert.AreEqual("sev2", request.Level);
         Assert.AreEqual(new DateTimeOffset(pending[^1].CreateTime), request.OccurredAtUtc);
         Assert.IsNotNull(request.Content);
-        Assert.Contains($"{PublicBaseUrl}/Contacts#contact-{pending[^1].Id}", request.Content);
+        Assert.Contains($"{PublicBaseUrl}/Contacts/Details/{pending[^1].Id}", request.Content);
         var payload = JsonConvert.SerializeObject(request);
         foreach (var privateValue in new[] { pending[^1].Email, pending[^1].FirstName, pending[^1].LastName,
                      pending[^1].Company, pending[^1].JobTitle, pending[^1].ServicesProvided })
-            Assert.DoesNotContain(privateValue, payload);
+            Assert.Contains(privateValue, payload);
+        Assert.AreEqual(pending[^1].Email, request.Context!["customer"]!["email"]!.Value<string>());
+        Assert.AreEqual(pending[^1].Id, request.Context["contactId"]!.Value<int>());
     }
 
     [TestMethod]
@@ -196,7 +199,8 @@ public class ContactIncidentSyncTests : TestBase
         using var scope = Server!.Services.CreateScope();
         var job = new ContactIncidentSyncJob(db,
             scope.ServiceProvider.GetRequiredService<AlertCenterSettingsProvider>(), client,
-            NullLogger<ContactIncidentSyncJob>.Instance);
+            NullLogger<ContactIncidentSyncJob>.Instance,
+            scope.ServiceProvider.GetRequiredService<ContactMailSettingsProvider>());
 
         await Assert.ThrowsExactlyAsync<InvalidOperationException>(() => job.ExecuteAsync());
 
@@ -397,7 +401,8 @@ public class ContactIncidentSyncTests : TestBase
         using var scope = Server!.Services.CreateScope();
         var job = new ContactIncidentSyncJob(scope.ServiceProvider.GetRequiredService<TemplateDbContext>(),
             scope.ServiceProvider.GetRequiredService<AlertCenterSettingsProvider>(), client,
-            NullLogger<ContactIncidentSyncJob>.Instance);
+            NullLogger<ContactIncidentSyncJob>.Instance,
+            scope.ServiceProvider.GetRequiredService<ContactMailSettingsProvider>());
         await job.ExecuteAsync();
     }
 
