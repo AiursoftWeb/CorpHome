@@ -37,7 +37,7 @@ public sealed class ContactIncidentSyncJob(TemplateDbContext db, AlertCenterSett
                 try
                 {
                     var response = await client.CreateAsync(ContactIncidentReport.Create(contact, settings, followUp));
-                    if (response.Code != Code.JobDone || response.ReportId != contact.AlertCenterReportId || response.IncidentId == Guid.Empty)
+                    if (response.Code is not (Code.JobDone or Code.NoActionTaken) || response.ReportId != contact.AlertCenterReportId || response.IncidentId == Guid.Empty)
                         throw new InvalidOperationException("AlertCenter did not return a valid contact receipt.");
 
                     // 远端成功但本地保存失败时，下轮仍使用同一个 ReportId，由服务端幂等去重。

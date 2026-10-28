@@ -133,7 +133,7 @@ public class ContactIncidentSyncTests : TestBase
                 throw new HttpRequestException("Remote commit succeeded but response was lost");
             return new CreateIncidentResponse
             {
-                Code = Code.JobDone,
+                Code = Code.NoActionTaken,
                 ReportId = request.ReportId,
                 IncidentId = remoteIncidents[request.ReportId],
                 Duplicate = true
@@ -149,6 +149,8 @@ public class ContactIncidentSyncTests : TestBase
         Assert.AreEqual(2, client.Requests.Count);
         Assert.IsTrue(client.Requests.All(request => request.ReportId == contact.AlertCenterReportId));
         Assert.IsNotNull((await ReadContactAsync(contact.Id)).AlertCenterReportedAtUtc);
+        Assert.AreEqual(remoteIncidents[contact.AlertCenterReportId!.Value],
+            (await ReadContactAsync(contact.Id)).AlertCenterIncidentId);
     }
 
     [TestMethod]
@@ -232,7 +234,7 @@ public class ContactIncidentSyncTests : TestBase
         var requests = new List<CreateIncidentRequest>();
         var authorizationHeaders = new List<string>();
         var incidentId = Guid.NewGuid();
-        var version = Guid.NewGuid();
+        var incidentState = new TestIncidentState { Status = state };
         var mitigationCalls = 0;
         fakeServer.MapGet("/health", () => Results.Ok());
         fakeServer.MapPost("/api/v1/incidents", async (HttpContext context) =>
@@ -251,9 +253,9 @@ public class ContactIncidentSyncTests : TestBase
             Message = "Local incident query result",
             Incident = new IncidentDetails
             {
-                IncidentId = state == "wrong-incident" ? Guid.NewGuid() : id,
-                Version = version,
-                Status = state is "mitigated" or "resolved" ? state : "new"
+                IncidentId = incidentState.Status == "wrong-incident" ? Guid.NewGuid() : id,
+                Version = incidentState.Version,
+                Status = incidentState.Status is "mitigated" or "resolved" ? incidentState.Status : "new"
             }
         }), "application/json"));
         fakeServer.MapPost("/api/v1/incidents/{id:guid}/mitigate", async (Guid id, HttpContext context) =>
@@ -262,15 +264,15 @@ public class ContactIncidentSyncTests : TestBase
             Assert.AreEqual($"Bearer {TestApiKey}", context.Request.Headers.Authorization.ToString());
             using var body = new StreamReader(context.Request.Body);
             var request = JsonConvert.DeserializeObject<MitigateIncidentRequest>(await body.ReadToEndAsync())!;
-            Assert.AreEqual(version, request.Version);
+            Assert.AreEqual(incidentState.Version, request.Version);
             Assert.IsFalse(string.IsNullOrWhiteSpace(request.Reason));
             mitigationCalls++;
             return Results.Text(JsonConvert.SerializeObject(new MitigateIncidentResponse
             {
-                Code = state == "conflict" ? Code.Conflict : state == "race" ? Code.NoActionTaken : Code.JobDone,
+                Code = incidentState.Status == "conflict" ? Code.Conflict : incidentState.Status == "race" ? Code.NoActionTaken : Code.JobDone,
                 Message = "Local mitigation result",
                 IncidentId = id,
-                MitigatedAtUtc = state == "bad-receipt" ? null : DateTimeOffset.UtcNow
+                MitigatedAtUtc = incidentState.Status == "bad-receipt" ? null : DateTimeOffset.UtcNow
             }), "application/json");
         });
         reservation.ConfigureServer(fakeServer);
@@ -303,8 +305,8 @@ public class ContactIncidentSyncTests : TestBase
             if (state == "conflict")
             {
                 await Assert.ThrowsExactlyAsync<AiurUnexpectedServerResponseException>(() => sdk.MitigateAsync(incidentId));
-                state = "new";
-                version = Guid.NewGuid();
+                incidentState.Status = "new";
+                incidentState.Version = Guid.NewGuid();
                 await sdk.MitigateAsync(incidentId);
                 Assert.AreEqual(2, mitigationCalls);
             }
@@ -437,6 +439,12 @@ public class ContactIncidentSyncTests : TestBase
             services.RemoveAll<DbContextOptions<InMemoryContext>>();
             services.AddDbContext<InMemoryContext>(options => options.UseInMemoryDatabase(databaseName));
         }
+    }
+
+    private sealed class TestIncidentState
+    {
+        public required string Status { get; set; }
+        public Guid Version { get; set; } = Guid.NewGuid();
     }
 
     private sealed class RecordingClient(Func<CreateIncidentRequest, CreateIncidentResponse> respond) : IContactIncidentClient

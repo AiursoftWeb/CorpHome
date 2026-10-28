@@ -34,7 +34,8 @@ public sealed class ContactFollowUpJob(TemplateDbContext db, ContactMailSettings
         var lastId = 0;
         while (true)
         {
-            var contacts = await db.Contacts.Where(contact => contact.Id > lastId && contact.FollowUpReceivedAtUtc != null &&
+            var afterId = lastId;
+            var contacts = await db.Contacts.Where(contact => contact.Id > afterId && contact.FollowUpReceivedAtUtc != null &&
                     contact.AlertCenterIncidentId != null && contact.AlertCenterMitigatedAtUtc == null)
                 .OrderBy(contact => contact.Id).Take(100).ToListAsync();
             if (contacts.Count == 0) break;

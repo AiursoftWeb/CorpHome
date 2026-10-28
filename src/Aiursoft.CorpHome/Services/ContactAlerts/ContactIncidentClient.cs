@@ -1,3 +1,4 @@
+using Aiursoft.AiurProtocol.Models;
 using Aiursoft.AiurProtocol.Services;
 using Aiursoft.AlertCenter.SDK;
 using Aiursoft.AlertCenter.SDK.Models;
@@ -33,7 +34,7 @@ public sealed class ContactIncidentClient(AiurProtocolClient http, AlertCenterSe
     {
         var client = await (_client ??= CreateClientAsync());
         var current = await client.GetIncidentAsync(incidentId);
-        if (current.Code != Aiursoft.AiurProtocol.Models.Code.JobDone || current.Incident.IncidentId != incidentId)
+        if (current.Code != Code.JobDone || current.Incident.IncidentId != incidentId)
             throw new InvalidOperationException("AlertCenter did not return the requested incident.");
         if (current.Incident.Status is "mitigated" or "resolved") return;
         var receipt = await client.MitigateIncidentAsync(incidentId, new MitigateIncidentRequest
@@ -41,7 +42,7 @@ public sealed class ContactIncidentClient(AiurProtocolClient http, AlertCenterSe
             Version = current.Incident.Version,
             Reason = "CorpHome detected a staff email follow-up to the customer in the configured mailbox."
         });
-        if (receipt.Code is not (Aiursoft.AiurProtocol.Models.Code.JobDone or Aiursoft.AiurProtocol.Models.Code.NoActionTaken) ||
+        if (receipt.Code is not (Code.JobDone or Code.NoActionTaken) ||
             receipt.IncidentId != incidentId || receipt.MitigatedAtUtc == null)
             throw new InvalidOperationException("AlertCenter did not return a valid mitigation receipt.");
     }

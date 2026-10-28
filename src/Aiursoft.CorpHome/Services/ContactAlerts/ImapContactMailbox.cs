@@ -23,7 +23,8 @@ public sealed class ImapContactMailbox : IContactMailbox
     public async IAsyncEnumerable<ContactMailboxPage> ReadAsync(ContactMailSettings settings,
         ContactMailboxCheckpoint checkpoint, DateTime sinceUtc)
     {
-        using var client = new ImapClient { Timeout = 30000 };
+        using var client = new ImapClient();
+        client.Timeout = 30000;
         using var timeout = new CancellationTokenSource(TimeSpan.FromMinutes(2));
         var token = timeout.Token;
         await client.ConnectAsync(settings.Host, settings.Port, SecureSocketOptions.SslOnConnect, token);
