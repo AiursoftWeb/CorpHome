@@ -13,8 +13,11 @@ public static class ContactIncidentReport
         var occurredAt = new DateTimeOffset(DateTime.SpecifyKind(contact.CreateTime, DateTimeKind.Utc));
         var url = $"{settings.PublicBaseUrl.TrimEnd('/')}/Contacts/Details/{contact.Id}";
         var name = string.Join(" ", new[] { contact.FirstName, contact.LastName }.Where(value => !string.IsNullOrWhiteSpace(value)));
-        var titleParts = new[] { contact.Company, name, contact.ServicesProvided }
-            .Where(value => !string.IsNullOrWhiteSpace(value)).Select(value => SingleLine(value, 60));
+        var titleName = SingleLine(name, 80);
+        var titleCompany = SingleLine(contact.Company, 80);
+        var title = "【CorpHome】New Consumer";
+        if (titleName.Length > 0) title += $" {titleName}";
+        if (titleCompany.Length > 0) title += $" From {titleCompany}";
         var instructions = followUp.Enabled
             ? $"Email the customer and CC your configured follow-up mailbox or staff group. Once a staff follow-up is detected, " +
               $"matching earlier inquiries within {followUp.FollowUpDays} days are automatically mitigated."
@@ -34,7 +37,7 @@ public static class ContactIncidentReport
         return new CreateIncidentRequest
         {
             ReportId = contact.AlertCenterReportId!.Value,
-            Title = Shorten($"[Website inquiry #{contact.Id}] {string.Join(" · ", titleParts)}".TrimEnd(), 200),
+            Title = title,
             Level = "sev2",
             OccurredAtUtc = occurredAt,
             Content = prefix + inquiry + footer,

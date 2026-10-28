@@ -20,7 +20,7 @@ public class ContactIncidentReportTests
             PublicBaseUrl = "https://example.invalid/company/", ApiKey = "do-not-include-api-key"
         }, new ContactMailSettings { Enabled = true, FollowUpDays = 7, Password = "do-not-include-mail-password" });
 
-        Assert.AreEqual("[Website inquiry #42] Example Company · Jane Doe · Deployment support", request.Title);
+        Assert.AreEqual("【CorpHome】New Consumer Jane Doe From Example Company", request.Title);
         Assert.IsNotNull(request.Content);
         Assert.Contains("Email: jane@example.invalid", request.Content);
         Assert.Contains("Organization size: 10–50", request.Content);
@@ -69,7 +69,7 @@ public class ContactIncidentReportTests
         contact.Company = contact.JobTitle = contact.FirstName = contact.LastName = string.Empty;
         var request = ContactIncidentReport.Create(contact, new AlertCenterSettings { PublicBaseUrl = "https://example.invalid" },
             new ContactMailSettings());
-        Assert.AreEqual("[Website inquiry #42] Deployment support", request.Title);
+        Assert.AreEqual("【CorpHome】New Consumer", request.Title);
         Assert.IsNotNull(request.Content);
         Assert.DoesNotContain("Company:", request.Content);
         Assert.DoesNotContain("Name:", request.Content);
