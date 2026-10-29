@@ -60,6 +60,9 @@
   <data name="Click to login" xml:space="preserve">
     <value>Nhấp để đăng nhập</value>
   </data>
+  <data name="Contact Details" xml:space="preserve">
+    <value>Thông tin liên hệ</value>
+  </data>
   <data name="Contact Success" xml:space="preserve">
     <value>Liên hệ thành công</value>
   </data>

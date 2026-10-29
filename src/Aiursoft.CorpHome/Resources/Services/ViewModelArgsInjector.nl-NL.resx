@@ -57,6 +57,9 @@
   <data name="Click to login" xml:space="preserve">
     <value>Klik om in te loggen</value>
   </data>
+  <data name="Contact Details" xml:space="preserve">
+    <value>Contactgegevens</value>
+  </data>
   <data name="Contact Success" xml:space="preserve">
     <value>Contact Succes</value>
   </data>

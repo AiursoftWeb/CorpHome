@@ -21,17 +21,35 @@
       <data name=" The link to the brand&apos;s home page." xml:space="preserve">
     <value>브랜드 홈페이지 링크</value>
   </data>
+  <data name="A dedicated CorpHome application key with create incident permission; email follow-up also requires query and mitigate permissions." xml:space="preserve">
+    <value>인시던트 생성 권한이 있는 CorpHome 전용 애플리케이션 키입니다. 이메일 후속 처리에는 조회 및 완화 권한도 필요합니다.</value>
+  </data>
   <data name="A dummy choice for testing." xml:space="preserve">
     <value>테스트용 더미 선택 항목입니다.</value>
   </data>
   <data name="A dummy number for testing." xml:space="preserve">
     <value>테스트용 가짜 번호입니다.</value>
   </data>
+  <data name="A staff email mitigates all matching earlier submissions within this window (1–30 days). Later submissions require a new follow-up." xml:space="preserve">
+    <value>직원이 보낸 이메일은 이 기간(1~30일) 내에 일치하는 이전 제출 건을 모두 완화 처리합니다. 이후 제출 건은 새로 후속 조치를 해야 합니다.</value>
+  </data>
+  <data name="AlertCenter application API key" xml:space="preserve">
+    <value>AlertCenter 애플리케이션 API 키</value>
+  </data>
+  <data name="AlertCenter endpoint" xml:space="preserve">
+    <value>AlertCenter 엔드포인트</value>
+  </data>
   <data name="Allow User Adjust Nickname" xml:space="preserve">
     <value>사용자 닉네임 조정 허용</value>
   </data>
   <data name="Allow users to adjust their nickname in the profile management page." xml:space="preserve">
     <value>프로필 관리 페이지에서 사용자가 닉네임을 수정할 수 있도록 허용합니다.</value>
+  </data>
+  <data name="Allowed contact follow-up senders" xml:space="preserve">
+    <value>허용된 고객 후속 발신자</value>
+  </data>
+  <data name="Automatically mitigate contacts after email follow-up" xml:space="preserve">
+    <value>이메일 팔로업 후 연락처 자동 완화</value>
   </data>
   <data name="Baidu Verification Key" xml:space="preserve">
     <value>Baidu 인증 키</value>
@@ -42,8 +60,35 @@
   <data name="Brand Name" xml:space="preserve">
     <value>브랜드 이름</value>
   </data>
+  <data name="Comma-separated staff email addresses or @domains. This filter does not authenticate senders; restrict mailbox delivery on the mail server." xml:space="preserve">
+    <value>쉼표로 구분한 직원 이메일 주소 또는 @도메인. 이 필터는 발신자를 인증하지 않으므로 메일 서버에서 메일함으로의 전달을 제한하세요.</value>
+  </data>
   <data name="Company Name (Simplified Chinese)" xml:space="preserve">
     <value>회사명 (중국어 간체)</value>
+  </data>
+  <data name="Contact follow-up IMAP host" xml:space="preserve">
+    <value>후속 연락용 IMAP 호스트</value>
+  </data>
+  <data name="Contact follow-up IMAP port" xml:space="preserve">
+    <value>연락 후속 조치 IMAP 포트</value>
+  </data>
+  <data name="Contact follow-up mailbox folder" xml:space="preserve">
+    <value>문의 후속 메일함 폴더</value>
+  </data>
+  <data name="Contact follow-up mailbox password" xml:space="preserve">
+    <value>문의 후속 조치용 메일함 비밀번호</value>
+  </data>
+  <data name="Contact follow-up mailbox username" xml:space="preserve">
+    <value>연락 후속 조치 메일함 사용자 이름</value>
+  </data>
+  <data name="Contact follow-up window in days" xml:space="preserve">
+    <value>연락 후속 조치 기간(일)</value>
+  </data>
+  <data name="CorpHome public URL" xml:space="preserve">
+    <value>CorpHome 공개 URL</value>
+  </data>
+  <data name="Dedicated mailbox included in your staff CC group, or explicitly copied on customer replies." xml:space="preserve">
+    <value>직원 참조(CC) 그룹에 포함되어 있거나 고객에게 회신할 때 명시적으로 참조(CC)에 추가되는 전용 메일함입니다.</value>
   </data>
   <data name="Dummy Choice" xml:space="preserve">
     <value>임의 선택</value>
@@ -51,14 +96,35 @@
   <data name="Dummy Number" xml:space="preserve">
     <value>임시 번호</value>
   </data>
+  <data name="Enable AlertCenter integration" xml:space="preserve">
+    <value>AlertCenter 연동 활성화</value>
+  </data>
   <data name="ICP Number" xml:space="preserve">
     <value>ICP 번호</value>
+  </data>
+  <data name="IMAP folder to inspect. Messages are never marked as read, moved or deleted." xml:space="preserve">
+    <value>확인할 IMAP 폴더입니다. 메시지는 읽음으로 표시되거나 이동 또는 삭제되지 않습니다.</value>
+  </data>
+  <data name="IMAP hostname. Implicit TLS and valid server certificates are required." xml:space="preserve">
+    <value>IMAP 호스트 이름입니다. 암묵적 TLS를 사용해야 하며 유효한 서버 인증서가 필요합니다.</value>
+  </data>
+  <data name="Implicit TLS port, normally 993." xml:space="preserve">
+    <value>일반적으로 993번을 사용하는 암시적 TLS 포트입니다.</value>
+  </data>
+  <data name="Mailbox password or application password. No mail server administrator credentials are needed." xml:space="preserve">
+    <value>메일함 비밀번호 또는 애플리케이션 비밀번호입니다. 메일 서버 관리자 자격 증명은 필요하지 않습니다.</value>
   </data>
   <data name="Project Logo" xml:space="preserve">
     <value>프로젝트 로고</value>
   </data>
   <data name="Project Name" xml:space="preserve">
     <value>프로젝트 이름</value>
+  </data>
+  <data name="Read a dedicated IMAPS mailbox receiving staff follow-up copies. The mail server must restrict delivery to authenticated internal staff. Requires AlertCenter integration." xml:space="preserve">
+    <value>직원이 후속 조치 사본을 받는 전용 IMAPS 메일함을 확인합니다. 메일 서버는 인증된 내부 직원에게만 메일이 전달되도록 제한해야 합니다. AlertCenter 연동이 필요합니다.</value>
+  </data>
+  <data name="Send new contact submissions to AlertCenter as sev2 incidents. Disabling pauses delivery; pending submissions are retained." xml:space="preserve">
+    <value>새로운 문의 제출 건을 sev2 인시던트로 AlertCenter에 전송합니다. 비활성화하면 전송이 일시 중지되며, 대기 중인 제출 건은 보존됩니다.</value>
   </data>
   <data name="Show Aoji Airlines in the trusted partners section." xml:space="preserve">
     <value>신뢰할 수 있는 파트너 섹션에 Aoji Airlines 표시</value>
@@ -108,6 +174,9 @@
   <data name="The company name displayed when the page language is Simplified Chinese. Leave empty to use the default brand name." xml:space="preserve">
     <value>페이지 언어가 간체 중국어일 때 표시되는 회사 이름입니다. 기본 브랜드 이름을 사용하려면 비워 둡니다.</value>
   </data>
+  <data name="The HTTP(S) base URL of AlertCenter." xml:space="preserve">
+    <value>AlertCenter의 HTTP(S) 기본 URL입니다.</value>
+  </data>
   <data name="The ICP license number for China mainland users. Leave empty to hide." xml:space="preserve">
     <value>중국 대륙 사용자를 위한 ICP 라이선스 번호. 비워두면 숨깁니다.</value>
   </data>
@@ -116,6 +185,9 @@
   </data>
   <data name="The name of the project displayed in the frontend." xml:space="preserve">
     <value>프론트엔드에 표시되는 프로젝트 이름</value>
+  </data>
+  <data name="The public HTTP(S) base URL used for contact follow-up links." xml:space="preserve">
+    <value>문의 후속 조치 링크에 사용되는 공개 HTTP(S) 기본 URL입니다.</value>
   </data>
   <data name="The verification key for Baidu site verification. Will be added as &lt;meta name=\&quot;baidu-site-verification\&quot; content=\&quot;...\&quot; /&gt; in the page head." xml:space="preserve">
     <value>Baidu 사이트 인증을 위한 인증 키입니다. 페이지 헤더에 &lt;meta name=\&quot;baidu-site-verification\&quot; content=\&quot;...\&quot; /&gt; 태그로 추가됩니다.</value>

@@ -21,17 +21,35 @@
       <data name=" The link to the brand&apos;s home page." xml:space="preserve">
     <value>ブランドのホームページへのリンク。</value>
   </data>
+  <data name="A dedicated CorpHome application key with create incident permission; email follow-up also requires query and mitigate permissions." xml:space="preserve">
+    <value>インシデント作成権限を持つ専用のCorpHomeアプリケーションキー。メールでのフォローアップには、照会権限と緩和権限も必要です。</value>
+  </data>
   <data name="A dummy choice for testing." xml:space="preserve">
     <value>テスト用のダミー選択肢です。</value>
   </data>
   <data name="A dummy number for testing." xml:space="preserve">
     <value>テスト用のダミー番号です。</value>
   </data>
+  <data name="A staff email mitigates all matching earlier submissions within this window (1–30 days). Later submissions require a new follow-up." xml:space="preserve">
+    <value>担当者からのメールにより、この期間（1～30日）内の条件に一致する過去のすべての申請が軽減されます。それ以降の申請には、新たなフォローアップが必要です。</value>
+  </data>
+  <data name="AlertCenter application API key" xml:space="preserve">
+    <value>AlertCenter アプリケーション API キー</value>
+  </data>
+  <data name="AlertCenter endpoint" xml:space="preserve">
+    <value>AlertCenterのエンドポイント</value>
+  </data>
   <data name="Allow User Adjust Nickname" xml:space="preserve">
     <value>ユーザーがニックネームを変更できるようにする</value>
   </data>
   <data name="Allow users to adjust their nickname in the profile management page." xml:space="preserve">
     <value>プロフィール管理ページでユーザーがニックネームを調整できるようにする。</value>
+  </data>
+  <data name="Allowed contact follow-up senders" xml:space="preserve">
+    <value>連絡のフォローアップを送信できる送信者</value>
+  </data>
+  <data name="Automatically mitigate contacts after email follow-up" xml:space="preserve">
+    <value>メールでのフォローアップ後に連絡先を自動的に対応する</value>
   </data>
   <data name="Baidu Verification Key" xml:space="preserve">
     <value>Baidu認証キー</value>
@@ -42,8 +60,35 @@
   <data name="Brand Name" xml:space="preserve">
     <value>ブランド名</value>
   </data>
+  <data name="Comma-separated staff email addresses or @domains. This filter does not authenticate senders; restrict mailbox delivery on the mail server." xml:space="preserve">
+    <value>スタッフのメールアドレスまたは @ドメインをカンマ区切りで指定します。このフィルターは送信者を認証しません。メールサーバー側でメールボックスへの配信を制限してください。</value>
+  </data>
   <data name="Company Name (Simplified Chinese)" xml:space="preserve">
     <value>会社名（簡体字中国語）</value>
+  </data>
+  <data name="Contact follow-up IMAP host" xml:space="preserve">
+    <value>連絡先フォローアップ用IMAPホスト</value>
+  </data>
+  <data name="Contact follow-up IMAP port" xml:space="preserve">
+    <value>問い合わせフォローアップ用 IMAP ポート</value>
+  </data>
+  <data name="Contact follow-up mailbox folder" xml:space="preserve">
+    <value>お問い合わせフォローアップ用メールボックスのフォルダー</value>
+  </data>
+  <data name="Contact follow-up mailbox password" xml:space="preserve">
+    <value>問い合わせフォローアップ用メールボックスのパスワード</value>
+  </data>
+  <data name="Contact follow-up mailbox username" xml:space="preserve">
+    <value>問い合わせフォロー用メールボックスのユーザー名</value>
+  </data>
+  <data name="Contact follow-up window in days" xml:space="preserve">
+    <value>問い合わせのフォローアップ期間（日数）</value>
+  </data>
+  <data name="CorpHome public URL" xml:space="preserve">
+    <value>CorpHomeの公開URL</value>
+  </data>
+  <data name="Dedicated mailbox included in your staff CC group, or explicitly copied on customer replies." xml:space="preserve">
+    <value>社内スタッフのCCグループに含めるか、顧客への返信に明示的にCCする専用メールボックス。</value>
   </data>
   <data name="Dummy Choice" xml:space="preserve">
     <value>ダミー選択</value>
@@ -51,14 +96,35 @@
   <data name="Dummy Number" xml:space="preserve">
     <value>ダミー番号</value>
   </data>
+  <data name="Enable AlertCenter integration" xml:space="preserve">
+    <value>AlertCenterとの連携を有効にする</value>
+  </data>
   <data name="ICP Number" xml:space="preserve">
     <value>ICP番号</value>
+  </data>
+  <data name="IMAP folder to inspect. Messages are never marked as read, moved or deleted." xml:space="preserve">
+    <value>確認するIMAPフォルダー。メッセージが既読にされたり、移動または削除されたりすることはありません。</value>
+  </data>
+  <data name="IMAP hostname. Implicit TLS and valid server certificates are required." xml:space="preserve">
+    <value>IMAPのホスト名。暗黙的TLSと有効なサーバー証明書が必要です。</value>
+  </data>
+  <data name="Implicit TLS port, normally 993." xml:space="preserve">
+    <value>暗黙的TLSのポート（通常は993）</value>
+  </data>
+  <data name="Mailbox password or application password. No mail server administrator credentials are needed." xml:space="preserve">
+    <value>メールボックスのパスワードまたはアプリケーションパスワードを使用します。メールサーバー管理者の認証情報は必要ありません。</value>
   </data>
   <data name="Project Logo" xml:space="preserve">
     <value>プロジェクトロゴ</value>
   </data>
   <data name="Project Name" xml:space="preserve">
     <value>プロジェクト名</value>
+  </data>
+  <data name="Read a dedicated IMAPS mailbox receiving staff follow-up copies. The mail server must restrict delivery to authenticated internal staff. Requires AlertCenter integration." xml:space="preserve">
+    <value>スタッフのフォローアップメールのコピーを受信する専用のIMAPSメールボックスを読み込みます。メールサーバーでは、認証済みの内部スタッフへの配信のみを許可する必要があります。AlertCenterとの連携が必要です。</value>
+  </data>
+  <data name="Send new contact submissions to AlertCenter as sev2 incidents. Disabling pauses delivery; pending submissions are retained." xml:space="preserve">
+    <value>新しいお問い合わせの送信内容を、sev2 インシデントとして AlertCenter に送信します。無効にすると送信は一時停止され、保留中の送信内容は保持されます。</value>
   </data>
   <data name="Show Aoji Airlines in the trusted partners section." xml:space="preserve">
     <value>信頼できるパートナーのセクションに Aoji Airlines を表示します。</value>
@@ -108,6 +174,9 @@
   <data name="The company name displayed when the page language is Simplified Chinese. Leave empty to use the default brand name." xml:space="preserve">
     <value>ページ言語が簡体字中国語の場合に表示される会社名。デフォルトのブランド名を使用する場合は空白のままにしてください。</value>
   </data>
+  <data name="The HTTP(S) base URL of AlertCenter." xml:space="preserve">
+    <value>AlertCenter の HTTP(S) ベース URL。</value>
+  </data>
   <data name="The ICP license number for China mainland users. Leave empty to hide." xml:space="preserve">
     <value>中国本土ユーザー向けのICPライセンス番号。空欄のままにすると非表示になります。</value>
   </data>
@@ -116,6 +185,9 @@
   </data>
   <data name="The name of the project displayed in the frontend." xml:space="preserve">
     <value>フロントエンドに表示されるプロジェクト名</value>
+  </data>
+  <data name="The public HTTP(S) base URL used for contact follow-up links." xml:space="preserve">
+    <value>お問い合わせ後の対応用リンクに使用する、一般公開されているHTTP(S)のベースURL。</value>
   </data>
   <data name="The verification key for Baidu site verification. Will be added as &lt;meta name=\&quot;baidu-site-verification\&quot; content=\&quot;...\&quot; /&gt; in the page head." xml:space="preserve">
     <value>Baiduサイト認証用の検証キーです。ページのheadに &lt;meta name=\&quot;baidu-site-verification\&quot; content=\&quot;...\&quot; /&gt; として追加されます。</value>

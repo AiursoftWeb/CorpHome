@@ -57,6 +57,9 @@
   <data name="Click to login" xml:space="preserve">
     <value>انقر لتسجيل الدخول</value>
   </data>
+  <data name="Contact Details" xml:space="preserve">
+    <value>تفاصيل الاتصال</value>
+  </data>
   <data name="Contact Success" xml:space="preserve">
     <value>نجاح الاتصال</value>
   </data>

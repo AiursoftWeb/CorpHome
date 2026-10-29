@@ -57,6 +57,9 @@
   <data name="Click to login" xml:space="preserve">
     <value>Κάντε κλικ για σύνδεση</value>
   </data>
+  <data name="Contact Details" xml:space="preserve">
+    <value>Στοιχεία Επικοινωνίας</value>
+  </data>
   <data name="Contact Success" xml:space="preserve">
     <value>Επιτυχία επικοινωνίας</value>
   </data>

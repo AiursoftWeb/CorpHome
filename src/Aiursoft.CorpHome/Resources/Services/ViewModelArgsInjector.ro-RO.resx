@@ -57,6 +57,9 @@
   <data name="Click to login" xml:space="preserve">
     <value>Apasă pentru a te autentifica</value>
   </data>
+  <data name="Contact Details" xml:space="preserve">
+    <value>Detalii de contact</value>
+  </data>
   <data name="Contact Success" xml:space="preserve">
     <value>Contact Success</value>
   </data>

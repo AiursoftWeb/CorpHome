@@ -21,17 +21,35 @@
       <data name=" The link to the brand&apos;s home page." xml:space="preserve">
     <value>品牌主頁的連結</value>
   </data>
+  <data name="A dedicated CorpHome application key with create incident permission; email follow-up also requires query and mitigate permissions." xml:space="preserve">
+    <value>具有建立事件權限的 CorpHome 專用應用程式金鑰；電郵跟進亦需要查詢及緩解權限。</value>
+  </data>
   <data name="A dummy choice for testing." xml:space="preserve">
     <value>測試用的虛擬選擇</value>
   </data>
   <data name="A dummy number for testing." xml:space="preserve">
     <value>一個用於測試的虛擬數字。</value>
   </data>
+  <data name="A staff email mitigates all matching earlier submissions within this window (1–30 days). Later submissions require a new follow-up." xml:space="preserve">
+    <value>員工電郵會緩解此時間範圍（1–30 天）內所有相符的較早提交記錄所對應的事件。之後提交的記錄需要再次跟進。</value>
+  </data>
+  <data name="AlertCenter application API key" xml:space="preserve">
+    <value>AlertCenter 應用程式 API 金鑰</value>
+  </data>
+  <data name="AlertCenter endpoint" xml:space="preserve">
+    <value>AlertCenter 端點</value>
+  </data>
   <data name="Allow User Adjust Nickname" xml:space="preserve">
     <value>允許用戶更改暱稱</value>
   </data>
   <data name="Allow users to adjust their nickname in the profile management page." xml:space="preserve">
     <value>允許用戶在個人資料管理頁面調整其暱稱。</value>
+  </data>
+  <data name="Allowed contact follow-up senders" xml:space="preserve">
+    <value>允許的聯絡跟進寄件者</value>
+  </data>
+  <data name="Automatically mitigate contacts after email follow-up" xml:space="preserve">
+    <value>電郵跟進後自動緩解聯絡事件</value>
   </data>
   <data name="Baidu Verification Key" xml:space="preserve">
     <value>百度驗證金鑰</value>
@@ -42,8 +60,35 @@
   <data name="Brand Name" xml:space="preserve">
     <value>品牌名稱</value>
   </data>
+  <data name="Comma-separated staff email addresses or @domains. This filter does not authenticate senders; restrict mailbox delivery on the mail server." xml:space="preserve">
+    <value>以逗號分隔的員工電郵地址或 @網域。此篩選器不會驗證寄件者身份；請在郵件伺服器上限制郵箱投遞。</value>
+  </data>
   <data name="Company Name (Simplified Chinese)" xml:space="preserve">
     <value>公司名稱（簡體中文）</value>
+  </data>
+  <data name="Contact follow-up IMAP host" xml:space="preserve">
+    <value>聯絡跟進 IMAP 主機</value>
+  </data>
+  <data name="Contact follow-up IMAP port" xml:space="preserve">
+    <value>聯絡跟進 IMAP 連接埠</value>
+  </data>
+  <data name="Contact follow-up mailbox folder" xml:space="preserve">
+    <value>聯絡跟進郵箱資料夾</value>
+  </data>
+  <data name="Contact follow-up mailbox password" xml:space="preserve">
+    <value>聯絡跟進郵箱密碼</value>
+  </data>
+  <data name="Contact follow-up mailbox username" xml:space="preserve">
+    <value>聯絡跟進郵箱用戶名稱</value>
+  </data>
+  <data name="Contact follow-up window in days" xml:space="preserve">
+    <value>聯絡跟進時間範圍（天）</value>
+  </data>
+  <data name="CorpHome public URL" xml:space="preserve">
+    <value>CorpHome 公開網址</value>
+  </data>
+  <data name="Dedicated mailbox included in your staff CC group, or explicitly copied on customer replies." xml:space="preserve">
+    <value>加入員工副本群組，或在回覆客戶時明確寄送副本的專用郵箱。</value>
   </data>
   <data name="Dummy Choice" xml:space="preserve">
     <value>測試選項</value>
@@ -51,14 +96,35 @@
   <data name="Dummy Number" xml:space="preserve">
     <value>測試用數字</value>
   </data>
+  <data name="Enable AlertCenter integration" xml:space="preserve">
+    <value>啟用 AlertCenter 整合</value>
+  </data>
   <data name="ICP Number" xml:space="preserve">
     <value>ICP編號</value>
+  </data>
+  <data name="IMAP folder to inspect. Messages are never marked as read, moved or deleted." xml:space="preserve">
+    <value>要檢查的 IMAP 資料夾。郵件不會被標示為已讀、移動或刪除。</value>
+  </data>
+  <data name="IMAP hostname. Implicit TLS and valid server certificates are required." xml:space="preserve">
+    <value>IMAP 主機名稱。必須使用隱式 TLS 及有效的伺服器憑證。</value>
+  </data>
+  <data name="Implicit TLS port, normally 993." xml:space="preserve">
+    <value>隱式 TLS 連接埠，通常為 993。</value>
+  </data>
+  <data name="Mailbox password or application password. No mail server administrator credentials are needed." xml:space="preserve">
+    <value>郵箱密碼或應用程式密碼。毋須郵件伺服器管理員憑證。</value>
   </data>
   <data name="Project Logo" xml:space="preserve">
     <value>項目標誌</value>
   </data>
   <data name="Project Name" xml:space="preserve">
     <value>項目名稱</value>
+  </data>
+  <data name="Read a dedicated IMAPS mailbox receiving staff follow-up copies. The mail server must restrict delivery to authenticated internal staff. Requires AlertCenter integration." xml:space="preserve">
+    <value>讀取接收員工跟進電郵副本的專用 IMAPS 郵箱。郵件伺服器必須限制為僅允許已通過身份驗證的內部員工向此郵箱投遞郵件。需要啟用 AlertCenter 整合。</value>
+  </data>
+  <data name="Send new contact submissions to AlertCenter as sev2 incidents. Disabling pauses delivery; pending submissions are retained." xml:space="preserve">
+    <value>將新提交的聯絡表格作為 sev2 事件傳送至 AlertCenter。停用後暫停傳送；待傳送的提交記錄會保留。</value>
   </data>
   <data name="Show Aoji Airlines in the trusted partners section." xml:space="preserve">
     <value>在受信合作夥伴區段顯示 Aoji Airlines。</value>
@@ -108,6 +174,9 @@
   <data name="The company name displayed when the page language is Simplified Chinese. Leave empty to use the default brand name." xml:space="preserve">
     <value>頁面語言為簡體中文時顯示的公司名稱。如保留空白，則使用預設品牌名稱。</value>
   </data>
+  <data name="The HTTP(S) base URL of AlertCenter." xml:space="preserve">
+    <value>AlertCenter 的 HTTP(S) 基本網址。</value>
+  </data>
   <data name="The ICP license number for China mainland users. Leave empty to hide." xml:space="preserve">
     <value>適用於中國內地用戶的ICP許可證編號。留空則隱藏。</value>
   </data>
@@ -117,80 +186,11 @@
   <data name="The name of the project displayed in the frontend." xml:space="preserve">
     <value>項目在前端顯示的名稱。</value>
   </data>
-  <data name="The verification key for Baidu site verification. Will be added as &lt;meta name=\&quot;baidu-site-verification\&quot; content=\&quot;...\&quot; /&gt; in the page head." xml:space="preserve">
-    <value>百度網站驗證的驗證密鑰。將作為 &lt;meta name=\&quot;baidu-site-verification\&quot; content=\&quot;...\&quot; /&gt; 添加到網頁的 head 中。</value>
-  </data>
-  <data name="A dedicated CorpHome application key with create incident permission; email follow-up also requires query and mitigate permissions." xml:space="preserve">
-    <value>具有建立事件權限的 CorpHome 專用應用程式金鑰；電郵跟進亦需要查詢及緩解權限。</value>
-  </data>
-  <data name="A staff email mitigates all matching earlier submissions within this window (1–30 days). Later submissions require a new follow-up." xml:space="preserve">
-    <value>員工電郵會緩解此時間範圍（1–30 天）內所有相符的較早提交記錄所對應的事件。之後提交的記錄需要再次跟進。</value>
-  </data>
-  <data name="AlertCenter application API key" xml:space="preserve">
-    <value>AlertCenter 應用程式 API 金鑰</value>
-  </data>
-  <data name="AlertCenter endpoint" xml:space="preserve">
-    <value>AlertCenter 端點</value>
-  </data>
-  <data name="Allowed contact follow-up senders" xml:space="preserve">
-    <value>允許的聯絡跟進寄件者</value>
-  </data>
-  <data name="Automatically mitigate contacts after email follow-up" xml:space="preserve">
-    <value>電郵跟進後自動緩解聯絡事件</value>
-  </data>
-  <data name="Comma-separated staff email addresses or @domains. This filter does not authenticate senders; restrict mailbox delivery on the mail server." xml:space="preserve">
-    <value>以逗號分隔的員工電郵地址或 @網域。此篩選器不會驗證寄件者身份；請在郵件伺服器上限制郵箱投遞。</value>
-  </data>
-  <data name="Contact follow-up IMAP host" xml:space="preserve">
-    <value>聯絡跟進 IMAP 主機</value>
-  </data>
-  <data name="Contact follow-up IMAP port" xml:space="preserve">
-    <value>聯絡跟進 IMAP 連接埠</value>
-  </data>
-  <data name="Contact follow-up mailbox folder" xml:space="preserve">
-    <value>聯絡跟進郵箱資料夾</value>
-  </data>
-  <data name="Contact follow-up mailbox password" xml:space="preserve">
-    <value>聯絡跟進郵箱密碼</value>
-  </data>
-  <data name="Contact follow-up mailbox username" xml:space="preserve">
-    <value>聯絡跟進郵箱用戶名稱</value>
-  </data>
-  <data name="Contact follow-up window in days" xml:space="preserve">
-    <value>聯絡跟進時間範圍（天）</value>
-  </data>
-  <data name="CorpHome public URL" xml:space="preserve">
-    <value>CorpHome 公開網址</value>
-  </data>
-  <data name="Dedicated mailbox included in your staff CC group, or explicitly copied on customer replies." xml:space="preserve">
-    <value>加入員工副本群組，或在回覆客戶時明確寄送副本的專用郵箱。</value>
-  </data>
-  <data name="Enable AlertCenter integration" xml:space="preserve">
-    <value>啟用 AlertCenter 整合</value>
-  </data>
-  <data name="IMAP folder to inspect. Messages are never marked as read, moved or deleted." xml:space="preserve">
-    <value>要檢查的 IMAP 資料夾。郵件不會被標示為已讀、移動或刪除。</value>
-  </data>
-  <data name="IMAP hostname. Implicit TLS and valid server certificates are required." xml:space="preserve">
-    <value>IMAP 主機名稱。必須使用隱式 TLS 及有效的伺服器憑證。</value>
-  </data>
-  <data name="Implicit TLS port, normally 993." xml:space="preserve">
-    <value>隱式 TLS 連接埠，通常為 993。</value>
-  </data>
-  <data name="Mailbox password or application password. No mail server administrator credentials are needed." xml:space="preserve">
-    <value>郵箱密碼或應用程式密碼。毋須郵件伺服器管理員憑證。</value>
-  </data>
-  <data name="Read a dedicated IMAPS mailbox receiving staff follow-up copies. The mail server must restrict delivery to authenticated internal staff. Requires AlertCenter integration." xml:space="preserve">
-    <value>讀取接收員工跟進電郵副本的專用 IMAPS 郵箱。郵件伺服器必須限制為僅允許已通過身份驗證的內部員工向此郵箱投遞郵件。需要啟用 AlertCenter 整合。</value>
-  </data>
-  <data name="Send new contact submissions to AlertCenter as sev2 incidents. Disabling pauses delivery; pending submissions are retained." xml:space="preserve">
-    <value>將新提交的聯絡表格作為 sev2 事件傳送至 AlertCenter。停用後暫停傳送；待傳送的提交記錄會保留。</value>
-  </data>
-  <data name="The HTTP(S) base URL of AlertCenter." xml:space="preserve">
-    <value>AlertCenter 的 HTTP(S) 基本網址。</value>
-  </data>
   <data name="The public HTTP(S) base URL used for contact follow-up links." xml:space="preserve">
     <value>用於聯絡跟進連結的公開 HTTP(S) 基本網址。</value>
+  </data>
+  <data name="The verification key for Baidu site verification. Will be added as &lt;meta name=\&quot;baidu-site-verification\&quot; content=\&quot;...\&quot; /&gt; in the page head." xml:space="preserve">
+    <value>百度網站驗證的驗證密鑰。將作為 &lt;meta name=\&quot;baidu-site-verification\&quot; content=\&quot;...\&quot; /&gt; 添加到網頁的 head 中。</value>
   </data>
 
 </root>

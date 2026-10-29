@@ -21,17 +21,35 @@
       <data name=" The link to the brand&apos;s home page." xml:space="preserve">
     <value>Liên kết đến trang chủ của thương hiệu.</value>
   </data>
+  <data name="A dedicated CorpHome application key with create incident permission; email follow-up also requires query and mitigate permissions." xml:space="preserve">
+    <value>Một khóa ứng dụng CorpHome chuyên dụng có quyền tạo sự cố; chức năng theo dõi qua email cũng cần có quyền truy vấn và xử lý.</value>
+  </data>
   <data name="A dummy choice for testing." xml:space="preserve">
     <value>Một lựa chọn giả mạo để kiểm thử.</value>
   </data>
   <data name="A dummy number for testing." xml:space="preserve">
     <value>Một số giả mạo để kiểm thử.</value>
   </data>
+  <data name="A staff email mitigates all matching earlier submissions within this window (1–30 days). Later submissions require a new follow-up." xml:space="preserve">
+    <value>Email của nhân viên sẽ xử lý tất cả yêu cầu gửi trước đó phù hợp trong khoảng thời gian này (1–30 ngày). Các yêu cầu gửi sau đó cần được xử lý bằng một email tiếp theo mới.</value>
+  </data>
+  <data name="AlertCenter application API key" xml:space="preserve">
+    <value>Khóa API ứng dụng AlertCenter</value>
+  </data>
+  <data name="AlertCenter endpoint" xml:space="preserve">
+    <value>Điểm cuối AlertCenter</value>
+  </data>
   <data name="Allow User Adjust Nickname" xml:space="preserve">
     <value>Cho phép người dùng chỉnh sửa biệt danh</value>
   </data>
   <data name="Allow users to adjust their nickname in the profile management page." xml:space="preserve">
     <value>Cho phép người dùng điều chỉnh biệt danh của họ trên trang quản lý hồ sơ.</value>
+  </data>
+  <data name="Allowed contact follow-up senders" xml:space="preserve">
+    <value>Người gửi được phép cho việc theo dõi liên hệ</value>
+  </data>
+  <data name="Automatically mitigate contacts after email follow-up" xml:space="preserve">
+    <value>Tự động xử lý liên hệ sau khi gửi email theo dõi</value>
   </data>
   <data name="Baidu Verification Key" xml:space="preserve">
     <value>Khóa xác thực Baidu</value>
@@ -42,8 +60,35 @@
   <data name="Brand Name" xml:space="preserve">
     <value>Tên thương hiệu</value>
   </data>
+  <data name="Comma-separated staff email addresses or @domains. This filter does not authenticate senders; restrict mailbox delivery on the mail server." xml:space="preserve">
+    <value>Các địa chỉ email của nhân viên hoặc các miền @ được phân tách bằng dấu phẩy. Bộ lọc này không xác thực người gửi; hãy hạn chế việc giao thư mục trên máy chủ email.</value>
+  </data>
   <data name="Company Name (Simplified Chinese)" xml:space="preserve">
     <value>Tên công ty (Giản thể)</value>
+  </data>
+  <data name="Contact follow-up IMAP host" xml:space="preserve">
+    <value>Máy chủ IMAP nhận thư theo dõi liên hệ</value>
+  </data>
+  <data name="Contact follow-up IMAP port" xml:space="preserve">
+    <value>Cổng IMAP theo dõi liên hệ</value>
+  </data>
+  <data name="Contact follow-up mailbox folder" xml:space="preserve">
+    <value>Thư mục hộp thư theo dõi liên hệ</value>
+  </data>
+  <data name="Contact follow-up mailbox password" xml:space="preserve">
+    <value>Mật khẩu hộp thư theo dõi liên hệ</value>
+  </data>
+  <data name="Contact follow-up mailbox username" xml:space="preserve">
+    <value>Tên người dùng hộp thư theo dõi liên hệ</value>
+  </data>
+  <data name="Contact follow-up window in days" xml:space="preserve">
+    <value>Khoảng thời gian theo dõi liên hệ (ngày)</value>
+  </data>
+  <data name="CorpHome public URL" xml:space="preserve">
+    <value>URL công khai của CorpHome</value>
+  </data>
+  <data name="Dedicated mailbox included in your staff CC group, or explicitly copied on customer replies." xml:space="preserve">
+    <value>Hộp thư chuyên dụng được thêm vào nhóm CC của nhân viên hoặc được gửi bản sao trực tiếp trong các phản hồi cho khách hàng.</value>
   </data>
   <data name="Dummy Choice" xml:space="preserve">
     <value>Lựa chọn giả</value>
@@ -51,14 +96,35 @@
   <data name="Dummy Number" xml:space="preserve">
     <value>Số giả mạo</value>
   </data>
+  <data name="Enable AlertCenter integration" xml:space="preserve">
+    <value>Bật tích hợp với AlertCenter</value>
+  </data>
   <data name="ICP Number" xml:space="preserve">
     <value>Số đăng ký ICP</value>
+  </data>
+  <data name="IMAP folder to inspect. Messages are never marked as read, moved or deleted." xml:space="preserve">
+    <value>Thư mục IMAP cần kiểm tra. Thư không bao giờ bị đánh dấu là đã đọc, di chuyển hoặc xóa.</value>
+  </data>
+  <data name="IMAP hostname. Implicit TLS and valid server certificates are required." xml:space="preserve">
+    <value>Tên máy chủ IMAP. Bắt buộc sử dụng TLS ngầm định và chứng chỉ máy chủ hợp lệ.</value>
+  </data>
+  <data name="Implicit TLS port, normally 993." xml:space="preserve">
+    <value>Cổng TLS ngầm định, thường là 993.</value>
+  </data>
+  <data name="Mailbox password or application password. No mail server administrator credentials are needed." xml:space="preserve">
+    <value>Mật khẩu hộp thư hoặc mật khẩu ứng dụng. Không cần thông tin đăng nhập quản trị viên máy chủ thư.</value>
   </data>
   <data name="Project Logo" xml:space="preserve">
     <value>Logo dự án</value>
   </data>
   <data name="Project Name" xml:space="preserve">
     <value>Tên dự án</value>
+  </data>
+  <data name="Read a dedicated IMAPS mailbox receiving staff follow-up copies. The mail server must restrict delivery to authenticated internal staff. Requires AlertCenter integration." xml:space="preserve">
+    <value>Đọc hộp thư IMAPS chuyên dụng nhận các bản sao theo dõi của nhân viên. Máy chủ thư phải giới hạn việc chuyển thư đến các nhân viên nội bộ đã xác thực. Yêu cầu tích hợp AlertCenter.</value>
+  </data>
+  <data name="Send new contact submissions to AlertCenter as sev2 incidents. Disabling pauses delivery; pending submissions are retained." xml:space="preserve">
+    <value>Gửi các yêu cầu liên hệ mới đến AlertCenter dưới dạng sự cố sev2. Khi tắt tính năng này, việc gửi sẽ tạm dừng; các yêu cầu đang chờ vẫn được giữ lại.</value>
   </data>
   <data name="Show Aoji Airlines in the trusted partners section." xml:space="preserve">
     <value>Hiển thị Aoji Airlines trong mục đối tác đáng tin cậy.</value>
@@ -108,6 +174,9 @@
   <data name="The company name displayed when the page language is Simplified Chinese. Leave empty to use the default brand name." xml:space="preserve">
     <value>Tên công ty hiển thị khi ngôn ngữ trang là tiếng Trung giản thể. Để trống để sử dụng tên thương hiệu mặc định.</value>
   </data>
+  <data name="The HTTP(S) base URL of AlertCenter." xml:space="preserve">
+    <value>URL cơ sở HTTP(S) của AlertCenter.</value>
+  </data>
   <data name="The ICP license number for China mainland users. Leave empty to hide." xml:space="preserve">
     <value>Số giấy phép ICP cho người dùng tại Trung Quốc đại lục. Để trống để ẩn.</value>
   </data>
@@ -116,6 +185,9 @@
   </data>
   <data name="The name of the project displayed in the frontend." xml:space="preserve">
     <value>Tên dự án được hiển thị trên giao diện người dùng</value>
+  </data>
+  <data name="The public HTTP(S) base URL used for contact follow-up links." xml:space="preserve">
+    <value>URL cơ sở công khai HTTP(S) được dùng cho các liên kết theo dõi liên hệ.</value>
   </data>
   <data name="The verification key for Baidu site verification. Will be added as &lt;meta name=\&quot;baidu-site-verification\&quot; content=\&quot;...\&quot; /&gt; in the page head." xml:space="preserve">
     <value>Khóa xác minh cho việc xác minh trang web Baidu. Sẽ được thêm vào phần head của trang dưới dạng &lt;meta name=\&quot;baidu-site-verification\&quot; content=\&quot;...\&quot; /&gt;.</value>

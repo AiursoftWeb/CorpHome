@@ -21,17 +21,35 @@
       <data name=" The link to the brand&apos;s home page." xml:space="preserve">
     <value>Linkul către pagina principală a mărcii.</value>
   </data>
+  <data name="A dedicated CorpHome application key with create incident permission; email follow-up also requires query and mitigate permissions." xml:space="preserve">
+    <value>O cheie de aplicație CorpHome dedicată, cu permisiunea de a crea incidente; pentru urmărirea prin e-mail sunt necesare și permisiunile de interogare și de atenuare.</value>
+  </data>
   <data name="A dummy choice for testing." xml:space="preserve">
     <value>O alegere dummy pentru testare.</value>
   </data>
   <data name="A dummy number for testing." xml:space="preserve">
     <value>Un număr dummy pentru testare.</value>
   </data>
+  <data name="A staff email mitigates all matching earlier submissions within this window (1–30 days). Later submissions require a new follow-up." xml:space="preserve">
+    <value>Un e-mail de la un membru al personalului atenuează toate sesizările anterioare corespunzătoare din această perioadă (1–30 de zile). Sesizările ulterioare necesită o nouă acțiune de urmărire.</value>
+  </data>
+  <data name="AlertCenter application API key" xml:space="preserve">
+    <value>Cheie API a aplicației AlertCenter</value>
+  </data>
+  <data name="AlertCenter endpoint" xml:space="preserve">
+    <value>Punctul final AlertCenter</value>
+  </data>
   <data name="Allow User Adjust Nickname" xml:space="preserve">
     <value>Permite utilizatorului să-și ajusteze nickname-ul</value>
   </data>
   <data name="Allow users to adjust their nickname in the profile management page." xml:space="preserve">
     <value>Permite utilizatorilor să-și ajusteze nickname-ul în pagina de gestionare a profilului.</value>
+  </data>
+  <data name="Allowed contact follow-up senders" xml:space="preserve">
+    <value>Expeditori autorizați pentru mesaje de urmărire a contactelor</value>
+  </data>
+  <data name="Automatically mitigate contacts after email follow-up" xml:space="preserve">
+    <value>Gestionați automat contactele după urmărirea prin e-mail</value>
   </data>
   <data name="Baidu Verification Key" xml:space="preserve">
     <value>Cheia de verificare Baidu</value>
@@ -42,8 +60,35 @@
   <data name="Brand Name" xml:space="preserve">
     <value>Numele mărcii</value>
   </data>
+  <data name="Comma-separated staff email addresses or @domains. This filter does not authenticate senders; restrict mailbox delivery on the mail server." xml:space="preserve">
+    <value>Adresele de e-mail ale personalului sau domeniile @, separate prin virgule. Acest filtru nu autentifică expeditorii; restricționați livrarea mesajelor către căsuța poștală pe serverul de e-mail.</value>
+  </data>
   <data name="Company Name (Simplified Chinese)" xml:space="preserve">
     <value>Numele companiei (Chineză Simplificată)</value>
+  </data>
+  <data name="Contact follow-up IMAP host" xml:space="preserve">
+    <value>Gazdă IMAP pentru urmărirea contactelor</value>
+  </data>
+  <data name="Contact follow-up IMAP port" xml:space="preserve">
+    <value>Portul IMAP pentru urmărirea contactelor</value>
+  </data>
+  <data name="Contact follow-up mailbox folder" xml:space="preserve">
+    <value>Folderul căsuței poștale pentru urmărirea solicitărilor de contact</value>
+  </data>
+  <data name="Contact follow-up mailbox password" xml:space="preserve">
+    <value>Parola căsuței poștale pentru urmărirea solicitărilor de contact</value>
+  </data>
+  <data name="Contact follow-up mailbox username" xml:space="preserve">
+    <value>Numele de utilizator al căsuței poștale pentru urmărirea contactelor</value>
+  </data>
+  <data name="Contact follow-up window in days" xml:space="preserve">
+    <value>Perioada de urmărire a contactelor (în zile)</value>
+  </data>
+  <data name="CorpHome public URL" xml:space="preserve">
+    <value>URL publică CorpHome</value>
+  </data>
+  <data name="Dedicated mailbox included in your staff CC group, or explicitly copied on customer replies." xml:space="preserve">
+    <value>Căsuță poștală dedicată, inclusă în grupul CC al personalului sau copiată explicit în răspunsurile către clienți.</value>
   </data>
   <data name="Dummy Choice" xml:space="preserve">
     <value>Alegere Dummy</value>
@@ -51,14 +96,35 @@
   <data name="Dummy Number" xml:space="preserve">
     <value>Număr dummy</value>
   </data>
+  <data name="Enable AlertCenter integration" xml:space="preserve">
+    <value>Activați integrarea cu AlertCenter</value>
+  </data>
   <data name="ICP Number" xml:space="preserve">
     <value>Număr ICP</value>
+  </data>
+  <data name="IMAP folder to inspect. Messages are never marked as read, moved or deleted." xml:space="preserve">
+    <value>Dosarul IMAP de verificat. Mesajele nu sunt niciodată marcate ca citite, mutate sau șterse.</value>
+  </data>
+  <data name="IMAP hostname. Implicit TLS and valid server certificates are required." xml:space="preserve">
+    <value>Numele gazdei IMAP. Sunt necesare TLS implicit și certificate de server valide.</value>
+  </data>
+  <data name="Implicit TLS port, normally 993." xml:space="preserve">
+    <value>Port TLS implicit, de regulă 993.</value>
+  </data>
+  <data name="Mailbox password or application password. No mail server administrator credentials are needed." xml:space="preserve">
+    <value>Parola căsuței poștale sau parola aplicației. Nu sunt necesare credențiale de administrator al serverului de e-mail.</value>
   </data>
   <data name="Project Logo" xml:space="preserve">
     <value>Logo Proiect</value>
   </data>
   <data name="Project Name" xml:space="preserve">
     <value>Numele proiectului</value>
+  </data>
+  <data name="Read a dedicated IMAPS mailbox receiving staff follow-up copies. The mail server must restrict delivery to authenticated internal staff. Requires AlertCenter integration." xml:space="preserve">
+    <value>Citiți o căsuță poștală IMAPS dedicată, care primește copiile mesajelor de urmărire trimise de personal. Serverul de e-mail trebuie să permită livrarea numai către personalul intern autentificat. Necesită integrarea cu AlertCenter.</value>
+  </data>
+  <data name="Send new contact submissions to AlertCenter as sev2 incidents. Disabling pauses delivery; pending submissions are retained." xml:space="preserve">
+    <value>Trimiteți noile trimiteri de contact către AlertCenter ca incidente sev2. Dezactivarea suspendă livrarea; trimiterile aflate în așteptare sunt păstrate.</value>
   </data>
   <data name="Show Aoji Airlines in the trusted partners section." xml:space="preserve">
     <value>Afișează Aoji Airlines în secțiunea parteneri de încredere.</value>
@@ -108,6 +174,9 @@
   <data name="The company name displayed when the page language is Simplified Chinese. Leave empty to use the default brand name." xml:space="preserve">
     <value>Numele companiei afișat când limba paginii este Chineză simplificată. Lăsați gol pentru a folosi numele implicit al mărcii.</value>
   </data>
+  <data name="The HTTP(S) base URL of AlertCenter." xml:space="preserve">
+    <value>Adresa URL de bază HTTP(S) a AlertCenter.</value>
+  </data>
   <data name="The ICP license number for China mainland users. Leave empty to hide." xml:space="preserve">
     <value>Numărul de înregistrare ICP pentru utilizatorii din China continentală. Lăsați gol pentru a ascunde.</value>
   </data>
@@ -116,6 +185,9 @@
   </data>
   <data name="The name of the project displayed in the frontend." xml:space="preserve">
     <value>Numele proiectului afișat în interfața frontend</value>
+  </data>
+  <data name="The public HTTP(S) base URL used for contact follow-up links." xml:space="preserve">
+    <value>URL-ul de bază public HTTP(S) utilizat pentru linkurile de urmărire a solicitărilor de contact.</value>
   </data>
   <data name="The verification key for Baidu site verification. Will be added as &lt;meta name=\&quot;baidu-site-verification\&quot; content=\&quot;...\&quot; /&gt; in the page head." xml:space="preserve">
     <value>Cheia de verificare pentru verificarea site-ului Baidu. Va fi adăugată ca &lt;meta name=&quot;baidu-site-verification&quot; content=&quot;...&quot; /&gt; în antetul paginii.</value>

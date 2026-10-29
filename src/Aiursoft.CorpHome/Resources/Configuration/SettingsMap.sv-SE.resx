@@ -21,17 +21,35 @@
       <data name=" The link to the brand&apos;s home page." xml:space="preserve">
     <value>Länken till märkets hemsida.</value>
   </data>
+  <data name="A dedicated CorpHome application key with create incident permission; email follow-up also requires query and mitigate permissions." xml:space="preserve">
+    <value>En särskild applikationsnyckel för CorpHome med behörighet att skapa incidenter; e-postuppföljning kräver även behörighet att söka efter och åtgärda incidenter.</value>
+  </data>
   <data name="A dummy choice for testing." xml:space="preserve">
     <value>Ett dummyval för testning.</value>
   </data>
   <data name="A dummy number for testing." xml:space="preserve">
     <value>Ett dummynummer för testning.</value>
   </data>
+  <data name="A staff email mitigates all matching earlier submissions within this window (1–30 days). Later submissions require a new follow-up." xml:space="preserve">
+    <value>Ett mejl från personalen avhjälper alla matchande tidigare inskickade ärenden inom den här tidsperioden (1–30 dagar). Senare ärenden kräver en ny uppföljning.</value>
+  </data>
+  <data name="AlertCenter application API key" xml:space="preserve">
+    <value>AlertCenters API-nyckel för applikationen</value>
+  </data>
+  <data name="AlertCenter endpoint" xml:space="preserve">
+    <value>AlertCenter-slutpunkt</value>
+  </data>
   <data name="Allow User Adjust Nickname" xml:space="preserve">
     <value>Tillåt Användare Ändra Smeknamn</value>
   </data>
   <data name="Allow users to adjust their nickname in the profile management page." xml:space="preserve">
     <value>Tillåt användare att ändra sitt smeknamn på sidan för profilhantering.</value>
+  </data>
+  <data name="Allowed contact follow-up senders" xml:space="preserve">
+    <value>Tillåtna avsändare för kontaktuppföljning</value>
+  </data>
+  <data name="Automatically mitigate contacts after email follow-up" xml:space="preserve">
+    <value>Hantera kontakter automatiskt efter e-postuppföljning</value>
   </data>
   <data name="Baidu Verification Key" xml:space="preserve">
     <value>Baidu-verifieringsnyckel</value>
@@ -42,8 +60,35 @@
   <data name="Brand Name" xml:space="preserve">
     <value>Varumärke</value>
   </data>
+  <data name="Comma-separated staff email addresses or @domains. This filter does not authenticate senders; restrict mailbox delivery on the mail server." xml:space="preserve">
+    <value>Kommaseparerade e-postadresser till personal eller @domäner. Filtret autentiserar inte avsändare; begränsa leveransen till brevlådan på e-postservern.</value>
+  </data>
   <data name="Company Name (Simplified Chinese)" xml:space="preserve">
     <value>Företagsnamn (förenklad kinesiska)</value>
+  </data>
+  <data name="Contact follow-up IMAP host" xml:space="preserve">
+    <value>IMAP-värd för kontaktuppföljning</value>
+  </data>
+  <data name="Contact follow-up IMAP port" xml:space="preserve">
+    <value>IMAP-port för kontaktuppföljning</value>
+  </data>
+  <data name="Contact follow-up mailbox folder" xml:space="preserve">
+    <value>Mapp för kontaktuppföljning</value>
+  </data>
+  <data name="Contact follow-up mailbox password" xml:space="preserve">
+    <value>Lösenord för kontaktuppföljningens e-postkonto</value>
+  </data>
+  <data name="Contact follow-up mailbox username" xml:space="preserve">
+    <value>Användarnamn för kontaktuppföljningens e-postkonto</value>
+  </data>
+  <data name="Contact follow-up window in days" xml:space="preserve">
+    <value>Uppföljningsperiod för kontakt i dagar</value>
+  </data>
+  <data name="CorpHome public URL" xml:space="preserve">
+    <value>CorpHomes offentliga URL</value>
+  </data>
+  <data name="Dedicated mailbox included in your staff CC group, or explicitly copied on customer replies." xml:space="preserve">
+    <value>En dedikerad brevlåda som ingår i personalens CC-grupp eller som uttryckligen kopieras vid svar till kunder.</value>
   </data>
   <data name="Dummy Choice" xml:space="preserve">
     <value>Dummyval</value>
@@ -51,14 +96,35 @@
   <data name="Dummy Number" xml:space="preserve">
     <value>Dummynummer</value>
   </data>
+  <data name="Enable AlertCenter integration" xml:space="preserve">
+    <value>Aktivera AlertCenter-integrering</value>
+  </data>
   <data name="ICP Number" xml:space="preserve">
     <value>ICP-nummer</value>
+  </data>
+  <data name="IMAP folder to inspect. Messages are never marked as read, moved or deleted." xml:space="preserve">
+    <value>IMAP-mapp att kontrollera. Meddelanden markeras aldrig som lästa, flyttas eller raderas.</value>
+  </data>
+  <data name="IMAP hostname. Implicit TLS and valid server certificates are required." xml:space="preserve">
+    <value>IMAP-värdnamn. Implicit TLS och giltiga servercertifikat krävs.</value>
+  </data>
+  <data name="Implicit TLS port, normally 993." xml:space="preserve">
+    <value>Port för implicit TLS, vanligtvis 993.</value>
+  </data>
+  <data name="Mailbox password or application password. No mail server administrator credentials are needed." xml:space="preserve">
+    <value>Lösenord till brevlådan eller applikationslösenord. Inga administratörsuppgifter för e-postservern behövs.</value>
   </data>
   <data name="Project Logo" xml:space="preserve">
     <value>Projektlogotyp</value>
   </data>
   <data name="Project Name" xml:space="preserve">
     <value>Projektnamn</value>
+  </data>
+  <data name="Read a dedicated IMAPS mailbox receiving staff follow-up copies. The mail server must restrict delivery to authenticated internal staff. Requires AlertCenter integration." xml:space="preserve">
+    <value>Läs en separat IMAPS-brevlåda som tar emot kopior av personalens uppföljningsmeddelanden. E-postservern måste begränsa leveransen till autentiserad intern personal. Kräver integration med AlertCenter.</value>
+  </data>
+  <data name="Send new contact submissions to AlertCenter as sev2 incidents. Disabling pauses delivery; pending submissions are retained." xml:space="preserve">
+    <value>Skicka nya kontaktärenden till AlertCenter som sev2-incidenter. Om funktionen inaktiveras pausas leveransen, men väntande ärenden behålls.</value>
   </data>
   <data name="Show Aoji Airlines in the trusted partners section." xml:space="preserve">
     <value>Visa Aoji Airlines i avsnittet för pålitliga partners.</value>
@@ -108,6 +174,9 @@
   <data name="The company name displayed when the page language is Simplified Chinese. Leave empty to use the default brand name." xml:space="preserve">
     <value>Företagsnamnet som visas när sidans språk är förenklad kinesiska. Lämna tomt för att använda standardvarumärkesnamnet.</value>
   </data>
+  <data name="The HTTP(S) base URL of AlertCenter." xml:space="preserve">
+    <value>AlertCenters HTTP(S)-basadress.</value>
+  </data>
   <data name="The ICP license number for China mainland users. Leave empty to hide." xml:space="preserve">
     <value>ICP-licensnummer för användare i Kina. Lämna tomt för att dölja.</value>
   </data>
@@ -116,6 +185,9 @@
   </data>
   <data name="The name of the project displayed in the frontend." xml:space="preserve">
     <value>Projektets namn som visas i frontend</value>
+  </data>
+  <data name="The public HTTP(S) base URL used for contact follow-up links." xml:space="preserve">
+    <value>Den offentliga HTTP(S)-basadressen som används för kontaktuppföljningslänkar.</value>
   </data>
   <data name="The verification key for Baidu site verification. Will be added as &lt;meta name=\&quot;baidu-site-verification\&quot; content=\&quot;...\&quot; /&gt; in the page head." xml:space="preserve">
     <value>Verifieringsnyckeln för Baidu-webbplatsverifiering. Kommer att läggas till som &lt;meta name=\&quot;baidu-site-verification\&quot; content=\&quot;...\&quot; /&gt; i sidhuvudet.</value>
