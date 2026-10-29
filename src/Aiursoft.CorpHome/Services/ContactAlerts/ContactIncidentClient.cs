@@ -13,7 +13,7 @@ public interface IContactIncidentClient
     Task MitigateAsync(Guid incidentId);
 }
 
-public sealed class ContactIncidentClient(AiurProtocolClient http, AlertCenterSettingsProvider settingsProvider) : IContactIncidentClient
+public sealed class ContactIncidentClient(AiurProtocolClient http, IAlertCenterSettingsProvider settingsProvider) : IContactIncidentClient
 {
     private Task<AlertCenterApiClient>? _client;
 

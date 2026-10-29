@@ -200,7 +200,7 @@ public class ContactIncidentSyncTests : TestBase
         var client = new RecordingClient(Success);
         using var scope = Server!.Services.CreateScope();
         var job = new ContactIncidentSyncJob(db,
-            scope.ServiceProvider.GetRequiredService<AlertCenterSettingsProvider>(), client,
+            scope.ServiceProvider.GetRequiredService<IAlertCenterSettingsProvider>(), client,
             NullLogger<ContactIncidentSyncJob>.Instance,
             scope.ServiceProvider.GetRequiredService<ContactMailSettingsProvider>());
 
@@ -402,7 +402,7 @@ public class ContactIncidentSyncTests : TestBase
     {
         using var scope = Server!.Services.CreateScope();
         var job = new ContactIncidentSyncJob(scope.ServiceProvider.GetRequiredService<TemplateDbContext>(),
-            scope.ServiceProvider.GetRequiredService<AlertCenterSettingsProvider>(), client,
+            scope.ServiceProvider.GetRequiredService<IAlertCenterSettingsProvider>(), client,
             NullLogger<ContactIncidentSyncJob>.Instance,
             scope.ServiceProvider.GetRequiredService<ContactMailSettingsProvider>());
         await job.ExecuteAsync();

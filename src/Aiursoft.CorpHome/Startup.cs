@@ -56,7 +56,7 @@ public class Startup : IWebStartup
         services.AddMemoryCache();
         services.AddHttpClient();
         services.AddAiurProtocolClient();
-        services.AddScoped<AlertCenterSettingsProvider>();
+        services.AddScoped<IAlertCenterSettingsProvider, AlertCenterSettingsProvider>();
         services.AddScoped<IContactIncidentClient, ContactIncidentClient>();
         services.AddScoped<ContactMailSettingsProvider>();
         services.AddScoped<IContactMailbox, ImapContactMailbox>();

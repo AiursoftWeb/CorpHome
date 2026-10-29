@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Aiursoft.CorpHome.Services.BackgroundJobs;
 
-public sealed class ContactIncidentSyncJob(TemplateDbContext db, AlertCenterSettingsProvider settingsProvider,
+public sealed class ContactIncidentSyncJob(TemplateDbContext db, IAlertCenterSettingsProvider settingsProvider,
     IContactIncidentClient client, ILogger<ContactIncidentSyncJob> logger, ContactMailSettingsProvider mailSettingsProvider) : IBackgroundJob
 {
     public string Name => "Contact AlertCenter synchronization";

@@ -2,6 +2,11 @@ using Aiursoft.CorpHome.Services;
 
 namespace Aiursoft.CorpHome.Configuration;
 
+public interface IAlertCenterSettingsProvider
+{
+    Task<AlertCenterSettings> GetAsync();
+}
+
 public sealed class AlertCenterSettings
 {
     public bool Enabled { get; init; }
@@ -20,7 +25,7 @@ public sealed class AlertCenterSettings
     }
 }
 
-public sealed class AlertCenterSettingsProvider(GlobalSettingsService settings)
+public sealed class AlertCenterSettingsProvider(GlobalSettingsService settings) : IAlertCenterSettingsProvider
 {
     private Task<AlertCenterSettings>? _snapshot;
     public Task<AlertCenterSettings> GetAsync() => _snapshot ??= LoadAsync();

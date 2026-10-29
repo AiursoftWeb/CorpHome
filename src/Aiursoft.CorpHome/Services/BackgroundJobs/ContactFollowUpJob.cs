@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore;
 namespace Aiursoft.CorpHome.Services.BackgroundJobs;
 
 public sealed class ContactFollowUpJob(TemplateDbContext db, ContactMailSettingsProvider settingsProvider,
-    AlertCenterSettingsProvider alertSettingsProvider, IContactMailbox mailbox, IContactIncidentClient incidents,
+    IAlertCenterSettingsProvider alertSettingsProvider, IContactMailbox mailbox, IContactIncidentClient incidents,
     ILogger<ContactFollowUpJob> logger) : IBackgroundJob
 {
     public string Name => "Contact email follow-up";

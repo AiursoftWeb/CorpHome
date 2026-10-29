@@ -13,6 +13,92 @@ namespace Aiursoft.CorpHome.Tests.IntegrationTests;
 public class GlobalSettingsTests : TestBase
 {
     [TestMethod]
+    public async Task AlertCenterSettingsKeepScopedSnapshotAndReloadRotatedSecrets()
+    {
+        using var scope = Server!.Services.CreateScope();
+        var settings = scope.ServiceProvider.GetRequiredService<GlobalSettingsService>();
+        await settings.UpdateSettingAsync(SettingsMap.AlertCenterEnabled, "True");
+        await settings.UpdateSettingAsync(SettingsMap.AlertCenterEndpoint, "https://alerts.example.invalid");
+        await settings.UpdateSettingAsync(SettingsMap.AlertCenterPublicBaseUrl, "https://corphome.example.invalid");
+        await settings.UpdateSettingAsync(SettingsMap.AlertCenterApiKey, "database-test-secret");
+
+        var db = scope.ServiceProvider.GetRequiredService<TemplateDbContext>();
+        var stored = await db.GlobalSettings.AsNoTracking().SingleAsync(setting => setting.Key == SettingsMap.AlertCenterApiKey);
+        Assert.StartsWith("protected:v1:", stored.Value!);
+        Assert.DoesNotContain("database-test-secret", stored.Value!);
+
+        var provider = scope.ServiceProvider.GetRequiredService<IAlertCenterSettingsProvider>();
+        var first = await provider.GetAsync();
+        Assert.IsTrue(first.Enabled);
+        Assert.AreEqual("https://alerts.example.invalid", first.Endpoint);
+        Assert.AreEqual("https://corphome.example.invalid", first.PublicBaseUrl);
+        Assert.AreEqual("database-test-secret", first.ApiKey);
+
+        await settings.UpdateSettingAsync(SettingsMap.AlertCenterApiKey, "rotated-test-secret");
+        Assert.AreSame(first, await scope.ServiceProvider.GetRequiredService<IAlertCenterSettingsProvider>().GetAsync());
+        Assert.AreEqual("database-test-secret", first.ApiKey);
+        using (var next = Server.Services.CreateScope())
+        {
+            var reloaded = await next.ServiceProvider.GetRequiredService<IAlertCenterSettingsProvider>().GetAsync();
+            Assert.AreEqual("rotated-test-secret", reloaded.ApiKey);
+        }
+
+        await LoginAsAdmin();
+        var html = await Http.GetStringAsync("/GlobalSettings/Index");
+        Assert.Contains(SettingsMap.AlertCenterApiKey, html);
+        Assert.DoesNotContain("database-test-secret", html);
+        Assert.DoesNotContain("rotated-test-secret", html);
+    }
+
+    [TestMethod]
+    public async Task AlertCenterSettingsUseConfigurationOverrides()
+    {
+        using var scope = Server!.Services.CreateScope();
+        var settings = scope.ServiceProvider.GetRequiredService<GlobalSettingsService>();
+        await settings.UpdateSettingAsync(SettingsMap.AlertCenterApiKey, "database-test-secret");
+        var configuration = scope.ServiceProvider.GetRequiredService<IConfiguration>();
+        var cache = scope.ServiceProvider.GetRequiredService<Microsoft.Extensions.Caching.Memory.IMemoryCache>();
+        var overrides = new Dictionary<string, string>
+        {
+            [SettingsMap.AlertCenterEnabled] = "True",
+            [SettingsMap.AlertCenterEndpoint] = "https://override.example.invalid",
+            [SettingsMap.AlertCenterApiKey] = "override-test-secret",
+            [SettingsMap.AlertCenterPublicBaseUrl] = "https://public.example.invalid"
+        };
+        var originals = overrides.Keys.ToDictionary(key => key, key => configuration[$"GlobalSettings:{key}"]);
+        try
+        {
+            foreach (var (key, value) in overrides)
+            {
+                configuration[$"GlobalSettings:{key}"] = value;
+                cache.Remove($"global-setting-{key}");
+                Assert.IsTrue(settings.IsOverriddenByConfig(key));
+                await Assert.ThrowsExactlyAsync<InvalidOperationException>(() => settings.UpdateSettingAsync(key, value));
+            }
+
+            var snapshot = await scope.ServiceProvider.GetRequiredService<IAlertCenterSettingsProvider>().GetAsync();
+            Assert.IsTrue(snapshot.Enabled);
+            Assert.AreEqual(overrides[SettingsMap.AlertCenterEndpoint], snapshot.Endpoint);
+            Assert.AreEqual(overrides[SettingsMap.AlertCenterApiKey], snapshot.ApiKey);
+            Assert.AreEqual(overrides[SettingsMap.AlertCenterPublicBaseUrl], snapshot.PublicBaseUrl);
+
+            await LoginAsAdmin();
+            var html = await Http.GetStringAsync("/GlobalSettings/Index");
+            Assert.Contains(SettingsMap.AlertCenterApiKey, html);
+            Assert.DoesNotContain("database-test-secret", html);
+            Assert.DoesNotContain("override-test-secret", html);
+        }
+        finally
+        {
+            foreach (var (key, value) in originals)
+            {
+                configuration[$"GlobalSettings:{key}"] = value;
+                cache.Remove($"global-setting-{key}");
+            }
+        }
+    }
+
+    [TestMethod]
     public async Task SecretSettingsPreserveLegacyValuesAndHideSavedSecrets()
     {
         const string secretKey = "IntegrationTest_Secret";

@@ -80,6 +80,7 @@ public class ViewModelArgsInjector(
         _ = localizer["Permission Details"];
         _ = localizer["Register"];
     
+        _ = localizer["Contact Details"];
         _ = localizer["Contact Success"];
         _ = localizer["Contact Us"];
         _ = localizer["Contacts"];

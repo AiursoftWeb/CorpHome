@@ -31,6 +31,32 @@ public class ContactsControllerTests : TestBase
     }
 
     [TestMethod]
+    [DataRow("zh-CN", "联系人详情", "启用 AlertCenter 集成")]
+    [DataRow("zh-HK", "聯絡人詳情", "啟用 AlertCenter 整合")]
+    [DataRow("zh-TW", "聯絡人詳細資料", "啟用 AlertCenter 整合")]
+    public async Task DetailsAndIntegrationSettingsAreLocalized(string culture, string detailsTitle, string integrationName)
+    {
+        var contact = await AddContactAsync();
+        await LoginAsAdmin();
+        using var cultureResponse = await Http.GetAsync($"/Culture/Set?culture={culture}&returnUrl=/");
+        Assert.AreEqual(HttpStatusCode.Found, cultureResponse.StatusCode);
+
+        var details = WebUtility.HtmlDecode(await Http.GetStringAsync($"/Contacts/Details/{contact.Id}"));
+        Assert.Contains(detailsTitle, details);
+        Assert.Contains("detail-customer@example.invalid", details);
+        Assert.DoesNotContain("Contact Details", details);
+        Assert.DoesNotContain("Organization size", details);
+        Assert.DoesNotContain("Back to List", details);
+
+        var settings = WebUtility.HtmlDecode(await Http.GetStringAsync("/GlobalSettings/Index"));
+        Assert.Contains(integrationName, settings);
+        Assert.Contains("AlertCenter_Enabled", settings);
+        Assert.DoesNotContain("Enable AlertCenter integration", settings);
+        Assert.DoesNotContain("Automatically mitigate contacts after email follow-up", settings);
+        Assert.DoesNotContain("The HTTP(S) base URL of AlertCenter.", settings);
+    }
+
+    [TestMethod]
     public async Task DetailsRequiresContactPermission()
     {
         var contact = await AddContactAsync();
