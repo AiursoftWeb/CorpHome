@@ -15,6 +15,14 @@ namespace Aiursoft.CorpHome.Controllers;
 public class ContactsController(TemplateDbContext dbContext) : Controller
 {
     [Authorize(Policy = AppPermissionNames.CanViewContacts)]
+    public async Task<IActionResult> Details(int id)
+    {
+        var contact = await dbContext.Contacts.AsNoTracking().SingleOrDefaultAsync(contact => contact.Id == id);
+        if (contact == null) return NotFound();
+        return this.StackView(new DetailsViewModel { Contact = contact });
+    }
+
+    [Authorize(Policy = AppPermissionNames.CanViewContacts)]
     [RenderInNavBar(
         NavGroupName = "Administration",
         NavGroupOrder = 9999,

@@ -11,6 +11,7 @@ public abstract class TemplateDbContext(DbContextOptions options) : IdentityDbCo
 {
     public DbSet<GlobalSetting> GlobalSettings => Set<GlobalSetting>();
     public DbSet<Contact> Contacts => Set<Contact>();
+    public DbSet<ContactMailboxCheckpoint> ContactMailboxCheckpoints => Set<ContactMailboxCheckpoint>();
 
     public virtual  Task MigrateAsync(CancellationToken cancellationToken) =>
         Database.MigrateAsync(cancellationToken);

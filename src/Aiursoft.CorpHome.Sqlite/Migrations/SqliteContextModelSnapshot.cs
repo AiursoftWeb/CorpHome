@@ -15,7 +15,7 @@ namespace Aiursoft.CorpHome.Sqlite.Migrations
         protected override void BuildModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
-            modelBuilder.HasAnnotation("ProductVersion", "10.0.3");
+            modelBuilder.HasAnnotation("ProductVersion", "10.0.14");
 
             modelBuilder.Entity("Aiursoft.CorpHome.Entities.Contact", b =>
                 {
@@ -28,6 +28,18 @@ namespace Aiursoft.CorpHome.Sqlite.Migrations
 
                     b.Property<bool>("AgreeToPrivacy")
                         .HasColumnType("INTEGER");
+
+                    b.Property<Guid?>("AlertCenterIncidentId")
+                        .HasColumnType("TEXT");
+
+                    b.Property<DateTime?>("AlertCenterMitigatedAtUtc")
+                        .HasColumnType("TEXT");
+
+                    b.Property<Guid?>("AlertCenterReportId")
+                        .HasColumnType("TEXT");
+
+                    b.Property<DateTime?>("AlertCenterReportedAtUtc")
+                        .HasColumnType("TEXT");
 
                     b.Property<string>("Company")
                         .IsRequired()
@@ -46,6 +58,12 @@ namespace Aiursoft.CorpHome.Sqlite.Migrations
 
                     b.Property<string>("FirstName")
                         .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("FollowUpMessageId")
+                        .HasColumnType("TEXT");
+
+                    b.Property<DateTime?>("FollowUpReceivedAtUtc")
                         .HasColumnType("TEXT");
 
                     b.Property<string>("JobTitle")
@@ -67,6 +85,23 @@ namespace Aiursoft.CorpHome.Sqlite.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Contacts");
+                });
+
+            modelBuilder.Entity("Aiursoft.CorpHome.Entities.ContactMailboxCheckpoint", b =>
+                {
+                    b.Property<string>("Id")
+                        .HasMaxLength(64)
+                        .HasColumnType("TEXT");
+
+                    b.Property<long>("LastUid")
+                        .HasColumnType("INTEGER");
+
+                    b.Property<long>("UidValidity")
+                        .HasColumnType("INTEGER");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("ContactMailboxCheckpoints");
                 });
 
             modelBuilder.Entity("Aiursoft.CorpHome.Entities.GlobalSetting", b =>

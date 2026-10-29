@@ -29,8 +29,8 @@
             <tbody>
             @foreach (var item in Model.Contacts)
             {
-                <tr>
-                    <td>@item.FirstName @item.LastName</td>
+                <tr id="contact-@item.Id">
+                    <td><a asp-action="Details" asp-route-id="@item.Id">@item.FirstName @item.LastName</a></td>
                     <td>@item.Company</td>
                     <td>@item.JobTitle</td>
                     <td><a href="mailto:@item.Email">@item.Email</a></td>

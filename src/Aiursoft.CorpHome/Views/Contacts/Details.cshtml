@@ -1,0 +1,27 @@
+@using Aiursoft.WebTools
+@model Aiursoft.CorpHome.Models.ContactsViewModels.DetailsViewModel
+
+<h3>@Localizer["Contact Details"] #@Model.Contact.Id</h3>
+<div class="card">
+    <div class="card-body">
+        <dl class="row">
+            <dt class="col-sm-3">@Localizer["Name"]</dt>
+            <dd class="col-sm-9">@Model.Contact.FirstName @Model.Contact.LastName</dd>
+            <dt class="col-sm-3">@Localizer["Company"]</dt>
+            <dd class="col-sm-9">@Model.Contact.Company</dd>
+            <dt class="col-sm-3">@Localizer["Job Title"]</dt>
+            <dd class="col-sm-9">@Model.Contact.JobTitle</dd>
+            <dt class="col-sm-3">@Localizer["Email"]</dt>
+            <dd class="col-sm-9"><a href="mailto:@Model.Contact.Email">@Model.Contact.Email</a></dd>
+            <dt class="col-sm-3">@Localizer["Organization size"]</dt>
+            <dd class="col-sm-9">@Model.Contact.OrganizationSize</dd>
+            <dt class="col-sm-3">@Localizer["Consume open source"]</dt>
+            <dd class="col-sm-9" style="white-space: pre-wrap; overflow-wrap: anywhere">@Model.Contact.ConsumeOpenSource</dd>
+            <dt class="col-sm-3">@Localizer["Services provided"]</dt>
+            <dd class="col-sm-9" style="white-space: pre-wrap; overflow-wrap: anywhere">@Model.Contact.ServicesProvided</dd>
+            <dt class="col-sm-3">@Localizer["Create time"]</dt>
+            <dd class="col-sm-9"><span data-utc-time="@Model.Contact.CreateTime.ToHtmlDateTime()"></span></dd>
+        </dl>
+        <a asp-action="Index" class="btn btn-secondary">@Localizer["Back to List"]</a>
+    </div>
+</div>

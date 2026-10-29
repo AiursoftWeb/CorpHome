@@ -60,6 +60,9 @@
   <data name="Click to login" xml:space="preserve">
     <value>点击登录</value>
   </data>
+  <data name="Contact Details" xml:space="preserve">
+    <value>联系人详情</value>
+  </data>
   <data name="Contact Success" xml:space="preserve">
     <value>联系成功</value>
   </data>

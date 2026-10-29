@@ -17,7 +17,7 @@ namespace Aiursoft.CorpHome.MySql.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "10.0.3")
+                .HasAnnotation("ProductVersion", "10.0.14")
                 .HasAnnotation("Relational:MaxIdentifierLength", 64);
 
             MySqlModelBuilderExtensions.AutoIncrementColumns(modelBuilder);
@@ -35,6 +35,18 @@ namespace Aiursoft.CorpHome.MySql.Migrations
 
                     b.Property<bool>("AgreeToPrivacy")
                         .HasColumnType("tinyint(1)");
+
+                    b.Property<Guid?>("AlertCenterIncidentId")
+                        .HasColumnType("char(36)");
+
+                    b.Property<DateTime?>("AlertCenterMitigatedAtUtc")
+                        .HasColumnType("datetime(6)");
+
+                    b.Property<Guid?>("AlertCenterReportId")
+                        .HasColumnType("char(36)");
+
+                    b.Property<DateTime?>("AlertCenterReportedAtUtc")
+                        .HasColumnType("datetime(6)");
 
                     b.Property<string>("Company")
                         .IsRequired()
@@ -55,6 +67,12 @@ namespace Aiursoft.CorpHome.MySql.Migrations
                         .IsRequired()
                         .HasColumnType("longtext");
 
+                    b.Property<string>("FollowUpMessageId")
+                        .HasColumnType("longtext");
+
+                    b.Property<DateTime?>("FollowUpReceivedAtUtc")
+                        .HasColumnType("datetime(6)");
+
                     b.Property<string>("JobTitle")
                         .IsRequired()
                         .HasColumnType("longtext");
@@ -74,6 +92,23 @@ namespace Aiursoft.CorpHome.MySql.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Contacts");
+                });
+
+            modelBuilder.Entity("Aiursoft.CorpHome.Entities.ContactMailboxCheckpoint", b =>
+                {
+                    b.Property<string>("Id")
+                        .HasMaxLength(64)
+                        .HasColumnType("varchar(64)");
+
+                    b.Property<long>("LastUid")
+                        .HasColumnType("bigint");
+
+                    b.Property<long>("UidValidity")
+                        .HasColumnType("bigint");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("ContactMailboxCheckpoints");
                 });
 
             modelBuilder.Entity("Aiursoft.CorpHome.Entities.GlobalSetting", b =>

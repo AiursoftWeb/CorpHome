@@ -27,7 +27,7 @@ public abstract class TestBase
     {
         using var reservation = new TestPortReservation();
         Http.BaseAddress = new Uri($"http://localhost:{reservation.Port}");
-        Server = await AppAsync<Startup>([], port: reservation.Port);
+        Server = await AppAsync<Startup>(["--applicationName", typeof(Startup).Assembly.GetName().Name!], port: reservation.Port);
         try
         {
             reservation.ConfigureServer(Server);
