@@ -21,17 +21,35 @@
       <data name=" The link to the brand&apos;s home page." xml:space="preserve">
     <value>ब्रांड के होम पेज का लिंक</value>
   </data>
+  <data name="A dedicated CorpHome application key with create incident permission; email follow-up also requires query and mitigate permissions." xml:space="preserve">
+    <value>घटना बनाने की अनुमति वाली एक समर्पित CorpHome एप्लिकेशन कुंजी; ईमेल फ़ॉलो-अप के लिए क्वेरी और समाधान की अनुमतियाँ भी आवश्यक हैं।</value>
+  </data>
   <data name="A dummy choice for testing." xml:space="preserve">
     <value>परीक्षण के लिए एक काल्पनिक विकल्प।</value>
   </data>
   <data name="A dummy number for testing." xml:space="preserve">
     <value>परीक्षण के लिए एक डमी संख्या।</value>
   </data>
+  <data name="A staff email mitigates all matching earlier submissions within this window (1–30 days). Later submissions require a new follow-up." xml:space="preserve">
+    <value>कर्मचारी का ईमेल इस अवधि (1–30 दिन) के भीतर पहले से किए गए सभी मेल खाते सबमिशन का निवारण करता है। बाद के सबमिशन के लिए नए फ़ॉलो-अप की आवश्यकता होगी।</value>
+  </data>
+  <data name="AlertCenter application API key" xml:space="preserve">
+    <value>AlertCenter एप्लिकेशन API कुंजी</value>
+  </data>
+  <data name="AlertCenter endpoint" xml:space="preserve">
+    <value>AlertCenter एंडपॉइंट</value>
+  </data>
   <data name="Allow User Adjust Nickname" xml:space="preserve">
     <value>उपयोगकर्ता नाम समायोजित करने की अनुमति दें</value>
   </data>
   <data name="Allow users to adjust their nickname in the profile management page." xml:space="preserve">
     <value>प्रोफ़ाइल प्रबंधन पृष्ठ पर उपयोगकर्ताओं को अपना निकनेम समायोजित करने की अनुमति दें।</value>
+  </data>
+  <data name="Allowed contact follow-up senders" xml:space="preserve">
+    <value>अनुमत संपर्क फ़ॉलो-अप प्रेषक</value>
+  </data>
+  <data name="Automatically mitigate contacts after email follow-up" xml:space="preserve">
+    <value>ईमेल पर फ़ॉलो-अप के बाद संपर्कों को स्वचालित रूप से निष्क्रिय करें</value>
   </data>
   <data name="Baidu Verification Key" xml:space="preserve">
     <value>बाइडू सत्यापन कुंजी</value>
@@ -42,8 +60,35 @@
   <data name="Brand Name" xml:space="preserve">
     <value>ब्रांड नाम</value>
   </data>
+  <data name="Comma-separated staff email addresses or @domains. This filter does not authenticate senders; restrict mailbox delivery on the mail server." xml:space="preserve">
+    <value>कर्मचारियों के ईमेल पते या @डोमेन, जिन्हें अल्पविराम से अलग किया गया हो। यह फ़िल्टर प्रेषकों की पुष्टि नहीं करता; मेल सर्वर पर मेलबॉक्स में डिलीवरी सीमित करें।</value>
+  </data>
   <data name="Company Name (Simplified Chinese)" xml:space="preserve">
     <value>कंपनी का नाम (सरलीकृत चीनी)</value>
+  </data>
+  <data name="Contact follow-up IMAP host" xml:space="preserve">
+    <value>संपर्क फ़ॉलो-अप IMAP होस्ट</value>
+  </data>
+  <data name="Contact follow-up IMAP port" xml:space="preserve">
+    <value>संपर्क फ़ॉलो-अप IMAP पोर्ट</value>
+  </data>
+  <data name="Contact follow-up mailbox folder" xml:space="preserve">
+    <value>फ़ॉलो-अप संपर्क मेलबॉक्स फ़ोल्डर</value>
+  </data>
+  <data name="Contact follow-up mailbox password" xml:space="preserve">
+    <value>संपर्क फ़ॉलो-अप मेलबॉक्स पासवर्ड</value>
+  </data>
+  <data name="Contact follow-up mailbox username" xml:space="preserve">
+    <value>संपर्क फ़ॉलो-अप मेलबॉक्स उपयोगकर्ता नाम</value>
+  </data>
+  <data name="Contact follow-up window in days" xml:space="preserve">
+    <value>संपर्क के फ़ॉलो-अप की अवधि (दिनों में)</value>
+  </data>
+  <data name="CorpHome public URL" xml:space="preserve">
+    <value>CorpHome का सार्वजनिक URL</value>
+  </data>
+  <data name="Dedicated mailbox included in your staff CC group, or explicitly copied on customer replies." xml:space="preserve">
+    <value>आपके स्टाफ़ के CC समूह में शामिल एक समर्पित मेलबॉक्स, या जिसे ग्राहक के जवाबों में स्पष्ट रूप से CC किया गया हो।</value>
   </data>
   <data name="Dummy Choice" xml:space="preserve">
     <value>डमी चयन</value>
@@ -51,14 +96,35 @@
   <data name="Dummy Number" xml:space="preserve">
     <value>डमी नंबर</value>
   </data>
+  <data name="Enable AlertCenter integration" xml:space="preserve">
+    <value>AlertCenter एकीकरण सक्षम करें</value>
+  </data>
   <data name="ICP Number" xml:space="preserve">
     <value>ICP संख्या</value>
+  </data>
+  <data name="IMAP folder to inspect. Messages are never marked as read, moved or deleted." xml:space="preserve">
+    <value>जाँचने के लिए IMAP फ़ोल्डर। संदेशों को कभी भी पढ़ा हुआ चिह्नित नहीं किया जाता, स्थानांतरित नहीं किया जाता या हटाया नहीं जाता।</value>
+  </data>
+  <data name="IMAP hostname. Implicit TLS and valid server certificates are required." xml:space="preserve">
+    <value>IMAP होस्टनाम। इनबिल्ट TLS और मान्य सर्वर प्रमाणपत्र आवश्यक हैं।</value>
+  </data>
+  <data name="Implicit TLS port, normally 993." xml:space="preserve">
+    <value>इम्प्लिसिट TLS पोर्ट, आमतौर पर 993।</value>
+  </data>
+  <data name="Mailbox password or application password. No mail server administrator credentials are needed." xml:space="preserve">
+    <value>मेलबॉक्स पासवर्ड या ऐप्लिकेशन पासवर्ड। मेल सर्वर के व्यवस्थापक क्रेडेंशियल की आवश्यकता नहीं है।</value>
   </data>
   <data name="Project Logo" xml:space="preserve">
     <value>प्रोजेक्ट लोगो</value>
   </data>
   <data name="Project Name" xml:space="preserve">
     <value>प्रोजेक्ट नाम</value>
+  </data>
+  <data name="Read a dedicated IMAPS mailbox receiving staff follow-up copies. The mail server must restrict delivery to authenticated internal staff. Requires AlertCenter integration." xml:space="preserve">
+    <value>कर्मचारियों की फ़ॉलो-अप प्रतियाँ प्राप्त करने वाला एक समर्पित IMAPS मेलबॉक्स पढ़ें। मेल सर्वर को डिलीवरी केवल प्रमाणित आंतरिक कर्मचारियों तक सीमित रखनी चाहिए। इसके लिए AlertCenter इंटीग्रेशन आवश्यक है।</value>
+  </data>
+  <data name="Send new contact submissions to AlertCenter as sev2 incidents. Disabling pauses delivery; pending submissions are retained." xml:space="preserve">
+    <value>नए संपर्क सबमिशन को sev2 घटनाओं के रूप में AlertCenter पर भेजें। इसे अक्षम करने से डिलीवरी रुक जाती है; लंबित सबमिशन सुरक्षित रखे जाते हैं।</value>
   </data>
   <data name="Show Aoji Airlines in the trusted partners section." xml:space="preserve">
     <value>विश्वसनीय भागीदार खंड में Aoji Airlines दिखाएं।</value>
@@ -108,6 +174,9 @@
   <data name="The company name displayed when the page language is Simplified Chinese. Leave empty to use the default brand name." xml:space="preserve">
     <value>जब पृष्ठ भाषा सरलीकृत चीनी हो तो प्रदर्शित होने वाला कंपनी का नाम। डिफ़ॉल्ट ब्रांड नाम का उपयोग करने के लिए इसे खाली छोड़ दें।</value>
   </data>
+  <data name="The HTTP(S) base URL of AlertCenter." xml:space="preserve">
+    <value>AlertCenter का HTTP(S) बेस URL</value>
+  </data>
   <data name="The ICP license number for China mainland users. Leave empty to hide." xml:space="preserve">
     <value>चीन मुख्यभूमि के उपयोगकर्ताओं के लिए ICP लाइसेंस संख्या। छिपाने के लिए खाली छोड़ दें।</value>
   </data>
@@ -116,6 +185,9 @@
   </data>
   <data name="The name of the project displayed in the frontend." xml:space="preserve">
     <value>फ्रंटएंड में प्रदर्शित प्रोजेक्ट का नाम।</value>
+  </data>
+  <data name="The public HTTP(S) base URL used for contact follow-up links." xml:space="preserve">
+    <value>संपर्क के अनुवर्ती लिंक के लिए उपयोग किया जाने वाला सार्वजनिक HTTP(S) आधार URL।</value>
   </data>
   <data name="The verification key for Baidu site verification. Will be added as &lt;meta name=\&quot;baidu-site-verification\&quot; content=\&quot;...\&quot; /&gt; in the page head." xml:space="preserve">
     <value>बाइडू साइट सत्यापन के लिए सत्यापन कुंजी। इसे पृष्ठ हेड में &lt;meta name=\&quot;baidu-site-verification\&quot; content=\&quot;...\&quot; /&gt; के रूप में जोड़ा जाएगा।</value>

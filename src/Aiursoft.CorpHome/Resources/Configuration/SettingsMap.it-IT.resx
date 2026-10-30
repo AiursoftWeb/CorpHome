@@ -21,17 +21,35 @@
       <data name=" The link to the brand&apos;s home page." xml:space="preserve">
     <value>Il collegamento alla pagina principale del marchio.</value>
   </data>
+  <data name="A dedicated CorpHome application key with create incident permission; email follow-up also requires query and mitigate permissions." xml:space="preserve">
+    <value>Una chiave applicativa dedicata di CorpHome con autorizzazione a creare incident; per il follow-up via e-mail sono necessarie anche le autorizzazioni per consultare e mitigare gli incident.</value>
+  </data>
   <data name="A dummy choice for testing." xml:space="preserve">
     <value>Una scelta fittizia per il test.</value>
   </data>
   <data name="A dummy number for testing." xml:space="preserve">
     <value>Un numero fittizio per test.</value>
   </data>
+  <data name="A staff email mitigates all matching earlier submissions within this window (1–30 days). Later submissions require a new follow-up." xml:space="preserve">
+    <value>Un’e-mail del personale mitiga tutte le segnalazioni precedenti corrispondenti ricevute in questo intervallo (1–30 giorni). Per le segnalazioni successive è necessario un nuovo follow-up.</value>
+  </data>
+  <data name="AlertCenter application API key" xml:space="preserve">
+    <value>Chiave API dell&apos;applicazione AlertCenter</value>
+  </data>
+  <data name="AlertCenter endpoint" xml:space="preserve">
+    <value>Endpoint di AlertCenter</value>
+  </data>
   <data name="Allow User Adjust Nickname" xml:space="preserve">
     <value>Consenti all&apos;utente di modificare il soprannome</value>
   </data>
   <data name="Allow users to adjust their nickname in the profile management page." xml:space="preserve">
     <value>Consenti agli utenti di modificare il proprio nickname nella pagina di gestione del profilo.</value>
+  </data>
+  <data name="Allowed contact follow-up senders" xml:space="preserve">
+    <value>Mittenti autorizzati per i follow-up dei contatti</value>
+  </data>
+  <data name="Automatically mitigate contacts after email follow-up" xml:space="preserve">
+    <value>Mitiga automaticamente i contatti dopo un follow-up via email</value>
   </data>
   <data name="Baidu Verification Key" xml:space="preserve">
     <value>Chiave di verifica Baidu</value>
@@ -42,8 +60,35 @@
   <data name="Brand Name" xml:space="preserve">
     <value>Nome del marchio</value>
   </data>
+  <data name="Comma-separated staff email addresses or @domains. This filter does not authenticate senders; restrict mailbox delivery on the mail server." xml:space="preserve">
+    <value>Indirizzi email del personale o domini @, separati da virgole. Questo filtro non autentica i mittenti; limita la consegna dei messaggi alla casella sul server di posta.</value>
+  </data>
   <data name="Company Name (Simplified Chinese)" xml:space="preserve">
     <value>Nome azienda (cinese semplificato)</value>
+  </data>
+  <data name="Contact follow-up IMAP host" xml:space="preserve">
+    <value>Server IMAP per il follow-up dei contatti</value>
+  </data>
+  <data name="Contact follow-up IMAP port" xml:space="preserve">
+    <value>Porta IMAP per il follow-up dei contatti</value>
+  </data>
+  <data name="Contact follow-up mailbox folder" xml:space="preserve">
+    <value>Cartella della casella di posta per i follow-up dei contatti</value>
+  </data>
+  <data name="Contact follow-up mailbox password" xml:space="preserve">
+    <value>Password della casella di posta per i solleciti di contatto</value>
+  </data>
+  <data name="Contact follow-up mailbox username" xml:space="preserve">
+    <value>Nome utente della casella di posta per il follow-up dei contatti</value>
+  </data>
+  <data name="Contact follow-up window in days" xml:space="preserve">
+    <value>Periodo di follow-up dei contatti in giorni</value>
+  </data>
+  <data name="CorpHome public URL" xml:space="preserve">
+    <value>URL pubblica di CorpHome</value>
+  </data>
+  <data name="Dedicated mailbox included in your staff CC group, or explicitly copied on customer replies." xml:space="preserve">
+    <value>Casella di posta dedicata inclusa nel gruppo CC del personale oppure messa esplicitamente in copia nelle risposte ai clienti.</value>
   </data>
   <data name="Dummy Choice" xml:space="preserve">
     <value>Scelta Fittizia</value>
@@ -51,14 +96,35 @@
   <data name="Dummy Number" xml:space="preserve">
     <value>Numero fittizio</value>
   </data>
+  <data name="Enable AlertCenter integration" xml:space="preserve">
+    <value>Abilita l’integrazione con AlertCenter</value>
+  </data>
   <data name="ICP Number" xml:space="preserve">
     <value>Numero ICP</value>
+  </data>
+  <data name="IMAP folder to inspect. Messages are never marked as read, moved or deleted." xml:space="preserve">
+    <value>Cartella IMAP da ispezionare. I messaggi non verranno mai contrassegnati come letti, spostati o eliminati.</value>
+  </data>
+  <data name="IMAP hostname. Implicit TLS and valid server certificates are required." xml:space="preserve">
+    <value>Nome host IMAP. Sono richiesti TLS implicito e certificati server validi.</value>
+  </data>
+  <data name="Implicit TLS port, normally 993." xml:space="preserve">
+    <value>Porta TLS implicita, normalmente 993.</value>
+  </data>
+  <data name="Mailbox password or application password. No mail server administrator credentials are needed." xml:space="preserve">
+    <value>Password della casella di posta o password dell’applicazione. Non sono necessarie le credenziali di amministratore del server di posta.</value>
   </data>
   <data name="Project Logo" xml:space="preserve">
     <value>Logo del Progetto</value>
   </data>
   <data name="Project Name" xml:space="preserve">
     <value>Nome progetto</value>
+  </data>
+  <data name="Read a dedicated IMAPS mailbox receiving staff follow-up copies. The mail server must restrict delivery to authenticated internal staff. Requires AlertCenter integration." xml:space="preserve">
+    <value>Legge una casella di posta IMAPS dedicata che riceve le copie dei messaggi di follow-up inviati dal personale. Il server di posta deve limitare la consegna al personale interno autenticato. Richiede l’integrazione con AlertCenter.</value>
+  </data>
+  <data name="Send new contact submissions to AlertCenter as sev2 incidents. Disabling pauses delivery; pending submissions are retained." xml:space="preserve">
+    <value>Invia le nuove richieste di contatto ad AlertCenter come incidenti di gravità sev2. La disattivazione sospende l’invio; le richieste in attesa vengono conservate.</value>
   </data>
   <data name="Show Aoji Airlines in the trusted partners section." xml:space="preserve">
     <value>Mostra Aoji Airlines nella sezione dei partner di fiducia.</value>
@@ -108,6 +174,9 @@
   <data name="The company name displayed when the page language is Simplified Chinese. Leave empty to use the default brand name." xml:space="preserve">
     <value>Nome dell&apos;azienda visualizzato quando la lingua della pagina è Cinese Semplificato. Lasciare vuoto per utilizzare il nome predefinito del brand.</value>
   </data>
+  <data name="The HTTP(S) base URL of AlertCenter." xml:space="preserve">
+    <value>L’URL di base HTTP(S) di AlertCenter.</value>
+  </data>
   <data name="The ICP license number for China mainland users. Leave empty to hide." xml:space="preserve">
     <value>Il numero di licenza ICP per gli utenti della Cina continentale. Lasciare vuoto per nascondere.</value>
   </data>
@@ -116,6 +185,9 @@
   </data>
   <data name="The name of the project displayed in the frontend." xml:space="preserve">
     <value>Il nome del progetto visualizzato nel frontend.</value>
+  </data>
+  <data name="The public HTTP(S) base URL used for contact follow-up links." xml:space="preserve">
+    <value>L&apos;URL di base pubblica HTTP(S) utilizzata per i link di follow-up dei contatti.</value>
   </data>
   <data name="The verification key for Baidu site verification. Will be added as &lt;meta name=\&quot;baidu-site-verification\&quot; content=\&quot;...\&quot; /&gt; in the page head." xml:space="preserve">
     <value>La chiave di verifica per la verifica del sito Baidu. Verrà aggiunta come &lt;meta name=\&quot;baidu-site-verification\&quot; content=\&quot;...\&quot; /&gt; nell&apos;intestazione della pagina.</value>

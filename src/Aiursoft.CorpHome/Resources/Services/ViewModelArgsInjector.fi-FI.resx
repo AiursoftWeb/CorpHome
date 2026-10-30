@@ -57,6 +57,9 @@
   <data name="Click to login" xml:space="preserve">
     <value>Klikkaa kirjautuaksesi</value>
   </data>
+  <data name="Contact Details" xml:space="preserve">
+    <value>Yhteystiedot</value>
+  </data>
   <data name="Contact Success" xml:space="preserve">
     <value>Yhteystiedot onnistui</value>
   </data>

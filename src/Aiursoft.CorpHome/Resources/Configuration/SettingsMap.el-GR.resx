@@ -21,17 +21,35 @@
       <data name=" The link to the brand&apos;s home page." xml:space="preserve">
     <value>Ο σύνδεσμος προς την αρχική σελίδα της εταιρείας.</value>
   </data>
+  <data name="A dedicated CorpHome application key with create incident permission; email follow-up also requires query and mitigate permissions." xml:space="preserve">
+    <value>Ένα αποκλειστικό κλειδί εφαρμογής του CorpHome με δικαίωμα δημιουργίας συμβάντων· η παρακολούθηση μέσω email απαιτεί επίσης δικαιώματα αναζήτησης και μετριασμού.</value>
+  </data>
   <data name="A dummy choice for testing." xml:space="preserve">
     <value>Μια δοκιμαστική επιλογή για δοκιμές.</value>
   </data>
   <data name="A dummy number for testing." xml:space="preserve">
     <value>Ένας εικονικός αριθμός για δοκιμές.</value>
   </data>
+  <data name="A staff email mitigates all matching earlier submissions within this window (1–30 days). Later submissions require a new follow-up." xml:space="preserve">
+    <value>Ένα email από μέλος του προσωπικού μετριάζει όλες τις προηγούμενες υποβολές που αντιστοιχούν σε αυτό εντός αυτού του χρονικού διαστήματος (1–30 ημέρες). Για μεταγενέστερες υποβολές απαιτείται νέα ενέργεια παρακολούθησης.</value>
+  </data>
+  <data name="AlertCenter application API key" xml:space="preserve">
+    <value>Κλειδί API εφαρμογής του AlertCenter</value>
+  </data>
+  <data name="AlertCenter endpoint" xml:space="preserve">
+    <value>Τελικό σημείο του AlertCenter</value>
+  </data>
   <data name="Allow User Adjust Nickname" xml:space="preserve">
     <value>Επιτρέψτε στον Χρήστη να Τροποποιήσει το Παρασκήνιο Όνομα</value>
   </data>
   <data name="Allow users to adjust their nickname in the profile management page." xml:space="preserve">
     <value>Επιτρέψτε στους χρήστες να τροποποιήσουν το ψευδώνυμό τους στη σελίδα διαχείρισης προφίλ.</value>
+  </data>
+  <data name="Allowed contact follow-up senders" xml:space="preserve">
+    <value>Επιτρεπόμενοι αποστολείς για επικοινωνία παρακολούθησης</value>
+  </data>
+  <data name="Automatically mitigate contacts after email follow-up" xml:space="preserve">
+    <value>Αυτόματη αντιμετώπιση επαφών μετά από επικοινωνία μέσω email</value>
   </data>
   <data name="Baidu Verification Key" xml:space="preserve">
     <value>Κλειδί Επαλήθευσης Baidu</value>
@@ -42,8 +60,35 @@
   <data name="Brand Name" xml:space="preserve">
     <value>Όνομα Εταιρείας</value>
   </data>
+  <data name="Comma-separated staff email addresses or @domains. This filter does not authenticate senders; restrict mailbox delivery on the mail server." xml:space="preserve">
+    <value>Διευθύνσεις email προσωπικού ή @domains, διαχωρισμένες με κόμμα. Αυτό το φίλτρο δεν επαληθεύει την ταυτότητα των αποστολέων· περιορίστε την παράδοση μηνυμάτων στο γραμματοκιβώτιο από τον διακομιστή αλληλογραφίας.</value>
+  </data>
   <data name="Company Name (Simplified Chinese)" xml:space="preserve">
     <value>Ονομασία Εταιρείας (Απλοποιημένο Κινεζικό)</value>
+  </data>
+  <data name="Contact follow-up IMAP host" xml:space="preserve">
+    <value>Διακομιστής IMAP για την παρακολούθηση επικοινωνίας</value>
+  </data>
+  <data name="Contact follow-up IMAP port" xml:space="preserve">
+    <value>Θύρα IMAP για την παρακολούθηση επικοινωνίας</value>
+  </data>
+  <data name="Contact follow-up mailbox folder" xml:space="preserve">
+    <value>Φάκελος γραμματοκιβωτίου για παρακολούθηση επικοινωνιών</value>
+  </data>
+  <data name="Contact follow-up mailbox password" xml:space="preserve">
+    <value>Κωδικός πρόσβασης του γραμματοκιβωτίου για την παρακολούθηση επικοινωνίας</value>
+  </data>
+  <data name="Contact follow-up mailbox username" xml:space="preserve">
+    <value>Όνομα χρήστη γραμματοκιβωτίου για την παρακολούθηση επαφών</value>
+  </data>
+  <data name="Contact follow-up window in days" xml:space="preserve">
+    <value>Περίοδος παρακολούθησης επαφών σε ημέρες</value>
+  </data>
+  <data name="CorpHome public URL" xml:space="preserve">
+    <value>Δημόσια διεύθυνση URL του CorpHome</value>
+  </data>
+  <data name="Dedicated mailbox included in your staff CC group, or explicitly copied on customer replies." xml:space="preserve">
+    <value>Ειδικό γραμματοκιβώτιο που περιλαμβάνεται στην ομάδα CC του προσωπικού σας ή στο οποίο γίνεται ρητή κοινοποίηση απαντήσεων προς πελάτες.</value>
   </data>
   <data name="Dummy Choice" xml:space="preserve">
     <value>Προσχέδιο Επιλογής</value>
@@ -51,14 +96,35 @@
   <data name="Dummy Number" xml:space="preserve">
     <value>Τυχαίος Αριθμός</value>
   </data>
+  <data name="Enable AlertCenter integration" xml:space="preserve">
+    <value>Ενεργοποίηση ενσωμάτωσης με το AlertCenter</value>
+  </data>
   <data name="ICP Number" xml:space="preserve">
     <value>Αριθμός ΕΙΠ</value>
+  </data>
+  <data name="IMAP folder to inspect. Messages are never marked as read, moved or deleted." xml:space="preserve">
+    <value>Φάκελος IMAP προς έλεγχο. Τα μηνύματα δεν επισημαίνονται ποτέ ως αναγνωσμένα, δεν μετακινούνται ούτε διαγράφονται.</value>
+  </data>
+  <data name="IMAP hostname. Implicit TLS and valid server certificates are required." xml:space="preserve">
+    <value>Όνομα κεντρικού υπολογιστή IMAP. Απαιτούνται έμμεση TLS και έγκυρα πιστοποιητικά διακομιστή.</value>
+  </data>
+  <data name="Implicit TLS port, normally 993." xml:space="preserve">
+    <value>Θύρα TLS χωρίς STARTTLS, συνήθως η 993.</value>
+  </data>
+  <data name="Mailbox password or application password. No mail server administrator credentials are needed." xml:space="preserve">
+    <value>Κωδικός πρόσβασης γραμματοκιβωτίου ή κωδικός πρόσβασης εφαρμογής. Δεν απαιτούνται διαπιστευτήρια διαχειριστή διακομιστή αλληλογραφίας.</value>
   </data>
   <data name="Project Logo" xml:space="preserve">
     <value>Λογότυπο Έργου</value>
   </data>
   <data name="Project Name" xml:space="preserve">
     <value>Όνομα Έργου</value>
+  </data>
+  <data name="Read a dedicated IMAPS mailbox receiving staff follow-up copies. The mail server must restrict delivery to authenticated internal staff. Requires AlertCenter integration." xml:space="preserve">
+    <value>Διαβάζει ένα αποκλειστικό γραμματοκιβώτιο IMAPS που λαμβάνει αντίγραφα των μηνυμάτων παρακολούθησης του προσωπικού. Ο διακομιστής αλληλογραφίας πρέπει να επιτρέπει την παράδοση μόνο σε πιστοποιημένα εσωτερικά μέλη του προσωπικού. Απαιτείται ενσωμάτωση με το AlertCenter.</value>
+  </data>
+  <data name="Send new contact submissions to AlertCenter as sev2 incidents. Disabling pauses delivery; pending submissions are retained." xml:space="preserve">
+    <value>Αποστέλλετε τις νέες υποβολές επικοινωνίας στο AlertCenter ως περιστατικά sev2. Η απενεργοποίηση διακόπτει προσωρινά την αποστολή· οι εκκρεμείς υποβολές διατηρούνται.</value>
   </data>
   <data name="Show Aoji Airlines in the trusted partners section." xml:space="preserve">
     <value>Εμφάνιση της Aoji Airlines στην ενότητα αξιόπιστων συνεργατών.</value>
@@ -108,6 +174,9 @@
   <data name="The company name displayed when the page language is Simplified Chinese. Leave empty to use the default brand name." xml:space="preserve">
     <value>Το όνομα της εταιρείας που εμφανίζεται όταν η γλώσσα της σελίδας είναι Απλοποιημένα Κινέζικα. Αφήστε το κενό για να χρησιμοποιήσετε το προεπιλεγμένο όνομα μάρκας.</value>
   </data>
+  <data name="The HTTP(S) base URL of AlertCenter." xml:space="preserve">
+    <value>Η βασική διεύθυνση URL HTTP(S) του AlertCenter.</value>
+  </data>
   <data name="The ICP license number for China mainland users. Leave empty to hide." xml:space="preserve">
     <value>Ο αριθμός άδειας ICP για χρήστες της κυρίως Κίνας. Αφήστε κενό για να κρυφτεί.</value>
   </data>
@@ -116,6 +185,9 @@
   </data>
   <data name="The name of the project displayed in the frontend." xml:space="preserve">
     <value>Το όνομα του έργου που εμφανίζεται στον προβολέα</value>
+  </data>
+  <data name="The public HTTP(S) base URL used for contact follow-up links." xml:space="preserve">
+    <value>Η δημόσια βασική διεύθυνση URL HTTP(S) που χρησιμοποιείται για συνδέσμους επικοινωνίας για μεταγενέστερη επικοινωνία.</value>
   </data>
   <data name="The verification key for Baidu site verification. Will be added as &lt;meta name=\&quot;baidu-site-verification\&quot; content=\&quot;...\&quot; /&gt; in the page head." xml:space="preserve">
     <value>Το κλειδί επαλήθευσης για την επαλήθευση του ιστότοπου Baidu. Θα προστεθεί ως &lt;meta name=\&quot;baidu-site-verification\&quot; content=\&quot;...\&quot; /&gt; στο head της σελίδας.</value>

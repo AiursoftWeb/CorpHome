@@ -21,17 +21,35 @@
       <data name=" The link to the brand&apos;s home page." xml:space="preserve">
     <value>Ссылка на домашнюю страницу бренда.</value>
   </data>
+  <data name="A dedicated CorpHome application key with create incident permission; email follow-up also requires query and mitigate permissions." xml:space="preserve">
+    <value>Специальный ключ приложения CorpHome с разрешением на создание инцидентов; для обработки ответов по электронной почте также требуются разрешения на просмотр и устранение инцидентов.</value>
+  </data>
   <data name="A dummy choice for testing." xml:space="preserve">
     <value>Временный выбор для тестирования.</value>
   </data>
   <data name="A dummy number for testing." xml:space="preserve">
     <value>Заглушка для тестирования.</value>
   </data>
+  <data name="A staff email mitigates all matching earlier submissions within this window (1–30 days). Later submissions require a new follow-up." xml:space="preserve">
+    <value>Письмо от сотрудника позволяет закрыть все соответствующие более ранние обращения, поступившие в течение этого периода (1–30 дней). Для более поздних обращений потребуется новое письмо.</value>
+  </data>
+  <data name="AlertCenter application API key" xml:space="preserve">
+    <value>Ключ API приложения AlertCenter</value>
+  </data>
+  <data name="AlertCenter endpoint" xml:space="preserve">
+    <value>Конечная точка AlertCenter</value>
+  </data>
   <data name="Allow User Adjust Nickname" xml:space="preserve">
     <value>Разрешить пользователю изменять никнейм</value>
   </data>
   <data name="Allow users to adjust their nickname in the profile management page." xml:space="preserve">
     <value>Позволить пользователям изменять свой ник в странице управления профилем.</value>
+  </data>
+  <data name="Allowed contact follow-up senders" xml:space="preserve">
+    <value>Разрешённые отправители для обработки обращений</value>
+  </data>
+  <data name="Automatically mitigate contacts after email follow-up" xml:space="preserve">
+    <value>Автоматически обрабатывать обращения после последующей переписки по электронной почте</value>
   </data>
   <data name="Baidu Verification Key" xml:space="preserve">
     <value>Ключ проверки Baidu</value>
@@ -42,8 +60,35 @@
   <data name="Brand Name" xml:space="preserve">
     <value>Название бренда</value>
   </data>
+  <data name="Comma-separated staff email addresses or @domains. This filter does not authenticate senders; restrict mailbox delivery on the mail server." xml:space="preserve">
+    <value>Разделённые запятыми адреса электронной почты сотрудников или домены с символом @. Этот фильтр не проверяет подлинность отправителей; ограничьте доставку сообщений в почтовом ящике на почтовом сервере.</value>
+  </data>
   <data name="Company Name (Simplified Chinese)" xml:space="preserve">
     <value>Название компании (упрощенный китайский)</value>
+  </data>
+  <data name="Contact follow-up IMAP host" xml:space="preserve">
+    <value>IMAP-сервер для обработки ответов по контактам</value>
+  </data>
+  <data name="Contact follow-up IMAP port" xml:space="preserve">
+    <value>Порт IMAP для обработки обращений</value>
+  </data>
+  <data name="Contact follow-up mailbox folder" xml:space="preserve">
+    <value>Папка почтового ящика для обработки обращений</value>
+  </data>
+  <data name="Contact follow-up mailbox password" xml:space="preserve">
+    <value>Пароль почтового ящика для последующих контактов</value>
+  </data>
+  <data name="Contact follow-up mailbox username" xml:space="preserve">
+    <value>Имя пользователя почтового ящика для обработки ответов по обращениям</value>
+  </data>
+  <data name="Contact follow-up window in days" xml:space="preserve">
+    <value>Период для обработки обращений (в днях)</value>
+  </data>
+  <data name="CorpHome public URL" xml:space="preserve">
+    <value>Публичный URL CorpHome</value>
+  </data>
+  <data name="Dedicated mailbox included in your staff CC group, or explicitly copied on customer replies." xml:space="preserve">
+    <value>Выделенный почтовый ящик, включённый в группу CC сотрудников, или адрес, который явно добавляют в копию ответов клиентам.</value>
   </data>
   <data name="Dummy Choice" xml:space="preserve">
     <value>Временный выбор</value>
@@ -51,14 +96,35 @@
   <data name="Dummy Number" xml:space="preserve">
     <value>Временное число</value>
   </data>
+  <data name="Enable AlertCenter integration" xml:space="preserve">
+    <value>Включить интеграцию с AlertCenter</value>
+  </data>
   <data name="ICP Number" xml:space="preserve">
     <value>Номер ICP</value>
+  </data>
+  <data name="IMAP folder to inspect. Messages are never marked as read, moved or deleted." xml:space="preserve">
+    <value>Папка IMAP для проверки. Сообщения никогда не помечаются как прочитанные, не перемещаются и не удаляются.</value>
+  </data>
+  <data name="IMAP hostname. Implicit TLS and valid server certificates are required." xml:space="preserve">
+    <value>Имя хоста IMAP. Требуются неявное использование TLS и действительные сертификаты сервера.</value>
+  </data>
+  <data name="Implicit TLS port, normally 993." xml:space="preserve">
+    <value>Порт для неявного TLS, обычно 993.</value>
+  </data>
+  <data name="Mailbox password or application password. No mail server administrator credentials are needed." xml:space="preserve">
+    <value>Пароль почтового ящика или пароль приложения. Учетные данные администратора почтового сервера не требуются.</value>
   </data>
   <data name="Project Logo" xml:space="preserve">
     <value>Логотип проекта</value>
   </data>
   <data name="Project Name" xml:space="preserve">
     <value>Название проекта</value>
+  </data>
+  <data name="Read a dedicated IMAPS mailbox receiving staff follow-up copies. The mail server must restrict delivery to authenticated internal staff. Requires AlertCenter integration." xml:space="preserve">
+    <value>Считывать сообщения из выделенного почтового ящика IMAPS, куда поступают копии писем сотрудников с ответами. Почтовый сервер должен разрешать доставку только прошедшим аутентификацию сотрудникам организации. Требуется интеграция с AlertCenter.</value>
+  </data>
+  <data name="Send new contact submissions to AlertCenter as sev2 incidents. Disabling pauses delivery; pending submissions are retained." xml:space="preserve">
+    <value>Отправлять новые обращения через контактную форму в AlertCenter как инциденты уровня sev2. При отключении доставка приостанавливается, а ожидающие отправки сохраняются.</value>
   </data>
   <data name="Show Aoji Airlines in the trusted partners section." xml:space="preserve">
     <value>Отображать Aoji Airlines в разделе надежных партнеров.</value>
@@ -108,6 +174,9 @@
   <data name="The company name displayed when the page language is Simplified Chinese. Leave empty to use the default brand name." xml:space="preserve">
     <value>Название компании, отображаемое при выборе упрощенного китайского языка страницы. Оставьте поле пустым, чтобы использовать имя бренда по умолчанию.</value>
   </data>
+  <data name="The HTTP(S) base URL of AlertCenter." xml:space="preserve">
+    <value>Базовый URL AlertCenter с протоколом HTTP(S).</value>
+  </data>
   <data name="The ICP license number for China mainland users. Leave empty to hide." xml:space="preserve">
     <value>Номер лицензии ICP для пользователей из материкового Китая. Оставьте пустым, чтобы скрыть.</value>
   </data>
@@ -116,6 +185,9 @@
   </data>
   <data name="The name of the project displayed in the frontend." xml:space="preserve">
     <value>Название проекта, отображаемое на клиентской стороне.</value>
+  </data>
+  <data name="The public HTTP(S) base URL used for contact follow-up links." xml:space="preserve">
+    <value>Публичный базовый URL HTTP(S), используемый в ссылках для дальнейшей связи с отправителями сообщений.</value>
   </data>
   <data name="The verification key for Baidu site verification. Will be added as &lt;meta name=\&quot;baidu-site-verification\&quot; content=\&quot;...\&quot; /&gt; in the page head." xml:space="preserve">
     <value>Ключ проверки для верификации сайта Baidu. Будет добавлен в виде &lt;meta name=\&quot;baidu-site-verification\&quot; content=\&quot;...\&quot; /&gt; в заголовке страницы.</value>

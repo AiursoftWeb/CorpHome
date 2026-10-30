@@ -21,17 +21,35 @@
       <data name=" The link to the brand&apos;s home page." xml:space="preserve">
     <value>Tautan ke halaman utama merek.</value>
   </data>
+  <data name="A dedicated CorpHome application key with create incident permission; email follow-up also requires query and mitigate permissions." xml:space="preserve">
+    <value>Kunci aplikasi CorpHome khusus dengan izin untuk membuat insiden; tindak lanjut melalui email juga memerlukan izin untuk melihat dan memitigasi.</value>
+  </data>
   <data name="A dummy choice for testing." xml:space="preserve">
     <value>Pilihan dummy untuk pengujian.</value>
   </data>
   <data name="A dummy number for testing." xml:space="preserve">
     <value>Sebuah angka contoh untuk pengujian.</value>
   </data>
+  <data name="A staff email mitigates all matching earlier submissions within this window (1–30 days). Later submissions require a new follow-up." xml:space="preserve">
+    <value>Email staf menuntaskan semua pengajuan sebelumnya yang cocok dalam rentang waktu ini (1–30 hari). Pengajuan berikutnya memerlukan tindak lanjut baru.</value>
+  </data>
+  <data name="AlertCenter application API key" xml:space="preserve">
+    <value>Kunci API aplikasi AlertCenter</value>
+  </data>
+  <data name="AlertCenter endpoint" xml:space="preserve">
+    <value>Endpoint AlertCenter</value>
+  </data>
   <data name="Allow User Adjust Nickname" xml:space="preserve">
     <value>Izinkan Pengguna Mengatur Nama Panggilan</value>
   </data>
   <data name="Allow users to adjust their nickname in the profile management page." xml:space="preserve">
     <value>Izinkan pengguna menyesuaikan nama panggilan mereka di halaman pengelolaan profil.</value>
+  </data>
+  <data name="Allowed contact follow-up senders" xml:space="preserve">
+    <value>Pengirim tindak lanjut kontak yang diizinkan</value>
+  </data>
+  <data name="Automatically mitigate contacts after email follow-up" xml:space="preserve">
+    <value>Secara otomatis menindaklanjuti kontak setelah email tindak lanjut</value>
   </data>
   <data name="Baidu Verification Key" xml:space="preserve">
     <value>Kunci Verifikasi Baidu</value>
@@ -42,8 +60,35 @@
   <data name="Brand Name" xml:space="preserve">
     <value>Nama Merek</value>
   </data>
+  <data name="Comma-separated staff email addresses or @domains. This filter does not authenticate senders; restrict mailbox delivery on the mail server." xml:space="preserve">
+    <value>Alamat email staf atau @domain yang dipisahkan dengan koma. Filter ini tidak mengautentikasi pengirim; batasi pengiriman ke kotak surat di server email.</value>
+  </data>
   <data name="Company Name (Simplified Chinese)" xml:space="preserve">
     <value>Nama Perusahaan (Tionghoa Sederhana)</value>
+  </data>
+  <data name="Contact follow-up IMAP host" xml:space="preserve">
+    <value>Host IMAP untuk tindak lanjut kontak</value>
+  </data>
+  <data name="Contact follow-up IMAP port" xml:space="preserve">
+    <value>Port IMAP untuk tindak lanjut kontak</value>
+  </data>
+  <data name="Contact follow-up mailbox folder" xml:space="preserve">
+    <value>Folder kotak surat tindak lanjut kontak</value>
+  </data>
+  <data name="Contact follow-up mailbox password" xml:space="preserve">
+    <value>Kata sandi kotak surat untuk tindak lanjut kontak</value>
+  </data>
+  <data name="Contact follow-up mailbox username" xml:space="preserve">
+    <value>Nama pengguna kotak surat tindak lanjut kontak</value>
+  </data>
+  <data name="Contact follow-up window in days" xml:space="preserve">
+    <value>Jangka waktu tindak lanjut kontak dalam hari</value>
+  </data>
+  <data name="CorpHome public URL" xml:space="preserve">
+    <value>URL publik CorpHome</value>
+  </data>
+  <data name="Dedicated mailbox included in your staff CC group, or explicitly copied on customer replies." xml:space="preserve">
+    <value>Kotak surat khusus yang disertakan dalam grup CC staf Anda, atau yang secara eksplisit disalin pada balasan kepada pelanggan.</value>
   </data>
   <data name="Dummy Choice" xml:space="preserve">
     <value>Pilihan Contoh</value>
@@ -51,14 +96,35 @@
   <data name="Dummy Number" xml:space="preserve">
     <value>Nomor Palsu</value>
   </data>
+  <data name="Enable AlertCenter integration" xml:space="preserve">
+    <value>Aktifkan integrasi AlertCenter</value>
+  </data>
   <data name="ICP Number" xml:space="preserve">
     <value>Nomor ICP</value>
+  </data>
+  <data name="IMAP folder to inspect. Messages are never marked as read, moved or deleted." xml:space="preserve">
+    <value>Folder IMAP yang akan diperiksa. Pesan tidak akan ditandai sebagai telah dibaca, dipindahkan, atau dihapus.</value>
+  </data>
+  <data name="IMAP hostname. Implicit TLS and valid server certificates are required." xml:space="preserve">
+    <value>Nama host IMAP. TLS implisit dan sertifikat server yang valid diwajibkan.</value>
+  </data>
+  <data name="Implicit TLS port, normally 993." xml:space="preserve">
+    <value>Port TLS implisit, biasanya 993.</value>
+  </data>
+  <data name="Mailbox password or application password. No mail server administrator credentials are needed." xml:space="preserve">
+    <value>Kata sandi kotak surat atau kata sandi aplikasi. Kredensial administrator server email tidak diperlukan.</value>
   </data>
   <data name="Project Logo" xml:space="preserve">
     <value>Logo Proyek</value>
   </data>
   <data name="Project Name" xml:space="preserve">
     <value>Nama Proyek</value>
+  </data>
+  <data name="Read a dedicated IMAPS mailbox receiving staff follow-up copies. The mail server must restrict delivery to authenticated internal staff. Requires AlertCenter integration." xml:space="preserve">
+    <value>Baca kotak surat IMAPS khusus yang menerima salinan tindak lanjut dari staf. Server email harus membatasi pengiriman hanya kepada staf internal yang telah diautentikasi. Memerlukan integrasi dengan AlertCenter.</value>
+  </data>
+  <data name="Send new contact submissions to AlertCenter as sev2 incidents. Disabling pauses delivery; pending submissions are retained." xml:space="preserve">
+    <value>Kirim kiriman kontak baru ke AlertCenter sebagai insiden sev2. Menonaktifkan integrasi akan menghentikan pengiriman sementara; kiriman yang tertunda akan tetap disimpan.</value>
   </data>
   <data name="Show Aoji Airlines in the trusted partners section." xml:space="preserve">
     <value>Tampilkan Aoji Airlines di bagian mitra terpercaya.</value>
@@ -108,6 +174,9 @@
   <data name="The company name displayed when the page language is Simplified Chinese. Leave empty to use the default brand name." xml:space="preserve">
     <value>Nama perusahaan yang ditampilkan ketika bahasa halaman adalah Mandarin Sederhana. Biarkan kosong untuk menggunakan nama merek bawaan.</value>
   </data>
+  <data name="The HTTP(S) base URL of AlertCenter." xml:space="preserve">
+    <value>URL dasar HTTP(S) AlertCenter.</value>
+  </data>
   <data name="The ICP license number for China mainland users. Leave empty to hide." xml:space="preserve">
     <value>Nomor izin ICP untuk pengguna daratan Tiongkok. Biarkan kosong untuk menyembunyikan.</value>
   </data>
@@ -116,6 +185,9 @@
   </data>
   <data name="The name of the project displayed in the frontend." xml:space="preserve">
     <value>Nama proyek yang ditampilkan di antarmuka pengguna depan</value>
+  </data>
+  <data name="The public HTTP(S) base URL used for contact follow-up links." xml:space="preserve">
+    <value>URL dasar publik HTTP(S) yang digunakan untuk tautan tindak lanjut kontak.</value>
   </data>
   <data name="The verification key for Baidu site verification. Will be added as &lt;meta name=\&quot;baidu-site-verification\&quot; content=\&quot;...\&quot; /&gt; in the page head." xml:space="preserve">
     <value>Kunci verifikasi untuk verifikasi situs Baidu. Akan ditambahkan sebagai &lt;meta name=&quot;baidu-site-verification&quot; content=&quot;...&quot; /&gt; di bagian head halaman.</value>

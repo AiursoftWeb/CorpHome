@@ -57,6 +57,9 @@
   <data name="Click to login" xml:space="preserve">
     <value>Нажмите для входа</value>
   </data>
+  <data name="Contact Details" xml:space="preserve">
+    <value>Контактные данные</value>
+  </data>
   <data name="Contact Success" xml:space="preserve">
     <value>Успешная связь</value>
   </data>

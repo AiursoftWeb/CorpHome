@@ -60,6 +60,9 @@
   <data name="Click to login" xml:space="preserve">
     <value>คลิกเพื่อเข้าสู่ระบบ</value>
   </data>
+  <data name="Contact Details" xml:space="preserve">
+    <value>รายละเอียดการติดต่อ</value>
+  </data>
   <data name="Contact Success" xml:space="preserve">
     <value>การติดต่อสำเร็จ</value>
   </data>

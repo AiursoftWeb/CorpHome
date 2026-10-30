@@ -21,17 +21,35 @@
       <data name=" The link to the brand&apos;s home page." xml:space="preserve">
     <value>Linkki brändin kotisivulle.</value>
   </data>
+  <data name="A dedicated CorpHome application key with create incident permission; email follow-up also requires query and mitigate permissions." xml:space="preserve">
+    <value>Omistettu CorpHome-sovelluksen avain, jossa on incidentin luontioikeus; sähköpostiseuranta vaatii myös kysely- ja lieventämisoikeudet.</value>
+  </data>
   <data name="A dummy choice for testing." xml:space="preserve">
     <value>Väliaikainen valinta testaukseen.</value>
   </data>
   <data name="A dummy number for testing." xml:space="preserve">
     <value>Väliaikainen luku testaamista varten.</value>
   </data>
+  <data name="A staff email mitigates all matching earlier submissions within this window (1–30 days). Later submissions require a new follow-up." xml:space="preserve">
+    <value>Henkilökunnan sähköposti kuittaa kaikki tähän ajanjaksoon (1–30 päivää) osuvat aiemmat ilmoitukset. Myöhemmät ilmoitukset edellyttävät uutta yhteydenottoa.</value>
+  </data>
+  <data name="AlertCenter application API key" xml:space="preserve">
+    <value>AlertCenter-sovelluksen API-avain</value>
+  </data>
+  <data name="AlertCenter endpoint" xml:space="preserve">
+    <value>AlertCenterin päätepiste</value>
+  </data>
   <data name="Allow User Adjust Nickname" xml:space="preserve">
     <value>Salli käyttäjän muokata nimimerkkiä</value>
   </data>
   <data name="Allow users to adjust their nickname in the profile management page." xml:space="preserve">
     <value>Salli käyttäjien muuttaa nimimerkkiään profiilin hallintasivulla.</value>
+  </data>
+  <data name="Allowed contact follow-up senders" xml:space="preserve">
+    <value>Sallitut yhteydenottoviestien lähettäjät</value>
+  </data>
+  <data name="Automatically mitigate contacts after email follow-up" xml:space="preserve">
+    <value>Yhteydenottojen automaattinen käsittely sähköpostiseurannan jälkeen</value>
   </data>
   <data name="Baidu Verification Key" xml:space="preserve">
     <value>Baidu-varmistusavain</value>
@@ -42,8 +60,35 @@
   <data name="Brand Name" xml:space="preserve">
     <value>Brändin nimi</value>
   </data>
+  <data name="Comma-separated staff email addresses or @domains. This filter does not authenticate senders; restrict mailbox delivery on the mail server." xml:space="preserve">
+    <value>Pilkuilla erotellut henkilökunnan sähköpostiosoitteet tai @verkkotunnukset. Tämä suodatin ei todenna lähettäjiä; rajoita sähköpostien toimitusta sähköpostipalvelimella.</value>
+  </data>
   <data name="Company Name (Simplified Chinese)" xml:space="preserve">
     <value>Yrityksen nimi (yksinkertaistettu kiina)</value>
+  </data>
+  <data name="Contact follow-up IMAP host" xml:space="preserve">
+    <value>Yhteydenpidon IMAP-palvelin</value>
+  </data>
+  <data name="Contact follow-up IMAP port" xml:space="preserve">
+    <value>Yhteydenpidon IMAP-portti</value>
+  </data>
+  <data name="Contact follow-up mailbox folder" xml:space="preserve">
+    <value>Yhteydenoton jatkoseurannan sähköpostikansion nimi</value>
+  </data>
+  <data name="Contact follow-up mailbox password" xml:space="preserve">
+    <value>Yhteydenoton jatkoseurannan sähköpostilaatikon salasana</value>
+  </data>
+  <data name="Contact follow-up mailbox username" xml:space="preserve">
+    <value>Yhteydenoton seurannan postilaatikon käyttäjätunnus</value>
+  </data>
+  <data name="Contact follow-up window in days" xml:space="preserve">
+    <value>Yhteydenoton seuranta-aika päivinä</value>
+  </data>
+  <data name="CorpHome public URL" xml:space="preserve">
+    <value>CorpHomen julkinen URL</value>
+  </data>
+  <data name="Dedicated mailbox included in your staff CC group, or explicitly copied on customer replies." xml:space="preserve">
+    <value>Erillinen postilaatikko, joka kuuluu henkilöstönne CC-ryhmään tai lisätään nimenomaisesti kopion saajaksi asiakkaille lähetettäviin vastauksiin.</value>
   </data>
   <data name="Dummy Choice" xml:space="preserve">
     <value>Väliaikainen valinta</value>
@@ -51,14 +96,35 @@
   <data name="Dummy Number" xml:space="preserve">
     <value>Väliaikainen luku</value>
   </data>
+  <data name="Enable AlertCenter integration" xml:space="preserve">
+    <value>Ota AlertCenter-integraatio käyttöön</value>
+  </data>
   <data name="ICP Number" xml:space="preserve">
     <value>ICP-numero</value>
+  </data>
+  <data name="IMAP folder to inspect. Messages are never marked as read, moved or deleted." xml:space="preserve">
+    <value>Tarkasteltava IMAP-kansio. Viestejä ei koskaan merkitä luetuiksi, siirretä tai poisteta.</value>
+  </data>
+  <data name="IMAP hostname. Implicit TLS and valid server certificates are required." xml:space="preserve">
+    <value>IMAP-isäntänimi. Edellytetään implisiittistä TLS-salausta ja voimassa olevia palvelinvarmenteita.</value>
+  </data>
+  <data name="Implicit TLS port, normally 993." xml:space="preserve">
+    <value>Implisiittisen TLS:n portti, yleensä 993.</value>
+  </data>
+  <data name="Mailbox password or application password. No mail server administrator credentials are needed." xml:space="preserve">
+    <value>Postilaatikon salasana tai sovellussalasana. Postipalvelimen järjestelmänvalvojan tunnistetietoja ei tarvita.</value>
   </data>
   <data name="Project Logo" xml:space="preserve">
     <value>Projektin logo</value>
   </data>
   <data name="Project Name" xml:space="preserve">
     <value>Projektin nimi</value>
+  </data>
+  <data name="Read a dedicated IMAPS mailbox receiving staff follow-up copies. The mail server must restrict delivery to authenticated internal staff. Requires AlertCenter integration." xml:space="preserve">
+    <value>Lue henkilöstön jatkoviestien kopiot vastaanottavaa erillistä IMAPS-postilaatikkoa. Postipalvelimen on rajoitettava viestien toimitus todennetuille sisäisille työntekijöille. Edellyttää AlertCenter-integraatiota.</value>
+  </data>
+  <data name="Send new contact submissions to AlertCenter as sev2 incidents. Disabling pauses delivery; pending submissions are retained." xml:space="preserve">
+    <value>Lähetä uudet yhteydenottolomakkeen vastaukset AlertCenteriin sev2-häiriöinä. Käytöstä poistaminen keskeyttää toimituksen; odottavat vastaukset säilytetään.</value>
   </data>
   <data name="Show Aoji Airlines in the trusted partners section." xml:space="preserve">
     <value>Näytä Aoji Airlines luotettavien kumppaneiden osiossa.</value>
@@ -108,6 +174,9 @@
   <data name="The company name displayed when the page language is Simplified Chinese. Leave empty to use the default brand name." xml:space="preserve">
     <value>Yhtiön nimi, joka näytetään, kun sivun kieli on yksinkertaistettu kiina. Jätä tyhjäksi käyttääksesi oletusarvoista brändin nimeä.</value>
   </data>
+  <data name="The HTTP(S) base URL of AlertCenter." xml:space="preserve">
+    <value>AlertCenterin HTTP(S)-perus-URL-osoite.</value>
+  </data>
   <data name="The ICP license number for China mainland users. Leave empty to hide." xml:space="preserve">
     <value>ICP-lisenssinumero Kiinan päävaltakunnan käyttäjille. Jätä tyhjäksi piilottaaksesi.</value>
   </data>
@@ -116,6 +185,9 @@
   </data>
   <data name="The name of the project displayed in the frontend." xml:space="preserve">
     <value>Projektin nimi, joka näytetään käyttöliittymässä.</value>
+  </data>
+  <data name="The public HTTP(S) base URL used for contact follow-up links." xml:space="preserve">
+    <value>Yhteydenottojen jatkoviestilinkkejä varten käytettävä julkinen HTTP(S)-perus-URL-osoite.</value>
   </data>
   <data name="The verification key for Baidu site verification. Will be added as &lt;meta name=\&quot;baidu-site-verification\&quot; content=\&quot;...\&quot; /&gt; in the page head." xml:space="preserve">
     <value>Baidu-sivustovarmennuksen avain. Lisätään sivuston otsikkoon muotoa &lt;meta name=&quot;baidu-site-verification&quot; content=&quot;...&quot; /&gt;.</value>

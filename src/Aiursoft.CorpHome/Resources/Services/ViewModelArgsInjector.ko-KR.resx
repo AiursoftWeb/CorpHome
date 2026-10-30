@@ -60,6 +60,9 @@
   <data name="Click to login" xml:space="preserve">
     <value>로그인하려면 클릭</value>
   </data>
+  <data name="Contact Details" xml:space="preserve">
+    <value>연락처 정보</value>
+  </data>
   <data name="Contact Success" xml:space="preserve">
     <value>문의 성공</value>
   </data>
