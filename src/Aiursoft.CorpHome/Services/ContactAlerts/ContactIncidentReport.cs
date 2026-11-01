@@ -18,10 +18,13 @@ public static class ContactIncidentReport
         var title = "【CorpHome】New Consumer";
         if (titleName.Length > 0) title += $" {titleName}";
         if (titleCompany.Length > 0) title += $" From {titleCompany}";
+        var customerEmail = SingleLine(contact.Email, 320);
         var instructions = followUp.Enabled
-            ? $"Email the customer and CC your configured follow-up mailbox or staff group. Once a staff follow-up is detected, " +
-              $"matching earlier inquiries within {followUp.FollowUpDays} days are automatically mitigated."
-            : "Email the customer to follow up. Automatic email follow-up detection is not enabled.";
+            ? $"Send a new email from your company email account.\nTo: {customerEmail}\nCC: {SingleLine(followUp.Username, 320)}\n\n" +
+              $"Reply within {followUp.FollowUpDays} days of this inquiry. " +
+              "Your reply will automatically mark this alert as mitigated on the next mailbox check."
+            : $"Send a new email to {customerEmail}.\n" +
+              "Automatic email follow-up detection is not enabled; update this alert manually after replying.";
         var content = new List<string> { "Customer", "" };
         AddField(content, "Name", name, 120);
         AddField(content, "Company", contact.Company, 160);
@@ -30,8 +33,7 @@ public static class ContactIncidentReport
         AddField(content, "Organization size", contact.OrganizationSize, 80);
         AddField(content, "Open-source usage", contact.ConsumeOpenSource, 300);
         var prefix = string.Join('\n', content) + "\n\nServices / inquiry\n";
-        var footer = $"\n\nNext steps\n{instructions}\n\nSubmitted at (UTC): {occurredAt:yyyy-MM-dd HH:mm:ss} UTC\n" +
-            $"Contact ID: {contact.Id}\nFull contact details (sign-in required): {url}";
+        var footer = $"\n\nHow to reply\n{instructions}\n\nView full inquiry: {url}";
         var inquiry = Shorten(contact.ServicesProvided, Math.Min(1500, 4000 - prefix.Length - footer.Length));
 
         return new CreateIncidentRequest
