@@ -123,8 +123,8 @@
   <data name="Read a dedicated IMAPS mailbox receiving staff follow-up copies. The mail server must restrict delivery to authenticated internal staff. Requires AlertCenter integration." xml:space="preserve">
     <value>Baca kotak surat IMAPS khusus yang menerima salinan tindak lanjut dari staf. Server email harus membatasi pengiriman hanya kepada staf internal yang telah diautentikasi. Memerlukan integrasi dengan AlertCenter.</value>
   </data>
-  <data name="Send new contact submissions to AlertCenter as sev2 incidents. Disabling pauses delivery; pending submissions are retained." xml:space="preserve">
-    <value>Kirim kiriman kontak baru ke AlertCenter sebagai insiden sev2. Menonaktifkan integrasi akan menghentikan pengiriman sementara; kiriman yang tertunda akan tetap disimpan.</value>
+  <data name="Send new contact submissions to AlertCenter as sev3 incidents. Disabling pauses delivery; pending submissions are retained." xml:space="preserve">
+    <value>Kirim kiriman kontak baru ke AlertCenter sebagai insiden sev3. Menonaktifkan integrasi akan menghentikan pengiriman sementara; kiriman yang tertunda akan tetap disimpan.</value>
   </data>
   <data name="Show Aoji Airlines in the trusted partners section." xml:space="preserve">
     <value>Tampilkan Aoji Airlines di bagian mitra terpercaya.</value>

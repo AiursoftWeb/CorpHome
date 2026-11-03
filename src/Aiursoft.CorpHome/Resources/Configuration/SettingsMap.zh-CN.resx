@@ -123,8 +123,8 @@
   <data name="Read a dedicated IMAPS mailbox receiving staff follow-up copies. The mail server must restrict delivery to authenticated internal staff. Requires AlertCenter integration." xml:space="preserve">
     <value>读取接收员工跟进邮件副本的专用 IMAPS 邮箱。邮件服务器必须限制为仅允许通过身份验证的内部员工向此邮箱投递邮件。需要启用 AlertCenter 集成。</value>
   </data>
-  <data name="Send new contact submissions to AlertCenter as sev2 incidents. Disabling pauses delivery; pending submissions are retained." xml:space="preserve">
-    <value>将新提交的联系表单作为 sev2 事件发送到 AlertCenter。禁用后暂停发送；待发送的提交记录会保留。</value>
+  <data name="Send new contact submissions to AlertCenter as sev3 incidents. Disabling pauses delivery; pending submissions are retained." xml:space="preserve">
+    <value>将新提交的联系表单作为 sev3 事件发送到 AlertCenter。禁用后暂停发送；待发送的提交记录会保留。</value>
   </data>
   <data name="Show Aoji Airlines in the trusted partners section." xml:space="preserve">
     <value>在可信合作伙伴部分显示 Aoji Airlines。</value>

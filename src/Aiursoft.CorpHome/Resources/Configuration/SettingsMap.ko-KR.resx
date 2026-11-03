@@ -123,8 +123,8 @@
   <data name="Read a dedicated IMAPS mailbox receiving staff follow-up copies. The mail server must restrict delivery to authenticated internal staff. Requires AlertCenter integration." xml:space="preserve">
     <value>직원이 후속 조치 사본을 받는 전용 IMAPS 메일함을 확인합니다. 메일 서버는 인증된 내부 직원에게만 메일이 전달되도록 제한해야 합니다. AlertCenter 연동이 필요합니다.</value>
   </data>
-  <data name="Send new contact submissions to AlertCenter as sev2 incidents. Disabling pauses delivery; pending submissions are retained." xml:space="preserve">
-    <value>새로운 문의 제출 건을 sev2 인시던트로 AlertCenter에 전송합니다. 비활성화하면 전송이 일시 중지되며, 대기 중인 제출 건은 보존됩니다.</value>
+  <data name="Send new contact submissions to AlertCenter as sev3 incidents. Disabling pauses delivery; pending submissions are retained." xml:space="preserve">
+    <value>새로운 문의 제출 건을 sev3 인시던트로 AlertCenter에 전송합니다. 비활성화하면 전송이 일시 중지되며, 대기 중인 제출 건은 보존됩니다.</value>
   </data>
   <data name="Show Aoji Airlines in the trusted partners section." xml:space="preserve">
     <value>신뢰할 수 있는 파트너 섹션에 Aoji Airlines 표시</value>

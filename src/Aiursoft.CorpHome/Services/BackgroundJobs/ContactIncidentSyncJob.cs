@@ -11,7 +11,7 @@ public sealed class ContactIncidentSyncJob(TemplateDbContext db, IAlertCenterSet
     IContactIncidentClient client, ILogger<ContactIncidentSyncJob> logger, ContactMailSettingsProvider mailSettingsProvider) : IBackgroundJob
 {
     public string Name => "Contact AlertCenter synchronization";
-    public string Description => "Reports saved contact submissions as sev2 incidents and retries pending deliveries.";
+    public string Description => "Reports saved contact submissions as sev3 incidents and retries pending deliveries.";
 
     public async Task ExecuteAsync()
     {
