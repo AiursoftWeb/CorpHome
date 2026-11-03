@@ -108,7 +108,7 @@ public class ContactIncidentSyncTests : TestBase
         Assert.IsNull((await ReadContactAsync(legacy.Id)).AlertCenterReportId);
 
         var request = client.Requests[^1];
-        Assert.AreEqual("sev2", request.Level);
+        Assert.AreEqual("sev3", request.Level);
         Assert.AreEqual(new DateTimeOffset(pending[^1].CreateTime), request.OccurredAtUtc);
         Assert.IsNotNull(request.Content);
         Assert.Contains($"{PublicBaseUrl}/Contacts/Details/{pending[^1].Id}", request.Content);

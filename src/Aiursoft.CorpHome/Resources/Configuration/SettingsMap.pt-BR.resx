@@ -123,8 +123,8 @@
   <data name="Read a dedicated IMAPS mailbox receiving staff follow-up copies. The mail server must restrict delivery to authenticated internal staff. Requires AlertCenter integration." xml:space="preserve">
     <value>Leia uma caixa de correio IMAPS dedicada que receba cópias das mensagens de acompanhamento enviadas pela equipe. O servidor de e-mail deve restringir a entrega à equipe interna autenticada. Requer integração com o AlertCenter.</value>
   </data>
-  <data name="Send new contact submissions to AlertCenter as sev2 incidents. Disabling pauses delivery; pending submissions are retained." xml:space="preserve">
-    <value>Envie novos envios de contato ao AlertCenter como incidentes sev2. Desativar pausa o envio; os envios pendentes são mantidos.</value>
+  <data name="Send new contact submissions to AlertCenter as sev3 incidents. Disabling pauses delivery; pending submissions are retained." xml:space="preserve">
+    <value>Envie novos envios de contato ao AlertCenter como incidentes sev3. Desativar pausa o envio; os envios pendentes são mantidos.</value>
   </data>
   <data name="Show Aoji Airlines in the trusted partners section." xml:space="preserve">
     <value>Mostrar Aoji Airlines na seção de parceiros confiáveis.</value>

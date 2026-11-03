@@ -40,7 +40,7 @@ public static class ContactIncidentReport
         {
             ReportId = contact.AlertCenterReportId!.Value,
             Title = title,
-            Level = "sev2",
+            Level = "sev3",
             OccurredAtUtc = occurredAt,
             Content = prefix + inquiry + footer,
             Context = new JObject

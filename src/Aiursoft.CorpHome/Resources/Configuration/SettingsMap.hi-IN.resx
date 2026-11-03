@@ -123,8 +123,8 @@
   <data name="Read a dedicated IMAPS mailbox receiving staff follow-up copies. The mail server must restrict delivery to authenticated internal staff. Requires AlertCenter integration." xml:space="preserve">
     <value>कर्मचारियों की फ़ॉलो-अप प्रतियाँ प्राप्त करने वाला एक समर्पित IMAPS मेलबॉक्स पढ़ें। मेल सर्वर को डिलीवरी केवल प्रमाणित आंतरिक कर्मचारियों तक सीमित रखनी चाहिए। इसके लिए AlertCenter इंटीग्रेशन आवश्यक है।</value>
   </data>
-  <data name="Send new contact submissions to AlertCenter as sev2 incidents. Disabling pauses delivery; pending submissions are retained." xml:space="preserve">
-    <value>नए संपर्क सबमिशन को sev2 घटनाओं के रूप में AlertCenter पर भेजें। इसे अक्षम करने से डिलीवरी रुक जाती है; लंबित सबमिशन सुरक्षित रखे जाते हैं।</value>
+  <data name="Send new contact submissions to AlertCenter as sev3 incidents. Disabling pauses delivery; pending submissions are retained." xml:space="preserve">
+    <value>नए संपर्क सबमिशन को sev3 घटनाओं के रूप में AlertCenter पर भेजें। इसे अक्षम करने से डिलीवरी रुक जाती है; लंबित सबमिशन सुरक्षित रखे जाते हैं।</value>
   </data>
   <data name="Show Aoji Airlines in the trusted partners section." xml:space="preserve">
     <value>विश्वसनीय भागीदार खंड में Aoji Airlines दिखाएं।</value>

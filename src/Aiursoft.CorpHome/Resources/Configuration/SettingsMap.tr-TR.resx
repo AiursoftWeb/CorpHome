@@ -123,8 +123,8 @@
   <data name="Read a dedicated IMAPS mailbox receiving staff follow-up copies. The mail server must restrict delivery to authenticated internal staff. Requires AlertCenter integration." xml:space="preserve">
     <value>Personelin takip yanıtlarının kopyalarını alan, bu işe özel bir IMAPS posta kutusu okuyun. Posta sunucusu, teslimatı kimliği doğrulanmış kurum içi personelle sınırlandırmalıdır. AlertCenter entegrasyonu gerektirir.</value>
   </data>
-  <data name="Send new contact submissions to AlertCenter as sev2 incidents. Disabling pauses delivery; pending submissions are retained." xml:space="preserve">
-    <value>Yeni iletişim formu gönderimlerini sev2 olayı olarak AlertCenter&apos;a gönderin. Devre dışı bırakıldığında gönderim duraklatılır; bekleyen gönderimler saklanır.</value>
+  <data name="Send new contact submissions to AlertCenter as sev3 incidents. Disabling pauses delivery; pending submissions are retained." xml:space="preserve">
+    <value>Yeni iletişim formu gönderimlerini sev3 olayı olarak AlertCenter&apos;a gönderin. Devre dışı bırakıldığında gönderim duraklatılır; bekleyen gönderimler saklanır.</value>
   </data>
   <data name="Show Aoji Airlines in the trusted partners section." xml:space="preserve">
     <value>Aoji Airlines&apos;i güvenilir iş ortakları bölümünde göster.</value>

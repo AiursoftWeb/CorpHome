@@ -123,8 +123,8 @@
   <data name="Read a dedicated IMAPS mailbox receiving staff follow-up copies. The mail server must restrict delivery to authenticated internal staff. Requires AlertCenter integration." xml:space="preserve">
     <value>Đọc hộp thư IMAPS chuyên dụng nhận các bản sao theo dõi của nhân viên. Máy chủ thư phải giới hạn việc chuyển thư đến các nhân viên nội bộ đã xác thực. Yêu cầu tích hợp AlertCenter.</value>
   </data>
-  <data name="Send new contact submissions to AlertCenter as sev2 incidents. Disabling pauses delivery; pending submissions are retained." xml:space="preserve">
-    <value>Gửi các yêu cầu liên hệ mới đến AlertCenter dưới dạng sự cố sev2. Khi tắt tính năng này, việc gửi sẽ tạm dừng; các yêu cầu đang chờ vẫn được giữ lại.</value>
+  <data name="Send new contact submissions to AlertCenter as sev3 incidents. Disabling pauses delivery; pending submissions are retained." xml:space="preserve">
+    <value>Gửi các yêu cầu liên hệ mới đến AlertCenter dưới dạng sự cố sev3. Khi tắt tính năng này, việc gửi sẽ tạm dừng; các yêu cầu đang chờ vẫn được giữ lại.</value>
   </data>
   <data name="Show Aoji Airlines in the trusted partners section." xml:space="preserve">
     <value>Hiển thị Aoji Airlines trong mục đối tác đáng tin cậy.</value>

@@ -110,7 +110,7 @@ public class SettingsMap
         {
             Key = AlertCenterEnabled,
             Name = Localizer["Enable AlertCenter integration"],
-            Description = Localizer["Send new contact submissions to AlertCenter as sev2 incidents. Disabling pauses delivery; pending submissions are retained."],
+            Description = Localizer["Send new contact submissions to AlertCenter as sev3 incidents. Disabling pauses delivery; pending submissions are retained."],
             Type = SettingType.Bool,
             DefaultValue = "False"
         },
