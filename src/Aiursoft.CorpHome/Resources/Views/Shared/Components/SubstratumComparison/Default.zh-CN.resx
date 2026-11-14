@@ -66,20 +66,20 @@
   <data name="Custom Container Development" xml:space="preserve">
     <value>自定义容器开发</value>
   </data>
-  <data name="Custom speech synthesis/recognition, search integration &amp; deep investigation pipelines" xml:space="preserve">
-    <value>自定义语音合成/识别、搜索集成与深度调查管道</value>
-  </data>
   <data name="Custom TTS / STT, Search Engine &amp; Deep Research" xml:space="preserve">
     <value>自定义 TTS / STT、搜索引擎与深度研究</value>
+  </data>
+  <data name="Custom speech synthesis/recognition, search integration &amp; deep investigation pipelines" xml:space="preserve">
+    <value>自定义语音合成/识别、搜索集成与深度调查管道</value>
   </data>
   <data name="Deployment &amp; Hosting" xml:space="preserve">
     <value>部署与托管</value>
   </data>
-  <data name="Device policy integration with scope and supported platforms agreed before deployment" xml:space="preserve">
-    <value>设备策略集成方案，包括范围和支持的平台，需在部署前协商确定</value>
-  </data>
   <data name="DevOps &amp; Engineering" xml:space="preserve">
     <value>DevOps &amp; Engineering</value>
+  </data>
+  <data name="Device policy integration with scope and supported platforms agreed before deployment" xml:space="preserve">
+    <value>设备策略集成方案，包括范围和支持的平台，需在部署前协商确定</value>
   </data>
   <data name="Document Conversion" xml:space="preserve">
     <value>文档转换</value>
@@ -105,6 +105,9 @@
   <data name="GitLab is a trademark of GitLab Inc. Aiursoft provides deployment, hosting, and integration services for GitLab — we are not affiliated with or endorsed by GitLab Inc. The GitLab Community Edition (CE) is MIT-licensed and can be deployed freely. The GitLab Enterprise Edition (EE) requires a separate license purchased from GitLab Inc. We can assist you with procuring the appropriate GitLab EE license, or you may choose to remove this item from your plan." xml:space="preserve">
     <value>GitLab 是 GitLab Inc. 的商标。Aiursoft 为 GitLab 提供部署、托管和集成服务——我们与 GitLab Inc. 没有任何关联，也未获得其认可。GitLab 社区版（CE）采用 MIT 许可证，可免费部署。GitLab 企业版（EE）需要从 GitLab Inc. 购买单独的许可证。我们可以协助您采购合适的 GitLab EE 许可证，或者您可以选择将此项目从您的计划中移除。</value>
   </data>
+  <data name="HR &amp; Org Portal" xml:space="preserve">
+    <value>人力资源与组织门户</value>
+  </data>
   <data name="Hacker" xml:space="preserve">
     <value>黑客</value>
   </data>
@@ -117,9 +120,6 @@
   <data name="Hosted by Aiursoft, not on-premise" xml:space="preserve">
     <value>由 Aiursoft 托管，非本地部署</value>
   </data>
-  <data name="HR &amp; Org Portal" xml:space="preserve">
-    <value>人力资源与组织门户</value>
-  </data>
   <data name="Identity &amp; Security" xml:space="preserve">
     <value>身份与安全性</value>
   </data>
@@ -128,6 +128,9 @@
   </data>
   <data name="Local LLM API Gateway" xml:space="preserve">
     <value>本地大语言模型 API 网关</value>
+  </data>
+  <data name="MDM Device Compliance" xml:space="preserve">
+    <value>MDM 设备合规性</value>
   </data>
   <data name="Mailcow is open-source software (GPL-3.0). Aiursoft provides managed hosting, deployment, and integration services. Any custom modifications provided during your on-premise deployment are fully compliant with and distributed under the GPL-3.0 license." xml:space="preserve">
     <value>Mailcow 是开源软件（GPL-3.0）。Aiursoft 提供托管、部署和集成服务。在您本地部署过程中提供的任何自定义修改均完全符合 GPL-3.0 许可证并据此分发。</value>
@@ -141,14 +144,8 @@
   <data name="Max User Accounts" xml:space="preserve">
     <value>最大用户账户数</value>
   </data>
-  <data name="MDM Device Compliance" xml:space="preserve">
-    <value>MDM 设备合规性</value>
-  </data>
   <data name="Media &amp; Personal" xml:space="preserve">
     <value>媒体与个人</value>
-  </data>
-  <data name="mo" xml:space="preserve">
-    <value>月</value>
   </data>
   <data name="Multi-site &amp; HA capable" xml:space="preserve">
     <value>支持多站点与高可用</value>
@@ -174,17 +171,17 @@
   <data name="Online Code Execution" xml:space="preserve">
     <value>在线代码执行</value>
   </data>
+  <data name="PDF Processing &amp; Vector Database" xml:space="preserve">
+    <value>PDF 处理与向量数据库</value>
+  </data>
+  <data name="PDF ingestion &amp; vector store construction via PaddleOCR" xml:space="preserve">
+    <value>通过 PaddleOCR 进行 PDF 摄入与向量存储构建</value>
+  </data>
   <data name="PaddleOCR-based" xml:space="preserve">
     <value>基于PaddleOCR</value>
   </data>
   <data name="Partial / limited" xml:space="preserve">
     <value>部分/有限</value>
-  </data>
-  <data name="PDF ingestion &amp; vector store construction via PaddleOCR" xml:space="preserve">
-    <value>通过 PaddleOCR 进行 PDF 摄入与向量存储构建</value>
-  </data>
-  <data name="PDF Processing &amp; Vector Database" xml:space="preserve">
-    <value>PDF 处理与向量数据库</value>
   </data>
   <data name="Photo &amp; Video Management" xml:space="preserve">
     <value>照片与视频管理</value>
@@ -197,6 +194,9 @@
   </data>
   <data name="Repository Sync" xml:space="preserve">
     <value>代码仓库同步</value>
+  </data>
+  <data name="SSO / Identity Gateway" xml:space="preserve">
+    <value>SSO / 身份网关</value>
   </data>
   <data name="SaaS only" xml:space="preserve">
     <value>仅限 SaaS</value>
@@ -225,9 +225,6 @@
   <data name="Source Control &amp; CI/CD" xml:space="preserve">
     <value>源码控制与持续集成/部署</value>
   </data>
-  <data name="SSO / Identity Gateway" xml:space="preserve">
-    <value>SSO / 身份网关</value>
-  </data>
   <data name="Startup" xml:space="preserve">
     <value>初创版</value>
   </data>
@@ -243,14 +240,11 @@
   <data name="Team Voting" xml:space="preserve">
     <value>团队投票</value>
   </data>
-  <data name="Unlimited" xml:space="preserve">
-    <value>无限</value>
-  </data>
   <data name="URL Shortener" xml:space="preserve">
     <value>URL 短链接</value>
   </data>
-  <data name="user" xml:space="preserve">
-    <value>用户</value>
+  <data name="Unlimited" xml:space="preserve">
+    <value>无限</value>
   </data>
   <data name="What&apos;s Included" xml:space="preserve">
     <value>包含内容</value>
@@ -260,6 +254,12 @@
   </data>
   <data name="Zero Trust Yubikey Auth" xml:space="preserve">
     <value>零信任 Yubikey 认证</value>
+  </data>
+  <data name="mo" xml:space="preserve">
+    <value>月</value>
+  </data>
+  <data name="user" xml:space="preserve">
+    <value>用户</value>
   </data>
 
 </root>

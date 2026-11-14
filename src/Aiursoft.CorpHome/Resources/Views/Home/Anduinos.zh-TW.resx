@@ -27,6 +27,9 @@
   <data name="27 inch" xml:space="preserve">
     <value>27 吋</value>
   </data>
+  <data name="ARM64 Support" xml:space="preserve">
+    <value>支援 ARM64</value>
+  </data>
   <data name="Add to Management Cloud and go live" xml:space="preserve">
     <value>新增至 Management Cloud 並即時啟用</value>
   </data>
@@ -42,9 +45,6 @@
   <data name="AnduinOS 2.0 standard support ends in April 2031, as for the community edition. Enterprise services do not extend this release&apos;s security-update lifecycle. Service scope and subscription duration are specified in your agreement." xml:space="preserve">
     <value>AnduinOS 2.0 社群版的標準支援將於 2031 年 4 月結束。企業服務不會延長此版本的安全性更新週期。服務範圍與訂閱期限以您的合約為準。</value>
   </data>
-  <data name="AnduinOS device" xml:space="preserve">
-    <value>AnduinOS 裝置</value>
-  </data>
   <data name="AnduinOS Enterprise" xml:space="preserve">
     <value>AnduinOS 企業版</value>
   </data>
@@ -53,6 +53,15 @@
   </data>
   <data name="AnduinOS Enterprise provides brand customisation, enabling you to replace the system logo with your own." xml:space="preserve">
     <value>AnduinOS Enterprise 提供品牌客製化功能，讓您能以自家標誌替換系統預設標誌。</value>
+  </data>
+  <data name="AnduinOS Kiosk" xml:space="preserve">
+    <value>AnduinOS 資訊機</value>
+  </data>
+  <data name="AnduinOS Management Cloud" xml:space="preserve">
+    <value>AnduinOS 管理雲端</value>
+  </data>
+  <data name="AnduinOS device" xml:space="preserve">
+    <value>AnduinOS 裝置</value>
   </data>
   <data name="AnduinOS fleet" xml:space="preserve">
     <value>AnduinOS 機隊</value>
@@ -69,12 +78,6 @@
   <data name="AnduinOS is based on Ubuntu&apos;s package base. It&apos;s compatible with most of the apt packages from Ubuntu. It&apos;s a perfect combination of experience and ecology." xml:space="preserve">
     <value>AnduinOS 基於 Ubuntu 的軟體套件底層，相容於 Ubuntu 絕大多數的 apt 套件，完美結合了使用體驗與生態系。</value>
   </data>
-  <data name="AnduinOS Kiosk" xml:space="preserve">
-    <value>AnduinOS 資訊機</value>
-  </data>
-  <data name="AnduinOS Management Cloud" xml:space="preserve">
-    <value>AnduinOS 管理雲端</value>
-  </data>
   <data name="AnduinOS wakes up almost as fast as you can blink. Wait time? What&apos;s that? Lightning-fast start-up on any hardware." xml:space="preserve">
     <value>AnduinOS 的啟動速度幾乎快過您的眨眼間隙。還要等待時間？什麼是等待時間？在任何硬體上實現閃電般的快速啟動。</value>
   </data>
@@ -89,9 +92,6 @@
   </data>
   <data name="Architecture" xml:space="preserve">
     <value>架構</value>
-  </data>
-  <data name="ARM64 Support" xml:space="preserve">
-    <value>支援 ARM64</value>
   </data>
   <data name="At just 2.54 GB, the ISO is lightweight and fast to deploy across your fleet. The live environment lets your IT team quickly boot, repair, and diagnose systems without installing." xml:space="preserve">
     <value>ISO 檔案僅 2.54 GB，輕巧且能快速部署至整個機群。透過即時環境，IT 團隊可快速開機、修復及診斷系統，而無需安裝。</value>
@@ -198,9 +198,6 @@
   <data name="Device Management Integrations" xml:space="preserve">
     <value>裝置管理整合</value>
   </data>
-  <data name="digital signage and kiosk terminals" xml:space="preserve">
-    <value>數位廣告機與自助服務終端機</value>
-  </data>
   <data name="Disk Space" xml:space="preserve">
     <value>磁碟空間</value>
   </data>
@@ -261,9 +258,6 @@
   <data name="Explore StatHub" xml:space="preserve">
     <value>探索 StatHub</value>
   </data>
-  <data name="ext4 optional" xml:space="preserve">
-    <value>ext4 可選</value>
-  </data>
   <data name="Familiar UX" xml:space="preserve">
     <value>直觀的使用體驗</value>
   </data>
@@ -285,14 +279,14 @@
   <data name="Fully On-Premise" xml:space="preserve">
     <value>完全私有化部署</value>
   </data>
+  <data name="GPL-v3 License" xml:space="preserve">
+    <value>GPL-v3 授權條款</value>
+  </data>
   <data name="Get the AnduinOS image from our site" xml:space="preserve">
     <value>從我們的網站下載 AnduinOS 映像檔</value>
   </data>
   <data name="Get up-to-the-second updates on every AnduinOS device&apos;s CPU, memory, disk, and network usage." xml:space="preserve">
     <value>即時掌握所有 AnduinOS 設備的 CPU、記憶體、磁碟與網路使用情況。</value>
-  </data>
-  <data name="GPL-v3 License" xml:space="preserve">
-    <value>GPL-v3 授權條款</value>
   </data>
   <data name="Graphical applications are installed via Flatpak, and keep themselves separate from the base system. They also allow for fine-grained control over their permissions." xml:space="preserve">
     <value>圖形化應用程式透過 Flatpak 安裝，並與基礎系統保持隔離。它們也允許對其權限進行細緻的控制。</value>
@@ -330,6 +324,9 @@
   <data name="Kiosk mode prevents unauthorized access. Users can only interact with your approved application, keeping your deployment secure." xml:space="preserve">
     <value>自助終端模式可防止未經授權的存取。使用者僅能與您核准的應用程式互動，確保部署安全。</value>
   </data>
+  <data name="LTS Support" xml:space="preserve">
+    <value>長期支援</value>
+  </data>
   <data name="Lightweight Agents" xml:space="preserve">
     <value>輕量型代理程式</value>
   </data>
@@ -348,14 +345,8 @@
   <data name="Low-overhead agents collect metrics without impacting your AnduinOS devices&apos; performance. Deploy in seconds with Docker." xml:space="preserve">
     <value>低負載代理程式收集指標，不影響 AnduinOS 裝置效能。使用 Docker 可在數秒內完成部署。</value>
   </data>
-  <data name="LTS Support" xml:space="preserve">
-    <value>長期支援</value>
-  </data>
   <data name="Managed Update Rollouts" xml:space="preserve">
     <value>受管理的更新部署</value>
-  </data>
-  <data name="management for your fleet" xml:space="preserve">
-    <value>機隊管理</value>
   </data>
   <data name="Memory Compression" xml:space="preserve">
     <value>記憶體壓縮</value>
@@ -396,9 +387,6 @@
   <data name="Open Source" xml:space="preserve">
     <value>開源</value>
   </data>
-  <data name="or" xml:space="preserve">
-    <value>或</value>
-  </data>
   <data name="Package Distribution" xml:space="preserve">
     <value>套件分發</value>
   </data>
@@ -431,9 +419,6 @@
   </data>
   <data name="Processor" xml:space="preserve">
     <value>處理器</value>
-  </data>
-  <data name="quad-core" xml:space="preserve">
-    <value>四核心</value>
   </data>
   <data name="RAM" xml:space="preserve">
     <value>記憶體</value>
@@ -540,11 +525,11 @@
   <data name="The GNOME-based desktop environment has beautiful interfaces and human-computer interactions that fit user habits, allowing you to quickly get started with AnduinOS without too much learning cost." xml:space="preserve">
     <value>基於 GNOME 的桌面環境擁有精美的介面與符合使用者習慣的人機互動，讓您無需花費太多學習成本，即可輕鬆上手 AnduinOS。</value>
   </data>
-  <data name="The ideal solution for" xml:space="preserve">
-    <value>理想解決方案，專為</value>
-  </data>
   <data name="The ISO is just 2.4GB in size. Similar to Ubuntu, it is simple to install and can meet your daily needs without additional configuration or complicated operations." xml:space="preserve">
     <value>ISO 僅有 2.4GB。與 Ubuntu 類似，安裝簡易，無需額外設定或複雜操作即可滿足日常需求。</value>
+  </data>
+  <data name="The ideal solution for" xml:space="preserve">
+    <value>理想解決方案，專為</value>
   </data>
   <data name="The operating system your enterprise needs — familiar, beautiful, stable, mature, and easy to manage. AnduinOS Enterprise is built on Linux 7.0, GNOME 50, and Ubuntu 26.04, keeping your team in a comfortable, productive environment." xml:space="preserve">
     <value>您企業所需的作業系統——熟悉、美觀、穩定、成熟且易於管理。AnduinOS Enterprise 建構於 Linux 7.0、GNOME 50 與 Ubuntu 26.04 之上，讓您的團隊置身於舒適且高效的工作環境中。</value>
@@ -558,11 +543,11 @@
   <data name="Turn any screen into a kiosk" xml:space="preserve">
     <value>將任何螢幕變身為資訊亭</value>
   </data>
-  <data name="Ubuntu Base" xml:space="preserve">
-    <value>Ubuntu 基礎</value>
-  </data>
   <data name="UI Toolkit" xml:space="preserve">
     <value>UI 工具包</value>
+  </data>
+  <data name="Ubuntu Base" xml:space="preserve">
+    <value>Ubuntu 基礎</value>
   </data>
   <data name="Update and restart policies are configured for your deployment. Test releases before rollout and schedule maintenance for changes that require downtime." xml:space="preserve">
     <value>您的部署已設定更新與重新啟動政策。正式推出前請先測試新版本，並為需要停機的變更安排維護時段。</value>
@@ -585,23 +570,38 @@
   <data name="Why choose AnduinOS?" xml:space="preserve">
     <value>為什麼選擇 AnduinOS？</value>
   </data>
-  <data name="with Apkg" xml:space="preserve">
-    <value>搭配 Apkg</value>
-  </data>
   <data name="With just a few clicks, you can have AnduinOS running on any machine. Enjoy automatic updates, built-in security, and remote management from the cloud — so once deployed, it just works." xml:space="preserve">
     <value>只需幾次點擊，即可在任何裝置上執行 AnduinOS。享受自動更新、內建安全性以及雲端遠端管理功能——一旦部署完成，即可無縫運作。</value>
-  </data>
-  <data name="with Secure Boot" xml:space="preserve">
-    <value>搭配 Secure Boot</value>
-  </data>
-  <data name="with StatHub" xml:space="preserve">
-    <value>使用 StatHub</value>
   </data>
   <data name="Without Snap" xml:space="preserve">
     <value>不含 Snap</value>
   </data>
   <data name="Write the image to a USB drive" xml:space="preserve">
     <value>將映像寫入 USB 裝置</value>
+  </data>
+  <data name="digital signage and kiosk terminals" xml:space="preserve">
+    <value>數位廣告機與自助服務終端機</value>
+  </data>
+  <data name="ext4 optional" xml:space="preserve">
+    <value>ext4 可選</value>
+  </data>
+  <data name="management for your fleet" xml:space="preserve">
+    <value>機隊管理</value>
+  </data>
+  <data name="or" xml:space="preserve">
+    <value>或</value>
+  </data>
+  <data name="quad-core" xml:space="preserve">
+    <value>四核心</value>
+  </data>
+  <data name="with Apkg" xml:space="preserve">
+    <value>搭配 Apkg</value>
+  </data>
+  <data name="with Secure Boot" xml:space="preserve">
+    <value>搭配 Secure Boot</value>
+  </data>
+  <data name="with StatHub" xml:space="preserve">
+    <value>使用 StatHub</value>
   </data>
 
 </root>

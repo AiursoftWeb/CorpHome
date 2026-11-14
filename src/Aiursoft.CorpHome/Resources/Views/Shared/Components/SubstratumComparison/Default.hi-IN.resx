@@ -66,20 +66,20 @@
   <data name="Custom Container Development" xml:space="preserve">
     <value>कस्टम कंटेनर विकास</value>
   </data>
-  <data name="Custom speech synthesis/recognition, search integration &amp; deep investigation pipelines" xml:space="preserve">
-    <value>कस्टम स्पीच सिंथेसिस/पहचान, खोज एकीकरण और गहन जांच पाइपलाइन</value>
-  </data>
   <data name="Custom TTS / STT, Search Engine &amp; Deep Research" xml:space="preserve">
     <value>कस्टम TTS / STT, खोज इंजन और गहन शोध</value>
+  </data>
+  <data name="Custom speech synthesis/recognition, search integration &amp; deep investigation pipelines" xml:space="preserve">
+    <value>कस्टम स्पीच सिंथेसिस/पहचान, खोज एकीकरण और गहन जांच पाइपलाइन</value>
   </data>
   <data name="Deployment &amp; Hosting" xml:space="preserve">
     <value>डिप्लॉयमेंट और होस्टिंग</value>
   </data>
-  <data name="Device policy integration with scope and supported platforms agreed before deployment" xml:space="preserve">
-    <value>डिवाइस नीति का एकीकरण, दायरे और समर्थित प्लेटफ़ॉर्म परिनियोजन से पहले सहमति के अनुसार</value>
-  </data>
   <data name="DevOps &amp; Engineering" xml:space="preserve">
     <value>DevOps &amp; Engineering</value>
+  </data>
+  <data name="Device policy integration with scope and supported platforms agreed before deployment" xml:space="preserve">
+    <value>डिवाइस नीति का एकीकरण, दायरे और समर्थित प्लेटफ़ॉर्म परिनियोजन से पहले सहमति के अनुसार</value>
   </data>
   <data name="Document Conversion" xml:space="preserve">
     <value>दस्तावेज़ रूपांतरण</value>
@@ -105,6 +105,9 @@
   <data name="GitLab is a trademark of GitLab Inc. Aiursoft provides deployment, hosting, and integration services for GitLab — we are not affiliated with or endorsed by GitLab Inc. The GitLab Community Edition (CE) is MIT-licensed and can be deployed freely. The GitLab Enterprise Edition (EE) requires a separate license purchased from GitLab Inc. We can assist you with procuring the appropriate GitLab EE license, or you may choose to remove this item from your plan." xml:space="preserve">
     <value>GitLab, GitLab Inc. का एक परंपरागत नाम है। Aiursoft GitLab के लिए पृष्ठाघात, होस्टिंग और एकीकरण सेवाएँ प्रदान करता है — हम GitLab Inc. से संबद्ध नहीं हैं, न ही हमें GitLab Inc. द्वारा संप्रमाणित किया गया है। GitLab Community Edition (CE) की MIT लाइसेंस है, जिसे मुक्त रूप से स्थापित किया जा सकता है। GitLab Enterprise Edition (EE) के लिए GitLab Inc. से खरीदे गए अलग-थलग लाइसेंस की आवश्यकता होती है। हम GitLab EE लाइसेंस प्राप्त करने में आपकी सहायता कर सकते हैं, या आप अपने योजना से इस आइटम को हटाने का विकल्प चुन सकते हैं।</value>
   </data>
+  <data name="HR &amp; Org Portal" xml:space="preserve">
+    <value>मानव संसाधन और संगठन पोर्टल</value>
+  </data>
   <data name="Hacker" xml:space="preserve">
     <value>हैकर</value>
   </data>
@@ -117,9 +120,6 @@
   <data name="Hosted by Aiursoft, not on-premise" xml:space="preserve">
     <value>Aiursoft द्वारा होस्ट किया गया, ऑन-प्रेमिस नहीं</value>
   </data>
-  <data name="HR &amp; Org Portal" xml:space="preserve">
-    <value>मानव संसाधन और संगठन पोर्टल</value>
-  </data>
   <data name="Identity &amp; Security" xml:space="preserve">
     <value>पहचान और सुरक्षा</value>
   </data>
@@ -128,6 +128,9 @@
   </data>
   <data name="Local LLM API Gateway" xml:space="preserve">
     <value>स्थानीय LLM API गेटवे</value>
+  </data>
+  <data name="MDM Device Compliance" xml:space="preserve">
+    <value>MDM डिवाइस अनुपालन</value>
   </data>
   <data name="Mailcow is open-source software (GPL-3.0). Aiursoft provides managed hosting, deployment, and integration services. Any custom modifications provided during your on-premise deployment are fully compliant with and distributed under the GPL-3.0 license." xml:space="preserve">
     <value>Mailcow एक ओपन-सोर्स सॉफ्टवेयर (GPL-3.0) है। Aiursoft प्रबंधित होस्टिंग, डिप्लॉयमेंट, और इंटीग्रेशन सेवाएं प्रदान करता है। आपकी ऑन-प्रिमाइज़ डिप्लॉयमेंट के दौरान प्रदान की गई कोई भी कस्टम संशोधन GPL-3.0 लाइसेंस के तहत पूरी तरह से अनुपालन में और वितरित किए जाते हैं।</value>
@@ -141,14 +144,8 @@
   <data name="Max User Accounts" xml:space="preserve">
     <value>अधिकतम उपयोगकर्ता खाते</value>
   </data>
-  <data name="MDM Device Compliance" xml:space="preserve">
-    <value>MDM डिवाइस अनुपालन</value>
-  </data>
   <data name="Media &amp; Personal" xml:space="preserve">
     <value>मीडिया और व्यक्तिगत</value>
-  </data>
-  <data name="mo" xml:space="preserve">
-    <value>माह</value>
   </data>
   <data name="Multi-site &amp; HA capable" xml:space="preserve">
     <value>बहु-साइट और एचए सक्षम</value>
@@ -174,17 +171,17 @@
   <data name="Online Code Execution" xml:space="preserve">
     <value>ऑनलाइन कोड एक्जीक्यूशन</value>
   </data>
+  <data name="PDF Processing &amp; Vector Database" xml:space="preserve">
+    <value>PDF प्रोसेसिंग और वेक्टर डेटाबेस</value>
+  </data>
+  <data name="PDF ingestion &amp; vector store construction via PaddleOCR" xml:space="preserve">
+    <value>PDF इनगेशन और व्हेक्टर स्टोर निर्माण PaddleOCR के माध्यम से</value>
+  </data>
   <data name="PaddleOCR-based" xml:space="preserve">
     <value>PaddleOCR-आधारित</value>
   </data>
   <data name="Partial / limited" xml:space="preserve">
     <value>आंशिक / सीमित</value>
-  </data>
-  <data name="PDF ingestion &amp; vector store construction via PaddleOCR" xml:space="preserve">
-    <value>PDF इनगेशन और व्हेक्टर स्टोर निर्माण PaddleOCR के माध्यम से</value>
-  </data>
-  <data name="PDF Processing &amp; Vector Database" xml:space="preserve">
-    <value>PDF प्रोसेसिंग और वेक्टर डेटाबेस</value>
   </data>
   <data name="Photo &amp; Video Management" xml:space="preserve">
     <value>फोटो और वीडियो प्रबंधन</value>
@@ -194,6 +191,9 @@
   </data>
   <data name="Repository Sync" xml:space="preserve">
     <value>Repository Sync</value>
+  </data>
+  <data name="SSO / Identity Gateway" xml:space="preserve">
+    <value>SSO / पहचान गेटवे</value>
   </data>
   <data name="SaaS only" xml:space="preserve">
     <value>केवल SaaS</value>
@@ -222,9 +222,6 @@
   <data name="Source Control &amp; CI/CD" xml:space="preserve">
     <value>स्रोत नियंत्रण और CI/CD</value>
   </data>
-  <data name="SSO / Identity Gateway" xml:space="preserve">
-    <value>SSO / पहचान गेटवे</value>
-  </data>
   <data name="Startup" xml:space="preserve">
     <value>स्टार्टअप</value>
   </data>
@@ -240,14 +237,11 @@
   <data name="Team Voting" xml:space="preserve">
     <value>टीम वोटिंग</value>
   </data>
-  <data name="Unlimited" xml:space="preserve">
-    <value>असीमित</value>
-  </data>
   <data name="URL Shortener" xml:space="preserve">
     <value>URL शॉर्टनर</value>
   </data>
-  <data name="user" xml:space="preserve">
-    <value>उपयोगकर्ता</value>
+  <data name="Unlimited" xml:space="preserve">
+    <value>असीमित</value>
   </data>
   <data name="What&apos;s Included" xml:space="preserve">
     <value>क्या शामिल है</value>
@@ -257,6 +251,12 @@
   </data>
   <data name="Zero Trust Yubikey Auth" xml:space="preserve">
     <value>ज़ीरो ट्रस्ट युबिकी प्रमाण</value>
+  </data>
+  <data name="mo" xml:space="preserve">
+    <value>माह</value>
+  </data>
+  <data name="user" xml:space="preserve">
+    <value>उपयोगकर्ता</value>
   </data>
 
 </root>

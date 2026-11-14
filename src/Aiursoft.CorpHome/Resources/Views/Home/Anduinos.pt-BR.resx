@@ -27,6 +27,9 @@
   <data name="27 inch" xml:space="preserve">
     <value>27 polegadas</value>
   </data>
+  <data name="ARM64 Support" xml:space="preserve">
+    <value>Suporte ARM64</value>
+  </data>
   <data name="Add to Management Cloud and go live" xml:space="preserve">
     <value>Adicione à Management Cloud e comece a usar</value>
   </data>
@@ -42,9 +45,6 @@
   <data name="AnduinOS 2.0 standard support ends in April 2031, as for the community edition. Enterprise services do not extend this release&apos;s security-update lifecycle. Service scope and subscription duration are specified in your agreement." xml:space="preserve">
     <value>O suporte padrão do AnduinOS 2.0 termina em abril de 2031, assim como na edição comunitária. Os serviços empresariais não prolongam o ciclo de vida das atualizações de segurança desta versão. O escopo dos serviços e a duração da assinatura estão especificados no seu contrato.</value>
   </data>
-  <data name="AnduinOS device" xml:space="preserve">
-    <value>dispositivo AnduinOS</value>
-  </data>
   <data name="AnduinOS Enterprise" xml:space="preserve">
     <value>AnduinOS Enterprise</value>
   </data>
@@ -53,6 +53,15 @@
   </data>
   <data name="AnduinOS Enterprise provides brand customisation, enabling you to replace the system logo with your own." xml:space="preserve">
     <value>O AnduinOS Enterprise oferece personalização de marca, permitindo que você substitua o logotipo do sistema pelo seu próprio.</value>
+  </data>
+  <data name="AnduinOS Kiosk" xml:space="preserve">
+    <value>AnduinOS Kiosk</value>
+  </data>
+  <data name="AnduinOS Management Cloud" xml:space="preserve">
+    <value>Nuvem de Gerenciamento AnduinOS</value>
+  </data>
+  <data name="AnduinOS device" xml:space="preserve">
+    <value>dispositivo AnduinOS</value>
   </data>
   <data name="AnduinOS fleet" xml:space="preserve">
     <value>frota AnduinOS</value>
@@ -69,12 +78,6 @@
   <data name="AnduinOS is based on Ubuntu&apos;s package base. It&apos;s compatible with most of the apt packages from Ubuntu. It&apos;s a perfect combination of experience and ecology." xml:space="preserve">
     <value>O AnduinOS é baseado na base de pacotes do Ubuntu. É compatível com a maioria dos pacotes apt do Ubuntu. É a combinação perfeita de experiência e ecossistema.</value>
   </data>
-  <data name="AnduinOS Kiosk" xml:space="preserve">
-    <value>AnduinOS Kiosk</value>
-  </data>
-  <data name="AnduinOS Management Cloud" xml:space="preserve">
-    <value>Nuvem de Gerenciamento AnduinOS</value>
-  </data>
   <data name="AnduinOS wakes up almost as fast as you can blink. Wait time? What&apos;s that? Lightning-fast start-up on any hardware." xml:space="preserve">
     <value>O AnduinOS inicia quase tão rápido quanto você pisca. Tempo de espera? O que é isso? Inicialização relâmpago em qualquer hardware.</value>
   </data>
@@ -89,9 +92,6 @@
   </data>
   <data name="Architecture" xml:space="preserve">
     <value>Arquitetura</value>
-  </data>
-  <data name="ARM64 Support" xml:space="preserve">
-    <value>Suporte ARM64</value>
   </data>
   <data name="At just 2.54 GB, the ISO is lightweight and fast to deploy across your fleet. The live environment lets your IT team quickly boot, repair, and diagnose systems without installing." xml:space="preserve">
     <value>Com apenas 2,4 GB, a ISO é leve e rápida para ser implantada em toda a sua frota. O ambiente de execução permite que sua equipe de TI inicie, repare e diagnostique sistemas rapidamente, sem necessidade de instalação.</value>
@@ -192,9 +192,6 @@
   <data name="Device Management Integrations" xml:space="preserve">
     <value>Integrações de gerenciamento de dispositivos</value>
   </data>
-  <data name="digital signage and kiosk terminals" xml:space="preserve">
-    <value>placas de sinalização digital e terminais quiosque</value>
-  </data>
   <data name="Disk Space" xml:space="preserve">
     <value>Espaço em Disco</value>
   </data>
@@ -255,9 +252,6 @@
   <data name="Explore StatHub" xml:space="preserve">
     <value>Explorar o StatHub</value>
   </data>
-  <data name="ext4 optional" xml:space="preserve">
-    <value>ext4 opcional</value>
-  </data>
   <data name="Familiar UX" xml:space="preserve">
     <value>UX familiar</value>
   </data>
@@ -279,14 +273,14 @@
   <data name="Fully On-Premise" xml:space="preserve">
     <value>Totalmente local</value>
   </data>
+  <data name="GPL-v3 License" xml:space="preserve">
+    <value>Licença GPL-v3</value>
+  </data>
   <data name="Get the AnduinOS image from our site" xml:space="preserve">
     <value>Obtenha a imagem do AnduinOS em nosso site</value>
   </data>
   <data name="Get up-to-the-second updates on every AnduinOS device&apos;s CPU, memory, disk, and network usage." xml:space="preserve">
     <value>Receba atualizações em tempo real sobre o uso de CPU, memória, disco e rede de cada dispositivo AnduinOS.</value>
-  </data>
-  <data name="GPL-v3 License" xml:space="preserve">
-    <value>Licença GPL-v3</value>
   </data>
   <data name="Graphical applications are installed via Flatpak, and keep themselves separate from the base system. They also allow for fine-grained control over their permissions." xml:space="preserve">
     <value>Aplicativos gráficos são instalados via Flatpak e mantêm-se isolados do sistema base. Eles também permitem controle granular sobre suas permissões.</value>
@@ -324,6 +318,9 @@
   <data name="Kiosk mode prevents unauthorized access. Users can only interact with your approved application, keeping your deployment secure." xml:space="preserve">
     <value>O modo quiosque impede o acesso não autorizado. Os usuários podem interagir apenas com o aplicativo aprovado por você, mantendo sua implantação segura.</value>
   </data>
+  <data name="LTS Support" xml:space="preserve">
+    <value>Suporte LTS</value>
+  </data>
   <data name="Lightweight Agents" xml:space="preserve">
     <value>Agentes Leves</value>
   </data>
@@ -342,14 +339,8 @@
   <data name="Low-overhead agents collect metrics without impacting your AnduinOS devices&apos; performance. Deploy in seconds with Docker." xml:space="preserve">
     <value>Agentes de baixo consumo coletam métricas sem impactar o desempenho dos seus dispositivos AnduinOS. Implante em segundos com Docker.</value>
   </data>
-  <data name="LTS Support" xml:space="preserve">
-    <value>Suporte LTS</value>
-  </data>
   <data name="Managed Update Rollouts" xml:space="preserve">
     <value>Implementação controlada de atualizações</value>
-  </data>
-  <data name="management for your fleet" xml:space="preserve">
-    <value>gestão da sua frota</value>
   </data>
   <data name="Memory Compression" xml:space="preserve">
     <value>Compressão de Memória</value>
@@ -387,9 +378,6 @@
   <data name="Open Source" xml:space="preserve">
     <value>Código Aberto</value>
   </data>
-  <data name="or" xml:space="preserve">
-    <value>ou</value>
-  </data>
   <data name="Package Distribution" xml:space="preserve">
     <value>Distribuição de Pacotes</value>
   </data>
@@ -422,9 +410,6 @@
   </data>
   <data name="Processor" xml:space="preserve">
     <value>Processador</value>
-  </data>
-  <data name="quad-core" xml:space="preserve">
-    <value>quad-core</value>
   </data>
   <data name="RAM" xml:space="preserve">
     <value>Memória RAM</value>
@@ -531,11 +516,11 @@
   <data name="The GNOME-based desktop environment has beautiful interfaces and human-computer interactions that fit user habits, allowing you to quickly get started with AnduinOS without too much learning cost." xml:space="preserve">
     <value>O ambiente de desktop baseado no GNOME oferece interfaces bonitas e interações humano-computador que se adaptam aos hábitos do usuário, permitindo que você comece rapidamente a usar o AnduinOS sem um grande esforço de aprendizado.</value>
   </data>
-  <data name="The ideal solution for" xml:space="preserve">
-    <value>A solução ideal para</value>
-  </data>
   <data name="The ISO is just 2.4GB in size. Similar to Ubuntu, it is simple to install and can meet your daily needs without additional configuration or complicated operations." xml:space="preserve">
     <value>A ISO tem apenas 2,4 GB. Assim como o Ubuntu, é simples de instalar e atende às suas necessidades diárias sem necessidade de configuração adicional ou operações complicadas.</value>
+  </data>
+  <data name="The ideal solution for" xml:space="preserve">
+    <value>A solução ideal para</value>
   </data>
   <data name="The operating system your enterprise needs — familiar, beautiful, stable, mature, and easy to manage. AnduinOS Enterprise is built on Linux 7.0, GNOME 50, and Ubuntu 26.04, keeping your team in a comfortable, productive environment." xml:space="preserve">
     <value>O sistema operacional que sua empresa precisa: familiar, bonito, estável, maduro e fácil de gerenciar. AnduinOS Enterprise é construído com base no Linux 7.0, GNOME 50 e Ubuntu 26.04, mantendo sua equipe em um ambiente confortável e produtivo.</value>
@@ -549,11 +534,11 @@
   <data name="Turn any screen into a kiosk" xml:space="preserve">
     <value>Transforme qualquer tela em um quiosque</value>
   </data>
-  <data name="Ubuntu Base" xml:space="preserve">
-    <value>Base Ubuntu</value>
-  </data>
   <data name="UI Toolkit" xml:space="preserve">
     <value>Kit de Interface do Usuário</value>
+  </data>
+  <data name="Ubuntu Base" xml:space="preserve">
+    <value>Base Ubuntu</value>
   </data>
   <data name="Update and restart policies are configured for your deployment. Test releases before rollout and schedule maintenance for changes that require downtime." xml:space="preserve">
     <value>As políticas de atualização e reinicialização estão configuradas para sua implantação. Teste as versões antes da distribuição e agende a manutenção para as alterações que exigem indisponibilidade.</value>
@@ -576,23 +561,38 @@
   <data name="Why choose AnduinOS?" xml:space="preserve">
     <value>Por que escolher o AnduinOS?</value>
   </data>
-  <data name="with Apkg" xml:space="preserve">
-    <value>com o Apkg</value>
-  </data>
   <data name="With just a few clicks, you can have AnduinOS running on any machine. Enjoy automatic updates, built-in security, and remote management from the cloud — so once deployed, it just works." xml:space="preserve">
     <value>Com apenas alguns cliques, você pode ter o AnduinOS executando em qualquer máquina. Aproveite atualizações automáticas, segurança integrada e gerenciamento remoto da nuvem — para que, uma vez implantado, ele simplesmente funcione.</value>
-  </data>
-  <data name="with Secure Boot" xml:space="preserve">
-    <value>com Secure Boot</value>
-  </data>
-  <data name="with StatHub" xml:space="preserve">
-    <value>com o StatHub</value>
   </data>
   <data name="Without Snap" xml:space="preserve">
     <value>Sem Snap</value>
   </data>
   <data name="Write the image to a USB drive" xml:space="preserve">
     <value>Grave a imagem em um drive USB</value>
+  </data>
+  <data name="digital signage and kiosk terminals" xml:space="preserve">
+    <value>placas de sinalização digital e terminais quiosque</value>
+  </data>
+  <data name="ext4 optional" xml:space="preserve">
+    <value>ext4 opcional</value>
+  </data>
+  <data name="management for your fleet" xml:space="preserve">
+    <value>gestão da sua frota</value>
+  </data>
+  <data name="or" xml:space="preserve">
+    <value>ou</value>
+  </data>
+  <data name="quad-core" xml:space="preserve">
+    <value>quad-core</value>
+  </data>
+  <data name="with Apkg" xml:space="preserve">
+    <value>com o Apkg</value>
+  </data>
+  <data name="with Secure Boot" xml:space="preserve">
+    <value>com Secure Boot</value>
+  </data>
+  <data name="with StatHub" xml:space="preserve">
+    <value>com o StatHub</value>
   </data>
 
 </root>

@@ -54,11 +54,11 @@
   <data name="Contact Sales" xml:space="preserve">
     <value>Επικοινωνία με την πωλητική ομάδα</value>
   </data>
-  <data name="Custom container development" xml:space="preserve">
-    <value>Προσαρμοσμένη ανάπτυξη περιεχομένου</value>
-  </data>
   <data name="Custom Development Fee" xml:space="preserve">
     <value>Τέλη προσαρμοσμένης ανάπτυξης</value>
+  </data>
+  <data name="Custom container development" xml:space="preserve">
+    <value>Προσαρμοσμένη ανάπτυξη περιεχομένου</value>
   </data>
   <data name="Customized for your enterprise" xml:space="preserve">
     <value>Προσαρμοσμένο για την επιχείρησή σας</value>
@@ -72,11 +72,11 @@
   <data name="Full Infrastructure Suite, on your local server" xml:space="preserve">
     <value>Πλήρες σύστημα υποδομής, στον τοπικό σας διακομιστή</value>
   </data>
-  <data name="Get a public cloud-like experience while hosting your applications in your own server." xml:space="preserve">
-    <value>Αποκτήστε μια εμπειρία παρόμοια με αυτή του δημόσιου cloud, φιλοξενώντας τις εφαρμογές σας στον δικό σας διακομιστή.</value>
-  </data>
   <data name="Get Started" xml:space="preserve">
     <value>Ξεκινήστε</value>
+  </data>
+  <data name="Get a public cloud-like experience while hosting your applications in your own server." xml:space="preserve">
+    <value>Αποκτήστε μια εμπειρία παρόμοια με αυτή του δημόσιου cloud, φιλοξενώντας τις εφαρμογές σας στον δικό σας διακομιστή.</value>
   </data>
   <data name="GitLab, Ollama Gateway" xml:space="preserve">
     <value>GitLab, Ollama Gateway</value>
@@ -99,6 +99,9 @@
   <data name="Koel, Immich, Memos" xml:space="preserve">
     <value>Koel, Immich, Memos</value>
   </data>
+  <data name="MDM based device compliance" xml:space="preserve">
+    <value>Συμμόρφωση συσκευών με βάση MDM</value>
+  </data>
   <data name="Mailcow" xml:space="preserve">
     <value>Mailcow</value>
   </data>
@@ -107,9 +110,6 @@
   </data>
   <data name="Max 1000 accounts" xml:space="preserve">
     <value>Μέγιστο 1000 λογαριασμοί</value>
-  </data>
-  <data name="MDM based device compliance" xml:space="preserve">
-    <value>Συμμόρφωση συσκευών με βάση MDM</value>
   </data>
   <data name="On-premise AnduinOS Apkg" xml:space="preserve">
     <value>On-premise AnduinOS Apkg</value>
@@ -138,9 +138,6 @@
   <data name="Strengthen your business with flexible Open Source projects that run by Aiursoft." xml:space="preserve">
     <value>Δυναμώστε την επιχείρησή σας με ευέλικτα έργα ανοιχτού κώδικα που εκτελούνται από την Aiursoft.</value>
   </data>
-  <data name="tailored to your business needs" xml:space="preserve">
-    <value>προσαρμοσμένο στις ανάγκες της επιχείρησής σας</value>
-  </data>
   <data name="Talk to an Architect" xml:space="preserve">
     <value>Μιλήστε με έναν Αρχιτέκτονα</value>
   </data>
@@ -149,6 +146,9 @@
   </data>
   <data name="Zero Trust Yubikey Auth" xml:space="preserve">
     <value>Zero Trust Yubikey Auth</value>
+  </data>
+  <data name="tailored to your business needs" xml:space="preserve">
+    <value>προσαρμοσμένο στις ανάγκες της επιχείρησής σας</value>
   </data>
 
 </root>

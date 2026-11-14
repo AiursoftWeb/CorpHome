@@ -66,20 +66,20 @@
   <data name="Custom Container Development" xml:space="preserve">
     <value>사용자 정의 컨테이너 개발</value>
   </data>
-  <data name="Custom speech synthesis/recognition, search integration &amp; deep investigation pipelines" xml:space="preserve">
-    <value>사용자 지정 음성 합성/인식, 검색 통합 및 심층 조사 파이프라인</value>
-  </data>
   <data name="Custom TTS / STT, Search Engine &amp; Deep Research" xml:space="preserve">
     <value>사용자 지정 TTS / STT, 검색 엔진 및 심층 연구</value>
+  </data>
+  <data name="Custom speech synthesis/recognition, search integration &amp; deep investigation pipelines" xml:space="preserve">
+    <value>사용자 지정 음성 합성/인식, 검색 통합 및 심층 조사 파이프라인</value>
   </data>
   <data name="Deployment &amp; Hosting" xml:space="preserve">
     <value>배포 및 호스팅</value>
   </data>
-  <data name="Device policy integration with scope and supported platforms agreed before deployment" xml:space="preserve">
-    <value>배포 전에 범위와 지원 플랫폼을 합의한 기기 정책 통합</value>
-  </data>
   <data name="DevOps &amp; Engineering" xml:space="preserve">
     <value>DevOps &amp; Engineering</value>
+  </data>
+  <data name="Device policy integration with scope and supported platforms agreed before deployment" xml:space="preserve">
+    <value>배포 전에 범위와 지원 플랫폼을 합의한 기기 정책 통합</value>
   </data>
   <data name="Document Conversion" xml:space="preserve">
     <value>문서 변환</value>
@@ -105,6 +105,9 @@
   <data name="GitLab is a trademark of GitLab Inc. Aiursoft provides deployment, hosting, and integration services for GitLab — we are not affiliated with or endorsed by GitLab Inc. The GitLab Community Edition (CE) is MIT-licensed and can be deployed freely. The GitLab Enterprise Edition (EE) requires a separate license purchased from GitLab Inc. We can assist you with procuring the appropriate GitLab EE license, or you may choose to remove this item from your plan." xml:space="preserve">
     <value>GitLab은 GitLab Inc.의 상표입니다. Aiursoft는 GitLab에 대한 배포, 호스팅 및 통합 서비스를 제공하며, GitLab Inc.과 관련되거나 그들을 승인하지 않습니다. GitLab 커뮤니티 에디션(CE)은 MIT 라이선스를 받아 자유롭게 배포할 수 있습니다. GitLab 엔터프라이즈 에디션(EE)은 GitLab Inc.에서 별도 구매해야 하는 라이선스가 필요합니다. 당사는 적절한 GitLab EE 라이선스 확보를 도와드릴 수 있으며, 해당 항목을 플랜에서 제거하는 것을 선택할 수도 있습니다.</value>
   </data>
+  <data name="HR &amp; Org Portal" xml:space="preserve">
+    <value>인사 및 조직 포털</value>
+  </data>
   <data name="Hacker" xml:space="preserve">
     <value>핵커</value>
   </data>
@@ -117,9 +120,6 @@
   <data name="Hosted by Aiursoft, not on-premise" xml:space="preserve">
     <value>Aiursoft에서 호스팅되며 온프레미스가 아닙니다</value>
   </data>
-  <data name="HR &amp; Org Portal" xml:space="preserve">
-    <value>인사 및 조직 포털</value>
-  </data>
   <data name="Identity &amp; Security" xml:space="preserve">
     <value>신원 및 보안</value>
   </data>
@@ -128,6 +128,9 @@
   </data>
   <data name="Local LLM API Gateway" xml:space="preserve">
     <value>로컬 LLM API 게이트웨이</value>
+  </data>
+  <data name="MDM Device Compliance" xml:space="preserve">
+    <value>MDM 디바이스 준수</value>
   </data>
   <data name="Mailcow is open-source software (GPL-3.0). Aiursoft provides managed hosting, deployment, and integration services. Any custom modifications provided during your on-premise deployment are fully compliant with and distributed under the GPL-3.0 license." xml:space="preserve">
     <value>Mailcow는 오픈소스 소프트웨어(GPL-3.0)입니다. Aiursoft는 관리형 호스팅, 배포 및 통합 서비스를 제공합니다. 온프레미스 배포 과정에서 제공되는 모든 커스텀 수정 사항은 GPL-3.0 라이선스에 완전히 부합하며 이에 따라 배포됩니다.</value>
@@ -141,14 +144,8 @@
   <data name="Max User Accounts" xml:space="preserve">
     <value>최대 사용자 계정 수</value>
   </data>
-  <data name="MDM Device Compliance" xml:space="preserve">
-    <value>MDM 디바이스 준수</value>
-  </data>
   <data name="Media &amp; Personal" xml:space="preserve">
     <value>미디어 및 개인용</value>
-  </data>
-  <data name="mo" xml:space="preserve">
-    <value>월</value>
   </data>
   <data name="Multi-site &amp; HA capable" xml:space="preserve">
     <value>다중 사이트 및 고가용성 지원</value>
@@ -174,17 +171,17 @@
   <data name="Online Code Execution" xml:space="preserve">
     <value>온라인 코드 실행</value>
   </data>
+  <data name="PDF Processing &amp; Vector Database" xml:space="preserve">
+    <value>PDF 처리 및 벡터 데이터베이스</value>
+  </data>
+  <data name="PDF ingestion &amp; vector store construction via PaddleOCR" xml:space="preserve">
+    <value>PaddleOCR 를 통한 PDF ingestion 및 벡터 저장소 구축</value>
+  </data>
   <data name="PaddleOCR-based" xml:space="preserve">
     <value>PaddleOCR 기반</value>
   </data>
   <data name="Partial / limited" xml:space="preserve">
     <value>부분적 / 제한적</value>
-  </data>
-  <data name="PDF ingestion &amp; vector store construction via PaddleOCR" xml:space="preserve">
-    <value>PaddleOCR 를 통한 PDF ingestion 및 벡터 저장소 구축</value>
-  </data>
-  <data name="PDF Processing &amp; Vector Database" xml:space="preserve">
-    <value>PDF 처리 및 벡터 데이터베이스</value>
   </data>
   <data name="Photo &amp; Video Management" xml:space="preserve">
     <value>사진 및 동영상 관리</value>
@@ -197,6 +194,9 @@
   </data>
   <data name="Repository Sync" xml:space="preserve">
     <value>저장소 동기화</value>
+  </data>
+  <data name="SSO / Identity Gateway" xml:space="preserve">
+    <value>SSO / 아이덴티티 게이트웨이</value>
   </data>
   <data name="SaaS only" xml:space="preserve">
     <value>SaaS 전용</value>
@@ -225,9 +225,6 @@
   <data name="Source Control &amp; CI/CD" xml:space="preserve">
     <value>소스 제어 및 CI/CD</value>
   </data>
-  <data name="SSO / Identity Gateway" xml:space="preserve">
-    <value>SSO / 아이덴티티 게이트웨이</value>
-  </data>
   <data name="Startup" xml:space="preserve">
     <value>스타트업</value>
   </data>
@@ -243,14 +240,11 @@
   <data name="Team Voting" xml:space="preserve">
     <value>팀 투표</value>
   </data>
-  <data name="Unlimited" xml:space="preserve">
-    <value>무제한</value>
-  </data>
   <data name="URL Shortener" xml:space="preserve">
     <value>URL 단축기</value>
   </data>
-  <data name="user" xml:space="preserve">
-    <value>사용자</value>
+  <data name="Unlimited" xml:space="preserve">
+    <value>무제한</value>
   </data>
   <data name="What&apos;s Included" xml:space="preserve">
     <value>포함된 항목</value>
@@ -260,6 +254,12 @@
   </data>
   <data name="Zero Trust Yubikey Auth" xml:space="preserve">
     <value>Zero Trust Yubikey 인증</value>
+  </data>
+  <data name="mo" xml:space="preserve">
+    <value>월</value>
+  </data>
+  <data name="user" xml:space="preserve">
+    <value>사용자</value>
   </data>
 
 </root>

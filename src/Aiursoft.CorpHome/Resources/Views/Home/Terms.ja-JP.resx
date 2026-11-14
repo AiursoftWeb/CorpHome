@@ -51,11 +51,11 @@
   <data name="9. Modifications to the Terms" xml:space="preserve">
     <value>9. 利用規約の変更</value>
   </data>
-  <data name="Aiursoft hosts the infrastructure on our secured servers. We are responsible for server uptime, standard backups, and basic network security." xml:space="preserve">
-    <value>Aiursoftは、セキュアなサーバー上でインフラストラクチャをホスティングしています。サーバーの稼働率、標準的なバックアップ、および基本的なネットワークセキュリティについては、当社が責任を負います。</value>
-  </data>
   <data name="AIURSOFT LIMITED" xml:space="preserve">
     <value>AIURSOFT LIMITED</value>
+  </data>
+  <data name="Aiursoft hosts the infrastructure on our secured servers. We are responsible for server uptime, standard backups, and basic network security." xml:space="preserve">
+    <value>Aiursoftは、セキュアなサーバー上でインフラストラクチャをホスティングしています。サーバーの稼働率、標準的なバックアップ、および基本的なネットワークセキュリティについては、当社が責任を負います。</value>
   </data>
   <data name="Aiursoft provides enterprise IT infrastructure solutions built upon open-source technologies (e.g., Linux, Nextcloud, Mailcow, Authentik, GitLab)." xml:space="preserve">
     <value>Aiursoftは、オープンソース技術（例：Linux、Nextcloud、Mailcow、Authentik、GitLab）を基盤としたエンタープライズITインフラ構成ソリューションを提供しています。</value>
@@ -159,17 +159,14 @@
   <data name="The Service is Commercial:" xml:space="preserve">
     <value>サービスは商用です：</value>
   </data>
-  <data name="The software is deployed on your local servers or private cloud. You retain absolute physical control and ownership of your data (&quot;Own Your Data&quot;). Consequently, you are solely responsible for your underlying hardware, local network security, physical access control, and disaster recovery backups. Aiursoft&apos;s responsibility is limited to software-level maintenance, container updates, and technical support as defined in your plan." xml:space="preserve">
-    <value>ソフトウェアは、お客様のローカルサーバーまたはプライベートクラウドにデプロイされます。お客様はデータの物理的コントロールおよび所有権を完全に保持します（「データはあなたが所有する」）。したがって、お客様は基盤となるハードウェア、ローカルネットワークセキュリティ、物理的アクセス制御、および災害復旧バックアップについて、唯一責任を負います。Aiursoftの責任は、ソフトウェアレベルのメンテナンス、コンテナの更新、および契約内容に定められた技術サポートに限定されます。</value>
-  </data>
   <data name="The Software is Free:" xml:space="preserve">
     <value>ソフトウェアは無料です：</value>
   </data>
+  <data name="The software is deployed on your local servers or private cloud. You retain absolute physical control and ownership of your data (&quot;Own Your Data&quot;). Consequently, you are solely responsible for your underlying hardware, local network security, physical access control, and disaster recovery backups. Aiursoft&apos;s responsibility is limited to software-level maintenance, container updates, and technical support as defined in your plan." xml:space="preserve">
+    <value>ソフトウェアは、お客様のローカルサーバーまたはプライベートクラウドにデプロイされます。お客様はデータの物理的コントロールおよび所有権を完全に保持します（「データはあなたが所有する」）。したがって、お客様は基盤となるハードウェア、ローカルネットワークセキュリティ、物理的アクセス制御、および災害復旧バックアップについて、唯一責任を負います。Aiursoftの責任は、ソフトウェアレベルのメンテナンス、コンテナの更新、および契約内容に定められた技術サポートに限定されます。</value>
+  </data>
   <data name="The underlying open-source codes are subject to their respective licenses (e.g., MIT, GPL). You are free to inspect, modify, and distribute the code as permitted by those licenses." xml:space="preserve">
     <value>基盤となるオープンソースコードは、それぞれのライセンス条項に従います（例：MIT、GPL）。これらのライセンスで許可される範囲内で、コードの検査、改変、配布が自由に行えます。</value>
-  </data>
-  <data name="These cancellation and non-refund rules apply to voluntary cancellation. They do not exclude remedies for our failure to provide the agreed services, override the specific commitments in an applicable service agreement, or limit rights that cannot be excluded under applicable law." xml:space="preserve">
-    <value>これらの解約および返金不可のルールは、自発的な解約に適用されます。これらのルールは、当社が合意したサービスを履行できなかった場合の救済策を排除したり、適用されるサービス契約に定められた具体的なコミットメントを上書きしたり、適用される法律の下で排除できない権利を制限したりするものではありません。</value>
   </data>
   <data name="These Terms of Service (&quot;Terms&quot;) govern your access to and use of the Aiursoft website, products, and subscription services, including but not limited to Aiursoft Substrate (Core, Startup, and Enterprise plans) (collectively, the &quot;Services&quot;). By registering for an account or purchasing a subscription, you agree to be bound by these Terms." xml:space="preserve">
     <value>これらの利用規約（「規約」）は、Aiursoftのウェブサイト、製品、およびサブスクリプションサービスへのアクセスおよび利用を規定しており、Aiursoft Substrate（Core、Startup、Enterpriseプラン）を含みますが、それらに限定されません（以下、総称して「サービス」といいます）。アカウントの登録またはサブスクリプションの購入により、あなたはこれらの規約に拘束されることに同意するものとします。</value>
@@ -179,6 +176,9 @@
   </data>
   <data name="These Terms shall be governed by and construed in accordance with the laws of the Hong Kong Special Administrative Region, without regard to its conflict of law provisions." xml:space="preserve">
     <value>本利用規約は、香港特別行政区域の法律に準拠し、その法的衝突規定を問わず解釈されるものとする。</value>
+  </data>
+  <data name="These cancellation and non-refund rules apply to voluntary cancellation. They do not exclude remedies for our failure to provide the agreed services, override the specific commitments in an applicable service agreement, or limit rights that cannot be excluded under applicable law." xml:space="preserve">
+    <value>これらの解約および返金不可のルールは、自発的な解約に適用されます。これらのルールは、当社が合意したサービスを履行できなかった場合の救済策を排除したり、適用されるサービス契約に定められた具体的なコミットメントを上書きしたり、適用される法律の下で排除できない権利を制限したりするものではありません。</value>
   </data>
   <data name="To ensure uninterrupted service, our commercial plans operate on a recurring subscription basis." xml:space="preserve">
     <value>サービスの中断を防ぐために、当社の商用プランは継続的なサブスクリプション方式で運用されています。</value>

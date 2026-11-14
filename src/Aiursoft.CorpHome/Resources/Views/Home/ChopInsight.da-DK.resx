@@ -30,9 +30,6 @@
   <data name="A software-only delivery would not solve the problem either. Even a well-designed platform cannot provide the expected performance or reliability when its underlying hardware is unsuitable or poorly integrated. ChopInsight needed a coordinated approach that could preserve existing investments, add computing capacity where necessary, and support conventional applications and AI workloads through a common management model." xml:space="preserve">
     <value>En udelukkende softwarebaseret leverance ville heller ikke løse problemet. Selv en veludformet platform kan ikke levere den forventede ydeevne eller pålidelighed, hvis den underliggende hardware er uegnet eller dårligt integreret. ChopInsight havde brug for en samordnet tilgang, der kunne bevare eksisterende investeringer, tilføje beregningskapacitet, hvor det var nødvendigt, og understøtte konventionelle applikationer og AI-workloads gennem et fælles administrationsmodel.</value>
   </data>
-  <data name="About ChopInsight" xml:space="preserve">
-    <value>Om ChopInsight</value>
-  </data>
   <data name="AI access" xml:space="preserve">
     <value>AI-adgang</value>
   </data>
@@ -44,6 +41,9 @@
   </data>
   <data name="AI introduced a second, closely related challenge. Suitable computing resources could be expensive and complex to specify. ChopInsight needed to avoid hardware that might later prove unsuitable for its software or operational requirements, while simply replacing equipment would have ignored the value of its existing servers." xml:space="preserve">
     <value>AI indførte en anden, tæt relateret udfordring. Egnede beregningsressourcer kunne være dyre og komplekse at specificere. ChopInsight skulle undgå hardware, der senere kunne vise sig uegnet til dets software- eller driftsmæssige krav, mens en simpel udskiftning af udstyret ville have ignoreret værdien af dets eksisterende servere.</value>
+  </data>
+  <data name="About ChopInsight" xml:space="preserve">
+    <value>Om ChopInsight</value>
   </data>
   <data name="Aiursoft assessed ChopInsight’s physical equipment, computing resources, application requirements and future AI plans together. Performance, stability, cost and future expansion informed a single design, making hardware selection and adaptation part of the service rather than a separate procurement exercise." xml:space="preserve">
     <value>Aiursoft vurderede ChopInsights fysiske udstyr, beregningsressourcer, applikationskrav og fremtidige AI-planer samlet. Ydeevne, stabilitet, omkostninger og fremtidig udvidelse dannede grundlaget for et enkelt design, hvilket gjorde hardwarevalg og tilpasning til en del af tjenesten i stedet for en separat indkøbsproces.</value>

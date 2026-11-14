@@ -51,11 +51,11 @@
   <data name="9. Modifications to the Terms" xml:space="preserve">
     <value>9. Şartlarda Değişiklikler</value>
   </data>
-  <data name="Aiursoft hosts the infrastructure on our secured servers. We are responsible for server uptime, standard backups, and basic network security." xml:space="preserve">
-    <value>Aiursoft, altyapıyı güvenli sunucularımızda barındırır. Sunucu çalışma süresi, standart yedeklemeler ve temel ağ güvenliği sorumluluğu bize aittir.</value>
-  </data>
   <data name="AIURSOFT LIMITED" xml:space="preserve">
     <value>AIURSOFT LIMITED</value>
+  </data>
+  <data name="Aiursoft hosts the infrastructure on our secured servers. We are responsible for server uptime, standard backups, and basic network security." xml:space="preserve">
+    <value>Aiursoft, altyapıyı güvenli sunucularımızda barındırır. Sunucu çalışma süresi, standart yedeklemeler ve temel ağ güvenliği sorumluluğu bize aittir.</value>
   </data>
   <data name="Aiursoft provides enterprise IT infrastructure solutions built upon open-source technologies (e.g., Linux, Nextcloud, Mailcow, Authentik, GitLab)." xml:space="preserve">
     <value>Aiursoft, açık kaynaklı teknolojilere (örneğin Linux, Nextcloud, Mailcow, Authentik, GitLab) dayalı kurumsal BT altyapı çözümleri sunar.</value>
@@ -159,17 +159,14 @@
   <data name="The Service is Commercial:" xml:space="preserve">
     <value>Hizmet Ticari:</value>
   </data>
-  <data name="The software is deployed on your local servers or private cloud. You retain absolute physical control and ownership of your data (&quot;Own Your Data&quot;). Consequently, you are solely responsible for your underlying hardware, local network security, physical access control, and disaster recovery backups. Aiursoft&apos;s responsibility is limited to software-level maintenance, container updates, and technical support as defined in your plan." xml:space="preserve">
-    <value>Yazılım, yerel sunucularınıza veya özel bulutunuza dağıtılır. Verilerinizin fiziksel kontrolü ve mülkiyeti tamamen sizde kalır (&quot;Verilerinizi Kendiniz Sahiplen&quot;). Bu nedenle, alt donanımınız, yerel ağ güvenliğiniz, fiziksel erişim kontrolü ve felaket kurtarma yedeklemeleri için tamamen siz sorumlusunuz. Aiursoft&apos;un sorumluluğu, planınızda tanımlandığı üzere yazılım düzeyinde bakım, konteyner güncellemeleri ve teknik destekle sınırlıdır.</value>
-  </data>
   <data name="The Software is Free:" xml:space="preserve">
     <value>Yazılım Ücretsizdir:</value>
   </data>
+  <data name="The software is deployed on your local servers or private cloud. You retain absolute physical control and ownership of your data (&quot;Own Your Data&quot;). Consequently, you are solely responsible for your underlying hardware, local network security, physical access control, and disaster recovery backups. Aiursoft&apos;s responsibility is limited to software-level maintenance, container updates, and technical support as defined in your plan." xml:space="preserve">
+    <value>Yazılım, yerel sunucularınıza veya özel bulutunuza dağıtılır. Verilerinizin fiziksel kontrolü ve mülkiyeti tamamen sizde kalır (&quot;Verilerinizi Kendiniz Sahiplen&quot;). Bu nedenle, alt donanımınız, yerel ağ güvenliğiniz, fiziksel erişim kontrolü ve felaket kurtarma yedeklemeleri için tamamen siz sorumlusunuz. Aiursoft&apos;un sorumluluğu, planınızda tanımlandığı üzere yazılım düzeyinde bakım, konteyner güncellemeleri ve teknik destekle sınırlıdır.</value>
+  </data>
   <data name="The underlying open-source codes are subject to their respective licenses (e.g., MIT, GPL). You are free to inspect, modify, and distribute the code as permitted by those licenses." xml:space="preserve">
     <value>Altta yatan açık kaynak kodlar, ilgili lisanslarına (örneğin MIT, GPL) tabidir. Bu lisansların izin verdiği şekilde kodu incelemek, değiştirmek ve dağıtmak özgürsünüz.</value>
-  </data>
-  <data name="These cancellation and non-refund rules apply to voluntary cancellation. They do not exclude remedies for our failure to provide the agreed services, override the specific commitments in an applicable service agreement, or limit rights that cannot be excluded under applicable law." xml:space="preserve">
-    <value>Bu iptal ve iade edilemezlik kuralları, gönüllü iptaller için geçerlidir. Söz konusu kurallar; anlaşmaya bağlanan hizmetlerin sağlanmaması durumunda yasalara başvurma hakkını, geçerli bir hizmet sözleşmesindeki özel taahhütleri ortadan kaldırmaz veya yürürlükteki hukuka göre vazgeçilemeyen hakları sınırlamaz.</value>
   </data>
   <data name="These Terms of Service (&quot;Terms&quot;) govern your access to and use of the Aiursoft website, products, and subscription services, including but not limited to Aiursoft Substrate (Core, Startup, and Enterprise plans) (collectively, the &quot;Services&quot;). By registering for an account or purchasing a subscription, you agree to be bound by these Terms." xml:space="preserve">
     <value>Bu Hizmet Şartları (&quot;Şartlar&quot;), Aiursoft web sitesine, ürünlerine ve abonelik hizmetlerine (Aiursoft Substrate (Core, Startup ve Enterprise planları dahil ancak bunlarla sınırlı olmamak üzere) erişiminizi ve kullanımınızı düzenler (toplamda &quot;Hizmetler&quot;). Bir hesap oluşturarak veya bir abonelik satın alarak, bu Şartlara bağlı kalmayı kabul etmiş olursunuz.</value>
@@ -179,6 +176,9 @@
   </data>
   <data name="These Terms shall be governed by and construed in accordance with the laws of the Hong Kong Special Administrative Region, without regard to its conflict of law provisions." xml:space="preserve">
     <value>Bu Şartlar, çekişmeli hukuk hükümleri göz ardı edilerek, Hong Kong Özel İdari Bölgesi yasalarına tabi olacak ve bu yasalar çerçevesinde yorumlanacaktır.</value>
+  </data>
+  <data name="These cancellation and non-refund rules apply to voluntary cancellation. They do not exclude remedies for our failure to provide the agreed services, override the specific commitments in an applicable service agreement, or limit rights that cannot be excluded under applicable law." xml:space="preserve">
+    <value>Bu iptal ve iade edilemezlik kuralları, gönüllü iptaller için geçerlidir. Söz konusu kurallar; anlaşmaya bağlanan hizmetlerin sağlanmaması durumunda yasalara başvurma hakkını, geçerli bir hizmet sözleşmesindeki özel taahhütleri ortadan kaldırmaz veya yürürlükteki hukuka göre vazgeçilemeyen hakları sınırlamaz.</value>
   </data>
   <data name="To ensure uninterrupted service, our commercial plans operate on a recurring subscription basis." xml:space="preserve">
     <value>Kesintisiz hizmet sağlamak amacıyla ticari planlarımız tekrarlayan abonelik esasına göre yürütülmektedir.</value>

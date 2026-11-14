@@ -159,26 +159,26 @@
   <data name="Show Senparc in the trusted partners section." xml:space="preserve">
     <value>신뢰할 수 있는 파트너 섹션에 Senparc 표시</value>
   </data>
-  <data name="Show the Voxihost partnership section on the home page." xml:space="preserve">
-    <value>홈 페이지에서 Voxihost 파트너십 섹션을 표시합니다.</value>
+  <data name="Show Voxihost Partnership" xml:space="preserve">
+    <value>Voxihost 파트너십 표시</value>
   </data>
   <data name="Show Voxihost in the trusted partners section." xml:space="preserve">
     <value>신뢰할 수 있는 파트너 섹션에서 Voxihost 표시</value>
   </data>
-  <data name="Show Voxihost Partnership" xml:space="preserve">
-    <value>Voxihost 파트너십 표시</value>
-  </data>
-  <data name="The brand name displayed in the footer." xml:space="preserve">
-    <value>푸터에 표시되는 브랜드 이름</value>
-  </data>
-  <data name="The company name displayed when the page language is Simplified Chinese. Leave empty to use the default brand name." xml:space="preserve">
-    <value>페이지 언어가 간체 중국어일 때 표시되는 회사 이름입니다. 기본 브랜드 이름을 사용하려면 비워 둡니다.</value>
+  <data name="Show the Voxihost partnership section on the home page." xml:space="preserve">
+    <value>홈 페이지에서 Voxihost 파트너십 섹션을 표시합니다.</value>
   </data>
   <data name="The HTTP(S) base URL of AlertCenter." xml:space="preserve">
     <value>AlertCenter의 HTTP(S) 기본 URL입니다.</value>
   </data>
   <data name="The ICP license number for China mainland users. Leave empty to hide." xml:space="preserve">
     <value>중국 대륙 사용자를 위한 ICP 라이선스 번호. 비워두면 숨깁니다.</value>
+  </data>
+  <data name="The brand name displayed in the footer." xml:space="preserve">
+    <value>푸터에 표시되는 브랜드 이름</value>
+  </data>
+  <data name="The company name displayed when the page language is Simplified Chinese. Leave empty to use the default brand name." xml:space="preserve">
+    <value>페이지 언어가 간체 중국어일 때 표시되는 회사 이름입니다. 기본 브랜드 이름을 사용하려면 비워 둡니다.</value>
   </data>
   <data name="The logo of the project displayed in the navbar and footer. Support jpg, png, svg." xml:space="preserve">
     <value>네비게이션 바와 푸터에 표시되는 프로젝트의 로고입니다. jpg, png, svg 형식을 지원합니다.</value>

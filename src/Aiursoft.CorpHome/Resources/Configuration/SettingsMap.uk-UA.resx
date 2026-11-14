@@ -159,26 +159,26 @@
   <data name="Show Senparc in the trusted partners section." xml:space="preserve">
     <value>Показати Senparc у розділі довірених партнерів.</value>
   </data>
-  <data name="Show the Voxihost partnership section on the home page." xml:space="preserve">
-    <value>Показати розділ партнерства з Voxihost на головній сторінці.</value>
+  <data name="Show Voxihost Partnership" xml:space="preserve">
+    <value>Показати партнерство з Voxihost</value>
   </data>
   <data name="Show Voxihost in the trusted partners section." xml:space="preserve">
     <value>Показати Voxihost у розділі довірених партнерів.</value>
   </data>
-  <data name="Show Voxihost Partnership" xml:space="preserve">
-    <value>Показати партнерство з Voxihost</value>
-  </data>
-  <data name="The brand name displayed in the footer." xml:space="preserve">
-    <value>Назва бренду, що відображається в підвалі.</value>
-  </data>
-  <data name="The company name displayed when the page language is Simplified Chinese. Leave empty to use the default brand name." xml:space="preserve">
-    <value>Назва компанії, що відображається, коли мовою сторінки є спрощена китайська. Залиште порожнім, щоб використовувати назву за замовчуванням.</value>
+  <data name="Show the Voxihost partnership section on the home page." xml:space="preserve">
+    <value>Показати розділ партнерства з Voxihost на головній сторінці.</value>
   </data>
   <data name="The HTTP(S) base URL of AlertCenter." xml:space="preserve">
     <value>Базова URL-адреса AlertCenter за HTTP(S).</value>
   </data>
   <data name="The ICP license number for China mainland users. Leave empty to hide." xml:space="preserve">
     <value>Номер ліцензії ICP для користувачів материкового Китаю. Залиште порожнім, щоб приховати.</value>
+  </data>
+  <data name="The brand name displayed in the footer." xml:space="preserve">
+    <value>Назва бренду, що відображається в підвалі.</value>
+  </data>
+  <data name="The company name displayed when the page language is Simplified Chinese. Leave empty to use the default brand name." xml:space="preserve">
+    <value>Назва компанії, що відображається, коли мовою сторінки є спрощена китайська. Залиште порожнім, щоб використовувати назву за замовчуванням.</value>
   </data>
   <data name="The logo of the project displayed in the navbar and footer. Support jpg, png, svg." xml:space="preserve">
     <value>Логотип проекту, який відображається в навбарі та футері. Підтримується jpg, png, svg.</value>

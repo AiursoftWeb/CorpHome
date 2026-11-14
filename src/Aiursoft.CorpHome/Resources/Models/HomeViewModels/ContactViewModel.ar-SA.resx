@@ -48,17 +48,17 @@
   <data name="Organization Size" xml:space="preserve">
     <value>حجم المؤسسة</value>
   </data>
-  <data name="The {0} is not a valid email address." xml:space="preserve">
-    <value>{0} ليس عنوان بريد إلكتروني صالحًا.</value>
-  </data>
-  <data name="The {0} is required." xml:space="preserve">
-    <value>حقل {0} مطلوب.</value>
-  </data>
   <data name="The verification code is required." xml:space="preserve">
     <value>رمز التحقق مطلوب.</value>
   </data>
   <data name="The verification code must be 4 characters." xml:space="preserve">
     <value>يجب أن يتكون رمز التحقق من 4 أحرف.</value>
+  </data>
+  <data name="The {0} is not a valid email address." xml:space="preserve">
+    <value>{0} ليس عنوان بريد إلكتروني صالحًا.</value>
+  </data>
+  <data name="The {0} is required." xml:space="preserve">
+    <value>حقل {0} مطلوب.</value>
   </data>
   <data name="Verification Code" xml:space="preserve">
     <value>رمز التحقق</value>

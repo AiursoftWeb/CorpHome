@@ -66,20 +66,20 @@
   <data name="Custom Container Development" xml:space="preserve">
     <value>Pengembangan Container Kustom</value>
   </data>
-  <data name="Custom speech synthesis/recognition, search integration &amp; deep investigation pipelines" xml:space="preserve">
-    <value>Sintesis/pengenalan suara kustom, integrasi pencarian &amp; pipa investigasi mendalam</value>
-  </data>
   <data name="Custom TTS / STT, Search Engine &amp; Deep Research" xml:space="preserve">
     <value>TTS / STT Kustom, Mesin Pencari &amp; Penelitian Mendalam</value>
+  </data>
+  <data name="Custom speech synthesis/recognition, search integration &amp; deep investigation pipelines" xml:space="preserve">
+    <value>Sintesis/pengenalan suara kustom, integrasi pencarian &amp; pipa investigasi mendalam</value>
   </data>
   <data name="Deployment &amp; Hosting" xml:space="preserve">
     <value>Penyebaran &amp; Peng-hosting</value>
   </data>
-  <data name="Device policy integration with scope and supported platforms agreed before deployment" xml:space="preserve">
-    <value>Integrasi kebijakan perangkat dengan cakupan dan platform yang didukung disepakati sebelum penerapan</value>
-  </data>
   <data name="DevOps &amp; Engineering" xml:space="preserve">
     <value>DevOps &amp; Engineering</value>
+  </data>
+  <data name="Device policy integration with scope and supported platforms agreed before deployment" xml:space="preserve">
+    <value>Integrasi kebijakan perangkat dengan cakupan dan platform yang didukung disepakati sebelum penerapan</value>
   </data>
   <data name="Document Conversion" xml:space="preserve">
     <value>Konversi Dokumen</value>
@@ -105,6 +105,9 @@
   <data name="GitLab is a trademark of GitLab Inc. Aiursoft provides deployment, hosting, and integration services for GitLab — we are not affiliated with or endorsed by GitLab Inc. The GitLab Community Edition (CE) is MIT-licensed and can be deployed freely. The GitLab Enterprise Edition (EE) requires a separate license purchased from GitLab Inc. We can assist you with procuring the appropriate GitLab EE license, or you may choose to remove this item from your plan." xml:space="preserve">
     <value>GitLab adalah merek dagang dari GitLab Inc. Aiursoft menyediakan layanan penempatan, hosting, dan integrasi untuk GitLab — kami tidak berafiliasi dengan atau mendapat dukungan dari GitLab Inc. Edisi Komunitas GitLab (CE) berlisensi MIT dan dapat ditempatkan secara bebas. Edisi Perusahaan GitLab (EE) memerlukan lisensi terpisah yang dibeli dari GitLab Inc. Kami dapat membantu Anda memperoleh lisensi GitLab EE yang sesuai, atau Anda dapat memilih untuk menghapus item ini dari paket Anda.</value>
   </data>
+  <data name="HR &amp; Org Portal" xml:space="preserve">
+    <value>Portal SDM &amp; Organisasi</value>
+  </data>
   <data name="Hacker" xml:space="preserve">
     <value>Perorangan</value>
   </data>
@@ -117,9 +120,6 @@
   <data name="Hosted by Aiursoft, not on-premise" xml:space="preserve">
     <value>Ditangani oleh Aiursoft, bukan on-premise</value>
   </data>
-  <data name="HR &amp; Org Portal" xml:space="preserve">
-    <value>Portal SDM &amp; Organisasi</value>
-  </data>
   <data name="Identity &amp; Security" xml:space="preserve">
     <value>Identitas &amp; Keamanan</value>
   </data>
@@ -128,6 +128,9 @@
   </data>
   <data name="Local LLM API Gateway" xml:space="preserve">
     <value>Gerbang API LLM Lokal</value>
+  </data>
+  <data name="MDM Device Compliance" xml:space="preserve">
+    <value>Kepatuhan Perangkat MDM</value>
   </data>
   <data name="Mailcow is open-source software (GPL-3.0). Aiursoft provides managed hosting, deployment, and integration services. Any custom modifications provided during your on-premise deployment are fully compliant with and distributed under the GPL-3.0 license." xml:space="preserve">
     <value>Mailcow adalah perangkat lunak sumber terbuka (GPL-3.0). Aiursoft menyediakan layanan hosting terkelola, penyebaran, dan integrasi. Setiap modifikasi kustom yang diberikan selama penyebaran di lingkungan Anda sepenuhnya sesuai dengan dan didistribusikan di bawah lisensi GPL-3.0.</value>
@@ -141,14 +144,8 @@
   <data name="Max User Accounts" xml:space="preserve">
     <value>Maksimum Akun Pengguna</value>
   </data>
-  <data name="MDM Device Compliance" xml:space="preserve">
-    <value>Kepatuhan Perangkat MDM</value>
-  </data>
   <data name="Media &amp; Personal" xml:space="preserve">
     <value>Media &amp; Personal</value>
-  </data>
-  <data name="mo" xml:space="preserve">
-    <value>mo</value>
   </data>
   <data name="Multi-site &amp; HA capable" xml:space="preserve">
     <value>Multi-site &amp; HA capable</value>
@@ -174,17 +171,17 @@
   <data name="Online Code Execution" xml:space="preserve">
     <value>Eksekusi Kode Online</value>
   </data>
+  <data name="PDF Processing &amp; Vector Database" xml:space="preserve">
+    <value>Pemrosesan PDF &amp; Basis Data Vektor</value>
+  </data>
+  <data name="PDF ingestion &amp; vector store construction via PaddleOCR" xml:space="preserve">
+    <value>Ingesti PDF &amp; konstruksi vektor store melalui PaddleOCR</value>
+  </data>
   <data name="PaddleOCR-based" xml:space="preserve">
     <value>berbasis PaddleOCR</value>
   </data>
   <data name="Partial / limited" xml:space="preserve">
     <value>Sebagian / terbatas</value>
-  </data>
-  <data name="PDF ingestion &amp; vector store construction via PaddleOCR" xml:space="preserve">
-    <value>Ingesti PDF &amp; konstruksi vektor store melalui PaddleOCR</value>
-  </data>
-  <data name="PDF Processing &amp; Vector Database" xml:space="preserve">
-    <value>Pemrosesan PDF &amp; Basis Data Vektor</value>
   </data>
   <data name="Photo &amp; Video Management" xml:space="preserve">
     <value>Manajemen Foto &amp; Video</value>
@@ -194,6 +191,9 @@
   </data>
   <data name="Repository Sync" xml:space="preserve">
     <value>Sinkronisasi Repositori</value>
+  </data>
+  <data name="SSO / Identity Gateway" xml:space="preserve">
+    <value>SSO / Gerbang Identitas</value>
   </data>
   <data name="SaaS only" xml:space="preserve">
     <value>Hanya SaaS</value>
@@ -222,9 +222,6 @@
   <data name="Source Control &amp; CI/CD" xml:space="preserve">
     <value>Pengendalian Sumber &amp; CI/CD</value>
   </data>
-  <data name="SSO / Identity Gateway" xml:space="preserve">
-    <value>SSO / Gerbang Identitas</value>
-  </data>
   <data name="Startup" xml:space="preserve">
     <value>Startup</value>
   </data>
@@ -240,14 +237,11 @@
   <data name="Team Voting" xml:space="preserve">
     <value>Pemungutan Suara Tim</value>
   </data>
-  <data name="Unlimited" xml:space="preserve">
-    <value>Tak Terbatas</value>
-  </data>
   <data name="URL Shortener" xml:space="preserve">
     <value>Pemendek URL</value>
   </data>
-  <data name="user" xml:space="preserve">
-    <value>pengguna</value>
+  <data name="Unlimited" xml:space="preserve">
+    <value>Tak Terbatas</value>
   </data>
   <data name="What&apos;s Included" xml:space="preserve">
     <value>Apa yang Termasuk</value>
@@ -257,6 +251,12 @@
   </data>
   <data name="Zero Trust Yubikey Auth" xml:space="preserve">
     <value>Autentikasi Yubikey Zero Trust</value>
+  </data>
+  <data name="mo" xml:space="preserve">
+    <value>mo</value>
+  </data>
+  <data name="user" xml:space="preserve">
+    <value>pengguna</value>
   </data>
 
 </root>

@@ -51,11 +51,11 @@
   <data name="9. Modifications to the Terms" xml:space="preserve">
     <value>9. Modifiche ai Termini</value>
   </data>
-  <data name="Aiursoft hosts the infrastructure on our secured servers. We are responsible for server uptime, standard backups, and basic network security." xml:space="preserve">
-    <value>Aiursoft ospita l&apos;infrastruttura sui nostri server protetti. Siamo responsabili dell&apos;uptime del server, dei backup standard e della sicurezza di rete di base.</value>
-  </data>
   <data name="AIURSOFT LIMITED" xml:space="preserve">
     <value>AIURSOFT LIMITED</value>
+  </data>
+  <data name="Aiursoft hosts the infrastructure on our secured servers. We are responsible for server uptime, standard backups, and basic network security." xml:space="preserve">
+    <value>Aiursoft ospita l&apos;infrastruttura sui nostri server protetti. Siamo responsabili dell&apos;uptime del server, dei backup standard e della sicurezza di rete di base.</value>
   </data>
   <data name="Aiursoft provides enterprise IT infrastructure solutions built upon open-source technologies (e.g., Linux, Nextcloud, Mailcow, Authentik, GitLab)." xml:space="preserve">
     <value>Aiursoft fornisce soluzioni per l&apos;infrastruttura IT aziendale basate su tecnologie open source (ad esempio, Linux, Nextcloud, Mailcow, Authentik, GitLab).</value>
@@ -159,17 +159,14 @@
   <data name="The Service is Commercial:" xml:space="preserve">
     <value>Il Servizio è Commerciale:</value>
   </data>
-  <data name="The software is deployed on your local servers or private cloud. You retain absolute physical control and ownership of your data (&quot;Own Your Data&quot;). Consequently, you are solely responsible for your underlying hardware, local network security, physical access control, and disaster recovery backups. Aiursoft&apos;s responsibility is limited to software-level maintenance, container updates, and technical support as defined in your plan." xml:space="preserve">
-    <value>Il software viene distribuito sui tuoi server locali o su una cloud privata. Ti conservi il controllo fisico assoluto e la proprietà dei tuoi dati (&quot;Possiedi i tuoi dati&quot;). Di conseguenza, sei esclusivamente responsabile per l&apos;hardware sottostante, la sicurezza della rete locale, il controllo di accesso fisico e i backup di ripristino in caso di disastro. La responsabilità di Aiursoft è limitata alla manutenzione a livello software, agli aggiornamenti dei container e al supporto tecnico come definito nel tuo piano.</value>
-  </data>
   <data name="The Software is Free:" xml:space="preserve">
     <value>Il software è gratuito:</value>
   </data>
+  <data name="The software is deployed on your local servers or private cloud. You retain absolute physical control and ownership of your data (&quot;Own Your Data&quot;). Consequently, you are solely responsible for your underlying hardware, local network security, physical access control, and disaster recovery backups. Aiursoft&apos;s responsibility is limited to software-level maintenance, container updates, and technical support as defined in your plan." xml:space="preserve">
+    <value>Il software viene distribuito sui tuoi server locali o su una cloud privata. Ti conservi il controllo fisico assoluto e la proprietà dei tuoi dati (&quot;Possiedi i tuoi dati&quot;). Di conseguenza, sei esclusivamente responsabile per l&apos;hardware sottostante, la sicurezza della rete locale, il controllo di accesso fisico e i backup di ripristino in caso di disastro. La responsabilità di Aiursoft è limitata alla manutenzione a livello software, agli aggiornamenti dei container e al supporto tecnico come definito nel tuo piano.</value>
+  </data>
   <data name="The underlying open-source codes are subject to their respective licenses (e.g., MIT, GPL). You are free to inspect, modify, and distribute the code as permitted by those licenses." xml:space="preserve">
     <value>Il codice open-source sottostante è soggetto alle rispettive licenze (ad esempio, MIT, GPL). Hai libertà di ispezionare, modificare e distribuire il codice come consentito da tali licenze.</value>
-  </data>
-  <data name="These cancellation and non-refund rules apply to voluntary cancellation. They do not exclude remedies for our failure to provide the agreed services, override the specific commitments in an applicable service agreement, or limit rights that cannot be excluded under applicable law." xml:space="preserve">
-    <value>Queste regole di cancellazione e non rimborsabilità si applicano alla cancellazione volontaria. Esse non escludono i rimedi per il nostro mancato rispetto nell&apos;erogazione dei servizi concordati, non annullano gli impegni specifici contenuti in un contratto di servizio applicabile, né limitano i diritti che non possono essere esclusi ai sensi della legge vigente.</value>
   </data>
   <data name="These Terms of Service (&quot;Terms&quot;) govern your access to and use of the Aiursoft website, products, and subscription services, including but not limited to Aiursoft Substrate (Core, Startup, and Enterprise plans) (collectively, the &quot;Services&quot;). By registering for an account or purchasing a subscription, you agree to be bound by these Terms." xml:space="preserve">
     <value>Questi Termini di Servizio (&quot;Termini&quot;) regolano l&apos;accesso e l&apos;utilizzo del sito web, dei prodotti e dei servizi di sottoscrizione di Aiursoft, inclusi ma non limitati a Aiursoft Substrate (piani Core, Startup ed Enterprise) (collettivamente, i &quot;Servizi&quot;). Registrandoti a un account o acquistando una sottoscrizione, accetti di essere vincolato da questi Termini.</value>
@@ -179,6 +176,9 @@
   </data>
   <data name="These Terms shall be governed by and construed in accordance with the laws of the Hong Kong Special Administrative Region, without regard to its conflict of law provisions." xml:space="preserve">
     <value>Questi Termini sono soggetti alle leggi della Regione Amministrativa Speciale di Hong Kong, senza considerare le relative disposizioni sul conflitto di leggi.</value>
+  </data>
+  <data name="These cancellation and non-refund rules apply to voluntary cancellation. They do not exclude remedies for our failure to provide the agreed services, override the specific commitments in an applicable service agreement, or limit rights that cannot be excluded under applicable law." xml:space="preserve">
+    <value>Queste regole di cancellazione e non rimborsabilità si applicano alla cancellazione volontaria. Esse non escludono i rimedi per il nostro mancato rispetto nell&apos;erogazione dei servizi concordati, non annullano gli impegni specifici contenuti in un contratto di servizio applicabile, né limitano i diritti che non possono essere esclusi ai sensi della legge vigente.</value>
   </data>
   <data name="To ensure uninterrupted service, our commercial plans operate on a recurring subscription basis." xml:space="preserve">
     <value>Per garantire un servizio ininterrotto, i nostri piani commerciali operano su base di abbonamento ricorrente.</value>

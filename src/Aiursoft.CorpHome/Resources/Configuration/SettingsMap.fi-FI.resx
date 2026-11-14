@@ -159,26 +159,26 @@
   <data name="Show Senparc in the trusted partners section." xml:space="preserve">
     <value>Näytä Senparc luotettavien kumppaneiden osiossa.</value>
   </data>
-  <data name="Show the Voxihost partnership section on the home page." xml:space="preserve">
-    <value>Näytä Voxihost-kumppanuusosio etusivulla.</value>
+  <data name="Show Voxihost Partnership" xml:space="preserve">
+    <value>Näytä Voxihost-kumppanuus</value>
   </data>
   <data name="Show Voxihost in the trusted partners section." xml:space="preserve">
     <value>Näytä Voxihost luotettavien kumppaneiden osiossa.</value>
   </data>
-  <data name="Show Voxihost Partnership" xml:space="preserve">
-    <value>Näytä Voxihost-kumppanuus</value>
-  </data>
-  <data name="The brand name displayed in the footer." xml:space="preserve">
-    <value>Brändin nimi, joka näytetään alatunnisteessa.</value>
-  </data>
-  <data name="The company name displayed when the page language is Simplified Chinese. Leave empty to use the default brand name." xml:space="preserve">
-    <value>Yhtiön nimi, joka näytetään, kun sivun kieli on yksinkertaistettu kiina. Jätä tyhjäksi käyttääksesi oletusarvoista brändin nimeä.</value>
+  <data name="Show the Voxihost partnership section on the home page." xml:space="preserve">
+    <value>Näytä Voxihost-kumppanuusosio etusivulla.</value>
   </data>
   <data name="The HTTP(S) base URL of AlertCenter." xml:space="preserve">
     <value>AlertCenterin HTTP(S)-perus-URL-osoite.</value>
   </data>
   <data name="The ICP license number for China mainland users. Leave empty to hide." xml:space="preserve">
     <value>ICP-lisenssinumero Kiinan päävaltakunnan käyttäjille. Jätä tyhjäksi piilottaaksesi.</value>
+  </data>
+  <data name="The brand name displayed in the footer." xml:space="preserve">
+    <value>Brändin nimi, joka näytetään alatunnisteessa.</value>
+  </data>
+  <data name="The company name displayed when the page language is Simplified Chinese. Leave empty to use the default brand name." xml:space="preserve">
+    <value>Yhtiön nimi, joka näytetään, kun sivun kieli on yksinkertaistettu kiina. Jätä tyhjäksi käyttääksesi oletusarvoista brändin nimeä.</value>
   </data>
   <data name="The logo of the project displayed in the navbar and footer. Support jpg, png, svg." xml:space="preserve">
     <value>Projektin logo näytetään navigointipalkissa ja alatunnisteessa. Tuki jpg, png, svg.</value>

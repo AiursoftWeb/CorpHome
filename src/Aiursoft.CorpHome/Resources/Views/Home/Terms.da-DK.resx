@@ -51,11 +51,11 @@
   <data name="9. Modifications to the Terms" xml:space="preserve">
     <value>9. Ændringer af vilkårene</value>
   </data>
-  <data name="Aiursoft hosts the infrastructure on our secured servers. We are responsible for server uptime, standard backups, and basic network security." xml:space="preserve">
-    <value>Aiursoft hoster infrastrukturen på vores sikrede servere. Vi er ansvarlige for serveropetid, standard-backups og grundlæggende netværkssikkerhed.</value>
-  </data>
   <data name="AIURSOFT LIMITED" xml:space="preserve">
     <value>AIURSOFT LIMITED</value>
+  </data>
+  <data name="Aiursoft hosts the infrastructure on our secured servers. We are responsible for server uptime, standard backups, and basic network security." xml:space="preserve">
+    <value>Aiursoft hoster infrastrukturen på vores sikrede servere. Vi er ansvarlige for serveropetid, standard-backups og grundlæggende netværkssikkerhed.</value>
   </data>
   <data name="Aiursoft provides enterprise IT infrastructure solutions built upon open-source technologies (e.g., Linux, Nextcloud, Mailcow, Authentik, GitLab)." xml:space="preserve">
     <value>Aiursoft leverer enterprise IT-infrastrukturløsninger baseret på open-source-teknologier (f.eks. Linux, Nextcloud, Mailcow, Authentik, GitLab).</value>
@@ -159,17 +159,14 @@
   <data name="The Service is Commercial:" xml:space="preserve">
     <value>Tjenesten er kommerciel:</value>
   </data>
-  <data name="The software is deployed on your local servers or private cloud. You retain absolute physical control and ownership of your data (&quot;Own Your Data&quot;). Consequently, you are solely responsible for your underlying hardware, local network security, physical access control, and disaster recovery backups. Aiursoft&apos;s responsibility is limited to software-level maintenance, container updates, and technical support as defined in your plan." xml:space="preserve">
-    <value>Softwaren er implementeret på dine lokale servere eller din private cloud. Du beholder fuldstændig fysisk kontrol og ejerskab af dine data (&quot;Own Your Data&quot;). Dermed er du alene ansvarlig for din underliggende hardware, lokal netværksikkerhed, fysisk adgangskontrol og backups til katastrofegenvinding. Aiursofts ansvar er begrænset til vedligeholdelse på softwareniveau, opdateringer af containere og teknisk support som defineret i din plan.</value>
-  </data>
   <data name="The Software is Free:" xml:space="preserve">
     <value>Softwaren er gratis:</value>
   </data>
+  <data name="The software is deployed on your local servers or private cloud. You retain absolute physical control and ownership of your data (&quot;Own Your Data&quot;). Consequently, you are solely responsible for your underlying hardware, local network security, physical access control, and disaster recovery backups. Aiursoft&apos;s responsibility is limited to software-level maintenance, container updates, and technical support as defined in your plan." xml:space="preserve">
+    <value>Softwaren er implementeret på dine lokale servere eller din private cloud. Du beholder fuldstændig fysisk kontrol og ejerskab af dine data (&quot;Own Your Data&quot;). Dermed er du alene ansvarlig for din underliggende hardware, lokal netværksikkerhed, fysisk adgangskontrol og backups til katastrofegenvinding. Aiursofts ansvar er begrænset til vedligeholdelse på softwareniveau, opdateringer af containere og teknisk support som defineret i din plan.</value>
+  </data>
   <data name="The underlying open-source codes are subject to their respective licenses (e.g., MIT, GPL). You are free to inspect, modify, and distribute the code as permitted by those licenses." xml:space="preserve">
     <value>Den underliggende open-source-kode er underlagt deres respektive licenser (f.eks. MIT, GPL). Du er frit stillet til at inspicere, modificere og distribuere koden, som tilladt af disse licenser.</value>
-  </data>
-  <data name="These cancellation and non-refund rules apply to voluntary cancellation. They do not exclude remedies for our failure to provide the agreed services, override the specific commitments in an applicable service agreement, or limit rights that cannot be excluded under applicable law." xml:space="preserve">
-    <value>Disse regler om annullering og manglende refundering gælder for frivillig annullering. De udelukker ikke retsmidler for vores manglende levering af de aftalte tjenester, overskrider ikke de specifikke forpligtelser i en gældende serviceaftale, eller begrænser rettigheder, der ikke kan udelukkes i henhold til gældende lov.</value>
   </data>
   <data name="These Terms of Service (&quot;Terms&quot;) govern your access to and use of the Aiursoft website, products, and subscription services, including but not limited to Aiursoft Substrate (Core, Startup, and Enterprise plans) (collectively, the &quot;Services&quot;). By registering for an account or purchasing a subscription, you agree to be bound by these Terms." xml:space="preserve">
     <value>Disse Vilkår for Service (&quot;Vilkår&quot;) regulerer din adgang til og brug af Aiursofts hjemmeside, produkter og abonnementsydelser, herunder men ikke begrænset til Aiursoft Substrate (Core, Startup og Enterprise-planer) (samlet benævnt &quot;Ydelserne&quot;). Ved at registrere en konto eller købe et abonnement accepterer du at være bundet af disse Vilkår.</value>
@@ -179,6 +176,9 @@
   </data>
   <data name="These Terms shall be governed by and construed in accordance with the laws of the Hong Kong Special Administrative Region, without regard to its conflict of law provisions." xml:space="preserve">
     <value>Disse vilkår skal styres af og fortolkes i overensstemmelse med lovgivningen i den særlige administrative region Hong Kong, uden hensyntagen til dennes konfliktnormer.</value>
+  </data>
+  <data name="These cancellation and non-refund rules apply to voluntary cancellation. They do not exclude remedies for our failure to provide the agreed services, override the specific commitments in an applicable service agreement, or limit rights that cannot be excluded under applicable law." xml:space="preserve">
+    <value>Disse regler om annullering og manglende refundering gælder for frivillig annullering. De udelukker ikke retsmidler for vores manglende levering af de aftalte tjenester, overskrider ikke de specifikke forpligtelser i en gældende serviceaftale, eller begrænser rettigheder, der ikke kan udelukkes i henhold til gældende lov.</value>
   </data>
   <data name="To ensure uninterrupted service, our commercial plans operate on a recurring subscription basis." xml:space="preserve">
     <value>For at sikre en afbrydelsesfri service, kører vores kommercielle planer på et tilbagevendende abonnementsgrundlag.</value>

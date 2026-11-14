@@ -51,11 +51,11 @@
   <data name="9. Modifications to the Terms" xml:space="preserve">
     <value>9. शर्तों में संशोधन</value>
   </data>
-  <data name="Aiursoft hosts the infrastructure on our secured servers. We are responsible for server uptime, standard backups, and basic network security." xml:space="preserve">
-    <value>Aiursoft अपनी सुरक्षित सर्वरों पर इंफ्रास्ट्रक्चर होस्ट करता है। हम सर्वर अपटाइम, मानक बैकअप और बुनियादी नेटवर्क सुरक्षा के लिए जिम्मेदार हैं।</value>
-  </data>
   <data name="AIURSOFT LIMITED" xml:space="preserve">
     <value>AIURSOFT LIMITED</value>
+  </data>
+  <data name="Aiursoft hosts the infrastructure on our secured servers. We are responsible for server uptime, standard backups, and basic network security." xml:space="preserve">
+    <value>Aiursoft अपनी सुरक्षित सर्वरों पर इंफ्रास्ट्रक्चर होस्ट करता है। हम सर्वर अपटाइम, मानक बैकअप और बुनियादी नेटवर्क सुरक्षा के लिए जिम्मेदार हैं।</value>
   </data>
   <data name="Aiursoft provides enterprise IT infrastructure solutions built upon open-source technologies (e.g., Linux, Nextcloud, Mailcow, Authentik, GitLab)." xml:space="preserve">
     <value>Aiursoft उन्मूलन स्रोत तकनीकों (जैसे कि, Linux, Nextcloud, Mailcow, Authentik, GitLab) पर आधारित उद्यम आईटी बुनियादी ढांचे के समाधान प्रदान करता है।</value>
@@ -159,17 +159,14 @@
   <data name="The Service is Commercial:" xml:space="preserve">
     <value>सेवा वाणिज्यिक है:</value>
   </data>
-  <data name="The software is deployed on your local servers or private cloud. You retain absolute physical control and ownership of your data (&quot;Own Your Data&quot;). Consequently, you are solely responsible for your underlying hardware, local network security, physical access control, and disaster recovery backups. Aiursoft&apos;s responsibility is limited to software-level maintenance, container updates, and technical support as defined in your plan." xml:space="preserve">
-    <value>सॉफ़्टवेयर आपके स्थानीय सर्वरों या निजी क्लाउड पर तैनात किया जाता है। आप अपने डेटा का पूर्ण भौतिक नियंत्रण और स्वामित्व बनाए रखते हैं (&quot;Own Your Data&quot;)। अतः, आप अपने अंतर्निहित हार्डवेयर, स्थानीय नेटवर्क सुरक्षा, भौतिक एक्सेस नियंत्रण और आपदा पुनर्प्राप्ति बैकअप के लिए पूर्ण रूप से जिम्मेदार हैं। Aiursoft की जिम्मेदारी केवल सॉफ़्टवेयर स्तर की रखरखाव, कंटेनर अपडेट और आपके योजना में परिभाषित तकनीकी सहायता तक सीमित है।</value>
-  </data>
   <data name="The Software is Free:" xml:space="preserve">
     <value>सॉफ़्टवेयर मुफ्त है:</value>
   </data>
+  <data name="The software is deployed on your local servers or private cloud. You retain absolute physical control and ownership of your data (&quot;Own Your Data&quot;). Consequently, you are solely responsible for your underlying hardware, local network security, physical access control, and disaster recovery backups. Aiursoft&apos;s responsibility is limited to software-level maintenance, container updates, and technical support as defined in your plan." xml:space="preserve">
+    <value>सॉफ़्टवेयर आपके स्थानीय सर्वरों या निजी क्लाउड पर तैनात किया जाता है। आप अपने डेटा का पूर्ण भौतिक नियंत्रण और स्वामित्व बनाए रखते हैं (&quot;Own Your Data&quot;)। अतः, आप अपने अंतर्निहित हार्डवेयर, स्थानीय नेटवर्क सुरक्षा, भौतिक एक्सेस नियंत्रण और आपदा पुनर्प्राप्ति बैकअप के लिए पूर्ण रूप से जिम्मेदार हैं। Aiursoft की जिम्मेदारी केवल सॉफ़्टवेयर स्तर की रखरखाव, कंटेनर अपडेट और आपके योजना में परिभाषित तकनीकी सहायता तक सीमित है।</value>
+  </data>
   <data name="The underlying open-source codes are subject to their respective licenses (e.g., MIT, GPL). You are free to inspect, modify, and distribute the code as permitted by those licenses." xml:space="preserve">
     <value>मूल खुला-स्रोत कोड अपने-अपने लाइसेंस (जैसे कि MIT, GPL) के अधीन हैं। आप उन लाइसेंसों द्वारा अनुमति प्राप्त होने पर कोड की जांच, संशोधन और वितरण करने के लिए स्वतंत्र हैं।</value>
-  </data>
-  <data name="These cancellation and non-refund rules apply to voluntary cancellation. They do not exclude remedies for our failure to provide the agreed services, override the specific commitments in an applicable service agreement, or limit rights that cannot be excluded under applicable law." xml:space="preserve">
-    <value>ये रद्दीकरण और गैर-वापसी नियम स्वैच्छिक रद्दीकरण पर लागू होते हैं। ये हमारी सहमत सेवाओं की आपूर्ति में विफलता के लिए उपचारों को बाहर नहीं करते, किसी लागू सेवा समझौते में विशिष्ट प्रतिबद्धताओं को ओवरराइड नहीं करते, या लागू कानून के तहत हटाए जाने योग्य नहीं होने वाले अधिकारों को सीमित नहीं करते।</value>
   </data>
   <data name="These Terms of Service (&quot;Terms&quot;) govern your access to and use of the Aiursoft website, products, and subscription services, including but not limited to Aiursoft Substrate (Core, Startup, and Enterprise plans) (collectively, the &quot;Services&quot;). By registering for an account or purchasing a subscription, you agree to be bound by these Terms." xml:space="preserve">
     <value>इन सेवा की शर्तें (&quot;शर्तें&quot;) आपकी Aiursoft वेबसाइट, उत्पादों और सदस्यता सेवाओं तक पहुंच और उपयोग को नियंत्रित करती हैं, जिसमें Aiursoft Substrate (Core, Startup, और Enterprise प्लान) शामिल है लेकिन इन तक सीमित नहीं है (सामूहिक रूप से, &quot;सेवाएं&quot;)। एक खाते के लिए पंजीकरण करके या सदस्यता खरीदकर, आप इन शर्तों द्वारा बंधित होने के लिए सहमत होते हैं।</value>
@@ -179,6 +176,9 @@
   </data>
   <data name="These Terms shall be governed by and construed in accordance with the laws of the Hong Kong Special Administrative Region, without regard to its conflict of law provisions." xml:space="preserve">
     <value>इन शर्तों को हंगकांग विशेष प्रशासनिक क्षेत्र के कानूनों द्वारा शासित और व्याख्या की जाएगी, इसके विधि संघर्ष की व्यवस्थाओं को ध्यान में नहीं रखते हुए।</value>
+  </data>
+  <data name="These cancellation and non-refund rules apply to voluntary cancellation. They do not exclude remedies for our failure to provide the agreed services, override the specific commitments in an applicable service agreement, or limit rights that cannot be excluded under applicable law." xml:space="preserve">
+    <value>ये रद्दीकरण और गैर-वापसी नियम स्वैच्छिक रद्दीकरण पर लागू होते हैं। ये हमारी सहमत सेवाओं की आपूर्ति में विफलता के लिए उपचारों को बाहर नहीं करते, किसी लागू सेवा समझौते में विशिष्ट प्रतिबद्धताओं को ओवरराइड नहीं करते, या लागू कानून के तहत हटाए जाने योग्य नहीं होने वाले अधिकारों को सीमित नहीं करते।</value>
   </data>
   <data name="To ensure uninterrupted service, our commercial plans operate on a recurring subscription basis." xml:space="preserve">
     <value>अविच्छिन्न सेवा सुनिश्चित करने के लिए, हमारे वाणिज्यिक प्लान पुनरावर्ती सदस्यता के आधार पर संचालित होते हैं।</value>

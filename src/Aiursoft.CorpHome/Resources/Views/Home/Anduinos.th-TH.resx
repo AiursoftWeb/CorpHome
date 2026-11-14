@@ -27,6 +27,9 @@
   <data name="27 inch" xml:space="preserve">
     <value>27 นิ้ว</value>
   </data>
+  <data name="ARM64 Support" xml:space="preserve">
+    <value>รองรับ ARM64</value>
+  </data>
   <data name="Add to Management Cloud and go live" xml:space="preserve">
     <value>เพิ่มลงไปยัง Management Cloud และเริ่มใช้งานจริง</value>
   </data>
@@ -42,9 +45,6 @@
   <data name="AnduinOS 2.0 standard support ends in April 2031, as for the community edition. Enterprise services do not extend this release&apos;s security-update lifecycle. Service scope and subscription duration are specified in your agreement." xml:space="preserve">
     <value>การสนับสนุนมาตรฐานของ AnduinOS 2.0 สำหรับรุ่นชุมชนจะสิ้นสุดในเดือนเมษายน 2031 บริการสำหรับองค์กรไม่ได้ขยายระยะเวลาการอัปเดตความปลอดภัยของรุ่นนี้ ขอบเขตบริการและระยะเวลาการสมัครสมาชิกระบุไว้ในข้อตกลงของคุณ</value>
   </data>
-  <data name="AnduinOS device" xml:space="preserve">
-    <value>อุปกรณ์ AnduinOS</value>
-  </data>
   <data name="AnduinOS Enterprise" xml:space="preserve">
     <value>AnduinOS Enterprise</value>
   </data>
@@ -53,6 +53,15 @@
   </data>
   <data name="AnduinOS Enterprise provides brand customisation, enabling you to replace the system logo with your own." xml:space="preserve">
     <value>AnduinOS Enterprise ให้บริการการปรับแต่งแบรนด์ ช่วยให้您可以เปลี่ยนโลโก้ระบบเป็นของคุณเอง</value>
+  </data>
+  <data name="AnduinOS Kiosk" xml:space="preserve">
+    <value>AnduinOS Kiosk</value>
+  </data>
+  <data name="AnduinOS Management Cloud" xml:space="preserve">
+    <value>คลาวด์จัดการ AnduinOS</value>
+  </data>
+  <data name="AnduinOS device" xml:space="preserve">
+    <value>อุปกรณ์ AnduinOS</value>
   </data>
   <data name="AnduinOS fleet" xml:space="preserve">
     <value>เรือขบวน AnduinOS</value>
@@ -69,12 +78,6 @@
   <data name="AnduinOS is based on Ubuntu&apos;s package base. It&apos;s compatible with most of the apt packages from Ubuntu. It&apos;s a perfect combination of experience and ecology." xml:space="preserve">
     <value>AnduinOS มีพื้นฐานจากฐานแพ็กเกจของ Ubuntu และใช้งานร่วมกับแพ็กเกจ apt ส่วนใหญ่จาก Ubuntu ได้ ถือเป็นการผสมผสานระหว่างประสบการณ์การใช้งานและระบบนิเวศที่สมบูรณ์แบบ</value>
   </data>
-  <data name="AnduinOS Kiosk" xml:space="preserve">
-    <value>AnduinOS Kiosk</value>
-  </data>
-  <data name="AnduinOS Management Cloud" xml:space="preserve">
-    <value>คลาวด์จัดการ AnduinOS</value>
-  </data>
   <data name="AnduinOS wakes up almost as fast as you can blink. Wait time? What&apos;s that? Lightning-fast start-up on any hardware." xml:space="preserve">
     <value>AnduinOS พร้อมใช้งานได้รวดเร็วเพียงกระพริบตา ต้องรึเปล่า? เป็นอะไร? เปิดเครื่องเร็วทันใจ บนฮาร์ดแวร์ทุกชนิด</value>
   </data>
@@ -89,9 +92,6 @@
   </data>
   <data name="Architecture" xml:space="preserve">
     <value>สถาปัตยกรรม</value>
-  </data>
-  <data name="ARM64 Support" xml:space="preserve">
-    <value>รองรับ ARM64</value>
   </data>
   <data name="At just 2.54 GB, the ISO is lightweight and fast to deploy across your fleet. The live environment lets your IT team quickly boot, repair, and diagnose systems without installing." xml:space="preserve">
     <value>ด้วยขนาดเพียง 2.54 GB ไฟล์ ISO จึงมีขนาดเล็กและติดตั้งได้รวดเร็วทั่วทั้งระบบของคุณ สภาพแวดล้อมแบบ Live ช่วยให้ทีม IT ของคุณเริ่มต้นระบบ ซ่อมแซม และวิเคราะห์ปัญหาได้อย่างรวดเร็วโดยไม่ต้องติดตั้งระบบ</value>
@@ -195,9 +195,6 @@
   <data name="Device Management Integrations" xml:space="preserve">
     <value>การผสานรวมระบบจัดการอุปกรณ์</value>
   </data>
-  <data name="digital signage and kiosk terminals" xml:space="preserve">
-    <value>ป้ายประกาศทางดิจิทัลและเทอร์มินัลคีออสก์</value>
-  </data>
   <data name="Disk Space" xml:space="preserve">
     <value>พื้นที่ดิสก์</value>
   </data>
@@ -258,9 +255,6 @@
   <data name="Explore StatHub" xml:space="preserve">
     <value>สำรวจ StatHub</value>
   </data>
-  <data name="ext4 optional" xml:space="preserve">
-    <value>ext4 เป็นตัวเลือกเสริม</value>
-  </data>
   <data name="Familiar UX" xml:space="preserve">
     <value>UX ที่คุ้นเคย</value>
   </data>
@@ -282,14 +276,14 @@
   <data name="Fully On-Premise" xml:space="preserve">
     <value>ใช้งานภายในองค์กรเต็มรูปแบบ</value>
   </data>
+  <data name="GPL-v3 License" xml:space="preserve">
+    <value>ใบอนุญาต GPL-v3</value>
+  </data>
   <data name="Get the AnduinOS image from our site" xml:space="preserve">
     <value>ดาวน์โหลดไฟล์ภาพ AnduinOS จากเว็บไซต์ของเรา</value>
   </data>
   <data name="Get up-to-the-second updates on every AnduinOS device&apos;s CPU, memory, disk, and network usage." xml:space="preserve">
     <value>รับข้อมูลอัปเดตแบบทันทีวินาทีต่อวินาทีเกี่ยวกับการใช้งาน CPU, หน่วยความจำ, ดิสก์ และเครือข่ายของอุปกรณ์ AnduinOS ทุกเครื่อง</value>
-  </data>
-  <data name="GPL-v3 License" xml:space="preserve">
-    <value>ใบอนุญาต GPL-v3</value>
   </data>
   <data name="Graphical applications are installed via Flatpak, and keep themselves separate from the base system. They also allow for fine-grained control over their permissions." xml:space="preserve">
     <value>แอปพลิเคชันกราฟิกจะติดตั้งผ่าน Flatpak และถูกแยกออกจากระบบหลักอย่างชัดเจน นอกจากนี้ยังให้การควบคุมสิทธิการเข้าถึงอย่างละเอียดและแม่นยำ</value>
@@ -327,6 +321,9 @@
   <data name="Kiosk mode prevents unauthorized access. Users can only interact with your approved application, keeping your deployment secure." xml:space="preserve">
     <value>โหมดเคาน์เตอร์ป้องกันไม่ให้ผู้ไม่ได้รับอนุญาตเข้าถึง ผู้ใช้งานจะโต้ตอบกับแอปพลิเคชันที่ผ่านการอนุมัติของคุณเท่านั้น ทำให้การติดตั้งมีความปลอดภัย</value>
   </data>
+  <data name="LTS Support" xml:space="preserve">
+    <value>การรองรับ LTS</value>
+  </data>
   <data name="Lightweight Agents" xml:space="preserve">
     <value>เอเจนต์น้ำหนักเบา</value>
   </data>
@@ -345,14 +342,8 @@
   <data name="Low-overhead agents collect metrics without impacting your AnduinOS devices&apos; performance. Deploy in seconds with Docker." xml:space="preserve">
     <value>เอเยนต์ที่มีทรัพยากรต่ำสามารถรวบรวมตัวชี้วัดได้โดยไม่ส่งผลต่อประสิทธิภาพของอุปกรณ์ AnduinOS ของคุณ จัดการให้ใช้งานได้ภายในวินาทีด้วย Docker</value>
   </data>
-  <data name="LTS Support" xml:space="preserve">
-    <value>การรองรับ LTS</value>
-  </data>
   <data name="Managed Update Rollouts" xml:space="preserve">
     <value>การจัดการการทยอยปล่อยอัปเดต</value>
-  </data>
-  <data name="management for your fleet" xml:space="preserve">
-    <value>การจัดการสำหรับยานพาหนะของคุณ</value>
   </data>
   <data name="Memory Compression" xml:space="preserve">
     <value>การบีบอัดหน่วยความจำ</value>
@@ -390,9 +381,6 @@
   <data name="Open Source" xml:space="preserve">
     <value>โอเพนซอร์ส</value>
   </data>
-  <data name="or" xml:space="preserve">
-    <value>หรือ</value>
-  </data>
   <data name="Package Distribution" xml:space="preserve">
     <value>การแจกจ่ายแพ็กเกจ</value>
   </data>
@@ -425,9 +413,6 @@
   </data>
   <data name="Processor" xml:space="preserve">
     <value>หน่วยประมวลผล</value>
-  </data>
-  <data name="quad-core" xml:space="preserve">
-    <value>quad-core</value>
   </data>
   <data name="RAM" xml:space="preserve">
     <value>แรม</value>
@@ -534,11 +519,11 @@
   <data name="The GNOME-based desktop environment has beautiful interfaces and human-computer interactions that fit user habits, allowing you to quickly get started with AnduinOS without too much learning cost." xml:space="preserve">
     <value>สภาพแวดล้อมเดสก์ท็อปที่ขับเคลื่อนด้วย GNOME นำเสนออินเทอร์เฟซที่สวยงามและปฏิสัมพันธ์ระหว่างมนุษย์กับคอมพิวเตอร์ที่สอดคล้องกับพฤติกรรมการใช้งานของผู้ใช้ ช่วยให้คุณเริ่มต้นใช้งาน AnduinOS ได้อย่างรวดเร็วโดยไม่ต้องเสียเวลาเรียนรู้มากนัก</value>
   </data>
-  <data name="The ideal solution for" xml:space="preserve">
-    <value>โซลูชันในอุดมคติสำหรับ</value>
-  </data>
   <data name="The ISO is just 2.4GB in size. Similar to Ubuntu, it is simple to install and can meet your daily needs without additional configuration or complicated operations." xml:space="preserve">
     <value>ไฟล์ ISO มีขนาดเล็กเพียง 2.4GB เหมือนกับ Ubuntu ติดตั้งง่ายและสามารถตอบสนองความต้องการประจำวันของคุณได้โดยไม่ต้องตั้งค่าเพิ่มเติมหรือดำเนินการที่ซับซ้อน</value>
+  </data>
+  <data name="The ideal solution for" xml:space="preserve">
+    <value>โซลูชันในอุดมคติสำหรับ</value>
   </data>
   <data name="The operating system your enterprise needs — familiar, beautiful, stable, mature, and easy to manage. AnduinOS Enterprise is built on Linux 7.0, GNOME 50, and Ubuntu 26.04, keeping your team in a comfortable, productive environment." xml:space="preserve">
     <value>ระบบปฏิบัติการที่องค์กรของคุณต้องการ — ใช้งานง่ายสวยงาม มั่นคง และจัดการได้สะดวก AnduinOS Enterprise พัฒนาขึ้นบน Linux 7.0, GNOME 50 และ Ubuntu 26.04 เพื่อให้ทีมงานของคุณทำงานในสภาพแวดล้อมที่สะดวกสบายและเกิดประสิทธิภาพสูงสุด</value>
@@ -552,11 +537,11 @@
   <data name="Turn any screen into a kiosk" xml:space="preserve">
     <value>เปลี่ยนหน้าจอให้เป็นioskได้ทันที</value>
   </data>
-  <data name="Ubuntu Base" xml:space="preserve">
-    <value>พื้นฐาน Ubuntu</value>
-  </data>
   <data name="UI Toolkit" xml:space="preserve">
     <value>ชุดเครื่องมือ UI</value>
+  </data>
+  <data name="Ubuntu Base" xml:space="preserve">
+    <value>พื้นฐาน Ubuntu</value>
   </data>
   <data name="Update and restart policies are configured for your deployment. Test releases before rollout and schedule maintenance for changes that require downtime." xml:space="preserve">
     <value>มีการกำหนดนโยบายการอัปเดตและการรีสตาร์ตสำหรับการติดตั้งใช้งานของคุณแล้ว ทดสอบรุ่นอัปเดตก่อนเปิดใช้งาน และกำหนดเวลาบำรุงรักษาสำหรับการเปลี่ยนแปลงที่ต้องหยุดให้บริการ</value>
@@ -579,23 +564,38 @@
   <data name="Why choose AnduinOS?" xml:space="preserve">
     <value>ทำไมถึงเลือก AnduinOS?</value>
   </data>
-  <data name="with Apkg" xml:space="preserve">
-    <value>พร้อมใช้งานกับ Apkg</value>
-  </data>
   <data name="With just a few clicks, you can have AnduinOS running on any machine. Enjoy automatic updates, built-in security, and remote management from the cloud — so once deployed, it just works." xml:space="preserve">
     <value>ด้วยการคลิกเพียงไม่กี่ครั้ง คุณก็สามารถติดตั้ง AnduinOS ได้บนทุกเครื่อง อุปกรณ์รับระบบอัปเดตอัตโนมัติ ระบบรักษาความปลอดภัยแบบในตัว และการจัดการจากระยะไกลผ่านคลาวด์ — หลังจากการติดตั้ง ระบบจะทำงานทันที</value>
-  </data>
-  <data name="with Secure Boot" xml:space="preserve">
-    <value>พร้อม Secure Boot</value>
-  </data>
-  <data name="with StatHub" xml:space="preserve">
-    <value>ด้วย StatHub</value>
   </data>
   <data name="Without Snap" xml:space="preserve">
     <value>ไม่มี Snap</value>
   </data>
   <data name="Write the image to a USB drive" xml:space="preserve">
     <value>เขียนภาพลงในไดรฟ์ USB</value>
+  </data>
+  <data name="digital signage and kiosk terminals" xml:space="preserve">
+    <value>ป้ายประกาศทางดิจิทัลและเทอร์มินัลคีออสก์</value>
+  </data>
+  <data name="ext4 optional" xml:space="preserve">
+    <value>ext4 เป็นตัวเลือกเสริม</value>
+  </data>
+  <data name="management for your fleet" xml:space="preserve">
+    <value>การจัดการสำหรับยานพาหนะของคุณ</value>
+  </data>
+  <data name="or" xml:space="preserve">
+    <value>หรือ</value>
+  </data>
+  <data name="quad-core" xml:space="preserve">
+    <value>quad-core</value>
+  </data>
+  <data name="with Apkg" xml:space="preserve">
+    <value>พร้อมใช้งานกับ Apkg</value>
+  </data>
+  <data name="with Secure Boot" xml:space="preserve">
+    <value>พร้อม Secure Boot</value>
+  </data>
+  <data name="with StatHub" xml:space="preserve">
+    <value>ด้วย StatHub</value>
   </data>
 
 </root>

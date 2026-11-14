@@ -30,9 +30,6 @@
   <data name="A software-only delivery would not solve the problem either. Even a well-designed platform cannot provide the expected performance or reliability when its underlying hardware is unsuitable or poorly integrated. ChopInsight needed a coordinated approach that could preserve existing investments, add computing capacity where necessary, and support conventional applications and AI workloads through a common management model." xml:space="preserve">
     <value>Uma entrega apenas com software também não resolveria o problema. Mesmo uma plataforma bem projetada não pode oferecer o desempenho ou a confiabilidade esperados quando o hardware subjacente é inadequado ou mal integrado. A ChopInsight precisava de uma abordagem coordenada que pudesse preservar os investimentos existentes, adicionar capacidade de computação onde fosse necessário e suportar aplicações convencionais e cargas de trabalho de IA por meio de um modelo de gestão comum.</value>
   </data>
-  <data name="About ChopInsight" xml:space="preserve">
-    <value>Sobre a ChopInsight</value>
-  </data>
   <data name="AI access" xml:space="preserve">
     <value>Acesso à IA</value>
   </data>
@@ -44,6 +41,9 @@
   </data>
   <data name="AI introduced a second, closely related challenge. Suitable computing resources could be expensive and complex to specify. ChopInsight needed to avoid hardware that might later prove unsuitable for its software or operational requirements, while simply replacing equipment would have ignored the value of its existing servers." xml:space="preserve">
     <value>A IA introduziu um segundo desafio, intimamente relacionado. Os recursos de computação adequados poderiam ser caros e complexos de especificar. A ChopInsight precisava evitar hardware que, posteriormente, pudesse se mostrar inadequado para seus requisitos de software ou operacionais, enquanto a simples substituição do equipamento teria ignorado o valor de seus servidores existentes.</value>
+  </data>
+  <data name="About ChopInsight" xml:space="preserve">
+    <value>Sobre a ChopInsight</value>
   </data>
   <data name="Aiursoft assessed ChopInsight’s physical equipment, computing resources, application requirements and future AI plans together. Performance, stability, cost and future expansion informed a single design, making hardware selection and adaptation part of the service rather than a separate procurement exercise." xml:space="preserve">
     <value>A Aiursoft avaliou em conjunto o equipamento físico, os recursos de computação, os requisitos de aplicações e os futuros planos de IA da ChopInsight. O desempenho, a estabilidade, o custo e a expansão futura informaram um único design, tornando a seleção e a adaptação de hardware parte do serviço, em vez de um processo de aquisição separado.</value>

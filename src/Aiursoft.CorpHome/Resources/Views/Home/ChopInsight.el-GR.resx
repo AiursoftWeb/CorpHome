@@ -30,9 +30,6 @@
   <data name="A software-only delivery would not solve the problem either. Even a well-designed platform cannot provide the expected performance or reliability when its underlying hardware is unsuitable or poorly integrated. ChopInsight needed a coordinated approach that could preserve existing investments, add computing capacity where necessary, and support conventional applications and AI workloads through a common management model." xml:space="preserve">
     <value>Μια παράδοση μόνο λογισμικού δεν θα λύσει το πρόβλημα. Ακόμα και μια καλά σχεδιασμένη πλατφόρμα δεν μπορεί να προσφέρει την αναμενόμενη απόδοση ή αξιοπιστία όταν ο υποκείμενος υλικός εξοπλισμός δεν είναι κατάλληλος ή έχει ενσωματωθεί ελλιπώς. Η ChopInsight χρειαζόταν μια συντονισμένη προσέγγιση που θα διασφάλιζε τις υπάρχουσες επενδύσεις, θα πρόσθετε υπολογιστική ικανότητα όπου απαιτείται και θα υποστήριζε τόσο συμβατικές εφαρμογές όσο και φορτία εργασίας Τεχνητής Νοημοσύνης μέσω ενός κοινού μοντέλου διαχείρισης.</value>
   </data>
-  <data name="About ChopInsight" xml:space="preserve">
-    <value>Σχετικά με το ChopInsight</value>
-  </data>
   <data name="AI access" xml:space="preserve">
     <value>Πρόσβαση AI</value>
   </data>
@@ -44,6 +41,9 @@
   </data>
   <data name="AI introduced a second, closely related challenge. Suitable computing resources could be expensive and complex to specify. ChopInsight needed to avoid hardware that might later prove unsuitable for its software or operational requirements, while simply replacing equipment would have ignored the value of its existing servers." xml:space="preserve">
     <value>Η Τεχνητή Νοημοσύνη εισήγαγε έναν δεύτερο, στενά συνδεδεμένο προκλήσεις. Κατάλληλοι υπολογιστικοί πόροι θα μπορούσαν να είναι ακριβοί και πολύπλοκοι σε σχέση με τις προδιαγραφές τους. Η ChopInsight έπρεπε να αποφύγει υλικό που ενδέχεται να αποδειχθεί αργότερα μη κατάλληλο για το λογισμικό ή τις λειτουργικές της απαιτήσεις, ενώ η απλή αντικατάσταση του εξοπλισμού θα αγνοούσε την αξία των υφιστάμενων διακομιστών της.</value>
+  </data>
+  <data name="About ChopInsight" xml:space="preserve">
+    <value>Σχετικά με το ChopInsight</value>
   </data>
   <data name="Aiursoft assessed ChopInsight’s physical equipment, computing resources, application requirements and future AI plans together. Performance, stability, cost and future expansion informed a single design, making hardware selection and adaptation part of the service rather than a separate procurement exercise." xml:space="preserve">
     <value>Η Aiursoft αξιολόγησε ενιαία τον φυσικό εξοπλισμό, τους υπολογιστικούς πόρους, τις απαιτήσεις εφαρμογών και τα μελλοντικά σχέδια για Τεχνητή Νοημοσύνη της ChopInsight. Απόδοση, σταθερότητα, κόστος και μελλοντική επέκταση καθόρισαν ένα ενιαίο σχεδιασμό, κάνοντας την επιλογή και προσαρμογή του υλικού μέρος της υπηρεσίας και όχι μια ξεχωριστή διαδικασία προμήθειας.</value>

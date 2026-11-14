@@ -42,11 +42,11 @@
   <data name="8. Contact Us" xml:space="preserve">
     <value>8. اتصل بنا</value>
   </data>
-  <data name="Account Information:" xml:space="preserve">
-    <value>معلومات الحساب:</value>
-  </data>
   <data name="AIURSOFT LIMITED" xml:space="preserve">
     <value>AIURSOFT LIMITED</value>
+  </data>
+  <data name="Account Information:" xml:space="preserve">
+    <value>معلومات الحساب:</value>
   </data>
   <data name="Aiursoft Privacy Policy" xml:space="preserve">
     <value>سياسة خصوصية Aiursoft</value>
@@ -87,14 +87,14 @@
   <data name="For Cloud-Hosted Plans (e.g., Aiursoft Substratum Core):" xml:space="preserve">
     <value>بالنسبة إلى الخطط المستضافة على السحابة (مثل Aiursoft Substratum Core):</value>
   </data>
-  <data name="For on-premise deployments, cancellation simply terminates our support and update services. Your data remains entirely intact on your own servers, under your complete control." xml:space="preserve">
-    <value>بالنسبة للنشرات الميدانية، فإن الإلغاء ينتهي ببساطة بخدمات الدعم والتحديث الخاصة بنا. تبقى بياناتك سليمة تمامًا على خوادمك الخاصة، تحت سيطرتك الكاملة.</value>
-  </data>
   <data name="For On-Premise Plans (e.g., Aiursoft Substrate S3 Startup &amp; S5 Enterprise):" xml:space="preserve">
     <value>لخطط المقر المخصص (مثل: Aiursoft Substrate S3 Startup و S5 Enterprise):</value>
   </data>
   <data name="For On-Premise Plans (e.g., Aiursoft Substratum Startup &amp; Enterprise):" xml:space="preserve">
     <value>بالنسبة لخطط النشر على البنية التحتية المحلية (مثل Aiursoft Substratum Startup وEnterprise):</value>
+  </data>
+  <data name="For on-premise deployments, cancellation simply terminates our support and update services. Your data remains entirely intact on your own servers, under your complete control." xml:space="preserve">
+    <value>بالنسبة للنشرات الميدانية، فإن الإلغاء ينتهي ببساطة بخدمات الدعم والتحديث الخاصة بنا. تبقى بياناتك سليمة تمامًا على خوادمك الخاصة، تحت سيطرتك الكاملة.</value>
   </data>
   <data name="For provisioning the underlying high-performance cloud infrastructure that powers our official websites and Cloud-Hosted (S1 Core) client instances." xml:space="preserve">
     <value>لتهيئة البنية التحتية السحابية عالية الأداء الأساسية التي تُشغل مواقعنا الرسمية وInstances العملاء السحابية (S1 Core)</value>

@@ -24,6 +24,9 @@
   <data name="27 inch" xml:space="preserve">
     <value>27 tommer</value>
   </data>
+  <data name="ARM64 Support" xml:space="preserve">
+    <value>ARM64-understøttelse</value>
+  </data>
   <data name="Add to Management Cloud and go live" xml:space="preserve">
     <value>Tilføj til Management Cloud og gå i produktion</value>
   </data>
@@ -39,9 +42,6 @@
   <data name="AnduinOS 2.0 standard support ends in April 2031, as for the community edition. Enterprise services do not extend this release&apos;s security-update lifecycle. Service scope and subscription duration are specified in your agreement." xml:space="preserve">
     <value>Standard support af AnduinOS 2.0 ophører i april 2031, ligesom for community-udgaven. Enterprise-tjenester forlænger ikke denne versions livscyklus for sikkerhedsopdateringer. Tjenesternes omfang og abonnementsperioden er angivet i din aftale.</value>
   </data>
-  <data name="AnduinOS device" xml:space="preserve">
-    <value>AnduinOS-enhed</value>
-  </data>
   <data name="AnduinOS Enterprise" xml:space="preserve">
     <value>AnduinOS Enterprise</value>
   </data>
@@ -50,6 +50,15 @@
   </data>
   <data name="AnduinOS Enterprise provides brand customisation, enabling you to replace the system logo with your own." xml:space="preserve">
     <value>AnduinOS Enterprise giver brandtilpasning, så du kan erstatte systemlogoet med dit eget.</value>
+  </data>
+  <data name="AnduinOS Kiosk" xml:space="preserve">
+    <value>AnduinOS Kiosk</value>
+  </data>
+  <data name="AnduinOS Management Cloud" xml:space="preserve">
+    <value>AnduinOS Cloud Administration</value>
+  </data>
+  <data name="AnduinOS device" xml:space="preserve">
+    <value>AnduinOS-enhed</value>
   </data>
   <data name="AnduinOS fleet" xml:space="preserve">
     <value>AnduinOS-flåde</value>
@@ -66,12 +75,6 @@
   <data name="AnduinOS is based on Ubuntu&apos;s package base. It&apos;s compatible with most of the apt packages from Ubuntu. It&apos;s a perfect combination of experience and ecology." xml:space="preserve">
     <value>AnduinOS er baseret på Ubuntu&apos;s pakkebase. Det er kompatibel med de fleste af Ubuntus apt-pakker. Det er en perfekt kombination af oplevelse og økosystem.</value>
   </data>
-  <data name="AnduinOS Kiosk" xml:space="preserve">
-    <value>AnduinOS Kiosk</value>
-  </data>
-  <data name="AnduinOS Management Cloud" xml:space="preserve">
-    <value>AnduinOS Cloud Administration</value>
-  </data>
   <data name="Apkg Dashboard Screenshot" xml:space="preserve">
     <value>Apkg dashboard-skærmbillede</value>
   </data>
@@ -83,9 +86,6 @@
   </data>
   <data name="Architecture" xml:space="preserve">
     <value>Arkitektur</value>
-  </data>
-  <data name="ARM64 Support" xml:space="preserve">
-    <value>ARM64-understøttelse</value>
   </data>
   <data name="At just 2.54 GB, the ISO is lightweight and fast to deploy across your fleet. The live environment lets your IT team quickly boot, repair, and diagnose systems without installing." xml:space="preserve">
     <value>Med kun 2,4 GB er ISO-filen letvægts og hurtig at udrulle på tværs af din flåde. Den live-miljø gør det muligt for dit IT-team hurtigt at starte, reparerer og diagnosticere systemer uden installation.</value>
@@ -186,9 +186,6 @@
   <data name="Device Management Integrations" xml:space="preserve">
     <value>Integrationer til enhedsstyring</value>
   </data>
-  <data name="digital signage and kiosk terminals" xml:space="preserve">
-    <value>digital signage og kioskterminaler</value>
-  </data>
   <data name="Disk Space" xml:space="preserve">
     <value>Diskplads</value>
   </data>
@@ -246,9 +243,6 @@
   <data name="Explore StatHub" xml:space="preserve">
     <value>Udforsk StatHub</value>
   </data>
-  <data name="ext4 optional" xml:space="preserve">
-    <value>ext4 valgfri</value>
-  </data>
   <data name="Familiar UX" xml:space="preserve">
     <value>Velkendt brugergrænseflade</value>
   </data>
@@ -270,14 +264,14 @@
   <data name="Fully On-Premise" xml:space="preserve">
     <value>Fuldt on-premise</value>
   </data>
+  <data name="GPL-v3 License" xml:space="preserve">
+    <value>GPL-v3-licens</value>
+  </data>
   <data name="Get the AnduinOS image from our site" xml:space="preserve">
     <value>Hent AnduinOS-billedet fra vores hjemmeside</value>
   </data>
   <data name="Get up-to-the-second updates on every AnduinOS device&apos;s CPU, memory, disk, and network usage." xml:space="preserve">
     <value>Få opdateringer i sekundet på CPU-, hukommelses-, disk- og netværksforbrug for alle AnduinOS-enheder.</value>
-  </data>
-  <data name="GPL-v3 License" xml:space="preserve">
-    <value>GPL-v3-licens</value>
   </data>
   <data name="Graphical applications are installed via Flatpak, and keep themselves separate from the base system. They also allow for fine-grained control over their permissions." xml:space="preserve">
     <value>Grafiske programmer installeres via Flatpak og forbliver adskilt fra basesystemet. De giver også mulighed for finjusteret kontrol af tilladelserne.</value>
@@ -315,6 +309,9 @@
   <data name="Kiosk mode prevents unauthorized access. Users can only interact with your approved application, keeping your deployment secure." xml:space="preserve">
     <value>Kiosk-tilstand forhindrer uautoriseret adgang. Brugere kan kun interagere med dit godkendte program, hvilket holder din implementering sikker.</value>
   </data>
+  <data name="LTS Support" xml:space="preserve">
+    <value>LTS-support</value>
+  </data>
   <data name="Lightweight Agents" xml:space="preserve">
     <value>Lette agenter</value>
   </data>
@@ -333,14 +330,8 @@
   <data name="Low-overhead agents collect metrics without impacting your AnduinOS devices&apos; performance. Deploy in seconds with Docker." xml:space="preserve">
     <value>Letvægtsgivne agenter indsamler målepunkter uden at påvirke din AnduinOS-enheds ydeevne. Udrul på sekunder med Docker.</value>
   </data>
-  <data name="LTS Support" xml:space="preserve">
-    <value>LTS-support</value>
-  </data>
   <data name="Managed Update Rollouts" xml:space="preserve">
     <value>Styring af udrulning af opdateringer</value>
-  </data>
-  <data name="management for your fleet" xml:space="preserve">
-    <value>håndtering af din flåde</value>
   </data>
   <data name="Memory Compression" xml:space="preserve">
     <value>Hukomprimering</value>
@@ -378,9 +369,6 @@
   <data name="Open Source" xml:space="preserve">
     <value>Åben kildekode</value>
   </data>
-  <data name="or" xml:space="preserve">
-    <value>eller</value>
-  </data>
   <data name="Package Distribution" xml:space="preserve">
     <value>Pakkefordeling</value>
   </data>
@@ -410,9 +398,6 @@
   </data>
   <data name="Processor" xml:space="preserve">
     <value>Processor</value>
-  </data>
-  <data name="quad-core" xml:space="preserve">
-    <value>firekernet</value>
   </data>
   <data name="RAM" xml:space="preserve">
     <value>RAM</value>
@@ -519,11 +504,11 @@
   <data name="The GNOME-based desktop environment has beautiful interfaces and human-computer interactions that fit user habits, allowing you to quickly get started with AnduinOS without too much learning cost." xml:space="preserve">
     <value>GNOME-baserede desktopmiljø har smukke grænseflader og menneske-computer-interaktioner, der passer sig til brugerens vaner, hvilket gør det muligt for dig hurtigt at komme i gang med AnduinOS uden for stor læringsomkostning.</value>
   </data>
-  <data name="The ideal solution for" xml:space="preserve">
-    <value>Den ideelle løsning til</value>
-  </data>
   <data name="The ISO is just 2.4GB in size. Similar to Ubuntu, it is simple to install and can meet your daily needs without additional configuration or complicated operations." xml:space="preserve">
     <value>ISO-filen er på kun 2,4 GB. Ligesom Ubuntu er den nem at installere og kan dække dine daglige behov uden yderligere konfiguration eller komplicerede operationer.</value>
+  </data>
+  <data name="The ideal solution for" xml:space="preserve">
+    <value>Den ideelle løsning til</value>
   </data>
   <data name="The operating system your enterprise needs — familiar, beautiful, stable, mature, and easy to manage. AnduinOS Enterprise is built on Linux 7.0, GNOME 50, and Ubuntu 26.04, keeping your team in a comfortable, productive environment." xml:space="preserve">
     <value>Det operativsystem, din virksomhed har brug for — velkendt, smukt, stabilt, modent og let at administrere. AnduinOS Enterprise er bygget på Linux 7.0, GNOME 50 og Ubuntu 26.04 og sikrer dit team et komfortabelt og produktivt arbejdsmiljø.</value>
@@ -537,11 +522,11 @@
   <data name="Turn any screen into a kiosk" xml:space="preserve">
     <value>Omdan enhver skærm til en kiosk</value>
   </data>
-  <data name="Ubuntu Base" xml:space="preserve">
-    <value>Ubuntu-baseret</value>
-  </data>
   <data name="UI Toolkit" xml:space="preserve">
     <value>Grænsefladedel</value>
+  </data>
+  <data name="Ubuntu Base" xml:space="preserve">
+    <value>Ubuntu-baseret</value>
   </data>
   <data name="Update and restart policies are configured for your deployment. Test releases before rollout and schedule maintenance for changes that require downtime." xml:space="preserve">
     <value>Politikker for opdatering og genstart er konfigureret til din udrulning. Test nye versioner, før de rulles ud, og planlæg vedligeholdelse af ændringer, der kræver nedetid.</value>
@@ -564,23 +549,38 @@
   <data name="Why choose AnduinOS?" xml:space="preserve">
     <value>Hvorfor vælge AnduinOS?</value>
   </data>
-  <data name="with Apkg" xml:space="preserve">
-    <value>med Apkg</value>
-  </data>
   <data name="With just a few clicks, you can have AnduinOS running on any machine. Enjoy automatic updates, built-in security, and remote management from the cloud — so once deployed, it just works." xml:space="preserve">
     <value>Med blot få klik kan du få AnduinOS til at køre på enhver maskine. Nyd automatiske opdateringer, indbygget sikkerhed og fjernstyring fra skyen — så når det først er udrullet, virker det bare.</value>
-  </data>
-  <data name="with Secure Boot" xml:space="preserve">
-    <value>med Secure Boot</value>
-  </data>
-  <data name="with StatHub" xml:space="preserve">
-    <value>med StatHub</value>
   </data>
   <data name="Without Snap" xml:space="preserve">
     <value>Uden Snap</value>
   </data>
   <data name="Write the image to a USB drive" xml:space="preserve">
     <value>Skriv billedet til en USB-drev</value>
+  </data>
+  <data name="digital signage and kiosk terminals" xml:space="preserve">
+    <value>digital signage og kioskterminaler</value>
+  </data>
+  <data name="ext4 optional" xml:space="preserve">
+    <value>ext4 valgfri</value>
+  </data>
+  <data name="management for your fleet" xml:space="preserve">
+    <value>håndtering af din flåde</value>
+  </data>
+  <data name="or" xml:space="preserve">
+    <value>eller</value>
+  </data>
+  <data name="quad-core" xml:space="preserve">
+    <value>firekernet</value>
+  </data>
+  <data name="with Apkg" xml:space="preserve">
+    <value>med Apkg</value>
+  </data>
+  <data name="with Secure Boot" xml:space="preserve">
+    <value>med Secure Boot</value>
+  </data>
+  <data name="with StatHub" xml:space="preserve">
+    <value>med StatHub</value>
   </data>
 
 </root>

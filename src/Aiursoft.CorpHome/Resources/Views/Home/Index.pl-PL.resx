@@ -51,9 +51,6 @@
   <data name="A modern, feature-rich, and highly extensible foundation for your next web application." xml:space="preserve">
     <value>Nowoczesna, bogata w funkcje i wysoce rozszerzalna podstawa dla Twojej następnej aplikacji internetowej.</value>
   </data>
-  <data name="Achieve more with Aiursoft Template" xml:space="preserve">
-    <value>Osiągaj więcej z Aiursoft Template</value>
-  </data>
   <data name="AI Agents Integration" xml:space="preserve">
     <value>Integracja agentów AI</value>
   </data>
@@ -72,11 +69,11 @@
   <data name="AI-Powered Translations" xml:space="preserve">
     <value>Tłumaczenia Wspomagane Sztuczną Inteligencją</value>
   </data>
+  <data name="Achieve more with Aiursoft Template" xml:space="preserve">
+    <value>Osiągaj więcej z Aiursoft Template</value>
+  </data>
   <data name="Air-Gapped Ready" xml:space="preserve">
     <value>Gotowy do pracy w trybie odłączonym</value>
-  </data>
-  <data name="Aiursoft is dedicated to bringing the spirit of Open-source and free software to every enterprise and individual." xml:space="preserve">
-    <value>Aiursoft poświęca się przenoszeniu ducha oprogramowania open-source i wolnego oprogramowania do każdej firmy i każdego indywidualnego użytkownika.</value>
   </data>
   <data name="Aiursoft Substratum Core" xml:space="preserve">
     <value>Aiursoft Substratum Core</value>
@@ -90,14 +87,17 @@
   <data name="Aiursoft Template" xml:space="preserve">
     <value>Aiursoft Template</value>
   </data>
+  <data name="Aiursoft Template Screenshot" xml:space="preserve">
+    <value>Zrzut ekranu szablonu Aiursoft</value>
+  </data>
   <data name="Aiursoft Template is continuously optimized for the AI era, built with the most popular and reliable Open-source technologies. It has already produced dozens of mature applications delivered to enterprises. Aiursoft uses Template to help businesses develop custom solutions based on their core needs." xml:space="preserve">
     <value>Aiursoft Template jest ciągle optymalizowany dla ery AI, budowany z najpopularniejszych i najbardziej niezawodnych technologii open-source. W już wyprodukowało dziesiątki dojrzałych aplikacji dostarczonych do firm. Aiursoft wykorzystuje Template, aby pomóc firmom tworzyć rozwiązania dostosowane do ich podstawowych potrzeb.</value>
   </data>
   <data name="Aiursoft Template is our definitive choice for enterprise projects! It&apos;s built for developers and is lightweight yet powerful. We can skip all the boilerplate for authentication and user management." xml:space="preserve">
     <value>Szablon Aiursoft to nasz ostateczny wybór dla projektów korporacyjnych! Jest stworzony z myślą o programistach, lekki, a jednocześnie potężny. Pozwala pominąć cały standardowy kod związany z uwierzytelnianiem i zarządzaniem użytkownikami.</value>
   </data>
-  <data name="Aiursoft Template Screenshot" xml:space="preserve">
-    <value>Zrzut ekranu szablonu Aiursoft</value>
+  <data name="Aiursoft is dedicated to bringing the spirit of Open-source and free software to every enterprise and individual." xml:space="preserve">
+    <value>Aiursoft poświęca się przenoszeniu ducha oprogramowania open-source i wolnego oprogramowania do każdej firmy i każdego indywidualnego użytkownika.</value>
   </data>
   <data name="All Aiursoft servers are sourced from Voxihost. We help clients land on Voxihost infrastructure." xml:space="preserve">
     <value>Wszystkie serwery Aiursoft pochodzą z Voxihost. Pomagamy klientom w uruchomieniu infrastruktury na platformie Voxihost.</value>
@@ -186,11 +186,11 @@
   <data name="Browse Source Code" xml:space="preserve">
     <value>Przeglądaj kod źródłowy</value>
   </data>
-  <data name="Build once, run anywhere. Fully containerized architecture." xml:space="preserve">
-    <value>Zbuduj raz, uruchom gdziekolwiek. Pełna architektura kontenerowa.</value>
-  </data>
   <data name="Build Your Local Knowledge Base" xml:space="preserve">
     <value>Buduj swoją lokalną bazę wiedzy</value>
+  </data>
+  <data name="Build once, run anywhere. Fully containerized architecture." xml:space="preserve">
+    <value>Zbuduj raz, uruchom gdziekolwiek. Pełna architektura kontenerowa.</value>
   </data>
   <data name="Build your next big thing," xml:space="preserve">
     <value>Stwórz swój następny wielki projekt,</value>
@@ -222,11 +222,11 @@
   <data name="Built-in RBAC for fine-grained permission management." xml:space="preserve">
     <value>Wbudowany RBAC do szczegółowego zarządzania uprawnieniami.</value>
   </data>
-  <data name="Built-in security controls support your deployment requirements." xml:space="preserve">
-    <value>Wbudowane mechanizmy bezpieczeństwa spełniają wymagania dotyczące wdrożenia.</value>
-  </data>
   <data name="Built-in User Management" xml:space="preserve">
     <value>Wbudowane zarządzanie użytkownikami</value>
+  </data>
+  <data name="Built-in security controls support your deployment requirements." xml:space="preserve">
+    <value>Wbudowane mechanizmy bezpieczeństwa spełniają wymagania dotyczące wdrożenia.</value>
   </data>
   <data name="Code Audit &amp; Integration" xml:space="preserve">
     <value>Audyt kodu i integracja</value>
@@ -288,11 +288,11 @@
   <data name="Custom Branding" xml:space="preserve">
     <value>Dostosowana marka</value>
   </data>
-  <data name="Custom container development" xml:space="preserve">
-    <value>Rozwój niestandardowych kontenerów</value>
-  </data>
   <data name="Custom Development Fee" xml:space="preserve">
     <value>Opłata za rozwój niestandardowy</value>
+  </data>
+  <data name="Custom container development" xml:space="preserve">
+    <value>Rozwój niestandardowych kontenerów</value>
   </data>
   <data name="Customized for your enterprise" xml:space="preserve">
     <value>Dostosowane do Twojej firmy</value>
@@ -333,14 +333,14 @@
   <data name="Dev &amp; Prod" xml:space="preserve">
     <value>Dev &amp; Prod</value>
   </data>
+  <data name="DevOps Native" xml:space="preserve">
+    <value>Natywny DevOps</value>
+  </data>
   <data name="Develop exclusively in UTC while the system automatically converts and displays dates in the user&apos;s local time zone." xml:space="preserve">
     <value>Twórz wyłączni w UTC, podczas gdy system automatycznie konwertuje i wyświetla daty w strefie czasowej użytkownika.</value>
   </data>
   <data name="Developer Experience" xml:space="preserve">
     <value>Doświadczenie programisty</value>
-  </data>
-  <data name="DevOps Native" xml:space="preserve">
-    <value>Natywny DevOps</value>
   </data>
   <data name="Discover AnduinOS" xml:space="preserve">
     <value>Odkryj AnduinOS</value>
@@ -387,23 +387,23 @@
   <data name="Enterprise" xml:space="preserve">
     <value>Enterprise</value>
   </data>
-  <data name="Enterprise business framework for the" xml:space="preserve">
-    <value>Szkielet biznesowy dla przedsiębiorstw dla</value>
-  </data>
   <data name="Enterprise C#" xml:space="preserve">
     <value>Enterprise C#</value>
-  </data>
-  <data name="Enterprise customers get round-the-clock telephone support, ensuring critical issues are addressed immediately." xml:space="preserve">
-    <value>Klientom korporacyjnym udzielane jest 24-godzinne wsparcie telefoniczne, zapewniające natychmiastowe rozwiązanie krytycznych problemów.</value>
   </data>
   <data name="Enterprise Ready" xml:space="preserve">
     <value>Gotowy do użytku w środowisku korporacyjnym</value>
   </data>
-  <data name="Enterprise scale deployment" xml:space="preserve">
-    <value>Wdrożenie na skalę przedsiębiorstwa</value>
-  </data>
   <data name="Enterprise Security" xml:space="preserve">
     <value>Bezpieczeństwo przedsiębiorstwa</value>
+  </data>
+  <data name="Enterprise business framework for the" xml:space="preserve">
+    <value>Szkielet biznesowy dla przedsiębiorstw dla</value>
+  </data>
+  <data name="Enterprise customers get round-the-clock telephone support, ensuring critical issues are addressed immediately." xml:space="preserve">
+    <value>Klientom korporacyjnym udzielane jest 24-godzinne wsparcie telefoniczne, zapewniające natychmiastowe rozwiązanie krytycznych problemów.</value>
+  </data>
+  <data name="Enterprise scale deployment" xml:space="preserve">
+    <value>Wdrożenie na skalę przedsiębiorstwa</value>
   </data>
   <data name="Every access is verified, every connection is encrypted, every action is audited." xml:space="preserve">
     <value>Każdy dostęp jest weryfikowany, każda połączenie jest szyfrowane, każda akcja jest audytowana.</value>
@@ -411,17 +411,14 @@
   <data name="Experience Aiursoft AI" xml:space="preserve">
     <value>Doświadcz AI Aiursoft</value>
   </data>
-  <data name="Explore on GitHub" xml:space="preserve">
-    <value>Przeglądaj na GitHubie</value>
-  </data>
   <data name="Explore Our Projects" xml:space="preserve">
     <value>Odkryj nasze projekty</value>
   </data>
+  <data name="Explore on GitHub" xml:space="preserve">
+    <value>Przeglądaj na GitHubie</value>
+  </data>
   <data name="FAQ" xml:space="preserve">
     <value>Najczęściej zadawane pytania</value>
-  </data>
-  <data name="faster" xml:space="preserve">
-    <value>szybciej</value>
   </data>
   <data name="Features" xml:space="preserve">
     <value>Funkcje</value>
@@ -435,20 +432,17 @@
   <data name="Flexible API" xml:space="preserve">
     <value>Elastyczne API</value>
   </data>
-  <data name="for any inquiries or to report issues." xml:space="preserve">
-    <value>w przypadku jakichkolwiek pytań lub zgłaszania problemów.</value>
-  </data>
   <data name="Founder &amp; Architect at Aiursoft" xml:space="preserve">
     <value>Założyciel i Architekt w Aiursoft</value>
   </data>
   <data name="Free" xml:space="preserve">
     <value>Bezpłatne</value>
   </data>
-  <data name="Free for Commercial Use" xml:space="preserve">
-    <value>Bezpłatne do użytku komercyjnego</value>
-  </data>
   <data name="Free Software" xml:space="preserve">
     <value>Oprogramowanie wolne</value>
+  </data>
+  <data name="Free for Commercial Use" xml:space="preserve">
+    <value>Bezpłatne do użytku komercyjnego</value>
   </data>
   <data name="Freedom and enterprise service don&apos;t conflict." xml:space="preserve">
     <value>Wolność i usługi dla przedsiębiorstw się nie wykluczają.</value>
@@ -474,11 +468,11 @@
   <data name="Fully Offline" xml:space="preserve">
     <value>Pełna offline</value>
   </data>
-  <data name="Get a public cloud-like experience while hosting your applications in your own server." xml:space="preserve">
-    <value>Uzyskaj doświadczenie podobne do chmury publicznej, hostując swoje aplikacje na własnym serwerze.</value>
-  </data>
   <data name="Get Started" xml:space="preserve">
     <value>Rozpocznij</value>
+  </data>
+  <data name="Get a public cloud-like experience while hosting your applications in your own server." xml:space="preserve">
+    <value>Uzyskaj doświadczenie podobne do chmury publicznej, hostując swoje aplikacje na własnym serwerze.</value>
   </data>
   <data name="Get unified endpoint management (UEM), identity management (IAM), and collaboration tools (OA) in one package. All on your local servers!" xml:space="preserve">
     <value>Uzyskaj zintegrowane zarządzanie punktami końcowymi (UEM), zarządzanie tożsamością (IAM) oraz narzędzia współpracy (OA) w jednym pakiecie. Wszystko na swoich lokalnych serwerach!</value>
@@ -534,14 +528,17 @@
   <data name="IDE Support" xml:space="preserve">
     <value>Wsparcie dla IDE</value>
   </data>
-  <data name="in the AI Era." xml:space="preserve">
-    <value>w erze sztucznej inteligencji</value>
+  <data name="IT teams can monitor the health of all endpoints and perform basic remote management." xml:space="preserve">
+    <value>Zespoły IT mogą monitorować stan wszystkich punktów końcowych i wykonywać podstawowe zarządzanie zdalne.</value>
   </data>
   <data name="Included" xml:space="preserve">
     <value>Dołączone</value>
   </data>
   <data name="Includes Collaboration + Email + Identity Gateway" xml:space="preserve">
     <value>Zawiera współprace + e-mail + bramę tożsamości</value>
+  </data>
+  <data name="Includes Tutorials" xml:space="preserve">
+    <value>Zawiera samouczki</value>
   </data>
   <data name="Includes everything in Starter" xml:space="preserve">
     <value>Zawiera wszystko z wersji Starter</value>
@@ -552,9 +549,6 @@
   <data name="Includes extensive documentation and practical examples to get you started quickly." xml:space="preserve">
     <value>Zawiera obszerną dokumentację i praktyczne przykłady, które pozwolą Ci szybko rozpocząć pracę.</value>
   </data>
-  <data name="Includes Tutorials" xml:space="preserve">
-    <value>Zawiera samouczki</value>
-  </data>
   <data name="Integrated File Management" xml:space="preserve">
     <value>Zintegrowany System Zarządzania Plikami</value>
   </data>
@@ -564,14 +558,8 @@
   <data name="Interoperability" xml:space="preserve">
     <value>Zgodność</value>
   </data>
-  <data name="is Free Software" xml:space="preserve">
-    <value>to Oprogramowanie Wolne</value>
-  </data>
   <data name="Is it free to use Aiursoft Template?" xml:space="preserve">
     <value>Czy korzystanie z Aiursoft Template jest bezpłatne?</value>
-  </data>
-  <data name="IT teams can monitor the health of all endpoints and perform basic remote management." xml:space="preserve">
-    <value>Zespoły IT mogą monitorować stan wszystkich punktów końcowych i wykonywać podstawowe zarządzanie zdalne.</value>
   </data>
   <data name="Join Discussions" xml:space="preserve">
     <value>Dołącz do Dyskusji</value>
@@ -591,6 +579,15 @@
   <data name="Local LLM Deployment" xml:space="preserve">
     <value>Wdrożenie lokalnego modelu językowego</value>
   </data>
+  <data name="MDM based device compliance" xml:space="preserve">
+    <value>zgodność urządzeń oparta na MDM</value>
+  </data>
+  <data name="MIT Licence" xml:space="preserve">
+    <value>Licencja MIT</value>
+  </data>
+  <data name="MIT License" xml:space="preserve">
+    <value>Licencja MIT</value>
+  </data>
   <data name="Maintain High Code Quality" xml:space="preserve">
     <value>Utrzymuj wysoką jakość kodu</value>
   </data>
@@ -603,17 +600,8 @@
   <data name="Max 150 accounts" xml:space="preserve">
     <value>Max 150 kont</value>
   </data>
-  <data name="MDM based device compliance" xml:space="preserve">
-    <value>zgodność urządzeń oparta na MDM</value>
-  </data>
   <data name="Meet industry compliance requirements with auditable configurations and enterprise-grade controls." xml:space="preserve">
     <value>Zadbaj o zgodność z wymogami branżowymi dzięki audytowalnym konfiguracjom i kontrolom typu enterprise.</value>
-  </data>
-  <data name="MIT Licence" xml:space="preserve">
-    <value>Licencja MIT</value>
-  </data>
-  <data name="MIT License" xml:space="preserve">
-    <value>Licencja MIT</value>
   </data>
   <data name="Models are validated on both client and server sides based on data annotations." xml:space="preserve">
     <value>Modele są weryfikowane po stronie klienta i serwera na podstawie adnotacji danych.</value>
@@ -666,17 +654,17 @@
   <data name="Open Source" xml:space="preserve">
     <value>Otwarte Źródło</value>
   </data>
-  <data name="Open WebUI – Local AI Knowledge Base" xml:space="preserve">
-    <value>Open WebUI – Lokalna baza wiedzy AI</value>
-  </data>
   <data name="Open WebUI Integration" xml:space="preserve">
     <value>Integracja z Open WebUI</value>
   </data>
-  <data name="Open-source &amp; AI era." xml:space="preserve">
-    <value>Era oprogramowania open-source i sztucznej inteligencji</value>
+  <data name="Open WebUI – Local AI Knowledge Base" xml:space="preserve">
+    <value>Open WebUI – Lokalna baza wiedzy AI</value>
   </data>
   <data name="Open-Source Solutions" xml:space="preserve">
     <value>Rozwiązania open source</value>
+  </data>
+  <data name="Open-source &amp; AI era." xml:space="preserve">
+    <value>Era oprogramowania open-source i sztucznej inteligencji</value>
   </data>
   <data name="OpenID Connect" xml:space="preserve">
     <value>OpenID Connect</value>
@@ -777,17 +765,17 @@
   <data name="Specific fees need to be discussed with our architecture team to determine how to build for your enterprise." xml:space="preserve">
     <value>Szczegółowe opłaty należy omówić z naszym zespołem architektów, aby określić sposób budowy dla Twojej organizacji.</value>
   </data>
-  <data name="Standard implementation. Switch providers without compilation." xml:space="preserve">
-    <value>Standardowa implementacja. Przełączaj dostawców bez kompilacji.</value>
-  </data>
   <data name="Standard OpenID" xml:space="preserve">
     <value>Standard OpenID</value>
   </data>
-  <data name="Start a new project" xml:space="preserve">
-    <value>Rozpocznij nowy projekt</value>
+  <data name="Standard implementation. Switch providers without compilation." xml:space="preserve">
+    <value>Standardowa implementacja. Przełączaj dostawców bez kompilacji.</value>
   </data>
   <data name="Start Shipping Value." xml:space="preserve">
     <value>Rozpocznij wysyłanie wartości.</value>
+  </data>
+  <data name="Start a new project" xml:space="preserve">
+    <value>Rozpocznij nowy projekt</value>
   </data>
   <data name="Start with a single &apos;docker run&apos; command." xml:space="preserve">
     <value>Rozpocznij jednym poleceniem &apos;docker run&apos;.</value>
@@ -810,14 +798,14 @@
   <data name="Strict Lint Rules" xml:space="preserve">
     <value>Ścisłe zasady lintowania</value>
   </data>
+  <data name="Strict Unit Testing" xml:space="preserve">
+    <value>Streści testy jednostkowe</value>
+  </data>
   <data name="Strict linting rules and zero warnings by default." xml:space="preserve">
     <value>Ścisłe zasady lintingu i brak ostrzeżeń domyślnie.</value>
   </data>
   <data name="Strict linting rules with 0 warnings in the default project." xml:space="preserve">
     <value>Ścisłe zasady formatowania kodu z 0 ostrzeżeniami w projekcie domyślnym.</value>
-  </data>
-  <data name="Strict Unit Testing" xml:space="preserve">
-    <value>Streści testy jednostkowe</value>
   </data>
   <data name="Strongly Consistent Linting" xml:space="preserve">
     <value>Silne spójne sprawdzanie kodu</value>
@@ -828,11 +816,11 @@
   <data name="Supercharge Innovation" xml:space="preserve">
     <value>Przyspiesz innowacje</value>
   </data>
-  <data name="Supports both environment variables and database-backed settings, with automatic priority given to environment variables for seamless overrides." xml:space="preserve">
-    <value>Obsługuje zarówno zmienne środowiskowe, jak i ustawienia oparte na bazie danych, przy czym zmienne środowiskowe mają automatyczny priorytet dla bezproblemowego zastępowania.</value>
-  </data>
   <data name="Supports JetBrains Rider for easy code style fixes." xml:space="preserve">
     <value>Obsługuje JetBrains Rider do łatwego poprawiania stylu kodu.</value>
+  </data>
+  <data name="Supports both environment variables and database-backed settings, with automatic priority given to environment variables for seamless overrides." xml:space="preserve">
+    <value>Obsługuje zarówno zmienne środowiskowe, jak i ustawienia oparte na bazie danych, przy czym zmienne środowiskowe mają automatyczny priorytet dla bezproblemowego zastępowania.</value>
   </data>
   <data name="Supports local operation; configured external integrations require network access." xml:space="preserve">
     <value>Obsługuje działanie lokalne; skonfigurowane integracje zewnętrzne wymagają dostępu do sieci.</value>
@@ -849,12 +837,6 @@
   <data name="Technical Lead" xml:space="preserve">
     <value>Kierownik Techniczny</value>
   </data>
-  <data name="The definitive, battle-tested .NET enterprise foundation. From Auth to AI, we&apos;ve solved the hard parts so you don&apos;t have to." xml:space="preserve">
-    <value>Definitywny, sprawdzony w praktyce fundament dla firmowego środowiska .NET. Od uwierzytelniania po sztuczną inteligencję — rozwiązaliśmy trudne problemy, dzięki czemu nie musisz tego robić sam.</value>
-  </data>
-  <data name="The navigation bar automatically adjusts based on user roles and permissions." xml:space="preserve">
-    <value>Pasek nawigacyjny automatycznie dostosowuje się w oparciu o role i uprawnienia użytkownika.</value>
-  </data>
   <data name="The Open-source world already has the solutions you need." xml:space="preserve">
     <value>Świat oprogramowania open source już ma rozwiązania, których potrzebujesz.</value>
   </data>
@@ -864,11 +846,17 @@
   <data name="The Philosophy" xml:space="preserve">
     <value>Filozofia</value>
   </data>
-  <data name="The template is built for easy deployment. It includes full Docker support, so you can containerize your app and run it anywhere. You can also deploy it directly to IIS, Azure App Service, or any server that supports ASP.NET Core." xml:space="preserve">
-    <value>Szablon został zaprojektowany z myślą o łatwym wdrażaniu. Zawiera pełne wsparcie dla Dockera, więc możesz skonteneryzować swoją aplikację i uruchomić ją wszędzie. Możesz również wdrożyć ją bezpośrednio na IIS, Azure App Service lub dowolnym serwerze obsługującym ASP.NET Core.</value>
-  </data>
   <data name="The Turnkey Enterprise Foundation" xml:space="preserve">
     <value>Gotowa podstawa dla przedsiębiorstwa</value>
+  </data>
+  <data name="The definitive, battle-tested .NET enterprise foundation. From Auth to AI, we&apos;ve solved the hard parts so you don&apos;t have to." xml:space="preserve">
+    <value>Definitywny, sprawdzony w praktyce fundament dla firmowego środowiska .NET. Od uwierzytelniania po sztuczną inteligencję — rozwiązaliśmy trudne problemy, dzięki czemu nie musisz tego robić sam.</value>
+  </data>
+  <data name="The navigation bar automatically adjusts based on user roles and permissions." xml:space="preserve">
+    <value>Pasek nawigacyjny automatycznie dostosowuje się w oparciu o role i uprawnienia użytkownika.</value>
+  </data>
+  <data name="The template is built for easy deployment. It includes full Docker support, so you can containerize your app and run it anywhere. You can also deploy it directly to IIS, Azure App Service, or any server that supports ASP.NET Core." xml:space="preserve">
+    <value>Szablon został zaprojektowany z myślą o łatwym wdrażaniu. Zawiera pełne wsparcie dla Dockera, więc możesz skonteneryzować swoją aplikację i uruchomić ją wszędzie. Możesz również wdrożyć ją bezpośrednio na IIS, Azure App Service lub dowolnym serwerze obsługującym ASP.NET Core.</value>
   </data>
   <data name="This is a template project" xml:space="preserve">
     <value>To jest projekt szablonowy</value>
@@ -912,6 +900,9 @@
   <data name="Voxihost offers transparent, cost-effective cloud and generously sponsors Aiursoft&apos;s Open-source work." xml:space="preserve">
     <value>Voxihost oferuje przejrzystą, kosztowną chmurę i generously sponsoruje pracę open-source Aiursoft.</value>
   </data>
+  <data name="We Take the First Hit." xml:space="preserve">
+    <value>My Bierzemy Pierwszy Cios.</value>
+  </data>
   <data name="We audit and integrate Open-source code, respect GPL, compile components, and contribute upstream." xml:space="preserve">
     <value>Audytujemy i integrujemy kod open-source, szanujemy GPL, kompilujemy składniki i przekazujemy zmiany do głównego repozytorium.</value>
   </data>
@@ -923,9 +914,6 @@
   </data>
   <data name="We procure Yubikeys for all clients and configure zero-trust architecture." xml:space="preserve">
     <value>Zakupujemy Yubikeys dla wszystkich klientów i konfigurujemy architekturę zero-trust.</value>
-  </data>
-  <data name="We Take the First Hit." xml:space="preserve">
-    <value>My Bierzemy Pierwszy Cios.</value>
   </data>
   <data name="Welcome" xml:space="preserve">
     <value>Witaj</value>
@@ -942,17 +930,14 @@
   <data name="Win/Lin/Mac" xml:space="preserve">
     <value>Win/Lin/Mac</value>
   </data>
+  <data name="With Voxihost, Aiursoft helps enterprises host Email, authentication, cloud drives, employee portals, monitoring, and AI." xml:space="preserve">
+    <value>Z Voxihost, Aiursoft pomaga przedsiębiorstwom hostować pocztę, uwierzytelnianie, dyski chmurowe, portale pracowników, monitorowanie i sztuczną inteligencję.</value>
+  </data>
   <data name="With local models and local integrations, inference inputs remain within your deployment. External providers receive the inputs you choose to send." xml:space="preserve">
     <value>W przypadku modeli i integracji lokalnych dane wejściowe używane do wnioskowania pozostają w obrębie Twojego wdrożenia. Zewnętrzni dostawcy otrzymują tylko te dane wejściowe, które zdecydujesz się im wysłać.</value>
   </data>
-  <data name="with Open-Source Infrastructure." xml:space="preserve">
-    <value>z infrastrukturą open source</value>
-  </data>
   <data name="With reliable cloud infrastructure, your business can grow reliably alongside Aiursoft." xml:space="preserve">
     <value>Dzięki niezawodnej infrastrukturze chmury Twoja firma może nieustannie rosnąć wraz z Aiursoft.</value>
-  </data>
-  <data name="With Voxihost, Aiursoft helps enterprises host Email, authentication, cloud drives, employee portals, monitoring, and AI." xml:space="preserve">
-    <value>Z Voxihost, Aiursoft pomaga przedsiębiorstwom hostować pocztę, uwierzytelnianie, dyski chmurowe, portale pracowników, monitorowanie i sztuczną inteligencję.</value>
   </data>
   <data name="Yes, Aiursoft Template is completely free and open-source under the MIT License. You can use it for personal and commercial projects without any cost." xml:space="preserve">
     <value>Tak, Aiursoft Template jest całkowicie darmowy i otwartoźródłowy na licencji MIT. Możesz go używać do projektów osobistych i komercyjnych bez żadnych kosztów.</value>
@@ -989,6 +974,21 @@
   </data>
   <data name="Zot" xml:space="preserve">
     <value>Zot</value>
+  </data>
+  <data name="faster" xml:space="preserve">
+    <value>szybciej</value>
+  </data>
+  <data name="for any inquiries or to report issues." xml:space="preserve">
+    <value>w przypadku jakichkolwiek pytań lub zgłaszania problemów.</value>
+  </data>
+  <data name="in the AI Era." xml:space="preserve">
+    <value>w erze sztucznej inteligencji</value>
+  </data>
+  <data name="is Free Software" xml:space="preserve">
+    <value>to Oprogramowanie Wolne</value>
+  </data>
+  <data name="with Open-Source Infrastructure." xml:space="preserve">
+    <value>z infrastrukturą open source</value>
   </data>
 
 </root>

@@ -159,26 +159,26 @@
   <data name="Show Senparc in the trusted partners section." xml:space="preserve">
     <value>Εμφάνιση Senparc στην ενότητα έμπιστων συνεργατών.</value>
   </data>
-  <data name="Show the Voxihost partnership section on the home page." xml:space="preserve">
-    <value>Εμφάνιση της ενότητας συνεργασίας Voxihost στην αρχική σελίδα.</value>
+  <data name="Show Voxihost Partnership" xml:space="preserve">
+    <value>Εμφάνιση Συνεργασίας Voxihost</value>
   </data>
   <data name="Show Voxihost in the trusted partners section." xml:space="preserve">
     <value>Εμφάνιση του Voxihost στην ενότητα εμπιστευμένων συνεργατών.</value>
   </data>
-  <data name="Show Voxihost Partnership" xml:space="preserve">
-    <value>Εμφάνιση Συνεργασίας Voxihost</value>
-  </data>
-  <data name="The brand name displayed in the footer." xml:space="preserve">
-    <value>Το όνομα της εταιρείας που εμφανίζεται στον ποδόσκαλο.</value>
-  </data>
-  <data name="The company name displayed when the page language is Simplified Chinese. Leave empty to use the default brand name." xml:space="preserve">
-    <value>Το όνομα της εταιρείας που εμφανίζεται όταν η γλώσσα της σελίδας είναι Απλοποιημένα Κινέζικα. Αφήστε το κενό για να χρησιμοποιήσετε το προεπιλεγμένο όνομα μάρκας.</value>
+  <data name="Show the Voxihost partnership section on the home page." xml:space="preserve">
+    <value>Εμφάνιση της ενότητας συνεργασίας Voxihost στην αρχική σελίδα.</value>
   </data>
   <data name="The HTTP(S) base URL of AlertCenter." xml:space="preserve">
     <value>Η βασική διεύθυνση URL HTTP(S) του AlertCenter.</value>
   </data>
   <data name="The ICP license number for China mainland users. Leave empty to hide." xml:space="preserve">
     <value>Ο αριθμός άδειας ICP για χρήστες της κυρίως Κίνας. Αφήστε κενό για να κρυφτεί.</value>
+  </data>
+  <data name="The brand name displayed in the footer." xml:space="preserve">
+    <value>Το όνομα της εταιρείας που εμφανίζεται στον ποδόσκαλο.</value>
+  </data>
+  <data name="The company name displayed when the page language is Simplified Chinese. Leave empty to use the default brand name." xml:space="preserve">
+    <value>Το όνομα της εταιρείας που εμφανίζεται όταν η γλώσσα της σελίδας είναι Απλοποιημένα Κινέζικα. Αφήστε το κενό για να χρησιμοποιήσετε το προεπιλεγμένο όνομα μάρκας.</value>
   </data>
   <data name="The logo of the project displayed in the navbar and footer. Support jpg, png, svg." xml:space="preserve">
     <value>Το λογότυπο του έργου που εμφανίζεται στην ναβιγατόρια και τον ποδοσκαλο. Υποστήριξη jpg, png, svg.</value>

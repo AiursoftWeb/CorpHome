@@ -66,20 +66,20 @@
   <data name="Custom Container Development" xml:space="preserve">
     <value>Entwicklung benutzerdefinierter Container</value>
   </data>
-  <data name="Custom speech synthesis/recognition, search integration &amp; deep investigation pipelines" xml:space="preserve">
-    <value>Benutzerdefinierte Sprachsynthese/-erkennung, Suchintegration und Deep-Research-Pipelines</value>
-  </data>
   <data name="Custom TTS / STT, Search Engine &amp; Deep Research" xml:space="preserve">
     <value>Benutzerdefinierte TTS / STT, Suchmaschine &amp; Tiefenrecherche</value>
+  </data>
+  <data name="Custom speech synthesis/recognition, search integration &amp; deep investigation pipelines" xml:space="preserve">
+    <value>Benutzerdefinierte Sprachsynthese/-erkennung, Suchintegration und Deep-Research-Pipelines</value>
   </data>
   <data name="Deployment &amp; Hosting" xml:space="preserve">
     <value>Bereitstellung &amp; Hosting</value>
   </data>
-  <data name="Device policy integration with scope and supported platforms agreed before deployment" xml:space="preserve">
-    <value>Integration der Gerätevorschriften mit vor der Bereitstellung vereinbartem Geltungsbereich und unterstützten Plattformen</value>
-  </data>
   <data name="DevOps &amp; Engineering" xml:space="preserve">
     <value>DevOps &amp; Engineering</value>
+  </data>
+  <data name="Device policy integration with scope and supported platforms agreed before deployment" xml:space="preserve">
+    <value>Integration der Gerätevorschriften mit vor der Bereitstellung vereinbartem Geltungsbereich und unterstützten Plattformen</value>
   </data>
   <data name="Document Conversion" xml:space="preserve">
     <value>Dokumentkonvertierung</value>
@@ -105,6 +105,9 @@
   <data name="GitLab is a trademark of GitLab Inc. Aiursoft provides deployment, hosting, and integration services for GitLab — we are not affiliated with or endorsed by GitLab Inc. The GitLab Community Edition (CE) is MIT-licensed and can be deployed freely. The GitLab Enterprise Edition (EE) requires a separate license purchased from GitLab Inc. We can assist you with procuring the appropriate GitLab EE license, or you may choose to remove this item from your plan." xml:space="preserve">
     <value>GitLab ist eine Marke der GitLab Inc. Aiursoft bietet Bereitstellungs-, Hosting- und Integrationsdienste für GitLab an – wir sind nicht mit der GitLab Inc. verbunden oder von dieser empfohlen. Die GitLab Community Edition (CE) ist unter der MIT-Lizenz verfügbar und kann frei bereitgestellt werden. Für die GitLab Enterprise Edition (EE) ist eine separate Lizenz erforderlich, die bei GitLab Inc. erworben werden muss. Wir können Sie bei der Beschaffung der passenden GitLab EE-Lizenz unterstützen, oder Sie können diese Komponente aus Ihrem Plan entfernen.</value>
   </data>
+  <data name="HR &amp; Org Portal" xml:space="preserve">
+    <value>HR- und Organisationsportal</value>
+  </data>
   <data name="Hacker" xml:space="preserve">
     <value>Hacker</value>
   </data>
@@ -117,9 +120,6 @@
   <data name="Hosted by Aiursoft, not on-premise" xml:space="preserve">
     <value>Von Aiursoft gehostet, nicht vor Ort</value>
   </data>
-  <data name="HR &amp; Org Portal" xml:space="preserve">
-    <value>HR- und Organisationsportal</value>
-  </data>
   <data name="Identity &amp; Security" xml:space="preserve">
     <value>Identität &amp; Sicherheit</value>
   </data>
@@ -128,6 +128,9 @@
   </data>
   <data name="Local LLM API Gateway" xml:space="preserve">
     <value>Lokale LLM-API-Gateway</value>
+  </data>
+  <data name="MDM Device Compliance" xml:space="preserve">
+    <value>MDM-Gerätekonformität</value>
   </data>
   <data name="Mailcow is open-source software (GPL-3.0). Aiursoft provides managed hosting, deployment, and integration services. Any custom modifications provided during your on-premise deployment are fully compliant with and distributed under the GPL-3.0 license." xml:space="preserve">
     <value>Mailcow ist Open-Source-Software (GPL-3.0). Aiursoft bietet Managed Hosting, Bereitstellungs- und Integrationsdienste an. Alle bei der lokalen Bereitstellung (On-Premise) durchgeführten individuellen Änderungen sind vollständig konform mit der GPL-3.0-Lizenz und werden unter dieser Lizenz verbreitet.</value>
@@ -141,14 +144,8 @@
   <data name="Max User Accounts" xml:space="preserve">
     <value>Maximale Benutzerkonten</value>
   </data>
-  <data name="MDM Device Compliance" xml:space="preserve">
-    <value>MDM-Gerätekonformität</value>
-  </data>
   <data name="Media &amp; Personal" xml:space="preserve">
     <value>Medien &amp; Persönliches</value>
-  </data>
-  <data name="mo" xml:space="preserve">
-    <value>Mo.</value>
   </data>
   <data name="Multi-site &amp; HA capable" xml:space="preserve">
     <value>Multi-Site &amp; HA-fähig</value>
@@ -174,17 +171,17 @@
   <data name="Online Code Execution" xml:space="preserve">
     <value>Online-Codeausführung</value>
   </data>
+  <data name="PDF Processing &amp; Vector Database" xml:space="preserve">
+    <value>PDF-Verarbeitung &amp; Vektordatenbank</value>
+  </data>
+  <data name="PDF ingestion &amp; vector store construction via PaddleOCR" xml:space="preserve">
+    <value>PDF-Verarbeitung und Vektorspeicheraufbau über PaddleOCR</value>
+  </data>
   <data name="PaddleOCR-based" xml:space="preserve">
     <value>PaddleOCR-basiert</value>
   </data>
   <data name="Partial / limited" xml:space="preserve">
     <value>Teilweise / eingeschränkt</value>
-  </data>
-  <data name="PDF ingestion &amp; vector store construction via PaddleOCR" xml:space="preserve">
-    <value>PDF-Verarbeitung und Vektorspeicheraufbau über PaddleOCR</value>
-  </data>
-  <data name="PDF Processing &amp; Vector Database" xml:space="preserve">
-    <value>PDF-Verarbeitung &amp; Vektordatenbank</value>
   </data>
   <data name="Photo &amp; Video Management" xml:space="preserve">
     <value>Foto- und Videoverwaltung</value>
@@ -197,6 +194,9 @@
   </data>
   <data name="Repository Sync" xml:space="preserve">
     <value>Repository Sync</value>
+  </data>
+  <data name="SSO / Identity Gateway" xml:space="preserve">
+    <value>SSO / Identitäts-Gateway</value>
   </data>
   <data name="SaaS only" xml:space="preserve">
     <value>Nur SaaS</value>
@@ -225,9 +225,6 @@
   <data name="Source Control &amp; CI/CD" xml:space="preserve">
     <value>Quellcodeverwaltung &amp; CI/CD</value>
   </data>
-  <data name="SSO / Identity Gateway" xml:space="preserve">
-    <value>SSO / Identitäts-Gateway</value>
-  </data>
   <data name="Startup" xml:space="preserve">
     <value>Startup</value>
   </data>
@@ -243,14 +240,11 @@
   <data name="Team Voting" xml:space="preserve">
     <value>Team-Abstimmung</value>
   </data>
-  <data name="Unlimited" xml:space="preserve">
-    <value>Unbegrenzt</value>
-  </data>
   <data name="URL Shortener" xml:space="preserve">
     <value>URL-Kürzer</value>
   </data>
-  <data name="user" xml:space="preserve">
-    <value>Benutzer</value>
+  <data name="Unlimited" xml:space="preserve">
+    <value>Unbegrenzt</value>
   </data>
   <data name="What&apos;s Included" xml:space="preserve">
     <value>Was ist enthalten</value>
@@ -260,6 +254,12 @@
   </data>
   <data name="Zero Trust Yubikey Auth" xml:space="preserve">
     <value>Zero-Trust-Yubikey-Auth</value>
+  </data>
+  <data name="mo" xml:space="preserve">
+    <value>Mo.</value>
+  </data>
+  <data name="user" xml:space="preserve">
+    <value>Benutzer</value>
   </data>
 
 </root>

@@ -54,11 +54,11 @@
   <data name="Contact Sales" xml:space="preserve">
     <value>영업팀 문의</value>
   </data>
-  <data name="Custom container development" xml:space="preserve">
-    <value>사용자 정의 컨테이너 개발</value>
-  </data>
   <data name="Custom Development Fee" xml:space="preserve">
     <value>사용자 지정 개발 비용</value>
+  </data>
+  <data name="Custom container development" xml:space="preserve">
+    <value>사용자 정의 컨테이너 개발</value>
   </data>
   <data name="Customized for your enterprise" xml:space="preserve">
     <value>귀하의 기업을 위해 맞춤화된 솔루션</value>
@@ -72,11 +72,11 @@
   <data name="Full Infrastructure Suite, on your local server" xml:space="preserve">
     <value>온프레미스 서버에서 풀 인프라 스위트</value>
   </data>
-  <data name="Get a public cloud-like experience while hosting your applications in your own server." xml:space="preserve">
-    <value>서버에서 애플리케이션을 호스팅하면서도 공용 클라우드와 유사한 경험을 얻으세요.</value>
-  </data>
   <data name="Get Started" xml:space="preserve">
     <value>시작하기</value>
+  </data>
+  <data name="Get a public cloud-like experience while hosting your applications in your own server." xml:space="preserve">
+    <value>서버에서 애플리케이션을 호스팅하면서도 공용 클라우드와 유사한 경험을 얻으세요.</value>
   </data>
   <data name="GitLab, Ollama Gateway" xml:space="preserve">
     <value>GitLab, Ollama Gateway</value>
@@ -99,6 +99,9 @@
   <data name="Koel, Immich, Memos" xml:space="preserve">
     <value>Koel, Immich, Memos</value>
   </data>
+  <data name="MDM based device compliance" xml:space="preserve">
+    <value>MDM 기반 디바이스 준수</value>
+  </data>
   <data name="Mailcow" xml:space="preserve">
     <value>Mailcow</value>
   </data>
@@ -107,9 +110,6 @@
   </data>
   <data name="Max 1000 accounts" xml:space="preserve">
     <value>최대 1000 계정</value>
-  </data>
-  <data name="MDM based device compliance" xml:space="preserve">
-    <value>MDM 기반 디바이스 준수</value>
   </data>
   <data name="On-premise AnduinOS Apkg" xml:space="preserve">
     <value>온프레미스 AnduinOS Apkg</value>
@@ -138,9 +138,6 @@
   <data name="Strengthen your business with flexible Open Source projects that run by Aiursoft." xml:space="preserve">
     <value>유연한 오픈 소스 프로젝트를 통해 비즈니스를 강화하세요. Aiursoft 가 운영합니다.</value>
   </data>
-  <data name="tailored to your business needs" xml:space="preserve">
-    <value>비즈니스 요구에 맞춤화된</value>
-  </data>
   <data name="Talk to an Architect" xml:space="preserve">
     <value>아키텍트와 상담하기</value>
   </data>
@@ -149,6 +146,9 @@
   </data>
   <data name="Zero Trust Yubikey Auth" xml:space="preserve">
     <value>Zero Trust Yubikey Auth</value>
+  </data>
+  <data name="tailored to your business needs" xml:space="preserve">
+    <value>비즈니스 요구에 맞춤화된</value>
   </data>
 
 </root>

@@ -159,26 +159,26 @@
   <data name="Show Senparc in the trusted partners section." xml:space="preserve">
     <value>在受信任合作伙伴区域显示 Senparc。</value>
   </data>
-  <data name="Show the Voxihost partnership section on the home page." xml:space="preserve">
-    <value>在主页上显示 Voxihost 合作板块。</value>
+  <data name="Show Voxihost Partnership" xml:space="preserve">
+    <value>显示 Voxihost 合作伙伴关系</value>
   </data>
   <data name="Show Voxihost in the trusted partners section." xml:space="preserve">
     <value>在受信任的合作伙伴部分显示 Voxihost。</value>
   </data>
-  <data name="Show Voxihost Partnership" xml:space="preserve">
-    <value>显示 Voxihost 合作伙伴关系</value>
-  </data>
-  <data name="The brand name displayed in the footer." xml:space="preserve">
-    <value>页脚中显示的品牌名称。</value>
-  </data>
-  <data name="The company name displayed when the page language is Simplified Chinese. Leave empty to use the default brand name." xml:space="preserve">
-    <value>当页面语言为简体中文时显示的公司名称。留空则使用默认品牌名称。</value>
+  <data name="Show the Voxihost partnership section on the home page." xml:space="preserve">
+    <value>在主页上显示 Voxihost 合作板块。</value>
   </data>
   <data name="The HTTP(S) base URL of AlertCenter." xml:space="preserve">
     <value>AlertCenter 的 HTTP(S) 基础 URL。</value>
   </data>
   <data name="The ICP license number for China mainland users. Leave empty to hide." xml:space="preserve">
     <value>中国大陆用户使用的 ICP 备案号。留空以隐藏。</value>
+  </data>
+  <data name="The brand name displayed in the footer." xml:space="preserve">
+    <value>页脚中显示的品牌名称。</value>
+  </data>
+  <data name="The company name displayed when the page language is Simplified Chinese. Leave empty to use the default brand name." xml:space="preserve">
+    <value>当页面语言为简体中文时显示的公司名称。留空则使用默认品牌名称。</value>
   </data>
   <data name="The logo of the project displayed in the navbar and footer. Support jpg, png, svg." xml:space="preserve">
     <value>项目在导航栏和页脚中显示的logo。支持jpg、png、svg格式。</value>

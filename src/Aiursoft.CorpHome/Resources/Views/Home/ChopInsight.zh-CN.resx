@@ -30,9 +30,6 @@
   <data name="A software-only delivery would not solve the problem either. Even a well-designed platform cannot provide the expected performance or reliability when its underlying hardware is unsuitable or poorly integrated. ChopInsight needed a coordinated approach that could preserve existing investments, add computing capacity where necessary, and support conventional applications and AI workloads through a common management model." xml:space="preserve">
     <value>仅依靠软件交付也无法解决问题。即使平台设计精良，如果底层硬件不合适或集成不佳，也无法提供预期的性能或可靠性。ChopInsight 需要一种协调的方法，既能保留现有投资，又能在必要时增加计算能力，并通过统一的管理模型支持传统应用程序和 AI 工作负载。</value>
   </data>
-  <data name="About ChopInsight" xml:space="preserve">
-    <value>关于 ChopInsight</value>
-  </data>
   <data name="AI access" xml:space="preserve">
     <value>AI 访问权限管控</value>
   </data>
@@ -44,6 +41,9 @@
   </data>
   <data name="AI introduced a second, closely related challenge. Suitable computing resources could be expensive and complex to specify. ChopInsight needed to avoid hardware that might later prove unsuitable for its software or operational requirements, while simply replacing equipment would have ignored the value of its existing servers." xml:space="preserve">
     <value>人工智能带来了第二个密切相关的挑战。合适的计算资源可能价格昂贵且配置复杂。ChopInsight 需要避免选用日后可能被证明无法满足其软件或运营需求的硬件，而直接替换设备则会忽视现有服务器的价值。</value>
+  </data>
+  <data name="About ChopInsight" xml:space="preserve">
+    <value>关于 ChopInsight</value>
   </data>
   <data name="Aiursoft assessed ChopInsight’s physical equipment, computing resources, application requirements and future AI plans together. Performance, stability, cost and future expansion informed a single design, making hardware selection and adaptation part of the service rather than a separate procurement exercise." xml:space="preserve">
     <value>Aiursoft 对 ChopInsight 的实体设备、计算资源、应用需求及未来 AI 规划进行了综合评估。性能、稳定性、成本及未来扩展性共同指导了统一的设计方案，使硬件选型与适配成为服务的一部分，而非独立的采购流程。</value>

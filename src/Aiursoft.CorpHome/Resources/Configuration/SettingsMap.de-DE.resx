@@ -159,26 +159,26 @@
   <data name="Show Senparc in the trusted partners section." xml:space="preserve">
     <value>Senparc im Bereich der vertrauenswürdigen Partner anzeigen.</value>
   </data>
-  <data name="Show the Voxihost partnership section on the home page." xml:space="preserve">
-    <value>Zeige den Voxihost-Partnerbereich auf der Startseite.</value>
+  <data name="Show Voxihost Partnership" xml:space="preserve">
+    <value>Voxihost-Partnerschaft anzeigen</value>
   </data>
   <data name="Show Voxihost in the trusted partners section." xml:space="preserve">
     <value>Voxihost im Bereich der vertrauenswürdigen Partner anzeigen.</value>
   </data>
-  <data name="Show Voxihost Partnership" xml:space="preserve">
-    <value>Voxihost-Partnerschaft anzeigen</value>
-  </data>
-  <data name="The brand name displayed in the footer." xml:space="preserve">
-    <value>Der Markenname, der im Footer angezeigt wird.</value>
-  </data>
-  <data name="The company name displayed when the page language is Simplified Chinese. Leave empty to use the default brand name." xml:space="preserve">
-    <value>Der Firmenname, der angezeigt wird, wenn die Seitensprache vereinfachtes Chinesisch ist. Lassen Sie dieses Feld leer, um den Standard-Markennamen zu verwenden.</value>
+  <data name="Show the Voxihost partnership section on the home page." xml:space="preserve">
+    <value>Zeige den Voxihost-Partnerbereich auf der Startseite.</value>
   </data>
   <data name="The HTTP(S) base URL of AlertCenter." xml:space="preserve">
     <value>Die HTTP(S)-Basis-URL von AlertCenter.</value>
   </data>
   <data name="The ICP license number for China mainland users. Leave empty to hide." xml:space="preserve">
     <value>Die ICP-Lizenznummer für Nutzer in der Volksrepublik China. Leer lassen, um sie auszublenden.</value>
+  </data>
+  <data name="The brand name displayed in the footer." xml:space="preserve">
+    <value>Der Markenname, der im Footer angezeigt wird.</value>
+  </data>
+  <data name="The company name displayed when the page language is Simplified Chinese. Leave empty to use the default brand name." xml:space="preserve">
+    <value>Der Firmenname, der angezeigt wird, wenn die Seitensprache vereinfachtes Chinesisch ist. Lassen Sie dieses Feld leer, um den Standard-Markennamen zu verwenden.</value>
   </data>
   <data name="The logo of the project displayed in the navbar and footer. Support jpg, png, svg." xml:space="preserve">
     <value>Das Logo des Projekts wird in der Navigationsleiste und im Footer angezeigt. Unterstützt jpg, png, svg.</value>

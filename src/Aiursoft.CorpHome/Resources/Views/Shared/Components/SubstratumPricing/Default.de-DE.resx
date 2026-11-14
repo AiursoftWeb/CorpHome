@@ -54,11 +54,11 @@
   <data name="Contact Sales" xml:space="preserve">
     <value>Kontaktieren Sie den Vertrieb</value>
   </data>
-  <data name="Custom container development" xml:space="preserve">
-    <value>Entwicklung benutzerdefinierter Container</value>
-  </data>
   <data name="Custom Development Fee" xml:space="preserve">
     <value>Gebühr für individuelle Entwicklung</value>
+  </data>
+  <data name="Custom container development" xml:space="preserve">
+    <value>Entwicklung benutzerdefinierter Container</value>
   </data>
   <data name="Customized for your enterprise" xml:space="preserve">
     <value>Individuell auf Ihr Unternehmen abgestimmt</value>
@@ -72,11 +72,11 @@
   <data name="Full Infrastructure Suite, on your local server" xml:space="preserve">
     <value>Vollständige Infrastruktur-Suite auf Ihrem lokalen Server</value>
   </data>
-  <data name="Get a public cloud-like experience while hosting your applications in your own server." xml:space="preserve">
-    <value>Erleben Sie eine Public-Cloud-ähnliche Erfahrung, während Sie Ihre Anwendungen auf Ihrem eigenen Server hosten.</value>
-  </data>
   <data name="Get Started" xml:space="preserve">
     <value>Loslegen</value>
+  </data>
+  <data name="Get a public cloud-like experience while hosting your applications in your own server." xml:space="preserve">
+    <value>Erleben Sie eine Public-Cloud-ähnliche Erfahrung, während Sie Ihre Anwendungen auf Ihrem eigenen Server hosten.</value>
   </data>
   <data name="GitLab, Ollama Gateway" xml:space="preserve">
     <value>GitLab, Ollama-Gateway</value>
@@ -99,6 +99,9 @@
   <data name="Koel, Immich, Memos" xml:space="preserve">
     <value>Koel, Immich, Memos</value>
   </data>
+  <data name="MDM based device compliance" xml:space="preserve">
+    <value>MDM-basierte Gerätekonformität</value>
+  </data>
   <data name="Mailcow" xml:space="preserve">
     <value>Mailcow</value>
   </data>
@@ -107,9 +110,6 @@
   </data>
   <data name="Max 1000 accounts" xml:space="preserve">
     <value>Max 1000 Konten</value>
-  </data>
-  <data name="MDM based device compliance" xml:space="preserve">
-    <value>MDM-basierte Gerätekonformität</value>
   </data>
   <data name="On-premise AnduinOS Apkg" xml:space="preserve">
     <value>Lokale AnduinOS Apkg-Installation</value>
@@ -138,9 +138,6 @@
   <data name="Strengthen your business with flexible Open Source projects that run by Aiursoft." xml:space="preserve">
     <value>Stärken Sie Ihr Unternehmen mit flexiblen Open-Source-Projekten, die von Aiursoft betrieben werden.</value>
   </data>
-  <data name="tailored to your business needs" xml:space="preserve">
-    <value>maßgeschneidert auf Ihre geschäftlichen Anforderungen</value>
-  </data>
   <data name="Talk to an Architect" xml:space="preserve">
     <value>Kontaktieren Sie einen Architekten</value>
   </data>
@@ -149,6 +146,9 @@
   </data>
   <data name="Zero Trust Yubikey Auth" xml:space="preserve">
     <value>Zero Trust Yubikey-Auth</value>
+  </data>
+  <data name="tailored to your business needs" xml:space="preserve">
+    <value>maßgeschneidert auf Ihre geschäftlichen Anforderungen</value>
   </data>
 
 </root>

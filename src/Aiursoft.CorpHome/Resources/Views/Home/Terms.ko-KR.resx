@@ -51,11 +51,11 @@
   <data name="9. Modifications to the Terms" xml:space="preserve">
     <value>9. 이용 약관의 변경</value>
   </data>
-  <data name="Aiursoft hosts the infrastructure on our secured servers. We are responsible for server uptime, standard backups, and basic network security." xml:space="preserve">
-    <value>Aiursoft는 안전한 서버에 인프라를 호스팅합니다. 서버 가용성, 표준 백업 및 기본 네트워크 보안에 대한 책임은 저희가 집행합니다.</value>
-  </data>
   <data name="AIURSOFT LIMITED" xml:space="preserve">
     <value>AIURSOFT LIMITED</value>
+  </data>
+  <data name="Aiursoft hosts the infrastructure on our secured servers. We are responsible for server uptime, standard backups, and basic network security." xml:space="preserve">
+    <value>Aiursoft는 안전한 서버에 인프라를 호스팅합니다. 서버 가용성, 표준 백업 및 기본 네트워크 보안에 대한 책임은 저희가 집행합니다.</value>
   </data>
   <data name="Aiursoft provides enterprise IT infrastructure solutions built upon open-source technologies (e.g., Linux, Nextcloud, Mailcow, Authentik, GitLab)." xml:space="preserve">
     <value>Aiursoft는 오픈소스 기술(예: Linux, Nextcloud, Mailcow, Authentik, GitLab)을 기반으로 한 기업용 IT 인프라 솔루션을 제공합니다.</value>
@@ -159,17 +159,14 @@
   <data name="The Service is Commercial:" xml:space="preserve">
     <value>서비스는 상업적입니다:</value>
   </data>
-  <data name="The software is deployed on your local servers or private cloud. You retain absolute physical control and ownership of your data (&quot;Own Your Data&quot;). Consequently, you are solely responsible for your underlying hardware, local network security, physical access control, and disaster recovery backups. Aiursoft&apos;s responsibility is limited to software-level maintenance, container updates, and technical support as defined in your plan." xml:space="preserve">
-    <value>소프트웨어는 귀하의 로컬 서버 또는 사설 클라우드에 배포됩니다. 귀하는 데이터에 대한 절대적인 물리적 통제권과 소유권을 유지합니다 (&quot;데이터를 귀하가 소유하세요&quot;). 따라서 귀하는 기반 하드웨어, 로컬 네트워크 보안, 물리적 접근 제어 및 재난 복구 백업에 대해 전적으로 책임집니다. Aiursoft의 책임은 귀하의 계획에서 정의된 소프트웨어 수준의 유지보수, 컨테이너 업데이트 및 기술 지원에 국한됩니다.</value>
-  </data>
   <data name="The Software is Free:" xml:space="preserve">
     <value>소프트웨어는 무료입니다:</value>
   </data>
+  <data name="The software is deployed on your local servers or private cloud. You retain absolute physical control and ownership of your data (&quot;Own Your Data&quot;). Consequently, you are solely responsible for your underlying hardware, local network security, physical access control, and disaster recovery backups. Aiursoft&apos;s responsibility is limited to software-level maintenance, container updates, and technical support as defined in your plan." xml:space="preserve">
+    <value>소프트웨어는 귀하의 로컬 서버 또는 사설 클라우드에 배포됩니다. 귀하는 데이터에 대한 절대적인 물리적 통제권과 소유권을 유지합니다 (&quot;데이터를 귀하가 소유하세요&quot;). 따라서 귀하는 기반 하드웨어, 로컬 네트워크 보안, 물리적 접근 제어 및 재난 복구 백업에 대해 전적으로 책임집니다. Aiursoft의 책임은 귀하의 계획에서 정의된 소프트웨어 수준의 유지보수, 컨테이너 업데이트 및 기술 지원에 국한됩니다.</value>
+  </data>
   <data name="The underlying open-source codes are subject to their respective licenses (e.g., MIT, GPL). You are free to inspect, modify, and distribute the code as permitted by those licenses." xml:space="preserve">
     <value>기반의 오픈소스 코드는 각각의 라이선스(예: MIT, GPL)에 따라 적용됩니다. 해당 라이선스에서 허용하는 범위 내에서 코드를 검토하고 수정하며 배포할 수 있습니다.</value>
-  </data>
-  <data name="These cancellation and non-refund rules apply to voluntary cancellation. They do not exclude remedies for our failure to provide the agreed services, override the specific commitments in an applicable service agreement, or limit rights that cannot be excluded under applicable law." xml:space="preserve">
-    <value>이해지 및 환불 불가 규칙은 자발적인 해지에 적용됩니다. 이러한 규칙은 당사자가 합의된 서비스를 제공하지 못한 경우의 구제책, 해당 서비스 계약의 구체적 약정, 또는 해당 법률에 따라 배제할 수 없는 권리를 배제하거나 제한하지 않습니다.</value>
   </data>
   <data name="These Terms of Service (&quot;Terms&quot;) govern your access to and use of the Aiursoft website, products, and subscription services, including but not limited to Aiursoft Substrate (Core, Startup, and Enterprise plans) (collectively, the &quot;Services&quot;). By registering for an account or purchasing a subscription, you agree to be bound by these Terms." xml:space="preserve">
     <value>이 서비스 이용 약관(&quot;약관&quot;)은 Aiursoft 웹사이트, 제품 및 구독 서비스에 대한 접근 및 사용을 규제하며, Aiursoft Substrate(코어, 스타트업 및 엔터프라이즈 플랜 포함)를 포함한 모든 서비스(종합적으로 &quot;서비스&quot;라 함)를 포함합니다. 계정을 등록하거나 구독을 구매함으로써 귀하는 이 약관에 구속됨에 동의하는 것입니다.</value>
@@ -179,6 +176,9 @@
   </data>
   <data name="These Terms shall be governed by and construed in accordance with the laws of the Hong Kong Special Administrative Region, without regard to its conflict of law provisions." xml:space="preserve">
     <value>이 이용 약관은 분쟁법 조항을 고려하지 않고 홍콩 특별 행정구의 법률에 따라 관할되고 해석된다.</value>
+  </data>
+  <data name="These cancellation and non-refund rules apply to voluntary cancellation. They do not exclude remedies for our failure to provide the agreed services, override the specific commitments in an applicable service agreement, or limit rights that cannot be excluded under applicable law." xml:space="preserve">
+    <value>이해지 및 환불 불가 규칙은 자발적인 해지에 적용됩니다. 이러한 규칙은 당사자가 합의된 서비스를 제공하지 못한 경우의 구제책, 해당 서비스 계약의 구체적 약정, 또는 해당 법률에 따라 배제할 수 없는 권리를 배제하거나 제한하지 않습니다.</value>
   </data>
   <data name="To ensure uninterrupted service, our commercial plans operate on a recurring subscription basis." xml:space="preserve">
     <value>서비스의 중단 없이 운영하기 위해, 당사의 상용 플랜은 반복 결제 기반의 구독 방식으로 운영됩니다.</value>

@@ -54,11 +54,11 @@
   <data name="Contact Sales" xml:space="preserve">
     <value>Contact Sales</value>
   </data>
-  <data name="Custom container development" xml:space="preserve">
-    <value>Dezvoltare de containere personalizate</value>
-  </data>
   <data name="Custom Development Fee" xml:space="preserve">
     <value>Taxă pentru dezvoltare personalizată</value>
+  </data>
+  <data name="Custom container development" xml:space="preserve">
+    <value>Dezvoltare de containere personalizate</value>
   </data>
   <data name="Customized for your enterprise" xml:space="preserve">
     <value>Personalizat pentru întreprinderea dumneavoastră</value>
@@ -72,11 +72,11 @@
   <data name="Full Infrastructure Suite, on your local server" xml:space="preserve">
     <value>Suite completă de infrastructură, pe serverul dumneavoastră local</value>
   </data>
-  <data name="Get a public cloud-like experience while hosting your applications in your own server." xml:space="preserve">
-    <value>Obțineți o experiență similară cu cea a cloud-ului public în timp ce găzduiți aplicațiile dvs. pe propriul server.</value>
-  </data>
   <data name="Get Started" xml:space="preserve">
     <value>Începe acum</value>
+  </data>
+  <data name="Get a public cloud-like experience while hosting your applications in your own server." xml:space="preserve">
+    <value>Obțineți o experiență similară cu cea a cloud-ului public în timp ce găzduiți aplicațiile dvs. pe propriul server.</value>
   </data>
   <data name="GitLab, Ollama Gateway" xml:space="preserve">
     <value>GitLab, Gateway Ollama</value>
@@ -99,6 +99,9 @@
   <data name="Koel, Immich, Memos" xml:space="preserve">
     <value>Koel, Immich, Memos</value>
   </data>
+  <data name="MDM based device compliance" xml:space="preserve">
+    <value>Conformitate dispozitive bazată pe MDM</value>
+  </data>
   <data name="Mailcow" xml:space="preserve">
     <value>Mailcow</value>
   </data>
@@ -107,9 +110,6 @@
   </data>
   <data name="Max 1000 accounts" xml:space="preserve">
     <value>Max 1000 conturi</value>
-  </data>
-  <data name="MDM based device compliance" xml:space="preserve">
-    <value>Conformitate dispozitive bazată pe MDM</value>
   </data>
   <data name="On-premise AnduinOS Apkg" xml:space="preserve">
     <value>AnduinOS Apkg on-premise</value>
@@ -138,9 +138,6 @@
   <data name="Strengthen your business with flexible Open Source projects that run by Aiursoft." xml:space="preserve">
     <value>Întărește-ți afacerea cu proiecte flexibile Open Source gestionate de Aiursoft.</value>
   </data>
-  <data name="tailored to your business needs" xml:space="preserve">
-    <value>personalizat pentru nevoile afacerii tale</value>
-  </data>
   <data name="Talk to an Architect" xml:space="preserve">
     <value>Discutați cu un Arhitect</value>
   </data>
@@ -149,6 +146,9 @@
   </data>
   <data name="Zero Trust Yubikey Auth" xml:space="preserve">
     <value>Autentificare Zero Trust cu Yubikey</value>
+  </data>
+  <data name="tailored to your business needs" xml:space="preserve">
+    <value>personalizat pentru nevoile afacerii tale</value>
   </data>
 
 </root>

@@ -39,6 +39,9 @@
   <data name="Egret Control Systems Wuxi integrates testing systems for vehicles and automotive components. Aiursoft delivered an AI workstation, local models, a knowledge base, file collaboration and a customised Kanban system, then supported their adoption through on-site training and ongoing maintenance." xml:space="preserve">
     <value>Egret Control Systems Wuxi 整合了車輛與汽車零組件的測試系統。Aiursoft 提供了 AI 工作站、本機模型、知識庫、檔案協作功能及客製化看板系統，並透過到府訓練與持續維護協助導入。</value>
   </data>
+  <data name="Egret Wuxi: Building a Local AI and Knowledge Collaboration Platform for Engineering Teams" xml:space="preserve">
+    <value>Egret Wuxi：為工程團隊打造本地 AI 與知識協作平台</value>
+  </data>
   <data name="Egret had already purchased an ERP system, but much of its engineering work still took place outside business applications. Project files and drawings were scattered across engineers’ personal computers, technical material lacked a shared place to accumulate and be searched, and checking project progress often meant asking people individually. The team wanted AI to make existing material more useful and project collaboration smoother." xml:space="preserve">
     <value>白鷺已購買 ERP 系統，但許多工程工作仍在企業應用程式之外進行。專案檔案和圖面散落在工程師的個人電腦中，技術資料缺乏可集中累積並供人搜尋的共用空間，而確認專案進度往往得逐一詢問相關人員。團隊希望運用 AI，讓既有資料更有用，並使專案協作更加順暢。</value>
   </data>
@@ -47,9 +50,6 @@
   </data>
   <data name="Egret now has an AI and collaboration environment running on its own equipment, with employee training and practical use underway." xml:space="preserve">
     <value>Egret 目前已在其自有設備上運行 AI 與協作環境，員工培訓及實際應用正在進行中。</value>
-  </data>
-  <data name="Egret Wuxi: Building a Local AI and Knowledge Collaboration Platform for Engineering Teams" xml:space="preserve">
-    <value>Egret Wuxi：為工程團隊打造本地 AI 與知識協作平台</value>
   </data>
   <data name="Egret’s work brings together mechanical design, control technology and engineering implementation. Its team combines controllers, hydraulic cylinders, motors and other core components with mechanical structures of its own design to deliver testing systems to vehicle manufacturers and automotive component suppliers." xml:space="preserve">
     <value>Egret 的工作結合了機械設計、控制技術與工程實作。其團隊將控制器、油壓缸、馬達等核心元件與自主設計的機械結構相結合，為車輛製造商與汽車零組件供應商提供測試系統。</value>

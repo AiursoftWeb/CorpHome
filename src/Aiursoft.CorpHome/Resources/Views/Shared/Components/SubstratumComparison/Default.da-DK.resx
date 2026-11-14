@@ -66,20 +66,20 @@
   <data name="Custom Container Development" xml:space="preserve">
     <value>Udvikling af tilpassede containere</value>
   </data>
-  <data name="Custom speech synthesis/recognition, search integration &amp; deep investigation pipelines" xml:space="preserve">
-    <value>Brugerdefineret tale-syntese/genkendelse, søgeintegration og dybdegående undersøgelsespipeline</value>
-  </data>
   <data name="Custom TTS / STT, Search Engine &amp; Deep Research" xml:space="preserve">
     <value>Brugerdefineret TTS / STT, Søgning &amp; Dyb Forskning</value>
+  </data>
+  <data name="Custom speech synthesis/recognition, search integration &amp; deep investigation pipelines" xml:space="preserve">
+    <value>Brugerdefineret tale-syntese/genkendelse, søgeintegration og dybdegående undersøgelsespipeline</value>
   </data>
   <data name="Deployment &amp; Hosting" xml:space="preserve">
     <value>Udrulning &amp; Hosting</value>
   </data>
-  <data name="Device policy integration with scope and supported platforms agreed before deployment" xml:space="preserve">
-    <value>Integration af enhedspolitik med omfang og understøttede platforme aftalt før implementering</value>
-  </data>
   <data name="DevOps &amp; Engineering" xml:space="preserve">
     <value>DevOps &amp; Engineering</value>
+  </data>
+  <data name="Device policy integration with scope and supported platforms agreed before deployment" xml:space="preserve">
+    <value>Integration af enhedspolitik med omfang og understøttede platforme aftalt før implementering</value>
   </data>
   <data name="Document Conversion" xml:space="preserve">
     <value>Dokumentkonvertering</value>
@@ -105,6 +105,9 @@
   <data name="GitLab is a trademark of GitLab Inc. Aiursoft provides deployment, hosting, and integration services for GitLab — we are not affiliated with or endorsed by GitLab Inc. The GitLab Community Edition (CE) is MIT-licensed and can be deployed freely. The GitLab Enterprise Edition (EE) requires a separate license purchased from GitLab Inc. We can assist you with procuring the appropriate GitLab EE license, or you may choose to remove this item from your plan." xml:space="preserve">
     <value>GitLab er et varemærke for GitLab Inc. Aiursoft leverer implementerings-, hosting- og integrationsydelser for GitLab — vi er hverken tilknyttet eller anbefalet af GitLab Inc. GitLab Community Edition (CE) er MIT-licenseret og kan frit implementeres. GitLab Enterprise Edition (EE) kræver en separat licens, der købes hos GitLab Inc. Vi kan hjælpe dig med atanskaffe den passende GitLab EE-licens, eller du kan vælge at fjerne dette element fra din plan.</value>
   </data>
+  <data name="HR &amp; Org Portal" xml:space="preserve">
+    <value>HR &amp; Org Portal</value>
+  </data>
   <data name="Hacker" xml:space="preserve">
     <value>Hacker</value>
   </data>
@@ -117,9 +120,6 @@
   <data name="Hosted by Aiursoft, not on-premise" xml:space="preserve">
     <value>Hostet af Aiursoft, ikke on-premise</value>
   </data>
-  <data name="HR &amp; Org Portal" xml:space="preserve">
-    <value>HR &amp; Org Portal</value>
-  </data>
   <data name="Identity &amp; Security" xml:space="preserve">
     <value>Identitet &amp; Sikkerhed</value>
   </data>
@@ -128,6 +128,9 @@
   </data>
   <data name="Local LLM API Gateway" xml:space="preserve">
     <value>Lokal LLM API Gateway</value>
+  </data>
+  <data name="MDM Device Compliance" xml:space="preserve">
+    <value>MDM-enhedsoverensstemmelse</value>
   </data>
   <data name="Mailcow is open-source software (GPL-3.0). Aiursoft provides managed hosting, deployment, and integration services. Any custom modifications provided during your on-premise deployment are fully compliant with and distributed under the GPL-3.0 license." xml:space="preserve">
     <value>Mailcow er open-source-software (GPL-3.0). Aiursoft leverer Managed Hosting-, implementerings- og integrationsservices. Alle skræddersyede ændringer, der leveres i forbindelse med din on-premise-installation, er fuldt overensstemmende med og distribueres under GPL-3.0-licensen.</value>
@@ -141,14 +144,8 @@
   <data name="Max User Accounts" xml:space="preserve">
     <value>Maksimum brugerkonti</value>
   </data>
-  <data name="MDM Device Compliance" xml:space="preserve">
-    <value>MDM-enhedsoverensstemmelse</value>
-  </data>
   <data name="Media &amp; Personal" xml:space="preserve">
     <value>Media &amp; Personal</value>
-  </data>
-  <data name="mo" xml:space="preserve">
-    <value>md.</value>
   </data>
   <data name="Multi-site &amp; HA capable" xml:space="preserve">
     <value>Flere steder &amp; HA-kompatibel</value>
@@ -174,17 +171,17 @@
   <data name="Online Code Execution" xml:space="preserve">
     <value>Online kodeudførelse</value>
   </data>
+  <data name="PDF Processing &amp; Vector Database" xml:space="preserve">
+    <value>PDF-behandling og vektor database</value>
+  </data>
+  <data name="PDF ingestion &amp; vector store construction via PaddleOCR" xml:space="preserve">
+    <value>PDF-ingestering og opbygning af vektorlager via PaddleOCR</value>
+  </data>
   <data name="PaddleOCR-based" xml:space="preserve">
     <value>PaddleOCR-baseret</value>
   </data>
   <data name="Partial / limited" xml:space="preserve">
     <value>Delvis / begrænset</value>
-  </data>
-  <data name="PDF ingestion &amp; vector store construction via PaddleOCR" xml:space="preserve">
-    <value>PDF-ingestering og opbygning af vektorlager via PaddleOCR</value>
-  </data>
-  <data name="PDF Processing &amp; Vector Database" xml:space="preserve">
-    <value>PDF-behandling og vektor database</value>
   </data>
   <data name="Photo &amp; Video Management" xml:space="preserve">
     <value>Foto- og videohåndtering</value>
@@ -194,6 +191,9 @@
   </data>
   <data name="Repository Sync" xml:space="preserve">
     <value>Repository Sync</value>
+  </data>
+  <data name="SSO / Identity Gateway" xml:space="preserve">
+    <value>SSO / Identitetsgateway</value>
   </data>
   <data name="SaaS only" xml:space="preserve">
     <value>Kun SaaS</value>
@@ -222,9 +222,6 @@
   <data name="Source Control &amp; CI/CD" xml:space="preserve">
     <value>Kildekontrol &amp; CI/CD</value>
   </data>
-  <data name="SSO / Identity Gateway" xml:space="preserve">
-    <value>SSO / Identitetsgateway</value>
-  </data>
   <data name="Startup" xml:space="preserve">
     <value>Startup</value>
   </data>
@@ -240,14 +237,11 @@
   <data name="Team Voting" xml:space="preserve">
     <value>Teamafstemning</value>
   </data>
-  <data name="Unlimited" xml:space="preserve">
-    <value>Ubegrænset</value>
-  </data>
   <data name="URL Shortener" xml:space="preserve">
     <value>URL-forkortelse</value>
   </data>
-  <data name="user" xml:space="preserve">
-    <value>bruger</value>
+  <data name="Unlimited" xml:space="preserve">
+    <value>Ubegrænset</value>
   </data>
   <data name="What&apos;s Included" xml:space="preserve">
     <value>Hvad der indgår</value>
@@ -257,6 +251,12 @@
   </data>
   <data name="Zero Trust Yubikey Auth" xml:space="preserve">
     <value>Zero Trust Yubikey-auth</value>
+  </data>
+  <data name="mo" xml:space="preserve">
+    <value>md.</value>
+  </data>
+  <data name="user" xml:space="preserve">
+    <value>bruger</value>
   </data>
 
 </root>

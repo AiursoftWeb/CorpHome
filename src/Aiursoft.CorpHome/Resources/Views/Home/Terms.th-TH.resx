@@ -51,11 +51,11 @@
   <data name="9. Modifications to the Terms" xml:space="preserve">
     <value>9. การแก้ไขข้อกำหนด</value>
   </data>
-  <data name="Aiursoft hosts the infrastructure on our secured servers. We are responsible for server uptime, standard backups, and basic network security." xml:space="preserve">
-    <value>Aiursoft ดำเนินการจัดเก็บโครงสร้างพื้นฐานบนเซิร์ฟเวอร์ที่ปลอดภัยของเรา เราจะรับผิดชอบในด้านเวลาการทำงานของเซิร์ฟเวอร์ สำรองข้อมูลตามมาตรฐาน และความปลอดภัยของเครือข่ายพื้นฐาน</value>
-  </data>
   <data name="AIURSOFT LIMITED" xml:space="preserve">
     <value>AIURSOFT LIMITED</value>
+  </data>
+  <data name="Aiursoft hosts the infrastructure on our secured servers. We are responsible for server uptime, standard backups, and basic network security." xml:space="preserve">
+    <value>Aiursoft ดำเนินการจัดเก็บโครงสร้างพื้นฐานบนเซิร์ฟเวอร์ที่ปลอดภัยของเรา เราจะรับผิดชอบในด้านเวลาการทำงานของเซิร์ฟเวอร์ สำรองข้อมูลตามมาตรฐาน และความปลอดภัยของเครือข่ายพื้นฐาน</value>
   </data>
   <data name="Aiursoft provides enterprise IT infrastructure solutions built upon open-source technologies (e.g., Linux, Nextcloud, Mailcow, Authentik, GitLab)." xml:space="preserve">
     <value>Aiursoft ให้บริการโซลูชันโครงสร้างพื้นฐานด้านไอทีสำหรับองค์กรที่สร้างขึ้นบนเทคโนโลยีโอเพนซอร์ส (เช่น Linux, Nextcloud, Mailcow, Authentik, GitLab)</value>
@@ -159,17 +159,14 @@
   <data name="The Service is Commercial:" xml:space="preserve">
     <value>บริการนี้เป็นเชิงพาณิชย์:</value>
   </data>
-  <data name="The software is deployed on your local servers or private cloud. You retain absolute physical control and ownership of your data (&quot;Own Your Data&quot;). Consequently, you are solely responsible for your underlying hardware, local network security, physical access control, and disaster recovery backups. Aiursoft&apos;s responsibility is limited to software-level maintenance, container updates, and technical support as defined in your plan." xml:space="preserve">
-    <value>ซอฟต์แวร์ถูกติดตั้งบนเซิร์ฟเวอร์ภายในของคุณหรือคลาวด์ส่วนตัว คุณจะคงการควบคุมทางกายภาพอย่างสมบูรณ์และสิทธิ์ในข้อมูลของคุณ (&quot;เป็นเจ้าของข้อมูลของคุณเอง&quot;) ดังนั้นคุณจึงรับผิดชอบเพียงผู้เดียวต่อฮาร์ดแวร์พื้นฐาน ความปลอดภัยของเครือข่ายภายใน ระบบควบคุมการเข้าถึงทางกายภาพ และการสำรองข้อมูลเพื่อการกู้คืนจากภัยพิบัติ ความรับผิดชอบของ Aiursoft จำกัดอยู่ที่การบำรุงรักษาในระดับซอฟต์แวร์ การอัปเดตคอนเทนเนอร์ และการสนับสนุนทางเทคนิคตามที่ระบุไว้ในแผนของคุณ</value>
-  </data>
   <data name="The Software is Free:" xml:space="preserve">
     <value>ซอฟต์แวร์นี้ฟรี:</value>
   </data>
+  <data name="The software is deployed on your local servers or private cloud. You retain absolute physical control and ownership of your data (&quot;Own Your Data&quot;). Consequently, you are solely responsible for your underlying hardware, local network security, physical access control, and disaster recovery backups. Aiursoft&apos;s responsibility is limited to software-level maintenance, container updates, and technical support as defined in your plan." xml:space="preserve">
+    <value>ซอฟต์แวร์ถูกติดตั้งบนเซิร์ฟเวอร์ภายในของคุณหรือคลาวด์ส่วนตัว คุณจะคงการควบคุมทางกายภาพอย่างสมบูรณ์และสิทธิ์ในข้อมูลของคุณ (&quot;เป็นเจ้าของข้อมูลของคุณเอง&quot;) ดังนั้นคุณจึงรับผิดชอบเพียงผู้เดียวต่อฮาร์ดแวร์พื้นฐาน ความปลอดภัยของเครือข่ายภายใน ระบบควบคุมการเข้าถึงทางกายภาพ และการสำรองข้อมูลเพื่อการกู้คืนจากภัยพิบัติ ความรับผิดชอบของ Aiursoft จำกัดอยู่ที่การบำรุงรักษาในระดับซอฟต์แวร์ การอัปเดตคอนเทนเนอร์ และการสนับสนุนทางเทคนิคตามที่ระบุไว้ในแผนของคุณ</value>
+  </data>
   <data name="The underlying open-source codes are subject to their respective licenses (e.g., MIT, GPL). You are free to inspect, modify, and distribute the code as permitted by those licenses." xml:space="preserve">
     <value>รหัสโอเพนซอร์สที่อยู่เบื้องหลังอยู่ภายใต้สัญญาอนุญาตตามแต่ละสัญญา (เช่น MIT, GPL) คุณมีอิสระในการตรวจสอบ แก้ไข และเผยแพร่โค้ดตามที่สัญญาอนุญาตอนุญาตไว้</value>
-  </data>
-  <data name="These cancellation and non-refund rules apply to voluntary cancellation. They do not exclude remedies for our failure to provide the agreed services, override the specific commitments in an applicable service agreement, or limit rights that cannot be excluded under applicable law." xml:space="preserve">
-    <value>กฎการยกเลิกและการไม่คืนเงินเหล่านี้มีผลใช้บังคับกับการยกเลิกโดยสมัครใจ และไม่เป็นการขจัดสิทธิในการเยียวยาหากเราไม่สามารถให้บริการตามที่ตกลงไว้ ไม่เพิกถอนข้อผูกพันเฉพาะในสัญญาบริการที่บังคับใช้ และไม่จำกัดสิทธิที่ไม่อาจขจัดได้ตามกฎหมายที่ใช้บังคับ</value>
   </data>
   <data name="These Terms of Service (&quot;Terms&quot;) govern your access to and use of the Aiursoft website, products, and subscription services, including but not limited to Aiursoft Substrate (Core, Startup, and Enterprise plans) (collectively, the &quot;Services&quot;). By registering for an account or purchasing a subscription, you agree to be bound by these Terms." xml:space="preserve">
     <value>ข้อกำหนดการใช้บริการ (&quot;ข้อกำหนด&quot;) เหล่านี้ ควบคุมการเข้าถึงและการใช้งานเว็บไซต์ ผลิตภัณฑ์ และบริการสมัครสมาชิกของ Aiursoft รวมถึงแต่ไม่จำกัดเพียง Aiursoft Substrate (แผน Core, Startup และ Enterprise) (โดยรวมกันเรียกว่า &quot;บริการ&quot;) โดยการลงทะเบียนเป็นบัญชีหรือซื้อการสมัครสมาชิก คุณยอมรับที่จะถูกผูกพันด้วยข้อกำหนดเหล่านี้</value>
@@ -179,6 +176,9 @@
   </data>
   <data name="These Terms shall be governed by and construed in accordance with the laws of the Hong Kong Special Administrative Region, without regard to its conflict of law provisions." xml:space="preserve">
     <value>ข้อตกลงเหล่านี้จะอยู่ภายใต้การควบคุมและตีความตามกฎหมายของเขตบริหารพิเศษฮ่องกง โดยไม่คำนึงถึงข้อกำหนดเกี่ยวกับกฎหมายที่ขัดแย้งกัน</value>
+  </data>
+  <data name="These cancellation and non-refund rules apply to voluntary cancellation. They do not exclude remedies for our failure to provide the agreed services, override the specific commitments in an applicable service agreement, or limit rights that cannot be excluded under applicable law." xml:space="preserve">
+    <value>กฎการยกเลิกและการไม่คืนเงินเหล่านี้มีผลใช้บังคับกับการยกเลิกโดยสมัครใจ และไม่เป็นการขจัดสิทธิในการเยียวยาหากเราไม่สามารถให้บริการตามที่ตกลงไว้ ไม่เพิกถอนข้อผูกพันเฉพาะในสัญญาบริการที่บังคับใช้ และไม่จำกัดสิทธิที่ไม่อาจขจัดได้ตามกฎหมายที่ใช้บังคับ</value>
   </data>
   <data name="To ensure uninterrupted service, our commercial plans operate on a recurring subscription basis." xml:space="preserve">
     <value>เพื่อให้บริการดำเนินต่อเนื่องโดยไม่มีการหยุดชะงัก แผนการเชิงพาณิชย์ของเราดำเนินการตามระบบการสมัครสมาชิกซ้ำเรื่อยๆ</value>

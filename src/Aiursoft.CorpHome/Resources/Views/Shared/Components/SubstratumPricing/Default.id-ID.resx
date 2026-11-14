@@ -54,11 +54,11 @@
   <data name="Contact Sales" xml:space="preserve">
     <value>Hubungi Penjualan</value>
   </data>
-  <data name="Custom container development" xml:space="preserve">
-    <value>Pengembangan kontainer khusus</value>
-  </data>
   <data name="Custom Development Fee" xml:space="preserve">
     <value>Biaya Pengembangan Kustom</value>
+  </data>
+  <data name="Custom container development" xml:space="preserve">
+    <value>Pengembangan kontainer khusus</value>
   </data>
   <data name="Customized for your enterprise" xml:space="preserve">
     <value>Disesuaikan untuk perusahaan Anda</value>
@@ -72,11 +72,11 @@
   <data name="Full Infrastructure Suite, on your local server" xml:space="preserve">
     <value>Paket Infrastruktur Lengkap, di server lokal Anda</value>
   </data>
-  <data name="Get a public cloud-like experience while hosting your applications in your own server." xml:space="preserve">
-    <value>Dapatkan pengalaman seperti cloud publik sambil meng-hosting aplikasi Anda di server Anda sendiri.</value>
-  </data>
   <data name="Get Started" xml:space="preserve">
     <value>Mulai Sekarang</value>
+  </data>
+  <data name="Get a public cloud-like experience while hosting your applications in your own server." xml:space="preserve">
+    <value>Dapatkan pengalaman seperti cloud publik sambil meng-hosting aplikasi Anda di server Anda sendiri.</value>
   </data>
   <data name="GitLab, Ollama Gateway" xml:space="preserve">
     <value>GitLab, Gateway Ollama</value>
@@ -99,6 +99,9 @@
   <data name="Koel, Immich, Memos" xml:space="preserve">
     <value>Koel, Immich, Memos</value>
   </data>
+  <data name="MDM based device compliance" xml:space="preserve">
+    <value>Kepatuhan perangkat berbasis MDM</value>
+  </data>
   <data name="Mailcow" xml:space="preserve">
     <value>Mailcow</value>
   </data>
@@ -107,9 +110,6 @@
   </data>
   <data name="Max 1000 accounts" xml:space="preserve">
     <value>Maksimum 1000 akun</value>
-  </data>
-  <data name="MDM based device compliance" xml:space="preserve">
-    <value>Kepatuhan perangkat berbasis MDM</value>
   </data>
   <data name="On-premise AnduinOS Apkg" xml:space="preserve">
     <value>Paket AnduinOS di Lokasi Sendiri</value>
@@ -138,9 +138,6 @@
   <data name="Strengthen your business with flexible Open Source projects that run by Aiursoft." xml:space="preserve">
     <value>Perkuat bisnis Anda dengan proyek Open Source yang fleksibel yang dijalankan oleh Aiursoft.</value>
   </data>
-  <data name="tailored to your business needs" xml:space="preserve">
-    <value>disesuaikan dengan kebutuhan bisnis Anda</value>
-  </data>
   <data name="Talk to an Architect" xml:space="preserve">
     <value>Bicara dengan Arsitek</value>
   </data>
@@ -149,6 +146,9 @@
   </data>
   <data name="Zero Trust Yubikey Auth" xml:space="preserve">
     <value>Otentikasi Yubikey Zero Trust</value>
+  </data>
+  <data name="tailored to your business needs" xml:space="preserve">
+    <value>disesuaikan dengan kebutuhan bisnis Anda</value>
   </data>
 
 </root>
