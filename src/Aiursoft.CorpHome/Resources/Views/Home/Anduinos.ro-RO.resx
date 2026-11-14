@@ -24,6 +24,9 @@
   <data name="27 inch" xml:space="preserve">
     <value>27 inchi</value>
   </data>
+  <data name="ARM64 Support" xml:space="preserve">
+    <value>Suport ARM64</value>
+  </data>
   <data name="Add to Management Cloud and go live" xml:space="preserve">
     <value>Adăugați în Management Cloud și porniți</value>
   </data>
@@ -39,9 +42,6 @@
   <data name="AnduinOS 2.0 standard support ends in April 2031, as for the community edition. Enterprise services do not extend this release&apos;s security-update lifecycle. Service scope and subscription duration are specified in your agreement." xml:space="preserve">
     <value>Suportul standard pentru AnduinOS 2.0 se încheie în aprilie 2031, la fel ca în cazul ediției Community. Serviciile Enterprise nu prelungesc ciclul de viață al actualizărilor de securitate pentru această versiune. Domeniul serviciilor și durata abonamentului sunt specificate în contractul dumneavoastră.</value>
   </data>
-  <data name="AnduinOS device" xml:space="preserve">
-    <value>dispozitiv AnduinOS</value>
-  </data>
   <data name="AnduinOS Enterprise" xml:space="preserve">
     <value>AnduinOS Enterprise</value>
   </data>
@@ -50,6 +50,15 @@
   </data>
   <data name="AnduinOS Enterprise provides brand customisation, enabling you to replace the system logo with your own." xml:space="preserve">
     <value>AnduinOS Enterprise oferă personalizarea mărcii, permițându-vă să înlocuiți logo-ul sistemului cu al dumneavoastră.</value>
+  </data>
+  <data name="AnduinOS Kiosk" xml:space="preserve">
+    <value>AnduinOS Kiosk</value>
+  </data>
+  <data name="AnduinOS Management Cloud" xml:space="preserve">
+    <value>Noroc Cloud de gestionare AnduinOS</value>
+  </data>
+  <data name="AnduinOS device" xml:space="preserve">
+    <value>dispozitiv AnduinOS</value>
   </data>
   <data name="AnduinOS fleet" xml:space="preserve">
     <value>flotă AnduinOS</value>
@@ -66,12 +75,6 @@
   <data name="AnduinOS is based on Ubuntu&apos;s package base. It&apos;s compatible with most of the apt packages from Ubuntu. It&apos;s a perfect combination of experience and ecology." xml:space="preserve">
     <value>AnduinOS se bazează pe pachetele Ubuntu. Este compatibil cu majoritatea pachetelor apt din Ubuntu. Este o combinație perfectă între experiență și ecosistem.</value>
   </data>
-  <data name="AnduinOS Kiosk" xml:space="preserve">
-    <value>AnduinOS Kiosk</value>
-  </data>
-  <data name="AnduinOS Management Cloud" xml:space="preserve">
-    <value>Noroc Cloud de gestionare AnduinOS</value>
-  </data>
   <data name="Apkg Dashboard Screenshot" xml:space="preserve">
     <value>Captură de ecran a tabloului de bord Apkg</value>
   </data>
@@ -83,9 +86,6 @@
   </data>
   <data name="Architecture" xml:space="preserve">
     <value>Arhitectură</value>
-  </data>
-  <data name="ARM64 Support" xml:space="preserve">
-    <value>Suport ARM64</value>
   </data>
   <data name="At just 2.54 GB, the ISO is lightweight and fast to deploy across your fleet. The live environment lets your IT team quickly boot, repair, and diagnose systems without installing." xml:space="preserve">
     <value>Cu doar 2,4 GB, imaginea ISO este ușoară și se implementează rapid pe întreaga flotă. Mediul live permite echipei IT să repornească, reparați și diagnosticați sistemele rapid, fără a fi nevoie de instalare.</value>
@@ -186,9 +186,6 @@
   <data name="Device Management Integrations" xml:space="preserve">
     <value>Integrări pentru gestionarea dispozitivelor</value>
   </data>
-  <data name="digital signage and kiosk terminals" xml:space="preserve">
-    <value>panouri de afișare digitală și terminale tip kiosk</value>
-  </data>
   <data name="Disk Space" xml:space="preserve">
     <value>Spațiu pe disc</value>
   </data>
@@ -246,9 +243,6 @@
   <data name="Explore StatHub" xml:space="preserve">
     <value>Explorați StatHub</value>
   </data>
-  <data name="ext4 optional" xml:space="preserve">
-    <value>ext4 opțional</value>
-  </data>
   <data name="Familiar UX" xml:space="preserve">
     <value>Interfață familiară</value>
   </data>
@@ -270,14 +264,14 @@
   <data name="Fully On-Premise" xml:space="preserve">
     <value>Complet On-Premise</value>
   </data>
+  <data name="GPL-v3 License" xml:space="preserve">
+    <value>Licență GPL-v3</value>
+  </data>
   <data name="Get the AnduinOS image from our site" xml:space="preserve">
     <value>Descărcați imaginea AnduinOS de pe site-ul nostru</value>
   </data>
   <data name="Get up-to-the-second updates on every AnduinOS device&apos;s CPU, memory, disk, and network usage." xml:space="preserve">
     <value>Primiți actualizări la fiecare secundă privind utilizarea CPU, memoriei, discului și a rețelei pentru fiecare dispozitiv AnduinOS.</value>
-  </data>
-  <data name="GPL-v3 License" xml:space="preserve">
-    <value>Licență GPL-v3</value>
   </data>
   <data name="Graphical applications are installed via Flatpak, and keep themselves separate from the base system. They also allow for fine-grained control over their permissions." xml:space="preserve">
     <value>Aplicațiile grafice sunt instalate prin Flatpak și rămân separate de sistemul de bază. Acestea permit, de asemenea, un control fin asupra permisiunilor lor.</value>
@@ -315,6 +309,9 @@
   <data name="Kiosk mode prevents unauthorized access. Users can only interact with your approved application, keeping your deployment secure." xml:space="preserve">
     <value>Modul kiosk previne accesul neautorizat. Utilizatorii pot interacționa doar cu aplicația aprobată de dumneavoastră, menținând deployment-ul sigur.</value>
   </data>
+  <data name="LTS Support" xml:space="preserve">
+    <value>Suport LTS</value>
+  </data>
   <data name="Lightweight Agents" xml:space="preserve">
     <value>Agenți ușori</value>
   </data>
@@ -333,14 +330,8 @@
   <data name="Low-overhead agents collect metrics without impacting your AnduinOS devices&apos; performance. Deploy in seconds with Docker." xml:space="preserve">
     <value>Agenți cu consum redus colectează metrici fără a afecta performanța dispozitivelor AnduinOS. Desfășurați în câteva secunde cu Docker.</value>
   </data>
-  <data name="LTS Support" xml:space="preserve">
-    <value>Suport LTS</value>
-  </data>
   <data name="Managed Update Rollouts" xml:space="preserve">
     <value>Implementarea controlată a actualizărilor</value>
-  </data>
-  <data name="management for your fleet" xml:space="preserve">
-    <value>gestionarea flotei dumneavoastră</value>
   </data>
   <data name="Memory Compression" xml:space="preserve">
     <value>Comprimarea memoriei</value>
@@ -378,9 +369,6 @@
   <data name="Open Source" xml:space="preserve">
     <value>Open Source</value>
   </data>
-  <data name="or" xml:space="preserve">
-    <value>sau</value>
-  </data>
   <data name="Package Distribution" xml:space="preserve">
     <value>Distribuția pachetelor</value>
   </data>
@@ -410,9 +398,6 @@
   </data>
   <data name="Processor" xml:space="preserve">
     <value>Procesor</value>
-  </data>
-  <data name="quad-core" xml:space="preserve">
-    <value>quad-core</value>
   </data>
   <data name="RAM" xml:space="preserve">
     <value>RAM</value>
@@ -519,11 +504,11 @@
   <data name="The GNOME-based desktop environment has beautiful interfaces and human-computer interactions that fit user habits, allowing you to quickly get started with AnduinOS without too much learning cost." xml:space="preserve">
     <value>Mediul desktop bazat pe GNOME are interfețe frumoase și interacțiuni om-calculator adaptate obiceiurilor utilizatorilor, permițându-vă să începeți rapid utilizarea AnduinOS fără un efort prea mare de învățare.</value>
   </data>
-  <data name="The ideal solution for" xml:space="preserve">
-    <value>Soluția ideală pentru</value>
-  </data>
   <data name="The ISO is just 2.4GB in size. Similar to Ubuntu, it is simple to install and can meet your daily needs without additional configuration or complicated operations." xml:space="preserve">
     <value>Fișierul ISO are doar 2,4 GB. Similar cu Ubuntu, este ușor de instalat și poate satisface nevoile zilnice fără configurare suplimentară sau operațiuni complicate.</value>
+  </data>
+  <data name="The ideal solution for" xml:space="preserve">
+    <value>Soluția ideală pentru</value>
   </data>
   <data name="The operating system your enterprise needs — familiar, beautiful, stable, mature, and easy to manage. AnduinOS Enterprise is built on Linux 7.0, GNOME 50, and Ubuntu 26.04, keeping your team in a comfortable, productive environment." xml:space="preserve">
     <value>Sistemul de operare de care are nevoie afacerea dumneavoastră — familiar, atractiv, stabil, matur și ușor de administrat. AnduinOS Enterprise este construit pe Linux 7.0, GNOME 50 și Ubuntu 26.04, oferindu-vă echipei un mediu confortabil și productiv.</value>
@@ -537,11 +522,11 @@
   <data name="Turn any screen into a kiosk" xml:space="preserve">
     <value>Transformați orice ecran într-un chioșc</value>
   </data>
-  <data name="Ubuntu Base" xml:space="preserve">
-    <value>Bază Ubuntu</value>
-  </data>
   <data name="UI Toolkit" xml:space="preserve">
     <value>Pachet de instrumente UI</value>
+  </data>
+  <data name="Ubuntu Base" xml:space="preserve">
+    <value>Bază Ubuntu</value>
   </data>
   <data name="Update and restart policies are configured for your deployment. Test releases before rollout and schedule maintenance for changes that require downtime." xml:space="preserve">
     <value>Politicile de actualizare și repornire sunt configurate pentru implementarea dvs. Testați versiunile înainte de lansare și programați lucrările de mentenanță pentru modificările care necesită întreruperea serviciului.</value>
@@ -564,23 +549,38 @@
   <data name="Why choose AnduinOS?" xml:space="preserve">
     <value>De ce să alegeți AnduinOS?</value>
   </data>
-  <data name="with Apkg" xml:space="preserve">
-    <value>cu Apkg</value>
-  </data>
   <data name="With just a few clicks, you can have AnduinOS running on any machine. Enjoy automatic updates, built-in security, and remote management from the cloud — so once deployed, it just works." xml:space="preserve">
     <value>Cu doar câțiva clițuri, puteți rula AnduinOS pe orice computer. Bucurați-vă de actualizări automate, securitate integrată și management de la distanță din cloud — astfel, odată instalat, funcționează perfect.</value>
-  </data>
-  <data name="with Secure Boot" xml:space="preserve">
-    <value>cu Secure Boot</value>
-  </data>
-  <data name="with StatHub" xml:space="preserve">
-    <value>cu StatHub</value>
   </data>
   <data name="Without Snap" xml:space="preserve">
     <value>Fără Snap</value>
   </data>
   <data name="Write the image to a USB drive" xml:space="preserve">
     <value>Scrie imaginea pe o unitate USB</value>
+  </data>
+  <data name="digital signage and kiosk terminals" xml:space="preserve">
+    <value>panouri de afișare digitală și terminale tip kiosk</value>
+  </data>
+  <data name="ext4 optional" xml:space="preserve">
+    <value>ext4 opțional</value>
+  </data>
+  <data name="management for your fleet" xml:space="preserve">
+    <value>gestionarea flotei dumneavoastră</value>
+  </data>
+  <data name="or" xml:space="preserve">
+    <value>sau</value>
+  </data>
+  <data name="quad-core" xml:space="preserve">
+    <value>quad-core</value>
+  </data>
+  <data name="with Apkg" xml:space="preserve">
+    <value>cu Apkg</value>
+  </data>
+  <data name="with Secure Boot" xml:space="preserve">
+    <value>cu Secure Boot</value>
+  </data>
+  <data name="with StatHub" xml:space="preserve">
+    <value>cu StatHub</value>
   </data>
 
 </root>

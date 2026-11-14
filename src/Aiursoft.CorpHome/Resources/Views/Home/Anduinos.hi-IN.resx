@@ -24,6 +24,9 @@
   <data name="27 inch" xml:space="preserve">
     <value>27 इंच</value>
   </data>
+  <data name="ARM64 Support" xml:space="preserve">
+    <value>ARM64 समर्थन</value>
+  </data>
   <data name="Add to Management Cloud and go live" xml:space="preserve">
     <value>प्रबंधन क्लाउड में जोड़ें और लाइव जाएं</value>
   </data>
@@ -39,9 +42,6 @@
   <data name="AnduinOS 2.0 standard support ends in April 2031, as for the community edition. Enterprise services do not extend this release&apos;s security-update lifecycle. Service scope and subscription duration are specified in your agreement." xml:space="preserve">
     <value>AnduinOS 2.0 के सामुदायिक संस्करण की तरह, इसका मानक समर्थन अप्रैल 2031 में समाप्त हो जाएगा। एंटरप्राइज़ सेवाएँ इस रिलीज़ के सुरक्षा अपडेट की अवधि को आगे नहीं बढ़ाती हैं। सेवा का दायरा और सदस्यता की अवधि आपके अनुबंध में निर्दिष्ट हैं।</value>
   </data>
-  <data name="AnduinOS device" xml:space="preserve">
-    <value>AnduinOS डिवाइस</value>
-  </data>
   <data name="AnduinOS Enterprise" xml:space="preserve">
     <value>AnduinOS एंटरप्राइज़</value>
   </data>
@@ -50,6 +50,15 @@
   </data>
   <data name="AnduinOS Enterprise provides brand customisation, enabling you to replace the system logo with your own." xml:space="preserve">
     <value>AnduinOS Enterprise ब्रांड कस्टमाइजेशन प्रदान करता है, जिससे आप सिस्टम लोगो को अपने लोगो से बदल सकते हैं।</value>
+  </data>
+  <data name="AnduinOS Kiosk" xml:space="preserve">
+    <value>एंडुइनओएस कियोस्क</value>
+  </data>
+  <data name="AnduinOS Management Cloud" xml:space="preserve">
+    <value>एंडुइनओएस मैनेजमेंट क्लाउड</value>
+  </data>
+  <data name="AnduinOS device" xml:space="preserve">
+    <value>AnduinOS डिवाइस</value>
   </data>
   <data name="AnduinOS fleet" xml:space="preserve">
     <value>AnduinOS फ्लीट</value>
@@ -66,12 +75,6 @@
   <data name="AnduinOS is based on Ubuntu&apos;s package base. It&apos;s compatible with most of the apt packages from Ubuntu. It&apos;s a perfect combination of experience and ecology." xml:space="preserve">
     <value>AnduinOS, Ubuntu के पैकेज बेस पर आधारित है। यह Ubuntu के अधिकांश apt पैकेजों के साथ संगत है। यह अनुभव और इकोसिस्टम का एक आदर्श संयोजन है।</value>
   </data>
-  <data name="AnduinOS Kiosk" xml:space="preserve">
-    <value>एंडुइनओएस कियोस्क</value>
-  </data>
-  <data name="AnduinOS Management Cloud" xml:space="preserve">
-    <value>एंडुइनओएस मैनेजमेंट क्लाउड</value>
-  </data>
   <data name="Apkg Dashboard Screenshot" xml:space="preserve">
     <value>Apkg डैशबोर्ड स्क्रीनशॉट</value>
   </data>
@@ -83,9 +86,6 @@
   </data>
   <data name="Architecture" xml:space="preserve">
     <value>आर्किटेक्चर</value>
-  </data>
-  <data name="ARM64 Support" xml:space="preserve">
-    <value>ARM64 समर्थन</value>
   </data>
   <data name="At just 2.54 GB, the ISO is lightweight and fast to deploy across your fleet. The live environment lets your IT team quickly boot, repair, and diagnose systems without installing." xml:space="preserve">
     <value>केवल 2.4 जीबी में, आईएसओ हल्का और आपकी फ्लीट में तेजी से तैनात करने के लिए है। लाइव वातावरण आपके आईटी टीम को बिना स्थापित किए सिस्टम को तेजी से बूट, मरम्मत और निदान करने की अनुमति देता है।</value>
@@ -186,9 +186,6 @@
   <data name="Device Management Integrations" xml:space="preserve">
     <value>डिवाइस प्रबंधन एकीकरण</value>
   </data>
-  <data name="digital signage and kiosk terminals" xml:space="preserve">
-    <value>डिजिटल साइनिज और किओस्क टर्मिनल</value>
-  </data>
   <data name="Disk Space" xml:space="preserve">
     <value>डिस्क स्थान</value>
   </data>
@@ -246,9 +243,6 @@
   <data name="Explore StatHub" xml:space="preserve">
     <value>StatHub खोजें</value>
   </data>
-  <data name="ext4 optional" xml:space="preserve">
-    <value>ext4 वैकल्पिक</value>
-  </data>
   <data name="Familiar UX" xml:space="preserve">
     <value>परिचित UX</value>
   </data>
@@ -270,14 +264,14 @@
   <data name="Fully On-Premise" xml:space="preserve">
     <value>सम्पूर्ण रूप से ऑन-प्रेमिस</value>
   </data>
+  <data name="GPL-v3 License" xml:space="preserve">
+    <value>GPL-v3 लाइसेंस</value>
+  </data>
   <data name="Get the AnduinOS image from our site" xml:space="preserve">
     <value>हमारी साइट से AnduinOS इमेज प्राप्त करें</value>
   </data>
   <data name="Get up-to-the-second updates on every AnduinOS device&apos;s CPU, memory, disk, and network usage." xml:space="preserve">
     <value>हर AnduinOS डिवाइस के CPU, मेमोरी, डिस्क और नेटवर्क उपयोग पर सेकंड-दर-सेकंड अपडेट पाएं।</value>
-  </data>
-  <data name="GPL-v3 License" xml:space="preserve">
-    <value>GPL-v3 लाइसेंस</value>
   </data>
   <data name="Graphical applications are installed via Flatpak, and keep themselves separate from the base system. They also allow for fine-grained control over their permissions." xml:space="preserve">
     <value>ग्राफिकल एप्लीकेशन Flatpak के माध्यम से स्थापित किए जाते हैं, और वे बेस सिस्टम से स्वयं को अलग रखते हैं। वे अपने अनुमतियों पर बारीक नियंत्रण की भी अनुमति देते हैं।</value>
@@ -315,6 +309,9 @@
   <data name="Kiosk mode prevents unauthorized access. Users can only interact with your approved application, keeping your deployment secure." xml:space="preserve">
     <value>कियोस्क मोड अनुमतिहीन पहुंच को रोकता है। उपयोगकर्ता केवल आपकी अनुमोदित एप्लिकेशन के साथ इंटरैक्ट कर सकते हैं, जिससे आपकी डिप्लॉयमेंट सुरक्षित रहती है।</value>
   </data>
+  <data name="LTS Support" xml:space="preserve">
+    <value>LTS समर्थन</value>
+  </data>
   <data name="Lightweight Agents" xml:space="preserve">
     <value>हल्के एजेंट्स</value>
   </data>
@@ -333,14 +330,8 @@
   <data name="Low-overhead agents collect metrics without impacting your AnduinOS devices&apos; performance. Deploy in seconds with Docker." xml:space="preserve">
     <value>कम ओवरहेड वाले एजेंट आपके AnduinOS डिवाइसों के प्रदर्शन को प्रभावित किए बिना मेट्रिक्स एकत्र करते हैं। Docker के साथ सेकंडों में डिप्लॉय करें।</value>
   </data>
-  <data name="LTS Support" xml:space="preserve">
-    <value>LTS समर्थन</value>
-  </data>
   <data name="Managed Update Rollouts" xml:space="preserve">
     <value>प्रबंधित अपडेट रोलआउट</value>
-  </data>
-  <data name="management for your fleet" xml:space="preserve">
-    <value>अपनी फ्लीट के लिए प्रबंधन</value>
   </data>
   <data name="Memory Compression" xml:space="preserve">
     <value>मेमोरी संपीड़न</value>
@@ -378,9 +369,6 @@
   <data name="Open Source" xml:space="preserve">
     <value>ओपन सोर्स</value>
   </data>
-  <data name="or" xml:space="preserve">
-    <value>या</value>
-  </data>
   <data name="Package Distribution" xml:space="preserve">
     <value>पैकेज वितरण</value>
   </data>
@@ -410,9 +398,6 @@
   </data>
   <data name="Processor" xml:space="preserve">
     <value>प्रोसेसर</value>
-  </data>
-  <data name="quad-core" xml:space="preserve">
-    <value>क्वाड-कोर</value>
   </data>
   <data name="RAM" xml:space="preserve">
     <value>आरएएम</value>
@@ -519,11 +504,11 @@
   <data name="The GNOME-based desktop environment has beautiful interfaces and human-computer interactions that fit user habits, allowing you to quickly get started with AnduinOS without too much learning cost." xml:space="preserve">
     <value>GNOME-आधारित डेस्कटॉप वातावरण में सुंदर इंटरफ़ेस और मानव-कंप्यूटर इंटरैक्शन हैं जो उपयोगकर्ता की आदतों के अनुरूप होते हैं, जिससे आप AnduinOS को सीखने की अधिक कीमत के बिना जल्दी शुरू कर सकते हैं।</value>
   </data>
-  <data name="The ideal solution for" xml:space="preserve">
-    <value>के लिए आदर्श समाधान</value>
-  </data>
   <data name="The ISO is just 2.4GB in size. Similar to Ubuntu, it is simple to install and can meet your daily needs without additional configuration or complicated operations." xml:space="preserve">
     <value>ISO का आकार केवल 2.4GB है। Ubuntu की तरह, इसकी स्थापना सरल है और बिना किसी अतिरिक्त विन्यास या जटिल संचालन के यह आपकी दैनिक आवश्यकताओं को पूरा कर सकती है।</value>
+  </data>
+  <data name="The ideal solution for" xml:space="preserve">
+    <value>के लिए आदर्श समाधान</value>
   </data>
   <data name="The operating system your enterprise needs — familiar, beautiful, stable, mature, and easy to manage. AnduinOS Enterprise is built on Linux 7.0, GNOME 50, and Ubuntu 26.04, keeping your team in a comfortable, productive environment." xml:space="preserve">
     <value>आपकी एंटरप्राइज़ को जो ऑपरेटिंग सिस्टम चाहिए — परिचित, सुंदर, स्थिर, परिपक्व और प्रबंधित करने में आसान। AnduinOS Enterprise, Linux 7.0, GNOME 50 और Ubuntu 26.04 पर बनाया गया है, जिससे आपकी टीम एक आरामदायक और उत्पादक वातावरण में रहती है।</value>
@@ -537,11 +522,11 @@
   <data name="Turn any screen into a kiosk" xml:space="preserve">
     <value>किसी भी स्क्रीन को कायस्क में बदलें</value>
   </data>
-  <data name="Ubuntu Base" xml:space="preserve">
-    <value>यूबंटू बेस</value>
-  </data>
   <data name="UI Toolkit" xml:space="preserve">
     <value>यूआई टूलकिट</value>
+  </data>
+  <data name="Ubuntu Base" xml:space="preserve">
+    <value>यूबंटू बेस</value>
   </data>
   <data name="Update and restart policies are configured for your deployment. Test releases before rollout and schedule maintenance for changes that require downtime." xml:space="preserve">
     <value>आपकी तैनाती के लिए अपडेट और रीस्टार्ट नीतियाँ कॉन्फ़िगर की गई हैं। रोलआउट से पहले रिलीज़ का परीक्षण करें और जिन बदलावों के लिए डाउनटाइम आवश्यक है, उनके लिए रखरखाव का समय निर्धारित करें।</value>
@@ -564,23 +549,38 @@
   <data name="Why choose AnduinOS?" xml:space="preserve">
     <value>AnduinOS क्यों चुनें?</value>
   </data>
-  <data name="with Apkg" xml:space="preserve">
-    <value>Apkg के साथ</value>
-  </data>
   <data name="With just a few clicks, you can have AnduinOS running on any machine. Enjoy automatic updates, built-in security, and remote management from the cloud — so once deployed, it just works." xml:space="preserve">
     <value>बस कुछ क्लिक करके, आप किसी भी मशीन पर AnduinOS चला सकते हैं। स्वचालित अपडेट, बिल्ट-इन सुरक्षा और क्लाउड से दूरस्थ प्रबंधन का आनंद लें — ताकि एक बार तैनात होने के बाद, यह बिना किसी समस्या के काम करता है।</value>
-  </data>
-  <data name="with Secure Boot" xml:space="preserve">
-    <value>सिक्योर बूट के साथ</value>
-  </data>
-  <data name="with StatHub" xml:space="preserve">
-    <value>StatHub के साथ</value>
   </data>
   <data name="Without Snap" xml:space="preserve">
     <value>स्नैप के बिना</value>
   </data>
   <data name="Write the image to a USB drive" xml:space="preserve">
     <value>USB ड्राइव पर इमेज लिखें</value>
+  </data>
+  <data name="digital signage and kiosk terminals" xml:space="preserve">
+    <value>डिजिटल साइनिज और किओस्क टर्मिनल</value>
+  </data>
+  <data name="ext4 optional" xml:space="preserve">
+    <value>ext4 वैकल्पिक</value>
+  </data>
+  <data name="management for your fleet" xml:space="preserve">
+    <value>अपनी फ्लीट के लिए प्रबंधन</value>
+  </data>
+  <data name="or" xml:space="preserve">
+    <value>या</value>
+  </data>
+  <data name="quad-core" xml:space="preserve">
+    <value>क्वाड-कोर</value>
+  </data>
+  <data name="with Apkg" xml:space="preserve">
+    <value>Apkg के साथ</value>
+  </data>
+  <data name="with Secure Boot" xml:space="preserve">
+    <value>सिक्योर बूट के साथ</value>
+  </data>
+  <data name="with StatHub" xml:space="preserve">
+    <value>StatHub के साथ</value>
   </data>
 
 </root>

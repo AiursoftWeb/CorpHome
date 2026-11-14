@@ -30,9 +30,6 @@
   <data name="A software-only delivery would not solve the problem either. Even a well-designed platform cannot provide the expected performance or reliability when its underlying hardware is unsuitable or poorly integrated. ChopInsight needed a coordinated approach that could preserve existing investments, add computing capacity where necessary, and support conventional applications and AI workloads through a common management model." xml:space="preserve">
     <value>Giải pháp chỉ dựa trên phần mềm cũng không thể giải quyết được vấn đề. Ngay cả một nền tảng được thiết kế tốt cũng không thể đảm bảo hiệu suất hoặc độ tin cậy như mong đợi khi phần cứng nền tảng không phù hợp hoặc tích hợp kém. ChopInsight cần một phương pháp tiếp cận đồng bộ để bảo tồn các khoản đầu tư hiện có, bổ sung công suất tính toán khi cần thiết và hỗ trợ cả ứng dụng truyền thống lẫn khối lượng công việc AI thông qua một mô hình quản lý chung.</value>
   </data>
-  <data name="About ChopInsight" xml:space="preserve">
-    <value>Giới thiệu về ChopInsight</value>
-  </data>
   <data name="AI access" xml:space="preserve">
     <value>Truy cập AI</value>
   </data>
@@ -44,6 +41,9 @@
   </data>
   <data name="AI introduced a second, closely related challenge. Suitable computing resources could be expensive and complex to specify. ChopInsight needed to avoid hardware that might later prove unsuitable for its software or operational requirements, while simply replacing equipment would have ignored the value of its existing servers." xml:space="preserve">
     <value>AI đã đưa ra một thách thức thứ hai có liên quan chặt chẽ. Các tài nguyên tính toán phù hợp có thể đắt đỏ và phức tạp để xác định. ChopInsight cần tránh phần cứng có thể không phù hợp với yêu cầu phần mềm hoặc vận hành của mình sau này, trong khi việc chỉ thay thế thiết bị sẽ bỏ qua giá trị của các máy chủ hiện có.</value>
+  </data>
+  <data name="About ChopInsight" xml:space="preserve">
+    <value>Giới thiệu về ChopInsight</value>
   </data>
   <data name="Aiursoft assessed ChopInsight’s physical equipment, computing resources, application requirements and future AI plans together. Performance, stability, cost and future expansion informed a single design, making hardware selection and adaptation part of the service rather than a separate procurement exercise." xml:space="preserve">
     <value>Aiursoft đã đánh giá đồng bộ thiết bị vật lý, tài nguyên tính toán, yêu cầu ứng dụng và kế hoạch AI trong tương lai của ChopInsight. Hiệu năng, độ ổn định, chi phí và khả năng mở rộng trong tương lai đã định hướng một thiết kế thống nhất, giúp việc lựa chọn và thích ứng phần cứng trở thành một phần của dịch vụ thay vì là quy trình mua sắm riêng biệt.</value>

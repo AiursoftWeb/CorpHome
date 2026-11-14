@@ -66,20 +66,20 @@
   <data name="Custom Container Development" xml:space="preserve">
     <value>Dezvoltare de containere personalizate</value>
   </data>
-  <data name="Custom speech synthesis/recognition, search integration &amp; deep investigation pipelines" xml:space="preserve">
-    <value>Sinteza și recunoașterea vocală personalizate, integrarea căutării și fluxuri de investigații adânci</value>
-  </data>
   <data name="Custom TTS / STT, Search Engine &amp; Deep Research" xml:space="preserve">
     <value>TTS / STT personalizate, motor de căutare și cercetare avansată</value>
+  </data>
+  <data name="Custom speech synthesis/recognition, search integration &amp; deep investigation pipelines" xml:space="preserve">
+    <value>Sinteza și recunoașterea vocală personalizate, integrarea căutării și fluxuri de investigații adânci</value>
   </data>
   <data name="Deployment &amp; Hosting" xml:space="preserve">
     <value>Deplasare și găzduire</value>
   </data>
-  <data name="Device policy integration with scope and supported platforms agreed before deployment" xml:space="preserve">
-    <value>Integrarea politicii pentru dispozitive, cu domeniul de aplicare și platformele acceptate convenite înainte de implementare</value>
-  </data>
   <data name="DevOps &amp; Engineering" xml:space="preserve">
     <value>DevOps &amp; Engineering</value>
+  </data>
+  <data name="Device policy integration with scope and supported platforms agreed before deployment" xml:space="preserve">
+    <value>Integrarea politicii pentru dispozitive, cu domeniul de aplicare și platformele acceptate convenite înainte de implementare</value>
   </data>
   <data name="Document Conversion" xml:space="preserve">
     <value>Conversie documente</value>
@@ -105,6 +105,9 @@
   <data name="GitLab is a trademark of GitLab Inc. Aiursoft provides deployment, hosting, and integration services for GitLab — we are not affiliated with or endorsed by GitLab Inc. The GitLab Community Edition (CE) is MIT-licensed and can be deployed freely. The GitLab Enterprise Edition (EE) requires a separate license purchased from GitLab Inc. We can assist you with procuring the appropriate GitLab EE license, or you may choose to remove this item from your plan." xml:space="preserve">
     <value>GitLab este o marcă înregistrată a GitLab Inc. Aiursoft oferă servicii de implementare, găzduire și integrare pentru GitLab — nu suntem afiliați sau recomandați de GitLab Inc. Ediția Community (CE) a GitLab este licențiată sub MIT și poate fi implementată liber. Ediția Enterprise (EE) a GitLab necesită o licență separată achiziționată de la GitLab Inc. Vă putem asista în obținerea licenței GitLab EE adecvate, sau puteți alege să eliminați acest element din planul dumneavoastră.</value>
   </data>
+  <data name="HR &amp; Org Portal" xml:space="preserve">
+    <value>Portal HR &amp; Organizațional</value>
+  </data>
   <data name="Hacker" xml:space="preserve">
     <value>Hacker</value>
   </data>
@@ -117,9 +120,6 @@
   <data name="Hosted by Aiursoft, not on-premise" xml:space="preserve">
     <value>Gazduit de Aiursoft, nu pe-premise</value>
   </data>
-  <data name="HR &amp; Org Portal" xml:space="preserve">
-    <value>Portal HR &amp; Organizațional</value>
-  </data>
   <data name="Identity &amp; Security" xml:space="preserve">
     <value>Identitate și securitate</value>
   </data>
@@ -128,6 +128,9 @@
   </data>
   <data name="Local LLM API Gateway" xml:space="preserve">
     <value>Gateway API LLM local</value>
+  </data>
+  <data name="MDM Device Compliance" xml:space="preserve">
+    <value>Conformitate dispozitiv MDM</value>
   </data>
   <data name="Mailcow is open-source software (GPL-3.0). Aiursoft provides managed hosting, deployment, and integration services. Any custom modifications provided during your on-premise deployment are fully compliant with and distributed under the GPL-3.0 license." xml:space="preserve">
     <value>Mailcow este un software open-source (GPL-3.0). Aiursoft oferă servicii de hosting gestionat, implementare și integrare. Orice modificări personalizate furnizate în cadrul implementării on-premise sunt pe deplin conforme cu licența GPL-3.0 și sunt distribuite sub această licență.</value>
@@ -141,14 +144,8 @@
   <data name="Max User Accounts" xml:space="preserve">
     <value>Număr maxim de conturi de utilizator</value>
   </data>
-  <data name="MDM Device Compliance" xml:space="preserve">
-    <value>Conformitate dispozitiv MDM</value>
-  </data>
   <data name="Media &amp; Personal" xml:space="preserve">
     <value>Media &amp; Personal</value>
-  </data>
-  <data name="mo" xml:space="preserve">
-    <value>lună</value>
   </data>
   <data name="Multi-site &amp; HA capable" xml:space="preserve">
     <value>Multi-site și HA-capabilă</value>
@@ -174,17 +171,17 @@
   <data name="Online Code Execution" xml:space="preserve">
     <value>Executare cod online</value>
   </data>
+  <data name="PDF Processing &amp; Vector Database" xml:space="preserve">
+    <value>Procesare PDF și bază de date vectorială</value>
+  </data>
+  <data name="PDF ingestion &amp; vector store construction via PaddleOCR" xml:space="preserve">
+    <value>Ingestare PDF și construirea stocului vectorial prin PaddleOCR</value>
+  </data>
   <data name="PaddleOCR-based" xml:space="preserve">
     <value>bazat pe PaddleOCR</value>
   </data>
   <data name="Partial / limited" xml:space="preserve">
     <value>Parțial / limitat</value>
-  </data>
-  <data name="PDF ingestion &amp; vector store construction via PaddleOCR" xml:space="preserve">
-    <value>Ingestare PDF și construirea stocului vectorial prin PaddleOCR</value>
-  </data>
-  <data name="PDF Processing &amp; Vector Database" xml:space="preserve">
-    <value>Procesare PDF și bază de date vectorială</value>
   </data>
   <data name="Photo &amp; Video Management" xml:space="preserve">
     <value>Gestionare de fotografii și videoclipuri</value>
@@ -194,6 +191,9 @@
   </data>
   <data name="Repository Sync" xml:space="preserve">
     <value>Sincronizare depozit</value>
+  </data>
+  <data name="SSO / Identity Gateway" xml:space="preserve">
+    <value>SSO / Gateway de Identitate</value>
   </data>
   <data name="SaaS only" xml:space="preserve">
     <value>Doar SaaS</value>
@@ -222,9 +222,6 @@
   <data name="Source Control &amp; CI/CD" xml:space="preserve">
     <value>Control sursă &amp; CI/CD</value>
   </data>
-  <data name="SSO / Identity Gateway" xml:space="preserve">
-    <value>SSO / Gateway de Identitate</value>
-  </data>
   <data name="Startup" xml:space="preserve">
     <value>Startup</value>
   </data>
@@ -240,14 +237,11 @@
   <data name="Team Voting" xml:space="preserve">
     <value>Votarea echipei</value>
   </data>
-  <data name="Unlimited" xml:space="preserve">
-    <value>Nelimitat</value>
-  </data>
   <data name="URL Shortener" xml:space="preserve">
     <value>URL Shortener</value>
   </data>
-  <data name="user" xml:space="preserve">
-    <value>utilizator</value>
+  <data name="Unlimited" xml:space="preserve">
+    <value>Nelimitat</value>
   </data>
   <data name="What&apos;s Included" xml:space="preserve">
     <value>Ce este inclus</value>
@@ -257,6 +251,12 @@
   </data>
   <data name="Zero Trust Yubikey Auth" xml:space="preserve">
     <value>Autentificare Zero Trust cu Yubikey</value>
+  </data>
+  <data name="mo" xml:space="preserve">
+    <value>lună</value>
+  </data>
+  <data name="user" xml:space="preserve">
+    <value>utilizator</value>
   </data>
 
 </root>

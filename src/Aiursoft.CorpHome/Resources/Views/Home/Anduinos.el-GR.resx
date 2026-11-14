@@ -24,6 +24,9 @@
   <data name="27 inch" xml:space="preserve">
     <value>27 ίντσες</value>
   </data>
+  <data name="ARM64 Support" xml:space="preserve">
+    <value>Υποστήριξη ARM64</value>
+  </data>
   <data name="Add to Management Cloud and go live" xml:space="preserve">
     <value>Προσθήκη στο Management Cloud και ενεργοποίηση</value>
   </data>
@@ -39,9 +42,6 @@
   <data name="AnduinOS 2.0 standard support ends in April 2031, as for the community edition. Enterprise services do not extend this release&apos;s security-update lifecycle. Service scope and subscription duration are specified in your agreement." xml:space="preserve">
     <value>Η τυπική υποστήριξη του AnduinOS 2.0 λήγει τον Απρίλιο του 2031, όπως και στην έκδοση της κοινότητας. Οι υπηρεσίες για επιχειρήσεις δεν παρατείνουν τον κύκλο ζωής των ενημερώσεων ασφαλείας αυτής της έκδοσης. Το εύρος των υπηρεσιών και η διάρκεια της συνδρομής καθορίζονται στη συμφωνία σας.</value>
   </data>
-  <data name="AnduinOS device" xml:space="preserve">
-    <value>συσκευή AnduinOS</value>
-  </data>
   <data name="AnduinOS Enterprise" xml:space="preserve">
     <value>AnduinOS Enterprise</value>
   </data>
@@ -50,6 +50,15 @@
   </data>
   <data name="AnduinOS Enterprise provides brand customisation, enabling you to replace the system logo with your own." xml:space="preserve">
     <value>Το AnduinOS Enterprise παρέχει προσαρμογή εμπορικής επωνυμίας, επιτρέποντάς σας να αντικαταστήσετε το λογότυπο του συστήματος με το δικό σας.</value>
+  </data>
+  <data name="AnduinOS Kiosk" xml:space="preserve">
+    <value>AnduinOS Kiosk</value>
+  </data>
+  <data name="AnduinOS Management Cloud" xml:space="preserve">
+    <value>AnduinOS Management Cloud</value>
+  </data>
+  <data name="AnduinOS device" xml:space="preserve">
+    <value>συσκευή AnduinOS</value>
   </data>
   <data name="AnduinOS fleet" xml:space="preserve">
     <value>ο στόλος AnduinOS</value>
@@ -66,12 +75,6 @@
   <data name="AnduinOS is based on Ubuntu&apos;s package base. It&apos;s compatible with most of the apt packages from Ubuntu. It&apos;s a perfect combination of experience and ecology." xml:space="preserve">
     <value>Το AnduinOS βασίζεται στη βάση πακέτων του Ubuntu. Είναι συμβατό με τα περισσότερα πακέτα apt από το Ubuntu. Είναι ο τέλειος συνδυασμός εμπειρίας και οικολογικού συστήματος.</value>
   </data>
-  <data name="AnduinOS Kiosk" xml:space="preserve">
-    <value>AnduinOS Kiosk</value>
-  </data>
-  <data name="AnduinOS Management Cloud" xml:space="preserve">
-    <value>AnduinOS Management Cloud</value>
-  </data>
   <data name="Apkg Dashboard Screenshot" xml:space="preserve">
     <value>Εικόνα οθόνης πίνακα ελέγχου Apkg</value>
   </data>
@@ -83,9 +86,6 @@
   </data>
   <data name="Architecture" xml:space="preserve">
     <value>Αρχιτεκτονική</value>
-  </data>
-  <data name="ARM64 Support" xml:space="preserve">
-    <value>Υποστήριξη ARM64</value>
   </data>
   <data name="At just 2.54 GB, the ISO is lightweight and fast to deploy across your fleet. The live environment lets your IT team quickly boot, repair, and diagnose systems without installing." xml:space="preserve">
     <value>Με μέγεθος μόλις 2,4 GB, το ISO είναι ελαφρύ και γρήγορο στην εξυπηρέτηση σε όλο το δίκτυο συστημάτων. Το περιβάλλον ζωντανής εκτέλεσης επιτρέπει στην ομάδα IT σας να εκκινεί, να επισκευάζει και να διαγιγνώσκει συστήματα γρήγορα, χωρίς εγκατάσταση.</value>
@@ -186,9 +186,6 @@
   <data name="Device Management Integrations" xml:space="preserve">
     <value>Ενσωματώσεις διαχείρισης συσκευών</value>
   </data>
-  <data name="digital signage and kiosk terminals" xml:space="preserve">
-    <value>ηλεκτρονικά σημεία προβολής και τερματικά kiosk</value>
-  </data>
   <data name="Disk Space" xml:space="preserve">
     <value>Χώρος δίσκου</value>
   </data>
@@ -246,9 +243,6 @@
   <data name="Explore StatHub" xml:space="preserve">
     <value>Εξερευνήστε το StatHub</value>
   </data>
-  <data name="ext4 optional" xml:space="preserve">
-    <value>προαιρετικό ext4</value>
-  </data>
   <data name="Familiar UX" xml:space="preserve">
     <value>Ξεκάθαρο περιβάλλον χρήστη</value>
   </data>
@@ -270,14 +264,14 @@
   <data name="Fully On-Premise" xml:space="preserve">
     <value>Πλήρως On-Premise</value>
   </data>
+  <data name="GPL-v3 License" xml:space="preserve">
+    <value>Άδεια GPL-v3</value>
+  </data>
   <data name="Get the AnduinOS image from our site" xml:space="preserve">
     <value>Λήψη της εικόνας AnduinOS από την ιστοσελίδα μας</value>
   </data>
   <data name="Get up-to-the-second updates on every AnduinOS device&apos;s CPU, memory, disk, and network usage." xml:space="preserve">
     <value>Λάβετε ενημερώσεις σε πραγματικό χρόνο για τη χρήση CPU, μνήμης, δίσκου και δικτύου κάθε συσκευής AnduinOS.</value>
-  </data>
-  <data name="GPL-v3 License" xml:space="preserve">
-    <value>Άδεια GPL-v3</value>
   </data>
   <data name="Graphical applications are installed via Flatpak, and keep themselves separate from the base system. They also allow for fine-grained control over their permissions." xml:space="preserve">
     <value>Τα γραφικά προγράμματα εγκαθίστανται μέσω Flatpak και παραμένουν απομονωμένα από το βασικό σύστημα. Επιπλέον, επιτρέπουν λεπτομερή έλεγχο των δικαιωμάτων τους.</value>
@@ -315,6 +309,9 @@
   <data name="Kiosk mode prevents unauthorized access. Users can only interact with your approved application, keeping your deployment secure." xml:space="preserve">
     <value>Η λειτουργία Kiosk αποτρέπει την μη εξουσιοδοτημένη πρόσβαση. Οι χρήστες μπορούν να αλληλεπιδράσουν μόνο με την έγκριτη εφαρμογή σας, διατηρώντας ασφαλή την εγκατάστασή σας.</value>
   </data>
+  <data name="LTS Support" xml:space="preserve">
+    <value>Υποστήριξη LTS</value>
+  </data>
   <data name="Lightweight Agents" xml:space="preserve">
     <value>Ελαφριοί Πράκτορες</value>
   </data>
@@ -333,14 +330,8 @@
   <data name="Low-overhead agents collect metrics without impacting your AnduinOS devices&apos; performance. Deploy in seconds with Docker." xml:space="preserve">
     <value>Οι πράκτορες χαμηλού κόστους συλλέγουν μετρικές χωρίς να επηρεάζουν την απόδοση των συσκευών AnduinOS σας. Εγκαταστήστε σε δευτερόλεπτα με Docker.</value>
   </data>
-  <data name="LTS Support" xml:space="preserve">
-    <value>Υποστήριξη LTS</value>
-  </data>
   <data name="Managed Update Rollouts" xml:space="preserve">
     <value>Ελεγχόμενη διάθεση ενημερώσεων</value>
-  </data>
-  <data name="management for your fleet" xml:space="preserve">
-    <value>διαχείριση για το στόλο σας</value>
   </data>
   <data name="Memory Compression" xml:space="preserve">
     <value>Συμπίεση Μνήμης</value>
@@ -378,9 +369,6 @@
   <data name="Open Source" xml:space="preserve">
     <value>Ανοικτού Κώδικα</value>
   </data>
-  <data name="or" xml:space="preserve">
-    <value>ή</value>
-  </data>
   <data name="Package Distribution" xml:space="preserve">
     <value>Κατανομή Πακέτων</value>
   </data>
@@ -410,9 +398,6 @@
   </data>
   <data name="Processor" xml:space="preserve">
     <value>Επεξεργαστής</value>
-  </data>
-  <data name="quad-core" xml:space="preserve">
-    <value>τετραπύρηνος</value>
   </data>
   <data name="RAM" xml:space="preserve">
     <value>Μνήμη RAM</value>
@@ -519,11 +504,11 @@
   <data name="The GNOME-based desktop environment has beautiful interfaces and human-computer interactions that fit user habits, allowing you to quickly get started with AnduinOS without too much learning cost." xml:space="preserve">
     <value>Το περιβάλλον εργασίας βασισμένο στο GNOME διαθέτει όμορφες διεπαφές και αλληλεπιδράσεις ανθρώπου-η υπολογιστή που ταιριάζουν στις συνήθειες των χρηστών, επιτρέποντάς σας να ξεκινήσετε γρήγορα με το AnduinOS χωρίς μεγάλο κόστος εκμάθησης.</value>
   </data>
-  <data name="The ideal solution for" xml:space="preserve">
-    <value>Η ιδανική λύση για</value>
-  </data>
   <data name="The ISO is just 2.4GB in size. Similar to Ubuntu, it is simple to install and can meet your daily needs without additional configuration or complicated operations." xml:space="preserve">
     <value>Το ISO έχει μέγεθος μόνο 2,4 GB. Όπως και το Ubuntu, είναι απλό στην εγκατάσταση και μπορεί να καλύψει τις καθημερινές σας ανάγκες χωρίς επιπλέον διαμόρφωση ή περίπλοκες διαδικασίες.</value>
+  </data>
+  <data name="The ideal solution for" xml:space="preserve">
+    <value>Η ιδανική λύση για</value>
   </data>
   <data name="The operating system your enterprise needs — familiar, beautiful, stable, mature, and easy to manage. AnduinOS Enterprise is built on Linux 7.0, GNOME 50, and Ubuntu 26.04, keeping your team in a comfortable, productive environment." xml:space="preserve">
     <value>Το λειτουργικό σύστημα που χρειάζεται η επιχείρησή σας — οικείο, όμορφο, σταθερό, ώριμο και εύκολο στη διαχείριση. Το AnduinOS Enterprise βασίζεται στο Linux 7.0, το GNOME 50 και το Ubuntu 26.04, διατηρώντας την ομάδα σας σε ένα άνετο και παραγωγικό περιβάλλον.</value>
@@ -537,11 +522,11 @@
   <data name="Turn any screen into a kiosk" xml:space="preserve">
     <value>Μετατρέψτε οποιαδήποτε οθόνη σε κέντρο εξυπηρέτησης</value>
   </data>
-  <data name="Ubuntu Base" xml:space="preserve">
-    <value>Βάση Ubuntu</value>
-  </data>
   <data name="UI Toolkit" xml:space="preserve">
     <value>Σύνολο εργαλείων διεπαφής χρήστη</value>
+  </data>
+  <data name="Ubuntu Base" xml:space="preserve">
+    <value>Βάση Ubuntu</value>
   </data>
   <data name="Update and restart policies are configured for your deployment. Test releases before rollout and schedule maintenance for changes that require downtime." xml:space="preserve">
     <value>Οι πολιτικές ενημέρωσης και επανεκκίνησης έχουν ρυθμιστεί για την εγκατάστασή σας. Δοκιμάστε τις εκδόσεις πριν από τη διάθεσή τους και προγραμματίστε συντήρηση για αλλαγές που απαιτούν διακοπή λειτουργίας.</value>
@@ -564,23 +549,38 @@
   <data name="Why choose AnduinOS?" xml:space="preserve">
     <value>Γιατί να επιλέξετε το AnduinOS;</value>
   </data>
-  <data name="with Apkg" xml:space="preserve">
-    <value>με το Apkg</value>
-  </data>
   <data name="With just a few clicks, you can have AnduinOS running on any machine. Enjoy automatic updates, built-in security, and remote management from the cloud — so once deployed, it just works." xml:space="preserve">
     <value>Με μερικές μόνο κλικ, μπορείτε να τρέξετε το AnduinOS σε οποιονδήποτε υπολογιστή. Απολαύστε αυτόματες ενημερώσεις, ενσωματωμένη ασφάλεια και απομακρυσμένη διαχείριση από το cloud – οπότε μόλις τεθεί σε λειτουργία, απλώς δουλεύει.</value>
-  </data>
-  <data name="with Secure Boot" xml:space="preserve">
-    <value>με Secure Boot</value>
-  </data>
-  <data name="with StatHub" xml:space="preserve">
-    <value>με το StatHub</value>
   </data>
   <data name="Without Snap" xml:space="preserve">
     <value>Χωρίς Snap</value>
   </data>
   <data name="Write the image to a USB drive" xml:space="preserve">
     <value>Αποθηκεύστε την εικόνα σε μια μονάδα USB</value>
+  </data>
+  <data name="digital signage and kiosk terminals" xml:space="preserve">
+    <value>ηλεκτρονικά σημεία προβολής και τερματικά kiosk</value>
+  </data>
+  <data name="ext4 optional" xml:space="preserve">
+    <value>προαιρετικό ext4</value>
+  </data>
+  <data name="management for your fleet" xml:space="preserve">
+    <value>διαχείριση για το στόλο σας</value>
+  </data>
+  <data name="or" xml:space="preserve">
+    <value>ή</value>
+  </data>
+  <data name="quad-core" xml:space="preserve">
+    <value>τετραπύρηνος</value>
+  </data>
+  <data name="with Apkg" xml:space="preserve">
+    <value>με το Apkg</value>
+  </data>
+  <data name="with Secure Boot" xml:space="preserve">
+    <value>με Secure Boot</value>
+  </data>
+  <data name="with StatHub" xml:space="preserve">
+    <value>με το StatHub</value>
   </data>
 
 </root>

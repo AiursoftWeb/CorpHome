@@ -159,26 +159,26 @@
   <data name="Show Senparc in the trusted partners section." xml:space="preserve">
     <value>信頼できるパートナーセクションにSenparcを表示します。</value>
   </data>
-  <data name="Show the Voxihost partnership section on the home page." xml:space="preserve">
-    <value>ホームページにVoxihostのパートナーシップセクションを表示します。</value>
+  <data name="Show Voxihost Partnership" xml:space="preserve">
+    <value>Voxihostのパートナーシップを表示する</value>
   </data>
   <data name="Show Voxihost in the trusted partners section." xml:space="preserve">
     <value>信頼できるパートナーのセクションにVoxihostを表示する。</value>
   </data>
-  <data name="Show Voxihost Partnership" xml:space="preserve">
-    <value>Voxihostのパートナーシップを表示する</value>
-  </data>
-  <data name="The brand name displayed in the footer." xml:space="preserve">
-    <value>フッターに表示されるブランド名。</value>
-  </data>
-  <data name="The company name displayed when the page language is Simplified Chinese. Leave empty to use the default brand name." xml:space="preserve">
-    <value>ページ言語が簡体字中国語の場合に表示される会社名。デフォルトのブランド名を使用する場合は空白のままにしてください。</value>
+  <data name="Show the Voxihost partnership section on the home page." xml:space="preserve">
+    <value>ホームページにVoxihostのパートナーシップセクションを表示します。</value>
   </data>
   <data name="The HTTP(S) base URL of AlertCenter." xml:space="preserve">
     <value>AlertCenter の HTTP(S) ベース URL。</value>
   </data>
   <data name="The ICP license number for China mainland users. Leave empty to hide." xml:space="preserve">
     <value>中国本土ユーザー向けのICPライセンス番号。空欄のままにすると非表示になります。</value>
+  </data>
+  <data name="The brand name displayed in the footer." xml:space="preserve">
+    <value>フッターに表示されるブランド名。</value>
+  </data>
+  <data name="The company name displayed when the page language is Simplified Chinese. Leave empty to use the default brand name." xml:space="preserve">
+    <value>ページ言語が簡体字中国語の場合に表示される会社名。デフォルトのブランド名を使用する場合は空白のままにしてください。</value>
   </data>
   <data name="The logo of the project displayed in the navbar and footer. Support jpg, png, svg." xml:space="preserve">
     <value>ナビゲーションバーとフッターに表示されるプロジェクトのロゴ。jpg、png、svg形式をサポート。</value>

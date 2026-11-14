@@ -30,9 +30,6 @@
   <data name="A software-only delivery would not solve the problem either. Even a well-designed platform cannot provide the expected performance or reliability when its underlying hardware is unsuitable or poorly integrated. ChopInsight needed a coordinated approach that could preserve existing investments, add computing capacity where necessary, and support conventional applications and AI workloads through a common management model." xml:space="preserve">
     <value>Yalnızca yazılım tabanlı bir teslimat da sorunu çözmeyecekti. Altta yatan donanım uygun değilse veya kötü entegre edilmişse, iyi tasarlanmış bir platform bile beklenen performansı veya güvenilirliği sağlayamaz. ChopInsight, mevcut yatırımları koruyabilen, gerekli yerlerde hesaplama kapasitesini artırabilen ve geleneksel uygulamalar ile yapay zekâ iş yüklerini ortak bir yönetim modeli üzerinden destekleyebilen koordineli bir yaklaşıma ihtiyaç duyuyordu.</value>
   </data>
-  <data name="About ChopInsight" xml:space="preserve">
-    <value>ChopInsight Hakkında</value>
-  </data>
   <data name="AI access" xml:space="preserve">
     <value>Yapay zekâ erişimi</value>
   </data>
@@ -44,6 +41,9 @@
   </data>
   <data name="AI introduced a second, closely related challenge. Suitable computing resources could be expensive and complex to specify. ChopInsight needed to avoid hardware that might later prove unsuitable for its software or operational requirements, while simply replacing equipment would have ignored the value of its existing servers." xml:space="preserve">
     <value>Yapay zeka, yakından ilişkili ikinci bir zorluğu da beraberinde getirdi. Uygun hesaplama kaynakları pahalı olabilir ve bunları belirlemek karmaşık bir süreç olabilirdi. ChopInsight, yazılım veya operasyonel gereksinimleri için daha sonra uygun olmadığı ortaya çıkabilecek donanımdan kaçınmak zorundaydı; ancak ekipmanı basitçe değiştirmek, mevcut sunucularının değerini göz ardı etmek anlamına gelirdi.</value>
+  </data>
+  <data name="About ChopInsight" xml:space="preserve">
+    <value>ChopInsight Hakkında</value>
   </data>
   <data name="Aiursoft assessed ChopInsight’s physical equipment, computing resources, application requirements and future AI plans together. Performance, stability, cost and future expansion informed a single design, making hardware selection and adaptation part of the service rather than a separate procurement exercise." xml:space="preserve">
     <value>Aiursoft, ChopInsight&apos;in fiziksel ekipmanını, hesaplama kaynaklarını, uygulama gereksinimlerini ve gelecekteki yapay zeka planlarını birlikte değerlendirdi. Performans, kararlılık, maliyet ve gelecekteki genişleme tek bir tasarımı şekillendirdi; böylece donanım seçimi ve uyarlaması ayrı bir tedarik süreci olmak yerine hizmetin bir parçası haline geldi.</value>

@@ -54,11 +54,11 @@
   <data name="Contact Sales" xml:space="preserve">
     <value>聯絡銷售</value>
   </data>
-  <data name="Custom container development" xml:space="preserve">
-    <value>自訂容器開發</value>
-  </data>
   <data name="Custom Development Fee" xml:space="preserve">
     <value>定制開發費用</value>
+  </data>
+  <data name="Custom container development" xml:space="preserve">
+    <value>自訂容器開發</value>
   </data>
   <data name="Customized for your enterprise" xml:space="preserve">
     <value>為您的企業量身打造</value>
@@ -72,11 +72,11 @@
   <data name="Full Infrastructure Suite, on your local server" xml:space="preserve">
     <value>完整基礎設施套件，部署於您的本地服務器</value>
   </data>
-  <data name="Get a public cloud-like experience while hosting your applications in your own server." xml:space="preserve">
-    <value>在自有服務器上託管您的應用程序時，獲得類似公有雲的體驗。</value>
-  </data>
   <data name="Get Started" xml:space="preserve">
     <value>立即開始</value>
+  </data>
+  <data name="Get a public cloud-like experience while hosting your applications in your own server." xml:space="preserve">
+    <value>在自有服務器上託管您的應用程序時，獲得類似公有雲的體驗。</value>
   </data>
   <data name="GitLab, Ollama Gateway" xml:space="preserve">
     <value>GitLab、Ollama 閘道</value>
@@ -99,6 +99,9 @@
   <data name="Koel, Immich, Memos" xml:space="preserve">
     <value>Koel、Immich、Memos</value>
   </data>
+  <data name="MDM based device compliance" xml:space="preserve">
+    <value>基於 MDM 的裝置合規性</value>
+  </data>
   <data name="Mailcow" xml:space="preserve">
     <value>Mailcow</value>
   </data>
@@ -107,9 +110,6 @@
   </data>
   <data name="Max 1000 accounts" xml:space="preserve">
     <value>最多 1000 個帳戶</value>
-  </data>
-  <data name="MDM based device compliance" xml:space="preserve">
-    <value>基於 MDM 的裝置合規性</value>
   </data>
   <data name="On-premise AnduinOS Apkg" xml:space="preserve">
     <value>本地部署 AnduinOS Apkg</value>
@@ -138,9 +138,6 @@
   <data name="Strengthen your business with flexible Open Source projects that run by Aiursoft." xml:space="preserve">
     <value>以 Aiursoft 提供的靈活開源項目加強您的業務。</value>
   </data>
-  <data name="tailored to your business needs" xml:space="preserve">
-    <value>為您的業務需要而度身訂造</value>
-  </data>
   <data name="Talk to an Architect" xml:space="preserve">
     <value>與建築師洽談</value>
   </data>
@@ -149,6 +146,9 @@
   </data>
   <data name="Zero Trust Yubikey Auth" xml:space="preserve">
     <value>零信任 Yubikey 身份驗證</value>
+  </data>
+  <data name="tailored to your business needs" xml:space="preserve">
+    <value>為您的業務需要而度身訂造</value>
   </data>
 
 </root>

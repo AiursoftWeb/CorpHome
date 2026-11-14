@@ -48,17 +48,17 @@
   <data name="Organization Size" xml:space="preserve">
     <value>Kích thước tổ chức</value>
   </data>
-  <data name="The {0} is not a valid email address." xml:space="preserve">
-    <value>{0} không phải là địa chỉ email hợp lệ.</value>
-  </data>
-  <data name="The {0} is required." xml:space="preserve">
-    <value>Trường {0} là bắt buộc.</value>
-  </data>
   <data name="The verification code is required." xml:space="preserve">
     <value>Mã xác thực là bắt buộc.</value>
   </data>
   <data name="The verification code must be 4 characters." xml:space="preserve">
     <value>Mã xác thực phải dài 4 ký tự.</value>
+  </data>
+  <data name="The {0} is not a valid email address." xml:space="preserve">
+    <value>{0} không phải là địa chỉ email hợp lệ.</value>
+  </data>
+  <data name="The {0} is required." xml:space="preserve">
+    <value>Trường {0} là bắt buộc.</value>
   </data>
   <data name="Verification Code" xml:space="preserve">
     <value>Mã xác thực</value>

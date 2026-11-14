@@ -42,11 +42,11 @@
   <data name="8. Contact Us" xml:space="preserve">
     <value>8. Ota yhteyttä</value>
   </data>
-  <data name="Account Information:" xml:space="preserve">
-    <value>Tietotili:</value>
-  </data>
   <data name="AIURSOFT LIMITED" xml:space="preserve">
     <value>AIURSOFT LIMITED</value>
+  </data>
+  <data name="Account Information:" xml:space="preserve">
+    <value>Tietotili:</value>
   </data>
   <data name="Aiursoft Privacy Policy" xml:space="preserve">
     <value>Aiursoftin tietosuojakäytäntö</value>
@@ -87,14 +87,14 @@
   <data name="For Cloud-Hosted Plans (e.g., Aiursoft Substratum Core):" xml:space="preserve">
     <value>Pilvipohjaisille paketeille (esim. Aiursoft Substratum Core):</value>
   </data>
-  <data name="For on-premise deployments, cancellation simply terminates our support and update services. Your data remains entirely intact on your own servers, under your complete control." xml:space="preserve">
-    <value>Paikan päällä toteutetuissa asennuksissa peruutus lopettaa yksinkertaisesti tukipalvelumme ja päivityspalvelumme. Tietosi pysyvät täysin ehjinä omilla palvelimillasi, täysin sinun hallinnassasi.</value>
-  </data>
   <data name="For On-Premise Plans (e.g., Aiursoft Substrate S3 Startup &amp; S5 Enterprise):" xml:space="preserve">
     <value>Paikan päällä oleville suunnitelmiin (esim. Aiursoft Substrate S3 Startup &amp; S5 Enterprise):</value>
   </data>
   <data name="For On-Premise Plans (e.g., Aiursoft Substratum Startup &amp; Enterprise):" xml:space="preserve">
     <value>Paikallisen asennuksen suunnitelmille (esim. Aiursoft Substratum Startup &amp; Enterprise):</value>
+  </data>
+  <data name="For on-premise deployments, cancellation simply terminates our support and update services. Your data remains entirely intact on your own servers, under your complete control." xml:space="preserve">
+    <value>Paikan päällä toteutetuissa asennuksissa peruutus lopettaa yksinkertaisesti tukipalvelumme ja päivityspalvelumme. Tietosi pysyvät täysin ehjinä omilla palvelimillasi, täysin sinun hallinnassasi.</value>
   </data>
   <data name="For provisioning the underlying high-performance cloud infrastructure that powers our official websites and Cloud-Hosted (S1 Core) client instances." xml:space="preserve">
     <value>Virallisten verkkosivujemme ja pilvipohjaisten (S1 Core) asiakasinstanssien taustalla olevan suorituskykyisen pilvipohjaisen alustan tarjoamiseen.</value>

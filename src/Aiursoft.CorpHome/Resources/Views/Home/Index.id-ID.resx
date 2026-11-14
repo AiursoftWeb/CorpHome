@@ -51,9 +51,6 @@
   <data name="A modern, feature-rich, and highly extensible foundation for your next web application." xml:space="preserve">
     <value>Sebuah fondasi yang modern, kaya fitur, dan sangat dapat diperluas untuk aplikasi web Anda berikutnya.</value>
   </data>
-  <data name="Achieve more with Aiursoft Template" xml:space="preserve">
-    <value>Raih lebih banyak dengan Aiursoft Template</value>
-  </data>
   <data name="AI Agents Integration" xml:space="preserve">
     <value>Integrasi Agen AI</value>
   </data>
@@ -72,11 +69,11 @@
   <data name="AI-Powered Translations" xml:space="preserve">
     <value>Terjemahan Berbasis AI</value>
   </data>
+  <data name="Achieve more with Aiursoft Template" xml:space="preserve">
+    <value>Raih lebih banyak dengan Aiursoft Template</value>
+  </data>
   <data name="Air-Gapped Ready" xml:space="preserve">
     <value>Siap Air-Gapped</value>
-  </data>
-  <data name="Aiursoft is dedicated to bringing the spirit of Open-source and free software to every enterprise and individual." xml:space="preserve">
-    <value>Aiursoft berkomitmen untuk membawa semangat perangkat lunak Open-source dan bebas kepada setiap perusahaan dan individu.</value>
   </data>
   <data name="Aiursoft Substratum Core" xml:space="preserve">
     <value>Aiursoft Substratum Core</value>
@@ -90,14 +87,17 @@
   <data name="Aiursoft Template" xml:space="preserve">
     <value>Aiursoft Template</value>
   </data>
+  <data name="Aiursoft Template Screenshot" xml:space="preserve">
+    <value>Tangkapan Layar Template Aiursoft</value>
+  </data>
   <data name="Aiursoft Template is continuously optimized for the AI era, built with the most popular and reliable Open-source technologies. It has already produced dozens of mature applications delivered to enterprises. Aiursoft uses Template to help businesses develop custom solutions based on their core needs." xml:space="preserve">
     <value>Aiursoft Template terus dioptimalkan untuk era AI, dibangun dengan teknologi Open-source yang paling populer dan dapat diandalkan. Telah menghasilkan puluhan aplikasi matang yang telah diserahkan ke perusahaan-perusahaan. Aiursoft menggunakan Template untuk membantu bisnis mengembangkan solusi khusus berdasarkan kebutuhan inti mereka.</value>
   </data>
   <data name="Aiursoft Template is our definitive choice for enterprise projects! It&apos;s built for developers and is lightweight yet powerful. We can skip all the boilerplate for authentication and user management." xml:space="preserve">
     <value>Aiursoft Template adalah pilihan utama kami untuk proyek perusahaan! Template ini dibangun untuk pengembang, ringan namun bertenaga. Kami bisa melewati semua kode boilerplate untuk autentikasi dan manajemen pengguna.</value>
   </data>
-  <data name="Aiursoft Template Screenshot" xml:space="preserve">
-    <value>Tangkapan Layar Template Aiursoft</value>
+  <data name="Aiursoft is dedicated to bringing the spirit of Open-source and free software to every enterprise and individual." xml:space="preserve">
+    <value>Aiursoft berkomitmen untuk membawa semangat perangkat lunak Open-source dan bebas kepada setiap perusahaan dan individu.</value>
   </data>
   <data name="All Aiursoft servers are sourced from Voxihost. We help clients land on Voxihost infrastructure." xml:space="preserve">
     <value>Semua server Aiursoft bersumber dari Voxihost. Kami membantu klien menggunakan infrastruktur Voxihost.</value>
@@ -186,11 +186,11 @@
   <data name="Browse Source Code" xml:space="preserve">
     <value>Lihat Kode Sumber</value>
   </data>
-  <data name="Build once, run anywhere. Fully containerized architecture." xml:space="preserve">
-    <value>Bangun sekali, jalankan di mana saja. Arsitektur yang sepenuhnya terkontainerisasi.</value>
-  </data>
   <data name="Build Your Local Knowledge Base" xml:space="preserve">
     <value>Bangun Basis Pengetahuan Lokal Anda</value>
+  </data>
+  <data name="Build once, run anywhere. Fully containerized architecture." xml:space="preserve">
+    <value>Bangun sekali, jalankan di mana saja. Arsitektur yang sepenuhnya terkontainerisasi.</value>
   </data>
   <data name="Build your next big thing," xml:space="preserve">
     <value>Bangun hal besar berikutnya Anda,</value>
@@ -222,11 +222,11 @@
   <data name="Built-in RBAC for fine-grained permission management." xml:space="preserve">
     <value>RBAC bawaan untuk manajemen izin yang terperinci.</value>
   </data>
-  <data name="Built-in security controls support your deployment requirements." xml:space="preserve">
-    <value>Kontrol keamanan bawaan mendukung kebutuhan penerapan Anda.</value>
-  </data>
   <data name="Built-in User Management" xml:space="preserve">
     <value>Manajemen Pengguna Bawaan</value>
+  </data>
+  <data name="Built-in security controls support your deployment requirements." xml:space="preserve">
+    <value>Kontrol keamanan bawaan mendukung kebutuhan penerapan Anda.</value>
   </data>
   <data name="Code Audit &amp; Integration" xml:space="preserve">
     <value>Audit Kode &amp; Integrasi</value>
@@ -288,11 +288,11 @@
   <data name="Custom Branding" xml:space="preserve">
     <value>Branding Kustom</value>
   </data>
-  <data name="Custom container development" xml:space="preserve">
-    <value>Pengembangan wadah khusus</value>
-  </data>
   <data name="Custom Development Fee" xml:space="preserve">
     <value>Biaya Pengembangan Khusus</value>
+  </data>
+  <data name="Custom container development" xml:space="preserve">
+    <value>Pengembangan wadah khusus</value>
   </data>
   <data name="Customized for your enterprise" xml:space="preserve">
     <value>Disesuaikan untuk perusahaan Anda</value>
@@ -333,14 +333,14 @@
   <data name="Dev &amp; Prod" xml:space="preserve">
     <value>Dev &amp; Prod</value>
   </data>
+  <data name="DevOps Native" xml:space="preserve">
+    <value>Native DevOps</value>
+  </data>
   <data name="Develop exclusively in UTC while the system automatically converts and displays dates in the user&apos;s local time zone." xml:space="preserve">
     <value>Kembangkan secara eksklusif dalam UTC sementara sistem secara otomatis mengonversi dan menampilkan tanggal dalam zona waktu lokal pengguna.</value>
   </data>
   <data name="Developer Experience" xml:space="preserve">
     <value>Pengalaman Pengembang</value>
-  </data>
-  <data name="DevOps Native" xml:space="preserve">
-    <value>Native DevOps</value>
   </data>
   <data name="Discover AnduinOS" xml:space="preserve">
     <value>Temukan AnduinOS</value>
@@ -387,23 +387,23 @@
   <data name="Enterprise" xml:space="preserve">
     <value>Perusahaan</value>
   </data>
-  <data name="Enterprise business framework for the" xml:space="preserve">
-    <value>Kerangka kerja bisnis perusahaan untuk era</value>
-  </data>
   <data name="Enterprise C#" xml:space="preserve">
     <value>Enterprise C#</value>
-  </data>
-  <data name="Enterprise customers get round-the-clock telephone support, ensuring critical issues are addressed immediately." xml:space="preserve">
-    <value>Pelanggan perusahaan mendapatkan dukungan telepon 24 jam, memastikan masalah kritis ditangani segera.</value>
   </data>
   <data name="Enterprise Ready" xml:space="preserve">
     <value>Siap untuk Perusahaan</value>
   </data>
-  <data name="Enterprise scale deployment" xml:space="preserve">
-    <value>Penyerahan skala perusahaan</value>
-  </data>
   <data name="Enterprise Security" xml:space="preserve">
     <value>Keamanan Perusahaan</value>
+  </data>
+  <data name="Enterprise business framework for the" xml:space="preserve">
+    <value>Kerangka kerja bisnis perusahaan untuk era</value>
+  </data>
+  <data name="Enterprise customers get round-the-clock telephone support, ensuring critical issues are addressed immediately." xml:space="preserve">
+    <value>Pelanggan perusahaan mendapatkan dukungan telepon 24 jam, memastikan masalah kritis ditangani segera.</value>
+  </data>
+  <data name="Enterprise scale deployment" xml:space="preserve">
+    <value>Penyerahan skala perusahaan</value>
   </data>
   <data name="Every access is verified, every connection is encrypted, every action is audited." xml:space="preserve">
     <value>Setiap akses diverifikasi, setiap koneksi dienkripsi, setiap tindakan diaudit.</value>
@@ -411,17 +411,14 @@
   <data name="Experience Aiursoft AI" xml:space="preserve">
     <value>Rasakan AI Aiursoft</value>
   </data>
-  <data name="Explore on GitHub" xml:space="preserve">
-    <value>Jelajahi di GitHub</value>
-  </data>
   <data name="Explore Our Projects" xml:space="preserve">
     <value>Jelajahi Proyek Kami</value>
   </data>
+  <data name="Explore on GitHub" xml:space="preserve">
+    <value>Jelajahi di GitHub</value>
+  </data>
   <data name="FAQ" xml:space="preserve">
     <value>FAQ</value>
-  </data>
-  <data name="faster" xml:space="preserve">
-    <value>lebih cepat</value>
   </data>
   <data name="Features" xml:space="preserve">
     <value>Fitur</value>
@@ -435,20 +432,17 @@
   <data name="Flexible API" xml:space="preserve">
     <value>API Fleksibel</value>
   </data>
-  <data name="for any inquiries or to report issues." xml:space="preserve">
-    <value>untuk pertanyaan apa pun atau untuk melaporkan masalah.</value>
-  </data>
   <data name="Founder &amp; Architect at Aiursoft" xml:space="preserve">
     <value>Pendiri &amp; Arsitek di Aiursoft</value>
   </data>
   <data name="Free" xml:space="preserve">
     <value>Gratis</value>
   </data>
-  <data name="Free for Commercial Use" xml:space="preserve">
-    <value>Gratis untuk Penggunaan Komersial</value>
-  </data>
   <data name="Free Software" xml:space="preserve">
     <value>Perangkat Lunak Bebas</value>
+  </data>
+  <data name="Free for Commercial Use" xml:space="preserve">
+    <value>Gratis untuk Penggunaan Komersial</value>
   </data>
   <data name="Freedom and enterprise service don&apos;t conflict." xml:space="preserve">
     <value>Kebebasan dan layanan perusahaan tidak bertentangan.</value>
@@ -474,11 +468,11 @@
   <data name="Fully Offline" xml:space="preserve">
     <value>Sepenuhnya Offline</value>
   </data>
-  <data name="Get a public cloud-like experience while hosting your applications in your own server." xml:space="preserve">
-    <value>Dapatkan pengalaman seperti cloud publik sambil menampung aplikasi Anda di server sendiri.</value>
-  </data>
   <data name="Get Started" xml:space="preserve">
     <value>Mulai</value>
+  </data>
+  <data name="Get a public cloud-like experience while hosting your applications in your own server." xml:space="preserve">
+    <value>Dapatkan pengalaman seperti cloud publik sambil menampung aplikasi Anda di server sendiri.</value>
   </data>
   <data name="Get unified endpoint management (UEM), identity management (IAM), and collaboration tools (OA) in one package. All on your local servers!" xml:space="preserve">
     <value>Dapatkan manajemen endpoint terpadu (UEM), manajemen identitas (IAM), dan alat kolaborasi (OA) dalam satu paket. Semua di server lokal Anda!</value>
@@ -534,14 +528,17 @@
   <data name="IDE Support" xml:space="preserve">
     <value>Dukungan IDE</value>
   </data>
-  <data name="in the AI Era." xml:space="preserve">
-    <value>di Era AI.</value>
+  <data name="IT teams can monitor the health of all endpoints and perform basic remote management." xml:space="preserve">
+    <value>Tim TI dapat memantau kesehatan semua endpoint dan melakukan manajemen jarak jauh dasar.</value>
   </data>
   <data name="Included" xml:space="preserve">
     <value>Termasuk</value>
   </data>
   <data name="Includes Collaboration + Email + Identity Gateway" xml:space="preserve">
     <value>Termasuk Kolaborasi + Email + Gerbang Identitas</value>
+  </data>
+  <data name="Includes Tutorials" xml:space="preserve">
+    <value>Termasuk Tutorial</value>
   </data>
   <data name="Includes everything in Starter" xml:space="preserve">
     <value>Termasuk semua yang ada di Starter</value>
@@ -552,9 +549,6 @@
   <data name="Includes extensive documentation and practical examples to get you started quickly." xml:space="preserve">
     <value>Termasuk dokumentasi yang luas dan contoh praktis untuk memulai dengan cepat.</value>
   </data>
-  <data name="Includes Tutorials" xml:space="preserve">
-    <value>Termasuk Tutorial</value>
-  </data>
   <data name="Integrated File Management" xml:space="preserve">
     <value>Manajemen File Terintegrasi</value>
   </data>
@@ -564,14 +558,8 @@
   <data name="Interoperability" xml:space="preserve">
     <value>Interoperabilitas</value>
   </data>
-  <data name="is Free Software" xml:space="preserve">
-    <value>adalah Perangkat Lunak Bebas</value>
-  </data>
   <data name="Is it free to use Aiursoft Template?" xml:space="preserve">
     <value>Apakah Aiursoft Template gratis digunakan?</value>
-  </data>
-  <data name="IT teams can monitor the health of all endpoints and perform basic remote management." xml:space="preserve">
-    <value>Tim TI dapat memantau kesehatan semua endpoint dan melakukan manajemen jarak jauh dasar.</value>
   </data>
   <data name="Join Discussions" xml:space="preserve">
     <value>Bergabung dalam Diskusi</value>
@@ -591,6 +579,15 @@
   <data name="Local LLM Deployment" xml:space="preserve">
     <value>Penyebaran LLM Lokal</value>
   </data>
+  <data name="MDM based device compliance" xml:space="preserve">
+    <value>Kepatuhan perangkat berbasis MDM</value>
+  </data>
+  <data name="MIT Licence" xml:space="preserve">
+    <value>Lisensi MIT</value>
+  </data>
+  <data name="MIT License" xml:space="preserve">
+    <value>MIT License</value>
+  </data>
   <data name="Maintain High Code Quality" xml:space="preserve">
     <value>Jaga Kualitas Kode yang Tinggi</value>
   </data>
@@ -603,17 +600,8 @@
   <data name="Max 150 accounts" xml:space="preserve">
     <value>Maksimum 150 akun</value>
   </data>
-  <data name="MDM based device compliance" xml:space="preserve">
-    <value>Kepatuhan perangkat berbasis MDM</value>
-  </data>
   <data name="Meet industry compliance requirements with auditable configurations and enterprise-grade controls." xml:space="preserve">
     <value>Penuhi persyaratan kepatuhan industri dengan konfigurasi yang dapat diaudit dan kontrol tingkat perusahaan.</value>
-  </data>
-  <data name="MIT Licence" xml:space="preserve">
-    <value>Lisensi MIT</value>
-  </data>
-  <data name="MIT License" xml:space="preserve">
-    <value>MIT License</value>
   </data>
   <data name="Models are validated on both client and server sides based on data annotations." xml:space="preserve">
     <value>Model divalidasi di sisi klien dan server berdasarkan anotasi data.</value>
@@ -666,17 +654,17 @@
   <data name="Open Source" xml:space="preserve">
     <value>Sumber Terbuka</value>
   </data>
-  <data name="Open WebUI – Local AI Knowledge Base" xml:space="preserve">
-    <value>Open WebUI – Basis Pengetahuan AI Lokal</value>
-  </data>
   <data name="Open WebUI Integration" xml:space="preserve">
     <value>Integrasi Open WebUI</value>
   </data>
-  <data name="Open-source &amp; AI era." xml:space="preserve">
-    <value>Era open-source &amp; AI.</value>
+  <data name="Open WebUI – Local AI Knowledge Base" xml:space="preserve">
+    <value>Open WebUI – Basis Pengetahuan AI Lokal</value>
   </data>
   <data name="Open-Source Solutions" xml:space="preserve">
     <value>Solusi Sumber Terbuka</value>
+  </data>
+  <data name="Open-source &amp; AI era." xml:space="preserve">
+    <value>Era open-source &amp; AI.</value>
   </data>
   <data name="OpenID Connect" xml:space="preserve">
     <value>OpenID Connect</value>
@@ -777,17 +765,17 @@
   <data name="Specific fees need to be discussed with our architecture team to determine how to build for your enterprise." xml:space="preserve">
     <value>Biaya spesifik perlu didiskusikan dengan tim arsitektur kami untuk menentukan cara membangun solusi untuk perusahaan Anda.</value>
   </data>
-  <data name="Standard implementation. Switch providers without compilation." xml:space="preserve">
-    <value>Implementasi standar. Ganti penyedia tanpa kompilasi.</value>
-  </data>
   <data name="Standard OpenID" xml:space="preserve">
     <value>OpenID Standar</value>
   </data>
-  <data name="Start a new project" xml:space="preserve">
-    <value>Mulai proyek baru</value>
+  <data name="Standard implementation. Switch providers without compilation." xml:space="preserve">
+    <value>Implementasi standar. Ganti penyedia tanpa kompilasi.</value>
   </data>
   <data name="Start Shipping Value." xml:space="preserve">
     <value>Mulai Kirim Nilai</value>
+  </data>
+  <data name="Start a new project" xml:space="preserve">
+    <value>Mulai proyek baru</value>
   </data>
   <data name="Start with a single &apos;docker run&apos; command." xml:space="preserve">
     <value>Mulai dengan satu perintah &apos;docker run&apos; saja.</value>
@@ -810,14 +798,14 @@
   <data name="Strict Lint Rules" xml:space="preserve">
     <value>Aturan Lint yang Ketat</value>
   </data>
+  <data name="Strict Unit Testing" xml:space="preserve">
+    <value>Pengujian Unit Ketat</value>
+  </data>
   <data name="Strict linting rules and zero warnings by default." xml:space="preserve">
     <value>Aturan linting yang ketat dan nol peringatan secara default.</value>
   </data>
   <data name="Strict linting rules with 0 warnings in the default project." xml:space="preserve">
     <value>Aturan linting yang ketat dengan 0 peringatan dalam proyek default.</value>
-  </data>
-  <data name="Strict Unit Testing" xml:space="preserve">
-    <value>Pengujian Unit Ketat</value>
   </data>
   <data name="Strongly Consistent Linting" xml:space="preserve">
     <value>Pemeriksaan Kode yang Konsisten Secara Kuat</value>
@@ -828,11 +816,11 @@
   <data name="Supercharge Innovation" xml:space="preserve">
     <value>Percepat Inovasi</value>
   </data>
-  <data name="Supports both environment variables and database-backed settings, with automatic priority given to environment variables for seamless overrides." xml:space="preserve">
-    <value>Mendukung kedua variabel lingkungan dan pengaturan berbasis database, dengan prioritas otomatis diberikan kepada variabel lingkungan untuk pembaruan yang mulus.</value>
-  </data>
   <data name="Supports JetBrains Rider for easy code style fixes." xml:space="preserve">
     <value>Mendukung JetBrains Rider untuk perbaikan gaya kode yang mudah.</value>
+  </data>
+  <data name="Supports both environment variables and database-backed settings, with automatic priority given to environment variables for seamless overrides." xml:space="preserve">
+    <value>Mendukung kedua variabel lingkungan dan pengaturan berbasis database, dengan prioritas otomatis diberikan kepada variabel lingkungan untuk pembaruan yang mulus.</value>
   </data>
   <data name="Supports local operation; configured external integrations require network access." xml:space="preserve">
     <value>Mendukung pengoperasian lokal; integrasi eksternal yang dikonfigurasi memerlukan akses jaringan.</value>
@@ -849,12 +837,6 @@
   <data name="Technical Lead" xml:space="preserve">
     <value>Pemimpin Teknis</value>
   </data>
-  <data name="The definitive, battle-tested .NET enterprise foundation. From Auth to AI, we&apos;ve solved the hard parts so you don&apos;t have to." xml:space="preserve">
-    <value>Dasar perusahaan .NET yang pasti dan telah teruji dalam pertempuran. Dari Otentikasi hingga Kecerdasan Buatan, kami telah menyelesaikan bagian-bagian sulit sehingga Anda tidak perlu melakukannya.</value>
-  </data>
-  <data name="The navigation bar automatically adjusts based on user roles and permissions." xml:space="preserve">
-    <value>Bilah navigasi secara otomatis menyesuaikan berdasarkan peran dan izin pengguna.</value>
-  </data>
   <data name="The Open-source world already has the solutions you need." xml:space="preserve">
     <value>Dunia Open-source sudah memiliki solusi yang Anda butuhkan.</value>
   </data>
@@ -864,11 +846,17 @@
   <data name="The Philosophy" xml:space="preserve">
     <value>Filsafat</value>
   </data>
-  <data name="The template is built for easy deployment. It includes full Docker support, so you can containerize your app and run it anywhere. You can also deploy it directly to IIS, Azure App Service, or any server that supports ASP.NET Core." xml:space="preserve">
-    <value>Template ini dibangun untuk kemudahan penerapan. Template ini mencakup dukungan Docker penuh, sehingga Anda dapat meng-container-kan aplikasi Anda dan menjalankannya di mana saja. Anda juga dapat menerapkannya langsung ke IIS, Azure App Service, atau server apa pun yang mendukung ASP.NET Core.</value>
-  </data>
   <data name="The Turnkey Enterprise Foundation" xml:space="preserve">
     <value>Dasar Perusahaan Siap Pakai</value>
+  </data>
+  <data name="The definitive, battle-tested .NET enterprise foundation. From Auth to AI, we&apos;ve solved the hard parts so you don&apos;t have to." xml:space="preserve">
+    <value>Dasar perusahaan .NET yang pasti dan telah teruji dalam pertempuran. Dari Otentikasi hingga Kecerdasan Buatan, kami telah menyelesaikan bagian-bagian sulit sehingga Anda tidak perlu melakukannya.</value>
+  </data>
+  <data name="The navigation bar automatically adjusts based on user roles and permissions." xml:space="preserve">
+    <value>Bilah navigasi secara otomatis menyesuaikan berdasarkan peran dan izin pengguna.</value>
+  </data>
+  <data name="The template is built for easy deployment. It includes full Docker support, so you can containerize your app and run it anywhere. You can also deploy it directly to IIS, Azure App Service, or any server that supports ASP.NET Core." xml:space="preserve">
+    <value>Template ini dibangun untuk kemudahan penerapan. Template ini mencakup dukungan Docker penuh, sehingga Anda dapat meng-container-kan aplikasi Anda dan menjalankannya di mana saja. Anda juga dapat menerapkannya langsung ke IIS, Azure App Service, atau server apa pun yang mendukung ASP.NET Core.</value>
   </data>
   <data name="This is a template project" xml:space="preserve">
     <value>Ini adalah proyek templat</value>
@@ -912,6 +900,9 @@
   <data name="Voxihost offers transparent, cost-effective cloud and generously sponsors Aiursoft&apos;s Open-source work." xml:space="preserve">
     <value>Voxihost menawarkan cloud yang transparan dan hemat biaya, serta dengan murah hati mensponsori pekerjaan Open-source Aiursoft.</value>
   </data>
+  <data name="We Take the First Hit." xml:space="preserve">
+    <value>Kami Menyerang Serangan Pertama.</value>
+  </data>
   <data name="We audit and integrate Open-source code, respect GPL, compile components, and contribute upstream." xml:space="preserve">
     <value>Kami melakukan audit dan mengintegrasikan kode Open-source, menghormati GPL, mengompilasi komponen, dan berkontribusi ke upstream.</value>
   </data>
@@ -923,9 +914,6 @@
   </data>
   <data name="We procure Yubikeys for all clients and configure zero-trust architecture." xml:space="preserve">
     <value>Kami menyediakan Yubikeys untuk semua klien dan mengonfigurasi arsitektur zero-trust.</value>
-  </data>
-  <data name="We Take the First Hit." xml:space="preserve">
-    <value>Kami Menyerang Serangan Pertama.</value>
   </data>
   <data name="Welcome" xml:space="preserve">
     <value>Selamat datang</value>
@@ -942,17 +930,14 @@
   <data name="Win/Lin/Mac" xml:space="preserve">
     <value>Win/Lin/Mac</value>
   </data>
+  <data name="With Voxihost, Aiursoft helps enterprises host Email, authentication, cloud drives, employee portals, monitoring, and AI." xml:space="preserve">
+    <value>Dengan Voxihost, Aiursoft membantu perusahaan menghosting Email, autentikasi, cloud drives, portal karyawan, pemantauan, dan AI.</value>
+  </data>
   <data name="With local models and local integrations, inference inputs remain within your deployment. External providers receive the inputs you choose to send." xml:space="preserve">
     <value>Dengan model dan integrasi lokal, input untuk inferensi tetap berada di dalam lingkungan deployment Anda. Penyedia eksternal hanya menerima input yang Anda pilih untuk dikirim.</value>
   </data>
-  <data name="with Open-Source Infrastructure." xml:space="preserve">
-    <value>dengan Infrastruktur Sumber Terbuka.</value>
-  </data>
   <data name="With reliable cloud infrastructure, your business can grow reliably alongside Aiursoft." xml:space="preserve">
     <value>Dengan infrastruktur cloud yang andal, bisnis Anda dapat berkembang dengan andal bersama Aiursoft.</value>
-  </data>
-  <data name="With Voxihost, Aiursoft helps enterprises host Email, authentication, cloud drives, employee portals, monitoring, and AI." xml:space="preserve">
-    <value>Dengan Voxihost, Aiursoft membantu perusahaan menghosting Email, autentikasi, cloud drives, portal karyawan, pemantauan, dan AI.</value>
   </data>
   <data name="Yes, Aiursoft Template is completely free and open-source under the MIT License. You can use it for personal and commercial projects without any cost." xml:space="preserve">
     <value>Ya, Aiursoft Template sepenuhnya gratis dan open-source di bawah Lisensi MIT. Anda dapat menggunakannya untuk proyek pribadi dan komersial tanpa biaya apa pun.</value>
@@ -989,6 +974,21 @@
   </data>
   <data name="Zot" xml:space="preserve">
     <value>Zot</value>
+  </data>
+  <data name="faster" xml:space="preserve">
+    <value>lebih cepat</value>
+  </data>
+  <data name="for any inquiries or to report issues." xml:space="preserve">
+    <value>untuk pertanyaan apa pun atau untuk melaporkan masalah.</value>
+  </data>
+  <data name="in the AI Era." xml:space="preserve">
+    <value>di Era AI.</value>
+  </data>
+  <data name="is Free Software" xml:space="preserve">
+    <value>adalah Perangkat Lunak Bebas</value>
+  </data>
+  <data name="with Open-Source Infrastructure." xml:space="preserve">
+    <value>dengan Infrastruktur Sumber Terbuka.</value>
   </data>
 
 </root>

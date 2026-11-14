@@ -51,11 +51,11 @@
   <data name="9. Modifications to the Terms" xml:space="preserve">
     <value>9. 條款的修訂</value>
   </data>
-  <data name="Aiursoft hosts the infrastructure on our secured servers. We are responsible for server uptime, standard backups, and basic network security." xml:space="preserve">
-    <value>Aiursoft 在我們的保安伺服器上主機基礎設施。我們負責伺服器的穩定運作、標準備份及基本網絡安全。</value>
-  </data>
   <data name="AIURSOFT LIMITED" xml:space="preserve">
     <value>AIURSOFT LIMITED</value>
+  </data>
+  <data name="Aiursoft hosts the infrastructure on our secured servers. We are responsible for server uptime, standard backups, and basic network security." xml:space="preserve">
+    <value>Aiursoft 在我們的保安伺服器上主機基礎設施。我們負責伺服器的穩定運作、標準備份及基本網絡安全。</value>
   </data>
   <data name="Aiursoft provides enterprise IT infrastructure solutions built upon open-source technologies (e.g., Linux, Nextcloud, Mailcow, Authentik, GitLab)." xml:space="preserve">
     <value>Aiursoft 提供基於開源技術（例如：Linux、Nextcloud、Mailcow、Authentik、GitLab）的企業級 IT 基礎設施解決方案。</value>
@@ -159,17 +159,14 @@
   <data name="The Service is Commercial:" xml:space="preserve">
     <value>服務屬商業性質：</value>
   </data>
-  <data name="The software is deployed on your local servers or private cloud. You retain absolute physical control and ownership of your data (&quot;Own Your Data&quot;). Consequently, you are solely responsible for your underlying hardware, local network security, physical access control, and disaster recovery backups. Aiursoft&apos;s responsibility is limited to software-level maintenance, container updates, and technical support as defined in your plan." xml:space="preserve">
-    <value>軟件會部署於您的本地伺服器或私有雲端。您會完全擁有數據的實體控制權及所有權（「擁有您的數據」）。因此，您須獨自負責底層硬體、本地網絡安全、實體存取控制及災難恢復備份。Aiursoft的責任僅限於軟體層面的維護、容器更新及根據您的計劃所定的技術支援。</value>
-  </data>
   <data name="The Software is Free:" xml:space="preserve">
     <value>軟件是免費的：</value>
   </data>
+  <data name="The software is deployed on your local servers or private cloud. You retain absolute physical control and ownership of your data (&quot;Own Your Data&quot;). Consequently, you are solely responsible for your underlying hardware, local network security, physical access control, and disaster recovery backups. Aiursoft&apos;s responsibility is limited to software-level maintenance, container updates, and technical support as defined in your plan." xml:space="preserve">
+    <value>軟件會部署於您的本地伺服器或私有雲端。您會完全擁有數據的實體控制權及所有權（「擁有您的數據」）。因此，您須獨自負責底層硬體、本地網絡安全、實體存取控制及災難恢復備份。Aiursoft的責任僅限於軟體層面的維護、容器更新及根據您的計劃所定的技術支援。</value>
+  </data>
   <data name="The underlying open-source codes are subject to their respective licenses (e.g., MIT, GPL). You are free to inspect, modify, and distribute the code as permitted by those licenses." xml:space="preserve">
     <value>底層的開源程式碼受其各自許可證（例如：MIT、GPL）約束。您可自由檢視、修改及分發程式碼，惟須遵守相關許可證所容許之範圍。</value>
-  </data>
-  <data name="These cancellation and non-refund rules apply to voluntary cancellation. They do not exclude remedies for our failure to provide the agreed services, override the specific commitments in an applicable service agreement, or limit rights that cannot be excluded under applicable law." xml:space="preserve">
-    <value>此等取消及不退費規則適用於自願取消。該等規則不會排除我們未能提供約定服務時之補救措施，不會取代適用服務協議中載明之特定承諾，亦不會限制根據適用法律不可排除之權利。</value>
   </data>
   <data name="These Terms of Service (&quot;Terms&quot;) govern your access to and use of the Aiursoft website, products, and subscription services, including but not limited to Aiursoft Substrate (Core, Startup, and Enterprise plans) (collectively, the &quot;Services&quot;). By registering for an account or purchasing a subscription, you agree to be bound by these Terms." xml:space="preserve">
     <value>《服務條款》（「條款」）規管您對 Aiursoft 網站、產品及訂閱服務的存取及使用，包括但不限於 Aiursoft Substrate（Core、Startup 及 Enterprise 計劃）（統稱「服務」）。透過註冊帳戶或購買訂閱，即表示您同意受此等條款約束。</value>
@@ -179,6 +176,9 @@
   </data>
   <data name="These Terms shall be governed by and construed in accordance with the laws of the Hong Kong Special Administrative Region, without regard to its conflict of law provisions." xml:space="preserve">
     <value>本條款應受香港特別行政區法律管轄，並按其解釋，而不受其衝突法規定的影響。</value>
+  </data>
+  <data name="These cancellation and non-refund rules apply to voluntary cancellation. They do not exclude remedies for our failure to provide the agreed services, override the specific commitments in an applicable service agreement, or limit rights that cannot be excluded under applicable law." xml:space="preserve">
+    <value>此等取消及不退費規則適用於自願取消。該等規則不會排除我們未能提供約定服務時之補救措施，不會取代適用服務協議中載明之特定承諾，亦不會限制根據適用法律不可排除之權利。</value>
   </data>
   <data name="To ensure uninterrupted service, our commercial plans operate on a recurring subscription basis." xml:space="preserve">
     <value>為確保服務不中斷，我們的商業計劃採用定期訂閱模式運作。</value>

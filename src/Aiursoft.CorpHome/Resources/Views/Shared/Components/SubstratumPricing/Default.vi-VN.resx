@@ -54,11 +54,11 @@
   <data name="Contact Sales" xml:space="preserve">
     <value>Liên hệ Bộ phận Bán hàng</value>
   </data>
-  <data name="Custom container development" xml:space="preserve">
-    <value>Phát triển container tùy chỉnh</value>
-  </data>
   <data name="Custom Development Fee" xml:space="preserve">
     <value>Phí phát triển tùy chỉnh</value>
+  </data>
+  <data name="Custom container development" xml:space="preserve">
+    <value>Phát triển container tùy chỉnh</value>
   </data>
   <data name="Customized for your enterprise" xml:space="preserve">
     <value>Được tùy chỉnh cho doanh nghiệp của bạn</value>
@@ -72,11 +72,11 @@
   <data name="Full Infrastructure Suite, on your local server" xml:space="preserve">
     <value>Bộ công cụ hạ tầng đầy đủ, trên máy chủ của bạn</value>
   </data>
-  <data name="Get a public cloud-like experience while hosting your applications in your own server." xml:space="preserve">
-    <value>Nhận trải nghiệm giống như đám mây công cộng trong khi lưu trữ ứng dụng của bạn trên máy chủ của chính bạn.</value>
-  </data>
   <data name="Get Started" xml:space="preserve">
     <value>Bắt đầu ngay</value>
+  </data>
+  <data name="Get a public cloud-like experience while hosting your applications in your own server." xml:space="preserve">
+    <value>Nhận trải nghiệm giống như đám mây công cộng trong khi lưu trữ ứng dụng của bạn trên máy chủ của chính bạn.</value>
   </data>
   <data name="GitLab, Ollama Gateway" xml:space="preserve">
     <value>GitLab, Cổng Ollama</value>
@@ -99,6 +99,9 @@
   <data name="Koel, Immich, Memos" xml:space="preserve">
     <value>Koel, Immich, Memos</value>
   </data>
+  <data name="MDM based device compliance" xml:space="preserve">
+    <value>Tuân thủ thiết bị dựa trên MDM</value>
+  </data>
   <data name="Mailcow" xml:space="preserve">
     <value>Mailcow</value>
   </data>
@@ -107,9 +110,6 @@
   </data>
   <data name="Max 1000 accounts" xml:space="preserve">
     <value>Tối đa 1000 tài khoản</value>
-  </data>
-  <data name="MDM based device compliance" xml:space="preserve">
-    <value>Tuân thủ thiết bị dựa trên MDM</value>
   </data>
   <data name="On-premise AnduinOS Apkg" xml:space="preserve">
     <value>AnduinOS Apkg tại chỗ</value>
@@ -138,9 +138,6 @@
   <data name="Strengthen your business with flexible Open Source projects that run by Aiursoft." xml:space="preserve">
     <value>Củng cố doanh nghiệp của bạn với các dự án mã nguồn mở linh hoạt do Aiursoft vận hành.</value>
   </data>
-  <data name="tailored to your business needs" xml:space="preserve">
-    <value>tùy chỉnh theo nhu cầu kinh doanh của bạn</value>
-  </data>
   <data name="Talk to an Architect" xml:space="preserve">
     <value>Nói chuyện với Kiến trúc sư</value>
   </data>
@@ -149,6 +146,9 @@
   </data>
   <data name="Zero Trust Yubikey Auth" xml:space="preserve">
     <value>Xác thực Yubikey Zero Trust</value>
+  </data>
+  <data name="tailored to your business needs" xml:space="preserve">
+    <value>tùy chỉnh theo nhu cầu kinh doanh của bạn</value>
   </data>
 
 </root>

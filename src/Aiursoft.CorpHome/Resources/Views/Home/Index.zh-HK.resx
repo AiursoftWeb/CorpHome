@@ -51,9 +51,6 @@
   <data name="A modern, feature-rich, and highly extensible foundation for your next web application." xml:space="preserve">
     <value>一個現代化、功能豐富且高度可擴展嘅基礎，為您嘅下一個網頁應用程式提供強大支援。</value>
   </data>
-  <data name="Achieve more with Aiursoft Template" xml:space="preserve">
-    <value>使用 Aiursoft 模板成就更多</value>
-  </data>
   <data name="AI Agents Integration" xml:space="preserve">
     <value>AI 智能體整合</value>
   </data>
@@ -72,11 +69,11 @@
   <data name="AI-Powered Translations" xml:space="preserve">
     <value>人工智能驅動翻譯</value>
   </data>
+  <data name="Achieve more with Aiursoft Template" xml:space="preserve">
+    <value>使用 Aiursoft 模板成就更多</value>
+  </data>
   <data name="Air-Gapped Ready" xml:space="preserve">
     <value>離線環境就緒</value>
-  </data>
-  <data name="Aiursoft is dedicated to bringing the spirit of Open-source and free software to every enterprise and individual." xml:space="preserve">
-    <value>Aiursoft 致力於將開放原始碼及自由軟件的精神帶給每一個企業及個人。</value>
   </data>
   <data name="Aiursoft Substratum Core" xml:space="preserve">
     <value>Aiursoft Substratum Core</value>
@@ -90,14 +87,17 @@
   <data name="Aiursoft Template" xml:space="preserve">
     <value>Aiursoft Template</value>
   </data>
+  <data name="Aiursoft Template Screenshot" xml:space="preserve">
+    <value>Aiursoft Template Screenshot</value>
+  </data>
   <data name="Aiursoft Template is continuously optimized for the AI era, built with the most popular and reliable Open-source technologies. It has already produced dozens of mature applications delivered to enterprises. Aiursoft uses Template to help businesses develop custom solutions based on their core needs." xml:space="preserve">
     <value>Aiursoft Template 持續優化以配合人工智慧時代，採用最流行及可靠的開源技術打造。它已成功開發出數十個成熟的應用程式，並交付予企業使用。Aiursoft 利用 Template 協助企業根據核心需求開發定制化解決方案。</value>
   </data>
   <data name="Aiursoft Template is our definitive choice for enterprise projects! It&apos;s built for developers and is lightweight yet powerful. We can skip all the boilerplate for authentication and user management." xml:space="preserve">
     <value>Aiursoft Template 係我哋企業項目嘅不二之選！佢專為開發者打造，輕量之餘功能強大。我哋可以跳過所有驗證同用戶管理嘅樣板代碼。</value>
   </data>
-  <data name="Aiursoft Template Screenshot" xml:space="preserve">
-    <value>Aiursoft Template Screenshot</value>
+  <data name="Aiursoft is dedicated to bringing the spirit of Open-source and free software to every enterprise and individual." xml:space="preserve">
+    <value>Aiursoft 致力於將開放原始碼及自由軟件的精神帶給每一個企業及個人。</value>
   </data>
   <data name="All Aiursoft servers are sourced from Voxihost. We help clients land on Voxihost infrastructure." xml:space="preserve">
     <value>所有 Aiursoft 伺服器均來自 Voxihost。我們協助客戶在 Voxihost 基礎設施上落地。</value>
@@ -186,11 +186,11 @@
   <data name="Browse Source Code" xml:space="preserve">
     <value>瀏覽原始碼</value>
   </data>
-  <data name="Build once, run anywhere. Fully containerized architecture." xml:space="preserve">
-    <value>一次建構，随处執行。完全容器化架構。</value>
-  </data>
   <data name="Build Your Local Knowledge Base" xml:space="preserve">
     <value>建立你的本地知識庫</value>
+  </data>
+  <data name="Build once, run anywhere. Fully containerized architecture." xml:space="preserve">
+    <value>一次建構，随处執行。完全容器化架構。</value>
   </data>
   <data name="Build your next big thing," xml:space="preserve">
     <value>打造你的下一個大項目，</value>
@@ -222,11 +222,11 @@
   <data name="Built-in RBAC for fine-grained permission management." xml:space="preserve">
     <value>內建 RBAC，支援細緻的權限管理。</value>
   </data>
-  <data name="Built-in security controls support your deployment requirements." xml:space="preserve">
-    <value>內置安全控制功能可滿足您的部署需求。</value>
-  </data>
   <data name="Built-in User Management" xml:space="preserve">
     <value>內建用戶管理</value>
+  </data>
+  <data name="Built-in security controls support your deployment requirements." xml:space="preserve">
+    <value>內置安全控制功能可滿足您的部署需求。</value>
   </data>
   <data name="Code Audit &amp; Integration" xml:space="preserve">
     <value>程式碼審核與整合</value>
@@ -288,11 +288,11 @@
   <data name="Custom Branding" xml:space="preserve">
     <value>自訂品牌</value>
   </data>
-  <data name="Custom container development" xml:space="preserve">
-    <value>自訂容器開發</value>
-  </data>
   <data name="Custom Development Fee" xml:space="preserve">
     <value>自訂開發費用</value>
+  </data>
+  <data name="Custom container development" xml:space="preserve">
+    <value>自訂容器開發</value>
   </data>
   <data name="Customized for your enterprise" xml:space="preserve">
     <value>為您的企業度身訂造</value>
@@ -333,14 +333,14 @@
   <data name="Dev &amp; Prod" xml:space="preserve">
     <value>開發 &amp; 生產</value>
   </data>
+  <data name="DevOps Native" xml:space="preserve">
+    <value>DevOps 原生</value>
+  </data>
   <data name="Develop exclusively in UTC while the system automatically converts and displays dates in the user&apos;s local time zone." xml:space="preserve">
     <value>以 UTC 為主開發，系統會自動將日期轉換並顯示為用戶的本地時間區。</value>
   </data>
   <data name="Developer Experience" xml:space="preserve">
     <value>開發者體驗</value>
-  </data>
-  <data name="DevOps Native" xml:space="preserve">
-    <value>DevOps 原生</value>
   </data>
   <data name="Discover AnduinOS" xml:space="preserve">
     <value>探索 AnduinOS</value>
@@ -387,23 +387,23 @@
   <data name="Enterprise" xml:space="preserve">
     <value>企業</value>
   </data>
-  <data name="Enterprise business framework for the" xml:space="preserve">
-    <value>企業級業務框架，為...</value>
-  </data>
   <data name="Enterprise C#" xml:space="preserve">
     <value>Enterprise C#</value>
-  </data>
-  <data name="Enterprise customers get round-the-clock telephone support, ensuring critical issues are addressed immediately." xml:space="preserve">
-    <value>企業客戶可獲全天候電話支援，確保緊急問題能立即處理。</value>
   </data>
   <data name="Enterprise Ready" xml:space="preserve">
     <value>企業級就緒</value>
   </data>
-  <data name="Enterprise scale deployment" xml:space="preserve">
-    <value>企業級規模部署</value>
-  </data>
   <data name="Enterprise Security" xml:space="preserve">
     <value>企業安全</value>
+  </data>
+  <data name="Enterprise business framework for the" xml:space="preserve">
+    <value>企業級業務框架，為...</value>
+  </data>
+  <data name="Enterprise customers get round-the-clock telephone support, ensuring critical issues are addressed immediately." xml:space="preserve">
+    <value>企業客戶可獲全天候電話支援，確保緊急問題能立即處理。</value>
+  </data>
+  <data name="Enterprise scale deployment" xml:space="preserve">
+    <value>企業級規模部署</value>
   </data>
   <data name="Every access is verified, every connection is encrypted, every action is audited." xml:space="preserve">
     <value>每次存取均經驗證，每次連接均經加密，每次操作均被審計。</value>
@@ -411,17 +411,14 @@
   <data name="Experience Aiursoft AI" xml:space="preserve">
     <value>體驗 Aiursoft AI</value>
   </data>
-  <data name="Explore on GitHub" xml:space="preserve">
-    <value>在 GitHub 上探索</value>
-  </data>
   <data name="Explore Our Projects" xml:space="preserve">
     <value>探索我們的項目</value>
   </data>
+  <data name="Explore on GitHub" xml:space="preserve">
+    <value>在 GitHub 上探索</value>
+  </data>
   <data name="FAQ" xml:space="preserve">
     <value>常見問題</value>
-  </data>
-  <data name="faster" xml:space="preserve">
-    <value>更快</value>
   </data>
   <data name="Features" xml:space="preserve">
     <value>功能</value>
@@ -435,20 +432,17 @@
   <data name="Flexible API" xml:space="preserve">
     <value>彈性 API</value>
   </data>
-  <data name="for any inquiries or to report issues." xml:space="preserve">
-    <value>如有任何查詢或報告問題。</value>
-  </data>
   <data name="Founder &amp; Architect at Aiursoft" xml:space="preserve">
     <value>創辦人兼建築師，Aiursoft</value>
   </data>
   <data name="Free" xml:space="preserve">
     <value>免費</value>
   </data>
-  <data name="Free for Commercial Use" xml:space="preserve">
-    <value>免費用於商業用途</value>
-  </data>
   <data name="Free Software" xml:space="preserve">
     <value>自由軟件</value>
+  </data>
+  <data name="Free for Commercial Use" xml:space="preserve">
+    <value>免費用於商業用途</value>
   </data>
   <data name="Freedom and enterprise service don&apos;t conflict." xml:space="preserve">
     <value>自由與企業服務並無衝突。</value>
@@ -474,11 +468,11 @@
   <data name="Fully Offline" xml:space="preserve">
     <value>完全離線</value>
   </data>
-  <data name="Get a public cloud-like experience while hosting your applications in your own server." xml:space="preserve">
-    <value>在自家伺服器上主機應用程式，同時享有類似公共雲端的體驗。</value>
-  </data>
   <data name="Get Started" xml:space="preserve">
     <value>開始使用</value>
+  </data>
+  <data name="Get a public cloud-like experience while hosting your applications in your own server." xml:space="preserve">
+    <value>在自家伺服器上主機應用程式，同時享有類似公共雲端的體驗。</value>
   </data>
   <data name="Get unified endpoint management (UEM), identity management (IAM), and collaboration tools (OA) in one package. All on your local servers!" xml:space="preserve">
     <value>一站式整合終端設備管理 (UEM)、身份管理 (IAM) 及協作工具 (OA)。所有功能均安裝於您的本地伺服器！</value>
@@ -534,14 +528,17 @@
   <data name="IDE Support" xml:space="preserve">
     <value>IDE 支援</value>
   </data>
-  <data name="in the AI Era." xml:space="preserve">
-    <value>在人工智能時代。</value>
+  <data name="IT teams can monitor the health of all endpoints and perform basic remote management." xml:space="preserve">
+    <value>IT團隊可以監控所有終端設備的健康狀況，並執行基本的遠端管理。</value>
   </data>
   <data name="Included" xml:space="preserve">
     <value>包含在內</value>
   </data>
   <data name="Includes Collaboration + Email + Identity Gateway" xml:space="preserve">
     <value>包括協作 + 電郵 + 身份網關</value>
+  </data>
+  <data name="Includes Tutorials" xml:space="preserve">
+    <value>包含教學指南</value>
   </data>
   <data name="Includes everything in Starter" xml:space="preserve">
     <value>包括 Starter 的所有內容</value>
@@ -552,9 +549,6 @@
   <data name="Includes extensive documentation and practical examples to get you started quickly." xml:space="preserve">
     <value>包含豐富嘅文檔同實用例子，讓你快速上手。</value>
   </data>
-  <data name="Includes Tutorials" xml:space="preserve">
-    <value>包含教學指南</value>
-  </data>
   <data name="Integrated File Management" xml:space="preserve">
     <value>整合式檔案管理</value>
   </data>
@@ -564,14 +558,8 @@
   <data name="Interoperability" xml:space="preserve">
     <value>互操作性</value>
   </data>
-  <data name="is Free Software" xml:space="preserve">
-    <value>是自由軟件</value>
-  </data>
   <data name="Is it free to use Aiursoft Template?" xml:space="preserve">
     <value>使用 Aiursoft Template 係咪免費㗎？</value>
-  </data>
-  <data name="IT teams can monitor the health of all endpoints and perform basic remote management." xml:space="preserve">
-    <value>IT團隊可以監控所有終端設備的健康狀況，並執行基本的遠端管理。</value>
   </data>
   <data name="Join Discussions" xml:space="preserve">
     <value>參與討論</value>
@@ -591,6 +579,15 @@
   <data name="Local LLM Deployment" xml:space="preserve">
     <value>本地大語言模型部署</value>
   </data>
+  <data name="MDM based device compliance" xml:space="preserve">
+    <value>基於 MDM 的裝置合規性</value>
+  </data>
+  <data name="MIT Licence" xml:space="preserve">
+    <value>MIT 許可證</value>
+  </data>
+  <data name="MIT License" xml:space="preserve">
+    <value>MIT 許可證</value>
+  </data>
   <data name="Maintain High Code Quality" xml:space="preserve">
     <value>維持高程式碼質素</value>
   </data>
@@ -603,17 +600,8 @@
   <data name="Max 150 accounts" xml:space="preserve">
     <value>最多 150 個帳戶</value>
   </data>
-  <data name="MDM based device compliance" xml:space="preserve">
-    <value>基於 MDM 的裝置合規性</value>
-  </data>
   <data name="Meet industry compliance requirements with auditable configurations and enterprise-grade controls." xml:space="preserve">
     <value>符合行業合規要求，具備可審計的設定及企業級控制。</value>
-  </data>
-  <data name="MIT Licence" xml:space="preserve">
-    <value>MIT 許可證</value>
-  </data>
-  <data name="MIT License" xml:space="preserve">
-    <value>MIT 許可證</value>
   </data>
   <data name="Models are validated on both client and server sides based on data annotations." xml:space="preserve">
     <value>模型會根據資料註解在客戶端和伺服器端進行驗證。</value>
@@ -666,17 +654,17 @@
   <data name="Open Source" xml:space="preserve">
     <value>開源</value>
   </data>
-  <data name="Open WebUI – Local AI Knowledge Base" xml:space="preserve">
-    <value>Open WebUI – 本地人工智能知識庫</value>
-  </data>
   <data name="Open WebUI Integration" xml:space="preserve">
     <value>Open WebUI 集成</value>
   </data>
-  <data name="Open-source &amp; AI era." xml:space="preserve">
-    <value>開源及人工智能時代</value>
+  <data name="Open WebUI – Local AI Knowledge Base" xml:space="preserve">
+    <value>Open WebUI – 本地人工智能知識庫</value>
   </data>
   <data name="Open-Source Solutions" xml:space="preserve">
     <value>開源解決方案</value>
+  </data>
+  <data name="Open-source &amp; AI era." xml:space="preserve">
+    <value>開源及人工智能時代</value>
   </data>
   <data name="OpenID Connect" xml:space="preserve">
     <value>OpenID Connect</value>
@@ -777,17 +765,17 @@
   <data name="Specific fees need to be discussed with our architecture team to determine how to build for your enterprise." xml:space="preserve">
     <value>特定費用需與我們的架構團隊討論，以確定如何為您的企業進行建設。</value>
   </data>
-  <data name="Standard implementation. Switch providers without compilation." xml:space="preserve">
-    <value>標準實作。無需重新編譯即可切換提供者。</value>
-  </data>
   <data name="Standard OpenID" xml:space="preserve">
     <value>標準 OpenID</value>
   </data>
-  <data name="Start a new project" xml:space="preserve">
-    <value>開始新項目</value>
+  <data name="Standard implementation. Switch providers without compilation." xml:space="preserve">
+    <value>標準實作。無需重新編譯即可切換提供者。</value>
   </data>
   <data name="Start Shipping Value." xml:space="preserve">
     <value>開始交付價值</value>
+  </data>
+  <data name="Start a new project" xml:space="preserve">
+    <value>開始新項目</value>
   </data>
   <data name="Start with a single &apos;docker run&apos; command." xml:space="preserve">
     <value>由一條 &apos;docker run&apos; 命令開始。</value>
@@ -810,14 +798,14 @@
   <data name="Strict Lint Rules" xml:space="preserve">
     <value>嚴格的程式碼檢查規則</value>
   </data>
+  <data name="Strict Unit Testing" xml:space="preserve">
+    <value>嚴格單元測試</value>
+  </data>
   <data name="Strict linting rules and zero warnings by default." xml:space="preserve">
     <value>嚴格的程式碼檢查規則及預設零警告</value>
   </data>
   <data name="Strict linting rules with 0 warnings in the default project." xml:space="preserve">
     <value>嚴格的程式碼檢查規則，預設專案中無警告。</value>
-  </data>
-  <data name="Strict Unit Testing" xml:space="preserve">
-    <value>嚴格單元測試</value>
   </data>
   <data name="Strongly Consistent Linting" xml:space="preserve">
     <value>強一致性代碼檢查</value>
@@ -828,11 +816,11 @@
   <data name="Supercharge Innovation" xml:space="preserve">
     <value>加速創新</value>
   </data>
-  <data name="Supports both environment variables and database-backed settings, with automatic priority given to environment variables for seamless overrides." xml:space="preserve">
-    <value>支援環境變數和資料庫支援的設定，並自動優先使用環境變數以實現無縫覆蓋。</value>
-  </data>
   <data name="Supports JetBrains Rider for easy code style fixes." xml:space="preserve">
     <value>支援 JetBrains Rider，輕鬆修復程式碼風格問題。</value>
+  </data>
+  <data name="Supports both environment variables and database-backed settings, with automatic priority given to environment variables for seamless overrides." xml:space="preserve">
+    <value>支援環境變數和資料庫支援的設定，並自動優先使用環境變數以實現無縫覆蓋。</value>
   </data>
   <data name="Supports local operation; configured external integrations require network access." xml:space="preserve">
     <value>支援本機操作；已設定的外部整合功能需要網絡連線。</value>
@@ -849,12 +837,6 @@
   <data name="Technical Lead" xml:space="preserve">
     <value>技術主管</value>
   </data>
-  <data name="The definitive, battle-tested .NET enterprise foundation. From Auth to AI, we&apos;ve solved the hard parts so you don&apos;t have to." xml:space="preserve">
-    <value>最穩健、經過實戰考驗的 .NET 企業級基礎架構。從身份認證到人工智能，我們已解決所有難題，讓你無需再煩惱。</value>
-  </data>
-  <data name="The navigation bar automatically adjusts based on user roles and permissions." xml:space="preserve">
-    <value>導覽列會根據用戶角色同權限自動調整。</value>
-  </data>
   <data name="The Open-source world already has the solutions you need." xml:space="preserve">
     <value>開源世界早已擁有你需要的解決方案。</value>
   </data>
@@ -864,11 +846,17 @@
   <data name="The Philosophy" xml:space="preserve">
     <value>理念</value>
   </data>
-  <data name="The template is built for easy deployment. It includes full Docker support, so you can containerize your app and run it anywhere. You can also deploy it directly to IIS, Azure App Service, or any server that supports ASP.NET Core." xml:space="preserve">
-    <value>此模板專為簡易部署而設計。它包含完整的 Docker 支援，因此您可以將應用程式容器化並在任何地方運行。您亦可直接將其部署到 IIS、Azure App Service 或任何支援 ASP.NET Core 的伺服器上。</value>
-  </data>
   <data name="The Turnkey Enterprise Foundation" xml:space="preserve">
     <value>即裝企業基礎設施</value>
+  </data>
+  <data name="The definitive, battle-tested .NET enterprise foundation. From Auth to AI, we&apos;ve solved the hard parts so you don&apos;t have to." xml:space="preserve">
+    <value>最穩健、經過實戰考驗的 .NET 企業級基礎架構。從身份認證到人工智能，我們已解決所有難題，讓你無需再煩惱。</value>
+  </data>
+  <data name="The navigation bar automatically adjusts based on user roles and permissions." xml:space="preserve">
+    <value>導覽列會根據用戶角色同權限自動調整。</value>
+  </data>
+  <data name="The template is built for easy deployment. It includes full Docker support, so you can containerize your app and run it anywhere. You can also deploy it directly to IIS, Azure App Service, or any server that supports ASP.NET Core." xml:space="preserve">
+    <value>此模板專為簡易部署而設計。它包含完整的 Docker 支援，因此您可以將應用程式容器化並在任何地方運行。您亦可直接將其部署到 IIS、Azure App Service 或任何支援 ASP.NET Core 的伺服器上。</value>
   </data>
   <data name="This is a template project" xml:space="preserve">
     <value>這是一個模板項目</value>
@@ -912,6 +900,9 @@
   <data name="Voxihost offers transparent, cost-effective cloud and generously sponsors Aiursoft&apos;s Open-source work." xml:space="preserve">
     <value>Voxihost 提供透明、成本效益高的雲端服務，並慷慨資助 Aiursoft 的開源工作。</value>
   </data>
+  <data name="We Take the First Hit." xml:space="preserve">
+    <value>我們承擔首波攻擊。</value>
+  </data>
   <data name="We audit and integrate Open-source code, respect GPL, compile components, and contribute upstream." xml:space="preserve">
     <value>我們審核及整合開源程式碼，尊重 GPL，編譯組件，並向上游貢獻。</value>
   </data>
@@ -923,9 +914,6 @@
   </data>
   <data name="We procure Yubikeys for all clients and configure zero-trust architecture." xml:space="preserve">
     <value>我們為所有客戶採購Yubikey並設定零信任架構。</value>
-  </data>
-  <data name="We Take the First Hit." xml:space="preserve">
-    <value>我們承擔首波攻擊。</value>
   </data>
   <data name="Welcome" xml:space="preserve">
     <value>歡迎</value>
@@ -942,17 +930,14 @@
   <data name="Win/Lin/Mac" xml:space="preserve">
     <value>Win/Lin/Mac</value>
   </data>
+  <data name="With Voxihost, Aiursoft helps enterprises host Email, authentication, cloud drives, employee portals, monitoring, and AI." xml:space="preserve">
+    <value>透過Voxihost，Aiursoft協助企業主機電郵、認證、雲端儲存、員工專區、監控及人工智能。</value>
+  </data>
   <data name="With local models and local integrations, inference inputs remain within your deployment. External providers receive the inputs you choose to send." xml:space="preserve">
     <value>使用本機模型及本機整合時，推論輸入會留在你的部署環境內。外部供應商只會收到你選擇傳送的輸入。</value>
   </data>
-  <data name="with Open-Source Infrastructure." xml:space="preserve">
-    <value>以開源基礎設施</value>
-  </data>
   <data name="With reliable cloud infrastructure, your business can grow reliably alongside Aiursoft." xml:space="preserve">
     <value>憑藉可靠的雲端基礎設施，您的業務可與 Aiursoft 一同穩健成長。</value>
-  </data>
-  <data name="With Voxihost, Aiursoft helps enterprises host Email, authentication, cloud drives, employee portals, monitoring, and AI." xml:space="preserve">
-    <value>透過Voxihost，Aiursoft協助企業主機電郵、認證、雲端儲存、員工專區、監控及人工智能。</value>
   </data>
   <data name="Yes, Aiursoft Template is completely free and open-source under the MIT License. You can use it for personal and commercial projects without any cost." xml:space="preserve">
     <value>係嘅，Aiursoft Template 係完全免費同開源嘅，採用 MIT 許可證。你可以用喺個人同商業項目度，唔使畀任何費用。</value>
@@ -989,6 +974,21 @@
   </data>
   <data name="Zot" xml:space="preserve">
     <value>Zot</value>
+  </data>
+  <data name="faster" xml:space="preserve">
+    <value>更快</value>
+  </data>
+  <data name="for any inquiries or to report issues." xml:space="preserve">
+    <value>如有任何查詢或報告問題。</value>
+  </data>
+  <data name="in the AI Era." xml:space="preserve">
+    <value>在人工智能時代。</value>
+  </data>
+  <data name="is Free Software" xml:space="preserve">
+    <value>是自由軟件</value>
+  </data>
+  <data name="with Open-Source Infrastructure." xml:space="preserve">
+    <value>以開源基礎設施</value>
   </data>
 
 </root>

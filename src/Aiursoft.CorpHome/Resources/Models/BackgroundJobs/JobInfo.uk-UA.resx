@@ -24,11 +24,11 @@
   <data name="Error message" xml:space="preserve">
     <value>Повідомлення про помилку</value>
   </data>
-  <data name="Job action" xml:space="preserve">
-    <value>Дія роботи</value>
-  </data>
   <data name="Job ID" xml:space="preserve">
     <value>Ідентифікатор завдання</value>
+  </data>
+  <data name="Job action" xml:space="preserve">
+    <value>Дія роботи</value>
   </data>
   <data name="Job name" xml:space="preserve">
     <value>Назва завдання</value>

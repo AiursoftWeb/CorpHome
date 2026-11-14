@@ -54,11 +54,11 @@
   <data name="Contact Sales" xml:space="preserve">
     <value>Contacter les ventes</value>
   </data>
-  <data name="Custom container development" xml:space="preserve">
-    <value>Développement de conteneur personnalisé</value>
-  </data>
   <data name="Custom Development Fee" xml:space="preserve">
     <value>Frais de développement personnalisé</value>
+  </data>
+  <data name="Custom container development" xml:space="preserve">
+    <value>Développement de conteneur personnalisé</value>
   </data>
   <data name="Customized for your enterprise" xml:space="preserve">
     <value>Personnalisé pour votre entreprise</value>
@@ -72,11 +72,11 @@
   <data name="Full Infrastructure Suite, on your local server" xml:space="preserve">
     <value>Suite complète d&apos;infrastructure, sur votre serveur local</value>
   </data>
-  <data name="Get a public cloud-like experience while hosting your applications in your own server." xml:space="preserve">
-    <value>Obtenez une expérience similaire à un cloud public tout en hébergeant vos applications sur votre propre serveur.</value>
-  </data>
   <data name="Get Started" xml:space="preserve">
     <value>Commencer</value>
+  </data>
+  <data name="Get a public cloud-like experience while hosting your applications in your own server." xml:space="preserve">
+    <value>Obtenez une expérience similaire à un cloud public tout en hébergeant vos applications sur votre propre serveur.</value>
   </data>
   <data name="GitLab, Ollama Gateway" xml:space="preserve">
     <value>GitLab, passerelle Ollama</value>
@@ -99,6 +99,9 @@
   <data name="Koel, Immich, Memos" xml:space="preserve">
     <value>Koel, Immich, Memos</value>
   </data>
+  <data name="MDM based device compliance" xml:space="preserve">
+    <value>Conformité des appareils basée sur la GMD</value>
+  </data>
   <data name="Mailcow" xml:space="preserve">
     <value>Mailcow</value>
   </data>
@@ -107,9 +110,6 @@
   </data>
   <data name="Max 1000 accounts" xml:space="preserve">
     <value>Max 1000 comptes</value>
-  </data>
-  <data name="MDM based device compliance" xml:space="preserve">
-    <value>Conformité des appareils basée sur la GMD</value>
   </data>
   <data name="On-premise AnduinOS Apkg" xml:space="preserve">
     <value>Apkg AnduinOS sur site</value>
@@ -138,9 +138,6 @@
   <data name="Strengthen your business with flexible Open Source projects that run by Aiursoft." xml:space="preserve">
     <value>Renforcez votre entreprise grâce à des projets Open Source flexibles gérés par Aiursoft.</value>
   </data>
-  <data name="tailored to your business needs" xml:space="preserve">
-    <value>adapté aux besoins de votre entreprise</value>
-  </data>
   <data name="Talk to an Architect" xml:space="preserve">
     <value>Parlez à un architecte</value>
   </data>
@@ -149,6 +146,9 @@
   </data>
   <data name="Zero Trust Yubikey Auth" xml:space="preserve">
     <value>Authentification Zero Trust avec Yubikey</value>
+  </data>
+  <data name="tailored to your business needs" xml:space="preserve">
+    <value>adapté aux besoins de votre entreprise</value>
   </data>
 
 </root>

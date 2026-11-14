@@ -66,20 +66,20 @@
   <data name="Custom Container Development" xml:space="preserve">
     <value>自訂容器開發</value>
   </data>
-  <data name="Custom speech synthesis/recognition, search integration &amp; deep investigation pipelines" xml:space="preserve">
-    <value>自訂語音合成/識別、搜尋整合與深度調查管線</value>
-  </data>
   <data name="Custom TTS / STT, Search Engine &amp; Deep Research" xml:space="preserve">
     <value>自訂 TTS / STT、搜尋引擎與深度研究</value>
+  </data>
+  <data name="Custom speech synthesis/recognition, search integration &amp; deep investigation pipelines" xml:space="preserve">
+    <value>自訂語音合成/識別、搜尋整合與深度調查管線</value>
   </data>
   <data name="Deployment &amp; Hosting" xml:space="preserve">
     <value>部署與託管</value>
   </data>
-  <data name="Device policy integration with scope and supported platforms agreed before deployment" xml:space="preserve">
-    <value>部署前須確認裝置政策整合範圍及支援的平台</value>
-  </data>
   <data name="DevOps &amp; Engineering" xml:space="preserve">
     <value>DevOps &amp; Engineering</value>
+  </data>
+  <data name="Device policy integration with scope and supported platforms agreed before deployment" xml:space="preserve">
+    <value>部署前須確認裝置政策整合範圍及支援的平台</value>
   </data>
   <data name="Document Conversion" xml:space="preserve">
     <value>文件轉換</value>
@@ -105,6 +105,9 @@
   <data name="GitLab is a trademark of GitLab Inc. Aiursoft provides deployment, hosting, and integration services for GitLab — we are not affiliated with or endorsed by GitLab Inc. The GitLab Community Edition (CE) is MIT-licensed and can be deployed freely. The GitLab Enterprise Edition (EE) requires a separate license purchased from GitLab Inc. We can assist you with procuring the appropriate GitLab EE license, or you may choose to remove this item from your plan." xml:space="preserve">
     <value>GitLab 是 GitLab Inc. 的商標。Aiursoft 提供 GitLab 的部署、託管及整合服務——我們與 GitLab Inc. 無從屬關係，亦未獲其授權認可。GitLab Community Edition (CE) 採用 MIT 授權協議，可免費部署。GitLab Enterprise Edition (EE) 需另行向 GitLab Inc. 購買授權。我們可協助您採購合適的 GitLab EE 授權，您亦可選擇將此項目從方案中移除。</value>
   </data>
+  <data name="HR &amp; Org Portal" xml:space="preserve">
+    <value>HR &amp; Org Portal</value>
+  </data>
   <data name="Hacker" xml:space="preserve">
     <value>開發者</value>
   </data>
@@ -117,9 +120,6 @@
   <data name="Hosted by Aiursoft, not on-premise" xml:space="preserve">
     <value>由 Aiursoft 託管，非本機部署</value>
   </data>
-  <data name="HR &amp; Org Portal" xml:space="preserve">
-    <value>HR &amp; Org Portal</value>
-  </data>
   <data name="Identity &amp; Security" xml:space="preserve">
     <value>身份與安全</value>
   </data>
@@ -128,6 +128,9 @@
   </data>
   <data name="Local LLM API Gateway" xml:space="preserve">
     <value>本地 LLM API 閘道</value>
+  </data>
+  <data name="MDM Device Compliance" xml:space="preserve">
+    <value>MDM 裝置合規性</value>
   </data>
   <data name="Mailcow is open-source software (GPL-3.0). Aiursoft provides managed hosting, deployment, and integration services. Any custom modifications provided during your on-premise deployment are fully compliant with and distributed under the GPL-3.0 license." xml:space="preserve">
     <value>Mailcow 是開放原始碼軟體（GPL-3.0）。Aiursoft 提供託管主機、部署及整合服務。在您本地部署期間所提供的任何自訂修改，均完全符合 GPL-3.0 授權條款並依此條款分發。</value>
@@ -141,14 +144,8 @@
   <data name="Max User Accounts" xml:space="preserve">
     <value>最大使用者帳戶數</value>
   </data>
-  <data name="MDM Device Compliance" xml:space="preserve">
-    <value>MDM 裝置合規性</value>
-  </data>
   <data name="Media &amp; Personal" xml:space="preserve">
     <value>媒體與個人</value>
-  </data>
-  <data name="mo" xml:space="preserve">
-    <value>月</value>
   </data>
   <data name="Multi-site &amp; HA capable" xml:space="preserve">
     <value>支援多站點與高可用性</value>
@@ -174,17 +171,17 @@
   <data name="Online Code Execution" xml:space="preserve">
     <value>線上程式碼執行</value>
   </data>
+  <data name="PDF Processing &amp; Vector Database" xml:space="preserve">
+    <value>PDF 處理與向量資料庫</value>
+  </data>
+  <data name="PDF ingestion &amp; vector store construction via PaddleOCR" xml:space="preserve">
+    <value>透過 PaddleOCR 進行 PDF  ingestion 與向量儲存庫建構</value>
+  </data>
   <data name="PaddleOCR-based" xml:space="preserve">
     <value>基於 PaddleOCR</value>
   </data>
   <data name="Partial / limited" xml:space="preserve">
     <value>部分/有限</value>
-  </data>
-  <data name="PDF ingestion &amp; vector store construction via PaddleOCR" xml:space="preserve">
-    <value>透過 PaddleOCR 進行 PDF  ingestion 與向量儲存庫建構</value>
-  </data>
-  <data name="PDF Processing &amp; Vector Database" xml:space="preserve">
-    <value>PDF 處理與向量資料庫</value>
   </data>
   <data name="Photo &amp; Video Management" xml:space="preserve">
     <value>照片與影片管理</value>
@@ -197,6 +194,9 @@
   </data>
   <data name="Repository Sync" xml:space="preserve">
     <value>倉庫同步</value>
+  </data>
+  <data name="SSO / Identity Gateway" xml:space="preserve">
+    <value>SSO / 身份網關</value>
   </data>
   <data name="SaaS only" xml:space="preserve">
     <value>僅限 SaaS</value>
@@ -225,9 +225,6 @@
   <data name="Source Control &amp; CI/CD" xml:space="preserve">
     <value>版本控制與持續整合/持續部署</value>
   </data>
-  <data name="SSO / Identity Gateway" xml:space="preserve">
-    <value>SSO / 身份網關</value>
-  </data>
   <data name="Startup" xml:space="preserve">
     <value>初創</value>
   </data>
@@ -243,14 +240,11 @@
   <data name="Team Voting" xml:space="preserve">
     <value>團隊投票</value>
   </data>
-  <data name="Unlimited" xml:space="preserve">
-    <value>無限</value>
-  </data>
   <data name="URL Shortener" xml:space="preserve">
     <value>URL 縮短器</value>
   </data>
-  <data name="user" xml:space="preserve">
-    <value>使用者</value>
+  <data name="Unlimited" xml:space="preserve">
+    <value>無限</value>
   </data>
   <data name="What&apos;s Included" xml:space="preserve">
     <value>包含項目</value>
@@ -260,6 +254,12 @@
   </data>
   <data name="Zero Trust Yubikey Auth" xml:space="preserve">
     <value>零信任 Yubikey 驗證</value>
+  </data>
+  <data name="mo" xml:space="preserve">
+    <value>月</value>
+  </data>
+  <data name="user" xml:space="preserve">
+    <value>使用者</value>
   </data>
 
 </root>

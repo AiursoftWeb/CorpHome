@@ -36,11 +36,11 @@
   <data name="A modern, feature-rich, and highly extensible foundation for your next web application." xml:space="preserve">
     <value>Nykyaikainen, ominaisuuksiltaan monipuolinen ja erittäin laajennettavissa oleva perusta seuraavalle verkkosovelluksellesi.</value>
   </data>
-  <data name="About Aiursoft" xml:space="preserve">
-    <value>Tietoa Aiursoftista</value>
-  </data>
   <data name="AI-Powered Translations" xml:space="preserve">
     <value>Tekoälyn voimaan perustuvat käännökset</value>
+  </data>
+  <data name="About Aiursoft" xml:space="preserve">
+    <value>Tietoa Aiursoftista</value>
   </data>
   <data name="All dependencies are automatically registered and always available via constructor injection." xml:space="preserve">
     <value>Kaikki riippuvuudet rekisteröidään automaattisesti ja ne ovat aina saatavilla konstruktorin kautta tapahtuvan injektoinnin avulla.</value>

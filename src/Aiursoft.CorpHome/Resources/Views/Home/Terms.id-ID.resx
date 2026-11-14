@@ -51,11 +51,11 @@
   <data name="9. Modifications to the Terms" xml:space="preserve">
     <value>9. Perubahan pada Syarat</value>
   </data>
-  <data name="Aiursoft hosts the infrastructure on our secured servers. We are responsible for server uptime, standard backups, and basic network security." xml:space="preserve">
-    <value>Aiursoft menghosting infrastruktur pada server aman kami. Kami bertanggung jawab atas waktu aktif server, cadangan standar, dan keamanan jaringan dasar.</value>
-  </data>
   <data name="AIURSOFT LIMITED" xml:space="preserve">
     <value>AIURSOFT LIMITED</value>
+  </data>
+  <data name="Aiursoft hosts the infrastructure on our secured servers. We are responsible for server uptime, standard backups, and basic network security." xml:space="preserve">
+    <value>Aiursoft menghosting infrastruktur pada server aman kami. Kami bertanggung jawab atas waktu aktif server, cadangan standar, dan keamanan jaringan dasar.</value>
   </data>
   <data name="Aiursoft provides enterprise IT infrastructure solutions built upon open-source technologies (e.g., Linux, Nextcloud, Mailcow, Authentik, GitLab)." xml:space="preserve">
     <value>Aiursoft menyediakan solusi infrastruktur TI perusahaan yang dibangun di atas teknologi open-source (misalnya, Linux, Nextcloud, Mailcow, Authentik, GitLab).</value>
@@ -159,17 +159,14 @@
   <data name="The Service is Commercial:" xml:space="preserve">
     <value>Layanan ini bersifat Komersial:</value>
   </data>
-  <data name="The software is deployed on your local servers or private cloud. You retain absolute physical control and ownership of your data (&quot;Own Your Data&quot;). Consequently, you are solely responsible for your underlying hardware, local network security, physical access control, and disaster recovery backups. Aiursoft&apos;s responsibility is limited to software-level maintenance, container updates, and technical support as defined in your plan." xml:space="preserve">
-    <value>Perangkat lunak diimplementasikan pada server lokal atau cloud pribadi Anda. Anda mempertahankan kontrol fisik dan kepemilikan data yang mutlak (&quot;Own Your Data&quot;). Akibatnya, Anda sepenuhnya bertanggung jawab atas perangkat keras dasar, keamanan jaringan lokal, kontrol akses fisik, dan cadangan pemulihan bencana. Tanggung jawab Aiursoft terbatas pada pemeliharaan tingkat perangkat lunak, pembaruan container, dan dukungan teknis sebagaimana ditentukan dalam rencana Anda.</value>
-  </data>
   <data name="The Software is Free:" xml:space="preserve">
     <value>Perangkat Lunaknya Gratis:</value>
   </data>
+  <data name="The software is deployed on your local servers or private cloud. You retain absolute physical control and ownership of your data (&quot;Own Your Data&quot;). Consequently, you are solely responsible for your underlying hardware, local network security, physical access control, and disaster recovery backups. Aiursoft&apos;s responsibility is limited to software-level maintenance, container updates, and technical support as defined in your plan." xml:space="preserve">
+    <value>Perangkat lunak diimplementasikan pada server lokal atau cloud pribadi Anda. Anda mempertahankan kontrol fisik dan kepemilikan data yang mutlak (&quot;Own Your Data&quot;). Akibatnya, Anda sepenuhnya bertanggung jawab atas perangkat keras dasar, keamanan jaringan lokal, kontrol akses fisik, dan cadangan pemulihan bencana. Tanggung jawab Aiursoft terbatas pada pemeliharaan tingkat perangkat lunak, pembaruan container, dan dukungan teknis sebagaimana ditentukan dalam rencana Anda.</value>
+  </data>
   <data name="The underlying open-source codes are subject to their respective licenses (e.g., MIT, GPL). You are free to inspect, modify, and distribute the code as permitted by those licenses." xml:space="preserve">
     <value>Kode sumber terbuka yang mendasarinya tunduk pada lisensi masing-masing (misalnya, MIT, GPL). Anda bebas memeriksa, memodifikasi, dan mendistribusikan kode tersebut sebagaimana diizinkan oleh lisensi-lisensi tersebut.</value>
-  </data>
-  <data name="These cancellation and non-refund rules apply to voluntary cancellation. They do not exclude remedies for our failure to provide the agreed services, override the specific commitments in an applicable service agreement, or limit rights that cannot be excluded under applicable law." xml:space="preserve">
-    <value>Aturan pembatalan dan non-refund ini berlaku untuk pembatalan sukarela. Aturan ini tidak mengecualikan hak-hak perbaikan atas kegagalan kami dalam menyediakan layanan yang disepakati, tidak membatalkan komitmen spesifik dalam perjanjian layanan yang berlaku, dan tidak membatasi hak-hak yang tidak dapat dikecualikan berdasarkan hukum yang berlaku.</value>
   </data>
   <data name="These Terms of Service (&quot;Terms&quot;) govern your access to and use of the Aiursoft website, products, and subscription services, including but not limited to Aiursoft Substrate (Core, Startup, and Enterprise plans) (collectively, the &quot;Services&quot;). By registering for an account or purchasing a subscription, you agree to be bound by these Terms." xml:space="preserve">
     <value>Syarat Layanan ini (&quot;Syarat&quot;) mengatur akses Anda dan penggunaan situs web, produk, serta layanan berlangganan Aiursoft, termasuk tetapi tidak terbatas pada Aiursoft Substrate (paket Core, Startup, dan Enterprise) (secara kolektif, &quot;Layanan&quot;). Dengan mendaftarkan akun atau membeli langganan, Anda setuju untuk terikat oleh Syarat ini.</value>
@@ -179,6 +176,9 @@
   </data>
   <data name="These Terms shall be governed by and construed in accordance with the laws of the Hong Kong Special Administrative Region, without regard to its conflict of law provisions." xml:space="preserve">
     <value>Syarat-syarat ini akan diatur dan ditafsirkan sesuai dengan hukum Wilayah Administratif Khusus Hong Kong, tanpa memperhatikan ketentuan benturan hukumnya.</value>
+  </data>
+  <data name="These cancellation and non-refund rules apply to voluntary cancellation. They do not exclude remedies for our failure to provide the agreed services, override the specific commitments in an applicable service agreement, or limit rights that cannot be excluded under applicable law." xml:space="preserve">
+    <value>Aturan pembatalan dan non-refund ini berlaku untuk pembatalan sukarela. Aturan ini tidak mengecualikan hak-hak perbaikan atas kegagalan kami dalam menyediakan layanan yang disepakati, tidak membatalkan komitmen spesifik dalam perjanjian layanan yang berlaku, dan tidak membatasi hak-hak yang tidak dapat dikecualikan berdasarkan hukum yang berlaku.</value>
   </data>
   <data name="To ensure uninterrupted service, our commercial plans operate on a recurring subscription basis." xml:space="preserve">
     <value>Untuk memastikan layanan yang tidak terputus, paket komersial kami beroperasi berdasarkan langganan berulang.</value>

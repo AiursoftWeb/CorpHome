@@ -27,6 +27,9 @@
   <data name="27 inch" xml:space="preserve">
     <value>27 inch</value>
   </data>
+  <data name="ARM64 Support" xml:space="preserve">
+    <value>Hỗ trợ ARM64</value>
+  </data>
   <data name="Add to Management Cloud and go live" xml:space="preserve">
     <value>Thêm vào Management Cloud và bắt đầu sử dụng</value>
   </data>
@@ -42,9 +45,6 @@
   <data name="AnduinOS 2.0 standard support ends in April 2031, as for the community edition. Enterprise services do not extend this release&apos;s security-update lifecycle. Service scope and subscription duration are specified in your agreement." xml:space="preserve">
     <value>Hỗ trợ tiêu chuẩn cho AnduinOS 2.0 sẽ kết thúc vào tháng 4 năm 2031, tương tự như phiên bản cộng đồng. Các dịch vụ dành cho doanh nghiệp không kéo dài vòng đời cập nhật bảo mật của phiên bản này. Phạm vi dịch vụ và thời hạn đăng ký được quy định trong thỏa thuận của bạn.</value>
   </data>
-  <data name="AnduinOS device" xml:space="preserve">
-    <value>thiết bị AnduinOS</value>
-  </data>
   <data name="AnduinOS Enterprise" xml:space="preserve">
     <value>AnduinOS Doanh nghiệp</value>
   </data>
@@ -53,6 +53,15 @@
   </data>
   <data name="AnduinOS Enterprise provides brand customisation, enabling you to replace the system logo with your own." xml:space="preserve">
     <value>AnduinOS Enterprise cung cấp tùy chỉnh thương hiệu, cho phép bạn thay thế logo hệ thống bằng logo của riêng bạn.</value>
+  </data>
+  <data name="AnduinOS Kiosk" xml:space="preserve">
+    <value>AnduinOS Kiosk</value>
+  </data>
+  <data name="AnduinOS Management Cloud" xml:space="preserve">
+    <value>AnduinOS Management Cloud</value>
+  </data>
+  <data name="AnduinOS device" xml:space="preserve">
+    <value>thiết bị AnduinOS</value>
   </data>
   <data name="AnduinOS fleet" xml:space="preserve">
     <value>hạm máy chủ AnduinOS</value>
@@ -69,12 +78,6 @@
   <data name="AnduinOS is based on Ubuntu&apos;s package base. It&apos;s compatible with most of the apt packages from Ubuntu. It&apos;s a perfect combination of experience and ecology." xml:space="preserve">
     <value>AnduinOS được xây dựng trên nền tảng gói phần mềm của Ubuntu. Hệ điều hành này tương thích với hầu hết các gói apt từ Ubuntu. Đây là sự kết hợp hoàn hảo giữa trải nghiệm người dùng và hệ sinh thái phần mềm.</value>
   </data>
-  <data name="AnduinOS Kiosk" xml:space="preserve">
-    <value>AnduinOS Kiosk</value>
-  </data>
-  <data name="AnduinOS Management Cloud" xml:space="preserve">
-    <value>AnduinOS Management Cloud</value>
-  </data>
   <data name="AnduinOS wakes up almost as fast as you can blink. Wait time? What&apos;s that? Lightning-fast start-up on any hardware." xml:space="preserve">
     <value>AnduinOS khởi động nhanh tới mức chớp mắt cũng không kịp. Thời gian chờ? Cái gì vậy? Khởi động nhanh như chớp trên mọi phần cứng.</value>
   </data>
@@ -89,9 +92,6 @@
   </data>
   <data name="Architecture" xml:space="preserve">
     <value>Kiến trúc</value>
-  </data>
-  <data name="ARM64 Support" xml:space="preserve">
-    <value>Hỗ trợ ARM64</value>
   </data>
   <data name="At just 2.54 GB, the ISO is lightweight and fast to deploy across your fleet. The live environment lets your IT team quickly boot, repair, and diagnose systems without installing." xml:space="preserve">
     <value>Với dung lượng chỉ 2,4 GB, file ISO nhẹ nhàng và triển khai nhanh chóng trên toàn bộ đội máy tính của bạn. Môi trường Live cho phép đội IT của bạn khởi động, sửa chữa và chẩn đoán hệ thống một cách nhanh chóng mà không cần cài đặt.</value>
@@ -195,9 +195,6 @@
   <data name="Device Management Integrations" xml:space="preserve">
     <value>Tích hợp quản lý thiết bị</value>
   </data>
-  <data name="digital signage and kiosk terminals" xml:space="preserve">
-    <value>màn hình hiển thị kỹ thuật số và thiết bị đầu cuối kiosk</value>
-  </data>
   <data name="Disk Space" xml:space="preserve">
     <value>Dung lượng đĩa</value>
   </data>
@@ -258,9 +255,6 @@
   <data name="Explore StatHub" xml:space="preserve">
     <value>Khám phá StatHub</value>
   </data>
-  <data name="ext4 optional" xml:space="preserve">
-    <value>tùy chọn ext4</value>
-  </data>
   <data name="Familiar UX" xml:space="preserve">
     <value>Giao diện quen thuộc</value>
   </data>
@@ -282,14 +276,14 @@
   <data name="Fully On-Premise" xml:space="preserve">
     <value>Hoàn toàn On-Premise</value>
   </data>
+  <data name="GPL-v3 License" xml:space="preserve">
+    <value>Giấy phép GPL-v3</value>
+  </data>
   <data name="Get the AnduinOS image from our site" xml:space="preserve">
     <value>Tải ảnh AnduinOS từ trang web của chúng tôi</value>
   </data>
   <data name="Get up-to-the-second updates on every AnduinOS device&apos;s CPU, memory, disk, and network usage." xml:space="preserve">
     <value>Nhận cập nhật theo từng giây về việc sử dụng CPU, bộ nhớ, đĩa và mạng trên mọi thiết bị AnduinOS.</value>
-  </data>
-  <data name="GPL-v3 License" xml:space="preserve">
-    <value>Giấy phép GPL-v3</value>
   </data>
   <data name="Graphical applications are installed via Flatpak, and keep themselves separate from the base system. They also allow for fine-grained control over their permissions." xml:space="preserve">
     <value>Các ứng dụng đồ họa được cài đặt qua Flatpak và duy trì sự tách biệt khỏi hệ thống cơ bản. Chúng cũng cho phép kiểm soát chi tiết các quyền truy cập.</value>
@@ -327,6 +321,9 @@
   <data name="Kiosk mode prevents unauthorized access. Users can only interact with your approved application, keeping your deployment secure." xml:space="preserve">
     <value>Chế độ Kiosk ngăn chặn truy cập trái phép. Người dùng chỉ có thể tương tác với ứng dụng đã được bạn phê duyệt, giúp hệ thống triển khai của bạn luôn an toàn.</value>
   </data>
+  <data name="LTS Support" xml:space="preserve">
+    <value>Hỗ trợ LTS</value>
+  </data>
   <data name="Lightweight Agents" xml:space="preserve">
     <value>Tác nhân Nhẹ</value>
   </data>
@@ -345,14 +342,8 @@
   <data name="Low-overhead agents collect metrics without impacting your AnduinOS devices&apos; performance. Deploy in seconds with Docker." xml:space="preserve">
     <value>Các tác nhân nhẹ nhàng thu thập các chỉ số mà không ảnh hưởng đến hiệu suất của thiết bị AnduinOS của bạn. Triển khai trong vài giây với Docker.</value>
   </data>
-  <data name="LTS Support" xml:space="preserve">
-    <value>Hỗ trợ LTS</value>
-  </data>
   <data name="Managed Update Rollouts" xml:space="preserve">
     <value>Quản lý triển khai các bản cập nhật</value>
-  </data>
-  <data name="management for your fleet" xml:space="preserve">
-    <value>quản lý cho đội thiết bị của bạn</value>
   </data>
   <data name="Memory Compression" xml:space="preserve">
     <value>Nén bộ nhớ</value>
@@ -390,9 +381,6 @@
   <data name="Open Source" xml:space="preserve">
     <value>Mã nguồn mở</value>
   </data>
-  <data name="or" xml:space="preserve">
-    <value>hoặc</value>
-  </data>
   <data name="Package Distribution" xml:space="preserve">
     <value>Phân phối Gói phần mềm</value>
   </data>
@@ -425,9 +413,6 @@
   </data>
   <data name="Processor" xml:space="preserve">
     <value>Bộ xử lý</value>
-  </data>
-  <data name="quad-core" xml:space="preserve">
-    <value>bốn nhân</value>
   </data>
   <data name="RAM" xml:space="preserve">
     <value>RAM</value>
@@ -534,11 +519,11 @@
   <data name="The GNOME-based desktop environment has beautiful interfaces and human-computer interactions that fit user habits, allowing you to quickly get started with AnduinOS without too much learning cost." xml:space="preserve">
     <value>Môi trường máy tính để bàn dựa trên GNOME có giao diện đẹp mắt và tương tác người-máy phù hợp với thói quen người dùng, giúp bạn nhanh chóng làm quen với AnduinOS mà không cần tốn nhiều công sức học hỏi.</value>
   </data>
-  <data name="The ideal solution for" xml:space="preserve">
-    <value>Giải pháp lý tưởng cho</value>
-  </data>
   <data name="The ISO is just 2.4GB in size. Similar to Ubuntu, it is simple to install and can meet your daily needs without additional configuration or complicated operations." xml:space="preserve">
     <value>File ISO chỉ nặng 2,4GB. Giống như Ubuntu, hệ điều hành này dễ dàng cài đặt và có thể đáp ứng nhu cầu hàng ngày của bạn mà không cần cấu hình thêm hay thực hiện các thao tác phức tạp.</value>
+  </data>
+  <data name="The ideal solution for" xml:space="preserve">
+    <value>Giải pháp lý tưởng cho</value>
   </data>
   <data name="The operating system your enterprise needs — familiar, beautiful, stable, mature, and easy to manage. AnduinOS Enterprise is built on Linux 7.0, GNOME 50, and Ubuntu 26.04, keeping your team in a comfortable, productive environment." xml:space="preserve">
     <value>Hệ điều hành mà doanh nghiệp của bạn cần — quen thuộc, đẹp mắt, ổn định, trưởng thành và dễ quản lý. AnduinOS Enterprise được xây dựng dựa trên nền tảng Linux 7.0, GNOME 50 và Ubuntu 26.04, giúp đội ngũ của bạn làm việc trong môi trường thoải mái, năng suất.</value>
@@ -552,11 +537,11 @@
   <data name="Turn any screen into a kiosk" xml:space="preserve">
     <value>Biến bất kỳ màn hình nào thành kios</value>
   </data>
-  <data name="Ubuntu Base" xml:space="preserve">
-    <value>Dựa trên Ubuntu</value>
-  </data>
   <data name="UI Toolkit" xml:space="preserve">
     <value>Bộ công cụ giao diện người dùng</value>
+  </data>
+  <data name="Ubuntu Base" xml:space="preserve">
+    <value>Dựa trên Ubuntu</value>
   </data>
   <data name="Update and restart policies are configured for your deployment. Test releases before rollout and schedule maintenance for changes that require downtime." xml:space="preserve">
     <value>Các chính sách cập nhật và khởi động lại được cấu hình cho hệ thống triển khai của bạn. Hãy kiểm thử các bản phát hành trước khi triển khai rộng rãi và lên lịch bảo trì cho những thay đổi cần thời gian ngừng hoạt động.</value>
@@ -579,23 +564,38 @@
   <data name="Why choose AnduinOS?" xml:space="preserve">
     <value>Tại sao chọn AnduinOS?</value>
   </data>
-  <data name="with Apkg" xml:space="preserve">
-    <value>với Apkg</value>
-  </data>
   <data name="With just a few clicks, you can have AnduinOS running on any machine. Enjoy automatic updates, built-in security, and remote management from the cloud — so once deployed, it just works." xml:space="preserve">
     <value>Chỉ với vài cú nhấp chuột, bạn có thể chạy AnduinOS trên bất kỳ máy nào. Tận hưởng các bản cập nhật tự động, bảo mật tích hợp và quản lý từ xa qua đám mây — nên một khi triển khai xong, mọi thứ sẽ hoạt động ngay lập tức.</value>
-  </data>
-  <data name="with Secure Boot" xml:space="preserve">
-    <value>với Secure Boot</value>
-  </data>
-  <data name="with StatHub" xml:space="preserve">
-    <value>với StatHub</value>
   </data>
   <data name="Without Snap" xml:space="preserve">
     <value>Không sử dụng Snap</value>
   </data>
   <data name="Write the image to a USB drive" xml:space="preserve">
     <value>Đặt hình ảnh vào một ổ USB</value>
+  </data>
+  <data name="digital signage and kiosk terminals" xml:space="preserve">
+    <value>màn hình hiển thị kỹ thuật số và thiết bị đầu cuối kiosk</value>
+  </data>
+  <data name="ext4 optional" xml:space="preserve">
+    <value>tùy chọn ext4</value>
+  </data>
+  <data name="management for your fleet" xml:space="preserve">
+    <value>quản lý cho đội thiết bị của bạn</value>
+  </data>
+  <data name="or" xml:space="preserve">
+    <value>hoặc</value>
+  </data>
+  <data name="quad-core" xml:space="preserve">
+    <value>bốn nhân</value>
+  </data>
+  <data name="with Apkg" xml:space="preserve">
+    <value>với Apkg</value>
+  </data>
+  <data name="with Secure Boot" xml:space="preserve">
+    <value>với Secure Boot</value>
+  </data>
+  <data name="with StatHub" xml:space="preserve">
+    <value>với StatHub</value>
   </data>
 
 </root>

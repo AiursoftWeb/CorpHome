@@ -54,11 +54,11 @@
   <data name="Contact Sales" xml:space="preserve">
     <value>営業へのお問い合わせ</value>
   </data>
-  <data name="Custom container development" xml:space="preserve">
-    <value>カスタムコンテナ開発</value>
-  </data>
   <data name="Custom Development Fee" xml:space="preserve">
     <value>カスタム開発手数料</value>
+  </data>
+  <data name="Custom container development" xml:space="preserve">
+    <value>カスタムコンテナ開発</value>
   </data>
   <data name="Customized for your enterprise" xml:space="preserve">
     <value>貴社の企業向けにカスタマイズ</value>
@@ -72,11 +72,11 @@
   <data name="Full Infrastructure Suite, on your local server" xml:space="preserve">
     <value>フルインフラストラクチャスイート、ローカルサーバー上</value>
   </data>
-  <data name="Get a public cloud-like experience while hosting your applications in your own server." xml:space="preserve">
-    <value>オンプレミスサーバーでアプリケーションをホストしながら、パブリッククラウドのような体験を得られます。</value>
-  </data>
   <data name="Get Started" xml:space="preserve">
     <value>始めましょう</value>
+  </data>
+  <data name="Get a public cloud-like experience while hosting your applications in your own server." xml:space="preserve">
+    <value>オンプレミスサーバーでアプリケーションをホストしながら、パブリッククラウドのような体験を得られます。</value>
   </data>
   <data name="GitLab, Ollama Gateway" xml:space="preserve">
     <value>GitLab、Ollamaゲートウェイ</value>
@@ -99,6 +99,9 @@
   <data name="Koel, Immich, Memos" xml:space="preserve">
     <value>Koel, Immich, Memos</value>
   </data>
+  <data name="MDM based device compliance" xml:space="preserve">
+    <value>MDM ベースのデバイスコンプライアンス</value>
+  </data>
   <data name="Mailcow" xml:space="preserve">
     <value>Mailcow</value>
   </data>
@@ -107,9 +110,6 @@
   </data>
   <data name="Max 1000 accounts" xml:space="preserve">
     <value>最大 1000 アカウント</value>
-  </data>
-  <data name="MDM based device compliance" xml:space="preserve">
-    <value>MDM ベースのデバイスコンプライアンス</value>
   </data>
   <data name="On-premise AnduinOS Apkg" xml:space="preserve">
     <value>オンプレミス AnduinOS Apkg</value>
@@ -138,9 +138,6 @@
   <data name="Strengthen your business with flexible Open Source projects that run by Aiursoft." xml:space="preserve">
     <value>柔軟なオープンソースプロジェクトでビジネスを強化しましょう。これらはAiursoftによって運営されています。</value>
   </data>
-  <data name="tailored to your business needs" xml:space="preserve">
-    <value>貴社のビジネスニーズに合わせたカスタマイズ</value>
-  </data>
   <data name="Talk to an Architect" xml:space="preserve">
     <value>アーキテクトに相談する</value>
   </data>
@@ -149,6 +146,9 @@
   </data>
   <data name="Zero Trust Yubikey Auth" xml:space="preserve">
     <value>ゼロトラスト Yubikey 認証</value>
+  </data>
+  <data name="tailored to your business needs" xml:space="preserve">
+    <value>貴社のビジネスニーズに合わせたカスタマイズ</value>
   </data>
 
 </root>

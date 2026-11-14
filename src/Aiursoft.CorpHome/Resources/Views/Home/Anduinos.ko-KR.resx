@@ -27,6 +27,9 @@
   <data name="27 inch" xml:space="preserve">
     <value>27인치</value>
   </data>
+  <data name="ARM64 Support" xml:space="preserve">
+    <value>ARM64 지원</value>
+  </data>
   <data name="Add to Management Cloud and go live" xml:space="preserve">
     <value>Management Cloud에 추가하고 바로 사용</value>
   </data>
@@ -42,9 +45,6 @@
   <data name="AnduinOS 2.0 standard support ends in April 2031, as for the community edition. Enterprise services do not extend this release&apos;s security-update lifecycle. Service scope and subscription duration are specified in your agreement." xml:space="preserve">
     <value>커뮤니티 에디션의 경우 AnduinOS 2.0의 표준 지원은 2031년 4월에 종료됩니다. 엔터프라이즈 서비스는 이 릴리스의 보안 업데이트 지원 기간을 연장하지 않습니다. 서비스 범위와 구독 기간은 계약서에 명시되어 있습니다.</value>
   </data>
-  <data name="AnduinOS device" xml:space="preserve">
-    <value>AnduinOS 디바이스</value>
-  </data>
   <data name="AnduinOS Enterprise" xml:space="preserve">
     <value>AnduinOS Enterprise</value>
   </data>
@@ -53,6 +53,15 @@
   </data>
   <data name="AnduinOS Enterprise provides brand customisation, enabling you to replace the system logo with your own." xml:space="preserve">
     <value>AnduinOS Enterprise는 브랜드 커스터마이징을 제공하여 시스템 로고를 자체 로고로 교체할 수 있습니다.</value>
+  </data>
+  <data name="AnduinOS Kiosk" xml:space="preserve">
+    <value>AnduinOS 키오스크</value>
+  </data>
+  <data name="AnduinOS Management Cloud" xml:space="preserve">
+    <value>AnduinOS 관리 클라우드</value>
+  </data>
+  <data name="AnduinOS device" xml:space="preserve">
+    <value>AnduinOS 디바이스</value>
   </data>
   <data name="AnduinOS fleet" xml:space="preserve">
     <value>AnduinOS 기지</value>
@@ -69,12 +78,6 @@
   <data name="AnduinOS is based on Ubuntu&apos;s package base. It&apos;s compatible with most of the apt packages from Ubuntu. It&apos;s a perfect combination of experience and ecology." xml:space="preserve">
     <value>AnduinOS는 Ubuntu의 패키지 기반을 사용합니다. Ubuntu의 대부분의 apt 패키지와 호환됩니다. 사용자 경험과 생태계의 완벽한 결합입니다.</value>
   </data>
-  <data name="AnduinOS Kiosk" xml:space="preserve">
-    <value>AnduinOS 키오스크</value>
-  </data>
-  <data name="AnduinOS Management Cloud" xml:space="preserve">
-    <value>AnduinOS 관리 클라우드</value>
-  </data>
   <data name="AnduinOS wakes up almost as fast as you can blink. Wait time? What&apos;s that? Lightning-fast start-up on any hardware." xml:space="preserve">
     <value>AnduinOS는 눈깜짝 할 사이에 거의 동시에 깨어납니다. 대기 시간? 그게 뭔가요? 어떤 하드웨어에서도 번개처럼 빠른 시작 경험을 제공합니다.</value>
   </data>
@@ -89,9 +92,6 @@
   </data>
   <data name="Architecture" xml:space="preserve">
     <value>아키텍처</value>
-  </data>
-  <data name="ARM64 Support" xml:space="preserve">
-    <value>ARM64 지원</value>
   </data>
   <data name="At just 2.54 GB, the ISO is lightweight and fast to deploy across your fleet. The live environment lets your IT team quickly boot, repair, and diagnose systems without installing." xml:space="preserve">
     <value>mere 2.4GB의 ISO는 경량이며 그룹 전체에 빠르게 배포할 수 있습니다. 라이브 환경은 IT팀이 설치 없이 시스템을 빠르게 부팅하고 복구 및 진단할 수 있게 해줍니다.</value>
@@ -198,9 +198,6 @@
   <data name="Device Management Integrations" xml:space="preserve">
     <value>디바이스 관리 통합</value>
   </data>
-  <data name="digital signage and kiosk terminals" xml:space="preserve">
-    <value>디지털 사이니지 및 키오스크 단말기</value>
-  </data>
   <data name="Disk Space" xml:space="preserve">
     <value>디스크 공간</value>
   </data>
@@ -261,9 +258,6 @@
   <data name="Explore StatHub" xml:space="preserve">
     <value>StatHub 탐색하기</value>
   </data>
-  <data name="ext4 optional" xml:space="preserve">
-    <value>ext4 선택 가능</value>
-  </data>
   <data name="Familiar UX" xml:space="preserve">
     <value>익숙한 UX</value>
   </data>
@@ -285,14 +279,14 @@
   <data name="Fully On-Premise" xml:space="preserve">
     <value>완전 온프레미스</value>
   </data>
+  <data name="GPL-v3 License" xml:space="preserve">
+    <value>GPL-v3 라이선스</value>
+  </data>
   <data name="Get the AnduinOS image from our site" xml:space="preserve">
     <value>저희 사이트에서 AnduinOS 이미지를 다운로드하세요</value>
   </data>
   <data name="Get up-to-the-second updates on every AnduinOS device&apos;s CPU, memory, disk, and network usage." xml:space="preserve">
     <value>각 AnduinOS 장치의 CPU, 메모리, 디스크 및 네트워크 사용량에 대한 초 단위 업데이트를 받아보세요.</value>
-  </data>
-  <data name="GPL-v3 License" xml:space="preserve">
-    <value>GPL-v3 라이선스</value>
   </data>
   <data name="Graphical applications are installed via Flatpak, and keep themselves separate from the base system. They also allow for fine-grained control over their permissions." xml:space="preserve">
     <value>그래픽 애플리케이션은 Flatpak을 통해 설치되며, 기본 시스템과 격리되어 실행됩니다. 또한 권한 설정에 대해 세밀한 제어를 지원합니다.</value>
@@ -330,6 +324,9 @@
   <data name="Kiosk mode prevents unauthorized access. Users can only interact with your approved application, keeping your deployment secure." xml:space="preserve">
     <value>키오크 모드는 무단 접근을 방지합니다. 사용자는 승인된 애플리케이션과만 상호 작용할 수 있어 배포 환경의 보안이 유지됩니다.</value>
   </data>
+  <data name="LTS Support" xml:space="preserve">
+    <value>LTS 지원</value>
+  </data>
   <data name="Lightweight Agents" xml:space="preserve">
     <value>가벼운 에이전트</value>
   </data>
@@ -348,14 +345,8 @@
   <data name="Low-overhead agents collect metrics without impacting your AnduinOS devices&apos; performance. Deploy in seconds with Docker." xml:space="preserve">
     <value>경량 에이전트가 AnduinOS 디바이스의 성능에 영향을 주지 않고 지표를 수집합니다. Docker를 사용하여 몇 초 만에 배포하세요.</value>
   </data>
-  <data name="LTS Support" xml:space="preserve">
-    <value>LTS 지원</value>
-  </data>
   <data name="Managed Update Rollouts" xml:space="preserve">
     <value>업데이트 배포 관리</value>
-  </data>
-  <data name="management for your fleet" xml:space="preserve">
-    <value>플릿 관리</value>
   </data>
   <data name="Memory Compression" xml:space="preserve">
     <value>메모리 압축</value>
@@ -396,9 +387,6 @@
   <data name="Open Source" xml:space="preserve">
     <value>오픈 소스</value>
   </data>
-  <data name="or" xml:space="preserve">
-    <value>또는</value>
-  </data>
   <data name="Package Distribution" xml:space="preserve">
     <value>패키지 배포</value>
   </data>
@@ -431,9 +419,6 @@
   </data>
   <data name="Processor" xml:space="preserve">
     <value>프로세서</value>
-  </data>
-  <data name="quad-core" xml:space="preserve">
-    <value>quad-core</value>
   </data>
   <data name="RAM" xml:space="preserve">
     <value>RAM</value>
@@ -540,11 +525,11 @@
   <data name="The GNOME-based desktop environment has beautiful interfaces and human-computer interactions that fit user habits, allowing you to quickly get started with AnduinOS without too much learning cost." xml:space="preserve">
     <value>GNOME 기반 데스크톱 환경은 아름다운 인터페이스와 사용자 습관에 맞는 인간-컴퓨터 상호작용을 제공하여, 학습 비용 없이 AnduinOS를 빠르게 시작할 수 있습니다.</value>
   </data>
-  <data name="The ideal solution for" xml:space="preserve">
-    <value>디지털 사이니지 및 키오크 단말기를 위한 이상적인 솔루션</value>
-  </data>
   <data name="The ISO is just 2.4GB in size. Similar to Ubuntu, it is simple to install and can meet your daily needs without additional configuration or complicated operations." xml:space="preserve">
     <value>ISO 크기는 단 2.4GB입니다. Ubuntu와 마찬가지로 설치가 간단하여 추가 설정이나 복잡한 조작 없이 일상적인 필요를 충족할 수 있습니다.</value>
+  </data>
+  <data name="The ideal solution for" xml:space="preserve">
+    <value>디지털 사이니지 및 키오크 단말기를 위한 이상적인 솔루션</value>
   </data>
   <data name="The operating system your enterprise needs — familiar, beautiful, stable, mature, and easy to manage. AnduinOS Enterprise is built on Linux 7.0, GNOME 50, and Ubuntu 26.04, keeping your team in a comfortable, productive environment." xml:space="preserve">
     <value>기업이 필요로 하는 운영 체제 — 친숙하고, 아름다우며, 안정적이고, 성숙하며, 관리가 쉽습니다. AnduinOS Enterprise는 Linux 7.0, GNOME 50, Ubuntu 26.04를 기반으로 하여 팀이 편안하고 생산적인 환경에서 작업할 수 있도록 지원합니다.</value>
@@ -558,11 +543,11 @@
   <data name="Turn any screen into a kiosk" xml:space="preserve">
     <value>모든 화면을 키오스로 전환하세요</value>
   </data>
-  <data name="Ubuntu Base" xml:space="preserve">
-    <value>Ubuntu 기반</value>
-  </data>
   <data name="UI Toolkit" xml:space="preserve">
     <value>UI 킷</value>
+  </data>
+  <data name="Ubuntu Base" xml:space="preserve">
+    <value>Ubuntu 기반</value>
   </data>
   <data name="Update and restart policies are configured for your deployment. Test releases before rollout and schedule maintenance for changes that require downtime." xml:space="preserve">
     <value>배포 환경에 맞게 업데이트 및 재시작 정책이 설정되어 있습니다. 배포 전에 릴리스를 테스트하고, 서비스 중단이 필요한 변경 사항은 유지보수 일정을 예약하세요.</value>
@@ -585,23 +570,38 @@
   <data name="Why choose AnduinOS?" xml:space="preserve">
     <value>AnduinOS를 선택해야 하는 이유는 무엇인가요?</value>
   </data>
-  <data name="with Apkg" xml:space="preserve">
-    <value>Apkg로</value>
-  </data>
   <data name="With just a few clicks, you can have AnduinOS running on any machine. Enjoy automatic updates, built-in security, and remote management from the cloud — so once deployed, it just works." xml:space="preserve">
     <value>클릭 몇 번만으로 어떤 기기에서나 AnduinOS를 실행할 수 있습니다. 클라우드에서 제공하는 자동 업데이트, 내장 보안, 원격 관리 기능을 즐기세요 — 한번 배포하면 별도의 설정 없이 바로 작동합니다.</value>
-  </data>
-  <data name="with Secure Boot" xml:space="preserve">
-    <value>Secure Boot 지원</value>
-  </data>
-  <data name="with StatHub" xml:space="preserve">
-    <value>StatHub와 함께</value>
   </data>
   <data name="Without Snap" xml:space="preserve">
     <value>Snap 없음</value>
   </data>
   <data name="Write the image to a USB drive" xml:space="preserve">
     <value>USB 드라이브에 이미지 작성</value>
+  </data>
+  <data name="digital signage and kiosk terminals" xml:space="preserve">
+    <value>디지털 사이니지 및 키오스크 단말기</value>
+  </data>
+  <data name="ext4 optional" xml:space="preserve">
+    <value>ext4 선택 가능</value>
+  </data>
+  <data name="management for your fleet" xml:space="preserve">
+    <value>플릿 관리</value>
+  </data>
+  <data name="or" xml:space="preserve">
+    <value>또는</value>
+  </data>
+  <data name="quad-core" xml:space="preserve">
+    <value>quad-core</value>
+  </data>
+  <data name="with Apkg" xml:space="preserve">
+    <value>Apkg로</value>
+  </data>
+  <data name="with Secure Boot" xml:space="preserve">
+    <value>Secure Boot 지원</value>
+  </data>
+  <data name="with StatHub" xml:space="preserve">
+    <value>StatHub와 함께</value>
   </data>
 
 </root>

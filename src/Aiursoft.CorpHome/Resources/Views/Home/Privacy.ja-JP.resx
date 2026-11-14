@@ -42,11 +42,11 @@
   <data name="8. Contact Us" xml:space="preserve">
     <value>8. お問い合わせ</value>
   </data>
-  <data name="Account Information:" xml:space="preserve">
-    <value>アカウント情報：</value>
-  </data>
   <data name="AIURSOFT LIMITED" xml:space="preserve">
     <value>AIURSOFT LIMITED</value>
+  </data>
+  <data name="Account Information:" xml:space="preserve">
+    <value>アカウント情報：</value>
   </data>
   <data name="Aiursoft Privacy Policy" xml:space="preserve">
     <value>Aiursoft プライバシーポリシー</value>
@@ -87,14 +87,14 @@
   <data name="For Cloud-Hosted Plans (e.g., Aiursoft Substratum Core):" xml:space="preserve">
     <value>クラウドホスティングプランの場合（例：Aiursoft Substratum Core）：</value>
   </data>
-  <data name="For on-premise deployments, cancellation simply terminates our support and update services. Your data remains entirely intact on your own servers, under your complete control." xml:space="preserve">
-    <value>オンプレミス展開の場合、キャンセルによりサポートおよび更新サービスが単に終了します。データはお客様のサーバー上に完全に保持され、お客様の完全なコントロール下にあります。</value>
-  </data>
   <data name="For On-Premise Plans (e.g., Aiursoft Substrate S3 Startup &amp; S5 Enterprise):" xml:space="preserve">
     <value>オンプレミスプランの場合（例：Aiursoft Substrate S3 Startup &amp; S5 Enterprise）：</value>
   </data>
   <data name="For On-Premise Plans (e.g., Aiursoft Substratum Startup &amp; Enterprise):" xml:space="preserve">
     <value>オンプレミスプランの場合（例：Aiursoft Substratum Startup &amp; Enterprise）：</value>
+  </data>
+  <data name="For on-premise deployments, cancellation simply terminates our support and update services. Your data remains entirely intact on your own servers, under your complete control." xml:space="preserve">
+    <value>オンプレミス展開の場合、キャンセルによりサポートおよび更新サービスが単に終了します。データはお客様のサーバー上に完全に保持され、お客様の完全なコントロール下にあります。</value>
   </data>
   <data name="For provisioning the underlying high-performance cloud infrastructure that powers our official websites and Cloud-Hosted (S1 Core) client instances." xml:space="preserve">
     <value>当社の公式ウェブサイトおよびクラウドホスト型 (S1 Core) クライアントインスタンスを支える基盤となる高性能クラウドインフラストラクチャのプロビジョニングのため。</value>

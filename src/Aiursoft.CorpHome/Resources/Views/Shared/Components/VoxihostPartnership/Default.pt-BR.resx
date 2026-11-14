@@ -45,11 +45,11 @@
   <data name="Voxihost offers transparent, cost-effective cloud and generously sponsors Aiursoft&apos;s Open-source work." xml:space="preserve">
     <value>A Voxihost oferece nuvem transparente e econômica e patrocina generosamente o trabalho de código aberto da Aiursoft.</value>
   </data>
-  <data name="With reliable cloud infrastructure, your business can grow reliably alongside Aiursoft." xml:space="preserve">
-    <value>Com infraestrutura de nuvem confiável, seu negócio pode crescer com segurança junto à Aiursoft.</value>
-  </data>
   <data name="With Voxihost, Aiursoft helps enterprises host Email, authentication, cloud drives, employee portals, monitoring, and AI." xml:space="preserve">
     <value>Com a Voxihost, a Aiursoft ajuda empresas a hospedar e-mail, autenticação, drives em nuvem, portais de funcionários, monitoramento e IA.</value>
+  </data>
+  <data name="With reliable cloud infrastructure, your business can grow reliably alongside Aiursoft." xml:space="preserve">
+    <value>Com infraestrutura de nuvem confiável, seu negócio pode crescer com segurança junto à Aiursoft.</value>
   </data>
 
 </root>

@@ -66,20 +66,20 @@
   <data name="Custom Container Development" xml:space="preserve">
     <value>Phát triển Container Tùy chỉnh</value>
   </data>
-  <data name="Custom speech synthesis/recognition, search integration &amp; deep investigation pipelines" xml:space="preserve">
-    <value>Tổng hợp giọng nói tùy chỉnh, nhận dạng giọng nói, tích hợp tìm kiếm &amp; quy trình nghiên cứu chuyên sâu</value>
-  </data>
   <data name="Custom TTS / STT, Search Engine &amp; Deep Research" xml:space="preserve">
     <value>TTS / STT tùy chỉnh, Công cụ tìm kiếm &amp; Nghiên cứu chuyên sâu</value>
+  </data>
+  <data name="Custom speech synthesis/recognition, search integration &amp; deep investigation pipelines" xml:space="preserve">
+    <value>Tổng hợp giọng nói tùy chỉnh, nhận dạng giọng nói, tích hợp tìm kiếm &amp; quy trình nghiên cứu chuyên sâu</value>
   </data>
   <data name="Deployment &amp; Hosting" xml:space="preserve">
     <value>Triển khai &amp; Lưu trữ</value>
   </data>
-  <data name="Device policy integration with scope and supported platforms agreed before deployment" xml:space="preserve">
-    <value>Việc tích hợp chính sách thiết bị, phạm vi áp dụng và các nền tảng được hỗ trợ sẽ được thống nhất trước khi triển khai</value>
-  </data>
   <data name="DevOps &amp; Engineering" xml:space="preserve">
     <value>DevOps &amp; Engineering</value>
+  </data>
+  <data name="Device policy integration with scope and supported platforms agreed before deployment" xml:space="preserve">
+    <value>Việc tích hợp chính sách thiết bị, phạm vi áp dụng và các nền tảng được hỗ trợ sẽ được thống nhất trước khi triển khai</value>
   </data>
   <data name="Document Conversion" xml:space="preserve">
     <value>Chuyển đổi tài liệu</value>
@@ -105,6 +105,9 @@
   <data name="GitLab is a trademark of GitLab Inc. Aiursoft provides deployment, hosting, and integration services for GitLab — we are not affiliated with or endorsed by GitLab Inc. The GitLab Community Edition (CE) is MIT-licensed and can be deployed freely. The GitLab Enterprise Edition (EE) requires a separate license purchased from GitLab Inc. We can assist you with procuring the appropriate GitLab EE license, or you may choose to remove this item from your plan." xml:space="preserve">
     <value>GitLab là nhãn hiệu của GitLab Inc. Aiursoft cung cấp các dịch vụ triển khai, lưu trữ và tích hợp cho GitLab — chúng tôi không liên kết hoặc được bảo trợ bởi GitLab Inc. Phiên bản Cộng đồng (CE) của GitLab được cấp phép theo MIT và có thể được triển khai tự do. Phiên bản Enterprise (EE) của GitLab yêu cầu giấy phép riêng được mua từ GitLab Inc. Chúng tôi có thể hỗ trợ bạn trong việc mua giấy phép GitLab EE phù hợp, hoặc bạn có thể chọn loại bỏ mục này khỏi gói của mình.</value>
   </data>
+  <data name="HR &amp; Org Portal" xml:space="preserve">
+    <value>Cổng HR &amp; Tổ chức</value>
+  </data>
   <data name="Hacker" xml:space="preserve">
     <value>Hacker</value>
   </data>
@@ -117,9 +120,6 @@
   <data name="Hosted by Aiursoft, not on-premise" xml:space="preserve">
     <value>Được Aiursoft lưu trữ, không phải triển khai nội bộ</value>
   </data>
-  <data name="HR &amp; Org Portal" xml:space="preserve">
-    <value>Cổng HR &amp; Tổ chức</value>
-  </data>
   <data name="Identity &amp; Security" xml:space="preserve">
     <value>Bản sắc &amp; Bảo mật</value>
   </data>
@@ -128,6 +128,9 @@
   </data>
   <data name="Local LLM API Gateway" xml:space="preserve">
     <value>Cổng API LLM Cục bộ</value>
+  </data>
+  <data name="MDM Device Compliance" xml:space="preserve">
+    <value>Tuân thủ thiết bị MDM</value>
   </data>
   <data name="Mailcow is open-source software (GPL-3.0). Aiursoft provides managed hosting, deployment, and integration services. Any custom modifications provided during your on-premise deployment are fully compliant with and distributed under the GPL-3.0 license." xml:space="preserve">
     <value>Mailcow là phần mềm mã nguồn mở (GPL-3.0). Aiursoft cung cấp các dịch vụ lưu trữ quản lý, triển khai và tích hợp. Mọi thay đổi tùy chỉnh được cung cấp trong quá trình triển khai tại chỗ của bạn đều tuân thủ hoàn toàn và được phân phối theo giấy phép GPL-3.0.</value>
@@ -141,14 +144,8 @@
   <data name="Max User Accounts" xml:space="preserve">
     <value>Tối đa tài khoản người dùng</value>
   </data>
-  <data name="MDM Device Compliance" xml:space="preserve">
-    <value>Tuân thủ thiết bị MDM</value>
-  </data>
   <data name="Media &amp; Personal" xml:space="preserve">
     <value>Phương tiện &amp; Cá nhân</value>
-  </data>
-  <data name="mo" xml:space="preserve">
-    <value>tháng</value>
   </data>
   <data name="Multi-site &amp; HA capable" xml:space="preserve">
     <value>Hỗ trợ đa trang và khả năng HA</value>
@@ -174,17 +171,17 @@
   <data name="Online Code Execution" xml:space="preserve">
     <value>Thực thi mã trực tuyến</value>
   </data>
+  <data name="PDF Processing &amp; Vector Database" xml:space="preserve">
+    <value>Xử lý PDF &amp; Cơ sở dữ liệu vectơ</value>
+  </data>
+  <data name="PDF ingestion &amp; vector store construction via PaddleOCR" xml:space="preserve">
+    <value>Nạp dữ liệu PDF &amp; xây dựng kho vector qua PaddleOCR</value>
+  </data>
   <data name="PaddleOCR-based" xml:space="preserve">
     <value>Dựa trên PaddleOCR</value>
   </data>
   <data name="Partial / limited" xml:space="preserve">
     <value>Một phần / giới hạn</value>
-  </data>
-  <data name="PDF ingestion &amp; vector store construction via PaddleOCR" xml:space="preserve">
-    <value>Nạp dữ liệu PDF &amp; xây dựng kho vector qua PaddleOCR</value>
-  </data>
-  <data name="PDF Processing &amp; Vector Database" xml:space="preserve">
-    <value>Xử lý PDF &amp; Cơ sở dữ liệu vectơ</value>
   </data>
   <data name="Photo &amp; Video Management" xml:space="preserve">
     <value>Quản lý Ảnh &amp; Video</value>
@@ -197,6 +194,9 @@
   </data>
   <data name="Repository Sync" xml:space="preserve">
     <value>Repository Sync</value>
+  </data>
+  <data name="SSO / Identity Gateway" xml:space="preserve">
+    <value>SSO / Cổng định danh</value>
   </data>
   <data name="SaaS only" xml:space="preserve">
     <value>Chỉ có SaaS</value>
@@ -225,9 +225,6 @@
   <data name="Source Control &amp; CI/CD" xml:space="preserve">
     <value>Kiểm soát nguồn &amp; CI/CD</value>
   </data>
-  <data name="SSO / Identity Gateway" xml:space="preserve">
-    <value>SSO / Cổng định danh</value>
-  </data>
   <data name="Startup" xml:space="preserve">
     <value>Khởi nghiệp</value>
   </data>
@@ -243,14 +240,11 @@
   <data name="Team Voting" xml:space="preserve">
     <value>Bỏ phiếu nhóm</value>
   </data>
-  <data name="Unlimited" xml:space="preserve">
-    <value>Không giới hạn</value>
-  </data>
   <data name="URL Shortener" xml:space="preserve">
     <value>URL Shortener</value>
   </data>
-  <data name="user" xml:space="preserve">
-    <value>người dùng</value>
+  <data name="Unlimited" xml:space="preserve">
+    <value>Không giới hạn</value>
   </data>
   <data name="What&apos;s Included" xml:space="preserve">
     <value>Những gì bao gồm</value>
@@ -260,6 +254,12 @@
   </data>
   <data name="Zero Trust Yubikey Auth" xml:space="preserve">
     <value>Xác thực Yubikey Tin cậy Tối thiểu</value>
+  </data>
+  <data name="mo" xml:space="preserve">
+    <value>tháng</value>
+  </data>
+  <data name="user" xml:space="preserve">
+    <value>người dùng</value>
   </data>
 
 </root>

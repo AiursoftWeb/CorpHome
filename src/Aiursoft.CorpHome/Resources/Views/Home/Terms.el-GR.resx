@@ -51,11 +51,11 @@
   <data name="9. Modifications to the Terms" xml:space="preserve">
     <value>9. Τροποποιήσεις των Όρων</value>
   </data>
-  <data name="Aiursoft hosts the infrastructure on our secured servers. We are responsible for server uptime, standard backups, and basic network security." xml:space="preserve">
-    <value>Η Aiursoft φιλοξενεί την υποδομή στους ασφαλισμένους διακομιστές μας. Είμαστε υπεύθυνοι για τη διαθεσιμότητα των διακομιστών, τα τυπικά αντίγραφα ασφαλείας και την βασική ασφάλεια δικτύου.</value>
-  </data>
   <data name="AIURSOFT LIMITED" xml:space="preserve">
     <value>AIURSOFT LIMITED</value>
+  </data>
+  <data name="Aiursoft hosts the infrastructure on our secured servers. We are responsible for server uptime, standard backups, and basic network security." xml:space="preserve">
+    <value>Η Aiursoft φιλοξενεί την υποδομή στους ασφαλισμένους διακομιστές μας. Είμαστε υπεύθυνοι για τη διαθεσιμότητα των διακομιστών, τα τυπικά αντίγραφα ασφαλείας και την βασική ασφάλεια δικτύου.</value>
   </data>
   <data name="Aiursoft provides enterprise IT infrastructure solutions built upon open-source technologies (e.g., Linux, Nextcloud, Mailcow, Authentik, GitLab)." xml:space="preserve">
     <value>Η Aiursoft παρέχει λύσεις υποδομής Πληροφορικής για επιχειρήσεις βασισμένες σε τεχνολογίες ανοιχτού κώδικα (π.χ., Linux, Nextcloud, Mailcow, Authentik, GitLab).</value>
@@ -159,17 +159,14 @@
   <data name="The Service is Commercial:" xml:space="preserve">
     <value>Η Υπηρεσία είναι Εμπορική:</value>
   </data>
-  <data name="The software is deployed on your local servers or private cloud. You retain absolute physical control and ownership of your data (&quot;Own Your Data&quot;). Consequently, you are solely responsible for your underlying hardware, local network security, physical access control, and disaster recovery backups. Aiursoft&apos;s responsibility is limited to software-level maintenance, container updates, and technical support as defined in your plan." xml:space="preserve">
-    <value>Το λογισμικό εγκαθίσταται στους τοπικούς σας διακομιστές ή στο ιδιωτικό σας cloud. Διατηρείτε την απόλυτη φυσική ελεγχόμενη και την ιδιοκτησία των δεδομένων σας (&quot;Own Your Data&quot;). Κατά συνέπεια, εσείς μόνο ευθύνεστε για τον υποκείμενο υλικό εξοπλισμό, την ασφάλεια του τοπικού δικτύου, τον έλεγχο της φυσικής πρόσβασης και τα αντίγραφα ασφαλείας για ανάκαμψη από καταστροφές. Η ευθύνη της Aiursoft περιορίζεται στη συντήρηση σε επίπεδο λογισμικού, στις ενημερώσεις των containers και στην τεχνική υποστήριξη, όπως ορίζεται στο πρόγραμμά σας.</value>
-  </data>
   <data name="The Software is Free:" xml:space="preserve">
     <value>Το Λογισμικό είναι Δωρεάν:</value>
   </data>
+  <data name="The software is deployed on your local servers or private cloud. You retain absolute physical control and ownership of your data (&quot;Own Your Data&quot;). Consequently, you are solely responsible for your underlying hardware, local network security, physical access control, and disaster recovery backups. Aiursoft&apos;s responsibility is limited to software-level maintenance, container updates, and technical support as defined in your plan." xml:space="preserve">
+    <value>Το λογισμικό εγκαθίσταται στους τοπικούς σας διακομιστές ή στο ιδιωτικό σας cloud. Διατηρείτε την απόλυτη φυσική ελεγχόμενη και την ιδιοκτησία των δεδομένων σας (&quot;Own Your Data&quot;). Κατά συνέπεια, εσείς μόνο ευθύνεστε για τον υποκείμενο υλικό εξοπλισμό, την ασφάλεια του τοπικού δικτύου, τον έλεγχο της φυσικής πρόσβασης και τα αντίγραφα ασφαλείας για ανάκαμψη από καταστροφές. Η ευθύνη της Aiursoft περιορίζεται στη συντήρηση σε επίπεδο λογισμικού, στις ενημερώσεις των containers και στην τεχνική υποστήριξη, όπως ορίζεται στο πρόγραμμά σας.</value>
+  </data>
   <data name="The underlying open-source codes are subject to their respective licenses (e.g., MIT, GPL). You are free to inspect, modify, and distribute the code as permitted by those licenses." xml:space="preserve">
     <value>Ο βασικός κώδικας ανοιχτού λογισμικού υπόκειται στους αντίστοιχους όρους άδειας χρήσης (π.χ., MIT, GPL). Έχετε την ελευθερία να εξετάσετε, να τροποποιήσετε και να διανείμετε τον κώδικα σύμφωνα με ό,τι επιτρέπουν αυτές οι άδειες.</value>
-  </data>
-  <data name="These cancellation and non-refund rules apply to voluntary cancellation. They do not exclude remedies for our failure to provide the agreed services, override the specific commitments in an applicable service agreement, or limit rights that cannot be excluded under applicable law." xml:space="preserve">
-    <value>Οι κανόνες ακύρωσης και μη επιστροφής χρημάτων αυτοί εφαρμόζονται σε εθελοντική ακύρωση. Δεν αποκλείουν τα διορθωτικά μέτρα για την αδυναμία μας να παρέχουμε τις συμφωνημένες υπηρεσίες, δεν υπερνικούν τις συγκεκριμένες δεσμεύσεις σε ένα εφαρμοστέο συμβόλαιο παροχής υπηρεσιών και δεν περιορίζουν δικαιώματα που δεν μπορούν να αποκλειστούν δυνάμει του εφαρμοστέου δικαίου.</value>
   </data>
   <data name="These Terms of Service (&quot;Terms&quot;) govern your access to and use of the Aiursoft website, products, and subscription services, including but not limited to Aiursoft Substrate (Core, Startup, and Enterprise plans) (collectively, the &quot;Services&quot;). By registering for an account or purchasing a subscription, you agree to be bound by these Terms." xml:space="preserve">
     <value>Οι παρούσες Όροι Χρήσης («Όροι») διέπουν την πρόσβασή σας και τη χρήση του ιστότοπου, των προϊόντων και των υπηρεσιών συνδρομής της Aiursoft, περιλαμβανομένων αλλά όχι περιορισμένων στην Aiursoft Substrate (πλάνα Core, Startup και Enterprise) (συλλογικά, τις «Υπηρεσίες»). Καταχωρίζοντας έναν λογαριασμό ή αγοράζοντας μια συνδρομή, συμφωνείτε να δεσμεύεστε από τους παρόντες Όρους.</value>
@@ -179,6 +176,9 @@
   </data>
   <data name="These Terms shall be governed by and construed in accordance with the laws of the Hong Kong Special Administrative Region, without regard to its conflict of law provisions." xml:space="preserve">
     <value>Οι παρούσες Όροι θα διέπονται και θα ερμηνεύονται σύμφωνα με τις διατάξεις του Νόμου της Ειδικής Διοικητικής Περιοχής Χονγκ Κονγκ, χωρίς να λαμβάνονται υπόψη οι διατάξεις του περί σύγκρουσης νόμων.</value>
+  </data>
+  <data name="These cancellation and non-refund rules apply to voluntary cancellation. They do not exclude remedies for our failure to provide the agreed services, override the specific commitments in an applicable service agreement, or limit rights that cannot be excluded under applicable law." xml:space="preserve">
+    <value>Οι κανόνες ακύρωσης και μη επιστροφής χρημάτων αυτοί εφαρμόζονται σε εθελοντική ακύρωση. Δεν αποκλείουν τα διορθωτικά μέτρα για την αδυναμία μας να παρέχουμε τις συμφωνημένες υπηρεσίες, δεν υπερνικούν τις συγκεκριμένες δεσμεύσεις σε ένα εφαρμοστέο συμβόλαιο παροχής υπηρεσιών και δεν περιορίζουν δικαιώματα που δεν μπορούν να αποκλειστούν δυνάμει του εφαρμοστέου δικαίου.</value>
   </data>
   <data name="To ensure uninterrupted service, our commercial plans operate on a recurring subscription basis." xml:space="preserve">
     <value>Για να διασφαλιστεί η αδιάλειπτη παροχή υπηρεσιών, οι εμπορικοί μας σχεδιασμοί λειτουργούν με βάση επαναλαμβανόμενη συνδρομή.</value>

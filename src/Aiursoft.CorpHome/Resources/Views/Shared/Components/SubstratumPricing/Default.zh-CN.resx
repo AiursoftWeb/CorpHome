@@ -54,11 +54,11 @@
   <data name="Contact Sales" xml:space="preserve">
     <value>联系销售</value>
   </data>
-  <data name="Custom container development" xml:space="preserve">
-    <value>自定义容器开发</value>
-  </data>
   <data name="Custom Development Fee" xml:space="preserve">
     <value>定制开发费</value>
+  </data>
+  <data name="Custom container development" xml:space="preserve">
+    <value>自定义容器开发</value>
   </data>
   <data name="Customized for your enterprise" xml:space="preserve">
     <value>专为您的企业定制</value>
@@ -72,11 +72,11 @@
   <data name="Full Infrastructure Suite, on your local server" xml:space="preserve">
     <value>全套基础设施套件，部署于您的本地服务器</value>
   </data>
-  <data name="Get a public cloud-like experience while hosting your applications in your own server." xml:space="preserve">
-    <value>在自有服务器上托管应用程序的同时，享受类似公有云的使用体验。</value>
-  </data>
   <data name="Get Started" xml:space="preserve">
     <value>开始使用</value>
+  </data>
+  <data name="Get a public cloud-like experience while hosting your applications in your own server." xml:space="preserve">
+    <value>在自有服务器上托管应用程序的同时，享受类似公有云的使用体验。</value>
   </data>
   <data name="GitLab, Ollama Gateway" xml:space="preserve">
     <value>GitLab, Ollama 网关</value>
@@ -99,6 +99,9 @@
   <data name="Koel, Immich, Memos" xml:space="preserve">
     <value>Koel, Immich, Memos</value>
   </data>
+  <data name="MDM based device compliance" xml:space="preserve">
+    <value>基于 MDM 的设备合规性</value>
+  </data>
   <data name="Mailcow" xml:space="preserve">
     <value>Mailcow</value>
   </data>
@@ -107,9 +110,6 @@
   </data>
   <data name="Max 1000 accounts" xml:space="preserve">
     <value>最多 1000 个账户</value>
-  </data>
-  <data name="MDM based device compliance" xml:space="preserve">
-    <value>基于 MDM 的设备合规性</value>
   </data>
   <data name="On-premise AnduinOS Apkg" xml:space="preserve">
     <value>本地部署的 AnduinOS Apkg</value>
@@ -138,9 +138,6 @@
   <data name="Strengthen your business with flexible Open Source projects that run by Aiursoft." xml:space="preserve">
     <value>通过 Aiursoft 提供的灵活开源项目增强您的业务。</value>
   </data>
-  <data name="tailored to your business needs" xml:space="preserve">
-    <value>根据您的业务需求量身定制</value>
-  </data>
   <data name="Talk to an Architect" xml:space="preserve">
     <value>联系架构师</value>
   </data>
@@ -149,6 +146,9 @@
   </data>
   <data name="Zero Trust Yubikey Auth" xml:space="preserve">
     <value>零信任 Yubikey 认证</value>
+  </data>
+  <data name="tailored to your business needs" xml:space="preserve">
+    <value>根据您的业务需求量身定制</value>
   </data>
 
 </root>

@@ -51,9 +51,6 @@
   <data name="A modern, feature-rich, and highly extensible foundation for your next web application." xml:space="preserve">
     <value>Nykyaikainen, ominaisuuksiltaan monipuolinen ja erittäin laajennettava perusta seuraavaa verkkosovellustasi varten.</value>
   </data>
-  <data name="Achieve more with Aiursoft Template" xml:space="preserve">
-    <value>Saavuta enemmän Aiursoft Templatella</value>
-  </data>
   <data name="AI Agents Integration" xml:space="preserve">
     <value>Tekoälyagenttien integrointi</value>
   </data>
@@ -72,11 +69,11 @@
   <data name="AI-Powered Translations" xml:space="preserve">
     <value>Tehokäännökset tekoälyllä</value>
   </data>
+  <data name="Achieve more with Aiursoft Template" xml:space="preserve">
+    <value>Saavuta enemmän Aiursoft Templatella</value>
+  </data>
   <data name="Air-Gapped Ready" xml:space="preserve">
     <value>Ilman verkkoyhteyttä toimiva</value>
-  </data>
-  <data name="Aiursoft is dedicated to bringing the spirit of Open-source and free software to every enterprise and individual." xml:space="preserve">
-    <value>Aiursoft on sitoutunut tuomaan avoimen lähdekoodin ja vapaan ohjelmiston henki jokaiseen yritykseen ja yksittäiseen käyttäjään.</value>
   </data>
   <data name="Aiursoft Substratum Core" xml:space="preserve">
     <value>Aiursoft Substratum Core</value>
@@ -90,14 +87,17 @@
   <data name="Aiursoft Template" xml:space="preserve">
     <value>Aiursoft Template</value>
   </data>
+  <data name="Aiursoft Template Screenshot" xml:space="preserve">
+    <value>Aiursoft Template -kuva</value>
+  </data>
   <data name="Aiursoft Template is continuously optimized for the AI era, built with the most popular and reliable Open-source technologies. It has already produced dozens of mature applications delivered to enterprises. Aiursoft uses Template to help businesses develop custom solutions based on their core needs." xml:space="preserve">
     <value>Aiursoft Templatea optimoidaan jatkuvasti tekoälyn aikakaudelle, ja se on rakennettu suosituimmilla ja luotettavimmilla avoimen lähdekoodin teknologioilla. Sen avulla on jo luotu kymmeniä kypsiä sovelluksia, jotka on toimitettu yrityksille. Aiursoft käyttää Templatea auttaakseen yrityksiä kehittämään räätälöityjä ratkaisuja niiden keskeisten tarpeiden perusteella.</value>
   </data>
   <data name="Aiursoft Template is our definitive choice for enterprise projects! It&apos;s built for developers and is lightweight yet powerful. We can skip all the boilerplate for authentication and user management." xml:space="preserve">
     <value>Aiursoft Template on ratkaiseva valintamme yritysprojekteihin! Se on rakennettu kehittäjille ja on kevyt mutta tehokas. Voimme ohittaa kaiken valmiin koodin todennukseen ja käyttäjien hallintaan.</value>
   </data>
-  <data name="Aiursoft Template Screenshot" xml:space="preserve">
-    <value>Aiursoft Template -kuva</value>
+  <data name="Aiursoft is dedicated to bringing the spirit of Open-source and free software to every enterprise and individual." xml:space="preserve">
+    <value>Aiursoft on sitoutunut tuomaan avoimen lähdekoodin ja vapaan ohjelmiston henki jokaiseen yritykseen ja yksittäiseen käyttäjään.</value>
   </data>
   <data name="All Aiursoft servers are sourced from Voxihost. We help clients land on Voxihost infrastructure." xml:space="preserve">
     <value>Kaikki Aiursoftin palvelimet hankitaan Voxihostilta. Autamme asiakkaita siirtymään Voxihostin infrastruktuuriin.</value>
@@ -186,11 +186,11 @@
   <data name="Browse Source Code" xml:space="preserve">
     <value>Selaa lähdekoodia</value>
   </data>
-  <data name="Build once, run anywhere. Fully containerized architecture." xml:space="preserve">
-    <value>Rakenna kerran, suorita missä tahansa. Täysin säiliöön paketoidu arkkitehtuuri.</value>
-  </data>
   <data name="Build Your Local Knowledge Base" xml:space="preserve">
     <value>Rakenna oma paikallinen tietokantasi</value>
+  </data>
+  <data name="Build once, run anywhere. Fully containerized architecture." xml:space="preserve">
+    <value>Rakenna kerran, suorita missä tahansa. Täysin säiliöön paketoidu arkkitehtuuri.</value>
   </data>
   <data name="Build your next big thing," xml:space="preserve">
     <value>Rakenna seuraava suuri juttusi,</value>
@@ -222,11 +222,11 @@
   <data name="Built-in RBAC for fine-grained permission management." xml:space="preserve">
     <value>Sisäänrakennettu RBAC tarkkojen käyttöoikeuksien hallintaan.</value>
   </data>
-  <data name="Built-in security controls support your deployment requirements." xml:space="preserve">
-    <value>Sisäänrakennetut tietoturvaominaisuudet tukevat käyttöönottoasi koskevia vaatimuksia.</value>
-  </data>
   <data name="Built-in User Management" xml:space="preserve">
     <value>Sisäänrakennettu käyttäjienhallinta</value>
+  </data>
+  <data name="Built-in security controls support your deployment requirements." xml:space="preserve">
+    <value>Sisäänrakennetut tietoturvaominaisuudet tukevat käyttöönottoasi koskevia vaatimuksia.</value>
   </data>
   <data name="Code Audit &amp; Integration" xml:space="preserve">
     <value>Kooditarkastus ja integrointi</value>
@@ -288,11 +288,11 @@
   <data name="Custom Branding" xml:space="preserve">
     <value>Mukautettu brändäys</value>
   </data>
-  <data name="Custom container development" xml:space="preserve">
-    <value>Mukautettu säiliön kehitys</value>
-  </data>
   <data name="Custom Development Fee" xml:space="preserve">
     <value>Mukautetun kehityksen kulut</value>
+  </data>
+  <data name="Custom container development" xml:space="preserve">
+    <value>Mukautettu säiliön kehitys</value>
   </data>
   <data name="Customized for your enterprise" xml:space="preserve">
     <value>Ratkaistu yrityksellesi räätälöitynä</value>
@@ -333,14 +333,14 @@
   <data name="Dev &amp; Prod" xml:space="preserve">
     <value>Dev &amp; Prod</value>
   </data>
+  <data name="DevOps Native" xml:space="preserve">
+    <value>DevOps-ystävällinen</value>
+  </data>
   <data name="Develop exclusively in UTC while the system automatically converts and displays dates in the user&apos;s local time zone." xml:space="preserve">
     <value>Kehitä vain UTC:lla, kunnes järjestelmä muuntaa ja näyttää päivämäärät käyttäjän paikalliseen aikavyöhön automaattisesti.</value>
   </data>
   <data name="Developer Experience" xml:space="preserve">
     <value>Kehittäjäkokemus</value>
-  </data>
-  <data name="DevOps Native" xml:space="preserve">
-    <value>DevOps-ystävällinen</value>
   </data>
   <data name="Discover AnduinOS" xml:space="preserve">
     <value>Tutustu AnduinOSiin</value>
@@ -387,23 +387,23 @@
   <data name="Enterprise" xml:space="preserve">
     <value>Yritys</value>
   </data>
-  <data name="Enterprise business framework for the" xml:space="preserve">
-    <value>Yrityskäyttöön suunniteltu liiketoimintakehys</value>
-  </data>
   <data name="Enterprise C#" xml:space="preserve">
     <value>Enterprise C#</value>
-  </data>
-  <data name="Enterprise customers get round-the-clock telephone support, ensuring critical issues are addressed immediately." xml:space="preserve">
-    <value>Yrityskäyttäjät saavat vuorokauden ympäri puhelintukea, mikä varmistaa kriittisten ongelmien välittömän ratkaisemisen.</value>
   </data>
   <data name="Enterprise Ready" xml:space="preserve">
     <value>Yritysvalmis</value>
   </data>
-  <data name="Enterprise scale deployment" xml:space="preserve">
-    <value>Yritystason käyttöönotto</value>
-  </data>
   <data name="Enterprise Security" xml:space="preserve">
     <value>Yritysturvallisuus</value>
+  </data>
+  <data name="Enterprise business framework for the" xml:space="preserve">
+    <value>Yrityskäyttöön suunniteltu liiketoimintakehys</value>
+  </data>
+  <data name="Enterprise customers get round-the-clock telephone support, ensuring critical issues are addressed immediately." xml:space="preserve">
+    <value>Yrityskäyttäjät saavat vuorokauden ympäri puhelintukea, mikä varmistaa kriittisten ongelmien välittömän ratkaisemisen.</value>
+  </data>
+  <data name="Enterprise scale deployment" xml:space="preserve">
+    <value>Yritystason käyttöönotto</value>
   </data>
   <data name="Every access is verified, every connection is encrypted, every action is audited." xml:space="preserve">
     <value>Jokainen pääsy on varmistettu, jokainen yhteys on salattu, jokainen toiminta on tarkastettu.</value>
@@ -411,17 +411,14 @@
   <data name="Experience Aiursoft AI" xml:space="preserve">
     <value>Kokeile Aiursoftin tekoälyä</value>
   </data>
-  <data name="Explore on GitHub" xml:space="preserve">
-    <value>Selaa GitHubissa</value>
-  </data>
   <data name="Explore Our Projects" xml:space="preserve">
     <value>Selaa projektejamme</value>
   </data>
+  <data name="Explore on GitHub" xml:space="preserve">
+    <value>Selaa GitHubissa</value>
+  </data>
   <data name="FAQ" xml:space="preserve">
     <value>UKK</value>
-  </data>
-  <data name="faster" xml:space="preserve">
-    <value>nopeammin</value>
   </data>
   <data name="Features" xml:space="preserve">
     <value>Ominaisuudet</value>
@@ -435,20 +432,17 @@
   <data name="Flexible API" xml:space="preserve">
     <value>Joustava API</value>
   </data>
-  <data name="for any inquiries or to report issues." xml:space="preserve">
-    <value>kaikkiin kyselyihin tai ongelmien ilmoittamiseen.</value>
-  </data>
   <data name="Founder &amp; Architect at Aiursoft" xml:space="preserve">
     <value>Perustaja ja arkkitehti Aiursoftissa</value>
   </data>
   <data name="Free" xml:space="preserve">
     <value>Ilmainen</value>
   </data>
-  <data name="Free for Commercial Use" xml:space="preserve">
-    <value>Ilmainen kaupalliseen käyttöön</value>
-  </data>
   <data name="Free Software" xml:space="preserve">
     <value>Vapaa ohjelmisto</value>
+  </data>
+  <data name="Free for Commercial Use" xml:space="preserve">
+    <value>Ilmainen kaupalliseen käyttöön</value>
   </data>
   <data name="Freedom and enterprise service don&apos;t conflict." xml:space="preserve">
     <value>Vapaus ja yrityspalvelut eivät ole ristiriidassa.</value>
@@ -474,11 +468,11 @@
   <data name="Fully Offline" xml:space="preserve">
     <value>Täysin offline</value>
   </data>
-  <data name="Get a public cloud-like experience while hosting your applications in your own server." xml:space="preserve">
-    <value>Kokoa julkinen pilvipalvelu omalla palvelimellasi juuri nyt.</value>
-  </data>
   <data name="Get Started" xml:space="preserve">
     <value>Aloita</value>
+  </data>
+  <data name="Get a public cloud-like experience while hosting your applications in your own server." xml:space="preserve">
+    <value>Kokoa julkinen pilvipalvelu omalla palvelimellasi juuri nyt.</value>
   </data>
   <data name="Get unified endpoint management (UEM), identity management (IAM), and collaboration tools (OA) in one package. All on your local servers!" xml:space="preserve">
     <value>Hanki yhdistetty päätelaitteiden hallinta (UEM), identiteettien hallinta (IAM) ja yhteistyötyökalut (OA) yhden paketin muodossa. Kaikki omilla paikallisilla palvelimillasi!</value>
@@ -534,14 +528,17 @@
   <data name="IDE Support" xml:space="preserve">
     <value>IDE-tuki</value>
   </data>
-  <data name="in the AI Era." xml:space="preserve">
-    <value>tekoälyn aikakaudella.</value>
+  <data name="IT teams can monitor the health of all endpoints and perform basic remote management." xml:space="preserve">
+    <value>IT-tiimit voivat seurata kaikkien päätepisteiden kunnontilaa ja suorittaa perus kauko-ohjausta.</value>
   </data>
   <data name="Included" xml:space="preserve">
     <value>Sisältyy</value>
   </data>
   <data name="Includes Collaboration + Email + Identity Gateway" xml:space="preserve">
     <value>Sisältää yhteistyön + sähköpostin + identiteettioven</value>
+  </data>
+  <data name="Includes Tutorials" xml:space="preserve">
+    <value>Sisältää opetusmateriaaleja</value>
   </data>
   <data name="Includes everything in Starter" xml:space="preserve">
     <value>Sisältää kaiken Starter-paketista</value>
@@ -552,9 +549,6 @@
   <data name="Includes extensive documentation and practical examples to get you started quickly." xml:space="preserve">
     <value>Sisältää laajan dokumentaation ja käytännön esimerkit, joiden avulla pääset nopeasti alkuun.</value>
   </data>
-  <data name="Includes Tutorials" xml:space="preserve">
-    <value>Sisältää opetusmateriaaleja</value>
-  </data>
   <data name="Integrated File Management" xml:space="preserve">
     <value>Integroitu tiedostonhallinta</value>
   </data>
@@ -564,14 +558,8 @@
   <data name="Interoperability" xml:space="preserve">
     <value>Yhteensopivuus</value>
   </data>
-  <data name="is Free Software" xml:space="preserve">
-    <value>on vapaata ohjelmistoa</value>
-  </data>
   <data name="Is it free to use Aiursoft Template?" xml:space="preserve">
     <value>Onko Aiursoft Templaten käyttö ilmaista?</value>
-  </data>
-  <data name="IT teams can monitor the health of all endpoints and perform basic remote management." xml:space="preserve">
-    <value>IT-tiimit voivat seurata kaikkien päätepisteiden kunnontilaa ja suorittaa perus kauko-ohjausta.</value>
   </data>
   <data name="Join Discussions" xml:space="preserve">
     <value>Liity keskusteluun</value>
@@ -591,6 +579,15 @@
   <data name="Local LLM Deployment" xml:space="preserve">
     <value>Paikallinen LLM-työnnäytös</value>
   </data>
+  <data name="MDM based device compliance" xml:space="preserve">
+    <value>MDM-pohjainen laitevaatimustenmukaisuus</value>
+  </data>
+  <data name="MIT Licence" xml:space="preserve">
+    <value>MIT-lisenssi</value>
+  </data>
+  <data name="MIT License" xml:space="preserve">
+    <value>MIT-lisenssi</value>
+  </data>
   <data name="Maintain High Code Quality" xml:space="preserve">
     <value>Ylläpidä korkeaa koodin laatua</value>
   </data>
@@ -603,17 +600,8 @@
   <data name="Max 150 accounts" xml:space="preserve">
     <value>Enintään 150 tiliä</value>
   </data>
-  <data name="MDM based device compliance" xml:space="preserve">
-    <value>MDM-pohjainen laitevaatimustenmukaisuus</value>
-  </data>
   <data name="Meet industry compliance requirements with auditable configurations and enterprise-grade controls." xml:space="preserve">
     <value>Tytä alan vaatimukset tarkastettavilla määrityksillä ja yritystason hallintakeinoilla.</value>
-  </data>
-  <data name="MIT Licence" xml:space="preserve">
-    <value>MIT-lisenssi</value>
-  </data>
-  <data name="MIT License" xml:space="preserve">
-    <value>MIT-lisenssi</value>
   </data>
   <data name="Models are validated on both client and server sides based on data annotations." xml:space="preserve">
     <value>Mallit tarkistetaan molemmilla puolilla, asiakas- ja palvelinpuolella, tietojen annotaatioiden perusteella.</value>
@@ -666,17 +654,17 @@
   <data name="Open Source" xml:space="preserve">
     <value>Avoin lähdekoodi</value>
   </data>
-  <data name="Open WebUI – Local AI Knowledge Base" xml:space="preserve">
-    <value>Open WebUI – paikallinen tekoälytietopankki</value>
-  </data>
   <data name="Open WebUI Integration" xml:space="preserve">
     <value>Open WebUI-integraatio</value>
   </data>
-  <data name="Open-source &amp; AI era." xml:space="preserve">
-    <value>Avoin lähdekoodi ja tekoälyn aikakausi.</value>
+  <data name="Open WebUI – Local AI Knowledge Base" xml:space="preserve">
+    <value>Open WebUI – paikallinen tekoälytietopankki</value>
   </data>
   <data name="Open-Source Solutions" xml:space="preserve">
     <value>Avoin lähdekoodi -ratkaisut</value>
+  </data>
+  <data name="Open-source &amp; AI era." xml:space="preserve">
+    <value>Avoin lähdekoodi ja tekoälyn aikakausi.</value>
   </data>
   <data name="OpenID Connect" xml:space="preserve">
     <value>OpenID Connect</value>
@@ -777,17 +765,17 @@
   <data name="Specific fees need to be discussed with our architecture team to determine how to build for your enterprise." xml:space="preserve">
     <value>Erityiskustannukset on sovittava arkkitehtuuritiimimme kanssa, jotta voidaan määrittää, miten ratkaisu rakennetaan yrityksellesi.</value>
   </data>
-  <data name="Standard implementation. Switch providers without compilation." xml:space="preserve">
-    <value>Standardityympäristö. Vaihda tarjoajia ilman käännöstä.</value>
-  </data>
   <data name="Standard OpenID" xml:space="preserve">
     <value>Standard OpenID</value>
   </data>
-  <data name="Start a new project" xml:space="preserve">
-    <value>Aloita uusi projekti</value>
+  <data name="Standard implementation. Switch providers without compilation." xml:space="preserve">
+    <value>Standardityympäristö. Vaihda tarjoajia ilman käännöstä.</value>
   </data>
   <data name="Start Shipping Value." xml:space="preserve">
     <value>Aloita arvon toimittaminen.</value>
+  </data>
+  <data name="Start a new project" xml:space="preserve">
+    <value>Aloita uusi projekti</value>
   </data>
   <data name="Start with a single &apos;docker run&apos; command." xml:space="preserve">
     <value>Aloita yhdellä &apos;docker run&apos;-komennolla.</value>
@@ -810,14 +798,14 @@
   <data name="Strict Lint Rules" xml:space="preserve">
     <value>Tiukat lint-säännöt</value>
   </data>
+  <data name="Strict Unit Testing" xml:space="preserve">
+    <value>Tiukat yksikkötestit</value>
+  </data>
   <data name="Strict linting rules and zero warnings by default." xml:space="preserve">
     <value>Tiukat linta-ohjeet ja oletusarvoisesti nolla varoituksia.</value>
   </data>
   <data name="Strict linting rules with 0 warnings in the default project." xml:space="preserve">
     <value>Tiukat lintausohjeet, 0 varoitusvirhettä oletusprojektissa.</value>
-  </data>
-  <data name="Strict Unit Testing" xml:space="preserve">
-    <value>Tiukat yksikkötestit</value>
   </data>
   <data name="Strongly Consistent Linting" xml:space="preserve">
     <value>Vahvasti yhtenäinen linting</value>
@@ -828,11 +816,11 @@
   <data name="Supercharge Innovation" xml:space="preserve">
     <value>Vauhdista innovaatiota</value>
   </data>
-  <data name="Supports both environment variables and database-backed settings, with automatic priority given to environment variables for seamless overrides." xml:space="preserve">
-    <value>Tukee sekä ympäristömuuttujia että tietokantaperustaisia asetuksia, ja ympäristömuuttujilla on automaattinen etusija, jolloin korvaaminen on sujuvaa.</value>
-  </data>
   <data name="Supports JetBrains Rider for easy code style fixes." xml:space="preserve">
     <value>Tukee JetBrains Rideria helppoa koodin tyylin korjauksia varten.</value>
+  </data>
+  <data name="Supports both environment variables and database-backed settings, with automatic priority given to environment variables for seamless overrides." xml:space="preserve">
+    <value>Tukee sekä ympäristömuuttujia että tietokantaperustaisia asetuksia, ja ympäristömuuttujilla on automaattinen etusija, jolloin korvaaminen on sujuvaa.</value>
   </data>
   <data name="Supports local operation; configured external integrations require network access." xml:space="preserve">
     <value>Tukee paikallista käyttöä; määritetyt ulkoiset integraatiot edellyttävät verkkoyhteyttä.</value>
@@ -849,12 +837,6 @@
   <data name="Technical Lead" xml:space="preserve">
     <value>Tekninen Päällikkö</value>
   </data>
-  <data name="The definitive, battle-tested .NET enterprise foundation. From Auth to AI, we&apos;ve solved the hard parts so you don&apos;t have to." xml:space="preserve">
-    <value>Määritelmällinen, kovasti testattu .NET-yritysperusta. Autentikoinnista tekoälyyn, olemme ratkaisseet vaikeat osiot, jotta sinun ei tarvitse.</value>
-  </data>
-  <data name="The navigation bar automatically adjusts based on user roles and permissions." xml:space="preserve">
-    <value>Navigointipalkki sopeutuu automaattisesti käyttäjän roolien ja käyttöoikeuksien perusteella.</value>
-  </data>
   <data name="The Open-source world already has the solutions you need." xml:space="preserve">
     <value>Avoin lähdekoodi -maailma tarjoaa jo tarvitsemasi ratkaisut.</value>
   </data>
@@ -864,11 +846,17 @@
   <data name="The Philosophy" xml:space="preserve">
     <value>Filosofia</value>
   </data>
-  <data name="The template is built for easy deployment. It includes full Docker support, so you can containerize your app and run it anywhere. You can also deploy it directly to IIS, Azure App Service, or any server that supports ASP.NET Core." xml:space="preserve">
-    <value>Malli on suunniteltu helppokäyttöiseksi käyttöönottoa varten. Se sisältää täyden Docker-tuen, joten voit konttipohjata sovelluksesi ja ajaa sitä missä tahansa. Voit myös ottaa sen käyttöön suoraan IIS:ään, Azure App Serviceen tai mihin tahansa palvelimeen, joka tukee ASP.NET Corea.</value>
-  </data>
   <data name="The Turnkey Enterprise Foundation" xml:space="preserve">
     <value>Avainvalmis yritysperusta</value>
+  </data>
+  <data name="The definitive, battle-tested .NET enterprise foundation. From Auth to AI, we&apos;ve solved the hard parts so you don&apos;t have to." xml:space="preserve">
+    <value>Määritelmällinen, kovasti testattu .NET-yritysperusta. Autentikoinnista tekoälyyn, olemme ratkaisseet vaikeat osiot, jotta sinun ei tarvitse.</value>
+  </data>
+  <data name="The navigation bar automatically adjusts based on user roles and permissions." xml:space="preserve">
+    <value>Navigointipalkki sopeutuu automaattisesti käyttäjän roolien ja käyttöoikeuksien perusteella.</value>
+  </data>
+  <data name="The template is built for easy deployment. It includes full Docker support, so you can containerize your app and run it anywhere. You can also deploy it directly to IIS, Azure App Service, or any server that supports ASP.NET Core." xml:space="preserve">
+    <value>Malli on suunniteltu helppokäyttöiseksi käyttöönottoa varten. Se sisältää täyden Docker-tuen, joten voit konttipohjata sovelluksesi ja ajaa sitä missä tahansa. Voit myös ottaa sen käyttöön suoraan IIS:ään, Azure App Serviceen tai mihin tahansa palvelimeen, joka tukee ASP.NET Corea.</value>
   </data>
   <data name="This is a template project" xml:space="preserve">
     <value>Tämä on malliprojekti</value>
@@ -912,6 +900,9 @@
   <data name="Voxihost offers transparent, cost-effective cloud and generously sponsors Aiursoft&apos;s Open-source work." xml:space="preserve">
     <value>Voxihost tarjoaa läpinäkyvää ja kustannustehokasta pilvipalvelua sekä tukemassa Aiursoftin avoimen lähdekoodin työtä.</value>
   </data>
+  <data name="We Take the First Hit." xml:space="preserve">
+    <value>Otamme ensimmäisen iskun.</value>
+  </data>
   <data name="We audit and integrate Open-source code, respect GPL, compile components, and contribute upstream." xml:space="preserve">
     <value>Tarkastamme ja integroimme avoimen lähdekoodin koodia, noudatamme GPL-lisenssiä, käännämme komponentit ja osallistumme ylävirtaan.</value>
   </data>
@@ -923,9 +914,6 @@
   </data>
   <data name="We procure Yubikeys for all clients and configure zero-trust architecture." xml:space="preserve">
     <value>Hankimme Yubikeyt kaikille asiakkaille ja konfiguroimme nollaluottamuksen arkkitehtuurin.</value>
-  </data>
-  <data name="We Take the First Hit." xml:space="preserve">
-    <value>Otamme ensimmäisen iskun.</value>
   </data>
   <data name="Welcome" xml:space="preserve">
     <value>Tervetuloa</value>
@@ -942,17 +930,14 @@
   <data name="Win/Lin/Mac" xml:space="preserve">
     <value>Win/Lin/Mac</value>
   </data>
+  <data name="With Voxihost, Aiursoft helps enterprises host Email, authentication, cloud drives, employee portals, monitoring, and AI." xml:space="preserve">
+    <value>Voxihostin avulla Aiursoft auttaa yrityksiä isännöimään sähköpostia, tunnistautumista, pilvipäiviä, työntekijöiden portaalit, seurantaa ja tekoälyä.</value>
+  </data>
   <data name="With local models and local integrations, inference inputs remain within your deployment. External providers receive the inputs you choose to send." xml:space="preserve">
     <value>Paikallisia malleja ja paikallisia integraatioita käytettäessä päättelyyn syötetyt tiedot pysyvät käyttöönotossasi. Ulkoiset palveluntarjoajat saavat ne syötteet, jotka päätät lähettää.</value>
   </data>
-  <data name="with Open-Source Infrastructure." xml:space="preserve">
-    <value>avoinlähdekoodisella infrastruktuurilla.</value>
-  </data>
   <data name="With reliable cloud infrastructure, your business can grow reliably alongside Aiursoft." xml:space="preserve">
     <value>Luotettavan pilvipohjaisen infrastruktuurin ansiosta yrityksesi voi kasvaa luotettavasti Aiursoftin rinnalla.</value>
-  </data>
-  <data name="With Voxihost, Aiursoft helps enterprises host Email, authentication, cloud drives, employee portals, monitoring, and AI." xml:space="preserve">
-    <value>Voxihostin avulla Aiursoft auttaa yrityksiä isännöimään sähköpostia, tunnistautumista, pilvipäiviä, työntekijöiden portaalit, seurantaa ja tekoälyä.</value>
   </data>
   <data name="Yes, Aiursoft Template is completely free and open-source under the MIT License. You can use it for personal and commercial projects without any cost." xml:space="preserve">
     <value>Kyllä, Aiursoft Template on täysin ilmainen ja avoin lähdekoodi MIT-lisenssin alla. Voit käyttää sitä henkilökohtaisiin ja kaupallisiin projekteihin ilman mitään kustannuksia.</value>
@@ -989,6 +974,21 @@
   </data>
   <data name="Zot" xml:space="preserve">
     <value>Zot</value>
+  </data>
+  <data name="faster" xml:space="preserve">
+    <value>nopeammin</value>
+  </data>
+  <data name="for any inquiries or to report issues." xml:space="preserve">
+    <value>kaikkiin kyselyihin tai ongelmien ilmoittamiseen.</value>
+  </data>
+  <data name="in the AI Era." xml:space="preserve">
+    <value>tekoälyn aikakaudella.</value>
+  </data>
+  <data name="is Free Software" xml:space="preserve">
+    <value>on vapaata ohjelmistoa</value>
+  </data>
+  <data name="with Open-Source Infrastructure." xml:space="preserve">
+    <value>avoinlähdekoodisella infrastruktuurilla.</value>
   </data>
 
 </root>

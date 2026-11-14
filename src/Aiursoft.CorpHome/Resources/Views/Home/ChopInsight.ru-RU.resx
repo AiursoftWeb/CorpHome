@@ -30,9 +30,6 @@
   <data name="A software-only delivery would not solve the problem either. Even a well-designed platform cannot provide the expected performance or reliability when its underlying hardware is unsuitable or poorly integrated. ChopInsight needed a coordinated approach that could preserve existing investments, add computing capacity where necessary, and support conventional applications and AI workloads through a common management model." xml:space="preserve">
     <value>Только программное обеспечение также не решило бы проблему. Даже хорошо спроектированная платформа не может обеспечить ожидаемую производительность или надежность, если ее базовое оборудование не подходит или плохо интегрировано. ChopInsight требовался скоординированный подход, который позволил бы сохранить существующие инвестиции, добавить вычислительные мощности там, где это необходимо, и поддерживать традиционные приложения и рабочие нагрузки ИИ с помощью единой модели управления.</value>
   </data>
-  <data name="About ChopInsight" xml:space="preserve">
-    <value>О компании ChopInsight</value>
-  </data>
   <data name="AI access" xml:space="preserve">
     <value>Управление доступом к ИИ</value>
   </data>
@@ -44,6 +41,9 @@
   </data>
   <data name="AI introduced a second, closely related challenge. Suitable computing resources could be expensive and complex to specify. ChopInsight needed to avoid hardware that might later prove unsuitable for its software or operational requirements, while simply replacing equipment would have ignored the value of its existing servers." xml:space="preserve">
     <value>Искусственный интеллект добавил вторую, тесно связанную с этим проблему. Подходящие вычислительные ресурсы могли быть дорогими и сложными в подборе. ChopInsight необходимо было избежать использования оборудования, которое в дальнейшем могло оказаться непригодным для ее программного обеспечения или операционных требований, в то время как простая замена техники привела бы к игнорированию ценности уже имеющихся серверов.</value>
+  </data>
+  <data name="About ChopInsight" xml:space="preserve">
+    <value>О компании ChopInsight</value>
   </data>
   <data name="Aiursoft assessed ChopInsight’s physical equipment, computing resources, application requirements and future AI plans together. Performance, stability, cost and future expansion informed a single design, making hardware selection and adaptation part of the service rather than a separate procurement exercise." xml:space="preserve">
     <value>Aiursoft комплексно оценила физическое оборудование ChopInsight, вычислительные ресурсы, требования к приложениям и планы по внедрению ИИ. Производительность, стабильность, стоимость и возможности будущего расширения легли в основу единого проекта, благодаря чему выбор и адаптация оборудования стали частью услуги, а не отдельной процедурой закупок.</value>

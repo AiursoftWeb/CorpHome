@@ -30,9 +30,6 @@
   <data name="A software-only delivery would not solve the problem either. Even a well-designed platform cannot provide the expected performance or reliability when its underlying hardware is unsuitable or poorly integrated. ChopInsight needed a coordinated approach that could preserve existing investments, add computing capacity where necessary, and support conventional applications and AI workloads through a common management model." xml:space="preserve">
     <value>소프트웨어만으로는 문제를 해결할 수 없습니다. 잘 설계된 플랫폼이라도 기본 하드웨어가 부적합하거나 통합이 제대로 되지 않은 경우, 기대하는 성능과 안정성을 제공할 수 없습니다. ChopInsight는 기존 투자의 가치를 유지하면서 필요한 곳에 컴퓨팅 용량을 추가하고, 공통 관리 모델을 통해 기존 애플리케이션과 AI 워크로드를 모두 지원할 수 있는 조화로운 접근 방식이 필요했습니다.</value>
   </data>
-  <data name="About ChopInsight" xml:space="preserve">
-    <value>ChopInsight 소개</value>
-  </data>
   <data name="AI access" xml:space="preserve">
     <value>AI 접근</value>
   </data>
@@ -44,6 +41,9 @@
   </data>
   <data name="AI introduced a second, closely related challenge. Suitable computing resources could be expensive and complex to specify. ChopInsight needed to avoid hardware that might later prove unsuitable for its software or operational requirements, while simply replacing equipment would have ignored the value of its existing servers." xml:space="preserve">
     <value>AI는 두 번째로 밀접하게 관련된 과제를 제시했습니다. 적합한 컴퓨팅 리소스는 비용이 많이 들고 사양을 정의하기가 복잡할 수 있습니다. ChopInsight는 나중에 소프트웨어 또는 운영 요구 사항에 적합하지 않은 것으로 판명될 하드웨어를 피해야 했으며, 단순히 장비를 교체하는 것은 기존 서버의 가치를 무시하게 됩니다.</value>
+  </data>
+  <data name="About ChopInsight" xml:space="preserve">
+    <value>ChopInsight 소개</value>
   </data>
   <data name="Aiursoft assessed ChopInsight’s physical equipment, computing resources, application requirements and future AI plans together. Performance, stability, cost and future expansion informed a single design, making hardware selection and adaptation part of the service rather than a separate procurement exercise." xml:space="preserve">
     <value>Aiursoft는 ChopInsight의 물리적 장비, 컴퓨팅 리소스, 애플리케이션 요구사항 및 향후 AI 계획을 종합적으로 평가했습니다. 성능, 안정성, 비용 및 향후 확장 가능성을 고려하여 단일 설계안을 수립함으로써 하드웨어 선정 및 조정을 별도의 조달 과정이 아닌 서비스의 일부로 통합했습니다.</value>

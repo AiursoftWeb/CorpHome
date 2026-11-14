@@ -159,26 +159,26 @@
   <data name="Show Senparc in the trusted partners section." xml:space="preserve">
     <value>Hiển thị Senparc trong phần Đối tác đáng tin cậy.</value>
   </data>
-  <data name="Show the Voxihost partnership section on the home page." xml:space="preserve">
-    <value>Hiển thị phần hợp tác Voxihost trên trang chủ.</value>
+  <data name="Show Voxihost Partnership" xml:space="preserve">
+    <value>Hiển thị Đối tác Voxihost</value>
   </data>
   <data name="Show Voxihost in the trusted partners section." xml:space="preserve">
     <value>Hiển thị Voxihost trong phần đối tác đáng tin cậy.</value>
   </data>
-  <data name="Show Voxihost Partnership" xml:space="preserve">
-    <value>Hiển thị Đối tác Voxihost</value>
-  </data>
-  <data name="The brand name displayed in the footer." xml:space="preserve">
-    <value>Tên thương hiệu được hiển thị trong chân trang.</value>
-  </data>
-  <data name="The company name displayed when the page language is Simplified Chinese. Leave empty to use the default brand name." xml:space="preserve">
-    <value>Tên công ty hiển thị khi ngôn ngữ trang là tiếng Trung giản thể. Để trống để sử dụng tên thương hiệu mặc định.</value>
+  <data name="Show the Voxihost partnership section on the home page." xml:space="preserve">
+    <value>Hiển thị phần hợp tác Voxihost trên trang chủ.</value>
   </data>
   <data name="The HTTP(S) base URL of AlertCenter." xml:space="preserve">
     <value>URL cơ sở HTTP(S) của AlertCenter.</value>
   </data>
   <data name="The ICP license number for China mainland users. Leave empty to hide." xml:space="preserve">
     <value>Số giấy phép ICP cho người dùng tại Trung Quốc đại lục. Để trống để ẩn.</value>
+  </data>
+  <data name="The brand name displayed in the footer." xml:space="preserve">
+    <value>Tên thương hiệu được hiển thị trong chân trang.</value>
+  </data>
+  <data name="The company name displayed when the page language is Simplified Chinese. Leave empty to use the default brand name." xml:space="preserve">
+    <value>Tên công ty hiển thị khi ngôn ngữ trang là tiếng Trung giản thể. Để trống để sử dụng tên thương hiệu mặc định.</value>
   </data>
   <data name="The logo of the project displayed in the navbar and footer. Support jpg, png, svg." xml:space="preserve">
     <value>Logo của dự án được hiển thị trong thanh điều hướng và chân trang. Hỗ trợ định dạng jpg, png, svg.</value>

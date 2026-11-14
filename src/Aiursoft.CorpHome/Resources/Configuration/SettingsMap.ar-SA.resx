@@ -159,26 +159,26 @@
   <data name="Show Senparc in the trusted partners section." xml:space="preserve">
     <value>عرض Senparc في قسم الشركاء الموثوقين.</value>
   </data>
-  <data name="Show the Voxihost partnership section on the home page." xml:space="preserve">
-    <value>عرض قسم شراكة Voxihost في الصفحة الرئيسية.</value>
+  <data name="Show Voxihost Partnership" xml:space="preserve">
+    <value>عرض شراكة Voxihost</value>
   </data>
   <data name="Show Voxihost in the trusted partners section." xml:space="preserve">
     <value>إظهار Voxihost في قسم الشركاء الموثوقين.</value>
   </data>
-  <data name="Show Voxihost Partnership" xml:space="preserve">
-    <value>عرض شراكة Voxihost</value>
-  </data>
-  <data name="The brand name displayed in the footer." xml:space="preserve">
-    <value>اسم العلامة التجارية المُعرض في التذييل.</value>
-  </data>
-  <data name="The company name displayed when the page language is Simplified Chinese. Leave empty to use the default brand name." xml:space="preserve">
-    <value>اسم الشركة المعروض عندما تكون لغة الصفحة الصينية المبسطة. اتركه فارغًا لاستخدام اسم العلامة التجارية الافتراضي.</value>
+  <data name="Show the Voxihost partnership section on the home page." xml:space="preserve">
+    <value>عرض قسم شراكة Voxihost في الصفحة الرئيسية.</value>
   </data>
   <data name="The HTTP(S) base URL of AlertCenter." xml:space="preserve">
     <value>عنوان URL الأساسي لـ HTTP(S) الخاص بـ AlertCenter.</value>
   </data>
   <data name="The ICP license number for China mainland users. Leave empty to hide." xml:space="preserve">
     <value>رقم ترخيص ICP للمستخدمين في الصين القارية. اتركه فارغًا لإخفائه.</value>
+  </data>
+  <data name="The brand name displayed in the footer." xml:space="preserve">
+    <value>اسم العلامة التجارية المُعرض في التذييل.</value>
+  </data>
+  <data name="The company name displayed when the page language is Simplified Chinese. Leave empty to use the default brand name." xml:space="preserve">
+    <value>اسم الشركة المعروض عندما تكون لغة الصفحة الصينية المبسطة. اتركه فارغًا لاستخدام اسم العلامة التجارية الافتراضي.</value>
   </data>
   <data name="The logo of the project displayed in the navbar and footer. Support jpg, png, svg." xml:space="preserve">
     <value>الشعار الخاص بالمشروع يتم عرضه في شريط التنقل والقدم. يدعم jpg، png، svg.</value>

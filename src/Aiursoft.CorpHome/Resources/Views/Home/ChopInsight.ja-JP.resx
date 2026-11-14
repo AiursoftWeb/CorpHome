@@ -30,9 +30,6 @@
   <data name="A software-only delivery would not solve the problem either. Even a well-designed platform cannot provide the expected performance or reliability when its underlying hardware is unsuitable or poorly integrated. ChopInsight needed a coordinated approach that could preserve existing investments, add computing capacity where necessary, and support conventional applications and AI workloads through a common management model." xml:space="preserve">
     <value>ソフトウェアのみの提供でも問題は解決しませんでした。設計が優れていても、基盤となるハードウェアが不適切であったり統合が不十分だったりする場合は、期待されるパフォーマンスや信頼性を確保することはできません。ChopInsightには、既存の投資を守りつつ、必要に応じて計算能力を追加し、共通の管理モデルで従来のアプリケーションとAIワークロードをサポートできる協調的なアプローチが必要でした。</value>
   </data>
-  <data name="About ChopInsight" xml:space="preserve">
-    <value>ChopInsight について</value>
-  </data>
   <data name="AI access" xml:space="preserve">
     <value>AIアクセスの管理</value>
   </data>
@@ -44,6 +41,9 @@
   </data>
   <data name="AI introduced a second, closely related challenge. Suitable computing resources could be expensive and complex to specify. ChopInsight needed to avoid hardware that might later prove unsuitable for its software or operational requirements, while simply replacing equipment would have ignored the value of its existing servers." xml:space="preserve">
     <value>AIの導入は、密接に関連する2つ目の課題を生み出した。適切なコンピューティングリソースの選定には高額なコストと複雑さが伴う可能性がある。ChopInsightは、後にソフトウェアや運用要件に適合しないと判明するハードウェアを避ける必要がありましたが、既存のサーバーの価値を無視して単に機器を置き換えることはできませんでした。</value>
+  </data>
+  <data name="About ChopInsight" xml:space="preserve">
+    <value>ChopInsight について</value>
   </data>
   <data name="Aiursoft assessed ChopInsight’s physical equipment, computing resources, application requirements and future AI plans together. Performance, stability, cost and future expansion informed a single design, making hardware selection and adaptation part of the service rather than a separate procurement exercise." xml:space="preserve">
     <value>Aiursoftは、ChopInsightの物理機器、コンピューティングリソース、アプリケーション要件、および将来のAI計画を統合して評価しました。パフォーマンス、安定性、コスト、将来の拡張性を踏まえた単一の設計により、ハードウェアの選定と適応を別個の調達業務ではなく、サービスの一環として位置づけました。</value>

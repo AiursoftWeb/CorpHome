@@ -159,26 +159,26 @@
   <data name="Show Senparc in the trusted partners section." xml:space="preserve">
     <value>Visa Senparc i avsnittet för betrodda partner.</value>
   </data>
-  <data name="Show the Voxihost partnership section on the home page." xml:space="preserve">
-    <value>Visa Voxihost-samarbetsavsnittet på startsidan.</value>
+  <data name="Show Voxihost Partnership" xml:space="preserve">
+    <value>Visa Voxihost-samarbete</value>
   </data>
   <data name="Show Voxihost in the trusted partners section." xml:space="preserve">
     <value>Visa Voxihost i avsnittet för pålitliga partner.</value>
   </data>
-  <data name="Show Voxihost Partnership" xml:space="preserve">
-    <value>Visa Voxihost-samarbete</value>
-  </data>
-  <data name="The brand name displayed in the footer." xml:space="preserve">
-    <value>Det varumärke som visas i sidfoten.</value>
-  </data>
-  <data name="The company name displayed when the page language is Simplified Chinese. Leave empty to use the default brand name." xml:space="preserve">
-    <value>Företagsnamnet som visas när sidans språk är förenklad kinesiska. Lämna tomt för att använda standardvarumärkesnamnet.</value>
+  <data name="Show the Voxihost partnership section on the home page." xml:space="preserve">
+    <value>Visa Voxihost-samarbetsavsnittet på startsidan.</value>
   </data>
   <data name="The HTTP(S) base URL of AlertCenter." xml:space="preserve">
     <value>AlertCenters HTTP(S)-basadress.</value>
   </data>
   <data name="The ICP license number for China mainland users. Leave empty to hide." xml:space="preserve">
     <value>ICP-licensnummer för användare i Kina. Lämna tomt för att dölja.</value>
+  </data>
+  <data name="The brand name displayed in the footer." xml:space="preserve">
+    <value>Det varumärke som visas i sidfoten.</value>
+  </data>
+  <data name="The company name displayed when the page language is Simplified Chinese. Leave empty to use the default brand name." xml:space="preserve">
+    <value>Företagsnamnet som visas när sidans språk är förenklad kinesiska. Lämna tomt för att använda standardvarumärkesnamnet.</value>
   </data>
   <data name="The logo of the project displayed in the navbar and footer. Support jpg, png, svg." xml:space="preserve">
     <value>Logotypen för projektet som visas i navigeringsfältet och sidfoten. Stöd för jpg, png, svg.</value>

@@ -51,9 +51,6 @@
   <data name="A modern, feature-rich, and highly extensible foundation for your next web application." xml:space="preserve">
     <value>O fundație modernă, bogată în funcționalități și extrem de extensibilă pentru următoarea ta aplicație web.</value>
   </data>
-  <data name="Achieve more with Aiursoft Template" xml:space="preserve">
-    <value>Realizați mai multe cu Aiursoft Template</value>
-  </data>
   <data name="AI Agents Integration" xml:space="preserve">
     <value>Integrare agenți AI</value>
   </data>
@@ -72,11 +69,11 @@
   <data name="AI-Powered Translations" xml:space="preserve">
     <value>Traduceri alimentate de IA</value>
   </data>
+  <data name="Achieve more with Aiursoft Template" xml:space="preserve">
+    <value>Realizați mai multe cu Aiursoft Template</value>
+  </data>
   <data name="Air-Gapped Ready" xml:space="preserve">
     <value>Gata pentru izolare completă</value>
-  </data>
-  <data name="Aiursoft is dedicated to bringing the spirit of Open-source and free software to every enterprise and individual." xml:space="preserve">
-    <value>Aiursoft se dedică aducerii spiritului software-ului open-source și gratuit pentru fiecare firmă și individ.</value>
   </data>
   <data name="Aiursoft Substratum Core" xml:space="preserve">
     <value>Aiursoft Substratum Core</value>
@@ -90,14 +87,17 @@
   <data name="Aiursoft Template" xml:space="preserve">
     <value>Aiursoft Template</value>
   </data>
+  <data name="Aiursoft Template Screenshot" xml:space="preserve">
+    <value>Imagine Aiursoft Template</value>
+  </data>
   <data name="Aiursoft Template is continuously optimized for the AI era, built with the most popular and reliable Open-source technologies. It has already produced dozens of mature applications delivered to enterprises. Aiursoft uses Template to help businesses develop custom solutions based on their core needs." xml:space="preserve">
     <value>Aiursoft Template este continuu optimizat pentru era AI, construit cu cele mai populare și fiabile tehnologii open-source. A produs deja zeci de aplicații mature livrate companiilor. Aiursoft folosește Template pentru a ajuta întreprinderile să dezvolte soluții personalizate în funcție de nevoile lor de bază.</value>
   </data>
   <data name="Aiursoft Template is our definitive choice for enterprise projects! It&apos;s built for developers and is lightweight yet powerful. We can skip all the boilerplate for authentication and user management." xml:space="preserve">
     <value>Aiursoft Template este alegerea noastră definitivă pentru proiectele enterprise! Este construit pentru dezvoltatori și este ușor, dar puternic. Putem sărim peste toate secțiunile repetitive pentru autentificare și managementul utilizatorilor.</value>
   </data>
-  <data name="Aiursoft Template Screenshot" xml:space="preserve">
-    <value>Imagine Aiursoft Template</value>
+  <data name="Aiursoft is dedicated to bringing the spirit of Open-source and free software to every enterprise and individual." xml:space="preserve">
+    <value>Aiursoft se dedică aducerii spiritului software-ului open-source și gratuit pentru fiecare firmă și individ.</value>
   </data>
   <data name="All Aiursoft servers are sourced from Voxihost. We help clients land on Voxihost infrastructure." xml:space="preserve">
     <value>Toate serverele Aiursoft sunt furnizate de Voxihost. Îi ajutăm pe clienți să se instaleze pe infrastructura Voxihost.</value>
@@ -186,11 +186,11 @@
   <data name="Browse Source Code" xml:space="preserve">
     <value>Parcurge codul sursă</value>
   </data>
-  <data name="Build once, run anywhere. Fully containerized architecture." xml:space="preserve">
-    <value>Construiți o dată, rulați oriunde. Arhitectură complet containerizată.</value>
-  </data>
   <data name="Build Your Local Knowledge Base" xml:space="preserve">
     <value>Construiește-ți Baza de Cunoștințe Locală</value>
+  </data>
+  <data name="Build once, run anywhere. Fully containerized architecture." xml:space="preserve">
+    <value>Construiți o dată, rulați oriunde. Arhitectură complet containerizată.</value>
   </data>
   <data name="Build your next big thing," xml:space="preserve">
     <value>Construiește-ți următorul proiect important,</value>
@@ -222,11 +222,11 @@
   <data name="Built-in RBAC for fine-grained permission management." xml:space="preserve">
     <value>RBAC integrat pentru gestionarea permisiunilor granulare.</value>
   </data>
-  <data name="Built-in security controls support your deployment requirements." xml:space="preserve">
-    <value>Mecanismele de securitate integrate răspund cerințelor de implementare.</value>
-  </data>
   <data name="Built-in User Management" xml:space="preserve">
     <value>Gestionare Utilizatori Integrată</value>
+  </data>
+  <data name="Built-in security controls support your deployment requirements." xml:space="preserve">
+    <value>Mecanismele de securitate integrate răspund cerințelor de implementare.</value>
   </data>
   <data name="Code Audit &amp; Integration" xml:space="preserve">
     <value>Verificare și integrare cod</value>
@@ -288,11 +288,11 @@
   <data name="Custom Branding" xml:space="preserve">
     <value>Branding personalizat</value>
   </data>
-  <data name="Custom container development" xml:space="preserve">
-    <value>Dezvoltare personalizată a containerelelor</value>
-  </data>
   <data name="Custom Development Fee" xml:space="preserve">
     <value>Taxă dezvoltare personalizată</value>
+  </data>
+  <data name="Custom container development" xml:space="preserve">
+    <value>Dezvoltare personalizată a containerelelor</value>
   </data>
   <data name="Customized for your enterprise" xml:space="preserve">
     <value>Personalizat pentru întreprinderea dumneavoastră</value>
@@ -333,14 +333,14 @@
   <data name="Dev &amp; Prod" xml:space="preserve">
     <value>Dev &amp; Prod</value>
   </data>
+  <data name="DevOps Native" xml:space="preserve">
+    <value>Native DevOps</value>
+  </data>
   <data name="Develop exclusively in UTC while the system automatically converts and displays dates in the user&apos;s local time zone." xml:space="preserve">
     <value>Dezvoltați exclusiv în UTC, în timp ce sistemul convertește automat și afișează datele în fusul orar local al utilizatorului.</value>
   </data>
   <data name="Developer Experience" xml:space="preserve">
     <value>Experiența Dezvoltatorului</value>
-  </data>
-  <data name="DevOps Native" xml:space="preserve">
-    <value>Native DevOps</value>
   </data>
   <data name="Discover AnduinOS" xml:space="preserve">
     <value>Descoperă AnduinOS</value>
@@ -387,23 +387,23 @@
   <data name="Enterprise" xml:space="preserve">
     <value>Enterprise</value>
   </data>
-  <data name="Enterprise business framework for the" xml:space="preserve">
-    <value>Cadru de afaceri pentru întreprinderi pentru era</value>
-  </data>
   <data name="Enterprise C#" xml:space="preserve">
     <value>C# Enterprise</value>
-  </data>
-  <data name="Enterprise customers get round-the-clock telephone support, ensuring critical issues are addressed immediately." xml:space="preserve">
-    <value>Clienții enterprise beneficiază de suport telefonic non-stop, asigurând abordarea imediată a problemelor critice.</value>
   </data>
   <data name="Enterprise Ready" xml:space="preserve">
     <value>Potrivit pentru întreprinderi</value>
   </data>
-  <data name="Enterprise scale deployment" xml:space="preserve">
-    <value>Implementare la scară enterprise</value>
-  </data>
   <data name="Enterprise Security" xml:space="preserve">
     <value>Securitate Enterprise</value>
+  </data>
+  <data name="Enterprise business framework for the" xml:space="preserve">
+    <value>Cadru de afaceri pentru întreprinderi pentru era</value>
+  </data>
+  <data name="Enterprise customers get round-the-clock telephone support, ensuring critical issues are addressed immediately." xml:space="preserve">
+    <value>Clienții enterprise beneficiază de suport telefonic non-stop, asigurând abordarea imediată a problemelor critice.</value>
+  </data>
+  <data name="Enterprise scale deployment" xml:space="preserve">
+    <value>Implementare la scară enterprise</value>
   </data>
   <data name="Every access is verified, every connection is encrypted, every action is audited." xml:space="preserve">
     <value>Fiecare acces este verificat, fiecare conexiune este criptată, fiecare acțiune este auditată.</value>
@@ -411,17 +411,14 @@
   <data name="Experience Aiursoft AI" xml:space="preserve">
     <value>Experimentează Aiursoft AI</value>
   </data>
-  <data name="Explore on GitHub" xml:space="preserve">
-    <value>Exploră pe GitHub</value>
-  </data>
   <data name="Explore Our Projects" xml:space="preserve">
     <value>Exploră Proiectele Noastre</value>
   </data>
+  <data name="Explore on GitHub" xml:space="preserve">
+    <value>Exploră pe GitHub</value>
+  </data>
   <data name="FAQ" xml:space="preserve">
     <value>Întrebări frecvente</value>
-  </data>
-  <data name="faster" xml:space="preserve">
-    <value>mai rapid</value>
   </data>
   <data name="Features" xml:space="preserve">
     <value>Funcționalități</value>
@@ -435,20 +432,17 @@
   <data name="Flexible API" xml:space="preserve">
     <value>API flexibilă</value>
   </data>
-  <data name="for any inquiries or to report issues." xml:space="preserve">
-    <value>pentru orice întrebări sau pentru a raporta probleme.</value>
-  </data>
   <data name="Founder &amp; Architect at Aiursoft" xml:space="preserve">
     <value>Founder &amp; Architect la Aiursoft</value>
   </data>
   <data name="Free" xml:space="preserve">
     <value>Gratuit</value>
   </data>
-  <data name="Free for Commercial Use" xml:space="preserve">
-    <value>Gratuit pentru utilizare comercială</value>
-  </data>
   <data name="Free Software" xml:space="preserve">
     <value>Software Gratuit</value>
+  </data>
+  <data name="Free for Commercial Use" xml:space="preserve">
+    <value>Gratuit pentru utilizare comercială</value>
   </data>
   <data name="Freedom and enterprise service don&apos;t conflict." xml:space="preserve">
     <value>Libertatea și serviciul enterprise nu se conflictează.</value>
@@ -474,11 +468,11 @@
   <data name="Fully Offline" xml:space="preserve">
     <value>Complet Offline</value>
   </data>
-  <data name="Get a public cloud-like experience while hosting your applications in your own server." xml:space="preserve">
-    <value>Obțineți o experiență similară cu cea din cloud public, deși alocați aplicațiile în propriul server.</value>
-  </data>
   <data name="Get Started" xml:space="preserve">
     <value>Începe acum</value>
+  </data>
+  <data name="Get a public cloud-like experience while hosting your applications in your own server." xml:space="preserve">
+    <value>Obțineți o experiență similară cu cea din cloud public, deși alocați aplicațiile în propriul server.</value>
   </data>
   <data name="Get unified endpoint management (UEM), identity management (IAM), and collaboration tools (OA) in one package. All on your local servers!" xml:space="preserve">
     <value>Obține gestionarea unificată a punctelor de terminare (UEM), gestionarea identității (IAM) și instrumentele de colaborare (OA) într-un singur pachet. Toate pe serverele tale locale!</value>
@@ -534,14 +528,17 @@
   <data name="IDE Support" xml:space="preserve">
     <value>Suport pentru IDE</value>
   </data>
-  <data name="in the AI Era." xml:space="preserve">
-    <value>în Era Inteligenței Artificiale.</value>
+  <data name="IT teams can monitor the health of all endpoints and perform basic remote management." xml:space="preserve">
+    <value>Echipele IT pot monitoriza starea tuturor punctelor de terminare și pot efectua management de bază la distanță.</value>
   </data>
   <data name="Included" xml:space="preserve">
     <value>Inclus</value>
   </data>
   <data name="Includes Collaboration + Email + Identity Gateway" xml:space="preserve">
     <value>Include colaborare + Email + Gateway de identitate</value>
+  </data>
+  <data name="Includes Tutorials" xml:space="preserve">
+    <value>Include tutoriale</value>
   </data>
   <data name="Includes everything in Starter" xml:space="preserve">
     <value>Include tot ceea ce este în Starter</value>
@@ -552,9 +549,6 @@
   <data name="Includes extensive documentation and practical examples to get you started quickly." xml:space="preserve">
     <value>Include documentație extinsă și exemple practice pentru a începe rapid.</value>
   </data>
-  <data name="Includes Tutorials" xml:space="preserve">
-    <value>Include tutoriale</value>
-  </data>
   <data name="Integrated File Management" xml:space="preserve">
     <value>Gestionare Integrată a Fișierelor</value>
   </data>
@@ -564,14 +558,8 @@
   <data name="Interoperability" xml:space="preserve">
     <value>Interoperabilitate</value>
   </data>
-  <data name="is Free Software" xml:space="preserve">
-    <value>este Software Liber</value>
-  </data>
   <data name="Is it free to use Aiursoft Template?" xml:space="preserve">
     <value>Este gratuit să folosești Aiursoft Template?</value>
-  </data>
-  <data name="IT teams can monitor the health of all endpoints and perform basic remote management." xml:space="preserve">
-    <value>Echipele IT pot monitoriza starea tuturor punctelor de terminare și pot efectua management de bază la distanță.</value>
   </data>
   <data name="Join Discussions" xml:space="preserve">
     <value>Alătură-te discuțiilor</value>
@@ -591,6 +579,15 @@
   <data name="Local LLM Deployment" xml:space="preserve">
     <value>Implementare locală LLM</value>
   </data>
+  <data name="MDM based device compliance" xml:space="preserve">
+    <value>Conformitate dispozitiv MDM</value>
+  </data>
+  <data name="MIT Licence" xml:space="preserve">
+    <value>Licență MIT</value>
+  </data>
+  <data name="MIT License" xml:space="preserve">
+    <value>Licența MIT</value>
+  </data>
   <data name="Maintain High Code Quality" xml:space="preserve">
     <value>Menține o Calitate Ridicată a Codului</value>
   </data>
@@ -603,17 +600,8 @@
   <data name="Max 150 accounts" xml:space="preserve">
     <value>Maxim 150 de conturi</value>
   </data>
-  <data name="MDM based device compliance" xml:space="preserve">
-    <value>Conformitate dispozitiv MDM</value>
-  </data>
   <data name="Meet industry compliance requirements with auditable configurations and enterprise-grade controls." xml:space="preserve">
     <value>Îndeplini cerințele de conformitate din industrie cu configurări verificabile și controluri de tip enterprise.</value>
-  </data>
-  <data name="MIT Licence" xml:space="preserve">
-    <value>Licență MIT</value>
-  </data>
-  <data name="MIT License" xml:space="preserve">
-    <value>Licența MIT</value>
   </data>
   <data name="Models are validated on both client and server sides based on data annotations." xml:space="preserve">
     <value>Modelele sunt validate pe ambele laturi, client și server, pe baza anotărilor de date.</value>
@@ -666,17 +654,17 @@
   <data name="Open Source" xml:space="preserve">
     <value>Open Source</value>
   </data>
-  <data name="Open WebUI – Local AI Knowledge Base" xml:space="preserve">
-    <value>Open WebUI – Bază de cunoștințe locală pentru IA</value>
-  </data>
   <data name="Open WebUI Integration" xml:space="preserve">
     <value>Integrare Open WebUI</value>
   </data>
-  <data name="Open-source &amp; AI era." xml:space="preserve">
-    <value>Era open-source și AI</value>
+  <data name="Open WebUI – Local AI Knowledge Base" xml:space="preserve">
+    <value>Open WebUI – Bază de cunoștințe locală pentru IA</value>
   </data>
   <data name="Open-Source Solutions" xml:space="preserve">
     <value>Soluții Open Source</value>
+  </data>
+  <data name="Open-source &amp; AI era." xml:space="preserve">
+    <value>Era open-source și AI</value>
   </data>
   <data name="OpenID Connect" xml:space="preserve">
     <value>OpenID Connect</value>
@@ -777,17 +765,17 @@
   <data name="Specific fees need to be discussed with our architecture team to determine how to build for your enterprise." xml:space="preserve">
     <value>Cotele specifice trebuie discutate cu echipa noastră de arhitectură pentru a determina modul în care trebuie construit pentru întreprinderea dumneavoastră.</value>
   </data>
-  <data name="Standard implementation. Switch providers without compilation." xml:space="preserve">
-    <value>Implementare standard. Schimbă furnizorii fără compilare.</value>
-  </data>
   <data name="Standard OpenID" xml:space="preserve">
     <value>OpenID standard</value>
   </data>
-  <data name="Start a new project" xml:space="preserve">
-    <value>Începe un proiect nou</value>
+  <data name="Standard implementation. Switch providers without compilation." xml:space="preserve">
+    <value>Implementare standard. Schimbă furnizorii fără compilare.</value>
   </data>
   <data name="Start Shipping Value." xml:space="preserve">
     <value>Începeți livrarea valorii.</value>
+  </data>
+  <data name="Start a new project" xml:space="preserve">
+    <value>Începe un proiect nou</value>
   </data>
   <data name="Start with a single &apos;docker run&apos; command." xml:space="preserve">
     <value>Începe cu o singură comandă &apos;docker run&apos;.</value>
@@ -810,14 +798,14 @@
   <data name="Strict Lint Rules" xml:space="preserve">
     <value>Reguli Stricte de Lint</value>
   </data>
+  <data name="Strict Unit Testing" xml:space="preserve">
+    <value>Testare unitară strictă</value>
+  </data>
   <data name="Strict linting rules and zero warnings by default." xml:space="preserve">
     <value>Reguli stricte de verificare și zero avertizări implicit.</value>
   </data>
   <data name="Strict linting rules with 0 warnings in the default project." xml:space="preserve">
     <value>Reguli stricte de verificare a codului cu 0 avertizări în proiectul implicit.</value>
-  </data>
-  <data name="Strict Unit Testing" xml:space="preserve">
-    <value>Testare unitară strictă</value>
   </data>
   <data name="Strongly Consistent Linting" xml:space="preserve">
     <value>Linting Strâns Consistent</value>
@@ -828,11 +816,11 @@
   <data name="Supercharge Innovation" xml:space="preserve">
     <value>Supercharge Innovation</value>
   </data>
-  <data name="Supports both environment variables and database-backed settings, with automatic priority given to environment variables for seamless overrides." xml:space="preserve">
-    <value>Suportă atât variabilele de mediu, cât și setările stocate în baza de date, cu prioritate automată acordată variabilelor de mediu pentru actualizări fără probleme.</value>
-  </data>
   <data name="Supports JetBrains Rider for easy code style fixes." xml:space="preserve">
     <value>Suportă JetBrains Rider pentru corectarea ușoară a stilului de cod.</value>
+  </data>
+  <data name="Supports both environment variables and database-backed settings, with automatic priority given to environment variables for seamless overrides." xml:space="preserve">
+    <value>Suportă atât variabilele de mediu, cât și setările stocate în baza de date, cu prioritate automată acordată variabilelor de mediu pentru actualizări fără probleme.</value>
   </data>
   <data name="Supports local operation; configured external integrations require network access." xml:space="preserve">
     <value>Permite funcționarea locală; integrările externe configurate necesită acces la rețea.</value>
@@ -849,12 +837,6 @@
   <data name="Technical Lead" xml:space="preserve">
     <value>Conducător Tehnic</value>
   </data>
-  <data name="The definitive, battle-tested .NET enterprise foundation. From Auth to AI, we&apos;ve solved the hard parts so you don&apos;t have to." xml:space="preserve">
-    <value>Fundamentul definitiv, testat în practică pentru întreprinderi în .NET. De la Autentificare până la Inteligență Artificială, am rezolvat părțile dificile, astfel încât să nu aibă nevoie să le rezolvi tu.</value>
-  </data>
-  <data name="The navigation bar automatically adjusts based on user roles and permissions." xml:space="preserve">
-    <value>Bara de navigare se ajustează automat în funcție de rolurile și permisiunile utilizatorului.</value>
-  </data>
   <data name="The Open-source world already has the solutions you need." xml:space="preserve">
     <value>Lumea open-source already are soluțiile de care ai nevoie.</value>
   </data>
@@ -864,11 +846,17 @@
   <data name="The Philosophy" xml:space="preserve">
     <value>Filosofia</value>
   </data>
-  <data name="The template is built for easy deployment. It includes full Docker support, so you can containerize your app and run it anywhere. You can also deploy it directly to IIS, Azure App Service, or any server that supports ASP.NET Core." xml:space="preserve">
-    <value>Șablonul este construit pentru o implementare ușoară. Include suport complet pentru Docker, astfel încât poți containeriza aplicația și să o rulezi oriunde. De asemenea, îl poți implementa direct pe IIS, Azure App Service sau pe orice server care suportă ASP.NET Core.</value>
-  </data>
   <data name="The Turnkey Enterprise Foundation" xml:space="preserve">
     <value>Fundamentul Turnkey pentru Enterprise</value>
+  </data>
+  <data name="The definitive, battle-tested .NET enterprise foundation. From Auth to AI, we&apos;ve solved the hard parts so you don&apos;t have to." xml:space="preserve">
+    <value>Fundamentul definitiv, testat în practică pentru întreprinderi în .NET. De la Autentificare până la Inteligență Artificială, am rezolvat părțile dificile, astfel încât să nu aibă nevoie să le rezolvi tu.</value>
+  </data>
+  <data name="The navigation bar automatically adjusts based on user roles and permissions." xml:space="preserve">
+    <value>Bara de navigare se ajustează automat în funcție de rolurile și permisiunile utilizatorului.</value>
+  </data>
+  <data name="The template is built for easy deployment. It includes full Docker support, so you can containerize your app and run it anywhere. You can also deploy it directly to IIS, Azure App Service, or any server that supports ASP.NET Core." xml:space="preserve">
+    <value>Șablonul este construit pentru o implementare ușoară. Include suport complet pentru Docker, astfel încât poți containeriza aplicația și să o rulezi oriunde. De asemenea, îl poți implementa direct pe IIS, Azure App Service sau pe orice server care suportă ASP.NET Core.</value>
   </data>
   <data name="This is a template project" xml:space="preserve">
     <value>Acesta este un proiect tip</value>
@@ -912,6 +900,9 @@
   <data name="Voxihost offers transparent, cost-effective cloud and generously sponsors Aiursoft&apos;s Open-source work." xml:space="preserve">
     <value>Voxihost oferă o infrastructură în cloud transparentă și rentabilă și susține generos activitatea open-source a Aiursoft.</value>
   </data>
+  <data name="We Take the First Hit." xml:space="preserve">
+    <value>Noi primim primul lovitură.</value>
+  </data>
   <data name="We audit and integrate Open-source code, respect GPL, compile components, and contribute upstream." xml:space="preserve">
     <value>Auditem și integrăm codul sursă deschis, respectăm GPL, compilăm componente și contribuim în aval.</value>
   </data>
@@ -923,9 +914,6 @@
   </data>
   <data name="We procure Yubikeys for all clients and configure zero-trust architecture." xml:space="preserve">
     <value>Cumpărăm Yubikeys pentru toți clienții și configurăm arhitectura zero-trust.</value>
-  </data>
-  <data name="We Take the First Hit." xml:space="preserve">
-    <value>Noi primim primul lovitură.</value>
   </data>
   <data name="Welcome" xml:space="preserve">
     <value>Bun venit</value>
@@ -942,17 +930,14 @@
   <data name="Win/Lin/Mac" xml:space="preserve">
     <value>Win/Lin/Mac</value>
   </data>
+  <data name="With Voxihost, Aiursoft helps enterprises host Email, authentication, cloud drives, employee portals, monitoring, and AI." xml:space="preserve">
+    <value>Împreună cu Voxihost, Aiursoft ajută întreprinderile să găzduiască Email, autentificare, unități de stocare în cloud, portale pentru angajați, monitorizare și inteligență artificială.</value>
+  </data>
   <data name="With local models and local integrations, inference inputs remain within your deployment. External providers receive the inputs you choose to send." xml:space="preserve">
     <value>Cu modele și integrări locale, datele de intrare folosite pentru inferență rămân în cadrul implementării dumneavoastră. Furnizorii externi primesc datele de intrare pe care alegeți să le trimiteți.</value>
   </data>
-  <data name="with Open-Source Infrastructure." xml:space="preserve">
-    <value>cu infrastructură open-source.</value>
-  </data>
   <data name="With reliable cloud infrastructure, your business can grow reliably alongside Aiursoft." xml:space="preserve">
     <value>Cu o infrastructură de cloud fiabilă, afacerea ta poate crește în mod sigur alături de Aiursoft.</value>
-  </data>
-  <data name="With Voxihost, Aiursoft helps enterprises host Email, authentication, cloud drives, employee portals, monitoring, and AI." xml:space="preserve">
-    <value>Împreună cu Voxihost, Aiursoft ajută întreprinderile să găzduiască Email, autentificare, unități de stocare în cloud, portale pentru angajați, monitorizare și inteligență artificială.</value>
   </data>
   <data name="Yes, Aiursoft Template is completely free and open-source under the MIT License. You can use it for personal and commercial projects without any cost." xml:space="preserve">
     <value>Da, Aiursoft Template este complet gratuit și open-source sub Licența MIT. Îl puteți utiliza pentru proiecte personale și comerciale fără niciun cost.</value>
@@ -989,6 +974,21 @@
   </data>
   <data name="Zot" xml:space="preserve">
     <value>Zot</value>
+  </data>
+  <data name="faster" xml:space="preserve">
+    <value>mai rapid</value>
+  </data>
+  <data name="for any inquiries or to report issues." xml:space="preserve">
+    <value>pentru orice întrebări sau pentru a raporta probleme.</value>
+  </data>
+  <data name="in the AI Era." xml:space="preserve">
+    <value>în Era Inteligenței Artificiale.</value>
+  </data>
+  <data name="is Free Software" xml:space="preserve">
+    <value>este Software Liber</value>
+  </data>
+  <data name="with Open-Source Infrastructure." xml:space="preserve">
+    <value>cu infrastructură open-source.</value>
   </data>
 
 </root>

@@ -159,26 +159,26 @@
   <data name="Show Senparc in the trusted partners section." xml:space="preserve">
     <value>विश्वसनीय साझेदारों अनुभाग में Senparc दिखाएं।</value>
   </data>
-  <data name="Show the Voxihost partnership section on the home page." xml:space="preserve">
-    <value>होम पेज पर Voxihost साझेदारी अनुभाग दिखाएँ।</value>
+  <data name="Show Voxihost Partnership" xml:space="preserve">
+    <value>वॉक्सीहोस्ट साझेदारी दिखाएं</value>
   </data>
   <data name="Show Voxihost in the trusted partners section." xml:space="preserve">
     <value>विश्वसनीय भागीदारों के अनुभाग में Voxihost दिखाएं।</value>
   </data>
-  <data name="Show Voxihost Partnership" xml:space="preserve">
-    <value>वॉक्सीहोस्ट साझेदारी दिखाएं</value>
-  </data>
-  <data name="The brand name displayed in the footer." xml:space="preserve">
-    <value>फुटर में दिखाई देने वाला ब्रांड नाम</value>
-  </data>
-  <data name="The company name displayed when the page language is Simplified Chinese. Leave empty to use the default brand name." xml:space="preserve">
-    <value>जब पृष्ठ भाषा सरलीकृत चीनी हो तो प्रदर्शित होने वाला कंपनी का नाम। डिफ़ॉल्ट ब्रांड नाम का उपयोग करने के लिए इसे खाली छोड़ दें।</value>
+  <data name="Show the Voxihost partnership section on the home page." xml:space="preserve">
+    <value>होम पेज पर Voxihost साझेदारी अनुभाग दिखाएँ।</value>
   </data>
   <data name="The HTTP(S) base URL of AlertCenter." xml:space="preserve">
     <value>AlertCenter का HTTP(S) बेस URL</value>
   </data>
   <data name="The ICP license number for China mainland users. Leave empty to hide." xml:space="preserve">
     <value>चीन मुख्यभूमि के उपयोगकर्ताओं के लिए ICP लाइसेंस संख्या। छिपाने के लिए खाली छोड़ दें।</value>
+  </data>
+  <data name="The brand name displayed in the footer." xml:space="preserve">
+    <value>फुटर में दिखाई देने वाला ब्रांड नाम</value>
+  </data>
+  <data name="The company name displayed when the page language is Simplified Chinese. Leave empty to use the default brand name." xml:space="preserve">
+    <value>जब पृष्ठ भाषा सरलीकृत चीनी हो तो प्रदर्शित होने वाला कंपनी का नाम। डिफ़ॉल्ट ब्रांड नाम का उपयोग करने के लिए इसे खाली छोड़ दें।</value>
   </data>
   <data name="The logo of the project displayed in the navbar and footer. Support jpg, png, svg." xml:space="preserve">
     <value>प्रोजेक्ट का लोगो नेवबार और फुटर में प्रदर्शित किया जाता है। jpg, png, svg समर्थित हैं।</value>

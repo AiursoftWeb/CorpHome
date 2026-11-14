@@ -30,9 +30,6 @@
   <data name="A software-only delivery would not solve the problem either. Even a well-designed platform cannot provide the expected performance or reliability when its underlying hardware is unsuitable or poorly integrated. ChopInsight needed a coordinated approach that could preserve existing investments, add computing capacity where necessary, and support conventional applications and AI workloads through a common management model." xml:space="preserve">
     <value>لا يحلّ تقديم البرمجيات وحدها المشكلة أيضًا. فحتى المنصة المصممة بعناية لا تستطيع توفير الأداء أو الموثوقية المتوقعة عندما يكون العتاد الأساسي غير مناسب أو مُدمج بشكل ضعيف. احتاجت ChopInsight إلى نهج منسق يحافظ على الاستثمارات القائمة، ويضيف سعة الحوسبة حيثما كان ذلك ضروريًا، ويدعم التطبيقات التقليدية وأحمال عمل الذكاء الاصطناعي من خلال نموذج إدارة موحّد.</value>
   </data>
-  <data name="About ChopInsight" xml:space="preserve">
-    <value>حول شوب إنسايت</value>
-  </data>
   <data name="AI access" xml:space="preserve">
     <value>وصول الذكاء الاصطناعي</value>
   </data>
@@ -44,6 +41,9 @@
   </data>
   <data name="AI introduced a second, closely related challenge. Suitable computing resources could be expensive and complex to specify. ChopInsight needed to avoid hardware that might later prove unsuitable for its software or operational requirements, while simply replacing equipment would have ignored the value of its existing servers." xml:space="preserve">
     <value>أدخل الذكاء الاصطناعي تحديًا ثانيًا وثيق الصلة. فقد تكون الموارد الحاسوبية المناسبة باهظة التكلفة ومعقدة في التحديد. احتاجت شوب إنسايت إلى تجنب الأجهزة التي قد تثبت لاحقًا أنها غير مناسبة لمتطلبات برمجياتها أو عملياتها، في حين أن مجرد استبدال المعدات كان سيشكّل إهمالًا لقيمة الخوادم الحالية التي تمتلكها.</value>
+  </data>
+  <data name="About ChopInsight" xml:space="preserve">
+    <value>حول شوب إنسايت</value>
   </data>
   <data name="Aiursoft assessed ChopInsight’s physical equipment, computing resources, application requirements and future AI plans together. Performance, stability, cost and future expansion informed a single design, making hardware selection and adaptation part of the service rather than a separate procurement exercise." xml:space="preserve">
     <value>قيّمت Aiursoft المعدات المادية وموارد الحوسبة ومتطلبات التطبيقات وخطط الذكاء الاصطناعي المستقبلية لشركة ChopInsight بشكل متكامل. فقد شكّلت الأداء والاستقرار والتكلفة والتوسع المستقبلي أساسًا لتصميم موحد، مما جعل اختيار الأجهزة وتكييفها جزءًا من الخدمة وليس عملية شراء منفصلة.</value>

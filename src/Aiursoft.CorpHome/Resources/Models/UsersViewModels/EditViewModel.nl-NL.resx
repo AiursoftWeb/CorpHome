@@ -30,6 +30,12 @@
   <data name="Reset Password (leave empty to keep the same password)" xml:space="preserve">
     <value>Wachtwoord opnieuw instellen (laat leeg om hetzelfde wachtwoord te behouden)</value>
   </data>
+  <data name="The avatar file is invalid. Please upload it again." xml:space="preserve">
+    <value>Het avatarbestand is ongeldig. Upload het opnieuw.</value>
+  </data>
+  <data name="The avatar file is required." xml:space="preserve">
+    <value>Het avatar-bestand is verplicht.</value>
+  </data>
   <data name="The {0} is invalid. Please upload it again." xml:space="preserve">
     <value>De {0} is ongeldig. Upload het opnieuw.</value>
   </data>
@@ -44,12 +50,6 @@
   </data>
   <data name="The {0} must be more than {1} characters." xml:space="preserve">
     <value>{0} moet meer dan {1} tekens bevatten.</value>
-  </data>
-  <data name="The avatar file is invalid. Please upload it again." xml:space="preserve">
-    <value>Het avatarbestand is ongeldig. Upload het opnieuw.</value>
-  </data>
-  <data name="The avatar file is required." xml:space="preserve">
-    <value>Het avatar-bestand is verplicht.</value>
   </data>
   <data name="User name" xml:space="preserve">
     <value>Gebruikersnaam</value>

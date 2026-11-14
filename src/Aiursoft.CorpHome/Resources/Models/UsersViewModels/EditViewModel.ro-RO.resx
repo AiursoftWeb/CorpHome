@@ -30,6 +30,12 @@
   <data name="Reset Password (leave empty to keep the same password)" xml:space="preserve">
     <value>Resetează parola (lăsați necompletat pentru a păstra parola actuală)</value>
   </data>
+  <data name="The avatar file is invalid. Please upload it again." xml:space="preserve">
+    <value>Fișierul avatar este invalid. Vă rugăm să îl încărcați din nou.</value>
+  </data>
+  <data name="The avatar file is required." xml:space="preserve">
+    <value>Fișierul avatar este obligatoriu.</value>
+  </data>
   <data name="The {0} is invalid. Please upload it again." xml:space="preserve">
     <value>{0} este invalid. Vă rugăm să îl încărcați din nou.</value>
   </data>
@@ -44,12 +50,6 @@
   </data>
   <data name="The {0} must be more than {1} characters." xml:space="preserve">
     <value>{0} trebuie să aibă mai mult de {1} caractere.</value>
-  </data>
-  <data name="The avatar file is invalid. Please upload it again." xml:space="preserve">
-    <value>Fișierul avatar este invalid. Vă rugăm să îl încărcați din nou.</value>
-  </data>
-  <data name="The avatar file is required." xml:space="preserve">
-    <value>Fișierul avatar este obligatoriu.</value>
   </data>
   <data name="User name" xml:space="preserve">
     <value>Nume de utilizator</value>

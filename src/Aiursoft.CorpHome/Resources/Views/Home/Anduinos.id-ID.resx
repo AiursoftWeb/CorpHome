@@ -24,6 +24,9 @@
   <data name="27 inch" xml:space="preserve">
     <value>27 inci</value>
   </data>
+  <data name="ARM64 Support" xml:space="preserve">
+    <value>Dukungan ARM64</value>
+  </data>
   <data name="Add to Management Cloud and go live" xml:space="preserve">
     <value>Tambahkan ke Management Cloud dan mulai gunakan</value>
   </data>
@@ -39,9 +42,6 @@
   <data name="AnduinOS 2.0 standard support ends in April 2031, as for the community edition. Enterprise services do not extend this release&apos;s security-update lifecycle. Service scope and subscription duration are specified in your agreement." xml:space="preserve">
     <value>Dukungan standar AnduinOS 2.0 berakhir pada April 2031, seperti halnya edisi komunitas. Layanan perusahaan tidak memperpanjang masa dukungan pembaruan keamanan untuk rilis ini. Cakupan layanan dan durasi langganan tercantum dalam perjanjian Anda.</value>
   </data>
-  <data name="AnduinOS device" xml:space="preserve">
-    <value>perangkat AnduinOS</value>
-  </data>
   <data name="AnduinOS Enterprise" xml:space="preserve">
     <value>AnduinOS Enterprise</value>
   </data>
@@ -50,6 +50,15 @@
   </data>
   <data name="AnduinOS Enterprise provides brand customisation, enabling you to replace the system logo with your own." xml:space="preserve">
     <value>AnduinOS Enterprise menyediakan kustomisasi merek, memungkinkan Anda mengganti logo sistem dengan logo Anda sendiri.</value>
+  </data>
+  <data name="AnduinOS Kiosk" xml:space="preserve">
+    <value>AnduinOS Kiosk</value>
+  </data>
+  <data name="AnduinOS Management Cloud" xml:space="preserve">
+    <value>Cloud Manajemen AnduinOS</value>
+  </data>
+  <data name="AnduinOS device" xml:space="preserve">
+    <value>perangkat AnduinOS</value>
   </data>
   <data name="AnduinOS fleet" xml:space="preserve">
     <value>armada AnduinOS</value>
@@ -66,12 +75,6 @@
   <data name="AnduinOS is based on Ubuntu&apos;s package base. It&apos;s compatible with most of the apt packages from Ubuntu. It&apos;s a perfect combination of experience and ecology." xml:space="preserve">
     <value>AnduinOS didasarkan pada basis paket Ubuntu. Sistem ini kompatibel dengan sebagian besar paket apt dari Ubuntu. Ini merupakan kombinasi sempurna antara pengalaman pengguna dan ekosistem.</value>
   </data>
-  <data name="AnduinOS Kiosk" xml:space="preserve">
-    <value>AnduinOS Kiosk</value>
-  </data>
-  <data name="AnduinOS Management Cloud" xml:space="preserve">
-    <value>Cloud Manajemen AnduinOS</value>
-  </data>
   <data name="Apkg Dashboard Screenshot" xml:space="preserve">
     <value>Tangkapan Layar Dasbor Apkg</value>
   </data>
@@ -83,9 +86,6 @@
   </data>
   <data name="Architecture" xml:space="preserve">
     <value>Arsitektur</value>
-  </data>
-  <data name="ARM64 Support" xml:space="preserve">
-    <value>Dukungan ARM64</value>
   </data>
   <data name="At just 2.54 GB, the ISO is lightweight and fast to deploy across your fleet. The live environment lets your IT team quickly boot, repair, and diagnose systems without installing." xml:space="preserve">
     <value>Dengan ukuran hanya 2,4 GB, ISO ini ringan dan cepat untuk diterapkan di seluruh armada perangkat Anda. Lingkungan live memungkinkan tim IT Anda dengan cepat melakukan boot, perbaikan, dan diagnosis sistem tanpa perlu instalasi.</value>
@@ -186,9 +186,6 @@
   <data name="Device Management Integrations" xml:space="preserve">
     <value>Integrasi Manajemen Perangkat</value>
   </data>
-  <data name="digital signage and kiosk terminals" xml:space="preserve">
-    <value>layar informasi digital dan terminal kios</value>
-  </data>
   <data name="Disk Space" xml:space="preserve">
     <value>Ruang Disk</value>
   </data>
@@ -246,9 +243,6 @@
   <data name="Explore StatHub" xml:space="preserve">
     <value>Jelajahi StatHub</value>
   </data>
-  <data name="ext4 optional" xml:space="preserve">
-    <value>opsional ext4</value>
-  </data>
   <data name="Familiar UX" xml:space="preserve">
     <value>UX yang familiar</value>
   </data>
@@ -270,14 +264,14 @@
   <data name="Fully On-Premise" xml:space="preserve">
     <value>Sepenuhnya On-Premise</value>
   </data>
+  <data name="GPL-v3 License" xml:space="preserve">
+    <value>Lisensi GPL-v3</value>
+  </data>
   <data name="Get the AnduinOS image from our site" xml:space="preserve">
     <value>Unduh gambar AnduinOS dari situs kami</value>
   </data>
   <data name="Get up-to-the-second updates on every AnduinOS device&apos;s CPU, memory, disk, and network usage." xml:space="preserve">
     <value>Dapatkan pembaruan real-time detik demi detik untuk penggunaan CPU, memori, disk, dan jaringan setiap perangkat AnduinOS.</value>
-  </data>
-  <data name="GPL-v3 License" xml:space="preserve">
-    <value>Lisensi GPL-v3</value>
   </data>
   <data name="Graphical applications are installed via Flatpak, and keep themselves separate from the base system. They also allow for fine-grained control over their permissions." xml:space="preserve">
     <value>Aplikasi grafis dipasang melalui Flatpak, dan tetap terpisah dari sistem dasar. Mereka juga mengizinkan kontrol yang lebih spesifik terhadap izin-izin mereka.</value>
@@ -315,6 +309,9 @@
   <data name="Kiosk mode prevents unauthorized access. Users can only interact with your approved application, keeping your deployment secure." xml:space="preserve">
     <value>Mode kios mencegah akses tidak sah. Pengguna hanya dapat berinteraksi dengan aplikasi yang Anda setujui, menjaga keamanan penyebaran Anda.</value>
   </data>
+  <data name="LTS Support" xml:space="preserve">
+    <value>Dukungan LTS</value>
+  </data>
   <data name="Lightweight Agents" xml:space="preserve">
     <value>Agen Ringan</value>
   </data>
@@ -333,14 +330,8 @@
   <data name="Low-overhead agents collect metrics without impacting your AnduinOS devices&apos; performance. Deploy in seconds with Docker." xml:space="preserve">
     <value>Agen ringan mengumpulkan metrik tanpa memengaruhi kinerja perangkat AnduinOS Anda. Deploy dalam hitungan detik dengan Docker.</value>
   </data>
-  <data name="LTS Support" xml:space="preserve">
-    <value>Dukungan LTS</value>
-  </data>
   <data name="Managed Update Rollouts" xml:space="preserve">
     <value>Peluncuran Pembaruan Terkelola</value>
-  </data>
-  <data name="management for your fleet" xml:space="preserve">
-    <value>pengelolaan untuk armada Anda</value>
   </data>
   <data name="Memory Compression" xml:space="preserve">
     <value>Kompresi Memori</value>
@@ -378,9 +369,6 @@
   <data name="Open Source" xml:space="preserve">
     <value>Sumber Terbuka</value>
   </data>
-  <data name="or" xml:space="preserve">
-    <value>atau</value>
-  </data>
   <data name="Package Distribution" xml:space="preserve">
     <value>Distribusi Paket</value>
   </data>
@@ -410,9 +398,6 @@
   </data>
   <data name="Processor" xml:space="preserve">
     <value>Prosesor</value>
-  </data>
-  <data name="quad-core" xml:space="preserve">
-    <value>quad-core</value>
   </data>
   <data name="RAM" xml:space="preserve">
     <value>RAM</value>
@@ -519,11 +504,11 @@
   <data name="The GNOME-based desktop environment has beautiful interfaces and human-computer interactions that fit user habits, allowing you to quickly get started with AnduinOS without too much learning cost." xml:space="preserve">
     <value>Lingkungan desktop berbasis GNOME memiliki antarmuka yang indah dan interaksi manusia-komputer yang sesuai dengan kebiasaan pengguna, memungkinkan Anda memulai menggunakan AnduinOS dengan cepat tanpa biaya pembelajaran yang berlebihan.</value>
   </data>
-  <data name="The ideal solution for" xml:space="preserve">
-    <value>Solusi ideal untuk</value>
-  </data>
   <data name="The ISO is just 2.4GB in size. Similar to Ubuntu, it is simple to install and can meet your daily needs without additional configuration or complicated operations." xml:space="preserve">
     <value>Ukuran ISO hanya 2,4GB. Sama seperti Ubuntu, instalasinya sederhana dan dapat memenuhi kebutuhan harian Anda tanpa konfigurasi tambahan atau operasi yang rumit.</value>
+  </data>
+  <data name="The ideal solution for" xml:space="preserve">
+    <value>Solusi ideal untuk</value>
   </data>
   <data name="The operating system your enterprise needs — familiar, beautiful, stable, mature, and easy to manage. AnduinOS Enterprise is built on Linux 7.0, GNOME 50, and Ubuntu 26.04, keeping your team in a comfortable, productive environment." xml:space="preserve">
     <value>Sistem operasi yang dibutuhkan perusahaan Anda — familiar, indah, stabil, matang, dan mudah dikelola. AnduinOS Enterprise dibangun di atas Linux 7.0, GNOME 50, dan Ubuntu 26.04, menjaga tim Anda tetap berada dalam lingkungan yang nyaman dan produktif.</value>
@@ -537,11 +522,11 @@
   <data name="Turn any screen into a kiosk" xml:space="preserve">
     <value>Ubah layar apa pun menjadi kios</value>
   </data>
-  <data name="Ubuntu Base" xml:space="preserve">
-    <value>Basis Ubuntu</value>
-  </data>
   <data name="UI Toolkit" xml:space="preserve">
     <value>Peralatan UI</value>
+  </data>
+  <data name="Ubuntu Base" xml:space="preserve">
+    <value>Basis Ubuntu</value>
   </data>
   <data name="Update and restart policies are configured for your deployment. Test releases before rollout and schedule maintenance for changes that require downtime." xml:space="preserve">
     <value>Kebijakan pembaruan dan mulai ulang telah dikonfigurasi untuk penerapan Anda. Uji rilis sebelum peluncuran dan jadwalkan pemeliharaan untuk perubahan yang memerlukan waktu henti.</value>
@@ -564,23 +549,38 @@
   <data name="Why choose AnduinOS?" xml:space="preserve">
     <value>Mengapa memilih AnduinOS?</value>
   </data>
-  <data name="with Apkg" xml:space="preserve">
-    <value>dengan Apkg</value>
-  </data>
   <data name="With just a few clicks, you can have AnduinOS running on any machine. Enjoy automatic updates, built-in security, and remote management from the cloud — so once deployed, it just works." xml:space="preserve">
     <value>Dengan hanya beberapa klik, Anda dapat menjalankan AnduinOS di perangkat apa pun. Nikmati pembaruan otomatis, keamanan bawaan, dan manajemen jarak jauh dari awan — sehingga setelah diterapkan, semuanya berjalan lancar.</value>
-  </data>
-  <data name="with Secure Boot" xml:space="preserve">
-    <value>dengan Secure Boot</value>
-  </data>
-  <data name="with StatHub" xml:space="preserve">
-    <value>dengan StatHub</value>
   </data>
   <data name="Without Snap" xml:space="preserve">
     <value>Tanpa Snap</value>
   </data>
   <data name="Write the image to a USB drive" xml:space="preserve">
     <value>Tulis gambar ke drive USB</value>
+  </data>
+  <data name="digital signage and kiosk terminals" xml:space="preserve">
+    <value>layar informasi digital dan terminal kios</value>
+  </data>
+  <data name="ext4 optional" xml:space="preserve">
+    <value>opsional ext4</value>
+  </data>
+  <data name="management for your fleet" xml:space="preserve">
+    <value>pengelolaan untuk armada Anda</value>
+  </data>
+  <data name="or" xml:space="preserve">
+    <value>atau</value>
+  </data>
+  <data name="quad-core" xml:space="preserve">
+    <value>quad-core</value>
+  </data>
+  <data name="with Apkg" xml:space="preserve">
+    <value>dengan Apkg</value>
+  </data>
+  <data name="with Secure Boot" xml:space="preserve">
+    <value>dengan Secure Boot</value>
+  </data>
+  <data name="with StatHub" xml:space="preserve">
+    <value>dengan StatHub</value>
   </data>
 
 </root>
