@@ -123,6 +123,9 @@
   <data name="Last Updated: March 2026" xml:space="preserve">
     <value>最後更新：2026年3月</value>
   </data>
+  <data name="Last Updated: November 13, 2026" xml:space="preserve">
+    <value>最後更新：2026年11月13日</value>
+  </data>
   <data name="Last Updated: September 2026" xml:space="preserve">
     <value>最後更新：2026年9月</value>
   </data>
@@ -164,6 +167,9 @@
   </data>
   <data name="The underlying open-source codes are subject to their respective licenses (e.g., MIT, GPL). You are free to inspect, modify, and distribute the code as permitted by those licenses." xml:space="preserve">
     <value>底層的開源程式碼受其各自許可證（例如：MIT、GPL）約束。您可自由檢視、修改及分發程式碼，惟須遵守相關許可證所容許之範圍。</value>
+  </data>
+  <data name="These cancellation and non-refund rules apply to voluntary cancellation. They do not exclude remedies for our failure to provide the agreed services, override the specific commitments in an applicable service agreement, or limit rights that cannot be excluded under applicable law." xml:space="preserve">
+    <value>此等取消及不退費規則適用於自願取消。該等規則不會排除我們未能提供約定服務時之補救措施，不會取代適用服務協議中載明之特定承諾，亦不會限制根據適用法律不可排除之權利。</value>
   </data>
   <data name="These Terms of Service (&quot;Terms&quot;) govern your access to and use of the Aiursoft website, products, and subscription services, including but not limited to Aiursoft Substrate (Core, Startup, and Enterprise plans) (collectively, the &quot;Services&quot;). By registering for an account or purchasing a subscription, you agree to be bound by these Terms." xml:space="preserve">
     <value>《服務條款》（「條款」）規管您對 Aiursoft 網站、產品及訂閱服務的存取及使用，包括但不限於 Aiursoft Substrate（Core、Startup 及 Enterprise 計劃）（統稱「服務」）。透過註冊帳戶或購買訂閱，即表示您同意受此等條款約束。</value>

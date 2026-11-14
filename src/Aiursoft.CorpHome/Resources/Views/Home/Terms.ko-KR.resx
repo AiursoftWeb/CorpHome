@@ -123,6 +123,9 @@
   <data name="Last Updated: March 2026" xml:space="preserve">
     <value>마지막 업데이트: 2026년 3월</value>
   </data>
+  <data name="Last Updated: November 13, 2026" xml:space="preserve">
+    <value>마지막 업데이트: 2026년 11월 13일</value>
+  </data>
   <data name="Last Updated: September 2026" xml:space="preserve">
     <value>최종 업데이트: 2026년 9월</value>
   </data>
@@ -164,6 +167,9 @@
   </data>
   <data name="The underlying open-source codes are subject to their respective licenses (e.g., MIT, GPL). You are free to inspect, modify, and distribute the code as permitted by those licenses." xml:space="preserve">
     <value>기반의 오픈소스 코드는 각각의 라이선스(예: MIT, GPL)에 따라 적용됩니다. 해당 라이선스에서 허용하는 범위 내에서 코드를 검토하고 수정하며 배포할 수 있습니다.</value>
+  </data>
+  <data name="These cancellation and non-refund rules apply to voluntary cancellation. They do not exclude remedies for our failure to provide the agreed services, override the specific commitments in an applicable service agreement, or limit rights that cannot be excluded under applicable law." xml:space="preserve">
+    <value>이해지 및 환불 불가 규칙은 자발적인 해지에 적용됩니다. 이러한 규칙은 당사자가 합의된 서비스를 제공하지 못한 경우의 구제책, 해당 서비스 계약의 구체적 약정, 또는 해당 법률에 따라 배제할 수 없는 권리를 배제하거나 제한하지 않습니다.</value>
   </data>
   <data name="These Terms of Service (&quot;Terms&quot;) govern your access to and use of the Aiursoft website, products, and subscription services, including but not limited to Aiursoft Substrate (Core, Startup, and Enterprise plans) (collectively, the &quot;Services&quot;). By registering for an account or purchasing a subscription, you agree to be bound by these Terms." xml:space="preserve">
     <value>이 서비스 이용 약관(&quot;약관&quot;)은 Aiursoft 웹사이트, 제품 및 구독 서비스에 대한 접근 및 사용을 규제하며, Aiursoft Substrate(코어, 스타트업 및 엔터프라이즈 플랜 포함)를 포함한 모든 서비스(종합적으로 &quot;서비스&quot;라 함)를 포함합니다. 계정을 등록하거나 구독을 구매함으로써 귀하는 이 약관에 구속됨에 동의하는 것입니다.</value>

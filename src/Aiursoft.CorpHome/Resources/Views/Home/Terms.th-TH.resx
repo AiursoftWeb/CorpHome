@@ -123,6 +123,9 @@
   <data name="Last Updated: March 2026" xml:space="preserve">
     <value>อัปเดตครั้งล่าสุด: มีนาคม 2026</value>
   </data>
+  <data name="Last Updated: November 13, 2026" xml:space="preserve">
+    <value>อัปเดตล่าสุด: 13 พฤศจิกายน 2026</value>
+  </data>
   <data name="Last Updated: September 2026" xml:space="preserve">
     <value>อัปเดตล่าสุด: กันยายน 2026</value>
   </data>
@@ -164,6 +167,9 @@
   </data>
   <data name="The underlying open-source codes are subject to their respective licenses (e.g., MIT, GPL). You are free to inspect, modify, and distribute the code as permitted by those licenses." xml:space="preserve">
     <value>รหัสโอเพนซอร์สที่อยู่เบื้องหลังอยู่ภายใต้สัญญาอนุญาตตามแต่ละสัญญา (เช่น MIT, GPL) คุณมีอิสระในการตรวจสอบ แก้ไข และเผยแพร่โค้ดตามที่สัญญาอนุญาตอนุญาตไว้</value>
+  </data>
+  <data name="These cancellation and non-refund rules apply to voluntary cancellation. They do not exclude remedies for our failure to provide the agreed services, override the specific commitments in an applicable service agreement, or limit rights that cannot be excluded under applicable law." xml:space="preserve">
+    <value>กฎการยกเลิกและการไม่คืนเงินเหล่านี้มีผลใช้บังคับกับการยกเลิกโดยสมัครใจ และไม่เป็นการขจัดสิทธิในการเยียวยาหากเราไม่สามารถให้บริการตามที่ตกลงไว้ ไม่เพิกถอนข้อผูกพันเฉพาะในสัญญาบริการที่บังคับใช้ และไม่จำกัดสิทธิที่ไม่อาจขจัดได้ตามกฎหมายที่ใช้บังคับ</value>
   </data>
   <data name="These Terms of Service (&quot;Terms&quot;) govern your access to and use of the Aiursoft website, products, and subscription services, including but not limited to Aiursoft Substrate (Core, Startup, and Enterprise plans) (collectively, the &quot;Services&quot;). By registering for an account or purchasing a subscription, you agree to be bound by these Terms." xml:space="preserve">
     <value>ข้อกำหนดการใช้บริการ (&quot;ข้อกำหนด&quot;) เหล่านี้ ควบคุมการเข้าถึงและการใช้งานเว็บไซต์ ผลิตภัณฑ์ และบริการสมัครสมาชิกของ Aiursoft รวมถึงแต่ไม่จำกัดเพียง Aiursoft Substrate (แผน Core, Startup และ Enterprise) (โดยรวมกันเรียกว่า &quot;บริการ&quot;) โดยการลงทะเบียนเป็นบัญชีหรือซื้อการสมัครสมาชิก คุณยอมรับที่จะถูกผูกพันด้วยข้อกำหนดเหล่านี้</value>
