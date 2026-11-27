@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="A custom Ubuntu-based Linux distribution with enterprise-grade endpoint management, zero-trust security, and seamless open-source integration." xml:space="preserve">
+    <value>Prilagođena Linux distribucija temeljena na Ubuntuju s upravljanjem krajnjim točkama poduzećne razine, zero-trust sigurnošću i besprijekornom integracijom open-source tehnologija.</value>
+  </data>
+  <data name="A fast, free, open-source and offline-deployable enterprise office hub enhanced with agentic RAG — streamline HR, finance, and operations for your SMB." xml:space="preserve">
+    <value>Brz, besplatan, open-source i offline-deployable poduzećni uredski hub unaprijeđen agencijskim RAG-om — pojednostavnite HR, financije i operacije za vaš MSP.</value>
+  </data>
+  <data name="A lightweight, self-hosted Kanban workspace for planning boards, tracking cards, assigning work, and sharing progress across your team." xml:space="preserve">
+    <value>Lagani, samopostavljeni Kanban radni prostor za planiranje ploča, praćenje kartica, dodjelu poslova i dijeljenje napretka unutar tima.</value>
+  </data>
+  <data name="A simple, real-time server monitoring system designed for local deployment. Keep an eye on your infrastructure with intuitive dashboards and detailed metrics." xml:space="preserve">
+    <value>Jedan jednostavan sustav za praćenje poslužitelja u stvarnom vremenu, osmišljen za lokalno postavljanje. Pratite svoju infrastrukturu pomoću intuitivnih nadzornih ploča i detaljnih metrika.</value>
+  </data>
+  <data name="AnduinOS" xml:space="preserve">
+    <value>AnduinOS</value>
+  </data>
+  <data name="AnduinOS Enterprise" xml:space="preserve">
+    <value>AnduinOS Enterprise</value>
+  </data>
+  <data name="AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
+    <value>AnduinOS je prilagođena Linux distribucija temeljena na Ubuntuju koja nudi poznato i jednostavno iskustvo za sve koji prelaze na Linux.</value>
+  </data>
+  <data name="Apkg" xml:space="preserve">
+    <value>Apkg</value>
+  </data>
+  <data name="Company" xml:space="preserve">
+    <value>Tvrtka</value>
+  </data>
+  <data name="Declarative APT repository platform. Ship Debian packages, mirror upstream archives, and publish .apkg bundles — fully on-premise." xml:space="preserve">
+    <value>Deklarativna platforma za APT repozitorije. Objavlja Debian pakete, ogleda arhive gornjih tokova i objavljuje .apkg snopove — potpuno lokalno.</value>
+  </data>
+  <data name="Enterprise business framework for the Open-source &amp; AI era." xml:space="preserve">
+    <value>Poduzećki poslovni okvir za eru otvorenog koda i umjetne inteligencije.</value>
+  </data>
+  <data name="Get to know us" xml:space="preserve">
+    <value>Upoznajte nas</value>
+  </data>
+  <data name="GitHub" xml:space="preserve">
+    <value>GitHub</value>
+  </data>
+  <data name="Kanban" xml:space="preserve">
+    <value>Kanban</value>
+  </data>
+  <data name="Learn about the team, mission, and values behind Aiursoft." xml:space="preserve">
+    <value>Saznajte više o timu, misiji i vrijednostima iza Aiursofta.</value>
+  </data>
+  <data name="News" xml:space="preserve">
+    <value>Novosti</value>
+  </data>
+  <data name="Ollama Gateway" xml:space="preserve">
+    <value>Ollama Gateway</value>
+  </data>
+  <data name="Products" xml:space="preserve">
+    <value>Proizvodi</value>
+  </data>
+  <data name="Solutions" xml:space="preserve">
+    <value>Rješenja</value>
+  </data>
+  <data name="StatHub" xml:space="preserve">
+    <value>StatHub</value>
+  </data>
+  <data name="Stay up to date with the latest announcements, product updates, and stories from the Aiursoft team." xml:space="preserve">
+    <value>Budite u toku s najnovijim najavama, ažuriranjima proizvoda i pričama iz tima Aiursoft.</value>
+  </data>
+  <data name="Substratum" xml:space="preserve">
+    <value>Substratum</value>
+  </data>
+  <data name="Supercharge your native Ollama with enterprise-grade API authentication, request auditing, and virtual model management—your secure, private AI gateway." xml:space="preserve">
+    <value>Poboljšajte svoj nativni Ollama s poduzećkom razinom API autenticacije, revizijom zahtjeva i virtualnim upravljanjem modelima – vaš sigurni, privatni AI prolaz.</value>
+  </data>
+  <data name="Unified endpoint management (UEM), identity management (IAM), and collaboration tools (OA) in one package. All on your local servers!" xml:space="preserve">
+    <value>Ujednočeno upravljanje krajnjim točkama (UEM), upravljanje identitetom (IAM) i alati za suradnju (OA) u jednom paketu. Sve na vašim lokalnim poslužiteljima!</value>
+  </data>
+
+</root>
