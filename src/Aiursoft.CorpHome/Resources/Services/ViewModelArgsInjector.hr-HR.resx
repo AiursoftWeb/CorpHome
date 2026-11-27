@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="Access Denied" xml:space="preserve">
+    <value>Pristup odbijen</value>
+  </data>
+  <data name="Administration" xml:space="preserve">
+    <value>Administracija</value>
+  </data>
+  <data name="AnduinOS" xml:space="preserve">
+    <value>AnduinOS</value>
+  </data>
+  <data name="Background Jobs" xml:space="preserve">
+    <value>Pozadinski poslovi</value>
+  </data>
+  <data name="Bad Request" xml:space="preserve">
+    <value>Loš zahtjev</value>
+  </data>
+  <data name="Change Avatar" xml:space="preserve">
+    <value>Promjena avatara</value>
+  </data>
+  <data name="Change Password" xml:space="preserve">
+    <value>Promjena lozinke</value>
+  </data>
+  <data name="Change Profile" xml:space="preserve">
+    <value>Promjena profila</value>
+  </data>
+  <data name="ChopInsight builds an AI-ready research platform with Aiursoft" xml:space="preserve">
+    <value>ChopInsight izgrađuje istraživačku platformu spremnu za AI s Aiursoftom</value>
+  </data>
+  <data name="Click to login" xml:space="preserve">
+    <value>Kliknite za prijavu</value>
+  </data>
+  <data name="Contact Details" xml:space="preserve">
+    <value>Podaci o kontaktu</value>
+  </data>
+  <data name="Contact Success" xml:space="preserve">
+    <value>Uspješno kontaktirano</value>
+  </data>
+  <data name="Contact Us" xml:space="preserve">
+    <value>Kontaktirajte nas</value>
+  </data>
+  <data name="Contacts" xml:space="preserve">
+    <value>Kontakti</value>
+  </data>
+  <data name="Create Role" xml:space="preserve">
+    <value>Kreiraj ulogu</value>
+  </data>
+  <data name="Create User" xml:space="preserve">
+    <value>Kreiraj korisnika</value>
+  </data>
+  <data name="Dashboard" xml:space="preserve">
+    <value>Nadzorna ploča</value>
+  </data>
+  <data name="Delete Account" xml:space="preserve">
+    <value>Izbriši račun</value>
+  </data>
+  <data name="Delete Role" xml:space="preserve">
+    <value>Obriši ulogu</value>
+  </data>
+  <data name="Delete User" xml:space="preserve">
+    <value>Brisanje korisnika</value>
+  </data>
+  <data name="Directory" xml:space="preserve">
+    <value>Direktorij</value>
+  </data>
+  <data name="Edit Role" xml:space="preserve">
+    <value>Uredi ulogu</value>
+  </data>
+  <data name="Edit User" xml:space="preserve">
+    <value>Uredi korisnika</value>
+  </data>
+  <data name="Egret Wuxi: Building a Local AI and Knowledge Collaboration Platform for Engineering Teams" xml:space="preserve">
+    <value>Egret Wuxi: Izgradnja lokalne platforme za suradnju u području umjetne inteligencije i znanja za inženjerske timove</value>
+  </data>
+  <data name="Error" xml:space="preserve">
+    <value>Greška</value>
+  </data>
+  <data name="Features" xml:space="preserve">
+    <value>Funkcije</value>
+  </data>
+  <data name="Get to know us" xml:space="preserve">
+    <value>Upoznajte nas</value>
+  </data>
+  <data name="Global Settings" xml:space="preserve">
+    <value>Globalna postavka</value>
+  </data>
+  <data name="Home" xml:space="preserve">
+    <value>Početna</value>
+  </data>
+  <data name="Index" xml:space="preserve">
+    <value>Početna</value>
+  </data>
+  <data name="Info" xml:space="preserve">
+    <value>Informacije</value>
+  </data>
+  <data name="Internal Server Error" xml:space="preserve">
+    <value>Interna pogreška poslužitelja</value>
+  </data>
+  <data name="Lockout" xml:space="preserve">
+    <value>Zaključavanje</value>
+  </data>
+  <data name="Login" xml:space="preserve">
+    <value>Prijava</value>
+  </data>
+  <data name="Login to get access to all features." xml:space="preserve">
+    <value>Prijavite se za pristup svim funkcijama.</value>
+  </data>
+  <data name="Manage" xml:space="preserve">
+    <value>Upravljanje</value>
+  </data>
+  <data name="Not Found" xml:space="preserve">
+    <value>Nije pronađeno</value>
+  </data>
+  <data name="Permission Details" xml:space="preserve">
+    <value>Detalji dozvola</value>
+  </data>
+  <data name="Permissions" xml:space="preserve">
+    <value>Doze</value>
+  </data>
+  <data name="Personal" xml:space="preserve">
+    <value>Osobno</value>
+  </data>
+  <data name="Privacy Policy" xml:space="preserve">
+    <value>Politika privatnosti</value>
+  </data>
+  <data name="Profile" xml:space="preserve">
+    <value>Profil</value>
+  </data>
+  <data name="Profile Settings" xml:space="preserve">
+    <value>Postavke profila</value>
+  </data>
+  <data name="Register" xml:space="preserve">
+    <value>Registracija</value>
+  </data>
+  <data name="Role Details" xml:space="preserve">
+    <value>Detalji uloge</value>
+  </data>
+  <data name="Roles" xml:space="preserve">
+    <value>Uloge</value>
+  </data>
+  <data name="Settings" xml:space="preserve">
+    <value>Postavke</value>
+  </data>
+  <data name="Sign out" xml:space="preserve">
+    <value>Odjava</value>
+  </data>
+  <data name="Substratum" xml:space="preserve">
+    <value>Substratum</value>
+  </data>
+  <data name="System" xml:space="preserve">
+    <value>Sustav</value>
+  </data>
+  <data name="System Info" xml:space="preserve">
+    <value>Informacije o sustavu</value>
+  </data>
+  <data name="Terms" xml:space="preserve">
+    <value>Uvjeti</value>
+  </data>
+  <data name="Terms of Service &amp; Subscription Agreement" xml:space="preserve">
+    <value>Uvjeti korištenja i Ugovor o pretplati</value>
+  </data>
+  <data name="Unauthorized" xml:space="preserve">
+    <value>Neovlašteno</value>
+  </data>
+  <data name="User Details" xml:space="preserve">
+    <value>Detalji korisnika</value>
+  </data>
+  <data name="Users" xml:space="preserve">
+    <value>Korisnici</value>
+  </data>
+  <data name="View Contacts" xml:space="preserve">
+    <value>Pregled kontakata</value>
+  </data>
+
+</root>

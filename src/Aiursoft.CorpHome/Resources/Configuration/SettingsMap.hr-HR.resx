@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name=" The link to the brand&apos;s home page." xml:space="preserve">
+    <value>Poveznica na početnu stranicu brenda.</value>
+  </data>
+  <data name="A dedicated CorpHome application key with create incident permission; email follow-up also requires query and mitigate permissions." xml:space="preserve">
+    <value>Posvećeni CorpHome ključ aplikacije s dozvolom za kreiranje incidenta; praćenje e-poštom također zahtijeva dozvole za upit i ublažavanje.</value>
+  </data>
+  <data name="A staff email mitigates all matching earlier submissions within this window (1–30 days). Later submissions require a new follow-up." xml:space="preserve">
+    <value>E-mail zaposlenika ublažava sva prethodna podudarna prijava unutar ovog prozora (1–30 dana). Kasnija prijava zahtijeva novo praćenje.</value>
+  </data>
+  <data name="AlertCenter application API key" xml:space="preserve">
+    <value>API ključ AlertCenter aplikacije</value>
+  </data>
+  <data name="AlertCenter endpoint" xml:space="preserve">
+    <value>AlertCenter krajnja točka</value>
+  </data>
+  <data name="Allow User Adjust Nickname" xml:space="preserve">
+    <value>Dozvoli korisniku prilagodbu nadimka</value>
+  </data>
+  <data name="Allow users to adjust their nickname in the profile management page." xml:space="preserve">
+    <value>Dozvoli korisnicima da prilagode svoje nadimke na stranici za upravljanje profilom.</value>
+  </data>
+  <data name="Allowed contact follow-up senders" xml:space="preserve">
+    <value>Dopušteni pošiljatelji za kontaktne praćenja</value>
+  </data>
+  <data name="Automatically mitigate contacts after email follow-up" xml:space="preserve">
+    <value>Automatski ublažiti kontakte nakon e-pošte praćenja</value>
+  </data>
+  <data name="Baidu Verification Key" xml:space="preserve">
+    <value>Baidu ključ za provjeru</value>
+  </data>
+  <data name="Brand Home URL" xml:space="preserve">
+    <value>URL početne stranice brenda</value>
+  </data>
+  <data name="Brand Name" xml:space="preserve">
+    <value>Naziv brenda</value>
+  </data>
+  <data name="Comma-separated staff email addresses or @domains. This filter does not authenticate senders; restrict mailbox delivery on the mail server." xml:space="preserve">
+    <value>E-mail adrese osoblja ili @domene odvojene zarezom. Ovaj filter ne provjerava identitet pošiljatelja; ograničite isporuku poštanskog sandučića na poštanskom poslužitelju.</value>
+  </data>
+  <data name="Company Name (Simplified Chinese)" xml:space="preserve">
+    <value>Naziv tvrtke (pojednostavljeni kineski)</value>
+  </data>
+  <data name="Contact follow-up IMAP host" xml:space="preserve">
+    <value>IMAP poslužitelj za praćenje kontakata</value>
+  </data>
+  <data name="Contact follow-up IMAP port" xml:space="preserve">
+    <value>IMAP port za praćenje kontakata</value>
+  </data>
+  <data name="Contact follow-up mailbox folder" xml:space="preserve">
+    <value>Mapa pošte za praćenje kontakata</value>
+  </data>
+  <data name="Contact follow-up mailbox password" xml:space="preserve">
+    <value>Lozinka pošte za praćenje kontakata</value>
+  </data>
+  <data name="Contact follow-up mailbox username" xml:space="preserve">
+    <value>Korisničko ime pošte za praćenje kontakata</value>
+  </data>
+  <data name="Contact follow-up window in days" xml:space="preserve">
+    <value>Razdoblje za praćenje kontakata u danima</value>
+  </data>
+  <data name="CorpHome public URL" xml:space="preserve">
+    <value>Javna URL adresa CorpHome</value>
+  </data>
+  <data name="Dedicated mailbox included in your staff CC group, or explicitly copied on customer replies." xml:space="preserve">
+    <value>Posvećeni poštanski sanduk uključen u vašu CC grupu osoblja ili eksplicitno kopiran na odgovore kupaca.</value>
+  </data>
+  <data name="Enable AlertCenter integration" xml:space="preserve">
+    <value>Omogući AlertCenter integraciju</value>
+  </data>
+  <data name="ICP Number" xml:space="preserve">
+    <value>ICP broj</value>
+  </data>
+  <data name="IMAP folder to inspect. Messages are never marked as read, moved or deleted." xml:space="preserve">
+    <value>IMAP mapa za pregled. Poruke se nikada ne označavaju kao pročitane, ne premještaju se ni ne brišu.</value>
+  </data>
+  <data name="IMAP hostname. Implicit TLS and valid server certificates are required." xml:space="preserve">
+    <value>IMAP naziv poslužitelja. Obavezni su implicitni TLS i valjani certifikati poslužitelja.</value>
+  </data>
+  <data name="Implicit TLS port, normally 993." xml:space="preserve">
+    <value>Implicitni TLS port, obično 993.</value>
+  </data>
+  <data name="Mailbox password or application password. No mail server administrator credentials are needed." xml:space="preserve">
+    <value>Lozinka sandučića ili aplikacijska lozinka. Nisu potrebne vjerodajnice administratora poštanskog poslužitelja.</value>
+  </data>
+  <data name="Project Logo" xml:space="preserve">
+    <value>Logo projekta</value>
+  </data>
+  <data name="Project Name" xml:space="preserve">
+    <value>Naziv projekta</value>
+  </data>
+  <data name="Read a dedicated IMAPS mailbox receiving staff follow-up copies. The mail server must restrict delivery to authenticated internal staff. Requires AlertCenter integration." xml:space="preserve">
+    <value>Čita posvećeni IMAPS sandučić koji prima kopije praćenja od osoblja. Poštanski poslužitelj mora ograničiti dostavu na ovjereno interno osoblje. Zahtijeva integraciju s AlertCentrom.</value>
+  </data>
+  <data name="Send new contact submissions to AlertCenter as sev3 incidents. Disabling pauses delivery; pending submissions are retained." xml:space="preserve">
+    <value>Pošaljite nove prijedloge kontakata u AlertCenter kao sev3 incidente. Onemogućavanjem se isporuka privremeno obustavlja; čeka se na predaju prijedloga.</value>
+  </data>
+  <data name="Show Aoji Airlines in the trusted partners section." xml:space="preserve">
+    <value>Prikaži Aoji Airlines u odjeljku povjerenih partnera.</value>
+  </data>
+  <data name="Show Chopinsight in the trusted partners section." xml:space="preserve">
+    <value>Prikaži Chopinsight u odjeljku pouzdanih partnera.</value>
+  </data>
+  <data name="Show Egret in the trusted partners section." xml:space="preserve">
+    <value>Prikaži Egret u odjeljku pouzdanih partnera.</value>
+  </data>
+  <data name="Show Moog in the trusted partners section." xml:space="preserve">
+    <value>Prikaži Moog u odjeljku pouzdanih partnera.</value>
+  </data>
+  <data name="Show Partner: Aoji Airlines" xml:space="preserve">
+    <value>Prikaži partnera: Aoji Airlines</value>
+  </data>
+  <data name="Show Partner: Chopinsight" xml:space="preserve">
+    <value>Prikaži partnera: Chopinsight</value>
+  </data>
+  <data name="Show Partner: Egret" xml:space="preserve">
+    <value>Prikaži partnera: Egret</value>
+  </data>
+  <data name="Show Partner: Moog" xml:space="preserve">
+    <value>Prikaži partnera: Moog</value>
+  </data>
+  <data name="Show Partner: Senparc" xml:space="preserve">
+    <value>Prikaži partnera: Senparc</value>
+  </data>
+  <data name="Show Partner: Voxihost" xml:space="preserve">
+    <value>Prikaži partnera: Voxihost</value>
+  </data>
+  <data name="Show Senparc in the trusted partners section." xml:space="preserve">
+    <value>Prikaži Senparc u odjeljku pouzdanih partnera.</value>
+  </data>
+  <data name="Show Voxihost Partnership" xml:space="preserve">
+    <value>Prikaži Voxihost partnerstvo</value>
+  </data>
+  <data name="Show Voxihost in the trusted partners section." xml:space="preserve">
+    <value>Prikaži Voxihost u odjeljku pouzdanih partnera.</value>
+  </data>
+  <data name="Show the Voxihost partnership section on the home page." xml:space="preserve">
+    <value>Prikaži sekciju suradnje s Voxihostom na početnoj stranici.</value>
+  </data>
+  <data name="The HTTP(S) base URL of AlertCenter." xml:space="preserve">
+    <value>Osnovna HTTP(S) URL adresa usluge AlertCenter.</value>
+  </data>
+  <data name="The ICP license number for China mainland users. Leave empty to hide." xml:space="preserve">
+    <value>Broj ICP licence za korisnike u kontinentalnoj Kini. Ostavite prazno za skrivanje.</value>
+  </data>
+  <data name="The brand name displayed in the footer." xml:space="preserve">
+    <value>Naziv brenda prikazan u podnožju.</value>
+  </data>
+  <data name="The company name displayed when the page language is Simplified Chinese. Leave empty to use the default brand name." xml:space="preserve">
+    <value>Naziv tvrtke prikazan kada je jezik stranice pojednostavljeni kineski. Ostavite prazno za korištenje zadane nazive brenda.</value>
+  </data>
+  <data name="The logo of the project displayed in the navbar and footer. Support jpg, png, svg." xml:space="preserve">
+    <value>Logo projekta prikazan u navigacijskoj traci i podnožju. Podržani formati: jpg, png, svg.</value>
+  </data>
+  <data name="The name of the project displayed in the frontend." xml:space="preserve">
+    <value>Ime projekta prikazano na prednjoj strani.</value>
+  </data>
+  <data name="The public HTTP(S) base URL used for contact follow-up links." xml:space="preserve">
+    <value>Javna HTTP(S) osnovna URL adresa koja se koristi za veze za praćenje kontakata.</value>
+  </data>
+  <data name="The verification key for Baidu site verification. Will be added as &lt;meta name=\&quot;baidu-site-verification\&quot; content=\&quot;...\&quot; /&gt; in the page head." xml:space="preserve">
+    <value>Ključ za provjeru za Baidu provjeru stranice. Bit će dodan kao &lt;meta name=\&quot;baidu-site-verification\&quot; content=\&quot;...\&quot; /&gt; u zaglavlju stranice.</value>
+  </data>
+
+</root>
