@@ -90,6 +90,31 @@ public class ContactSubmissionTests : TestBase
         Assert.AreEqual(0, GetService<UnexpectedIncidentClient>().Calls);
     }
 
+    [TestMethod]
+    public async Task ReturningCustomerCanSubmitAnotherInquiryWithDifferentInformationConsent()
+    {
+        var first = ValidForm();
+        var second = ValidForm();
+        second.Remove("AgreeToInformation");
+        second["ServicesProvided"] = "Training for our team";
+
+        using var firstResponse = await PostForm("/Home/Contact", first);
+        AssertRedirect(firstResponse, "/Home/ContactSuccess");
+        using var secondResponse = await PostForm("/Home/Contact", second);
+        AssertRedirect(secondResponse, "/Home/ContactSuccess");
+
+        using var scope = Server!.Services.CreateScope();
+        var contacts = await scope.ServiceProvider.GetRequiredService<TemplateDbContext>().Contacts.AsNoTracking()
+            .Where(contact => contact.Email == first["Email"]).OrderBy(contact => contact.Id).ToListAsync();
+        Assert.HasCount(2, contacts);
+        Assert.AreEqual(first["ServicesProvided"], contacts[0].ServicesProvided);
+        Assert.IsTrue(contacts[0].AgreeToInformation);
+        Assert.AreEqual(second["ServicesProvided"], contacts[1].ServicesProvided);
+        Assert.IsFalse(contacts[1].AgreeToInformation);
+        Assert.IsTrue(contacts.All(contact => contact.AgreeToPrivacy && contact.AlertCenterReportId.HasValue));
+        Assert.AreNotEqual(contacts[0].AlertCenterReportId, contacts[1].AlertCenterReportId);
+    }
+
     private static Dictionary<string, string> ValidForm() => new()
     {
         ["OrganizationSize"] = "10-50",
