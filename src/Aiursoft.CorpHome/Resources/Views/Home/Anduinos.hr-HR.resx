@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name=".aosproj replaces a dozen arcane Debian files with a single declarative manifest. If you know .csproj, you know packaging." xml:space="preserve">
+    <value>.aosproj zamjenjuje desetine misterioznih Debian datoteka s jednim deklarativnim manifestom. Ako znate .csproj, znate i pakiranje.</value>
+  </data>
+  <data name="27 inch" xml:space="preserve">
+    <value>27 inča</value>
+  </data>
+  <data name="ARM64 Support" xml:space="preserve">
+    <value>Podrška za ARM64</value>
+  </data>
+  <data name="Advanced" xml:space="preserve">
+    <value>Napredno</value>
+  </data>
+  <data name="Agree the device count, supported platforms, management integrations, and acceptance criteria before deployment." xml:space="preserve">
+    <value>Dogovorite se o broju uređaja, podržanim platformama, integracijama za upravljanje i kriterijima prihvaćanja prije implementacije.</value>
+  </data>
+  <data name="All the power of open-source, backed by enterprise-grade support, management tools, and customisation capabilities." xml:space="preserve">
+    <value>Sva snaga otvorenog koda, uz poduzećku podršku, alate za upravljanje i mogućnosti prilagodbe.</value>
+  </data>
+  <data name="AnduinOS 2.0 standard support ends in April 2031, as for the community edition. Enterprise services do not extend this release&apos;s security-update lifecycle. Service scope and subscription duration are specified in your agreement." xml:space="preserve">
+    <value>Standardna podrška za AnduinOS 2.0 završava u travnju 2031., kao i za zajedničko izdanje. Poduzeća usluge ne produljuju životni ciklus sigurnosnih ažuriranja za ovo izdanje. Opseg usluga i trajanje pretplate navedeni su u vašem ugovoru.</value>
+  </data>
+  <data name="AnduinOS Enterprise" xml:space="preserve">
+    <value>AnduinOS Enterprise</value>
+  </data>
+  <data name="AnduinOS Enterprise provides brand customisation, enabling you to replace the system logo with your own." xml:space="preserve">
+    <value>AnduinOS Enterprise omogućuje prilagodbu brenda, što vam omogućava zamjenu logotipa sustava vlastitim.</value>
+  </data>
+  <data name="AnduinOS Kiosk" xml:space="preserve">
+    <value>AnduinOS Kiosk</value>
+  </data>
+  <data name="AnduinOS device" xml:space="preserve">
+    <value>AnduinOS uređaj</value>
+  </data>
+  <data name="AnduinOS fleet" xml:space="preserve">
+    <value>flota AnduinOS</value>
+  </data>
+  <data name="AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
+    <value>AnduinOS je prilagođena Linux distribucija na bazi Ubuntuja koja nudi prepoznatljivo i jednostavno korisničko iskustvo za sve koji prelaze na Linux.</value>
+  </data>
+  <data name="AnduinOS is an open-source project under the GPL-v3 license — you can view, modify, and redistribute the source code freely. The Enterprise Edition charges only for services and licensing, never restricting your access to the source." xml:space="preserve">
+    <value>AnduinOS je projekt s otvorenim izvorom pod GPL-v3 licencom — možete besplatno pregledavati, mijenjati i ponovno distribuirati izvorni kod. Enterprise izdanje naplaćuje samo usluge i licenciranje, a nikada ne ograničava vaš pristup izvoru.</value>
+  </data>
+  <data name="AnduinOS is based on Ubuntu&apos;s package base. It&apos;s compatible with most of the apt packages from Ubuntu. It&apos;s a perfect combination of experience and ecology." xml:space="preserve">
+    <value>AnduinOS temeljen je na Ubuntuovoj bazi paketa. Kompatibilan je s većinom apt paketa iz Ubuntua. Savršena je kombinacija korisničkog iskustva i ekološkog pristupa.</value>
+  </data>
+  <data name="Apkg Dashboard Screenshot" xml:space="preserve">
+    <value>Snimka ekrana Apkg nadzorne ploče</value>
+  </data>
+  <data name="Apkg is a declarative APT repository platform that lets you host signed Debian repositories, mirror upstream archives, and publish your own .apkg packages — all fully on-premise. Integrates seamlessly with AnduinOS for painless apt update &amp;&amp; apt install workflows across your entire fleet." xml:space="preserve">
+    <value>Apkg je deklarativna APT platforma za repozitorije koja vam omogućuje hosting potpisanih Debian repozitorija, ogledanje upstream arhiva i objavu vlastitih .apkg paketa — sve potpuno on-premise. Besprijekorno se integrira s AnduinOS-om za bezbrižne apt update &amp;&amp; apt install tokove rada na cijeloj vašoj floti.</value>
+  </data>
+  <data name="April" xml:space="preserve">
+    <value>travanj</value>
+  </data>
+  <data name="Architecture" xml:space="preserve">
+    <value>Arhitektura</value>
+  </data>
+  <data name="At just 2.54 GB, the ISO is lightweight and fast to deploy across your fleet. The live environment lets your IT team quickly boot, repair, and diagnose systems without installing." xml:space="preserve">
+    <value>Samo 2,54 GB, ISO je lagan i brz za razmještaj u cijeloj floti. Uređena okolina omogućuje vašem IT timu da brzo pokrene, popravi i dijagnosticira sustave bez instalacije.</value>
+  </data>
+  <data name="Atomic Snapshots" xml:space="preserve">
+    <value>Atomski snimci</value>
+  </data>
+  <data name="Boot &amp; Configure" xml:space="preserve">
+    <value>Pokretanje i konfiguracija</value>
+  </data>
+  <data name="Boot from USB and auto-configure" xml:space="preserve">
+    <value>Pokrenite s USB-a i automatski konfigurirajte</value>
+  </data>
+  <data name="Brand Customisation" xml:space="preserve">
+    <value>Prilagodba brenda</value>
+  </data>
+  <data name="Built for business. Air-gapped by design." xml:space="preserve">
+    <value>Izgrađeno za posao. Air-gapped po dizajnu.</value>
+  </data>
+  <data name="Built on a rock-solid foundation. Designed for the enterprise." xml:space="preserve">
+    <value>Izgrađen na čvrstom temelju. Dizajniran za poslovni sektor.</value>
+  </data>
+  <data name="Built on the same infrastructure that powers AnduinOS package delivery. Push updates to your entire fleet with a single command." xml:space="preserve">
+    <value>Izgrađeno na istoj infrastrukturi koja pokreće isporuku paketa AnduinOS-a. Objavite ažuriranja za cijelu flotu s jednom naredbom.</value>
+  </data>
+  <data name="Bulk operations for supported devices and integrations" xml:space="preserve">
+    <value>Masovne operacije za podržane uređaje i integracije</value>
+  </data>
+  <data name="Community Site" xml:space="preserve">
+    <value>Zajednička stranica</value>
+  </data>
+  <data name="Compatible with most x86 PCs and ARM64 UEFI devices." xml:space="preserve">
+    <value>Kompatibilno s većinom x86 PC-ova i ARM64 UEFI uređaja.</value>
+  </data>
+  <data name="Compliance-ready default configurations" xml:space="preserve">
+    <value>Zadane konfiguracije usklađene s propisima</value>
+  </data>
+  <data name="Contact Enterprise Sales" xml:space="preserve">
+    <value>Kontaktirajte poduzećku prodaju</value>
+  </data>
+  <data name="Contact Sales" xml:space="preserve">
+    <value>Kontaktirajte prodaju</value>
+  </data>
+  <data name="Containerized" xml:space="preserve">
+    <value>Kontejnerizirano</value>
+  </data>
+  <data name="Content updates and device monitoring use the management service selected for your deployment. Cloud management requires connectivity; some maintenance may require on-site access." xml:space="preserve">
+    <value>Ažuriranja sadržaja i praćenje uređaja koriste upravljačku uslugu odabranu za vašu implementaciju. Upravljanje u oblaku zahtijeva povezanost; neki radovi na održavanju mogu zahtijevati pristup na lokaciji.</value>
+  </data>
+  <data name="Curated internal software catalog" xml:space="preserve">
+    <value>Kurirani interni katalog softvera</value>
+  </data>
+  <data name="Custom default wallpaper and themes" xml:space="preserve">
+    <value>Prilagođene zadane pozadine i teme</value>
+  </data>
+  <data name="Data stays on your servers. Authentication and authorization ensure only your team can access your metrics." xml:space="preserve">
+    <value>Podaci ostaju na vašim poslužiteljima. Autentifikacija i autorizacija osiguravaju da samo vaš tim može pristupiti vašim metrikama.</value>
+  </data>
+  <data name="Declarative Built" xml:space="preserve">
+    <value>Deklarativno izgrađeno</value>
+  </data>
+  <data name="Declarative Packaging" xml:space="preserve">
+    <value>Deklarativno pakiranje</value>
+  </data>
+  <data name="Default Browser" xml:space="preserve">
+    <value>Zadana preglednica</value>
+  </data>
+  <data name="Default Filesystem" xml:space="preserve">
+    <value>Zadani datotečni sustav</value>
+  </data>
+  <data name="Deploy at scale, manage centrally, enjoy the enterprise edition!" xml:space="preserve">
+    <value>Rasporedite u velikim razmjerima, upravljajte centralno, uživajte u poduzećkoj izdanju!</value>
+  </data>
+  <data name="Deploy interactive kiosks, information displays, and self-service terminals on standard PC hardware." xml:space="preserve">
+    <value>Postavite interaktivne kioske, informativne displeje i termine za samoposluživanje na standardnu PC hardversku opremu.</value>
+  </data>
+  <data name="Deployment" xml:space="preserve">
+    <value>Postavljanje</value>
+  </data>
+  <data name="Desktop Environment" xml:space="preserve">
+    <value>Radno okruženje</value>
+  </data>
+  <data name="Device Management Integrations" xml:space="preserve">
+    <value>Integracije za upravljanje uređajima</value>
+  </data>
+  <data name="Disk Space" xml:space="preserve">
+    <value>Prostor na disku</value>
+  </data>
+  <data name="Display Server" xml:space="preserve">
+    <value>Poslužitelj prikaza</value>
+  </data>
+  <data name="Distribute your own software packages internally via standard apt protocol. Take control of your enterprise package ecosystem." xml:space="preserve">
+    <value>Distribuirajte vlastite softverske pakete internim putem putem standardnog apt protokola. Preuzmite kontrolu nad svojim poduzećevim ekosustavom paketa.</value>
+  </data>
+  <data name="Docs" xml:space="preserve">
+    <value>Dokumentacija</value>
+  </data>
+  <data name="Download" xml:space="preserve">
+    <value>Preuzmi</value>
+  </data>
+  <data name="Download AnduinOS" xml:space="preserve">
+    <value>Preuzmi AnduinOS</value>
+  </data>
+  <data name="Ecological perfection" xml:space="preserve">
+    <value>Ekološka savršenost</value>
+  </data>
+  <data name="Edge AI" xml:space="preserve">
+    <value>Edge AI</value>
+  </data>
+  <data name="End of Standard Support" xml:space="preserve">
+    <value>Kraj standardne podrške</value>
+  </data>
+  <data name="Enroll" xml:space="preserve">
+    <value>Registracija</value>
+  </data>
+  <data name="Enroll in your agreed management service" xml:space="preserve">
+    <value>Prijavite se u dogovorenu uslugu upravljanja</value>
+  </data>
+  <data name="Enterprise" xml:space="preserve">
+    <value>Poduzeće</value>
+  </data>
+  <data name="Enterprise Package Control" xml:space="preserve">
+    <value>Poduzećki upravljački paket</value>
+  </data>
+  <data name="Enterprise Services" xml:space="preserve">
+    <value>Poduzećke usluge</value>
+  </data>
+  <data name="Enterprise support covers the services and devices listed in your agreement. Where purchased, 7×24 on-call support provides incident intake and escalation; severity levels, response targets, maintenance windows, and exclusions are defined in the service agreement." xml:space="preserve">
+    <value>Podrška za poduzeća obuhvaća usluge i uređaje navedene u vašem ugovoru. Ako je kupljena, podrška dostupna 24 sata dnevno, 7 dana u tjednu, osigurava prijemu i eskalaciju incidenata; razina ozbiljnosti, ciljevi odgovora, vremenski okviri za održavanje i isključenja definirani su u ugovoru o usluzi.</value>
+  </data>
+  <data name="Enterprise-grade" xml:space="preserve">
+    <value>Poduzećke razine</value>
+  </data>
+  <data name="Explore Apkg" xml:space="preserve">
+    <value>Istražite Apkg</value>
+  </data>
+  <data name="Explore StatHub" xml:space="preserve">
+    <value>Istražite StatHub</value>
+  </data>
+  <data name="Familiar UX" xml:space="preserve">
+    <value>Opoznavno sučelje</value>
+  </data>
+  <data name="Firmware" xml:space="preserve">
+    <value>Firmware</value>
+  </data>
+  <data name="Flash" xml:space="preserve">
+    <value>Flash</value>
+  </data>
+  <data name="Free" xml:space="preserve">
+    <value>Besplatno</value>
+  </data>
+  <data name="Free Software" xml:space="preserve">
+    <value>Slobodni softver</value>
+  </data>
+  <data name="Friendly interface" xml:space="preserve">
+    <value>Prijateljsko sučelje</value>
+  </data>
+  <data name="Fully On-Premise" xml:space="preserve">
+    <value>U potpunosti on-premise</value>
+  </data>
+  <data name="GPL-v3 License" xml:space="preserve">
+    <value>GPL-v3 licenca</value>
+  </data>
+  <data name="Get the AnduinOS image from our site" xml:space="preserve">
+    <value>Preuzmite AnduinOS sliku s naše web stranice</value>
+  </data>
+  <data name="Get up-to-the-second updates on every AnduinOS device&apos;s CPU, memory, disk, and network usage." xml:space="preserve">
+    <value>Dobijte ažuriranja u stvarnom vremenu o upotrebi procesora, memorije, diska i mreže na svakom AnduinOS uređaju.</value>
+  </data>
+  <data name="Graphical applications are installed via Flatpak, and keep themselves separate from the base system. They also allow for fine-grained control over their permissions." xml:space="preserve">
+    <value>Grafičke aplikacije instaliraju se putem Flatpaka i ostaju odvojene od osnovnog sustava. Također omogućuju fino usmjerenu kontrolu nad svojim dopustima.</value>
+  </data>
+  <data name="HDR Support" xml:space="preserve">
+    <value>Podrška za HDR</value>
+  </data>
+  <data name="Host your own internal Apkg repository behind your firewall. Distribute approved updates and in-house software across your local network. Isolated deployments require package updates to be imported into the internal repository." xml:space="preserve">
+    <value>Održavajte vlastiti interni Apkg repozitorij iza svoje vatrozida. Distribuirajte odobrene ažuriranja i internu softversku opremu putem lokalne mreže. Izolirani postavljanja zahtijevaju uvoz ažuriranja paketa u interni repozitorij.</value>
+  </data>
+  <data name="Image Size" xml:space="preserve">
+    <value>Veličina slike</value>
+  </data>
+  <data name="Init System" xml:space="preserve">
+    <value>Sustav inicijalizacije</value>
+  </data>
+  <data name="Install on supported hardware, configure security and update policies, and enroll devices in the management services included in your deployment." xml:space="preserve">
+    <value>Instalirajte na podržanu hardversku opremu, konfigurirajte politike sigurnosti i ažuriranja te registrirajte uređaje u usluge upravljanja uključene u vašu implementaciju.</value>
+  </data>
+  <data name="Internal package distribution via apt" xml:space="preserve">
+    <value>Interna distribucija paketa putem apta</value>
+  </data>
+  <data name="Internet" xml:space="preserve">
+    <value>Internet</value>
+  </data>
+  <data name="Internet access" xml:space="preserve">
+    <value>Internet pristup</value>
+  </data>
+  <data name="Kiosk &amp; Digital Signage" xml:space="preserve">
+    <value>Kiosk i digitalna signalizacija</value>
+  </data>
+  <data name="Kiosk mode prevents unauthorized access. Users can only interact with your approved application, keeping your deployment secure." xml:space="preserve">
+    <value>Kiosk način sprječava neovlašten pristup. Korisnici mogu interagirati samo s vašom odobrenom aplikacijom, čime se osigurava sigurnost vaše implementacije.</value>
+  </data>
+  <data name="LTS Support" xml:space="preserve">
+    <value>LTS podrška</value>
+  </data>
+  <data name="Lightweight Agents" xml:space="preserve">
+    <value>Lagani agenti</value>
+  </data>
+  <data name="Linux Kernel" xml:space="preserve">
+    <value>Linux kernel</value>
+  </data>
+  <data name="Live Boot" xml:space="preserve">
+    <value>Live Boot</value>
+  </data>
+  <data name="Locked-down &amp; tamper-proof" xml:space="preserve">
+    <value>Zaključano i zaštićeno od manipulacije</value>
+  </data>
+  <data name="Love AnduinOS?" xml:space="preserve">
+    <value>Volite li AnduinOS?</value>
+  </data>
+  <data name="Low-overhead agents collect metrics without impacting your AnduinOS devices&apos; performance. Deploy in seconds with Docker." xml:space="preserve">
+    <value>Agenti s niskim opterećenjem prikupljaju metrike bez utjecaja na performanse vaših AnduinOS uređaja. Razvijte ih u nekoliko sekundi pomoću Docker-a.</value>
+  </data>
+  <data name="Managed Update Rollouts" xml:space="preserve">
+    <value>Upravljanje distribucijom ažuriranja</value>
+  </data>
+  <data name="Memory Compression" xml:space="preserve">
+    <value>Kompresija memorije</value>
+  </data>
+  <data name="Minimal maintenance. Maximum stability." xml:space="preserve">
+    <value>Minimalno održavanje. Maksimalna stabilnost.</value>
+  </data>
+  <data name="Minimum" xml:space="preserve">
+    <value>Minimalno</value>
+  </data>
+  <data name="Monitor thousands of AnduinOS devices from a single centralized dashboard. Scale as your fleet grows." xml:space="preserve">
+    <value>Praćenje tisuća AnduinOS uređaja s jednog centraliziranog nadzornog panela. Skalirajte kako vaša flota raste.</value>
+  </data>
+  <data name="Monitor your entire" xml:space="preserve">
+    <value>Pristupite svom</value>
+  </data>
+  <data name="Monitoring" xml:space="preserve">
+    <value>Praćenje</value>
+  </data>
+  <data name="Monitoring, remote configuration, and policy enforcement are separate integrations. Your deployment proposal specifies the supported devices and included capabilities." xml:space="preserve">
+    <value>Praćenje, daljinska konfiguracija i provedba pravila su zasebne integracije. Vaš prijedlog razvrstavanja navodi podržane uređaje i uključene mogućnosti.</value>
+  </data>
+  <data name="Multi-Node" xml:space="preserve">
+    <value>Višechvatski</value>
+  </data>
+  <data name="NVIDIA Graphics Support" xml:space="preserve">
+    <value>NVIDIA podrška za grafičke kartice</value>
+  </data>
+  <data name="Offline repository mirrors for air-gapped networks" xml:space="preserve">
+    <value>Preglednici offline repozitorija za odvojene mreže</value>
+  </data>
+  <data name="On-premises Apkg" xml:space="preserve">
+    <value>Apkg na poslužitelju</value>
+  </data>
+  <data name="Open Source" xml:space="preserve">
+    <value>Otvoreni izvor</value>
+  </data>
+  <data name="Package Distribution" xml:space="preserve">
+    <value>Distribucija paketa</value>
+  </data>
+  <data name="Package Format" xml:space="preserve">
+    <value>Format paketa</value>
+  </data>
+  <data name="Package Manager" xml:space="preserve">
+    <value>Upravitelj paketa</value>
+  </data>
+  <data name="Performance" xml:space="preserve">
+    <value>Učinkovitost</value>
+  </data>
+  <data name="Plan and Deploy Your Fleet" xml:space="preserve">
+    <value>Planirajte i rasporedite svoju flotu</value>
+  </data>
+  <data name="Ports" xml:space="preserve">
+    <value>Priključci</value>
+  </data>
+  <data name="Pre-install company software packages" xml:space="preserve">
+    <value>Prijednošenje softverskih paketa tvrtke</value>
+  </data>
+  <data name="Pricing" xml:space="preserve">
+    <value>Cjenovnik</value>
+  </data>
+  <data name="Processor" xml:space="preserve">
+    <value>Procesor</value>
+  </data>
+  <data name="RAM" xml:space="preserve">
+    <value>RAM</value>
+  </data>
+  <data name="Ready to use" xml:space="preserve">
+    <value>Spreman za upotrebu</value>
+  </data>
+  <data name="Real-time" xml:space="preserve">
+    <value>U stvarnom vremenu</value>
+  </data>
+  <data name="Real-time device health monitoring" xml:space="preserve">
+    <value>Praćenje stanja uređaja u stvarnom vremenu</value>
+  </data>
+  <data name="Reasons" xml:space="preserve">
+    <value>Razlozi</value>
+  </data>
+  <data name="Recommended" xml:space="preserve">
+    <value>Preporučeno</value>
+  </data>
+  <data name="Release Date" xml:space="preserve">
+    <value>Datum izdanja</value>
+  </data>
+  <data name="Remote configuration and policy integration where agreed" xml:space="preserve">
+    <value>Udaljena konfiguracija i integracija politika prema dogovoru</value>
+  </data>
+  <data name="Remote content management" xml:space="preserve">
+    <value>Upravljanje sadržajem na daljinu</value>
+  </data>
+  <data name="Replace system logo and boot screen" xml:space="preserve">
+    <value>Zamjena logotipa sustava i zaslona pri pokretanju</value>
+  </data>
+  <data name="Resource Efficient" xml:space="preserve">
+    <value>Učinkovita upotreba resursa</value>
+  </data>
+  <data name="Role-based access control for IT teams" xml:space="preserve">
+    <value>Upravljanje pristupom na temelju uloga za IT timove</value>
+  </data>
+  <data name="Runs smoothly on older devices. Extends hardware lifespan by being resource-efficient, so you don&apos;t need to buy new machines." xml:space="preserve">
+    <value>Radi glatko na starijim uređajima. Produljuje vijek trajanja hardvera jer je učinkovit u korištenju resursa, pa vam nije potrebno kupovati nove uređaje.</value>
+  </data>
+  <data name="Screen" xml:space="preserve">
+    <value>Ekran</value>
+  </data>
+  <data name="Seamless AnduinOS Integration" xml:space="preserve">
+    <value>Besprijekorna integracija s AnduinOS</value>
+  </data>
+  <data name="Secure" xml:space="preserve">
+    <value>Sigurno</value>
+  </data>
+  <data name="Secure Boot" xml:space="preserve">
+    <value>Secure Boot</value>
+  </data>
+  <data name="Serve packages internally using standard apt. Isolated networks require upstream packages and updates to be imported into the local repository." xml:space="preserve">
+    <value>Poslužite pakete internom mrežom koristeći standardni apt. Izolirane mreže zahtijevaju uvoz gornjopotočnih paketa i ažuriranja u lokalni repozitorij.</value>
+  </data>
+  <data name="Ship software to every" xml:space="preserve">
+    <value>Dostavite softver na svaki</value>
+  </data>
+  <data name="Simple, user-friendly. Broad compatibility with virtually all PC hardware." xml:space="preserve">
+    <value>Jednostavno i korisniku prilagođeno. Široka kompatibilnost s gotovo svim PC hardverom.</value>
+  </data>
+  <data name="Smaller image, friendly interface, unbeatable performance, safe and secure." xml:space="preserve">
+    <value>Manja slika, korisničko sučelje, neusporediva izvedba, sigurno i pouzdano.</value>
+  </data>
+  <data name="Source Code" xml:space="preserve">
+    <value>Izvorni kod</value>
+  </data>
+  <data name="Speedy Makeover" xml:space="preserve">
+    <value>Brzi makeover</value>
+  </data>
+  <data name="Stable &amp; Modern" xml:space="preserve">
+    <value>Stabilno i moderno</value>
+  </data>
+  <data name="StatHub Dashboard Screenshot" xml:space="preserve">
+    <value>StatHub Slika nadzorne ploče</value>
+  </data>
+  <data name="StatHub is a simple, real-time server monitoring system designed for local deployment. Keep an eye on your entire AnduinOS infrastructure with intuitive dashboards and detailed metrics — all from a single pane of glass." xml:space="preserve">
+    <value>StatHub je jednostavan sustav za praćenje poslužitelja u stvarnom vremenu, dizajniran za lokalno razmještavanje. Pratite cijelu svoju AnduinOS infrastrukturu pomoću intuitivnih nadzornih ploča i detaljnih metrika — sve s jednog mjesta.</value>
+  </data>
+  <data name="Sync, sign, and promote atomically via rename(2). APT clients never see half-written metadata — only consistent, signed snapshots." xml:space="preserve">
+    <value>Sinkronizirajte, potpišite i promovirajte atomski putem rename(2). APT klijenti nikada ne vide polupisane metapodatke — samo dosljedne, potpisane trenutke.</value>
+  </data>
+  <data name="System Requirements" xml:space="preserve">
+    <value>Sistemske zahtjeve</value>
+  </data>
+  <data name="Technical Specifications" xml:space="preserve">
+    <value>Tehničke specifikacije</value>
+  </data>
+  <data name="The GNOME-based desktop environment has beautiful interfaces and human-computer interactions that fit user habits, allowing you to quickly get started with AnduinOS without too much learning cost." xml:space="preserve">
+    <value>Radna okruženja temeljena na GNOME-u imaju prelijepa sučelja i interakcije između korisnika i računala koje odgovaraju navikama korisnika, što vam omogućuje brzo započinjanje rada s AnduinOS-om bez prevelikih troškova učenja.</value>
+  </data>
+  <data name="The ideal solution for" xml:space="preserve">
+    <value>Idealno rješenje za</value>
+  </data>
+  <data name="The operating system your enterprise needs — familiar, beautiful, stable, mature, and easy to manage. AnduinOS Enterprise is built on Linux 7.0, GNOME 50, and Ubuntu 26.04, keeping your team in a comfortable, productive environment." xml:space="preserve">
+    <value>Operativni sustav koji vaša tvrtka treba — prepoznatljiv, lijep, stabilan, zreo i lagan za upravljanje. AnduinOS Enterprise izgrađen je na Linuxu 7.0, GNOME 50 i Ubuntu 26.04, čime se vašem timu osigurava ugodno i produktivno okruženje.</value>
+  </data>
+  <data name="Tired of your sluggish OS slowing you down? Switch to AnduinOS for instant speed and seamless performance." xml:space="preserve">
+    <value>Umorni ste od sporog operativnog sustava koji vas usporava? Prebacite se na AnduinOS za trenutnu brzinu i besprijekorne performanse.</value>
+  </data>
+  <data name="Transform any PC into a secure, managed kiosk. Our in-house kiosk content management suite is available now — try it today." xml:space="preserve">
+    <value>Pretvorite bilo koji PC u sigurni, upravljački kiosak. Naša vlastita sučelja za upravljanje sadržajem kiosaka dostupna je sada — isprobajte je danas.</value>
+  </data>
+  <data name="Turn any screen into a kiosk" xml:space="preserve">
+    <value>Pretvorite bilo koji ekran u kioski</value>
+  </data>
+  <data name="UI Toolkit" xml:space="preserve">
+    <value>UI alat</value>
+  </data>
+  <data name="Ubuntu Base" xml:space="preserve">
+    <value>Ubuntu Base</value>
+  </data>
+  <data name="Update and restart policies are configured for your deployment. Test releases before rollout and schedule maintenance for changes that require downtime." xml:space="preserve">
+    <value>Politike ažuriranja i ponovnog pokretanja konfigurirane su za vašu implementaciju. Testirajte izdanja prije uvođenja i planirajte održavanje za promjene koje zahtijevaju prekid rada.</value>
+  </data>
+  <data name="Version pinning and controlled rollouts" xml:space="preserve">
+    <value>Fiksiranje verzija i kontrolirano postavljanje</value>
+  </data>
+  <data name="Visit Community Site" xml:space="preserve">
+    <value>Posjetite web mjesto zajednice</value>
+  </data>
+  <data name="Wayland Ready" xml:space="preserve">
+    <value>Podrška za Wayland</value>
+  </data>
+  <data name="Why choose AnduinOS Enterprise Edition?" xml:space="preserve">
+    <value>Zašto odabrati AnduinOS Enterprise Edition?</value>
+  </data>
+  <data name="Without Snap" xml:space="preserve">
+    <value>Bez Snapa</value>
+  </data>
+  <data name="Write the image to a USB drive" xml:space="preserve">
+    <value>Zapišite sliku na USB pogon</value>
+  </data>
+  <data name="digital signage and kiosk terminals" xml:space="preserve">
+    <value>digitalni bilboardi i kioski terminali</value>
+  </data>
+  <data name="ext4 optional" xml:space="preserve">
+    <value>ext4 opcionalno</value>
+  </data>
+  <data name="management for your fleet" xml:space="preserve">
+    <value>upravljanje vašom flotom</value>
+  </data>
+  <data name="or" xml:space="preserve">
+    <value>ili</value>
+  </data>
+  <data name="quad-core" xml:space="preserve">
+    <value>četverojedreni</value>
+  </data>
+  <data name="with Apkg" xml:space="preserve">
+    <value>s Apkgom</value>
+  </data>
+  <data name="with Secure Boot" xml:space="preserve">
+    <value>s Secure Bootom</value>
+  </data>
+  <data name="with StatHub" xml:space="preserve">
+    <value>uz StatHub</value>
+  </data>
+
+</root>

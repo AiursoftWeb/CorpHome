@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="1. The Aiursoft Privacy Philosophy" xml:space="preserve">
+    <value>1. Aiursoftova filozofija privatnosti</value>
+  </data>
+  <data name="2. Core Distinction: Data Controller vs. Data Processor" xml:space="preserve">
+    <value>2. Ključna razlika: Kontroler podataka vs. Obraditelj podataka</value>
+  </data>
+  <data name="3. What Data We Actually Collect" xml:space="preserve">
+    <value>3. Koje podatke zapravo prikupljamo</value>
+  </data>
+  <data name="4. How We Use Your Data" xml:space="preserve">
+    <value>4. Kako koristimo vaše podatke</value>
+  </data>
+  <data name="5. Data Sharing and Third-Party Sub-Processors" xml:space="preserve">
+    <value>5. Dijeljenje podataka i podprocesori trećih strana</value>
+  </data>
+  <data name="6. Data Retention and Deletion" xml:space="preserve">
+    <value>6. Zadržavanje i brisanje podataka</value>
+  </data>
+  <data name="7. Your Data Rights" xml:space="preserve">
+    <value>7. Vaša prava u vezi s podacima</value>
+  </data>
+  <data name="8. Contact Us" xml:space="preserve">
+    <value>8. Kontaktirajte nas</value>
+  </data>
+  <data name="AIURSOFT LIMITED" xml:space="preserve">
+    <value>AIURSOFT LIMITED</value>
+  </data>
+  <data name="Account Information:" xml:space="preserve">
+    <value>Podaci o računu:</value>
+  </data>
+  <data name="Aiursoft Privacy Policy" xml:space="preserve">
+    <value>Aiursoft Politika privatnosti</value>
+  </data>
+  <data name="At Aiursoft, our foundational mission is to bring the spirit of open-source and free software to every enterprise and individual. This commitment to freedom inherently extends to your privacy and data sovereignty. We believe that your data belongs exclusively to you." xml:space="preserve">
+    <value>U Aiursoftu, naša temeljna misija je donijeti duh otvorenog koda i slobodnog softvera svakom poduzeću i pojedincu. Ovo posvećenje slobodi nužno se proteže na vašu privatnost i suverenost podataka. Vjerujemo da vaši podaci isključivo pripadaju vama.</value>
+  </data>
+  <data name="Beyond these essential operational partners, Aiursoft will never disclose your data to any third party, including government entities, unless legally compelled to do so by a valid, binding court order or subpoena originating from a competent jurisdiction." xml:space="preserve">
+    <value>Osim navedenih ključnih operativnih partnera, Aiursoft nikada neće otkriti vaše podatke trećim stranama, uključujući državna tijela, osim ako na to ne bude pravno obvezana važećim i obvezujućim sudskim nalogom ili pozivnicom iz nadležne jurisdikcije.</value>
+  </data>
+  <data name="Billing and Payment Data:" xml:space="preserve">
+    <value>Podaci o naplati i plaćanju:</value>
+  </data>
+  <data name="Communication:" xml:space="preserve">
+    <value>Komunikacija:</value>
+  </data>
+  <data name="Company Entity:" xml:space="preserve">
+    <value>Pravna osoba:</value>
+  </data>
+  <data name="Company Entity: AIURSOFT LIMITED (Hong Kong)" xml:space="preserve">
+    <value>Pravna osoba: AIURSOFT LIMITED (Hong Kong)</value>
+  </data>
+  <data name="Crucially, AIURSOFT LIMITED does not collect, process, or store your full credit card numbers or sensitive financial instruments on our servers. All payment transactions are securely handled by our PCI-DSS compliant third-party payment processor, Stripe, Inc. We only receive and retain non-sensitive billing information from Stripe, such as your billing address, subscription status, and the last four digits of your payment card, strictly for the purposes of issuing invoices, managing your active subscriptions, and complying with financial record-keeping laws." xml:space="preserve">
+    <value>Odlučujuće, AIURSOFT LIMITED ne prikuplja, obrađuje niti pohranjuje vaše pune brojeve kreditnih kartica ili osjetljiva financijska sredstva na našim poslužiteljima. Sve platne transakcije sigurno obrađuje naš treći pružatelj platnih usluga usklađen s PCI-DSS standardom, Stripe, Inc. Od Stripesa primamo i zadržavamo samo neosjetljive podaci za naplatu, poput vaše adrese za naplatu, statusa pretplate i posljednje četiri znamenke vaše platne kartice, isključivo u svrhu izdavanja računa, upravljanja vašim aktivnim pretplatama i usklađenosti s propisima o financijskom vođenju evidencije.</value>
+  </data>
+  <data name="During Active Subscription:" xml:space="preserve">
+    <value>Tijekom aktivne pretplate:</value>
+  </data>
+  <data name="Email:" xml:space="preserve">
+    <value>E-pošta:</value>
+  </data>
+  <data name="Exclusively for secure payment processing and subscription management." xml:space="preserve">
+    <value>Izključivo za sigurno obrađivanje plaćanja i upravljanje pretplatama.</value>
+  </data>
+  <data name="For Cloud-Hosted Plans (e.g., Aiursoft Substratum Core):" xml:space="preserve">
+    <value>Za planove s hostingom u oblaku (npr. Aiursoft Substratum Core):</value>
+  </data>
+  <data name="For On-Premise Plans (e.g., Aiursoft Substratum Startup &amp; Enterprise):" xml:space="preserve">
+    <value>Za On-Premise planove (npr. Aiursoft Substratum Startup &amp; Enterprise):</value>
+  </data>
+  <data name="For on-premise deployments, cancellation simply terminates our support and update services. Your data remains entirely intact on your own servers, under your complete control." xml:space="preserve">
+    <value>Za on-premise implementacije, otkazivanje jednostavno prekidaju naše usluge podrške i ažuriranja. Vaši podaci ostaju u potpunosti netaknuti na vašim vlastitim poslužiteljima, pod vašom punom kontrolom.</value>
+  </data>
+  <data name="For provisioning the underlying high-performance cloud infrastructure that powers our official websites and Cloud-Hosted (S1 Core) client instances." xml:space="preserve">
+    <value>Za opremanje osnovne visokoučinkovite oblaka infrastrukture koja pokreće naše službene web stranice i oblak-hostirane (S1 Core) klijentske instance.</value>
+  </data>
+  <data name="For services deployed on your servers or private cloud, you control the infrastructure and access permissions. Aiursoft accesses these systems only within the authorization you grant for deployment, maintenance, or support. You can revoke that access. Separately selected hosted services remain subject to the cloud-hosted terms." xml:space="preserve">
+    <value>Za usluge postavljene na vašim poslužiteljima ili privatnom oblaku, vi kontrolirate infrastrukturu i dozvole za pristup. Aiursoft pristupa tim sustavima isključivo u okviru ovlaštenja koje dodijelite za postavljanje, održavanje ili podršku. Možete opozvati taj pristup. Odvojeno odabrane uslužne usluge ostaju podvrgnute uvjetima za uslužne usluge.</value>
+  </data>
+  <data name="If you choose to cancel a Cloud-Hosted subscription, your account will remain active until the end of the current billing cycle. Following the expiration of your subscription, we observe a strict 30-day grace period. After this 30-day period, all of your associated business data (emails, files, databases) will be permanently, irreversibly, and securely hard-deleted from our hosting infrastructure. We cannot recover data once this deletion process has occurred." xml:space="preserve">
+    <value>Ako odaberete otkazivanje Cloud-Hosted pretplate, vaš će račun ostati aktivan do kraja trenutnog obračunskog razdoblja. Nakon isteka vaše pretplate primjenjujemo strog 30-dnevni roka za otkazivanje. Nakon tog 30-dnevnog razdoblja, svi vaši povezani poslovni podaci (e-pošte, datoteke, baze podataka) trajno, neobrativo i sigurno bit će trajno izbrisani iz naše infrastrukture za hostanje. Podatke ne možemo oporaviti nakon što se taj proces brisanja dogodi.</value>
+  </data>
+  <data name="If you have any questions, concerns, or requests regarding this Privacy Policy or our data handling practices, please contact our executive team:" xml:space="preserve">
+    <value>Ako imate bilo kakvih pitanja, zabrinutosti ili zahtjeva u vezi s ovom Politikom privatnosti ili našim praksama obrade podataka, slobodno kontaktirajte naše rukovodstvo:</value>
+  </data>
+  <data name="In accordance with global privacy standards, including the principles outlined in regulations such as the GDPR and the Hong Kong Personal Data (Privacy) Ordinance (PDPO), you possess the following rights regarding your personal data held by Aiursoft:" xml:space="preserve">
+    <value>U skladu s globalnim standardima privatnosti, uključujući principe utvrđene u propisima poput OZP-a (GDPR) i Zakona o zaštiti osobnih podataka (PDPO) Hong Konga, imate sljedeća prava u vezi s vašim osobnim podacima koje Aiursoft posjeduje:</value>
+  </data>
+  <data name="Last Updated: September 2026" xml:space="preserve">
+    <value>Posljednje ažuriranje: rujan 2026.</value>
+  </data>
+  <data name="Minimal Data Collection:" xml:space="preserve">
+    <value>Minimalno prikupljanje podataka:</value>
+  </data>
+  <data name="No Data Selling:" xml:space="preserve">
+    <value>Bez prodaje podataka:</value>
+  </data>
+  <data name="No Hidden Telemetry:" xml:space="preserve">
+    <value>Nedostaje skrivena telemetrija:</value>
+  </data>
+  <data name="Our software solutions are designed without concealed telemetry, advertising trackers, or behavioral profiling mechanisms." xml:space="preserve">
+    <value>Naša programska rješenja su projektirana bez skrivenog telemetrijskog praćenja, reklamnih pratilaca ili mehanizama ponašanja profila.</value>
+  </data>
+  <data name="Right to Access:" xml:space="preserve">
+    <value>Pravo na pristup:</value>
+  </data>
+  <data name="Right to Erasure (The &quot;Right to be Forgotten&quot;):" xml:space="preserve">
+    <value>Pravo na brisanje (&quot;pravo na zaborav&quot;):</value>
+  </data>
+  <data name="Right to Rectification:" xml:space="preserve">
+    <value>Pravo na ispravak:</value>
+  </data>
+  <data name="Service Provisioning:" xml:space="preserve">
+    <value>Opremanje usluga:</value>
+  </data>
+  <data name="Strict Prohibition on AI Training:" xml:space="preserve">
+    <value>Stroga zabrana treniranja AI-a:</value>
+  </data>
+  <data name="Stripe, Inc.:" xml:space="preserve">
+    <value>Stripe, Inc.:</value>
+  </data>
+  <data name="Technical and Diagnostic Data:" xml:space="preserve">
+    <value>Tehnički i dijagnostki podaci:</value>
+  </data>
+  <data name="The limited data we do collect is utilized solely for the following legitimate business purposes:" xml:space="preserve">
+    <value>Ograničeni podaci koje prikupljamo koriste se isključivo za sljedeće legitimne poslovne svrhe:</value>
+  </data>
+  <data name="To clearly understand how your data is handled, it is crucial to differentiate between the types of deployment plans we offer, as our legal and technical relationship to your data changes significantly based on your chosen architecture:" xml:space="preserve">
+    <value>Da biste jasno razumjeli kako se s vašim podacima postupa, ključno je razlikovati vrste planova postavljanja koje nudimo, jer naša pravna i tehnička veza s vašim podacima značajno se mijenja ovisno o odabranoj arhitekturi:</value>
+  </data>
+  <data name="To create your account, configure your chosen deployment (whether cloud-hosted or coordinating on-premise setup), and authenticate your access." xml:space="preserve">
+    <value>Za stvaranje vašeg računa, konfiguraciju odabrane implementacije (bilo da se radi o oblaku ili usklađivanju lokalne postavke) i autentifikaciju vašeg pristupa.</value>
+  </data>
+  <data name="To exercise any of these rights, please contact us using the information provided below or manage your preferences directly within your Aiursoft account dashboard." xml:space="preserve">
+    <value>Za ostvarivanje bilo koje od ovih prava, slobodno nas kontaktirajte koristeći informacije navedene ispod ili upravljajte svojim postavkama izravno unutar nadzorne ploče svog Aiursoft računa.</value>
+  </data>
+  <data name="To facilitate our business relationship and manage your subscriptions, we collect the following limited categories of information:" xml:space="preserve">
+    <value>Kako bismo olakšali naš poslovni odnos i upravljali vašim pretplatama, prikupljamo sljedeće ograničene kategorije podataka:</value>
+  </data>
+  <data name="To facilitate subscription billing and process payments securely via Stripe." xml:space="preserve">
+    <value>Radi olakšavanja naplatne obrade pretplata i sigurnog obrađivanja plaćanja putem Stripea.</value>
+  </data>
+  <data name="To send you critical system notifications (such as scheduled maintenance alerts or downtime warnings), billing receipts, and responses to your technical support inquiries." xml:space="preserve">
+    <value>Za slanje kritičnih obavijesti sustava (poput upozorenja na planirano održavanje ili prekide rada), računa za naplatu i odgovora na vaša tehnička upita podrške.</value>
+  </data>
+  <data name="Transaction Processing:" xml:space="preserve">
+    <value>Obrada transakcija:</value>
+  </data>
+  <data name="Upon Cancellation (Cloud-Hosted Plans):" xml:space="preserve">
+    <value>Pri otkazivanju (planovi s oblakom):</value>
+  </data>
+  <data name="Upon Cancellation (On-Premise Plans):" xml:space="preserve">
+    <value>Pri otkazivanju (On-Premise planovi):</value>
+  </data>
+  <data name="Voxihost:" xml:space="preserve">
+    <value>Voxihost:</value>
+  </data>
+  <data name="We are unequivocally committed to the following principles:" xml:space="preserve">
+    <value>Neodvojivo smo predani sljedećim načelima:</value>
+  </data>
+  <data name="We collect only the absolute minimum data necessary to provide you with secure, reliable, and functional services." xml:space="preserve">
+    <value>Prikupljamo samo apsolutno minimalne podatke potrebne za pružanje sigurnih, pouzdanih i funkcionalnih usluga.</value>
+  </data>
+  <data name="We do not share your personal information with external parties except where absolutely necessary to deliver our services. To operate effectively, we utilize the following trusted third-party sub-processors:" xml:space="preserve">
+    <value>Ne dijelimo vaše osobne podatke s vanjskim stranama, osim tamo gdje je to apsolutno nužno za pružanje naših usluga. Kako bismo učinkovito poslovali, koristimo sljedeće pouzdane podizvođače trećih strana:</value>
+  </data>
+  <data name="We do not use your private documents or communications to train our models or third-party models. Customer-requested local training requires explicit authorization and uses only the data you select. Local inference keeps model inputs within your deployment. If you choose an external model provider, prompts and selected content are sent to that provider under its terms; the provider and data flow must be agreed before activation." xml:space="preserve">
+    <value>Ne koristimo vaše privatne dokumente ili komunikacije za obuku naših modela ili modela trećih strana. Lokalna obuka na zahtjev klijenta zahtijeva eksplicitnu autorizaciju i koristi isključivo podatke koje odaberete. Lokalna inferencija zadržava ulazne podatke modela unutar vaše instalacije. Ako odaberete vanjskog pružatelja modela, upiti (prompts) i odabrani sadržaj šalju se tom pružatelju pod njegovim uvjetima; pružatelj i tok podataka moraju biti dogovoreni prije aktivacije.</value>
+  </data>
+  <data name="We do not, and will never, sell, rent, or lease your personal or business data to third parties." xml:space="preserve">
+    <value>Ne prodajemo, niti ćemo ikada prodavati, iznajmljivati ili ustupiti u zakup vaše osobne ili poslovne podatke trećim stranama.</value>
+  </data>
+  <data name="We securely retain your account and hosted data for the duration of your active subscription to ensure continuous service delivery." xml:space="preserve">
+    <value>Sigurno zadržavamo vaše podatke računa i hostanih podataka tijekom trajanja vaše aktivne pretplate kako bismo osigurali neprekidnu isporuku usluga.</value>
+  </data>
+  <data name="When you register for an Aiursoft commercial account or engage with our sales team, we collect necessary contact details, including your name, your work email address, and your company name. This information is used strictly for account administration and communication." xml:space="preserve">
+    <value>Kada se registrirate za Aiursoftov komercijalni račun ili stupite u kontakt s našim prodajnim timom, prikupljamo potrebne kontaktne podatke, uključujući vaše ime, poslovnu e-poštu i naziv vaše tvrtke. Ovi podaci koriste se isključivo za upravljanje računom i komunikaciju.</value>
+  </data>
+  <data name="When you utilize our cloud-hosted infrastructure (such as Mailcow, Nextcloud, or Authentik instances managed on our servers), AIURSOFT LIMITED acts as a Data Processor. You remain the Data Controller. Infrastructure administrators may have technical access to hosted systems, databases, and backups. We restrict access to authorized personnel and service duties. Access to business content for a support request requires your explicit authorization, is limited to that request, and is revoked when the work ends." xml:space="preserve">
+    <value>Kad koristite našu infrastrukturu u oblaku (poput instanci Mailcow, Nextcloud ili Authentik koje upravljamo na našim poslužiteljima), AIURSOFT LIMITED djeluje kao obraditelj podataka. Vi ostajete voditelj podataka. Administratori infrastrukture mogu imati tehnički pristup hostiranim sustavima, bazama podataka i sigurnosnim kopijama. Pristup ograničavamo na ovlašteno osoblje i službene obveze. Pristup poslovnim sadržajima radi zahtjeva za podrhtku zahtijeva vašu eksplicitnu autorizaciju, ograničen je na taj zahtjev i otkazuje se kada posao završi.</value>
+  </data>
+  <data name="When you visit our public-facing websites (e.g., aiursoft.com), our web servers automatically log standard technical information, such as your IP address, browser type, and access times. This data is utilized exclusively for security monitoring (e.g., preventing DDoS attacks), ensuring the stability of our web infrastructure, and basic, anonymized traffic analysis. We do not employ invasive third-party tracking cookies for behavioral advertising." xml:space="preserve">
+    <value>Kada posjetite naše javne web stranice (npr. aiursoft.com), naši web poslužitelji automatski bilježe standardne tehničke informacije, poput vaše IP adrese, vrste preglednika i vremena pristupa. Ovi podaci koriste se isključivo za nadzor sigurnosti (npr. sprječavanje DDoS napada), osiguranje stabilnosti naše web infrastrukture i osnovnu, anonimiziranu analizu prometa. Ne koristimo invazivne kolačiće za praćenje trećih strana za ponašanje u svrhu oglašavanja.</value>
+  </data>
+  <data name="You may request a copy of the personal data we hold about you." xml:space="preserve">
+    <value>Možete zatražiti kopiju osobnih podataka koje o vama vodimo.</value>
+  </data>
+  <data name="You may request that we correct any inaccurate or incomplete personal data." xml:space="preserve">
+    <value>Možete zatražiti da ispravimo bilo koje netočne ili nepotpune osobne podatke.</value>
+  </data>
+  <data name="You may request the complete deletion of your account and associated personal data from our systems, subject to our retention policies for cancelled subscriptions and legal compliance requirements." xml:space="preserve">
+    <value>Možete zatražiti potpuno brisanje vašeg računa i povezanih osobnih podataka iz naših sustava, uz uvjet naših politika zadržavanja za otkazane pretplate i zahtjeva za usklađenost s pravnim propisima.</value>
+  </data>
+
+</root>

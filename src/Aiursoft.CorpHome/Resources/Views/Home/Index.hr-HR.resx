@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="AI Agents Integration" xml:space="preserve">
+    <value>Integracija AI agenata</value>
+  </data>
+  <data name="AI Era" xml:space="preserve">
+    <value>Era umjetne inteligencije</value>
+  </data>
+  <data name="AI Translation" xml:space="preserve">
+    <value>AI prijevod</value>
+  </data>
+  <data name="Aiursoft Template" xml:space="preserve">
+    <value>Aiursoft predložak</value>
+  </data>
+  <data name="Aiursoft Template Screenshot" xml:space="preserve">
+    <value>Aiursoft predložak – Screenshot</value>
+  </data>
+  <data name="Aiursoft Template is continuously optimized for the AI era, built with the most popular and reliable Open-source technologies. It has already produced dozens of mature applications delivered to enterprises. Aiursoft uses Template to help businesses develop custom solutions based on their core needs." xml:space="preserve">
+    <value>Aiursoft Template se kontinuirano optimizira za eru AI-a, izgrađen je s najpopularnijim i najpouzdanijim Open-source tehnologijama. Već je proizveo desetine zrelih aplikacija isporučenih poduzećima. Aiursoft koristi Template kako bi pomogao poslovnim subjektima razviti prilagođena rješenja na temelju njihovih ključnih potreba.</value>
+  </data>
+  <data name="Aiursoft is dedicated to bringing the spirit of Open-source and free software to every enterprise and individual." xml:space="preserve">
+    <value>Aiursoft posvećen je donesenju duha otvorenog izvora i besplatnog softvera svakom poduzeću i pojedincu.</value>
+  </data>
+  <data name="All enterprise knowledge stays under your control — sustainable, auditable, and truly yours." xml:space="preserve">
+    <value>Sve poduzetničko znanje ostaje pod vašom kontrolom — održivo, provjerljivo i stvarno vaše.</value>
+  </data>
+  <data name="Auto AI translation to 28 languages." xml:space="preserve">
+    <value>Automatski AI prijevod na 28 jezika.</value>
+  </data>
+  <data name="Browse Source Code" xml:space="preserve">
+    <value>Pregledajte izvorni kod</value>
+  </data>
+  <data name="Build Your Local Knowledge Base" xml:space="preserve">
+    <value>Izgradite svoju lokalnu bazu znanja</value>
+  </data>
+  <data name="Building Rock-Solid Enterprise" xml:space="preserve">
+    <value>Izgradnja čvrste poduzeća</value>
+  </data>
+  <data name="Built-in RBAC for fine-grained permission management." xml:space="preserve">
+    <value>Ugrađeni RBAC za fino-granularno upravljanje dopustenostima.</value>
+  </data>
+  <data name="Built-in security controls support your deployment requirements." xml:space="preserve">
+    <value>Ugrađene sigurnosne kontrole podržavaju vaše zahtjeve za implementacijom.</value>
+  </data>
+  <data name="Code Audit &amp; Integration" xml:space="preserve">
+    <value>Revizija koda i integracija</value>
+  </data>
+  <data name="Data Sovereignty" xml:space="preserve">
+    <value>Suverenitet podataka</value>
+  </data>
+  <data name="Deploy models and agents on your own infrastructure. External model providers and hosted integrations are optional and require an agreed data flow." xml:space="preserve">
+    <value>Rasporedite modele i agente na vlastitu infrastrukturu. Vanjski pružatelji modela i hostani integracije su opcionalni i zahtijevaju dogovoreni tok podataka.</value>
+  </data>
+  <data name="Discover AnduinOS" xml:space="preserve">
+    <value>Otkrijte AnduinOS</value>
+  </data>
+  <data name="Enterprise" xml:space="preserve">
+    <value>Enterprise</value>
+  </data>
+  <data name="Enterprise Ready" xml:space="preserve">
+    <value>Pripremljeno za poduzeća</value>
+  </data>
+  <data name="Enterprise business framework for the" xml:space="preserve">
+    <value>Poduzećki poslovni okvir za</value>
+  </data>
+  <data name="Experience Aiursoft AI" xml:space="preserve">
+    <value>Iskusite Aiursoft AI</value>
+  </data>
+  <data name="Explore Our Projects" xml:space="preserve">
+    <value>Pogledajte naše projekte</value>
+  </data>
+  <data name="Explore on GitHub" xml:space="preserve">
+    <value>Pronađite na GitHubu</value>
+  </data>
+  <data name="Live Demo" xml:space="preserve">
+    <value>Uživa demo</value>
+  </data>
+  <data name="Local LLM Deployment" xml:space="preserve">
+    <value>Lokalno razvrstavanje LLM-a</value>
+  </data>
+  <data name="Multi-Database" xml:space="preserve">
+    <value>Više baza podataka</value>
+  </data>
+  <data name="Need to develop faster? A robust project template to support your grand ambitions." xml:space="preserve">
+    <value>Trebate brže razvijati? Robusna predložaka projekta za podršku vašim velikim ambicijama.</value>
+  </data>
+  <data name="OllamaGateway has been officially tested and is fully compatible with popular ecosystem tools including Open-WebUI, Opencode, and Roocode. Its robust API translation makes it the ideal choice for deploying autonomous AI agents." xml:space="preserve">
+    <value>OllamaGateway je službeno testiran i potpuno je kompatibilan s popularnim alatima ekosustava, uključujući Open-WebUI, Opencode i Roocode. Njegova robusna API translacija čini ga idealnim izborom za razmještanje autonomnih AI agenata.</value>
+  </data>
+  <data name="Open Source" xml:space="preserve">
+    <value>Otvoreni izvor</value>
+  </data>
+  <data name="Open WebUI – Local AI Knowledge Base" xml:space="preserve">
+    <value>Open WebUI – Lokalna AI baza znanja</value>
+  </data>
+  <data name="Open-source &amp; AI era." xml:space="preserve">
+    <value>era otvorenog koda i AI-ja.</value>
+  </data>
+  <data name="OpenID Connect" xml:space="preserve">
+    <value>OpenID Connect</value>
+  </data>
+  <data name="RBAC Authorization" xml:space="preserve">
+    <value>RBAC autorizacija</value>
+  </data>
+  <data name="Ready to build your enterprise on Open-source foundations?" xml:space="preserve">
+    <value>Spremni li ste izgraditi svoje poduzeće na temeljima otvorenog koda?</value>
+  </data>
+  <data name="Reduce Your Attack Surface." xml:space="preserve">
+    <value>Smanjite svoju površinu napada.</value>
+  </data>
+  <data name="Seamless integration with any OIDC provider." xml:space="preserve">
+    <value>Besprekna integracija s bilo kojim OIDC pružateljem.</value>
+  </data>
+  <data name="Security First" xml:space="preserve">
+    <value>Sigurnost na prvom mjestu</value>
+  </data>
+  <data name="Single Container" xml:space="preserve">
+    <value>Jedinstveni kontejner</value>
+  </data>
+  <data name="Source Code" xml:space="preserve">
+    <value>Izvorni kod</value>
+  </data>
+  <data name="Substrate" xml:space="preserve">
+    <value>Podloga</value>
+  </data>
+  <data name="Supports local operation; configured external integrations require network access." xml:space="preserve">
+    <value>Podržava lokalno funkcioniranje; konfigurirane vanjske integracije zahtijevaju pristup mreži.</value>
+  </data>
+  <data name="Switch easily between SQLite, MySQL, SQL Server." xml:space="preserve">
+    <value>Lako prebacujte između SQLitea, MySQLa i SQL Servera.</value>
+  </data>
+  <data name="The Open-source world is free, but full of dangers. Aiursoft helps you withstand the first wave of attacks." xml:space="preserve">
+    <value>Svijet otvorenog koda je besplatan, ali pun opasnosti. Aiursoft vam pomaže da izdržite prvi val napada.</value>
+  </data>
+  <data name="We Take the First Hit." xml:space="preserve">
+    <value>Mi preuzimamo prvi udarac.</value>
+  </data>
+  <data name="We audit and integrate Open-source code, respect GPL, compile components, and contribute upstream." xml:space="preserve">
+    <value>Provodimo reviziju i integraciju koda otvorenog izvora, poštujemo GPL, kompiliramo komponente i doprinosimo razvojnom toku.</value>
+  </data>
+  <data name="We configure authentication, encrypted service connections, and audit logging for the services included in your deployment. Coverage and retention are agreed during design." xml:space="preserve">
+    <value>Konfiguriramo autentikaciju, šifrirane servisne veze i revizijsko bilježenje za usluge uključene u vašu implementaciju. Pokrivenost i zadržavanje podataka dogovaraju se tijekom faze dizajna.</value>
+  </data>
+  <data name="We integrate hardware-key authentication. Hardware procurement and costs are agreed in your deployment proposal." xml:space="preserve">
+    <value>Integriramo autentikaciju pomoću hardverskih ključeva. Nabava hardvera i troškovi dogovaraju se u vašem prijedlogu implementacije.</value>
+  </data>
+  <data name="With local models and local integrations, inference inputs remain within your deployment. External providers receive the inputs you choose to send." xml:space="preserve">
+    <value>Koristeći lokalne modele i lokalne integracije, ulazni podaci za zaključivanje ostaju unutar vašeg postavljanja. Vanjski pružatelji primaju ulazne podatke koje odaberete poslati.</value>
+  </data>
+  <data name="Yubikey for Every Client" xml:space="preserve">
+    <value>Yubikey za svakog klijenta</value>
+  </data>
+  <data name="Zero Trust Architecture" xml:space="preserve">
+    <value>Arhitektura nultog povjerenja</value>
+  </data>
+  <data name="Zero Trust Security with Yubikey" xml:space="preserve">
+    <value>Zero Trust sigurnost s Yubikeyem</value>
+  </data>
+  <data name="in the AI Era." xml:space="preserve">
+    <value>u doba umjetne inteligencije.</value>
+  </data>
+  <data name="with Open-Source Infrastructure." xml:space="preserve">
+    <value>sa Open-Source infrastrukturom.</value>
+  </data>
+
+</root>

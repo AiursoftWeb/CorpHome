@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="24/7 incident intake and escalation where contracted; scope and response targets follow the service agreement" xml:space="preserve">
+    <value>Prijem i eskalacija incidenta 24/7, ako je ugovoreno; opseg i ciljevi odgovora prate ugovor o uslugama</value>
+  </data>
+  <data name="7×24 On-call Support" xml:space="preserve">
+    <value>Podrška na pozivu 24/7</value>
+  </data>
+  <data name="AI &amp; Intelligence" xml:space="preserve">
+    <value>Veštačka inteligencija</value>
+  </data>
+  <data name="AI Knowledge Base Construction" xml:space="preserve">
+    <value>Izgradnja AI baze znanja</value>
+  </data>
+  <data name="Aiursoft-hosted Email Service" xml:space="preserve">
+    <value>Poštanska usluga koju poslužuje Aiursoft</value>
+  </data>
+  <data name="AnduinOS Enterprise (Desktop OS)" xml:space="preserve">
+    <value>AnduinOS Enterprise (radni sustav)</value>
+  </data>
+  <data name="Authentik uses an Open Core model. The Community Edition is licensed under the permissive MIT license, which allows commercial use, modification, and redistribution. We provide the Community Edition (MIT) as part of Substratum. The Enterprise Edition requires a separate commercial license from Authentik." xml:space="preserve">
+    <value>Authentik koristi Open Core model. Zajednička izdanja (Community Edition) licencirana su pod perzisivnom MIT licencom, koja omogućuje komercijalnu upotrebu, izmjene i ponovnu distribuciju. Zajedničko izdanje (MIT) pružamo kao dio Substratuma. Poduzetničko izdanje (Enterprise Edition) zahtijeva zasebnu komercijalnu licencu od tvrtke Authentik.</value>
+  </data>
+  <data name="Business hours email support" xml:space="preserve">
+    <value>Podrška e-poštom radnim vremenom</value>
+  </data>
+  <data name="Business hours phone support" xml:space="preserve">
+    <value>Telefonska podrška u radno vrijeme</value>
+  </data>
+  <data name="Cloud Office Suite" xml:space="preserve">
+    <value>Uredski paket u oblaku</value>
+  </data>
+  <data name="Communication &amp; Email" xml:space="preserve">
+    <value>Komunikacija i e-pošta</value>
+  </data>
+  <data name="Compare Substratum plans" xml:space="preserve">
+    <value>Usporedite Substratum planove</value>
+  </data>
+  <data name="Core" xml:space="preserve">
+    <value>Osnovno</value>
+  </data>
+  <data name="Custom AI pipeline" xml:space="preserve">
+    <value>Prilagodljiva AI cijevna linija</value>
+  </data>
+  <data name="Custom Container Development" xml:space="preserve">
+    <value>Razvoj prilagođenih kontejnera</value>
+  </data>
+  <data name="Custom TTS / STT, Search Engine &amp; Deep Research" xml:space="preserve">
+    <value>Prilagođeni TTS / STT, pretraživač i dubinsko istraživanje</value>
+  </data>
+  <data name="Custom speech synthesis/recognition, search integration &amp; deep investigation pipelines" xml:space="preserve">
+    <value>Prilagođene cijevi za sintezu/prepoznavanje govora, integraciju pretraživanja i dubinsko istraživanje</value>
+  </data>
+  <data name="Deployment &amp; Hosting" xml:space="preserve">
+    <value>Postavljanje i hostanje</value>
+  </data>
+  <data name="DevOps &amp; Engineering" xml:space="preserve">
+    <value>DevOps &amp; Inženjering</value>
+  </data>
+  <data name="Device policy integration with scope and supported platforms agreed before deployment" xml:space="preserve">
+    <value>Integracija politike uređaja s dogovorenim opsegom i podržanim platformama prije implementacije</value>
+  </data>
+  <data name="Document Conversion" xml:space="preserve">
+    <value>Pretvorba dokumenata</value>
+  </data>
+  <data name="Enterprise" xml:space="preserve">
+    <value>Enterprise</value>
+  </data>
+  <data name="Enterprise Customization" xml:space="preserve">
+    <value>Poduzećka prilagodba</value>
+  </data>
+  <data name="Enterprise Scale Deployment" xml:space="preserve">
+    <value>Poduzećki razmjer razvoja</value>
+  </data>
+  <data name="Every plan is built on the same foundational stack. Higher tiers add more applications, on-premise deployment, and dedicated enterprise support on top." xml:space="preserve">
+    <value>Svaki plan izgrađen je na istom temeljnom stogu. Viši razredi dodaju više aplikacija, on-premise implementaciju i posvećenu podršku za poduzeća.</value>
+  </data>
+  <data name="File Storage" xml:space="preserve">
+    <value>Pohrana datoteka</value>
+  </data>
+  <data name="GitLab is a trademark of GitLab Inc. Aiursoft provides deployment, hosting, and integration services for GitLab — we are not affiliated with or endorsed by GitLab Inc. The GitLab Community Edition (CE) is MIT-licensed and can be deployed freely. The GitLab Enterprise Edition (EE) requires a separate license purchased from GitLab Inc. We can assist you with procuring the appropriate GitLab EE license, or you may choose to remove this item from your plan." xml:space="preserve">
+    <value>GitLab je žig tvrtke GitLab Inc. Aiursoft pruža usluge postavljanja, hostinga i integracije za GitLab — nismo u vezi s GitLab Inc. niti imamo njihovo odobrenje. GitLab Community Edition (CE) ima MIT licencu i može se besplatno postaviti. GitLab Enterprise Edition (EE) zahtijeva odvojenu licencu koja se kupuje od GitLab Inc. Možemo vam pomoći u nabavi odgovarajuće GitLab EE licence, ili možete odabrati uklanjanje ove stavke iz svog plana.</value>
+  </data>
+  <data name="HR &amp; Org Portal" xml:space="preserve">
+    <value>HR i organizacijski portal</value>
+  </data>
+  <data name="Hacker" xml:space="preserve">
+    <value>Hacker</value>
+  </data>
+  <data name="Hardware key enforcement" xml:space="preserve">
+    <value>Prisila hardverskih ključeva</value>
+  </data>
+  <data name="Hosted by Aiursoft (SaaS)" xml:space="preserve">
+    <value>Hosta od strane Aiursofta (SaaS)</value>
+  </data>
+  <data name="Hosted by Aiursoft, not on-premise" xml:space="preserve">
+    <value>Poslužuje ga Aiursoft, nije lokalno (on-premise)</value>
+  </data>
+  <data name="Identity &amp; Security" xml:space="preserve">
+    <value>Identitet i sigurnost</value>
+  </data>
+  <data name="Included" xml:space="preserve">
+    <value>Uključeno</value>
+  </data>
+  <data name="Local LLM API Gateway" xml:space="preserve">
+    <value>Lokalni LLM API gateway</value>
+  </data>
+  <data name="MDM Device Compliance" xml:space="preserve">
+    <value>MDM usklađenost uređaja</value>
+  </data>
+  <data name="Mailcow is open-source software (GPL-3.0). Aiursoft provides managed hosting, deployment, and integration services. Any custom modifications provided during your on-premise deployment are fully compliant with and distributed under the GPL-3.0 license." xml:space="preserve">
+    <value>Mailcow je softver otvorenog koda (GPL-3.0). Aiursoft pruža usluge upravljanog hostanja, implementacije i integracije. Sve prilagodbe koje se pruže tijekom vaše implementacije na vlastitoj infrastrukturi u potpunosti su usklađene s licencom GPL-3.0 i distribuirane pod tom licencom.</value>
+  </data>
+  <data name="Managed endpoint OS" xml:space="preserve">
+    <value>Upravljani endpoint OS</value>
+  </data>
+  <data name="Managed, zero-ops" xml:space="preserve">
+    <value>Upravljano, bez operativnih zadataka</value>
+  </data>
+  <data name="Max User Accounts" xml:space="preserve">
+    <value>Maksimalan broj korisničkih računa</value>
+  </data>
+  <data name="Multi-site &amp; HA capable" xml:space="preserve">
+    <value>Višesjedijsko i HA sposobno</value>
+  </data>
+  <data name="Nextcloud is a trademark of Nextcloud GmbH. Aiursoft is an independent integration provider. To ensure enterprise-grade stability and strict adherence to the AGPL-3.0 license, we deploy the official, unmodified Nextcloud releases and seamlessly connect your stack via standard APIs, OIDC/SAML, and official plugins." xml:space="preserve">
+    <value>Nextcloud je zaštićeni žig tvrtke Nextcloud GmbH. Aiursoft je neovisni pružatelj integracija. Kako bismo osigurali stabilnost na razini poduzeća i strogo poštivanje licence AGPL-3.0, instaliramo službene, nepromijenjene izdanja Nextclouda i besprijekorno povezujemo vašu infrastrukturu putem standardnih API-ja, OIDC/SAML-a i službenih priključaka.</value>
+  </data>
+  <data name="Not included" xml:space="preserve">
+    <value>Nije uključeno</value>
+  </data>
+  <data name="Not included in Core" xml:space="preserve">
+    <value>Nije uključeno u Core</value>
+  </data>
+  <data name="Not included in Startup" xml:space="preserve">
+    <value>Nije uključeno u Startup</value>
+  </data>
+  <data name="On-premise / Air-gapped Deployment" xml:space="preserve">
+    <value>Postavljanje na vlastitim poslužiteljima / Zrakoprazno postavljanje</value>
+  </data>
+  <data name="On-premises APT Repository" xml:space="preserve">
+    <value>APT spremište na vlastitim poslužiteljima</value>
+  </data>
+  <data name="Online Code Execution" xml:space="preserve">
+    <value>Izvršavanje koda online</value>
+  </data>
+  <data name="PDF Processing &amp; Vector Database" xml:space="preserve">
+    <value>Obrada PDF-a i vektorska baza podataka</value>
+  </data>
+  <data name="PDF ingestion &amp; vector store construction via PaddleOCR" xml:space="preserve">
+    <value>Uvoz PDF-a i izgradnja vektorske baze podataka putem PaddleOCR-a</value>
+  </data>
+  <data name="PaddleOCR-based" xml:space="preserve">
+    <value>Na bazi PaddleOCR-a</value>
+  </data>
+  <data name="Partial / limited" xml:space="preserve">
+    <value>Djelomično / ograničeno</value>
+  </data>
+  <data name="Productivity &amp; Collaboration" xml:space="preserve">
+    <value>Productivnost i suradnja</value>
+  </data>
+  <data name="Repository Sync" xml:space="preserve">
+    <value>Sinkronizacija repozitorija</value>
+  </data>
+  <data name="SSO / Identity Gateway" xml:space="preserve">
+    <value>SSO / identitetski gateway</value>
+  </data>
+  <data name="SaaS only" xml:space="preserve">
+    <value>Samo SaaS</value>
+  </data>
+  <data name="Scale &amp; Support" xml:space="preserve">
+    <value>Mjerilo i podrška</value>
+  </data>
+  <data name="Self-hosted APT repository with .apkg publishing" xml:space="preserve">
+    <value>Samostalni APT repozitorij s objavljivanjem .apkg</value>
+  </data>
+  <data name="Self-hosted LLM inference gateway" xml:space="preserve">
+    <value>Samostalni LLM gateway za inferenciju</value>
+  </data>
+  <data name="Self-hosted on your own servers" xml:space="preserve">
+    <value>Samostalno hostano na vlastitim poslužiteljima</value>
+  </data>
+  <data name="Server Monitoring" xml:space="preserve">
+    <value>Praćenje poslužitelja</value>
+  </data>
+  <data name="Service / Feature" xml:space="preserve">
+    <value>Usluga / Funkcija</value>
+  </data>
+  <data name="Single-site on-premise" xml:space="preserve">
+    <value>Jednostranačko lokalno</value>
+  </data>
+  <data name="Source Control &amp; CI/CD" xml:space="preserve">
+    <value>Upravljanje izvornim kodom &amp; CI/CD</value>
+  </data>
+  <data name="Startup" xml:space="preserve">
+    <value>Početni</value>
+  </data>
+  <data name="Tailored to your stack" xml:space="preserve">
+    <value>Prilagođeno vašem stogu</value>
+  </data>
+  <data name="Talk to an Architect" xml:space="preserve">
+    <value>Razgovarajte s arhitektom</value>
+  </data>
+  <data name="Team Blog" xml:space="preserve">
+    <value>Timski blog</value>
+  </data>
+  <data name="Team Voting" xml:space="preserve">
+    <value>Glasanje tima</value>
+  </data>
+  <data name="URL Shortener" xml:space="preserve">
+    <value>Skraćivač URL-ova</value>
+  </data>
+  <data name="Unlimited" xml:space="preserve">
+    <value>Neograničeno</value>
+  </data>
+  <data name="What&apos;s Included" xml:space="preserve">
+    <value>Što je uključeno</value>
+  </data>
+  <data name="Workspace Boards" xml:space="preserve">
+    <value>Radne ploče</value>
+  </data>
+  <data name="Zero Trust Yubikey Auth" xml:space="preserve">
+    <value>Zero Trust Yubikey Auth</value>
+  </data>
+  <data name="mo" xml:space="preserve">
+    <value>mj</value>
+  </data>
+  <data name="user" xml:space="preserve">
+    <value>korisnik</value>
+  </data>
+
+</root>

@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="A capability the company can increasingly control for itself" xml:space="preserve">
+    <value>Mogućnost koju tvrtka može sve više samostalno upravljati</value>
+  </data>
+  <data name="A consistent infrastructure foundation" xml:space="preserve">
+    <value>Dosljedna infrastrukturna podloga</value>
+  </data>
+  <data name="A foundation designed to evolve with the business." xml:space="preserve">
+    <value>Temelj osmišljen za razvoj s poslovanjem.</value>
+  </data>
+  <data name="A software-only delivery would not solve the problem either. Even a well-designed platform cannot provide the expected performance or reliability when its underlying hardware is unsuitable or poorly integrated. ChopInsight needed a coordinated approach that could preserve existing investments, add computing capacity where necessary, and support conventional applications and AI workloads through a common management model." xml:space="preserve">
+    <value>Isključivo softversko rješenje također ne bi riješilo problem. Čak ni dobro dizajnirana platforma ne može pružiti očekivane performanse ili pouzdanost ako joj je osnovna hardverska oprema neprikladna ili loše integrirana. ChopInsight je trebala koordinirani pristup koji bi sačuvao postojeća ulaganja, dodao izračunsku snagu tamo gdje je to potrebno i podržao konvencionalne aplikacije te AI opterećenja putem zajedničkog modela upravljanja.</value>
+  </data>
+  <data name="AI access" xml:space="preserve">
+    <value>AI pristup</value>
+  </data>
+  <data name="AI access governed" xml:space="preserve">
+    <value>Upravljanje pristupom AI</value>
+  </data>
+  <data name="AI as a governed enterprise capability" xml:space="preserve">
+    <value>Umjetna inteligencija kao upravljanu poduzećku sposobnost</value>
+  </data>
+  <data name="AI introduced a second, closely related challenge. Suitable computing resources could be expensive and complex to specify. ChopInsight needed to avoid hardware that might later prove unsuitable for its software or operational requirements, while simply replacing equipment would have ignored the value of its existing servers." xml:space="preserve">
+    <value>Uvedba umjetne inteligencije donijela je drugi, usko povezan izazov. Pogodni računalni resursi mogli su biti skupi i složeni za specificirati. ChopInsight je morao izbjegavati hardver koji bi se kasnije mogao pokazati neprikladnim za njegove softverske ili operativne zahtjeve, dok bi jednostavna zamjena opreme zanemarila vrijednost njegovih postojećih poslužitelja.</value>
+  </data>
+  <data name="About ChopInsight" xml:space="preserve">
+    <value>O ChopInsightu</value>
+  </data>
+  <data name="Aiursoft assessed ChopInsight’s physical equipment, computing resources, application requirements and future AI plans together. Performance, stability, cost and future expansion informed a single design, making hardware selection and adaptation part of the service rather than a separate procurement exercise." xml:space="preserve">
+    <value>Aiursoft je zajedno procijenio fizičku opremu, izračunske resurse, zahtjeve aplikacija i buduće AI planove tvrtke ChopInsight. Performanse, stabilnost, troškovi i buduće proširenje utjecali su na jedinstveni dizajn, čime je odabir i prilagodba hardvera postali dio usluge, a ne zaseban postupak nabave.</value>
+  </data>
+  <data name="Aiursoft brought ChopInsight’s existing infrastructure, emerging AI requirements and business applications into one stable, scalable platform—protecting earlier investments while preparing the business for continued AI adoption." xml:space="preserve">
+    <value>Aiursoft je integrirao postojeću infrastrukturu ChopInsighta, nastajuće zahtjeve za umjetnom inteligencijom i poslovne aplikacije u jednu stabilnu i skalabilnu platformu – čuvajući prethodna ulaganja dok priprema posao za daljnje usvajanje umjetne inteligencije.</value>
+  </data>
+  <data name="Aiursoft introduced a unified identity layer and connected relevant internal services to it. Users, organisational relationships and access policies could be managed through a common framework, reducing duplicate accounts while establishing a foundation for consistent access governance, service auditing and secure use of internal applications." xml:space="preserve">
+    <value>Aiursoft je uveo ujednačeni sloj identiteta i poveo relevantne interne usluge s njime. Korisnici, organizacijski odnosi i politike pristupa mogli su se upravljati kroz zajednički okvir, čime se smanjio broj dupliciranih računa, a istovremeno je postavljena osnova za dosljedno upravljanje pristupom, reviziju usluga i sigurnu upotrebu internih aplikacija.</value>
+  </data>
+  <data name="Aiursoft managed platform" xml:space="preserve">
+    <value>Aiursoft upravljana platforma</value>
+  </data>
+  <data name="Applications can use a unified access model and governed model resources without repeating account administration or AI integration work." xml:space="preserve">
+    <value>Aplikacije mogu koristiti ujedinjeni model pristupa i upravljane resurse modela bez ponavljanja administracije računa ili integracije AI-a.</value>
+  </data>
+  <data name="Applications can use local and compatible external model resources through a consistent enterprise capability." xml:space="preserve">
+    <value>Aplikacije mogu koristiti lokalne i kompatibilne vanjske resurse modela putem dosljedne poduzećačke sposobnosti.</value>
+  </data>
+  <data name="Applications were typically deployed and maintained by their respective software suppliers. That approach worked while the estate was small, but became difficult to sustain as applications accumulated different runtime environments, deployment methods and operational practices. Accounts and permissions were managed separately, dependencies were difficult to understand, and operational information was scattered across multiple systems." xml:space="preserve">
+    <value>Aplikacije su se tipično implementirale i održavale putem njihovih respektivnih dobavljača softvera. Taj pristup funkcionirao je dok je infrastruktura bila mala, ali postao je teško održiv kako su se aplikacije nakupljale s različitim izvedbenim okruženjima, metodama implementacije i operativnim praksama. Računi i dopuštenja upravljani su odvojeno, ovisnosti su bile teško razumljive, a operativne informacije bile su raspršene kroz više sustava.</value>
+  </data>
+  <data name="As ChopInsight expanded, it introduced knowledge bases, data analytics, AI-assisted question answering, research tools, collaboration services and a growing number of business applications. Each system addressed a real need, but the infrastructure beneath them had not evolved at the same pace." xml:space="preserve">
+    <value>Kako se ChopInsight širio, uveo je baze znanja, analizu podataka, odgovaranje na pitanja uz pomoć veštačke inteligencije, alate za istraživanje, usluge za suradnju i sve veći broj poslovnih aplikacija. Svaki sustav odgovarao je stvarnoj potrebi, ali infrastruktura ispod njih nije se razvijala istom brzinom.</value>
+  </data>
+  <data name="Breadcrumb" xml:space="preserve">
+    <value>Breadcrumb</value>
+  </data>
+  <data name="Build what comes next" xml:space="preserve">
+    <value>Izgradite ono što slijedi</value>
+  </data>
+  <data name="Capabilities" xml:space="preserve">
+    <value>Mogućnosti</value>
+  </data>
+  <data name="ChopInsight builds an AI-ready research platform" xml:space="preserve">
+    <value>ChopInsight gradi istraživačku platformu spremnu za AI</value>
+  </data>
+  <data name="ChopInsight can now balance performance, availability and cost without forcing every application to implement those decisions independently. The technology underneath can change without requiring every consuming application to be redesigned." xml:space="preserve">
+    <value>ChopInsight sada može balansirati performanse, dostupnost i troškove bez prisiljavanja svake aplikacije da te odluke donosi neovisno. Tehnologija ispod može se mijenjati bez potrebe za ponovnim projektiranjem svake aplikacije koja je koristi.</value>
+  </data>
+  <data name="ChopInsight needed a platform, not another isolated server." xml:space="preserve">
+    <value>ChopInsightu je trebala platforma, a ne još jedan izolirani poslužitelj.</value>
+  </data>
+  <data name="ChopInsight now has a technology platform that can grow with its research business." xml:space="preserve">
+    <value>ChopInsight sada ima tehnološku platformu koja može rasti zajedno s njegovim istraživačkim poslom.</value>
+  </data>
+  <data name="Cloud resources" xml:space="preserve">
+    <value>Oblačni resursi</value>
+  </data>
+  <data name="Code, configuration and release processes are standardised and versioned instead of living in temporary commands or individual experience." xml:space="preserve">
+    <value>Kod, konfiguracija i procesi izdavanja standardizirani su i verzionirani, umjesto da postoje u privremenim naredbama ili individualnom iskustvu.</value>
+  </data>
+  <data name="Customer story" xml:space="preserve">
+    <value>Priča klijenta</value>
+  </data>
+  <data name="Delivery" xml:space="preserve">
+    <value>Dostava</value>
+  </data>
+  <data name="Earlier investment keeps working" xml:space="preserve">
+    <value>Ranije ulaganje nastavlja raditi</value>
+  </data>
+  <data name="Engagement" xml:space="preserve">
+    <value>Usluge</value>
+  </data>
+  <data name="Essential service status and operational records can also be viewed from a common perspective. Teams can investigate across services, understand critical system use, retain records for long-term auditing and build toward future alerting and operational analysis—without exposing the customer’s detailed internal architecture." xml:space="preserve">
+    <value>Status ključnih usluga i operativni zapisi mogu se pregledavati i iz zajedničke perspektive. Timovi mogu istraživati kroz usluge, razumijevati kritičnu upotrebu sustava, zadržavati zapise za dugoročno revizije i graditi temelje za buduće upozoravanje i operativnu analizu – bez otkrivanja detaljne interne arhitekture klijenta.</value>
+  </data>
+  <data name="Existing equipment was reused while cost-effective resources were selected and adapted for emerging AI workloads." xml:space="preserve">
+    <value>Postojeća oprema je ponovno korištena, dok su odabrani i prilagođeni isplativi resursi za nove AI radne opterećenja.</value>
+  </data>
+  <data name="Existing servers" xml:space="preserve">
+    <value>Postojeći poslužitelji</value>
+  </data>
+  <data name="Focus" xml:space="preserve">
+    <value>Fokus</value>
+  </data>
+  <data name="Fragmented computing resources and business systems became a unified, manageable and scalable environment." xml:space="preserve">
+    <value>Raspršeni računalni resursi i poslovni sustavi pretvoreni su u ujedinjeno, upravljanje i skalabilno okruženje.</value>
+  </data>
+  <data name="Hardware and software designed as one system" xml:space="preserve">
+    <value>Hardverska i softverska oprema projektirana kao jedan sustav</value>
+  </data>
+  <data name="Highlights" xml:space="preserve">
+    <value>Istaknuti sadržaj</value>
+  </data>
+  <data name="Identity" xml:space="preserve">
+    <value>Identitet</value>
+  </data>
+  <data name="Identity and AI are shared capabilities" xml:space="preserve">
+    <value>Identitet i AI su zajedničke mogućnosti</value>
+  </data>
+  <data name="Identity, application delivery and operational visibility no longer depend on disconnected manual processes." xml:space="preserve">
+    <value>Identitet, isporuka aplikacija i operativna uvidnost više ne ovise o odvojenim ručnim procesima.</value>
+  </data>
+  <data name="Industry" xml:space="preserve">
+    <value>Industrija</value>
+  </data>
+  <data name="Infrastructure became a platform" xml:space="preserve">
+    <value>Infrastruktura je postala platforma</value>
+  </data>
+  <data name="Infrastructure for applied AI" xml:space="preserve">
+    <value>Infrastruktura za primijenjenu umjetnu inteligenciju</value>
+  </data>
+  <data name="Infrastructure, AI and application delivery" xml:space="preserve">
+    <value>Infrastruktura, AI i isporuka aplikacija</value>
+  </data>
+  <data name="Inputs" xml:space="preserve">
+    <value>Ulazi</value>
+  </data>
+  <data name="Internal files, research materials, project documents and team collaboration were aligned with the same identity and permission model. For a research organisation with a growing body of specialist material, this simplified everyday collaboration and created a more reliable base for knowledge reuse and AI-assisted research." xml:space="preserve">
+    <value>Unutarnje datoteke, istraživački materijali, projektna dokumentacija i suradnja timova usklađeni su s istim modelom identiteta i dopuštenja. Za istraživačku organizaciju s rastućom zbirkom specijaliziranog materijala, to je pojednostavilo svakodnevnu suradnju i stvorilo pouzdaniju osnovu za ponovno korištenje znanja i istraživanje uz pomoć umjetne inteligencije.</value>
+  </data>
+  <data name="Investment protected" xml:space="preserve">
+    <value>Investicija zaštićena</value>
+  </data>
+  <data name="Investment research" xml:space="preserve">
+    <value>Istraživanje ulaganja</value>
+  </data>
+  <data name="Its competitive advantage comes from a deep understanding of the business models behind underlying assets, combined with expertise in fundamental research, data science, quantitative finance and large language models. Rather than simply delivering information, ChopInsight is building a new research framework around long-term value, deeper insight and a durable technology advantage." xml:space="preserve">
+    <value>Njena konkurentska prednost proizlazi iz dubokog razumijevanja poslovnih modela iza osnovnih imovina, u kombinaciji s vještinama u temeljnom istraživanju, znanosti o podacima, kvantitativnoj financiji i velikim jezičnim modelima. Umjesto da jednostavno dostavlja informacije, ChopInsight gradi novi okvir za istraživanje usmjeren na dugoročnu vrijednost, dublje uvide i trajnu tehnološku prednost.</value>
+  </data>
+  <data name="Knowledge stays with the organisation" xml:space="preserve">
+    <value>Znanje ostaje u organizaciji</value>
+  </data>
+  <data name="Most importantly, technology is less likely to limit the speed of the business. Testing, building and release can proceed through a standardised delivery model, while AI agents can assist with code changes and problem analysis inside an established governance framework." xml:space="preserve">
+    <value>Najvažnije, tehnologija je manje vjerojatno da će ograničiti brzinu poslovanja. Testiranje, izgradnja i izdavanje mogu se odvijati kroz standardizirani model isporuke, dok AI agenti mogu pomoći pri izmjenama koda i analizi problema unutar uspostavljenog okvira upravljanja.</value>
+  </data>
+  <data name="Moving into an AI-enabled future, one server at a time" xml:space="preserve">
+    <value>Kretanje u budućnost s umjetnom inteligencijom, po jedan poslužitelj</value>
+  </data>
+  <data name="New AI compute" xml:space="preserve">
+    <value>Novi AI izračun</value>
+  </data>
+  <data name="New services can use shared deployment, management and operational practices rather than introducing another environment and maintenance owner." xml:space="preserve">
+    <value>Novi servisi mogu koristiti zajedničke prakse postavljanja, upravljanja i operativnog održavanja umjesto uvodjenja novog okruženja i vlasnika održavanja.</value>
+  </data>
+  <data name="On this page" xml:space="preserve">
+    <value>Na ovoj stranici</value>
+  </data>
+  <data name="One shared platform" xml:space="preserve">
+    <value>Jedna zajednička platforma</value>
+  </data>
+  <data name="Operations" xml:space="preserve">
+    <value>Operativne djelatnosti</value>
+  </data>
+  <data name="Operations are easier to understand. Service status and essential records are managed from a unified perspective, supporting faster diagnosis, security auditing and future analysis. Rather than contacting several suppliers to identify where a problem belongs, ChopInsight has a clearer view of the environment it operates." xml:space="preserve">
+    <value>Operacije su lakše za razumijevanje. Status usluga i ključni zapisi upravljaju se iz jedinstvene perspektive, što podržava bržu dijagnostiku, sigurnosno revizije i buduće analize. Umjesto da kontaktirate više dobavljača kako biste utvrdili gdje problem pripada, ChopInsight ima jasniji uvid u okruženje u kojem operira.</value>
+  </data>
+  <data name="Operations standardised" xml:space="preserve">
+    <value>Standardizirane operacije</value>
+  </data>
+  <data name="Platform architecture overview" xml:space="preserve">
+    <value>Pregled arhitekture platforme</value>
+  </data>
+  <data name="Previously, one server would often be associated with one application. Under the new model, servers became computing resources within a shared platform while applications were managed independently of individual machines. Existing capacity could be reused more effectively, workloads could share resources with appropriate separation, and validated new hardware could join the same management model." xml:space="preserve">
+    <value>Prije je jedan poslužitelj često bio povezan s jednom aplikacijom. U novom modelu poslužitelji su postali računalni resursi unutar zajedničke platforme, dok su se aplikacije upravljale neovisno o pojedinim strojevima. Postojeći kapaciteti mogli su se učinkovitije ponovno iskoristiti, radna opterećenja mogla su dijeliti resurse uz odgovarajuću odvojnost, a validirani novi hardver mogao se pridružiti istom modelu upravljanja.</value>
+  </data>
+  <data name="Real estate finance and alternative investments" xml:space="preserve">
+    <value>Financiranje nekretnina i alternativna ulaganja</value>
+  </data>
+  <data name="Repeatable delivery and operational visibility" xml:space="preserve">
+    <value>Ponovljiva isporuka i operativna uvidljivost</value>
+  </data>
+  <data name="Research collaboration on the same foundation" xml:space="preserve">
+    <value>Istraživačka suradnja na istoj osnovi</value>
+  </data>
+  <data name="Resource planning, hardware adaptation and software delivery now form one solution, balancing AI performance with stability and cost." xml:space="preserve">
+    <value>Planiranje resursa, prilagodbe hardvera i isporuka softvera sada čine jedno rješenje, balansirajući AI performanse s stabilnošću i troškovima.</value>
+  </data>
+  <data name="Several traditional rack servers operated alongside public cloud and externally hosted resources. Acquired at different times, from different sources and for different purposes, they had never been designed or managed as a single environment." xml:space="preserve">
+    <value>Nekoliko tradicionalnih poličnih poslužitelja radilo je uz javni cloud i vanjski hostani resursi. Stječeni u različitim vremenima, iz različitih izvora i za različite svrhe, nikada nisu bili projektirani niti upravljeni kao jedinstveno okruženje.</value>
+  </data>
+  <data name="Shanghai ChopInsight Intelligent Technology Co., Ltd. specialises in real estate finance and alternative investments. It provides integrated primary- and secondary-market research services for participants across REITs, private real estate funds, Pre-REITs, holding-type ABS, public REIT issuance and asset management, insurance and insurance asset management." xml:space="preserve">
+    <value>Shanghai ChopInsight Intelligent Technology Co., Ltd. specijalizirana je za financiranje nekretnina i alternativna ulaganja. Pruža integrirane usluge istraživanja primarnog i sekundarnog tržišta sudionicima u REIT-ovima, privatnim fondovima za nekretnine, Pre-REIT-ovima, ABS-ovima tipa holdinga, javnom izdavanju REIT-ova i upravljanju imovinom, osiguranju i upravljanju osiguravajućom imovinom.</value>
+  </data>
+  <data name="Shared foundation" xml:space="preserve">
+    <value>Zajednička temeljna platforma</value>
+  </data>
+  <data name="Source code, version management and delivery workflows moved into a common platform. Development, validation, release and rollback now follow a repeatable process, while configuration and change history are retained. Developers and AI agents can contribute without making production delivery depend on a sequence known only to one person." xml:space="preserve">
+    <value>Izvorni kod, upravljanje verzijama i radni tokovi isporuke premješteni su na zajedničku platformu. Razvoj, validacija, izdavanje i povlačenje sada slijede ponovljiv proces, dok se konfiguracija i povijest promjena zadržavaju. Razvojnici i AI agenti mogu doprinijeti bez toga da isporuka u produkcijsko okruženje ovisi o slijedu koji poznaje samo jedna osoba.</value>
+  </data>
+  <data name="Talk to Aiursoft" xml:space="preserve">
+    <value>Razgovarajte s Aiursoftom</value>
+  </data>
+  <data name="The challenge" xml:space="preserve">
+    <value>Izazov</value>
+  </data>
+  <data name="The organisation" xml:space="preserve">
+    <value>Organizacija</value>
+  </data>
+  <data name="The project was more than a server migration. It changed how ChopInsight builds, operates and expands its business systems." xml:space="preserve">
+    <value>Projekt je bio više od migracije poslužitelja. Promijenio je način na koji ChopInsight razvija, vodi i širi svoje poslovne sustave.</value>
+  </data>
+  <data name="The results" xml:space="preserve">
+    <value>Rezultati</value>
+  </data>
+  <data name="The solution" xml:space="preserve">
+    <value>Rješenje</value>
+  </data>
+  <data name="This fragmentation affected day-to-day work. Diagnosing a problem depended heavily on individual experience. Upgrades and migrations often required the original supplier. Some environments became harder to maintain over time, and expanding capacity could mean purchasing more equipment and repeating the same deployment work. When external operations staff changed, valuable knowledge could leave with them." xml:space="preserve">
+    <value>Ta fragmentacija utjecala je na svakodnevni rad. Dijagnostika problema uvelike je ovisila o individualnom iskustvu. Nadogradnje i migracije često su zahtijevale uključivanje izvornog dobavljača. Neke su okruženje s vremenom postajale teže održavati, a proširenje kapaciteta moglo je značiti kupnju dodatne opreme i ponavljanje istog posla razvoja. Kada se vanjsko operativno osoblje mijenjalo, vrijedno znanje moglo je otići s njima.</value>
+  </data>
+  <data name="This separation gave ChopInsight a more flexible foundation. New services no longer had to begin with a standalone environment. Runtime status and upgrades could be managed centrally, and replacing one machine no longer had to become an application-specific infrastructure project." xml:space="preserve">
+    <value>Ova odvojena struktura dala je ChopInsightu fleksibilniju temeljnu platformu. Novim uslugama više nije bilo potrebno počinjati s okruženjem zasebno. Status tijekom izvođenja i nadogradnje mogli su se upravljati centralno, a zamjena jednog stroja više nije morala postati infrastrukturni projekt specifičan za jednu aplikaciju.</value>
+  </data>
+  <data name="Turn fragmented infrastructure into a foundation for growth." xml:space="preserve">
+    <value>Pretvorite fragmentiranu infrastrukturu u temelj za rast.</value>
+  </data>
+  <data name="Unified identity and access" xml:space="preserve">
+    <value>Ujednačeni identitet i pristup</value>
+  </data>
+  <data name="Unified. Stable. Scalable. Governable." xml:space="preserve">
+    <value>Ujedinjeno. Stabilno. Skalabilno. Upraviteljno.</value>
+  </data>
+  <data name="Visit ChopInsight" xml:space="preserve">
+    <value>Posjetite ChopInsight</value>
+  </data>
+  <data name="With suitably adapted local computing resources in place, Aiursoft established a unified entry point for AI services. Users and applications could access model capabilities through consistent rules, while permissions, credentials, usage and service health could be managed centrally." xml:space="preserve">
+    <value>Nakon postavljanja prikladno prilagođenih lokalnih računalnih resursa, Aiursoft uspostavio je jedinstvenu točku ulaza za usluge umjetne inteligencije. Korisnici i aplikacije mogli su pristupiti mogućnostima modela kroz dosljedna pravila, dok su dopuštenja, vjerodajnice, korištenje i status usluga mogli se upravljanje središnje.</value>
+  </data>
+
+</root>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="About Aiursoft" xml:space="preserve">
+    <value>O Aiursoftu</value>
+  </data>
+  <data name="Address" xml:space="preserve">
+    <value>Adresa</value>
+  </data>
+  <data name="Aiursoft is built to last a century. We are just getting started. Every decision we make serves a blueprint measured in decades, not quarters. We resist the urge to chase short-term hype or fleeting trends. Our choices are deliberate, steady, and patient — because the work that truly matters takes time, and we intend to be here for all of it." xml:space="preserve">
+    <value>Aiursoft je izgrađen da potraje stoljeće. Tek počinjemo. Svaka odluka koju donosimo služi nacrtu mjerenoj u desetljećima, a ne u kvartalima. Otprećujemo se želji da jurišamo za kratkoročnim buzzom ili prolaznim trendovima. Naše su odluke namjerne, stabilne i strpljive — jer posao koji zaista ima značenja zahtijeva vrijeme, a mi namjeravamo biti ovdje za sve to.</value>
+  </data>
+  <data name="Aiursoft is dedicated to bringing the spirit of open-source and free software to every enterprise and individual." xml:space="preserve">
+    <value>Aiursoft je posvećen donosenju duha otvorenog izvora i besplatnog softvera svakom poduzeću i pojedincu.</value>
+  </data>
+  <data name="Aiursoft&apos;s story is closely linked to the communities that shape us, including the global community of open source contributors and enthusiasts who are part of our team. Since 2025, we have built an operating system called AnduinOS — designed to be clean, simple, and accessible to everyone." xml:space="preserve">
+    <value>Priča o Aiursoftu je usko povezana s zajednicama koje nas oblikuju, uključujući i globalnu zajednicu doprinositelja i entuzijasta otvorenog koda koji su dio našeg tima. Od 2025. godine izgradili smo operativni sustav nazvan AnduinOS — osmišljen da bude čist, jednostavan i dostupan svima.</value>
+  </data>
+  <data name="Being busy is not the same as creating value. We expect our people to think strategically about what moves the needle — for our users, for the open-source community, and for the team. Prioritization is a skill we value as much as technical ability." xml:space="preserve">
+    <value>Baviti se poslom nije isto što i stvarati vrijednost. Očekujemo od naših ljudi da strateški razmišljaju o onome što donosi stvarne rezultate — za naše korisnike, za zajednicu otvorenog koda i za tim. Prioritizacija je vještina koju cijenimo jednako kao i tehničke sposobnosti.</value>
+  </data>
+  <data name="Branch" xml:space="preserve">
+    <value>Podružnica</value>
+  </data>
+  <data name="Chapter 1" xml:space="preserve">
+    <value>Poglavlje 1</value>
+  </data>
+  <data name="Clear documentation and thoughtful records are how great teams scale. We expect everyone to capture their decisions, share their learnings, and make their work visible. Good documentation compounds over time into institutional knowledge that benefits the entire team." xml:space="preserve">
+    <value>Jasna dokumentacija i promišljeni zapisi način su na koji izvrsna timska rastu. Očekujemo od svih da zabilježe svoje odluke, podijele svoja učenja i učine svoj rad vidljivim. Dobra dokumentacija s vremenom se pretvara u institucionalno znanje koje koristi cijelom timu.</value>
+  </data>
+  <data name="Contact" xml:space="preserve">
+    <value>Kontakt</value>
+  </data>
+  <data name="Contact us" xml:space="preserve">
+    <value>Kontaktirajte nas</value>
+  </data>
+  <data name="Director" xml:space="preserve">
+    <value>Direktor</value>
+  </data>
+  <data name="Document Your Work and Achievements" xml:space="preserve">
+    <value>Dokumentirajte svoj rad i postignuća</value>
+  </data>
+  <data name="Entity Code" xml:space="preserve">
+    <value>Kod entiteta</value>
+  </data>
+  <data name="Focus on Impact, Not Just Effort" xml:space="preserve">
+    <value>Fokusirajte se na utjecaj, a ne samo na trud</value>
+  </data>
+  <data name="Follow us" xml:space="preserve">
+    <value>Pratite nas</value>
+  </data>
+  <data name="For every team member, personal growth comes first — above profit, above deadlines. We design work so that it is accessible without deep prior familiarity: the best learning happens through hands-on exploration, not prerequisites. We value playfulness and genuine curiosity — the kind that makes you lose track of time. When our people grow, the company grows as a natural consequence, not the other way around." xml:space="preserve">
+    <value>Za svakog člana tima osobni rast je na prvom mjestu — iznad profita, iznad rokova. Osmišljavamo posao tako da bude dostupan bez dubokog prethodnog znanja: najbolje učenje događa se kroz praktično istraživanje, a ne kroz preduvjetne znanja. Cijenimo igrivost i pravo znatiželju — onu koja vas natjera da izgubite osjećaj za vrijeme. Kada se naši ljudi razvijaju, tvrtka raste kao prirodna posljedica, a ne obrnuto.</value>
+  </data>
+  <data name="Freedom" xml:space="preserve">
+    <value>Sloboda</value>
+  </data>
+  <data name="Growth" xml:space="preserve">
+    <value>Rast</value>
+  </data>
+  <data name="Headquarters — Hong Kong" xml:space="preserve">
+    <value>Sjedište — Hong Kong</value>
+  </data>
+  <data name="Learning is at the core of everything we do. Technology evolves rapidly, and we expect every team member to stay curious, explore new ideas, and grow alongside the tools we build. We invest in your growth because your growth is our growth." xml:space="preserve">
+    <value>Učenje je u srcu svega što radimo. Tehnologija se brzo razvija, a od svakog člana tima očekujemo da ostane znatiželjan, istražuje nove ideje i raste zajedno s alatima koje gradimo. Ulazimo u vaš razvoj jer je vaš rast naš rast.</value>
+  </data>
+  <data name="Legal Representative" xml:space="preserve">
+    <value>Pravni zastupnik</value>
+  </data>
+  <data name="Long-term" xml:space="preserve">
+    <value>Dugoročno</value>
+  </data>
+  <data name="Never Stop Learning" xml:space="preserve">
+    <value>Nikad prestanite učiti</value>
+  </data>
+  <data name="Our Culture" xml:space="preserve">
+    <value>Naša kultura</value>
+  </data>
+  <data name="Registered Address" xml:space="preserve">
+    <value>Registrirana adresa</value>
+  </data>
+  <data name="Tel" xml:space="preserve">
+    <value>Tel.</value>
+  </data>
+  <data name="We look for teammates who share our commitment to craftsmanship and continuous improvement." xml:space="preserve">
+    <value>Tražimo sučlanke koji dijele našu predanost majstorstvu i kontinuiranom usavršavanju.</value>
+  </data>
+  <data name="We open-source everything we build. We reject vendor lock-in and ecosystem entrapment. We respect open standards, champion offline-first operation, and believe every right to the code belongs to the customer and the device owner. We build nothing that stands between software users and their freedom to tinker — no barriers, no gatekeeping, no artificial constraints on what a hacker or user can do with the tools we create." xml:space="preserve">
+    <value>Sve što izrađujemo stavljamo pod otvoreni izvor. Odbacujemo vezanje za dobavljača i zarobljavanje u ekosustavu. Poštujemo otvorene standarde, zagovaramo rad s prioritetom na offline način i vjerujemo da sva prava nad kodom pripadaju kupcu i vlasniku uređaja. Ne izrađujemo ništa što stoji između korisnika softvera i njihove slobode da eksperimentiraju — nema barijera, nema kontroliranja pristupa, nema umjetnih ograničenja u tome što haker ili korisnik može učiniti s alatima koje stvaramo.</value>
+  </data>
+  <data name="What We Expect from Our People" xml:space="preserve">
+    <value>Što očekujemo od naših ljudi</value>
+  </data>
+  <data name="Where to find us" xml:space="preserve">
+    <value>Gdje nas naći</value>
+  </data>
+  <data name="苏州艾软科技有限公司" xml:space="preserve">
+    <value>Suzhou Aiursoft Technology Co., Ltd.</value>
+  </data>
+
+</root>
